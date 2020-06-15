@@ -44,6 +44,26 @@ collections:
     output: true
     permalink: /phenotypes/:name
 
+algolia:
+  application_id: 'IXFI6M2LKK'
+  index_name: phenotypes
+  search_only_api_key: d8ba6b6a391cf5b4074fbd3191b77c37
+  settings:
+    searchableAttributes:
+      - title
+      - phenotype_id
+      - content
+      - collection,categories,tags
+      - type
+      - group
+      - clinical_terminologies
+  files_to_exclude:
+    - index.md
+    - README.md
+    - phenotypes.md
+    - assets/*
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
