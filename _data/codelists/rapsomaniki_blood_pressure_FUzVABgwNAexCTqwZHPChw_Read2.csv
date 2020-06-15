@@ -1,0 +1,68 @@
+﻿Read code,Read term,CALIBER category
+246..00,O/E - blood pressure reading,Ordinary blood pressure measurement
+246..11,O/E - BP reading,Ordinary blood pressure measurement
+246..12,O/E - blood pressure,Ordinary blood pressure measurement
+2460,O/E - BP unrecordable,Ordinary blood pressure measurement
+2461,O/E - BP reading very low,Ordinary blood pressure measurement
+2462,O/E - BP reading low,Ordinary blood pressure measurement
+2463,O/E - BP borderline low,Ordinary blood pressure measurement
+2464,O/E - BP reading normal,Ordinary blood pressure measurement
+2465,O/E - BP borderline raised,Ordinary blood pressure measurement
+2466,O/E - BP reading raised,Ordinary blood pressure measurement
+2467,O/E - BP reading very high,Ordinary blood pressure measurement
+2468,O/E - BP reading:postural drop,Ordinary blood pressure measurement
+2469,O/E - Systolic BP reading,Ordinary blood pressure measurement
+246A.00,O/E - Diastolic BP reading,Ordinary blood pressure measurement
+246B.00,O/E - BP stable,Ordinary blood pressure measurement
+246C.00,Lying blood pressure reading,Ordinary blood pressure measurement
+246D.00,Standing blood pressure reading,Ordinary blood pressure measurement
+246E.00,Sitting blood pressure reading,Ordinary blood pressure measurement
+246F.00,O/E - blood pressure decreased,Ordinary blood pressure measurement
+246G.00,O/E - BP labile,Ordinary blood pressure measurement
+246J.00,O/E - BP reading: no postural drop,Ordinary blood pressure measurement
+246N.00,Standing systolic blood pressure,Ordinary blood pressure measurement
+246P.00,Standing diastolic blood pressure,Ordinary blood pressure measurement
+246Q.00,Sitting systolic blood pressure,Ordinary blood pressure measurement
+246R.00,Sitting diastolic blood pressure,Ordinary blood pressure measurement
+246S.00,Lying systolic blood pressure,Ordinary blood pressure measurement
+246T.00,Lying diastolic blood pressure,Ordinary blood pressure measurement
+246Z.00,O/E-blood pressure reading NOS,Ordinary blood pressure measurement
+6623,Pre-treatment BP reading,Ordinary blood pressure measurement
+662B.00,O/E - initial high BP,Ordinary blood pressure measurement
+662C.00,O/E - check high BP,Ordinary blood pressure measurement
+662Q.00,Borderline blood pressure,Ordinary blood pressure measurement
+662V.00,Blood pressure monitoring,Ordinary blood pressure measurement
+68B1.00,Hypertension screen,Ordinary blood pressure measurement
+9OD..11,BP screen administration,Ordinary blood pressure measurement
+9OD..12,Blood pressure screen admin,Ordinary blood pressure measurement
+9OD1.00,BP screen - 1st call,Ordinary blood pressure measurement
+9OD2.00,BP screen - 2nd call,Ordinary blood pressure measurement
+9OD3.00,BP screen - 3rd call,Ordinary blood pressure measurement
+9OD5.00,BP screen - 1st recall,Ordinary blood pressure measurement
+9OD6.00,BP screen - 2nd recall,Ordinary blood pressure measurement
+9OD7.00,BP screen - 3rd recall,Ordinary blood pressure measurement
+9OD9.00,BP ABNORMAL - 1st recall,Ordinary blood pressure measurement
+9ODA.00,BP ABNORMAL - 2nd recall,Ordinary blood pressure measurement
+9ODB.00,BP ABNORMAL - 3rd recall,Ordinary blood pressure measurement
+G2...11,BP - hypertensive disease,Ordinary blood pressure measurement
+G20..11,High blood pressure,Ordinary blood pressure measurement
+R1y2.00,[D]Raised blood pressure reading,Ordinary blood pressure measurement
+R1y3.00,[D]Low blood pressure reading,Ordinary blood pressure measurement
+R1y4.00,[D]BP reading labile,Ordinary blood pressure measurement
+ZV70B00,[V]Examination of blood pressure,Ordinary blood pressure measurement
+246c.00,Average home diastolic blood pressure,Home blood pressure measurement
+246d.00,Average home systolic blood pressure,Home blood pressure measurement
+246g.00,Self measured blood pressure reading,Home blood pressure measurement
+662j.00,Blood pressure recorded by patient at home,Home blood pressure measurement
+246V.00,Average 24 hour diastolic blood pressure,Ambulatory blood pressure measurement
+246W.00,Average 24 hour systolic blood pressure,Ambulatory blood pressure measurement
+246X.00,Average day interval diastolic blood pressure,Ambulatory blood pressure measurement
+246Y.00,Average day interval systolic blood pressure,Ambulatory blood pressure measurement
+246a.00,Average night interval diastolic blood pressure,Ambulatory blood pressure measurement
+246b.00,Average night interval systolic blood pressure,Ambulatory blood pressure measurement
+246e.00,Ambulatory systolic blood pressure,Ambulatory blood pressure measurement
+246f.00,Ambulatory diastolic blood pressure,Ambulatory blood pressure measurement
+315B.00,Ambulatory blood pressure recording,Ambulatory blood pressure measurement
+662L.00,24 hr blood pressure monitoring,Ambulatory blood pressure measurement
+246K.00,Target systolic blood pressure,Target blood pressure measurement
+246L.00,Target diastolic blood pressure,Target blood pressure measurement

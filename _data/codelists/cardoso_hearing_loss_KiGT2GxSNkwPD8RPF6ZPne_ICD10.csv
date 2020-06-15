@@ -1,0 +1,35 @@
+﻿ICD10code,ICD10codeDescr
+,
+H90,Conductive and sensorineural hearing loss
+,
+H90.0,"Conductive hearing loss, bilateral"
+,
+H90.1,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side"
+,
+H90.2,"Conductive hearing loss, unspecified"
+,
+H90.3,"Sensorineural hearing loss, bilateral"
+,
+H90.4,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side"
+,
+H90.5,"Sensorineural hearing loss, unspecified"
+,
+H90.6,"Mixed conductive and sensorineural hearing loss, bilateral"
+,
+H90.7,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side"
+,
+H90.8,"Mixed conductive and sensorineural hearing loss, unspecified"
+,
+H91,Other hearing loss
+,
+H91.0,Ototoxic hearing loss
+,
+H91.1,Presbycusis
+,
+H91.2,Sudden idiopathic hearing loss
+,
+H91.3,"Deaf mutism, not elsewhere classified"
+,
+H91.8,Other specified hearing loss
+,
+H91.9,"Hearing loss, unspecified"

@@ -1,0 +1,17 @@
+﻿Read code,Read term,CALIBER category
+42H..00,Total white cell count,Total blood white cell count
+42H..11,White blood count,Total blood white cell count
+42H..12,White cell count,Total blood white cell count
+42H1.00,White cell count normal,Total blood white cell count
+42H2.00,Leucopenia - low white count,Total blood white cell count
+42H2.11,Leucopenia,Total blood white cell count
+42H3.00,Leucocytosis -high white count,Total blood white cell count
+42H3.11,Leucocytosis,Total blood white cell count
+42H5.00,White cell count abnormal,Total blood white cell count
+42H7.00,Total white blood count,Total blood white cell count
+42H8.00,Total WBC (IMM),Total blood white cell count
+42HZ.00,Total white cell count NOS,Total blood white cell count
+D400A00,Leucopenia,Total blood white cell count
+D40y.11,Leucocytosis,Total blood white cell count
+D40y.12,Leukocytosis,Total blood white cell count
+D40yz11,Leucocytosis,Total blood white cell count

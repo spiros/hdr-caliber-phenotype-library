@@ -1,0 +1,20 @@
+Disease,Readcode,Medcode,ReadcodeDescr,Category
+Iron deficiency anaemia,D000.00,27726,Iron deficiency anaemia due to chronic blood loss,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D000.11,6816,Normocytic anaemia due to chronic blood loss,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D000.12,48338,Iron deficiency anaemia due to blood loss,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D001.00,21127,Iron deficiency anaemia due to dietary causes,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00..00,795,Iron deficiency anaemias,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00y000,55478,Sideropenic dysphagia,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00y011,36965,Kelly-Paterson syndrome,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00y012,35199,Plummer-Vinson syndrome,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00y.00,33420,Other specified iron deficiency anaemia,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00y.11,31347,Kelly - Paterson syndrome,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00y.12,20123,Plummer - Vinson syndrome,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00yz00,9537,Other specified iron deficiency anaemia NOS,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00z000,19951,Achlorhydric anaemia,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00z100,57954,Chlorotic anaemia,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00z.00,18137,Unspecified iron deficiency anaemia,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D00zz00,15439,Iron deficiency anaemia NOS,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D0...11,94528,Asiderotic anaemia,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,D0...12,19383,Sideropenic anaemia,Diagnosis of Iron deficiency anaemia
+Iron deficiency anaemia,Dyu0000,4858,[X]Other iron deficiency anaemias,Diagnosis of Iron deficiency anaemia

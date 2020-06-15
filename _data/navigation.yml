@@ -1,0 +1,13 @@
+- title: About
+  url: /about
+- title: Phenotypes
+  url: #
+  sublinks:
+  - title: Disease or Syndrome
+    url: /disease-or-syndrome
+  - title: Biomarkers
+    url: /biomarkers
+  - title: Lifestyle Risk Factors
+    url: /lifestyle-risk-factors
+- title: Search
+  url: /search

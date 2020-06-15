@@ -1,0 +1,11 @@
+﻿Read code,Read term,CALIBER category
+42M..00,Lymphocyte count,Lymphocyte count
+42M1.00,Lymphocyte count normal,Lymphocyte count
+42M2.00,Lymphocytosis - absolute,Lymphocyte count
+42M3.00,Lymphocytosis - relative,Lymphocyte count
+42M4.00,Abnormal lymphocytes,Lymphocyte count
+42M5.00,Lymphocyte count abnormal,Lymphocyte count
+42M8.00,Total lymphocyte count (IMM),Lymphocyte count
+42MZ.00,Lymphocyte count NOS,Lymphocyte count
+D40y000,Lymphocytosis,Lymphocyte count
+D40y300,Lymphopenia,Lymphocyte count

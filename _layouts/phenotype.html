@@ -1,0 +1,122 @@
+---
+layout: post
+---
+<h3 id="metadata">Metadata</h3>
+<table>
+    <thead>
+        <tr>
+            <td><strong>Name</strong></td>
+            <td>{{ page.name }}</td>
+        </tr>
+    </thead>
+    <tbody>
+
+    <tr>
+        <td><strong>Type</strong></td>
+        <td>{{ page.type }}</td>
+    </tr>
+
+    <tr>
+        <td><strong>Group</strong></td>
+        <td>{{ page.group }}</td>
+    </tr>
+    
+    <tr>
+        <td>
+        <strong>Data Sources</strong></td>
+        <td>
+            {% for ds in page.data_sources %}
+                {% assign data_source = site.data.data_sources[ds] %}
+                <button type="button" class="btn btn-sm">
+                {% if data_source %}
+                    <a href="{{ data_source.url }}">{{ data_source.name }}</a>
+                {% else %}
+                    {{ ds }}
+                {% endif %}
+                </button>
+                <br>
+            {% endfor %}
+        </td>
+    </tr>
+
+    <tr>
+        <td><strong>Clinical Terminologies</strong></td>
+        <td>
+            {% for tr in page.clinical_terminologies %}
+            {{ tr }}<br>
+            {% endfor %}
+        </td>     
+    </tr>
+
+    <tr>
+        <td><strong>Codelists</strong></td>
+        <td>
+            {% for codelist in page.codelists %}
+                {% if codelist contains 'Read2' %}
+                    <button type="button" class="btn btn-sm">
+                        <a href="/codelists/{{codelist}}">Read2</a>
+                    </button>                    
+                {% elsif codelist contains 'ICD10' %}
+                    <button type="button" class="btn btn-sm">
+                        <a href="/codelists/{{codelist}}">ICD-10</a>
+                    </button>                    
+                {% elsif codelist contains 'OPCS4' %}
+                    <button type="button" class="btn btn-sm">
+                        <a href="/codelists/{{codelist}}">OPCS-4</a>
+                    </button>                    
+                {% elsif codelist contains 'SNOMEDCT' %}
+                    <button type="button" class="btn btn-sm">
+                        <a href="/codelists/{{codelist}}">SNOMED-CT UK Version</a>
+                    </button>                    
+                {% elsif codelist contains 'BNF' %}
+                <button type="button" class="btn btn-sm">
+                    <a href="/codelists/{{codelist}}">British National Formulary</a>
+                </button>                    
+            {% endif %}          
+
+            {% endfor %}       
+        </td>
+    </tr>
+
+    <tr>
+        <td><strong>Validation</strong></td>
+        <td>
+            {% for v in page.validation %}
+            {{ v }}<br>
+            {% endfor %}
+        </td>      
+    </tr>
+    
+    <tr>
+        <td><strong>Valid Event Data Range</strong></td>
+        <td>{{ page.valid_event_data_range }}</td>
+    </tr>
+    
+    <tr>
+        <td><strong>Sex</strong></td>
+        <td>
+            {% for s in page.sex %}{{ s }}<br>{% endfor %}
+        </td>
+    </tr>
+    
+    <tr>
+        <td><strong>Authors</strong></td>
+        <td>{{ page.author | join: ", "}}</td>
+    </tr>
+    
+    {%- assign date_format = site.minima.date_format | default: "%-d %b %Y" -%}
+    
+    <tr>
+        <td><strong>Agreement Date</strong></td>
+        <td>{{ page.date | date: date_format }}</td>
+    </tr>
+    
+    <tr>
+        <td><strong>Version (UUID)</strong></td>
+        <td>{{ page.version }} ({{ page.phenotype_id }})</td>
+    </tr>
+    
+</tbody>
+</table>
+<hr>
+{{ content }}

@@ -1,0 +1,23 @@
+{% if include.collection.size > 0 %}
+<ul class="nav nav-list level-{{ include.level }}">
+    {% for item in include.collection %}
+      {% if item.url == page.url %}
+      <li class="active">
+      {% else %}
+      <li>
+      {% endif %}
+        {% if item.subnav.size > 0 %}
+          <a class="has-subnav" href="{{ item.url }}">
+          <span class="glyphicon glyphicon-plus"></span>
+          <span class="glyphicon glyphicon-minus"></span>
+        {% else %}
+          <a href="{{ item.url }}">
+        {% endif %}
+          {{ item.title }}
+        </a>
+        {% assign next_level = include.level | plus: 1 %}
+        {% include navigation_item.html collection=item.children level=next_level %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

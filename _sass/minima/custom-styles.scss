@@ -1,0 +1,704 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// Overwrite site title and header size
+
+.site-title {
+  @include relative-font-size(2.2);
+  font-weight: 600;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+
+  @include media-query($on-palm) {
+    padding-right: 45px;
+  }
+
+  &,
+  &:visited {
+    color: $color-light;
+  }
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.site-header {
+  line-height: 100px;
+}
+
+
+// Cannibalized from Bootstrap
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  border: 1px solid transparent;
+}
+
+// Cannibalized from HDR Health Data Gateway
+.text-color-medium {
+  color: #3db28c;
+}
+
+.text-size-xxlarge {
+  font-size: 32px;
+}
+
+.col-sm-1 {
+  flex: 0 0 8.33333%;
+  max-width: 8.33333%;
+}
+
+.col-sm-2 {
+  flex: 0 0 16.66667%;
+  max-width: 16.66667%;
+}
+
+.col-sm-99 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+
+.text-style-center {
+  text-align: center;
+}
+
+.mt-4 {
+  margin-top: 1.5rem!important;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 100%;
+}
+
+hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+
+// 
+
+h2 {
+  &, h1 {
+    font-size: $base-h2-size;
+    font-weight: bold;
+    color: $color-sea-green;
+  }
+
+  a.post-link {
+
+
+    &, &:hover {
+      color: $color-sea-green;
+      text-decoration: none;
+    }
+  }
+}
+
+.post-content h1, .post-content h2, .post-content h3 {
+  margin-top: 1rem;
+}
+
+h3 {
+  font-weight: bold;
+  color: $color-dark-blue;
+}
+
+/**
+ * Custom Navbar
+ */
+
+#navbar {
+  position: absolute;
+  top: 43px;
+  right: $spacing-unit / 2;
+  border-radius: 5px;
+  text-align: right;
+
+  .nav {
+    li {
+      display: block;
+
+      @media screen and (min-width: $on-medium) {
+        display: inline-block;
+        position: relative;
+      }
+
+      a {
+        @include relative-font-size(1.25);
+        color: $color-dark-blue;
+          line-height: $base-line-height;
+          display: block;
+          padding: 5px 10px;
+          text-transform: uppercase;
+          font-weight: bold;
+          border-bottom: 3px solid transparent;
+
+            // Gaps between nav items, but not on the last one
+          &::last-child {
+            margin-right: 0;
+          }
+          margin: 0 10px;
+          &:hover {
+            text-decoration: none;
+            border-bottom: 3px solid $color-orange;
+          }
+          @media screen and (min-width: $on-medium) {
+            color: $color-light;
+          }
+      }
+      &.active {
+        a {
+          border-bottom: 3px solid $color-orange;
+        }
+      }
+
+      &.dropdown:hover {
+        background-color: $color-light;
+        > a {
+          color: $color-dark-blue;
+          pointer-events: none;
+        }
+      }
+
+
+      .dropdown-menu {
+        display: none;
+        float: left;
+          padding: .5rem 0;
+          margin: -.25rem 0 0;
+          font-size: 1rem;
+          color: #212529;
+          text-align: left;
+          list-style: none;
+          background-color: #fff;
+          background-clip: padding-box;
+          -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16);
+          -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16), 0 0px 8px rgba(0, 0, 0, 0.23);
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16);
+          z-index: 1;
+
+          @media screen and (max-width: $on-medium) {
+            display: block;
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+            box-shadow: none;
+            text-align: right;
+          }
+
+          li {
+            display: block;
+
+            a {
+              color: $color-grey;
+              margin-left: 0;
+              @include relative-font-size(1);
+              border: 0;
+              text-transform: none;
+              line-height: 1.2;
+            }
+            &:hover {
+              background-color: $color-dark-blue;
+
+              a {
+                color: $color-light;
+                border: 0;
+              }
+            }
+          }
+
+      }
+
+      &.dropdown:hover .dropdown-menu {
+        display: block;
+        position: absolute;
+      }
+    }
+
+  }
+
+  .nav-trigger {
+      display: none;
+    }
+
+  .menu-icon {
+  float: right;
+  width: 36px;
+  height: 26px;
+  line-height: 0;
+  padding-top: 10px;
+  text-align: center;
+
+  > svg path {
+    fill: $color-light;
+  }
+  }
+
+  label[for="nav-trigger"] {
+  display: block;
+  float: right;
+  width: 36px;
+  height: 36px;
+  z-index: 2;
+  cursor: pointer;
+  }
+
+  input ~ .trigger {
+  clear: both;
+  display: none;
+  background-color: $color-light;
+  @media screen and (min-width: $on-medium) {
+    background-color: transparent;
+  }
+  }
+
+  input:checked ~ .trigger {
+  display: block;
+  padding-bottom: 5px;
+  }
+
+  @media screen and (min-width: $on-medium) {
+    position: static;
+    float: right;
+    border: none;
+    background-color: inherit;
+
+    label[for="nav-trigger"] {
+      display: none;
+    }
+
+    .menu-icon {
+      display: none;
+    }
+
+    input ~ .trigger {
+      display: block;
+    }
+
+    .page-link {
+      display: inline;
+      padding: 0;
+
+      &:not(:last-child) {
+        margin-right: 20px;
+      }
+      margin-left: auto;
+    }
+  }
+}
+
+
+
+.post-toc {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  @include relative-font-size(1);
+  background-color: $color-dark-blue;
+  padding: 0px;
+
+  @include media-query($on-medium) {
+    flex-wrap: wrap;
+  }
+
+  > li {
+    display: inline-block;
+    padding: 10px;
+    border-bottom: 3px solid transparent;
+    flex-grow: 1;
+
+    ul {
+      display: none;
+    }
+    a, a:visited {
+        color: $color-light;
+    }
+    &:hover {
+      background-color: $color-light-bgr;
+      border-bottom: 3px solid $color-blue;
+      cursor: pointer;
+
+      a, a:hover {
+        color: $color-dark-blue;
+        text-decoration: none;
+      }
+    }
+    &.current {
+      background-color: $color-light-bgr;
+      border-bottom: 3px solid $color-blue;
+      a, a:hover {
+        color: $color-dark-blue;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+
+/**
+ * Panels
+ */
+.panel {
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16);
+  -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16), 0 0px 8px rgba(0, 0, 0, 0.23);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16);
+  
+  margin-bottom: 3rem;
+
+  &:first-of-type {
+    margin-top: 3rem;
+  }
+  &:last-of-type {
+    margin-bottom: 1rem;
+  }
+}
+
+.ais-hits--item {
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16);
+  -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16), 0 0px 8px rgba(0, 0, 0, 0.23);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16);
+  margin-bottom: 1rem;
+  padding: 0.625rem;
+
+  .post-meta, .post-breadcrumb {
+    color: $color-grey;
+  }
+
+  .post-snippet .ais-Highlight {
+    color: $color-blue;
+  }
+ }
+
+
+.table-title {
+  background-color: $color-light-bgr;
+  margin: 0;
+  padding: 10px 64px;
+}
+
+.btn-p {
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+a.btn {
+  background-color: $color-orange;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: $color-dark-blue;
+  padding: 15px 30px;
+  -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+  display: inline-block;
+  transition: all 0.4s;
+
+  &:hover {
+    background-color: darken($color-orange, 10%);
+  }
+  &,&:hover {
+    text-decoration: none;
+  }
+}
+
+
+/* TAB COMPONENT - pure CSS */
+
+/* Style the overall container */
+#tabscontainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  position: relative;
+  margin: 30px 0 30px 0;
+  padding: 0;
+  max-width: 655px;
+}
+/* Set the font-family for all text within the #tabscontainer */
+#tabscontainer * {font-family: Trebuchet MS,Verdana,Helvetica,Arial;}
+/* Style the radio group that corresponds to the tabs */   
+#tabscontainer > [name="radiogroupfortabs"] {
+  position: absolute; 
+  visibility: hidden; 
+}
+/* Set Flexbox ordering of radio items within the #tabscontainer.  A unique rule has to be created for each tab. */
+#tabscontainer > #radiofortab1{-webkit-box-ordinal-group:2;-webkit-order:1;-ms-flex-order:1;order:1;}
+#tabscontainer > #radiofortab2{-webkit-box-ordinal-group:3;-webkit-order:2;-ms-flex-order:2;order:2;}
+#tabscontainer > #radiofortab3{-webkit-box-ordinal-group:4;-webkit-order:3;-ms-flex-order:3;order:3;}
+#tabscontainer > #radiofortab4{-webkit-box-ordinal-group:5;-webkit-order:4;-ms-flex-order:4;order:4;}
+/* Style all radio group LABELS (by class) to look like tabs.  The currently selected tab is re-styled by another rule near the end.  Could use the background-image attribute here instead of colors in order to give the tabs any appearance desired.  If doing this, then would have to create a separate rule for each tab. */
+#tabscontainer > [id^="tab-label"] {
+  position: relative;
+  top: 0px;
+  max-height: 18px;  
+  margin: 4px 2px 0 0;
+  display: inline-block;  
+  padding: 12px 21px;
+  border-radius: 5px 5px 0 0;
+  border-width: 1px 1px 1px 1px;
+  border-style: solid;
+  border-color: #000000;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background: #B0B0B0;
+  cursor: pointer;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+/* Style unselected tabs (INPUT element's label) when the pointer hovers over them.  Could use the background-image attribute here instead of colors in order to give the tab any appearance. */
+#tabscontainer > [id^="tab-label"]:hover {
+  background: #969696;  
+}
+/* Style all of the content DIVs including setting DISPLAY to None to start with.  The DIV corresponding to the currently selected tab is displayed by the rule near the end. */
+#tabscontainer > [id^="tab-content"] {
+    -webkit-box-ordinal-group: 999;
+    -webkit-order: 999;
+    -ms-flex-order: 999;
+    order: 999; /* Set to a high value - just has to be at least one more than the number of tabs */
+    display: none;    
+    z-index: 2;
+    top: 48px;
+    width: 100%;
+    min-height: 5em;
+    overflow: hidden;    
+    font-size: 14px;
+    border-width: 1px;
+    border-style: solid;
+    padding: 10px 25px 25px 25px;
+    background: #c9c9c9;
+    margin-top: -1px;
+    border-radius: 0 5px 5px 5px;
+}
+/* Style the currently selected tab (checked INPUT element's label) by first selecting the lone checked item from the radiogroup for the tabs and then select the label (by class) that follows the checked INPUT element (INPUT element within the named group - radiogroupfortabs) in order to apply the following effects to just the selected tab/label.  Could use the background-image attribute here instead of colors in order to give the tab any appearance. */
+#tabscontainer > [name="radiogroupfortabs"]:checked + [id^="tab-label"] {
+  z-index: 4;
+  margin-top: 0px;
+  padding-top: 16px;
+  background: #c9c9c9;
+  border-color: #000 #000 #c9c9c9 #000;
+}
+/* Display the content DIV that corresponds to the selected tab (because of the limitations of CSS selectors, this could not be done with a single rule.  A unique rule has to be created for each tab/tab content within the tab set.) */
+#tabscontainer > #radiofortab1:checked ~ #tab-content1{display: block;}
+#tabscontainer > #radiofortab2:checked ~ #tab-content2{display: block;}
+#tabscontainer > #radiofortab3:checked ~ #tab-content3{display: block;}
+#tabscontainer > #radiofortab4:checked ~ #tab-content4{display: block;}
+/* Style a container within the 4th tab to hold media items.  Could have also just put this styling directly on the tab-content4 div instead of creating the #mediacontainer div.  And, while the following are fully name-spaced for explanatory purposes, only the #mediacontainer item is actually needed as long as it is unique on the page. */
+#tabscontainer #tab-content4 #mediamatrix{
+display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+#tabscontainer #tab-content4 #mediamatrix .mediaitem {
+  min-width: 21%;
+  margin: 15px 0.9% 0;
+  padding: 5px;
+  border-radius: 10px; /* This and the following line placed here just to show where media items will be displayed */
+  background-color: #ddeeff;
+  text-align: center;
+}
+#tabscontainer #tab-content4 #mediamatrix .mediaitem .mediaitemthumb{
+  margin-bottom: 5px;
+  min-height: 50px;
+}
+#tabscontainer #tab-content4 #mediamatrix .mediaitem .mediaitemcaption{
+  min-height: 20px;
+}
+/* ----- END OF TAB COMPONENT ----- */
+
+
+.pc-tab > input,
+.pc-tab > div {
+  display: none;
+}
+
+#tab1:checked ~  .tab1,
+#tab2:checked ~  .tab2,
+#tab3:checked ~  .tab3 {
+  display: block;
+}
+
+#tab1:checked ~  .tab1,
+#tab2:checked ~  .tab2,
+#tab3:checked ~  .tab3 {
+  color: red;
+}
+
+
+.pc-tab { 
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0px;
+    li {
+      label {
+        float: left;
+        padding: 15px 25px;
+        border: 1px solid #ddd;
+        border-bottom: 0;
+        background: $color-orange;
+        color: #444;
+        &:hover {
+          background: $color-orange;
+        }
+        &:active {
+          background: $color-light;
+        }
+      }
+      &:not(:last-child) label {
+         border-right-width: 0; 
+      }
+    }
+  }
+
+}
+
+#tab1:checked ~ nav .tab1,
+#tab2:checked ~ nav .tab2,
+#tab3:checked ~ nav .tab3 {
+  label {
+    background: white;
+    color: #111;
+    position: relative;
+    &:after {
+      content: '';
+      display: block;
+      position: absolute;
+      height: 2px;
+      width: 100%;
+      background: $color-orange;
+      left: 0;
+      bottom: -1px;
+    }
+  }
+}
+
+.tabbed {
+  display: none;
+    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16);
+    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16), 0 0px 8px rgba(0, 0, 0, 0.23);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.16);
+
+    p {
+      padding: 0 1rem 1rem 1rem;
+    }
+    h3, h4 {
+      margin: 0 0 1rem 0;
+      padding: 1rem 1rem 0 1rem;
+    }
+    h4 {
+      padding: 1rem;
+    }
+}
+.tabbed.current {display: block;}
+
+.home {
+  table {
+    tbody, thead {
+      tr {
+        td, th {
+          &:nth-child(n+3) {
+            display: none;
+            @media screen and (min-width: $on-medium) {
+              display: table-cell;
+            }
+          }
+        }
+      }
+    }
+    @include media-query($on-laptop) {
+        display: table;
+      }
+  }
+}
+
+  .footer-col-wrapper {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+@media screen and (min-width: $on-medium) {
+  .footer-col-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: initial;
+  }
+
+  .footer-col {
+    padding: 0 ($spacing-unit / 2);
+
+    &:first-child {
+      padding-right: $spacing-unit / 2;
+      padding-left: 0;
+      width: 70%;
+    }
+
+    &:last-child {
+      padding-right: 0;
+      padding-left: $spacing-unit / 2;
+      width: 30%;
+    }
+  }
+}
+
+.footer-logo {
+  padding: 10px;
+  max-width: 155px;
+  max-height: 60px;
+  display: block;
+  margin: 0 auto;
+ 
+  @media screen and (min-width: $on-medium) {
+    padding: 0 10px;
+    display: inline-block;
+    margin: 0;
+
+    &:first-child {
+      padding-left: 0;
+    }
+  }
+}
+
+.feed-subscribe {
+  @include media-query ($on-medium) {
+    text-align: center;
+  }
+}
