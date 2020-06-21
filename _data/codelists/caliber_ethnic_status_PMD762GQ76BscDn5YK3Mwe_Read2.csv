@@ -1,0 +1,105 @@
+﻿Read code,Read term,CALIBER category
+9S10.00,White British,White British
+9S13.00,White Scottish,White British
+9S14.00,Other white British ethnic group,White British
+9i00.00,White British - ethnic category 2001 census,White British
+9i20.00,English - ethnic category 2001 census,White British
+9i21.00,Scottish - ethnic category 2001 census,White British
+9i22.00,Welsh - ethnic category 2001 census,White British
+9i23.00,Cornish - ethnic category 2001 census,White British
+9S11.00,White Irish,White Irish
+9SA9.00,Irish (NMO),White Irish
+9SI..00,Irish traveller,White Irish
+9i1..00,Irish - ethnic category 2001 census,White Irish
+9i10.00,White Irish - ethnic category 2001 census,White Irish
+9i24.00,Northern Irish - ethnic category 2001 census,White Irish
+9i2C.00,Irish Traveller - ethnic category 2001 census,White Irish
+9S12.00,Other white ethnic group,White Other
+9SAA.00,Greek/Greek Cypriot (NMO),White Other
+9SAA.11,Greek (NMO),White Other
+9SAA.12,Greek Cypriot (NMO),White Other
+9SAB.00,Turkish/Turkish Cypriot (NMO),White Other
+9SAB.11,Turkish (NMO),White Other
+9SAB.12,Turkish Cypriot (NMO),White Other
+9SAC.00,Other European (NMO),White Other
+9T1..00,New Zealand ethnic groups,White Other
+9T1Y.00,Other New Zealand ethnic group,White Other
+9T1Z.00,New Zealand ethnic group NOS,White Other
+9i2..00,Other White background - ethnic category 2001 census,White Other
+9i26.00,Cypriot (part not stated) - ethnic category 2001 census,White Other
+9i27.00,Greek - ethnic category 2001 census,White Other
+9i28.00,Greek Cypriot - ethnic category 2001 census,White Other
+9i29.00,Turkish - ethnic category 2001 census,White Other
+9i2A.00,Turkish Cypriot - ethnic category 2001 census,White Other
+9i2B.00,Italian - ethnic category 2001 census,White Other
+9i2D.00,Traveller - ethnic category 2001 census,White Other
+9i2E.00,Gypsy/Romany - ethnic category 2001 census,White Other
+9i2F.00,Polish - ethnic category 2001 census,White Other
+9i2G.00,Baltic Estonian/Latvian/Lithuanian - ethn categ 2001 census,White Other
+9i2H.00,Commonwealth (Russian) Indep States - ethn categ 2001 census,White Other
+9i2J.00,Kosovan - ethnic category 2001 census,White Other
+9i2K.00,Albanian - ethnic category 2001 census,White Other
+9i2L.00,Bosnian - ethnic category 2001 census,White Other
+9i2M.00,Croatian - ethnic category 2001 census,White Other
+9i2N.00,Serbian - ethnic category 2001 census,White Other
+9i2P.00,Other republics former Yugoslavia - ethnic categ 2001 census,White Other
+9i2T.00,Other White or White unspecified ethnic category 2001 census,White Other
+9S1..00,White,White NOS
+9i25.00,Ulster Scots - ethnic category 2001 census,White NOS
+9i2Q.00,Mixed Irish and other White - ethnic category 2001 census,White NOS
+9i2R.00,Oth White European/European unsp/Mixed European 2001 census,White NOS
+9i2S.00,Other mixed White - ethnic category 2001 census,White NOS
+9SB5.00,Black Caribbean and White,Mixed White and Black Caribbean
+9i3..00,White and Black Caribbean - ethnic category 2001 census,Mixed White and Black Caribbean
+9SB6.00,Black African and White,Mixed White and Black African
+9i4..00,White and Black African - ethnic category 2001 census,Mixed White and Black African
+9SB2.00,"Other ethnic, Asian/White orig",Mixed White and Asian
+9i5..00,White and Asian - ethnic category 2001 census,Mixed White and Asian
+9S45.00,Black E Afric Asia/Indo-Caribb,Mixed Other
+9S45.11,Black East African Asian,Mixed Other
+9S45.12,Black Indo-Caribbean,Mixed Other
+9S46.00,Black Indian sub-continent,Mixed Other
+9S47.00,Black - other Asian,Mixed Other
+9S52.00,Other Black - Black/Asian orig,Mixed Other
+9SA6.00,E Afric Asian/Indo-Carib (NMO),Mixed Other
+9SB..00,"Other ethnic, mixed origin",Mixed Other
+9SB3.00,"Other ethnic, mixed white orig",Mixed Other
+9SB4.00,"Other ethnic, other mixed orig",Mixed Other
+9i0..00,British or mixed British - ethnic category 2001 census,Mixed Other
+9i6..00,Other Mixed background - ethnic category 2001 census,Mixed Other
+9i60.00,Black and Asian - ethnic category 2001 census,Mixed Other
+9i61.00,Black and Chinese - ethnic category 2001 census,Mixed Other
+9i63.00,Chinese and White - ethnic category 2001 census,Mixed Other
+9i64.00,Asian and Chinese - ethnic category 2001 census,Mixed Other
+9i65.00,Other Mixed or Mixed unspecified ethnic category 2001 census,Mixed Other
+9iA7.00,Caribbean Asian - ethnic category 2001 census,Mixed Other
+9S51.00,Other Black - Black/White orig,Mixed NOS
+9SB1.00,"Other ethnic, Black/White orig",Mixed NOS
+9i62.00,Black and White - ethnic category 2001 census,Mixed NOS
+9S6..00,Indian,Indian
+9SA7.00,Indian sub-continent (NMO),Indian
+9iA1.00,Punjabi - ethnic category 2001 census,Indian
+9S7..00,Pakistani,Pakistani
+9iA2.00,Kashmiri - ethnic category 2001 census,Pakistani
+9S8..00,Bangladeshi,Bangladeshi
+9SA6.11,East African Asian (NMO),Other Asian
+9SA8.00,Other Asian (NMO),Other Asian
+9SH..00,Other Asian ethnic group,Other Asian
+9i7..00,Indian or British Indian - ethnic category 2001 census,Other Asian
+9i8..00,Pakistani or British Pakistani - ethnic category 2001 census,Other Asian
+9i9..00,Bangladeshi or British Bangladeshi - ethn categ 2001 census,Other Asian
+9iA..00,Other Asian background - ethnic category 2001 census,Other Asian
+9iA3.00,East African Asian - ethnic category 2001 census,Other Asian
+9iA8.00,British Asian - ethnic category 2001 census,Other Asian
+9iA9.00,Mixed Asian - ethnic category 2001 census,Other Asian
+9iAA.00,Other Asian or Asian unspecified ethnic category 2001 census,Other Asian
+9S2..00,Black Caribbean,Black Caribbean
+9S42.00,Black Caribbean/W.I./Guyana,Black Caribbean
+9S42.11,Black Caribbean,Black Caribbean
+9S42.12,Black West Indian,Black Caribbean
+9S42.13,Black Guyana,Black Caribbean
+9SA3.00,Caribbean I./W.I./Guyana (NMO),Black Caribbean
+9SA3.11,Caribbean Island (NMO),Black Caribbean
+9SA3.12,West Indian (NMO),Black Caribbean
+9SA3.13,Guyana (NMO),Black Caribbean
+9iB..00,Caribbean - ethnic category 2001 census,Black Caribbean

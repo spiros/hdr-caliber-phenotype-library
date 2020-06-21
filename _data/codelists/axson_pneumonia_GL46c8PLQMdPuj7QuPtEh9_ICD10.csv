@@ -1,0 +1,11 @@
+ICD-10 code,ICD-10 term
+J10.0,"Influenza with pneumonia, other influenza virus identified"
+J11.0,"Influenza with pneumonia, virus not identified"
+J12,"Viral pneumonia, not elsewhere classified"
+J13,Pneumonia due to Streptococcus pneumoniae
+J14,Pneumonia due to Haemophilus influenzae
+J15,"Bacterial pneumonia, not elsewhere classified"
+J16,"Pneumonia due to other infectious organisms, not elsewhere classified"
+J17,Pneumonia in diseases classified elsewhere
+J18,"Pneumonia, organism unspecified"
+B01.2+,Varicella pneumonia

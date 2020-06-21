@@ -1,0 +1,1949 @@
+﻿Read code,Read term,CALIBER category
+13H7.00,Unwanted pregnancy,Currently pregnant
+13H8.00,Illegitimate pregnancy,Currently pregnant
+13Hd.00,Teenage pregnancy,Currently pregnant
+13S..00,Pregnancy benefits,Currently pregnant
+13SZ.00,Pregnancy benefit NOS,Currently pregnant
+1514.11,Due to deliver - EDC,Currently pregnant
+1514.12,Estimated date of delivery,Currently pregnant
+2684,O/E - VE - gravid uterus,Currently pregnant
+271..11,O/E - fundus size - obstetric,Currently pregnant
+2711,O/E - fundus 12-16 week size,Currently pregnant
+2712,O/E - fundus 16-20 week size,Currently pregnant
+2713,O/E - fundus 20-24 week size,Currently pregnant
+2714,O/E - fundus 24-28 week size,Currently pregnant
+2715,O/E - fundus 28-32 week size,Currently pregnant
+2716,O/E - fundus 32-34 week size,Currently pregnant
+2717,O/E - fundus 34-36 week size,Currently pregnant
+2718,O/E - fundus 36-38 week size,Currently pregnant
+2719,O/E -fundus 38 weeks-term size,Currently pregnant
+271A.00,O/E - fundus = term size,Currently pregnant
+2722,O/E - breech presentation,Currently pregnant
+275..00,O/E - fetal movements,Currently pregnant
+2752,O/E - fetal movements seen,Currently pregnant
+2753,O/E - fetal movements felt,Currently pregnant
+275Z.00,O/E - fetal movements NOS,Currently pregnant
+4453,Serum pregnancy test positive,Currently pregnant
+4654,Urine pregnancy test positive,Currently pregnant
+584..00,Ultrasound in obstetric diagn.,Currently pregnant
+584..11,Fetal U-S scan,Currently pregnant
+584..12,"U-S scan - obstetric, diagn.",Currently pregnant
+584..13,Ultra-sound scan - obstetric,Currently pregnant
+5841,U-S obstetric scan requested,Currently pregnant
+5842,U-S obstetric scan normal,Currently pregnant
+5843,U-S obstetric scan abnormal,Currently pregnant
+5844,U-S scan -placental localisatn,Currently pregnant
+5844.11,Placenta U-S scan,Currently pregnant
+5845,U-S scan - fetal cephalometry,Currently pregnant
+5846,U-S scan - fetal maturity,Currently pregnant
+5847,U-S scan - fetal abnormality,Currently pregnant
+5848,U-S scan - multiple fetus,Currently pregnant
+5849,U-S scan - fetal presentation,Currently pregnant
+584B.00,Viability US scan,Currently pregnant
+584C.00,Antenatal ultrasound result received,Currently pregnant
+584D.00,Antenatal ultrasound confirms intra-uterine pregnancy,Currently pregnant
+584G.00,Nuchal scan,Currently pregnant
+584Z.00,U-S obstetric diagn. scan NOS,Currently pregnant
+615C.00,IUD failure - pregnant,Currently pregnant
+615C.11,"Pregnant, IUD failure",Currently pregnant
+6166,"Pregnant, diaphragm failure",Currently pregnant
+6174,"Pregnant, sheath failure",Currently pregnant
+62...00,Patient pregnant,Currently pregnant
+11/1/62,Antenatal care,Currently pregnant
+12/1/62,Maternity care,Currently pregnant
+62...13,Pregnancy care,Currently pregnant
+621..00,Patient currently pregnant,Currently pregnant
+621..11,Pregnancy confirmed,Currently pregnant
+6211,Pregnant - urine test confirms,Currently pregnant
+6212,Pregnant - blood test confirms,Currently pregnant
+6213,Pregnant - V.E. confirms,Currently pregnant
+6214,Pregnant - on history,Currently pregnant
+6215,Pregnant - on abdom. palpation,Currently pregnant
+6216,Pregnant - planned,Currently pregnant
+6217,Pregnant - unplanned - wanted,Currently pregnant
+6218,Pregnant -unplanned-not wanted,Currently pregnant
+621A.00,Pregnancy unplanned ? wanted,Currently pregnant
+621B.00,Pregnant - ? planned,Currently pregnant
+621C.00,Unplanned pregnancy,Currently pregnant
+621Z.00,Patient pregnant NOS,Currently pregnant
+622..00,Antenatal care: gravida No.,Currently pregnant
+6221,Antenatal care: primigravida,Currently pregnant
+6222,Antenatal care: 2nd pregnancy,Currently pregnant
+6223,Antenatal care: 3rd pregnancy,Currently pregnant
+6224,Antenatal care: multip,Currently pregnant
+622Z.00,Antenatal care: gravida NOS,Currently pregnant
+623..00,A/N care: obstetric risk,Currently pregnant
+6231,A/N care: uncertain dates,Currently pregnant
+6232,A/N care: recurrent aborter,Currently pregnant
+6233,A/N care: grand multip,Currently pregnant
+6234,A/N care: H/O stillbirth,Currently pregnant
+6235,A/N care: H/O perinatal death,Currently pregnant
+6236,A/N care: poor obstetr history,Currently pregnant
+6237,A/N care: H/O trophoblast.dis.,Currently pregnant
+623Z.00,A/N care: obstetric risk NOS,Currently pregnant
+624..00,A/N care: precious pregnancy,Currently pregnant
+6241,A/N care: elderly primip.,Currently pregnant
+6242,A/N care: H/O infertility,Currently pregnant
+624Z.00,A/N care: precious preg. NOS,Currently pregnant
+625..00,A/N care: social risk,Currently pregnant
+6251,A/N care: poor home conditions,Currently pregnant
+6252,A/N care: poor A/N attender,Currently pregnant
+6253,A/N care: late booker,Currently pregnant
+6254,A/N care: H/O child abuse,Currently pregnant
+625Z.00,A/N care: social risk NOS,Currently pregnant
+626..00,A/N care: medical risk,Currently pregnant
+627..00,A/N care: gynae. risk,Currently pregnant
+628..00,A/N care: risk NOS,Currently pregnant
+6281,A/N care: under 5ft tall,Currently pregnant
+6282,A/N care:10yrs+since last preg,Currently pregnant
+6283,A/N care: primip. < 17 years,Currently pregnant
+6284,A/N care: primip. > 30 years,Currently pregnant
+6285,A/N care: multip. > 35 years,Currently pregnant
+628Z.00,A/N risk NOS,Currently pregnant
+62A..00,A/N care provider,Currently pregnant
+62A1.00,A/N care from G.P.,Currently pregnant
+62A2.00,A/N care from consultant,Currently pregnant
+62A3.00,A/N - shared care,Currently pregnant
+62A4.00,A/N care midwifery led,Currently pregnant
+62AZ.00,A/N care provider NOS,Currently pregnant
+62B..00,Delivery booking place,Currently pregnant
+62B1.00,Delivery: no place booked,Currently pregnant
+62B2.00,Home delivery booked,Currently pregnant
+62B3.00,G.P. unit delivery booking,Currently pregnant
+62B4.00,Consultant unit booking,Currently pregnant
+62B5.00,Private home delivery booking,Currently pregnant
+62B6.00,Delivery booking place changed,Currently pregnant
+62B8.00,Midwife unit delivery booking,Currently pregnant
+62BZ.00,Delivery booking - place NOS,Currently pregnant
+62C..00,Deliv.booking - length of stay,Currently pregnant
+62C1.00,Short stay delivery booking,Currently pregnant
+62C2.00,Full stay delivery booking,Currently pregnant
+62CZ.00,Delivery booking - stay NOS,Currently pregnant
+62E..11,Feeding intention -baby,Currently pregnant
+62F..00,Antenatal amniocentesis,Currently pregnant
+62F1.00,A/N amniocentesis -not offered,Currently pregnant
+62F2.00,A/N amniocentesis - offered,Currently pregnant
+62F3.00,A/N amniocentesis - not wanted,Currently pregnant
+62F4.00,A/N amniocentesis wanted,Currently pregnant
+62F5.00,A/N amniocentesis - awaited,Currently pregnant
+62F6.00,A/N amniocentesis - normal,Currently pregnant
+62F7.00,A/N amniocentesis - abnormal,Currently pregnant
+62F8.00,A/N amnio. for ? chrom.abnorm.,Currently pregnant
+62F9.00,A/N amnio. for ? neural tube,Currently pregnant
+62FZ.00,Antenatal amniocentesis NOS,Currently pregnant
+62G..00,Antenatal ultrasound scan,Currently pregnant
+62G1.00,A/N U/S scan not offered,Currently pregnant
+62G2.00,A/N U/S scan offered,Currently pregnant
+62G3.00,A/N U/S scan not wanted,Currently pregnant
+62G4.00,A/N U/S scan wanted,Currently pregnant
+62G5.00,A/N U/S scan awaited,Currently pregnant
+62G6.00,A/N U/S scan normal += dates,Currently pregnant
+62G7.00,A/N U/S scan normal +? dates,Currently pregnant
+62G8.00,A/N U/S scan abnormal,Currently pregnant
+62G9.00,A/N U/S scan for ? abnormality,Currently pregnant
+62GA.00,A/N U/S scan for slow growth,Currently pregnant
+62GB.00,Antenatal ultrasounds scan at 4-8 weeks,Currently pregnant
+62GC.00,Antenatal ultrasound scan at 9-16 weeks,Currently pregnant
+62GD.00,Antenatal ultrasound scan at 17-22 weeks,Currently pregnant
+62GE.00,Antenatal ultrasound scan at 22-40 weeks,Currently pregnant
+62GZ.00,Antenatal ultrasound scan NOS,Currently pregnant
+62H..00,A/N Rh antibody screen,Currently pregnant
+62H1.00,A/N Rh screen not offered,Currently pregnant
+62H3.00,Rh screen - 1st preg. sample,Currently pregnant
+62H4.00,Rh screen - 2nd preg. sample,Currently pregnant
+62HZ.00,A/N Rh antibody screen NOS,Currently pregnant
+62I..00,Alpha-feto protein blood test,Currently pregnant
+62I..11,AFP test - antenatal,Currently pregnant
+62I..12,Alpha-feto protein test - A/N,Currently pregnant
+62K..00,Antenatal syphilis screen,Currently pregnant
+62K2.00,A/N syphilis screen-blood sent,Currently pregnant
+62KZ.00,Antenatal syphilis screen NOS,Currently pregnant
+62L..00,Antenatal blood group screen,Currently pregnant
+62L2.00,A/N blood group screen done,Currently pregnant
+62LZ.00,A/N blood group screen NOS,Currently pregnant
+62M..00,Antenatal sickle cell screen,Currently pregnant
+62M2.00,A/N sickle cell screen done,Currently pregnant
+62N..00,Antenatal examinations,Currently pregnant
+62N1.00,A/N booking examination,Currently pregnant
+62N2.00,A/N 12 weeks examination,Currently pregnant
+62N3.00,A/N 16 week examination,Currently pregnant
+62N4.00,A/N 20 week examination,Currently pregnant
+62N5.00,A/N 24 week examination,Currently pregnant
+62N6.00,A/N 28 week examination,Currently pregnant
+62N7.00,A/N 30 week examination,Currently pregnant
+62N8.00,A/N 32 week examination,Currently pregnant
+62N9.00,A/N 34 week examination,Currently pregnant
+62NA.00,A/N 35 week examination,Currently pregnant
+62NB.00,A/N 36 week examination,Currently pregnant
+62NC.00,A/N 37 week examination,Currently pregnant
+62ND.00,A/N 38 week examination,Currently pregnant
+62NE.00,A/N 39 week examination,Currently pregnant
+62NF.00,A/N 40 week examination,Currently pregnant
+62NG.00,A/N 41 week examination,Currently pregnant
+62NH.00,A/N 42 week examination,Currently pregnant
+62NZ.00,Antenatal examination NOS,Currently pregnant
+62O..00,Misc. antenatal data,Currently pregnant
+62O..11,Fetal maturity - A/N,Currently pregnant
+62O..12,Static weight gain pregnancy,Currently pregnant
+62O1.00,Fetal movements felt,Currently pregnant
+62O2.00,Fetal movements seen,Currently pregnant
+62O3.00,Fetal maturity: dates = size,Currently pregnant
+62O4.00,Fetal maturity: dates not=size,Currently pregnant
+62O6.00,Vaginal 'show',Currently pregnant
+62O6.11,Vaginal 'show' - A/N,Currently pregnant
+62O7.00,Pregnancy prolonged - 41 weeks,Currently pregnant
+62O8.00,Pregnancy prolonged - 42 weeks,Currently pregnant
+62OZ.00,Misc. antenatal data NOS,Currently pregnant
+62U..00,Downs screen - blood test,Currently pregnant
+62U..11,Barts test,Currently pregnant
+62U..12,Triple test,Currently pregnant
+62U..13,Double test,Currently pregnant
+62U0.00,Triple test offered,Currently pregnant
+62U1.00,Double test offered,Currently pregnant
+62U4.00,Triple test wanted,Currently pregnant
+62U6.00,Triple test not wanted,Currently pregnant
+62U8.00,Downs screening - blood sent,Currently pregnant
+62U9.00,Downs screen blood test normal,Currently pregnant
+62UA.00,Downs screen blood test abnormal,Currently pregnant
+62Uz.00,Downs screening blood test NOS,Currently pregnant
+62V..00,Delivery place planned,Currently pregnant
+62V0.00,Home delivery planned,Currently pregnant
+62W..00,Antenatal blood tests,Currently pregnant
+62X..00,Length of gestation,Currently pregnant
+62X0.00,Gestation <24 weeks,Currently pregnant
+62X1.00,Gestation = 24 weeks,Currently pregnant
+62X2.00,Gestation >24 weeks,Currently pregnant
+62X3.00,Full term gestation - 40 weeks,Currently pregnant
+62Y..00,Routine antenatal care,Currently pregnant
+62a..00,Pregnancy review,Currently pregnant
+62a..11,Review of pregnancy,Currently pregnant
+62b..00,Antenatal HIV screening,Currently pregnant
+62c..00,Antenatal screening,Currently pregnant
+66AX.00,Diabetes: shared care in pregnancy - diabetol and obstet,Currently pregnant
+6776,Preg. termination counselling,Currently pregnant
+679E.00,Antenatal education,Currently pregnant
+67B..00,Ante-natal relaxation classes,Currently pregnant
+7F...00,Obstetric operations,Currently pregnant
+7F...12,Pregnancy operations,Currently pregnant
+7F0..00,Fetus and gravid uterus operations,Currently pregnant
+7F0..11,Fetus operations,Currently pregnant
+7F0..12,Fetus & gravid uterus ops,Currently pregnant
+7F00.00,Therapeutic fetoscopic operations on fetus,Currently pregnant
+7F00000,Fetoscopic blood transfusion of fetus,Currently pregnant
+7F01000,Fetoscopic examination of fetus and biopsy of fetus,Currently pregnant
+7F01100,Fetoscopic examination of fetus and sampling of fetal blood,Currently pregnant
+7F01111,Foetoscopic examination foetus and sampling of foetal blood,Currently pregnant
+7F01z12,Fetoscopy NEC,Currently pregnant
+7F03000,Percutaneous insertion of fetal vesicoamniotic shunt,Currently pregnant
+7F03100,Percutaneous insertion of fetal pleuroamniotic shunt,Currently pregnant
+7F03200,Percutaneous blood transfusion of fetus,Currently pregnant
+7F03z00,Therapeutic percutaneous operation on fetus NOS,Currently pregnant
+7F04.00,Diagnostic percutaneous examination of fetus,Currently pregnant
+7F04.11,Diagnostic percutaneous examination of placenta,Currently pregnant
+7F04100,Percutaneous sampling of fetal blood,Currently pregnant
+7F04111,Percutaneous sampling of foetal blood,Currently pregnant
+7F04200,Percutaneous sampling of chorionic villus,Currently pregnant
+7F04z00,Diagnostic percutaneous examination of fetus NOS,Currently pregnant
+7F05.00,Other operations on amniotic cavity,Currently pregnant
+7F05000,Drainage of amniotic cavity,Currently pregnant
+7F05100,Diagnostic amniocentesis,Currently pregnant
+7F05111,Amniocentesis NEC,Currently pregnant
+7F05200,Amnioscopy,Currently pregnant
+7F05300,Sampling of chorionic villus NEC,Currently pregnant
+7F05z00,Other operation on amniotic cavity NOS,Currently pregnant
+7F06.00,Operations on gravid uterus,Currently pregnant
+7F06000,Cerclage of cervix of gravid uterus,Currently pregnant
+7F06011,McDonald cerclage of cervix,Currently pregnant
+7F06012,Shirodkar suture in pregnancy,Currently pregnant
+7F06100,Removal of cerclage from cervix of gravid uterus,Currently pregnant
+7F06111,Removal of Shirodkar suture,Currently pregnant
+7F06200,Repositioning of retroverted gravid uterus,Currently pregnant
+7F06300,External version of breech,Currently pregnant
+7F06y00,Other specified operation on gravid uterus,Currently pregnant
+7F06z00,Operation on gravid uterus NOS,Currently pregnant
+7F0y.00,Other specified operations on fetus or gravid uterus,Currently pregnant
+7F0z.00,Fetus and gravid uterus operations NOS,Currently pregnant
+7F1A300,Drainage of hydrocephalus of fetus to facilitate delivery,Currently pregnant
+7F2..00,Other obstetric operations,Currently pregnant
+7F24.00,Other obstetric operations,Currently pregnant
+7F24y00,Other specified other obstetric operation,Currently pregnant
+7F24z00,Other obstetric operation NOS,Currently pregnant
+7F25.00,Obstetric monitoring,Currently pregnant
+7F25.11,Fetal monitoring,Currently pregnant
+7F25.12,Foetal monitoring,Currently pregnant
+7F25000,Fetal heart monitoring NEC,Currently pregnant
+7F25z00,Obstetric monitoring NOS,Currently pregnant
+7F2B100,Ultrasound monitoring of early pregnancy,Currently pregnant
+7F2y.00,Other specified obstetric operations,Currently pregnant
+7F2z.00,Other obstetric operations NOS,Currently pregnant
+7Fy..00,Other specified obstetric operations,Currently pregnant
+8B68.00,Pregnancy prophylactic therapy,Currently pregnant
+8B7..11,Pregnancy vitamin/iron prophyl,Currently pregnant
+8B74.00,Iron supplement in pregnancy,Currently pregnant
+8B75.00,Vitamin supplement - pregnancy,Currently pregnant
+8E96.00,Ante-natal exercises,Currently pregnant
+8H7W.00,Refer to TOP counselling,Currently pregnant
+8HHV.00,Referral for termination of pregnancy,Currently pregnant
+8HHf.00,Refer to early pregnancy unit,Currently pregnant
+8HT9.00,Referral to antenatal clinic,Currently pregnant
+8HV6.00,Private referral to obstetrician,Currently pregnant
+8M6..00,Requests pregnancy termination,Currently pregnant
+95...00,Maternity services admin.,Currently pregnant
+951..00,FP24 maternity claim status,Currently pregnant
+9N1N.00,Seen in antenatal clinic,Currently pregnant
+L1...00,Pregnancy complications,Currently pregnant
+L10..00,Haemorrhage in early pregnancy,Currently pregnant
+L100.00,Threatened abortion,Currently pregnant
+L100000,Threatened abortion unspecified,Currently pregnant
+L100200,Threatened abortion - not delivered,Currently pregnant
+L100z00,Threatened abortion NOS,Currently pregnant
+L10y.00,Other haemorrhage in early pregnancy,Currently pregnant
+L10y.11,Bleeding in early pregnancy,Currently pregnant
+L10y000,Other haemorrhage in early pregnancy unspecified,Currently pregnant
+L10y200,Other haemorrhage in early pregnancy - not delivered,Currently pregnant
+L10yz00,Other haemorrhage in early pregnancy NOS,Currently pregnant
+L10z.00,Early pregnancy haemorrhage NOS,Currently pregnant
+L10z000,Early pregnancy haemorrhage NOS unspecified,Currently pregnant
+L10z200,Early pregnancy haemorrhage NOS - not delivered,Currently pregnant
+L10zz00,Early pregnancy haemorrhage NOS,Currently pregnant
+L11..00,"Antepartum haemorrhage, abruptio placentae, placenta praevia",Currently pregnant
+L11..11,Antepartum haemorrhage,Currently pregnant
+L11..12,Antepartum bleeding,Currently pregnant
+L110.00,Placenta praevia without haemorrhage,Currently pregnant
+L110000,Placenta praevia without haemorrhage unspecified,Currently pregnant
+L110200,Placenta praevia without haemorrhage - not delivered,Currently pregnant
+L110z00,Placenta praevia without haemorrhage NOS,Currently pregnant
+L111.00,Placenta praevia with haemorrhage,Currently pregnant
+L111000,Placenta praevia with haemorrhage unspecified,Currently pregnant
+L111200,Placenta praevia with haemorrhage - not delivered,Currently pregnant
+L111z00,Placenta praevia with haemorrhage NOS,Currently pregnant
+L112.00,Placental abruption,Currently pregnant
+L112.11,Ablatio placentae,Currently pregnant
+L112.12,Couvelaire uterus,Currently pregnant
+L112000,Placental abruption unspecified,Currently pregnant
+L112200,Placental abruption - not delivered,Currently pregnant
+L112z00,Placental abruption NOS,Currently pregnant
+L113.00,Antepartum haemorrhage with coagulation defect,Currently pregnant
+L113.13,Antepartum haemorrhage with hypofibrinogenaemia,Currently pregnant
+L113000,Antepartum haemorrhage with coagulation defect unspecified,Currently pregnant
+L115.00,Antepartum haemorrhage with uterine leiomyoma,Currently pregnant
+L115.11,Antepartum haemorrhage with fibroid,Currently pregnant
+L115.12,Antepartum haemorrhage with uterine fibroid,Currently pregnant
+L116.00,Placenta praevia,Currently pregnant
+L11y.00,Other antepartum haemorrhage,Currently pregnant
+L11y000,Other antepartum haemorrhage unspecified,Currently pregnant
+L11y200,Other antepartum haemorrhage - not delivered,Currently pregnant
+L11yz00,Other antepartum haemorrhage NOS,Currently pregnant
+L11z.00,Antepartum haemorrhage NOS,Currently pregnant
+L11z000,"Antepartum haemorrhage NOS, unspecified",Currently pregnant
+L11z200,Antepartum haemorrhage NOS - not deliv,Currently pregnant
+L11zz00,Antepartum haemorrhage NOS,Currently pregnant
+L120300,Benign essential hypertension in preg/childb/puerp-not deliv,Currently pregnant
+L121300,Renal hypertension in preg/childbirth/puerp - not delivered,Currently pregnant
+L122300,Other pre-exist hypertension in preg/childb/puerp-not deliv,Currently pregnant
+L123.00,Transient hypertension of pregnancy,Currently pregnant
+L123000,Transient hypertension of pregnancy unspecified,Currently pregnant
+L123300,Transient hypertension of pregnancy - not delivered,Currently pregnant
+L123500,Gestational hypertension,Currently pregnant
+L123600,Transient hypertension of pregnancy,Currently pregnant
+L123z00,Transient hypertension of pregnancy NOS,Currently pregnant
+L124.00,Mild or unspecified pre-eclampsia,Currently pregnant
+L124.11,Mild pre-eclampsia,Currently pregnant
+L124.12,Toxaemia NOS,Currently pregnant
+L124000,Mild or unspecified pre-eclampsia unspecified,Currently pregnant
+L124300,Mild or unspecified pre-eclampsia - not delivered,Currently pregnant
+L124500,Mild pre-eclampsia,Currently pregnant
+L124600,"Pre-eclampsia, unspecified",Currently pregnant
+L124z00,Mild or unspecified pre-eclampsia NOS,Currently pregnant
+L125.00,Severe pre-eclampsia,Currently pregnant
+L125000,Severe pre-eclampsia unspecified,Currently pregnant
+L125300,Severe pre-eclampsia - not delivered,Currently pregnant
+L125z00,Severe pre-eclampsia NOS,Currently pregnant
+L126.00,Eclampsia,Currently pregnant
+L126000,Eclampsia unspecified,Currently pregnant
+L126300,Eclampsia - not delivered,Currently pregnant
+L126500,Eclampsia in pregnancy,Currently pregnant
+L126z00,Eclampsia NOS,Currently pregnant
+L127.00,Pre-eclampsia or eclampsia with pre-existing hypertension,Currently pregnant
+L127000,Pre-eclampsia or eclampsia with hypertension unspecified,Currently pregnant
+L127300,Pre-eclampsia or eclampsia with hypertension - not delivered,Currently pregnant
+L127z00,Pre-eclampsia or eclampsia + pre-existing hypertension NOS,Currently pregnant
+L129.00,Moderate pre-eclampsia,Currently pregnant
+L12A.00,"HELLP - Syndrome haemolysis, elev liver enzyme low platelets",Currently pregnant
+L12B.00,Proteinuric hypertension of pregnancy,Currently pregnant
+L12z300,Unspecified hypertension in preg/childb/puerp - not deliv,Currently pregnant
+L13..00,Excessive pregnancy vomiting,Currently pregnant
+L13..11,Hyperemesis gravidarum,Currently pregnant
+L13..12,Hyperemesis of pregnancy,Currently pregnant
+L130.00,Mild hyperemesis gravidarum,Currently pregnant
+L130.11,Morning sickness,Currently pregnant
+L130000,Mild hyperemesis unspecified,Currently pregnant
+L130200,Mild hyperemesis-not delivered,Currently pregnant
+L130z00,Mild hyperemesis gravidarum NOS,Currently pregnant
+L131.00,Hyperemesis gravidarum with metabolic disturbance,Currently pregnant
+L131000,Hyperemesis gravidarum with metabolic disturbance unsp,Currently pregnant
+L131200,Hyperemesis gravidarum with metabolic disturbance - not del,Currently pregnant
+L131z00,Hyperemesis gravidarum with metabolic disturbance NOS,Currently pregnant
+L132.00,Late vomiting of pregnancy,Currently pregnant
+L132000,Late pregnancy vomiting unspecified,Currently pregnant
+L132200,Late pregnancy vomiting - not delivered,Currently pregnant
+L13y.00,Other pregnancy vomiting,Currently pregnant
+L13y000,Other pregnancy vomiting unspecified,Currently pregnant
+L13yz00,Other pregnancy vomiting NOS,Currently pregnant
+L13z.00,Unspecified pregnancy vomiting,Currently pregnant
+L13z000,Unspecified pregnancy vomiting unspecified,Currently pregnant
+L13z200,Unspecified pregnancy vomiting - not delivered,Currently pregnant
+L13zz00,Unspecified pregnancy vomiting NOS,Currently pregnant
+L14..00,Early or threatened labour,Currently pregnant
+L140.00,Threatened premature labour,Currently pregnant
+L140.11,False labour,Currently pregnant
+L140000,Threatened premature labour unspecified,Currently pregnant
+L140100,Threatened premature labour - not delivered,Currently pregnant
+L140200,False labour at or after 37 completed weeks of gestation,Currently pregnant
+L140z00,Threatened premature labour NOS,Currently pregnant
+L141.00,Other threatened labour,Currently pregnant
+L141000,Other threatened labour unspecified,Currently pregnant
+L141100,Other threatened labour - not delivered,Currently pregnant
+L141z00,Other threatened labour NOS,Currently pregnant
+L14z.00,Early or threatened labour NOS,Currently pregnant
+L15..00,Prolonged or post-term pregnancy,Currently pregnant
+L15..11,Post-term pregnancy,Currently pregnant
+L150.00,Post-term pregnancy,Currently pregnant
+L150000,Post-term pregnancy unspecified,Currently pregnant
+L150200,Post-term pregnancy - not delivered,Currently pregnant
+L150z00,Post-term pregnancy NOS,Currently pregnant
+L15z.00,Prolonged pregnancy NOS,Currently pregnant
+L16..00,Other pregnancy complication NEC,Currently pregnant
+L160.00,Papyraceous fetus,Currently pregnant
+L161.00,Oedema or excessive weight gain in pregnancy no hypertension,Currently pregnant
+L161.11,Excessive weight gain in pregnancy,Currently pregnant
+L161.12,Maternal obesity syndrome,Currently pregnant
+L161.13,Gestational oedema,Currently pregnant
+L161000,"Oedema or excessive weight gain in pregnancy, unspecified",Currently pregnant
+L161300,Oedema or excessive weight gain in pregnancy - not delivered,Currently pregnant
+L161z00,Oedema or excessive weight gain in pregnancy NOS,Currently pregnant
+L162.00,Unspecified renal disease in pregnancy,Currently pregnant
+L162.11,Albuminuria in pregnancy without hypertension,Currently pregnant
+L162.12,Nephropathy NOS in pregnancy without hypertension,Currently pregnant
+L162.13,Uraemia in pregnancy without hypertension,Currently pregnant
+L162000,Unspecified renal disease in pregnancy unspecified,Currently pregnant
+L163300,Pregnancy care of habitual aborter,Currently pregnant
+L164.00,Peripheral neuritis in pregnancy,Currently pregnant
+L165.00,Asymptomatic bacteriuria in pregnancy,Currently pregnant
+L166.00,Genitourinary tract infections in pregnancy,Currently pregnant
+L166.11,Cystitis of pregnancy,Currently pregnant
+L166000,Genitourinary tract infection in pregnancy unspecified,Currently pregnant
+L166300,Genitourinary tract infection in pregnancy - not delivered,Currently pregnant
+L166500,Infections of kidney in pregnancy,Currently pregnant
+L166700,Infections of the genital tract in pregnancy,Currently pregnant
+L166800,Urinary tract infection complicating pregnancy,Currently pregnant
+L166z00,Genitourinary tract infection in pregnancy NOS,Currently pregnant
+L166z11,UTI - urinary tract infection in pregnancy,Currently pregnant
+L167.00,Liver disorder in pregnancy,Currently pregnant
+L167000,Liver disorder in pregnancy unspecified,Currently pregnant
+L167200,Liver disorder in pregnancy - not delivered,Currently pregnant
+L167z00,Liver disorder in pregnancy NOS,Currently pregnant
+L168.00,Fatigue during pregnancy,Currently pregnant
+L168000,Fatigue during pregnancy unspecified,Currently pregnant
+L168z00,Fatigue during pregnancy NOS,Currently pregnant
+L169300,Herpes gestationis - not delivered,Currently pregnant
+L16A.00,Glycosuria during pregnancy,Currently pregnant
+L16A000,Glycosuria during pregnancy unspecified,Currently pregnant
+L16A300,Glycosuria during pregnancy - not delivered,Currently pregnant
+L16Az00,Glycosuria during pregnancy NOS,Currently pregnant
+L16B.00,Braxton-Hicks contractions,Currently pregnant
+L16C.00,Pregnancy induced oedema+proteinuria without hypertension,Currently pregnant
+L16C000,Gestational proteinuria,Currently pregnant
+L16C100,Gestational oedema with proteinuria,Currently pregnant
+L16D.00,Excessive weight gain in pregnancy,Currently pregnant
+L16E.00,Pregnancy pruritus,Currently pregnant
+L16y.00,Other pregnancy complications,Currently pregnant
+L16y000,Other pregnancy complication unspecified,Currently pregnant
+L16y300,Other pregnancy complication - not delivered,Currently pregnant
+L16y500,Abdominal pain in pregnancy,Currently pregnant
+L16yz00,Other pregnancy complication NOS,Currently pregnant
+L16z.00,Pregnancy complication NOS,Currently pregnant
+L171300,Maternal gonorrhoea in pregnancy - baby not yet delivered,Currently pregnant
+L175.11,Rubella contact in pregnancy,Currently pregnant
+L175300,Maternal rubella during pregnancy - baby not yet delivered,Currently pregnant
+L177.00,Infections of bladder in pregnancy,Currently pregnant
+L178.00,Infections of urethra in pregnancy,Currently pregnant
+L180300,Diabetes mellitus during pregnancy - baby not yet delivered,Currently pregnant
+L180800,Diabetes mellitus arising in pregnancy,Currently pregnant
+L180811,Gestational diabetes mellitus,Currently pregnant
+L180900,Gestational diabetes mellitus,Currently pregnant
+L181300,Thyroid dysfunction in pregnancy - baby not yet delivered,Currently pregnant
+L182300,Anaemia during pregnancy - baby not yet delivered,Currently pregnant
+L182500,Iron deficiency anaemia of pregnancy,Currently pregnant
+L183.11,Pregnancy and drug dependence,Currently pregnant
+L183300,Drug dependence during pregnancy - baby not yet delivered,Currently pregnant
+L185.11,Congenital heart disease in pregnancy,Currently pregnant
+L186.11,Heart disease during pregnancy,Currently pregnant
+L187300,Orthopaedic disorder in pregnancy - baby not yet delivered,Currently pregnant
+L188300,Abnormal GTT during pregnancy - baby not yet delivered,Currently pregnant
+L18A000,Cholestasis of pregnancy,Currently pregnant
+L18z300,Medical condition NOS in pregnancy - baby not yet delivered,Currently pregnant
+L19..00,Complications specific to multiple gestation,Currently pregnant
+L191.00,Continuing pregnancy after abortion of one fetus or more,Currently pregnant
+L192.00,Continuing preg after intrauterine death one fetus or more,Currently pregnant
+L2...00,Risk factors in pregnancy,Currently pregnant
+L21..00,Multiple pregnancy,Currently pregnant
+L21..11,Gestation - multiple,Currently pregnant
+L210.00,Twin pregnancy,Currently pregnant
+L210000,Twin pregnancy unspecified,Currently pregnant
+L210200,Twin pregnancy with antenatal problem,Currently pregnant
+L210z00,Twin pregnancy NOS,Currently pregnant
+L211.00,Triplet pregnancy,Currently pregnant
+L211000,Triplet pregnancy unspecified,Currently pregnant
+L211z00,Triplet pregnancy NOS,Currently pregnant
+L212.00,Quadruplet pregnancy,Currently pregnant
+L212200,Quadruplet pregnancy with antenatal problem,Currently pregnant
+L212z00,Quadruplet pregnancy NOS,Currently pregnant
+L21y.00,Other multiple pregnancy,Currently pregnant
+L22..00,Malposition and malpresentation of fetus,Currently pregnant
+L22..11,Malpresentation of fetus,Currently pregnant
+L220.00,Fetus - unstable lie,Currently pregnant
+L220z00,Unstable lie NOS,Currently pregnant
+L221.00,Cephalic version NOS,Currently pregnant
+L221000,"Cephalic version NOS, unspecified",Currently pregnant
+L221z00,Cephalic version NOS,Currently pregnant
+L222.00,Breech presentation,Currently pregnant
+L222000,Breech presentation unspecified,Currently pregnant
+L222200,Breech presentation with antenatal problem,Currently pregnant
+L222z00,Breech presentation NOS,Currently pregnant
+L223.00,Oblique presentation,Currently pregnant
+L224.00,Transverse presentation,Currently pregnant
+L224000,Transverse lie unspecified,Currently pregnant
+L224200,Transverse lie with antenatal problem,Currently pregnant
+L224z00,Transverse lie NOS,Currently pregnant
+L227.00,High head at term,Currently pregnant
+L228.00,Multiple pregnancy with malpresentation,Currently pregnant
+L22y.00,Other fetal malposition and malpresentation,Currently pregnant
+L22z.00,Fetal malposition and malpresentation NOS,Currently pregnant
+L23..00,Cephalo-pelvic disproportion,Currently pregnant
+L230.00,Disproportion - major pelvic abnormality,Currently pregnant
+L231.00,Generally contracted pelvis,Currently pregnant
+L231z00,Generally contracted pelvis NOS,Currently pregnant
+L232.00,Inlet pelvic contraction,Currently pregnant
+L233.00,Outlet pelvic contraction,Currently pregnant
+L233z00,Outlet pelvic contraction NOS,Currently pregnant
+L234.00,Mixed feto-pelvic disproportion,Currently pregnant
+L235.00,Large fetus causing disproportion,Currently pregnant
+L236.00,Hydrocephalic disproportion,Currently pregnant
+L236z00,Hydrocephalic disproportion NOS,Currently pregnant
+L237.00,Other fetal abnormality causing disproportion,Currently pregnant
+L237200,Other fetal abnormality causing disproportion with a/n prob,Currently pregnant
+L240000,Congenital abnormality of uterus affecting obstetric care,Currently pregnant
+L240011,Bicornuate uterus affecting obstetric care,Currently pregnant
+L240311,"Bicornuate uterus complicating a/n care, baby not delivered",Currently pregnant
+L241000,Tumour of uterine body affecting obstetric care,Currently pregnant
+L241011,Uterine fibroid affecting obstetric care,Currently pregnant
+L241300,"Tumour of uterine body complicating a/n care, baby not deliv",Currently pregnant
+L241311,"Uterine fibroid complicating a/n care, baby not delivered",Currently pregnant
+L243.00,Retroverted incarcerated gravid uterus,Currently pregnant
+L243000,Retroverted incarcerated gravid uterus unspecified,Currently pregnant
+L243z00,Retroverted incarcerated gravid uterus NOS,Currently pregnant
+L244011,Cystocele affecting obstetric care,Currently pregnant
+L244300,Other uterine/pelvic floor abnormal - baby not yet delivered,Currently pregnant
+L244312,Rectocele complicating antenatal care - baby not delivered,Currently pregnant
+L245.00,Cervical incompetence,Currently pregnant
+L245.11,Shirodkar suture present,Currently pregnant
+L245000,Cervical incompetence unspecified,Currently pregnant
+L245z00,Cervical incompetence NOS,Currently pregnant
+L246311,Polyp of cervix complicating a/n care- baby not delivered,Currently pregnant
+L247300,Vaginal abnormality complicating a/n care-baby not delivered,Currently pregnant
+L248300,Vulval abn complicating a/n care - baby not yet delivered,Currently pregnant
+L25..00,Known or suspected fetal abnormality,Currently pregnant
+L250.00,Fetus with central nervous system malformation,Currently pregnant
+L250.11,Suspect fetal anencephaly,Currently pregnant
+L250.12,Suspect fetal hydrocephaly,Currently pregnant
+L250.13,Suspect fetal spina bifida,Currently pregnant
+L250000,Fetus with central nervous system malformation unspecified,Currently pregnant
+L250200,Fetus with central nervous system malformation + a/n problem,Currently pregnant
+L250400,Maternal care for CNS malformation in fetus,Currently pregnant
+L250z00,Fetus with central nervous system malformation NOS,Currently pregnant
+L251.00,Fetus with chromosomal abnormality,Currently pregnant
+L251.11,Suspect cystic fibrosis fetus,Currently pregnant
+L251.12,Suspect mongol fetus,Currently pregnant
+L251000,Fetus with chromosomal abnormality unspecified,Currently pregnant
+L251400,Maternal care for chromosomal abnormality in fetus,Currently pregnant
+L251z00,Fetus with chromosomal abnormality NOS,Currently pregnant
+L252.00,Fetus with hereditary disease,Currently pregnant
+L252000,Fetus with hereditary disease unspecified,Currently pregnant
+L253.00,Fetus with viral damage via mother,Currently pregnant
+L253.11,Fetus with suspected rubella damage via mother,Currently pregnant
+L254.00,Fetus with damage due to other maternal disease,Currently pregnant
+L254.11,Suspect fetal damage from maternal alcohol,Currently pregnant
+L254.12,Suspect fetal damage from maternal toxoplasmosis,Currently pregnant
+L255.00,Fetus with drug damage,Currently pregnant
+L255300,Maternal care for (suspected) damage to fetus from alcohol,Currently pregnant
+L256.00,Fetus with radiation damage,Currently pregnant
+L257.00,Fetus with damage due to intra-uterine contraceptive device,Currently pregnant
+L257.12,Fetus with damage due to intra-uterine contraceptive device,Currently pregnant
+L25y000,"Fetus with other damage NEC, unspecified",Currently pregnant
+L25yz00,Fetus with other damage NEC NOS,Currently pregnant
+L25z.00,Fetus with damage NOS,Currently pregnant
+L25z000,"Fetus with damage NOS, unspecified",Currently pregnant
+L25z300,"Maternal care for suspect fetal abnormal and damage, unspec",Currently pregnant
+L25z400,"Maternal care for fetal abnormality and damage, unspecified",Currently pregnant
+L25zz00,Fetus with damage NOS,Currently pregnant
+L26..00,Other fetal and placental problems,Currently pregnant
+L260.00,Fetal-maternal haemorrhage,Currently pregnant
+L260200,Fetal-maternal haemorrhage with antenatal problem,Currently pregnant
+L261200,Rhesus isoimmunisation with antenatal problem,Currently pregnant
+L262200,Other blood-group isoimmunisation with antenatal problem,Currently pregnant
+L263.00,Fetal distress - affecting management,Currently pregnant
+L263.11,Fetal acidosis,Currently pregnant
+L263.12,Fetal bradycardia,Currently pregnant
+L263.13,Fetal tachycardia,Currently pregnant
+L263000,Fetal distress unspecified,Currently pregnant
+L263200,Fetal distress with antenatal problem,Currently pregnant
+L263700,Maternal care for fetal hypoxia,Currently pregnant
+L263800,Maternal care for fetal decelerations during pregnancy,Currently pregnant
+L263900,Maternal care for fetal tachycardia during pregnancy,Currently pregnant
+L263A00,Maternal care for fetal bradycardia during pregnancy,Currently pregnant
+L263A11,Maternal care for reduced fetal heart rate during pregnancy,Currently pregnant
+L263z00,Fetal distress NOS,Currently pregnant
+L264.00,Intrauterine death,Currently pregnant
+L264.11,Fetal death in utero,Currently pregnant
+L264000,Intrauterine death unspecified,Currently pregnant
+L264200,Intrauterine death with antenatal problem,Currently pregnant
+L264z00,Intrauterine death NOS,Currently pregnant
+L265.00,Small-for-dates fetus in pregnancy,Currently pregnant
+L265.11,Placental insufficiency,Currently pregnant
+L265000,Small-for-dates unspecified,Currently pregnant
+L265300,Maternal care for poor fetal growth,Currently pregnant
+L265311,Maternal care for intrauterine growth retardation,Currently pregnant
+L265z00,Small-for-dates NOS,Currently pregnant
+L266.00,Large-for-dates fetus in pregnancy,Currently pregnant
+L266000,Large-for-dates unspecified,Currently pregnant
+L266300,Suspected macroscopic fetus,Currently pregnant
+L266z00,Large-for-dates NOS,Currently pregnant
+L267.00,Other placental conditions,Currently pregnant
+L267300,Placental transfusion syndromes,Currently pregnant
+L267500,Other fetal problems,Currently pregnant
+L267600,Placental infarction,Currently pregnant
+L268.00,Other fetal problems,Currently pregnant
+L268000,Reduced fetal movements,Currently pregnant
+L27..00,Polyhydramnios and hydramnios,Currently pregnant
+L27..11,Hydramnios,Currently pregnant
+L270.00,Polyhydramnios,Currently pregnant
+L270000,Polyhydramnios unspecified,Currently pregnant
+L270200,Polyhydramnios with antenatal problem,Currently pregnant
+L270z00,Polyhydramnios NOS,Currently pregnant
+L27z.00,Polyhydramnios NOS,Currently pregnant
+L28..00,Other problems of amniotic cavity and membranes,Currently pregnant
+L280.00,Oligohydramnios,Currently pregnant
+L280000,Oligohydramnios unspecified,Currently pregnant
+L280200,Oligohydramnios with antenatal problem,Currently pregnant
+L280300,Anhydramnios,Currently pregnant
+L280z00,Oligohydramnios NOS,Currently pregnant
+L284.00,Amniotic cavity infection,Currently pregnant
+L284.11,Amnionitis,Currently pregnant
+L284.13,Membranitis,Currently pregnant
+L284z00,Amniotic cavity infection NOS,Currently pregnant
+L28y.00,Other problems of amniotic cavity and membranes,Currently pregnant
+L28z.00,Amniotic cavity and membrane problems NOS,Currently pregnant
+L28z200,Amniotic cavity and membrane problem NOS with a/n problem,Currently pregnant
+L28zz00,Amniotic cavity and membrane problem NOS,Currently pregnant
+L295.00,Elderly primigravida,Currently pregnant
+L2A..00,Abnormal findings on antenatal screening of mother,Currently pregnant
+L2A0.00,Abnormal haematologic find on antenatal screening of mother,Currently pregnant
+L2A1.00,Abnormal biochemical finding on antenatal screen of mother,Currently pregnant
+L2A3.00,Abnormal ultrasonic finding on antenatal screening of mother,Currently pregnant
+L2A4.00,Abnormal radiological finding on antenatal screen of mother,Currently pregnant
+L2A5.00,Abnormal chromosomal and genet find/antenat screen of mother,Currently pregnant
+L2AX.00,Abnormal finding on antenatal screening of mother,Currently pregnant
+L2B..00,Low weight gain in pregnancy,Currently pregnant
+L2C..00,Malnutrition in pregnancy,Currently pregnant
+L2D..00,Retained intrauterine contraceptive device in pregnancy,Currently pregnant
+L2y..00,Other specified risk factors in pregnancy,Currently pregnant
+L2z..00,Risk factors in pregnancy NOS,Currently pregnant
+L304.00,Persistent occipitoposterior or occipitoanterior position,Currently pregnant
+L33..00,Umbilical cord complications,Currently pregnant
+L335.00,Vasa praevia,Currently pregnant
+L335.11,Velamentous insertion of cord,Currently pregnant
+L336.00,Vascular lesions of cord,Currently pregnant
+L336000,Vascular lesions of cord unspecified,Currently pregnant
+L336z00,Vascular lesions of cord NOS,Currently pregnant
+L33y.00,Other umbilical cord complications,Currently pregnant
+L33yz00,Other umbilical cord complications NOS,Currently pregnant
+L33z.00,Umbilical cord complications NOS,Currently pregnant
+L33z000,"Umbilical cord complications NOS, unspecified",Currently pregnant
+L33z200,Umbilical cord complications NOS with antenatal problem,Currently pregnant
+L33zz00,Umbilical cord complications NOS,Currently pregnant
+L370.11,Placenta accreta without haemorrhage,Currently pregnant
+L385.00,Failed or difficult intubation during pregnancy,Currently pregnant
+L390.00,Maternal distress,Currently pregnant
+L392.00,Maternal hypotension syndrome,Currently pregnant
+L392z00,Maternal hypotension syndrome NOS,Currently pregnant
+L394.00,Other complications of obstetric procedures,Currently pregnant
+L394z00,Other complications of obstetric procedures NOS,Currently pregnant
+L39y500,Maternal exhaustion,Currently pregnant
+L410500,Varicose veins of legs in pregnancy,Currently pregnant
+L411300,VV's of perineum/vulva in pregnancy/puerperium + a/n comp,Currently pregnant
+L411500,Genital varices in pregnancy,Currently pregnant
+L411512,Vaginal varices in pregnancy,Currently pregnant
+L411513,Vulval varices in pregnancy,Currently pregnant
+L412500,Superficial thrombophlebitis in pregnancy,Currently pregnant
+L412511,Thrombophlebitis of legs in pregnancy,Currently pregnant
+L413.00,Antenatal deep vein thrombosis,Currently pregnant
+L413.11,"DVT - deep venous thrombosis, antenatal",Currently pregnant
+L413000,Antenatal deep vein thrombosis unspecified,Currently pregnant
+L413z00,Antenatal deep vein thrombosis NOS,Currently pregnant
+L414.12,Phlegmasia alba dolens - obstetric,Currently pregnant
+L415300,Other phlebitis/thrombosis in preg/puerperium + a/n comp,Currently pregnant
+L416600,Haemorrhoids in pregnancy,Currently pregnant
+L417000,Cerebral venous thrombosis in pregnancy,Currently pregnant
+L41z500,"Venous complication of pregnancy, unspecified",Currently pregnant
+L444.00,Placental polyp,Currently pregnant
+L463300,Other breast disorder in pregnancy/puerperium/lact +a/n comp,Currently pregnant
+L5...00,Maternal care for fetus,Currently pregnant
+L51..00,Maternal care for other known or suspected fetal problems,Currently pregnant
+L510.00,Maternal care for hydrops fetalis,Currently pregnant
+L512.00,Maternal care for diminished fetal movements,Currently pregnant
+L514.00,Maternal care for poor fetal growth,Currently pregnant
+L51X.00,"Maternal care/known or suspected fetal problem,unspecifd",Currently pregnant
+Lyu0100,[X]Other specified abnormal products of conception,Currently pregnant
+Lyu2100,[X]Other vomiting complicating pregnancy,Currently pregnant
+Lyu2200,[X]Other venous complications in pregnancy,Currently pregnant
+Lyu2500,[X]Other specified pregnancy-related conditions,Currently pregnant
+Lyu3900,[X]Maternal care/oth spcf known or suspected fetal problems,Currently pregnant
+Lyu3A00,"[X]Maternal care/known or suspected fetal problem,unspecifd",Currently pregnant
+Lyu3B00,[X]Other disorders of amniotic fluid and membranes,Currently pregnant
+Lyu3C00,[X]Other placental disorders,Currently pregnant
+M240500,Alopecia of pregnancy,Currently pregnant
+Q000.11,Fetus affected by maternal toxaemia,Currently pregnant
+Q007111,Fetal alcohol syndrome,Currently pregnant
+Q013.11,Fetus affected by hydramnios,Currently pregnant
+Q015100,Fetus or neonate affected by twin pregnancy,Currently pregnant
+Q016.11,Fetus affected by maternal death,Currently pregnant
+Q017.11,Fetus affected by malpresentation,Currently pregnant
+Q02..00,Fetus/neonate affected by complic of placenta/cord/membrane,Currently pregnant
+Q021000,Fetus/neonate affected by antepartum haemorrhage unspecified,Currently pregnant
+Q021011,Fetus affected by APH - antepartum haemorrhage,Currently pregnant
+Q021111,Fetus affected by placental abruption,Currently pregnant
+Q021500,Fetus or neonate affected by premature placental separation,Currently pregnant
+Q026.11,Fetus affected by cord problems,Currently pregnant
+Q10..00,Slow fetal growth and fetal malnutrition,Currently pregnant
+Q10..11,Fetal malnutrition,Currently pregnant
+Q100.00,"Fetus small-for-dates, without mention of malnutrition",Currently pregnant
+Q100.11,"Fetus small-for-dates (SFD), without mention of malnutrition",Currently pregnant
+Q101.00,Fetus small-for-dates with signs of malnutrition,Currently pregnant
+Q101.11,Fetus small-for-dates (SFD) with signs of malnutrition,Currently pregnant
+Q10z.00,Fetal growth retardation NOS,Currently pregnant
+Q10z.11,Intrauterine growth retardation,Currently pregnant
+Q21..11,Intrauterine hypoxia,Currently pregnant
+Q210.00,Fetal death due to prelabour anoxia,Currently pregnant
+Q408.00,Intra-amniotic fetal infection,Currently pregnant
+Q408200,Eschericha coli intra-amniotic fetal infection,Currently pregnant
+Q408500,Group B haemolytic streptococcal intra-amniotic infect. NEC,Currently pregnant
+Q408z00,Intra-amniotic fetal infection NOS,Currently pregnant
+Q40y000,"Intrauterine fetal sepsis, unspecified",Currently pregnant
+Q410.00,Fetal blood loss,Currently pregnant
+Q410000,"Fetal blood loss, unspecified",Currently pregnant
+Q423.00,Hydrops fetalis due to isoimmunisation,Currently pregnant
+Q42X.00,Hydrops fetalis due to other+unspcfd haemolytic disease,Currently pregnant
+Q436.00,"Fetal and neonatal jaundice, unspecified",Currently pregnant
+Q470.00,Idiopathic hydrops fetalis,Currently pregnant
+Q479.00,Non-immune hydrops fetalis,Currently pregnant
+Y60 AN,,Currently pregnant
+Z212.00,Antenatal care,Currently pregnant
+Z212.11,Pregnancy care,Currently pregnant
+Z212.12,Maternity care,Currently pregnant
+Z212100,Delivery place planned,Currently pregnant
+Z212200,Home delivery planned,Currently pregnant
+Z212300,Delivery place booked,Currently pregnant
+Z22..00,Pregnancy observations,Currently pregnant
+Z221.00,Primigravida,Currently pregnant
+Z222.00,Multigravida,Currently pregnant
+Z225.00,Normal pregnancy,Currently pregnant
+Z226.00,Pregnancy problem,Currently pregnant
+Z227.00,Confirmation of pregnancy,Currently pregnant
+Z229.00,Observation of position of pregnancy,Currently pregnant
+Z229100,Intrauterine pregnancy,Currently pregnant
+Z22A.00,Observation of pattern of pregnancy,Currently pregnant
+Z22A100,Low risk pregnancy,Currently pregnant
+Z22A200,High risk pregnancy,Currently pregnant
+Z22A211,HRP - High risk pregnancy,Currently pregnant
+Z22A300,Concealed pregnancy,Currently pregnant
+Z22A400,Early stage of pregnancy,Currently pregnant
+Z22A500,Biochemical pregnancy,Currently pregnant
+Z22A600,Teenage pregnancy,Currently pregnant
+Z22A700,Surrogate pregnancy,Currently pregnant
+Z22A800,Undiagnosed pregnancy,Currently pregnant
+Z22A900,Unwanted pregnancy,Currently pregnant
+Z22AA00,Wanted pregnancy,Currently pregnant
+Z22AB00,Unplanned pregnancy,Currently pregnant
+Z22AB11,Accidental pregnancy,Currently pregnant
+Z22AC00,Pregnancy with uncertain dates,Currently pregnant
+Z22AD00,Presentation of pregnancy,Currently pregnant
+Z22AD11,Reported conception - pregnancy,Currently pregnant
+Z22AE00,Baby overdue,Currently pregnant
+Z22B.00,Observation of quantity of pregnancy,Currently pregnant
+Z22B100,Single pregnancy,Currently pregnant
+Z22B500,Quintuplet pregnancy,Currently pregnant
+Z22B800,Undiagnosed multiple pregnancy,Currently pregnant
+Z22B900,Continuing pregnancy after abortion of sibling fetus,Currently pregnant
+Z22BA00,Contin pregnancy after intrauterine death of sibling fetus,Currently pregnant
+Z22C.00,Observation of measures of pregnancy,Currently pregnant
+Z22C100,Estimated date of delivery from last period,Currently pregnant
+Z22C200,Estimated date of delivery from last normal period,Currently pregnant
+Z22C300,Length of gestation,Currently pregnant
+Z22C311,Pregnancy duration,Currently pregnant
+Z22C312,Duration of gestation,Currently pregnant
+Z22C313,Duration of pregnancy,Currently pregnant
+Z22C314,Weeks pregnant,Currently pregnant
+Z22C500,Estimated date of conception,Currently pregnant
+Z22C511,EDC - Estimated date of conception,Currently pregnant
+Z22CF00,Date symptom of pregnancy first noted,Currently pregnant
+Z22D.00,Observation of viability of pregnancy,Currently pregnant
+Z22D100,Viable pregnancy,Currently pregnant
+Z22D200,Non-viable pregnancy,Currently pregnant
+Z22D300,Uncertain viability of pregnancy,Currently pregnant
+Z22D311,Query viability of pregnancy,Currently pregnant
+Z23..00,Observation of gravid uterus,Currently pregnant
+Z231.00,Gravid uterus present,Currently pregnant
+Z234.00,Observation of size of gravid uterus,Currently pregnant
+Z234100,Gravid uterus large-for-dates,Currently pregnant
+Z234200,Gravid uterus small-for-dates,Currently pregnant
+Z234300,Observation of height of gravid uterus,Currently pregnant
+Z234400,Fundal height high for dates,Currently pregnant
+Z234500,Fundal height equal to dates,Currently pregnant
+Z234600,Fundal height low for dates,Currently pregnant
+Z235.00,Observation of shape of pregnant abdomen,Currently pregnant
+Z235100,Ovoid pregnant abdomen,Currently pregnant
+Z235200,Rounded pregnant abdomen,Currently pregnant
+Z235300,Transversely enlarged pregnant abdomen,Currently pregnant
+Z235400,Pendulous pregnant abdomen,Currently pregnant
+Z236100,Normal position of gravid uterus,Currently pregnant
+Z237.00,Observation of sensation of gravid uterus,Currently pregnant
+Z237200,Tender scar of gravid uterus,Currently pregnant
+Z238112,Fundus firm,Currently pregnant
+Z239200,Uterine contractions absent,Currently pregnant
+Z239300,Uterine contractions ceased,Currently pregnant
+Z239800,Uterine activity,Currently pregnant
+Z23A100,Intermittent uterine contractions,Currently pregnant
+Z23A200,Occasional uterine tightenings,Currently pregnant
+Z23A400,Irregular uterine contractions,Currently pregnant
+Z23A700,Niggling uterine contractions,Currently pregnant
+Z23A800,Mild uterine contractions,Currently pregnant
+Z23AO00,Irritable uterus,Currently pregnant
+Z23AP00,Premature uterine contraction,Currently pregnant
+Z23B100,Date false contractions first detected,Currently pregnant
+Z23D100,Girth of pregnant abdomen,Currently pregnant
+Z23D200,Pregnant abdomen observation,Currently pregnant
+Z23E.00,Gravid uterus normal,Currently pregnant
+Z23F.00,Gravid uterus problem,Currently pregnant
+Z242.00,Labour not established,Currently pregnant
+Z243200,First stage of labour not established,Currently pregnant
+Z245100,Maternal blood loss minimal,Currently pregnant
+Z245400,Maternal blood loss heavy,Currently pregnant
+Z252.00,Mother not delivered,Currently pregnant
+Z26..00,Observation of structures of conception,Currently pregnant
+Z261.00,Observation of gestational sac,Currently pregnant
+Z261100,Gestational sac present,Currently pregnant
+Z261200,Gestational sac absent,Currently pregnant
+Z262C00,Retroplacental clot,Currently pregnant
+Z262D00,Fresh retroplacental clot,Currently pregnant
+Z262E00,Old retroplacental clot,Currently pregnant
+Z262E11,Stale retroplacental clot,Currently pregnant
+Z262J11,Placental infection,Currently pregnant
+Z262R00,Placenta problem,Currently pregnant
+Z263.00,Uterine membrane observations,Currently pregnant
+Z263900,Number of chorions in membranes,Currently pregnant
+Z263C00,Intact membranes,Currently pregnant
+Z264100,Observation of quantity of liquor,Currently pregnant
+Z264111,Quantity of liquor,Currently pregnant
+Z264112,Amount of liquor,Currently pregnant
+Z264400,Normal liquor volume,Currently pregnant
+Z264500,Reduced amniotic fluid,Currently pregnant
+Z264600,Excessive amniotic fluid,Currently pregnant
+Z265.00,Umbilical cord observations,Currently pregnant
+Z265200,Umbilical cord problem,Currently pregnant
+Z265A00,Number of blood vessels in umbilical cord,Currently pregnant
+Z265A11,Number of vessels entering umbilical cord,Currently pregnant
+Z265B00,Number of umbilical arteries,Currently pregnant
+Z265C00,Number of umbilical veins,Currently pregnant
+Z271.00,Cardiotochogram observation,Currently pregnant
+Z271.11,CTG observations,Currently pregnant
+Z271100,Fetal heart acceleration,Currently pregnant
+Z271200,Normal CTG tracing,Currently pregnant
+Z271400,Unsatisfactory CTG tracing,Currently pregnant
+Z271411,Technically poor CTG,Currently pregnant
+Z271500,CTG reactivity,Currently pregnant
+Z271600,Reactive CTG tracing,Currently pregnant
+Z271900,Fetal heart rate variability,Currently pregnant
+Z271912,FHRV - Fetal heart rate variability,Currently pregnant
+Z271C00,Fetal heart baseline pattern,Currently pregnant
+Z271D00,Normal fetal heart baseline pattern,Currently pregnant
+Z271E00,Sinusoidal pattern of fetal heart,Currently pregnant
+Z271F00,Fetal heart deceleration,Currently pregnant
+Z271G11,Type 1 dip,Currently pregnant
+Z271H11,Type 2 dip,Currently pregnant
+Z288.00,Problem of pelvis for delivery,Currently pregnant
+Z675.00,Antenatal class,Currently pregnant
+ZV22.00,[V]Normal pregnancy,Currently pregnant
+ZV22.11,[V]Supervision of normal pregnancy,Currently pregnant
+ZV22000,[V]First normal pregnancy supervision,Currently pregnant
+ZV22100,[V]Other normal pregnancy supervision,Currently pregnant
+ZV22200,[V]Pregnancy confirmed,Currently pregnant
+ZV22300,"[V]Pregnant state, incidental",Currently pregnant
+ZV22400,[V]Supervision of other normal pregnancy,Currently pregnant
+ZV22y00,[V]Other specified pregnant state,Currently pregnant
+ZV22z00,[V]Unspecified pregnant state,Currently pregnant
+ZV23.00,[V]High-risk pregnancy supervision,Currently pregnant
+ZV23000,[V]Pregnancy with history of infertility,Currently pregnant
+ZV23100,[V]Pregnancy with history of trophoblastic disease,Currently pregnant
+ZV23111,[V]Pregnancy with history of hydatidiform mole,Currently pregnant
+ZV23200,[V]Pregnancy with history of abortion,Currently pregnant
+ZV23400,[V]Pregnancy with other poor obstetric history,Currently pregnant
+ZV23600,[V]Supervisn/pregnancy wth history insufficnt antenatal care,Currently pregnant
+ZV23800,[V]Supervision of high-risk pregnancy due to social problems,Currently pregnant
+ZV23y00,[V]Other specified high-risk pregnancy,Currently pregnant
+ZV23z00,[V]Unspecified high-risk pregnancy,Currently pregnant
+ZV28.00,[V]Antenatal screening,Currently pregnant
+ZV28y00,[V]Other specified antenatal screening,Currently pregnant
+ZV4J000,[V]Problems related to unwanted pregnancy,Currently pregnant
+ZV61800,[V]Illegitimate pregnancy,Currently pregnant
+ZV61900,[V]Other unwanted pregnancy,Currently pregnant
+L00..00,Hydatidiform mole,Abnormal product of conception
+L00..11,Trophoblastic disease,Abnormal product of conception
+L00..12,Vesicular mole,Abnormal product of conception
+L000.00,Classical hydatidiform mole,Abnormal product of conception
+L001.00,Incomplete and partial hydatidiform mole,Abnormal product of conception
+L01..00,Other abnormal product of conception,Abnormal product of conception
+L010.00,Blighted ovum,Abnormal product of conception
+L010.11,Anembryonic pregnancy,Abnormal product of conception
+L011.00,Carneous mole,Abnormal product of conception
+L011.11,Fleshy mole,Abnormal product of conception
+L01z.00,Other abnormal product of conception NOS,Abnormal product of conception
+L0...00,Pregnancy with abortive outcome,Spontaneous abortion
+L02..00,Missed abortion,Spontaneous abortion
+L04..00,Spontaneous abortion,Spontaneous abortion
+L04..11,Miscarriage,Spontaneous abortion
+L040.00,Spontaneous abortion unspecified,Spontaneous abortion
+L040000,Unspec spontaneous abortion + genital tract/pelvic infection,Spontaneous abortion
+L040011,Spontaneous abortion with sepsis,Spontaneous abortion
+L040100,Unspec spontaneous abortion + delayed/excessive haemorrhage,Spontaneous abortion
+L040111,Spontaneous abortion with heavy bleeding,Spontaneous abortion
+L040900,Inevitable miscarriage,Spontaneous abortion
+L040w00,Unspec spontaneous abortion + other specified complication,Spontaneous abortion
+L040y00,Unspec spontaneous abortion without mention of complication,Spontaneous abortion
+L040z00,Unspecified spontaneous abortion NOS,Spontaneous abortion
+L041.00,Spontaneous abortion incomplete,Spontaneous abortion
+L041000,Incomp spontaneous abortion + genital tract/pelvic infection,Spontaneous abortion
+L041100,Incomp spontaneous abortion + delayed/excessive haemorrhage,Spontaneous abortion
+L041w00,Incomp spontaneous abortion + other specified complication,Spontaneous abortion
+L041x00,Incomplete spontaneous abortion with complication NOS,Spontaneous abortion
+L041y00,Incomp spontaneous abortion with no mention of complication,Spontaneous abortion
+L041z00,Incomplete spontaneous abortion NOS,Spontaneous abortion
+L041z11,Retained products after spontaneous abortion,Spontaneous abortion
+L042.00,Spontaneous abortion complete,Spontaneous abortion
+L042w00,Complete spontaneous abortion + other specified complication,Spontaneous abortion
+L042x00,Complete spontaneous abortion with complication NOS,Spontaneous abortion
+L042y00,Complete spontaneous abortion + no mention of complication,Spontaneous abortion
+L042z00,Complete spontaneous abortion NOS,Spontaneous abortion
+L043.00,Inevitable abortion unspecified,Spontaneous abortion
+L043.11,Inevitable miscarriage unspecified,Spontaneous abortion
+L043x00,Unspecified inevitable abortion with unspec complication,Spontaneous abortion
+L043y00,Unspecified inevitable abortion with OS complication,Spontaneous abortion
+L043z00,Unspecified inevitable abortion without complication,Spontaneous abortion
+L044.00,Inevitable abortion incomplete,Spontaneous abortion
+L044.11,Inevitable miscarriage incomp,Spontaneous abortion
+L044000,Incomp inev abor comp by genital tract and pelvic infection,Spontaneous abortion
+L044200,Incomplete inevitable abortion complicated by embolism,Spontaneous abortion
+L044x00,Incomplete inevitable abortion with unspecified complication,Spontaneous abortion
+L044x11,Incomplete inevitable miscarriage with unspecified comp,Spontaneous abortion
+L044y00,Incomplete inevitable abortion with OS complication,Spontaneous abortion
+L044y11,Incomplete inevitable miscarriage with other specified comp,Spontaneous abortion
+L044z00,Incomplete inevitable abortion without complication,Spontaneous abortion
+L044z11,Incomplete inevitable miscarriage without complication,Spontaneous abortion
+L045.00,Inevitable abortion complete,Spontaneous abortion
+L045.11,Inevitable miscarriage complete,Spontaneous abortion
+L045x00,Complete inevitable abortion with unspecified complication,Spontaneous abortion
+L045y00,Complete inevitable abortion with OS complication,Spontaneous abortion
+L045y11,Complete inevitable miscarriage with OS complication,Spontaneous abortion
+L045z00,Complete inevitable abortion without complication,Spontaneous abortion
+L045z11,Complete inevitable miscarriage without complication,Spontaneous abortion
+L04z.00,Spontaneous abortion NOS,Spontaneous abortion
+L097000,"Readmis for retain products of concept, spontaneous abortion",Spontaneous abortion
+L10zz11,Inevitable abortion,Spontaneous abortion
+Infinity,Open removal of products of conception from uterus NEC,Termination of pregnancy
+Infinity,Hysterotomy and termination of pregnancy,Termination of pregnancy
+Infinity,Dilation cervix uteri & curettage for termination pregnancy,Termination of pregnancy
+Infinity,Curettage of uterus for termination of pregnancy NEC,Termination of pregnancy
+Infinity,Curettage of uterus for termination of pregnancy NEC,Termination of pregnancy
+Infinity,Suction termination of pregnancy,Termination of pregnancy
+Infinity,Vacuum termination of pregnancy,Termination of pregnancy
+Infinity,Dilation of cervix and extraction termination of pregnancy,Termination of pregnancy
+Infinity,Termination of pregnancy NEC,Termination of pregnancy
+9Ea..00,Reason for termination of pregnancy,Termination of pregnancy
+9Ea0.00,Risk life pregnant woman greater than if pregnancy terminatd,Termination of pregnancy
+9Ea2.00,Less 24 wk involv risk injury physic/mentl health preg woman,Termination of pregnancy
+9Ea4.00,Unborn child at risk physi/ment abnormal serious handicap,Termination of pregnancy
+L05..00,Legally induced abortion,Termination of pregnancy
+L05..11,Elective abortion,Termination of pregnancy
+L05..12,Termination of pregnancy,Termination of pregnancy
+L05..13,Therapeutic abortion,Termination of pregnancy
+L050.00,Legal abortion unspecified,Termination of pregnancy
+L050000,Unspecified legal abortion + genital tract/pelvic infection,Termination of pregnancy
+L050w00,Unspecified legal abortion with other specified complication,Termination of pregnancy
+L050x00,Unspecified legal abortion with complication NOS,Termination of pregnancy
+L050y00,Unspecified legal abortion with no mention of complication,Termination of pregnancy
+L050z00,Unspecified legal abortion NOS,Termination of pregnancy
+L051.00,Legal abortion incomplete,Termination of pregnancy
+L051.11,Medal abortion - incomplete,Termination of pregnancy
+L051.12,Surgical abortion - incomplete,Termination of pregnancy
+L051100,Incomplete legal abortion + delayed or excessive haemorrhage,Termination of pregnancy
+L051w00,Incomplete legal abortion with other specified complication,Termination of pregnancy
+L051y00,Incomplete legal abortion with no mention of complication,Termination of pregnancy
+L051z00,Incomplete legal abortion NOS,Termination of pregnancy
+L052.00,Legal abortion complete,Termination of pregnancy
+L052.11,Medical abortion - complete,Termination of pregnancy
+L052.12,Surgical abortion - complete,Termination of pregnancy
+L052000,Complete legal abortion + genital tract or pelvic infection,Termination of pregnancy
+L052100,Complete legal abortion with delayed/excessive haemorrhage,Termination of pregnancy
+L052x00,Complete legal abortion with complication NOS,Termination of pregnancy
+L052y00,Complete legal abortion with no mention of complication,Termination of pregnancy
+L052z00,Complete legal abortion NOS,Termination of pregnancy
+L05z.00,Legally induced abortion NOS,Termination of pregnancy
+L06..00,Illegally induced abortion,Termination of pregnancy
+L06..11,Criminal abortion,Termination of pregnancy
+L06..12,Self-induced abortion,Termination of pregnancy
+L060.00,Illegal abortion unspecified,Termination of pregnancy
+L060z00,Unspecified illegal abortion NOS,Termination of pregnancy
+L061.00,Illegal abortion incomplete,Termination of pregnancy
+L061z00,Incomplete illegal abortion NOS,Termination of pregnancy
+L062.00,Illegal abortion complete,Termination of pregnancy
+L062w00,Complete illegal abortion with other specified complication,Termination of pregnancy
+L06z.00,Illegally induced abortion NOS,Termination of pregnancy
+L08..00,Failed attempted abortion,Termination of pregnancy
+L08z.00,Failed attempted abortion NOS,Termination of pregnancy
+L097100,"Readmission for retained produc of concept, legal abortion",Termination of pregnancy
+L097200,"Readmission for retained produc of concept, illegal abortion",Termination of pregnancy
+L09yz00,Other specified complication NOS follow abortive pregnancy,Termination of pregnancy
+L09z.00,Complication NOS following abortion/ectopic/molar pregnancy,Termination of pregnancy
+L0A..00,Failed attempted abortion,Termination of pregnancy
+L0A1.00,Failed medical abortion complic by genital tract/pelvic infn,Termination of pregnancy
+L0A2.00,Failed medical abortion comp by delayed/excessive haem'ge,Termination of pregnancy
+L0A3.00,"Failed medical abortion, complicated by embolism",Termination of pregnancy
+L0A4.00,"Failed medical abortion, without complication",Termination of pregnancy
+ZV25311,[V]Admission for termination of pregnancy (TOP),Termination of pregnancy
+ZV25313,[V]Admission for termination of pregnancy,Termination of pregnancy
+L07..00,Unspecified abortion,Unspecified abortion
+L070.00,Unspecified abortion,Unspecified abortion
+L070x00,Unspecified abortion with complication NOS,Unspecified abortion
+L070z00,Unspecified abortion NOS,Unspecified abortion
+L071.00,Unspecified abortion incomplete,Unspecified abortion
+L071500,Unspecified incomplete abortion with shock,Unspecified abortion
+L071y00,Unspecified incomplete abortion + no mention of complication,Unspecified abortion
+L071z00,Unspecified incomplete abortion NOS,Unspecified abortion
+L072.00,Unspecified abortion complete,Unspecified abortion
+L072z00,Unspecified complete abortion NOS,Unspecified abortion
+L07z.00,Unspecified abortion NOS,Unspecified abortion
+L09..00,Complications following abortion/ectopic/molar pregnancies,Unspecified abortion
+L09..11,Complications following abortion/ectopic/molar pregnancies,Unspecified abortion
+L090.00,Genital or pelvic infection following abortive pregnancy,Unspecified abortion
+L090000,Endometritis following abortive pregnancy,Unspecified abortion
+L090100,Parametritis following abortive pregnancy,Unspecified abortion
+L090200,Pelvic peritonitis following abortive pregnancy,Unspecified abortion
+L090300,Salpingitis following abortive pregnancy,Unspecified abortion
+L090400,Salpingo-oophoritis following abortive pregnancy,Unspecified abortion
+L090y00,Sepsis NOS following abortion/ectopic/molar pregnancy,Unspecified abortion
+L090z00,Septicaemia NOS following abortive pregnancy,Unspecified abortion
+L091.00,Delayed/excessive haemorrhage following abortive pregnancy,Unspecified abortion
+L091100,Defibrination syndrome following abortive pregnancy,Unspecified abortion
+L091z00,Delayed/excess haemorrhage NOS following abortive pregnancy,Unspecified abortion
+L092000,Bladder damage following abortive pregnancy,Unspecified abortion
+L092300,Cervix damage following abortive pregnancy,Unspecified abortion
+L092500,Uterus damage following abortive pregnancy,Unspecified abortion
+L093.00,Renal failure following abortive pregnancy,Unspecified abortion
+L093000,Oliguria following abortive pregnancy,Unspecified abortion
+L093400,Uraemia following abortive pregnancy,Unspecified abortion
+L095.00,Shock following abortive pregnancy,Unspecified abortion
+L096.00,Embolism following abortive pregnancy,Unspecified abortion
+L096.11,Embolus following abortive pregnancy,Unspecified abortion
+L096400,Pulmonary embolism following abortive pregnancy,Unspecified abortion
+L096600,Septic embolism following abortive pregnancy,Unspecified abortion
+L097.00,Readmission for abortive pregnancy (NHS codes),Unspecified abortion
+L097.11,Readmission for retained products of conception (NHS codes),Unspecified abortion
+L097300,"Readmission for retained produc of concept, unspec abortion",Unspecified abortion
+L0y..00,Other specified pregnancy with abortive outcome,Unspecified abortion
+L0z..00,Pregnancy with abortive outcome NOS,Unspecified abortion
+Lyu0200,[X]Other abortion,Unspecified abortion
+Lyu0B00,"[X]Complic following abortion & ectopic & molar preg, unspec",Unspecified abortion
+14Y0.00,Born by caesarean section,"Labour, delivery or condition at birth"
+14Y1.00,Born by forceps delivery,"Labour, delivery or condition at birth"
+14Y2.00,Born by elective caesarean section,"Labour, delivery or condition at birth"
+14Y3.00,Born by normal vaginal delivery,"Labour, delivery or condition at birth"
+14Y4.00,Born by breech delivery,"Labour, delivery or condition at birth"
+14Y5.00,Born by ventouse delivery,"Labour, delivery or condition at birth"
+14Y6.00,Born by emergency caesarean section,"Labour, delivery or condition at birth"
+62B7.00,Domino delivery,"Labour, delivery or condition at birth"
+62H6.00,Rh screen - cord blood sample,"Labour, delivery or condition at birth"
+62O5.00,Spontaneous membrane rupture,"Labour, delivery or condition at birth"
+62X4.00,Length of gestation at birth,"Labour, delivery or condition at birth"
+63...00,Birth details,"Labour, delivery or condition at birth"
+631..11,Born - place delivered,"Labour, delivery or condition at birth"
+6311,Home birth,"Labour, delivery or condition at birth"
+6312,GP unit birth,"Labour, delivery or condition at birth"
+6313,Consultant unit birth,"Labour, delivery or condition at birth"
+6314,Nursing home birth,"Labour, delivery or condition at birth"
+6315,Ambulance birth,"Labour, delivery or condition at birth"
+6316,Born before arrival,"Labour, delivery or condition at birth"
+632..00,Length of labour,"Labour, delivery or condition at birth"
+6321,1st stage of labour length,"Labour, delivery or condition at birth"
+6322,2nd stage of labour length,"Labour, delivery or condition at birth"
+6323,3rd stage of labour length,"Labour, delivery or condition at birth"
+632Z.00,Length of labour NOS,"Labour, delivery or condition at birth"
+633..00,Outcome of delivery,"Labour, delivery or condition at birth"
+633..11,Livebirth,"Labour, delivery or condition at birth"
+633..13,Triplet birth,"Labour, delivery or condition at birth"
+633..14,Twin birth,"Labour, delivery or condition at birth"
+6331,Single live birth,"Labour, delivery or condition at birth"
+6333,Twins - both live born,"Labour, delivery or condition at birth"
+6336,Triplets - all live born,"Labour, delivery or condition at birth"
+633Z.00,Outcome of delivery NOS,"Labour, delivery or condition at birth"
+633a.00,Birth of child,"Labour, delivery or condition at birth"
+634..11,Delivery - sex of baby,"Labour, delivery or condition at birth"
+634..12,Female baby,"Labour, delivery or condition at birth"
+634..13,Male baby,"Labour, delivery or condition at birth"
+6341,Baby male,"Labour, delivery or condition at birth"
+6342,Baby female,"Labour, delivery or condition at birth"
+6343,2 male babies,"Labour, delivery or condition at birth"
+6344,2 female babies,"Labour, delivery or condition at birth"
+6345,1 male + 1 female baby,"Labour, delivery or condition at birth"
+6346,3 male babies,"Labour, delivery or condition at birth"
+6348,1 male + 2 female babies,"Labour, delivery or condition at birth"
+635..00,Maturity of baby,"Labour, delivery or condition at birth"
+635..11,Full term baby,"Labour, delivery or condition at birth"
+635..12,Postmature baby,"Labour, delivery or condition at birth"
+635..13,Premature baby,"Labour, delivery or condition at birth"
+6351,Baby premature 36-38 weeks,"Labour, delivery or condition at birth"
+6352,Baby v. premature 32-36 weeks,"Labour, delivery or condition at birth"
+6353,Baby extremely prem.28-32 week,"Labour, delivery or condition at birth"
+6354,Baby full term maturity,"Labour, delivery or condition at birth"
+6355,Baby post-mature,"Labour, delivery or condition at birth"
+6356,Baby premature 26-28 weeks,"Labour, delivery or condition at birth"
+6357,Baby premature 24-26 weeks,"Labour, delivery or condition at birth"
+6358,Baby premature 39 weeks,"Labour, delivery or condition at birth"
+6359,Baby premature 38 weeks,"Labour, delivery or condition at birth"
+635A.00,Baby premature 37 weeks,"Labour, delivery or condition at birth"
+635B.00,Baby premature 36 weeks,"Labour, delivery or condition at birth"
+635Z.00,Baby maturity NOS,"Labour, delivery or condition at birth"
+636..00,Birthweight of baby,"Labour, delivery or condition at birth"
+636..11,Birthweight,"Labour, delivery or condition at birth"
+6361,Baby BW = < 3% (under 2500g),"Labour, delivery or condition at birth"
+6362,Baby BW = 3% - 9% (2500-2849g),"Labour, delivery or condition at birth"
+6363,Baby BW = 10%-24% (2850-3149g),"Labour, delivery or condition at birth"
+6364,Baby BW = 25%-49% (3150-3449g),"Labour, delivery or condition at birth"
+6365,Baby BW = 50%-74% (3450-3749g),"Labour, delivery or condition at birth"
+6366,Baby BW = 75%-89% (3750-4049g),"Labour, delivery or condition at birth"
+6367,Baby BW = 90%-96% (4050-4399g),"Labour, delivery or condition at birth"
+6368,Baby BW = > 96% (over 4499g),"Labour, delivery or condition at birth"
+6369,Baby BW = 4400 - 4499g,"Labour, delivery or condition at birth"
+636A.00,Baby BW = below 751gm,"Labour, delivery or condition at birth"
+636B.00,Baby BW = 751g-1kg,"Labour, delivery or condition at birth"
+636C.00,Baby BW = 1.0-1.5kg,"Labour, delivery or condition at birth"
+636D.00,Baby BW = 1.5-2.0kg,"Labour, delivery or condition at birth"
+636E.00,Baby BW = 2.0 - 2.5kg,"Labour, delivery or condition at birth"
+636F.00,Baby BW = above 2.5kg,"Labour, delivery or condition at birth"
+636Z.00,Birthweight of baby NOS,"Labour, delivery or condition at birth"
+637..00,Birth head circumference,"Labour, delivery or condition at birth"
+6371,Birth HC = < 3rd centile,"Labour, delivery or condition at birth"
+6372,Birth HC = 3rd-9th centile,"Labour, delivery or condition at birth"
+6373,Birth HC = 10th-24th centile,"Labour, delivery or condition at birth"
+6374,Birth HC = 25th-49th centile,"Labour, delivery or condition at birth"
+6375,Birth HC = 50th-74th centile,"Labour, delivery or condition at birth"
+6376,Birth HC = 75th-89th centile,"Labour, delivery or condition at birth"
+6377,Birth HC = 90th-96th centile,"Labour, delivery or condition at birth"
+6378,Birth HC = > 97th centile,"Labour, delivery or condition at birth"
+637Z.00,Birth head circumference NOS,"Labour, delivery or condition at birth"
+638..00,Birth length,"Labour, delivery or condition at birth"
+6381,Birth length = < 3rd centile,"Labour, delivery or condition at birth"
+6384,Birth length=25th-49th centile,"Labour, delivery or condition at birth"
+6385,Birth length=50th-74th centile,"Labour, delivery or condition at birth"
+6386,Birth length=75th-89th centile,"Labour, delivery or condition at birth"
+638Z.00,Birth length = > 97th centile,"Labour, delivery or condition at birth"
+639..00,Apgar at 1 minute,"Labour, delivery or condition at birth"
+6391,Apgar at 1 minute = 0,"Labour, delivery or condition at birth"
+6392,Apgar at 1 minute = 1,"Labour, delivery or condition at birth"
+6393,Apgar at 1 minute = 2,"Labour, delivery or condition at birth"
+6394,Apgar at 1 minute = 3,"Labour, delivery or condition at birth"
+6395,Apgar at 1 minute = 4,"Labour, delivery or condition at birth"
+6396,Apgar at 1 minute = 5,"Labour, delivery or condition at birth"
+6397,Apgar at 1 minute = 6,"Labour, delivery or condition at birth"
+6398,Apgar at 1 minute = 7,"Labour, delivery or condition at birth"
+6399,Apgar at 1 minute = 8,"Labour, delivery or condition at birth"
+639A.00,Apgar at 1 minute = 9,"Labour, delivery or condition at birth"
+639B.00,Apgar at 1 minute = 10,"Labour, delivery or condition at birth"
+639Z.00,Apgar at 1 minute NOS,"Labour, delivery or condition at birth"
+63A..00,Apgar at 5 minutes,"Labour, delivery or condition at birth"
+63A1.00,Apgar at 5 minutes = 0,"Labour, delivery or condition at birth"
+63A2.00,Apgar at 5 minutes = 1,"Labour, delivery or condition at birth"
+63A3.00,Apgar at 5 minutes = 2,"Labour, delivery or condition at birth"
+63A4.00,Apgar at 5 minutes = 3,"Labour, delivery or condition at birth"
+63A5.00,Apgar at 5 minutes = 4,"Labour, delivery or condition at birth"
+63A6.00,Apgar at 5 minutes = 5,"Labour, delivery or condition at birth"
+63A7.00,Apgar at 5 minutes = 6,"Labour, delivery or condition at birth"
+63A8.00,Apgar at 5 minutes = 7,"Labour, delivery or condition at birth"
+63A9.00,Apgar at 5 minutes = 8,"Labour, delivery or condition at birth"
+63AA.00,Apgar at 5 minutes = 9,"Labour, delivery or condition at birth"
+63AB.00,Apgar at 5 minutes = 10,"Labour, delivery or condition at birth"
+63AZ.00,Apgar at 5 minutes NOS,"Labour, delivery or condition at birth"
+63B..00,Apgar at 10 minutes,"Labour, delivery or condition at birth"
+63B1.00,Apgar at 10 minutes = 0,"Labour, delivery or condition at birth"
+63B2.00,Apgar at 10 minutes = 1,"Labour, delivery or condition at birth"
+63B3.00,Apgar at 10 minutes = 2,"Labour, delivery or condition at birth"
+63B4.00,Apgar at 10 minutes = 3,"Labour, delivery or condition at birth"
+63B6.00,Apgar at 10 minutes = 5,"Labour, delivery or condition at birth"
+63B7.00,Apgar at 10 minutes = 6,"Labour, delivery or condition at birth"
+63B8.00,Apgar at 10 minutes = 7,"Labour, delivery or condition at birth"
+63B9.00,Apgar at 10 minutes = 8,"Labour, delivery or condition at birth"
+63BA.00,Apgar at 10 minutes = 9,"Labour, delivery or condition at birth"
+63BB.00,Apgar at 10 minutes = 10,"Labour, delivery or condition at birth"
+63BZ.00,Apgar at 10 minutes NOS,"Labour, delivery or condition at birth"
+63D1.00,Placental weight,"Labour, delivery or condition at birth"
+63D2.00,Placenta normal O/E,"Labour, delivery or condition at birth"
+63D3.00,Placenta diameter,"Labour, delivery or condition at birth"
+63D4.00,Placental infarct,"Labour, delivery or condition at birth"
+63D6.00,Placenta incomplete,"Labour, delivery or condition at birth"
+63E..00,Labour details,"Labour, delivery or condition at birth"
+63E1.00,Spontaneous onset of labour,"Labour, delivery or condition at birth"
+63E2.00,Normal birth,"Labour, delivery or condition at birth"
+63E3.00,Normal labour,"Labour, delivery or condition at birth"
+11/1/63,Apgar normal,"Labour, delivery or condition at birth"
+64B..00,Child exam. - birth,"Labour, delivery or condition at birth"
+64B2.00,Child birth exam. - normal,"Labour, delivery or condition at birth"
+64B2.11,Baby normal at birth,"Labour, delivery or condition at birth"
+64B3.00,Birth exam. abnormal -for obs.,"Labour, delivery or condition at birth"
+64B4.00,Birth exam. abnormal -referred,"Labour, delivery or condition at birth"
+64B5.00,Birth exam abn. - on treatment,"Labour, delivery or condition at birth"
+64BZ.00,Child exam. - birth NOS,"Labour, delivery or condition at birth"
+7D10000,Posterior episiotomy and division of levator ani muscle,"Labour, delivery or condition at birth"
+7F...11,Childbirth operations,"Labour, delivery or condition at birth"
+7F...13,Puerperium operations,"Labour, delivery or condition at birth"
+7F04300,Electrode applied to fetal scalp,"Labour, delivery or condition at birth"
+7F1..00,Induction and delivery operations,"Labour, delivery or condition at birth"
+7F1..11,Labour operations,"Labour, delivery or condition at birth"
+7F10.00,Surgical induction of labour,"Labour, delivery or condition at birth"
+7F10000,Fore water rupture of amniotic membrane,"Labour, delivery or condition at birth"
+7F10100,Hind water rupture of amniotic membrane,"Labour, delivery or condition at birth"
+7F10z00,Surgical induction of labour NOS,"Labour, delivery or condition at birth"
+7F10z11,Artificial rupture of membranes,"Labour, delivery or condition at birth"
+7F10z12,ARM,"Labour, delivery or condition at birth"
+7F11.00,Other induction of labour,"Labour, delivery or condition at birth"
+7F11000,Oxytocic induction of labour,"Labour, delivery or condition at birth"
+7F11100,Induction of labour using prostaglandins,"Labour, delivery or condition at birth"
+7F11200,Syntocinon induction of labour,"Labour, delivery or condition at birth"
+7F11y00,Other specified other induction of labour,"Labour, delivery or condition at birth"
+7F11z00,Other induction of labour NOS,"Labour, delivery or condition at birth"
+7F12.00,Elective caesarean delivery,"Labour, delivery or condition at birth"
+7F12000,Elective upper uterine segment caesarean delivery,"Labour, delivery or condition at birth"
+7F12100,Elective lower uterine segment caesarean delivery,"Labour, delivery or condition at birth"
+7F12111,Elective lower uterine segment caesarean section (LSCS),"Labour, delivery or condition at birth"
+7F12y00,Other specified elective caesarean delivery,"Labour, delivery or condition at birth"
+7F12z00,Elective caesarean delivery NOS,"Labour, delivery or condition at birth"
+7F13.00,Other caesarean delivery,"Labour, delivery or condition at birth"
+7F13000,Upper uterine segment caesarean delivery NEC,"Labour, delivery or condition at birth"
+7F13100,Lower uterine segment caesarean delivery NEC,"Labour, delivery or condition at birth"
+7F13111,Lower uterine segment caesarean section (LSCS) NEC,"Labour, delivery or condition at birth"
+7F13200,Extraperitoneal caesarean section,"Labour, delivery or condition at birth"
+7F13300,Emergency caesarean section,"Labour, delivery or condition at birth"
+7F13y00,Other specified other caesarean delivery,"Labour, delivery or condition at birth"
+7F13z00,Other caesarean delivery NOS,"Labour, delivery or condition at birth"
+7F14.00,Breech extraction delivery,"Labour, delivery or condition at birth"
+7F14100,Forceps to aftercoming head (breech),"Labour, delivery or condition at birth"
+7F14y00,Other specified breech extraction delivery,"Labour, delivery or condition at birth"
+7F14z00,Breech extraction delivery NOS,"Labour, delivery or condition at birth"
+7F15.00,Other breech delivery,"Labour, delivery or condition at birth"
+7F15000,Spontaneous breech delivery,"Labour, delivery or condition at birth"
+7F15100,Assisted breech delivery,"Labour, delivery or condition at birth"
+7F15y00,Other specified other breech delivery,"Labour, delivery or condition at birth"
+7F15z00,Other breech delivery NOS,"Labour, delivery or condition at birth"
+7F16.00,Forceps cephalic delivery,"Labour, delivery or condition at birth"
+7F16000,High forceps cephalic delivery with rotation,"Labour, delivery or condition at birth"
+7F16100,High forceps cephalic delivery NEC,"Labour, delivery or condition at birth"
+7F16200,Mid forceps cephalic delivery with rotation,"Labour, delivery or condition at birth"
+7F16300,Mid forceps cephalic delivery NEC,"Labour, delivery or condition at birth"
+7F16400,Low forceps cephalic delivery,"Labour, delivery or condition at birth"
+7F16500,Trial of forceps delivery,"Labour, delivery or condition at birth"
+7F16600,Failed forceps delivery,"Labour, delivery or condition at birth"
+7F16700,Barton forceps cephalic delivery with rotation,"Labour, delivery or condition at birth"
+7F16900,Kielland forceps cephalic delivery with rotation,"Labour, delivery or condition at birth"
+7F16y00,Other specified forceps cephalic delivery,"Labour, delivery or condition at birth"
+7F16z00,Forceps cephalic delivery NOS,"Labour, delivery or condition at birth"
+7F17.00,Vacuum delivery,"Labour, delivery or condition at birth"
+7F17.11,Ventouse delivery,"Labour, delivery or condition at birth"
+7F17.12,Ventouse extraction,"Labour, delivery or condition at birth"
+7F17100,Low vacuum delivery,"Labour, delivery or condition at birth"
+7F17200,Vacuum delivery before full dilation of cervix,"Labour, delivery or condition at birth"
+7F17300,Trial of vacuum delivery,"Labour, delivery or condition at birth"
+7F17y00,Other specified vacuum delivery,"Labour, delivery or condition at birth"
+7F17z00,Vacuum delivery NOS,"Labour, delivery or condition at birth"
+7F18.00,Cephalic vaginal deliv abnorm presentation head - no instrum,"Labour, delivery or condition at birth"
+7F18000,Manip cephalic vaginal deliv abnorm pres head without instrm,"Labour, delivery or condition at birth"
+7F18y00,Cephalic vagin deliv abnorm pres head without instrument OS,"Labour, delivery or condition at birth"
+7F18z00,Cephalic vagin deliv abnorm pres head without instrument NOS,"Labour, delivery or condition at birth"
+7F19.00,Normal delivery,"Labour, delivery or condition at birth"
+7F19000,Manually assisted vaginal delivery,"Labour, delivery or condition at birth"
+7F19100,Water birth delivery,"Labour, delivery or condition at birth"
+7F19y00,Other specified normal delivery,"Labour, delivery or condition at birth"
+7F19z00,Normal delivery NOS,"Labour, delivery or condition at birth"
+7F1A.00,Other methods of delivery,"Labour, delivery or condition at birth"
+7F1A000,Caesarean hysterectomy,"Labour, delivery or condition at birth"
+7F1A200,Cleidotomy of fetus to facilitate delivery,"Labour, delivery or condition at birth"
+7F1A400,Trial of labour NEC,"Labour, delivery or condition at birth"
+7F1Ay00,Other specified other method of delivery,"Labour, delivery or condition at birth"
+7F1Az00,Other method of delivery NOS,"Labour, delivery or condition at birth"
+7F1B.00,Other operations to facilitate delivery,"Labour, delivery or condition at birth"
+7F1B000,Episiotomy to facilitate delivery,"Labour, delivery or condition at birth"
+7F1B100,Symphysiotomy to facilitate delivery,"Labour, delivery or condition at birth"
+7F1B300,Manual dilatation of cervix,"Labour, delivery or condition at birth"
+7F1B400,Incision of cervix to facilitate delivery,"Labour, delivery or condition at birth"
+7F1y.00,Other specified induction or delivery operations,"Labour, delivery or condition at birth"
+7F1z.00,Induction and delivery operations NOS,"Labour, delivery or condition at birth"
+7F20.00,Instrument removal retained products conception deliv uterus,"Labour, delivery or condition at birth"
+7F20000,Curettage of delivered uterus,"Labour, delivery or condition at birth"
+7F20y00,Instrumental removal products of concep delivered uterus OS,"Labour, delivery or condition at birth"
+7F20z00,Instrumental removal products of concep delivered uterus NOS,"Labour, delivery or condition at birth"
+7F21.00,Manual removal retained products conception delivered uterus,"Labour, delivery or condition at birth"
+7F21000,Manual removal of placenta from delivered uterus,"Labour, delivery or condition at birth"
+7F21y00,Manual removal products of conception delivered uterus OS,"Labour, delivery or condition at birth"
+7F21z00,Manual removal products of conception delivered uterus NOS,"Labour, delivery or condition at birth"
+7F22.00,Other operations on delivered uterus,"Labour, delivery or condition at birth"
+7F22000,Repositioning of inverted delivered uterus,"Labour, delivery or condition at birth"
+7F22100,Expression of placenta,"Labour, delivery or condition at birth"
+7F22111,Brandt-Andrews expression of placenta,"Labour, delivery or condition at birth"
+7F22200,Instrumental exploration of delivered uterus NEC,"Labour, delivery or condition at birth"
+7F22300,Manual exploration of delivered uterus NEC,"Labour, delivery or condition at birth"
+7F22500,Normal delivery of placenta,"Labour, delivery or condition at birth"
+7F22700,Pack to control postnatal vaginal bleeding,"Labour, delivery or condition at birth"
+7F22711,Pack to control postnatal vaginal bleeding,"Labour, delivery or condition at birth"
+7F22712,Pack to control postnatal haemorrhage,"Labour, delivery or condition at birth"
+7F22z00,Other operation on delivered uterus NOS,"Labour, delivery or condition at birth"
+7F23.00,Immediate repair of obstetric laceration,"Labour, delivery or condition at birth"
+7F23.11,Immediate repair of obstetric tear,"Labour, delivery or condition at birth"
+7F23.12,Immediate suture of obstetric laceration,"Labour, delivery or condition at birth"
+7F23000,Immed repair obstetric laceration of uterus or cervix uteri,"Labour, delivery or condition at birth"
+7F23100,Immed repair obstetric laceration perineum & anal sphincter,"Labour, delivery or condition at birth"
+7F23200,Immed repair obstetric laceration vagina and floor of pelvis,"Labour, delivery or condition at birth"
+7F23300,Immediate repair of minor obstetric laceration,"Labour, delivery or condition at birth"
+7F23400,Repair of episiotomy,"Labour, delivery or condition at birth"
+7F23500,Repair of ruptured uterus,"Labour, delivery or condition at birth"
+7F23y00,Other specified immediate repair of obstetric laceration,"Labour, delivery or condition at birth"
+7F23z00,Immediate repair of obstetric laceration NOS,"Labour, delivery or condition at birth"
+7F24000,Secondary repair of obstetric laceration,"Labour, delivery or condition at birth"
+7F24200,Repositioning of umbilical cord,"Labour, delivery or condition at birth"
+7F25.13,Monitoring during labour,"Labour, delivery or condition at birth"
+7F25100,Fetal heart monitoring in labour,"Labour, delivery or condition at birth"
+7L13000,Neonatal exchange blood transfusion,"Labour, delivery or condition at birth"
+7L16000,Intravenous induction of labour,"Labour, delivery or condition at birth"
+7M33100,Epidural anaesthetic using lumbar approach,"Labour, delivery or condition at birth"
+7M35000,Gas and air analgesia in labour,"Labour, delivery or condition at birth"
+7M35011,Entonox analgesia in labour,"Labour, delivery or condition at birth"
+7N61111,[SO]Delivered uterus,"Labour, delivery or condition at birth"
+8HE7.00,Discharged from hospital within 6 hours of delivery,"Labour, delivery or condition at birth"
+8M5..00,Patient requested epidural,"Labour, delivery or condition at birth"
+L030000,Delivery of viable fetus in abdominal pregnancy,"Labour, delivery or condition at birth"
+L100100,Threatened abortion - delivered,"Labour, delivery or condition at birth"
+L110100,Placenta praevia without haemorrhage - delivered,"Labour, delivery or condition at birth"
+L111100,Placenta praevia with haemorrhage - delivered,"Labour, delivery or condition at birth"
+L112100,Placental abruption - delivered,"Labour, delivery or condition at birth"
+L114100,Antepartum haemorrhage with trauma - delivered,"Labour, delivery or condition at birth"
+L115100,Antepartum haemorrhage with uterine leiomyoma - delivered,"Labour, delivery or condition at birth"
+L11y100,Other antepartum haemorrhage - delivered,"Labour, delivery or condition at birth"
+L11z100,Antepartum haemorrhage NOS - delivered,"Labour, delivery or condition at birth"
+L120100,Benign essential hypertension in preg/childb/puerp - deliv,"Labour, delivery or condition at birth"
+L120200,Benign ess hypert in preg/childb/puerp - deliv with p/n comp,"Labour, delivery or condition at birth"
+L120400,Benign essential hypertension in preg/childb/puerp +p/n comp,"Labour, delivery or condition at birth"
+L121100,Renal hypertension in pregnancy/childbirth/puerp - delivered,"Labour, delivery or condition at birth"
+L122100,Other pre-existing hypertension in preg/childb/puerp - deliv,"Labour, delivery or condition at birth"
+L123100,Transient hypertension of pregnancy - delivered,"Labour, delivery or condition at birth"
+L123200,Transient hypertension of pregnancy - deliv with p/n comp,"Labour, delivery or condition at birth"
+L123400,Transient hypertension of pregnancy + postnatal complication,"Labour, delivery or condition at birth"
+L124100,Mild or unspecified pre-eclampsia - delivered,"Labour, delivery or condition at birth"
+L124200,Mild or unspecified pre-eclampsia - delivered with p/n comp,"Labour, delivery or condition at birth"
+L124400,Mild or unspecified pre-eclampsia with p/n complication,"Labour, delivery or condition at birth"
+L125100,Severe pre-eclampsia - delivered,"Labour, delivery or condition at birth"
+L125200,Severe pre-eclampsia - delivered with postnatal complication,"Labour, delivery or condition at birth"
+L125400,Severe pre-eclampsia with postnatal complication,"Labour, delivery or condition at birth"
+L126100,Eclampsia - delivered,"Labour, delivery or condition at birth"
+L126200,Eclampsia - delivered with postnatal complication,"Labour, delivery or condition at birth"
+L126400,Eclampsia with postnatal complication,"Labour, delivery or condition at birth"
+L126600,Eclampsia in labour,"Labour, delivery or condition at birth"
+L127100,Pre-eclampsia or eclampsia with hypertension - delivered,"Labour, delivery or condition at birth"
+L127200,Pre-eclampsia or eclampsia with hypertension - del+p/n comp,"Labour, delivery or condition at birth"
+L12z100,Unspecified hypertension in preg/childb/puerp - delivered,"Labour, delivery or condition at birth"
+L12z200,Unspecified hypertension in preg/childb/puerp -del +p/n comp,"Labour, delivery or condition at birth"
+L130100,Mild hyperemesis-delivered,"Labour, delivery or condition at birth"
+L132100,Late pregnancy vomiting - delivered,"Labour, delivery or condition at birth"
+L13z100,Unspecified pregnancy vomiting - delivered,"Labour, delivery or condition at birth"
+L14..11,Premature labour,"Labour, delivery or condition at birth"
+L142.00,Early onset of delivery,"Labour, delivery or condition at birth"
+L142.11,Premature delivery,"Labour, delivery or condition at birth"
+L142000,Early onset of delivery unspecified,"Labour, delivery or condition at birth"
+L142100,Early onset of delivery - delivered,"Labour, delivery or condition at birth"
+L142z00,Early onset of delivery NOS,"Labour, delivery or condition at birth"
+L150100,Post-term pregnancy - delivered,"Labour, delivery or condition at birth"
+L162100,Unspecified renal disease in pregnancy - delivered,"Labour, delivery or condition at birth"
+L165200,Asymptomatic bacteriuria in pregnancy - del with p/n comp,"Labour, delivery or condition at birth"
+L166100,Genitourinary tract infection in pregnancy - delivered,"Labour, delivery or condition at birth"
+L166600,Urinary tract infection following delivery,"Labour, delivery or condition at birth"
+L167100,Liver disorder in pregnancy - delivered,"Labour, delivery or condition at birth"
+L168100,Fatigue during pregnancy - delivered,"Labour, delivery or condition at birth"
+L169200,Herpes gestationis - delivered with postnatal complication,"Labour, delivery or condition at birth"
+L16A100,Glycosuria during pregnancy - delivered,"Labour, delivery or condition at birth"
+L16y100,Other pregnancy complication - delivered,"Labour, delivery or condition at birth"
+L16y200,Other pregnancy complication - delivered with postnatal comp,"Labour, delivery or condition at birth"
+L170100,Maternal syphilis during pregnancy - baby delivered,"Labour, delivery or condition at birth"
+L175100,Maternal rubella during pregnancy - baby delivered,"Labour, delivery or condition at birth"
+L17y200,Other mat.infect/parasit dis in puerperium - baby delivered,"Labour, delivery or condition at birth"
+L180100,Diabetes mellitus during pregnancy - baby delivered,"Labour, delivery or condition at birth"
+L180400,Diabetes mellitus in pueperium - baby previously delivered,"Labour, delivery or condition at birth"
+L182100,Anaemia during pregnancy - baby delivered,"Labour, delivery or condition at birth"
+L182200,Anaemia in the puerperium - baby delivered,"Labour, delivery or condition at birth"
+L182400,Anaemia in the puerperium - baby previously delivered,"Labour, delivery or condition at birth"
+L183100,Drug dependence during pregnancy - baby delivered,"Labour, delivery or condition at birth"
+L185100,Congenital cardiovasc dis in pregnancy - baby delivered,"Labour, delivery or condition at birth"
+L185400,Congenital cardiovasc dis in puerp - baby previously deliv,"Labour, delivery or condition at birth"
+L188100,Abnormal GTT during pregnancy - baby delivered,"Labour, delivery or condition at birth"
+L18z100,Medical condition NOS during pregnancy - baby delivered,"Labour, delivery or condition at birth"
+L20..00,Normal delivery in a completely normal case,"Labour, delivery or condition at birth"
+L20..11,Spontaneous vaginal delivery,"Labour, delivery or condition at birth"
+L200.00,Normal delivery but ante- or post- natal conditions present,"Labour, delivery or condition at birth"
+L20z.00,Normal delivery in completely normal case NOS,"Labour, delivery or condition at birth"
+L210100,Twin pregnancy - delivered,"Labour, delivery or condition at birth"
+L211100,Triplet pregnancy - delivered,"Labour, delivery or condition at birth"
+L213.00,Multiple delivery,"Labour, delivery or condition at birth"
+L213000,"Multiple delivery, all spontaneous","Labour, delivery or condition at birth"
+L213100,"Multiple delivery, all by forceps and vacuum extractor","Labour, delivery or condition at birth"
+L213200,"Multiple delivery, all by caesarean section","Labour, delivery or condition at birth"
+L21z100,Multiple pregnancy NOS - delivered,"Labour, delivery or condition at birth"
+L220100,Unstable lie - delivered,"Labour, delivery or condition at birth"
+L221100,Cephalic version NOS - delivered,"Labour, delivery or condition at birth"
+L222.11,Assisted breech delivery,"Labour, delivery or condition at birth"
+L222.12,Breech delivery,"Labour, delivery or condition at birth"
+L222.13,Spontaneous breech delivery,"Labour, delivery or condition at birth"
+L222100,Breech presentation - delivered,"Labour, delivery or condition at birth"
+L224100,Transverse lie - delivered,"Labour, delivery or condition at birth"
+L224z11,Shoulder presentation,"Labour, delivery or condition at birth"
+L225.00,Face presentation,"Labour, delivery or condition at birth"
+L225000,Face presentation unspecified,"Labour, delivery or condition at birth"
+L225100,Face presentation - delivered,"Labour, delivery or condition at birth"
+L225z00,Face presentation NOS,"Labour, delivery or condition at birth"
+L226.00,Brow presentation,"Labour, delivery or condition at birth"
+L226100,Brow presentation - delivered,"Labour, delivery or condition at birth"
+L226200,Brow presentation with antenatal problem,"Labour, delivery or condition at birth"
+L229.00,Prolapsed arm presentation,"Labour, delivery or condition at birth"
+L229200,Prolapsed arm with antenatal problem,"Labour, delivery or condition at birth"
+L22y.11,Compound presentation,"Labour, delivery or condition at birth"
+L22z100,Fetal malposition and malpresentation NOS - delivered,"Labour, delivery or condition at birth"
+L230100,Disproportion - major pelvic abnormality - delivered,"Labour, delivery or condition at birth"
+L231100,Generally contracted pelvis - delivered,"Labour, delivery or condition at birth"
+L234100,Mixed feto-pelvic disproportion - delivered,"Labour, delivery or condition at birth"
+L235100,Large fetus causing disproportion - delivered,"Labour, delivery or condition at birth"
+L236100,Hydrocephalic disproportion - delivered,"Labour, delivery or condition at birth"
+L237100,Other fetal abnormality causing disproportion - delivered,"Labour, delivery or condition at birth"
+L23y100,Other disproportion - delivered,"Labour, delivery or condition at birth"
+L23z100,Disproportion NOS - delivered,"Labour, delivery or condition at birth"
+L240111,Bicornuate uterus - baby delivered,"Labour, delivery or condition at birth"
+L240211,Bicornuate uterus - baby delivered + postpartum complication,"Labour, delivery or condition at birth"
+L240400,Cong abnorm uterus complic p/n care - baby previously deliv,"Labour, delivery or condition at birth"
+L241100,Tumour of uterine body - baby delivered,"Labour, delivery or condition at birth"
+L241111,Uterine fibroid - baby delivered,"Labour, delivery or condition at birth"
+L242100,Uterine operation scar in pregnancy/childbirth/puerp - deliv,"Labour, delivery or condition at birth"
+L244100,Other uterine/pelvic floor abnormality - baby delivered,"Labour, delivery or condition at birth"
+L244111,Cystocele - baby delivered,"Labour, delivery or condition at birth"
+L244112,Rectocele - baby delivered,"Labour, delivery or condition at birth"
+L244211,Cystocele - delivered with postpartum complication,"Labour, delivery or condition at birth"
+L244212,Rectocele - delivered with postpartum complication,"Labour, delivery or condition at birth"
+L246100,Other cervical abnormality - baby delivered,"Labour, delivery or condition at birth"
+L246200,Other cervical abnormality - baby delivered+postpartum compl,"Labour, delivery or condition at birth"
+L246211,Polyp of cervix - baby delivered+postpartum complication,"Labour, delivery or condition at birth"
+L247111,Septate vagina - baby delivered,"Labour, delivery or condition at birth"
+L250100,Fetus with central nervous system malformation - delivered,"Labour, delivery or condition at birth"
+L251100,Fetus with chromosomal abnormality - delivered,"Labour, delivery or condition at birth"
+L252100,Fetus with hereditary disease - delivered,"Labour, delivery or condition at birth"
+L255100,Fetus with drug damage - delivered,"Labour, delivery or condition at birth"
+L25y100,Fetus with other damage NEC - delivered,"Labour, delivery or condition at birth"
+L25z100,Fetus with damage NOS - delivered,"Labour, delivery or condition at birth"
+L261100,Rhesus isoimmunisation - delivered,"Labour, delivery or condition at birth"
+L262100,Other blood-group isoimmunisation - delivered,"Labour, delivery or condition at birth"
+L263.14,Meconium stained liquor,"Labour, delivery or condition at birth"
+L263100,Fetal distress - delivered,"Labour, delivery or condition at birth"
+L263300,Labour and delivery complicated by fetal heart rate anomaly,"Labour, delivery or condition at birth"
+L263400,Labour and delivery complic by meconium in amniotic fluid,"Labour, delivery or condition at birth"
+L263500,Lab+del comp fetal ht rate anom wth meconium in amnio fluid,"Labour, delivery or condition at birth"
+L263600,Labour+delivery complicatd by biochem evidence/fetal stress,"Labour, delivery or condition at birth"
+L265100,Small-for-dates - delivered,"Labour, delivery or condition at birth"
+L266100,Large-for-dates - delivered,"Labour, delivery or condition at birth"
+L267700,Ragged placenta,"Labour, delivery or condition at birth"
+L267800,Placenta gritty,"Labour, delivery or condition at birth"
+L270100,Polyhydramnios - delivered,"Labour, delivery or condition at birth"
+L280100,Oligohydramnios - delivered,"Labour, delivery or condition at birth"
+L281.00,Premature rupture of membranes,"Labour, delivery or condition at birth"
+L281000,Premature rupture of membranes unspecified,"Labour, delivery or condition at birth"
+L281100,Premature rupture of membranes - delivered,"Labour, delivery or condition at birth"
+L281200,Premature rupture of membranes with antenatal problem,"Labour, delivery or condition at birth"
+L281300,Prem rupture of membranes onset of labour within 24 hours,"Labour, delivery or condition at birth"
+L281400,"Premature rupture of membranes, labour delayed by therapy","Labour, delivery or condition at birth"
+L281500,Prem rupture of membranes onset of labour after 24 hours,"Labour, delivery or condition at birth"
+L281z00,Premature rupture of membranes NOS,"Labour, delivery or condition at birth"
+L282.00,Prolonged spontaneous or unspecified rupture of membranes,"Labour, delivery or condition at birth"
+L282000,Prolonged spont/unspec rupture of membranes unspecified,"Labour, delivery or condition at birth"
+L282300,Delay deliv after spontaneous or unsp rupture of membranes,"Labour, delivery or condition at birth"
+L282z00,Prolonged spontaneous/unspecified rupture of membranes NOS,"Labour, delivery or condition at birth"
+L284.12,Chorioamnionitis,"Labour, delivery or condition at birth"
+L284100,Amniotic cavity infection - delivered,"Labour, delivery or condition at birth"
+L28y.13,Amniotic fluid leaking,"Labour, delivery or condition at birth"
+L28y100,Other problem of amniotic cavity and membranes - delivered,"Labour, delivery or condition at birth"
+L28y300,Ragged membranes,"Labour, delivery or condition at birth"
+L29..00,Other problems affecting labour,"Labour, delivery or condition at birth"
+L290.00,Failed mechanical induction,"Labour, delivery or condition at birth"
+L290.11,Failed mechanical induction of labour,"Labour, delivery or condition at birth"
+L291.00,Failed medical or unspecified induction,"Labour, delivery or condition at birth"
+L291.11,Failed medical induction of labour,"Labour, delivery or condition at birth"
+L291z00,Failed medical or unspecified induction NOS,"Labour, delivery or condition at birth"
+L292.00,"Maternal pyrexia during labour, unspecified","Labour, delivery or condition at birth"
+L292100,Unspecified maternal pyrexia during labour - delivered,"Labour, delivery or condition at birth"
+L293100,Septicaemia during labour - delivered,"Labour, delivery or condition at birth"
+L294100,Grand multiparity - delivered,"Labour, delivery or condition at birth"
+L296.00,Vaginal delivery following previous caesarean section,"Labour, delivery or condition at birth"
+L29z.00,Problems affecting labour NOS,"Labour, delivery or condition at birth"
+L29zz00,Problems affecting labour NOS,"Labour, delivery or condition at birth"
+L3...00,Complications occurring during labour and delivery,"Labour, delivery or condition at birth"
+L30..00,Obstructed labour,"Labour, delivery or condition at birth"
+L300.00,Obstructed labour due to fetal malposition,"Labour, delivery or condition at birth"
+L300100,Obstructed labour due to fetal malposition - delivered,"Labour, delivery or condition at birth"
+L300300,Obstructed labour due to breech presentation,"Labour, delivery or condition at birth"
+L300700,Obstructed labour due to compound presentation,"Labour, delivery or condition at birth"
+L301.00,Obstructed labour caused by bony pelvis,"Labour, delivery or condition at birth"
+L301400,Obstructed labour due to generally contracted pelvis,"Labour, delivery or condition at birth"
+L301500,Obstructed labour due to pelvic inlet contraction,"Labour, delivery or condition at birth"
+L302.00,Obstructed labour caused by pelvic soft tissues,"Labour, delivery or condition at birth"
+L303.00,Deep transverse arrest (DTA),"Labour, delivery or condition at birth"
+L303000,Deep transverse arrest unspecified,"Labour, delivery or condition at birth"
+L303100,Deep transverse arrest - delivered,"Labour, delivery or condition at birth"
+L303z00,Deep transverse arrest NOS,"Labour, delivery or condition at birth"
+L304100,Persistent occipitopost/occipitoant position - delivered,"Labour, delivery or condition at birth"
+L305.00,Shoulder dystocia,"Labour, delivery or condition at birth"
+L305.11,Impacted shoulders,"Labour, delivery or condition at birth"
+L305000,Shoulder dystocia unspecified,"Labour, delivery or condition at birth"
+L305100,Shoulder dystocia - delivered,"Labour, delivery or condition at birth"
+L305200,Shoulder dystocia with antenatal problem,"Labour, delivery or condition at birth"
+L305z00,Shoulder dystocia NOS,"Labour, delivery or condition at birth"
+L306.00,Locked twins,"Labour, delivery or condition at birth"
+L306100,Locked twins - delivered,"Labour, delivery or condition at birth"
+L307.00,Failed trial of labour unspecified,"Labour, delivery or condition at birth"
+L307200,Other failed trial of labour with antenatal problem,"Labour, delivery or condition at birth"
+L307z00,Failed trial of labour NOS,"Labour, delivery or condition at birth"
+L308.00,Failed forceps unspecified,"Labour, delivery or condition at birth"
+L308100,Other failed forceps - delivered,"Labour, delivery or condition at birth"
+L308z00,Failed forceps NOS,"Labour, delivery or condition at birth"
+L309.00,Failed ventouse extraction unspecified,"Labour, delivery or condition at birth"
+L309000,"Other failed ventouse extraction, unspecified","Labour, delivery or condition at birth"
+L309100,Other failed ventouse extraction - delivered,"Labour, delivery or condition at birth"
+L309z00,Failed ventouse extraction NOS,"Labour, delivery or condition at birth"
+L30z.00,Obstructed labour NOS,"Labour, delivery or condition at birth"
+L30z000,"Obstructed labour NOS, unspecified","Labour, delivery or condition at birth"
+L30z100,Obstructed labour NOS - delivered,"Labour, delivery or condition at birth"
+L30zz00,Obstructed labour NOS,"Labour, delivery or condition at birth"
+L30zz11,Dystocia NOS,"Labour, delivery or condition at birth"
+L31..00,Abnormal forces of labour,"Labour, delivery or condition at birth"
+L310.00,Primary uterine inertia,"Labour, delivery or condition at birth"
+L311.00,Secondary uterine inertia,"Labour, delivery or condition at birth"
+L311200,Secondary uterine inertia with antenatal problem,"Labour, delivery or condition at birth"
+L312.00,Other uterine inertia,"Labour, delivery or condition at birth"
+L312.11,Atony of uterus,"Labour, delivery or condition at birth"
+L312.12,Poor contractions,"Labour, delivery or condition at birth"
+L312100,Other uterine inertia - delivered,"Labour, delivery or condition at birth"
+L312200,Other uterine inertia with antenatal problem,"Labour, delivery or condition at birth"
+L313.00,Precipitate labour,"Labour, delivery or condition at birth"
+L313100,Precipitate labour - delivered,"Labour, delivery or condition at birth"
+L313z00,Precipitate labour NOS,"Labour, delivery or condition at birth"
+L314.12,Contraction ring (dystocia),"Labour, delivery or condition at birth"
+L314.13,Hourglass uterine contraction,"Labour, delivery or condition at birth"
+L314.15,Uterine dystocia NOS,"Labour, delivery or condition at birth"
+L314000,Hypertonic uterine inertia unspecified,"Labour, delivery or condition at birth"
+L31z.00,Abnormality of forces of labour NOS,"Labour, delivery or condition at birth"
+L32..00,Long labour,"Labour, delivery or condition at birth"
+L320.00,Prolonged first stage,"Labour, delivery or condition at birth"
+L320100,Prolonged first stage - delivered,"Labour, delivery or condition at birth"
+L320z00,Prolonged first stage NOS,"Labour, delivery or condition at birth"
+L321.00,Prolonged labour unspecified,"Labour, delivery or condition at birth"
+L321100,Unspecified prolonged labour - delivered,"Labour, delivery or condition at birth"
+L322.00,Prolonged second stage,"Labour, delivery or condition at birth"
+L322000,Prolonged second stage unspecified,"Labour, delivery or condition at birth"
+L322100,Prolonged second stage - delivered,"Labour, delivery or condition at birth"
+L322z00,Prolonged second stage NOS,"Labour, delivery or condition at birth"
+L323.00,"Delayed delivery of second twin, triplet etc","Labour, delivery or condition at birth"
+L323000,Delayed delivery second twin unspecified,"Labour, delivery or condition at birth"
+L323100,Delayed delivery second twin - delivered,"Labour, delivery or condition at birth"
+L323200,Delayed delivery second twin with antenatal problem,"Labour, delivery or condition at birth"
+L32z.00,Prolonged labour NOS,"Labour, delivery or condition at birth"
+L330.00,Prolapse of cord,"Labour, delivery or condition at birth"
+L330000,Prolapse of cord unspecified,"Labour, delivery or condition at birth"
+L330100,Prolapse of cord - delivered,"Labour, delivery or condition at birth"
+L330z00,Prolapse of cord NOS,"Labour, delivery or condition at birth"
+L331.00,Cord tight round neck,"Labour, delivery or condition at birth"
+L331000,Cord tight round neck unspecified,"Labour, delivery or condition at birth"
+L331100,Cord tight round neck - delivered,"Labour, delivery or condition at birth"
+L331z00,Cord tight round neck NOS,"Labour, delivery or condition at birth"
+L332.00,Cord tangled or knotted with compression,"Labour, delivery or condition at birth"
+L332.11,Knot in cord,"Labour, delivery or condition at birth"
+L333100,Other cord entanglement - delivered,"Labour, delivery or condition at birth"
+L333z00,Other cord entanglement NOS,"Labour, delivery or condition at birth"
+L334.00,Short cord,"Labour, delivery or condition at birth"
+L336.11,Bruising of cord,"Labour, delivery or condition at birth"
+L33z100,Umbilical cord complications NOS - delivered,"Labour, delivery or condition at birth"
+L34..00,Trauma to perineum and vulva during delivery,"Labour, delivery or condition at birth"
+L34..12,Vulval delivery trauma,"Labour, delivery or condition at birth"
+L340.00,First degree perineal tear during delivery,"Labour, delivery or condition at birth"
+L340000,"First degree perineal tear during delivery, unspecified","Labour, delivery or condition at birth"
+L340100,First degree perineal tear during delivery - delivered,"Labour, delivery or condition at birth"
+L340200,First degree perineal tear during delivery with p/n problem,"Labour, delivery or condition at birth"
+L340300,Labial tear during delivery,"Labour, delivery or condition at birth"
+L340400,Fourchette tear during delivery,"Labour, delivery or condition at birth"
+L340500,Vulval tear during delivery,"Labour, delivery or condition at birth"
+L340600,Vaginal tear during delivery,"Labour, delivery or condition at birth"
+L340z00,First degree perineal tear during delivery NOS,"Labour, delivery or condition at birth"
+L341.00,Second degree perineal tear during delivery,"Labour, delivery or condition at birth"
+L341.11,Pelvic floor tear,"Labour, delivery or condition at birth"
+L341000,"Second degree perineal tear during delivery, unspecified","Labour, delivery or condition at birth"
+L341100,Second degree perineal tear during delivery - delivered,"Labour, delivery or condition at birth"
+L341200,Second degree perineal tear during delivery with p/n prob,"Labour, delivery or condition at birth"
+L341z00,Second degree perineal tear during delivery NOS,"Labour, delivery or condition at birth"
+L342.00,Third degree perineal tear during delivery,"Labour, delivery or condition at birth"
+L342000,"Third degree perineal tear during delivery, unspecified","Labour, delivery or condition at birth"
+L342100,Third degree perineal tear during delivery - delivered,"Labour, delivery or condition at birth"
+L342200,Third degree perineal tear during delivery with p/n problem,"Labour, delivery or condition at birth"
+L342z00,Third degree perineal tear during delivery NOS,"Labour, delivery or condition at birth"
+L343.00,Fourth degree perineal tear during delivery,"Labour, delivery or condition at birth"
+L343000,"Fourth degree perineal tear during delivery, unspecified","Labour, delivery or condition at birth"
+L343100,Fourth degree perineal tear during delivery - delivered,"Labour, delivery or condition at birth"
+L343200,Fourth degree perineal tear during delivery with p/n problem,"Labour, delivery or condition at birth"
+L343z00,Fourth degree perineal tear during delivery NOS,"Labour, delivery or condition at birth"
+L344.00,Unspecified perineal laceration during delivery,"Labour, delivery or condition at birth"
+L344000,"Unspecified perineal laceration during delivery, unspecified","Labour, delivery or condition at birth"
+L344100,Unspecified perineal laceration during delivery - delivered,"Labour, delivery or condition at birth"
+L344200,Unspecified perineal laceration during delivery + p/n prob,"Labour, delivery or condition at birth"
+L344z00,Unspecified perineal laceration during delivery NOS,"Labour, delivery or condition at birth"
+L345.00,Vulval and perineal haematoma during delivery,"Labour, delivery or condition at birth"
+L345.12,Vulval and perineal haematoma during delivery,"Labour, delivery or condition at birth"
+L345000,"Vulval and perineal haematoma during delivery, unspecified","Labour, delivery or condition at birth"
+L345100,Vulval and perineal haematoma during delivery - delivered,"Labour, delivery or condition at birth"
+L345z00,Vulval and perineal haematoma during delivery NOS,"Labour, delivery or condition at birth"
+L34y.00,Other vulval and perineal trauma during delivery,"Labour, delivery or condition at birth"
+L34y000,"Other vulval/perineal trauma during delivery, unspecified","Labour, delivery or condition at birth"
+L34y100,Other vulval/perineal trauma during delivery- delivered,"Labour, delivery or condition at birth"
+L34y200,Other vulval/perineal trauma during delivery + p/n problem,"Labour, delivery or condition at birth"
+L34yz00,Other vulval/perineal trauma during delivery NOS,"Labour, delivery or condition at birth"
+L34z.00,Vulval/perineal trauma during delivery NOS,"Labour, delivery or condition at birth"
+L34z000,Vulval/perineal trauma during delivery NOS unspec,"Labour, delivery or condition at birth"
+L34z100,Vulval/perineal trauma during delivery NOS - delivered,"Labour, delivery or condition at birth"
+L34zz00,Vulval/perineal trauma during delivery NOS,"Labour, delivery or condition at birth"
+L35..00,Other obstetric trauma,"Labour, delivery or condition at birth"
+L350.00,Ruptured uterus before labour,"Labour, delivery or condition at birth"
+L350000,Rupture of uterus before labour unspecified,"Labour, delivery or condition at birth"
+L350200,Rupture of uterus before labour with antenatal problem,"Labour, delivery or condition at birth"
+L350z00,Rupture of uterus before labour NOS,"Labour, delivery or condition at birth"
+L351.00,Rupture of uterus during and after labour,"Labour, delivery or condition at birth"
+L351000,Rupture of uterus during and after labour unspecified,"Labour, delivery or condition at birth"
+L351100,Rupture of uterus during and after labour - delivered,"Labour, delivery or condition at birth"
+L351300,Rupture of uterus during/after labour with postnatal problem,"Labour, delivery or condition at birth"
+L351z00,Rupture of uterus during and after labour NOS,"Labour, delivery or condition at birth"
+L352.00,Obstetric inversion of uterus,"Labour, delivery or condition at birth"
+L352.11,Inversion of uterus - obstetric,"Labour, delivery or condition at birth"
+L352200,Obstetric inversion of uterus with postnatal problem,"Labour, delivery or condition at birth"
+L352z00,Obstetric inversion of uterus NOS,"Labour, delivery or condition at birth"
+L353.00,Obstetric laceration of cervix,"Labour, delivery or condition at birth"
+L353.11,Laceration of cervix - obstetric,"Labour, delivery or condition at birth"
+L353.12,Tear of cervix - obstetric,"Labour, delivery or condition at birth"
+L353000,Obstetric laceration of cervix unspecified,"Labour, delivery or condition at birth"
+L353z00,Obstetric laceration of cervix NOS,"Labour, delivery or condition at birth"
+L354.00,Obstetric high vaginal laceration,"Labour, delivery or condition at birth"
+L354.11,High vaginal laceration - obstetric,"Labour, delivery or condition at birth"
+L354.12,High vaginal tear - obstetric,"Labour, delivery or condition at birth"
+L354000,Obstetric high vaginal laceration unspecified,"Labour, delivery or condition at birth"
+L354100,Obstetric high vaginal laceration - delivered,"Labour, delivery or condition at birth"
+L355.00,Other obstetric pelvic organ damage,"Labour, delivery or condition at birth"
+L355.11,Bladder injury - obstetric,"Labour, delivery or condition at birth"
+L355.12,Urethra injury - obstetric,"Labour, delivery or condition at birth"
+L355100,Other obstetric pelvic organ damage - delivered,"Labour, delivery or condition at birth"
+L356.00,Obstetric trauma damaging pelvic joints and ligaments,"Labour, delivery or condition at birth"
+L356.11,Obstetric pelvic joint damage,"Labour, delivery or condition at birth"
+L356.12,Obstetric pelvic ligament damage,"Labour, delivery or condition at birth"
+L356.13,Pubic symphysis separation,"Labour, delivery or condition at birth"
+L356.14,Symphysis pubis separation,"Labour, delivery or condition at birth"
+L356000,Obstetric damage to pelvic joints and ligaments unspecified,"Labour, delivery or condition at birth"
+L356200,Obstetric damage to pelvic joints and ligaments + p/n prob,"Labour, delivery or condition at birth"
+L356z00,Obstetric damage to pelvic joints and ligaments NOS,"Labour, delivery or condition at birth"
+L357.00,Obstetric trauma causing pelvic haematoma,"Labour, delivery or condition at birth"
+L357000,Obstetric pelvic haematoma unspecified,"Labour, delivery or condition at birth"
+L357100,Obstetric pelvic haematoma - delivered,"Labour, delivery or condition at birth"
+L35y.00,Other obstetric trauma OS,"Labour, delivery or condition at birth"
+L35y100,Other obstetric trauma - delivered,"Labour, delivery or condition at birth"
+L35y200,Other obstetric trauma - delivered with postnatal problem,"Labour, delivery or condition at birth"
+L35z.00,Obstetric trauma NOS,"Labour, delivery or condition at birth"
+L35z000,"Obstetric trauma NOS, unspecified","Labour, delivery or condition at birth"
+L35z100,Obstetric trauma NOS - delivered,"Labour, delivery or condition at birth"
+L35zz00,Obstetric trauma NOS,"Labour, delivery or condition at birth"
+L36..00,Postpartum haemorrhage (PPH),"Labour, delivery or condition at birth"
+L36..11,Bleeding postpartum,"Labour, delivery or condition at birth"
+L360.00,Third-stage postpartum haemorrhage,"Labour, delivery or condition at birth"
+L360.11,Retained placenta NOS,"Labour, delivery or condition at birth"
+L360000,Third-stage postpartum haemorrhage unspecified,"Labour, delivery or condition at birth"
+L360100,Third-stage postpartum haemorrhage - deliv with p/n problem,"Labour, delivery or condition at birth"
+L360200,Third-stage postpartum haemorrhage with postnatal problem,"Labour, delivery or condition at birth"
+L360z00,Third-stage postpartum haemorrhage NOS,"Labour, delivery or condition at birth"
+L361.00,Other immediate postpartum haemorrhage,"Labour, delivery or condition at birth"
+L361z00,Other immediate postpartum haemorrhage NOS,"Labour, delivery or condition at birth"
+L362.00,Secondary and delayed postpartum haemorrhage,"Labour, delivery or condition at birth"
+L362000,Secondary postpartum haemorrhage unspecified,"Labour, delivery or condition at birth"
+L362200,Secondary postpartum haemorrhage with postnatal problem,"Labour, delivery or condition at birth"
+L362z00,Secondary and delayed postpartum haemorrhage NOS,"Labour, delivery or condition at birth"
+L363.00,Postpartum coagulation defects,"Labour, delivery or condition at birth"
+L363z00,Postpartum coagulation defects NOS,"Labour, delivery or condition at birth"
+L36z.00,Postpartum haemorrhage NOS,"Labour, delivery or condition at birth"
+L37..00,Retained placenta or membranes with no haemorrhage,"Labour, delivery or condition at birth"
+L37..11,Retained membrane without haemorrhage,"Labour, delivery or condition at birth"
+L370.00,Retained placenta with no haemorrhage,"Labour, delivery or condition at birth"
+L370000,Retained placenta with no haemorrhage unspecified,"Labour, delivery or condition at birth"
+L370z00,Retained placenta with no haemorrhage NOS,"Labour, delivery or condition at birth"
+L370z11,Retained placenta without haemorrhage,"Labour, delivery or condition at birth"
+L371.00,Retained portion of placenta or membranes - no haemorrhage,"Labour, delivery or condition at birth"
+L371000,Retained products with no haemorrhage unspecified,"Labour, delivery or condition at birth"
+L371100,Retained products with no haemorrhage - deliv with p/n prob,"Labour, delivery or condition at birth"
+L371200,Retained products with no haemorrhage with postnatal problem,"Labour, delivery or condition at birth"
+L371z00,Retained products with no haemorrhage NOS,"Labour, delivery or condition at birth"
+L37z.00,Retained placenta or membranes with no haemorrhage NOS,"Labour, delivery or condition at birth"
+L38..00,Complications of anaesthesia during labour and delivery,"Labour, delivery or condition at birth"
+L380.00,Obstetric anaesthesia with pulmonary complications,"Labour, delivery or condition at birth"
+L382000,Obstetric anaesthesia with CNS complications unspecified,"Labour, delivery or condition at birth"
+L383.00,Obstetric toxic reaction to local anaesthesia,"Labour, delivery or condition at birth"
+L384.00,Obstetric spinal and epidural anaesthesia-induced headache,"Labour, delivery or condition at birth"
+L384100,Spinal/epidural anaesth-induced headache during puerp,"Labour, delivery or condition at birth"
+L386.00,Toxic reaction to local anaesthesia during labour and deliv,"Labour, delivery or condition at birth"
+L387.00,Spinal/epidural anesth-induced headache dur labour/delivery,"Labour, delivery or condition at birth"
+L388.00,Cardiac comps of anaesthesia during labour and delivery,"Labour, delivery or condition at birth"
+L389.00,CNS comps of anaesthesia during labour and delivery,"Labour, delivery or condition at birth"
+L38A.00,Failed or difficult intubation during labour and delivery,"Labour, delivery or condition at birth"
+L38B.00,Failed or difficult intubation during the puerperium,"Labour, delivery or condition at birth"
+L39..00,Other complications of labour and delivery NEC,"Labour, delivery or condition at birth"
+L391.00,Obstetric shock,"Labour, delivery or condition at birth"
+L393.00,Acute renal failure following labour and delivery,"Labour, delivery or condition at birth"
+L393000,Post-delivery acute renal failure unspecified,"Labour, delivery or condition at birth"
+L393100,Post-delivery acute renal failure - delivered with p/n prob,"Labour, delivery or condition at birth"
+L393200,Post-delivery acute renal failure with postnatal problem,"Labour, delivery or condition at birth"
+L394100,Other complications of obstetric procedures - delivered,"Labour, delivery or condition at birth"
+L394200,Other complications of obstetric procedures - del +p/n prob,"Labour, delivery or condition at birth"
+L395.00,Forceps delivery,"Labour, delivery or condition at birth"
+L395.11,Keilland's forceps delivery,"Labour, delivery or condition at birth"
+L395.12,Neville - Barnes forceps delivery,"Labour, delivery or condition at birth"
+L395.13,Simpson's forceps delivery,"Labour, delivery or condition at birth"
+L395000,Forceps delivery unspecified,"Labour, delivery or condition at birth"
+L395100,Forceps delivery - delivered,"Labour, delivery or condition at birth"
+L395200,Low forceps delivery,"Labour, delivery or condition at birth"
+L395300,Mid-cavity forceps delivery,"Labour, delivery or condition at birth"
+L395400,Delivery by combination of forceps and vacuum extractor,"Labour, delivery or condition at birth"
+L395500,Mid-cavity forceps with rotation,"Labour, delivery or condition at birth"
+L395z00,Forceps delivery NOS,"Labour, delivery or condition at birth"
+L396.00,Vacuum extractor delivery,"Labour, delivery or condition at birth"
+L396.11,Ventouse delivery,"Labour, delivery or condition at birth"
+L396000,Vacuum extractor delivery unspecified,"Labour, delivery or condition at birth"
+L396100,Vacuum extractor delivery - delivered,"Labour, delivery or condition at birth"
+L396z00,Vacuum extractor delivery NOS,"Labour, delivery or condition at birth"
+L397.00,Breech extraction,"Labour, delivery or condition at birth"
+L397000,Breech extraction unspecified,"Labour, delivery or condition at birth"
+L397100,Breech extraction - delivered,"Labour, delivery or condition at birth"
+L397z00,Breech extraction NOS,"Labour, delivery or condition at birth"
+L398.00,Caesarean delivery,"Labour, delivery or condition at birth"
+L398000,Caesarean delivery unspecified,"Labour, delivery or condition at birth"
+L398100,Caesarean delivery - delivered,"Labour, delivery or condition at birth"
+L398200,Caesarean section - pregnancy at term,"Labour, delivery or condition at birth"
+L398300,Delivery by elective caesarean section,"Labour, delivery or condition at birth"
+L398400,Delivery by emergency caesarean section,"Labour, delivery or condition at birth"
+L398500,Delivery by caesarean hysterectomy,"Labour, delivery or condition at birth"
+L398600,Caesarean delivery following previous Caesarean delivery,"Labour, delivery or condition at birth"
+L398z00,Caesarean delivery NOS,"Labour, delivery or condition at birth"
+L39y.00,Other complications of labour and delivery,"Labour, delivery or condition at birth"
+L39y400,Other complications of labour and delivery with p/n problem,"Labour, delivery or condition at birth"
+L39yz00,Other complications of labour and delivery NOS,"Labour, delivery or condition at birth"
+L39z.00,Complications of labour and delivery NOS,"Labour, delivery or condition at birth"
+L39z100,Complications of labour and delivery NOS - delivered,"Labour, delivery or condition at birth"
+L39z400,Complications of labour and delivery NOS with p/n problem,"Labour, delivery or condition at birth"
+L39zz00,Complications of labour and delivery NOS,"Labour, delivery or condition at birth"
+L3A..00,Intrapartum haemorrhage with coagulation defect,"Labour, delivery or condition at birth"
+L3X..00,"Intrapartum haemorrhage, unspecified","Labour, delivery or condition at birth"
+L3y..00,Other specified complications of labour or delivery,"Labour, delivery or condition at birth"
+L3z..00,Complications of labour and delivery NOS,"Labour, delivery or condition at birth"
+L431.00,Amniotic fluid pulmonary embolism,"Labour, delivery or condition at birth"
+L431100,Amniotic fluid pulmonary embolism - delivered,"Labour, delivery or condition at birth"
+L431200,Amniotic fluid pulm embolism - delivered + p/n complication,"Labour, delivery or condition at birth"
+Ly0..00,Spontaneous vertex delivery,"Labour, delivery or condition at birth"
+Ly1..00,Spontaneous breech delivery,"Labour, delivery or condition at birth"
+Lyu4000,[X]Other failed induction of labour,"Labour, delivery or condition at birth"
+Lyu4500,[X]Obstructed labour due to other abnormalities of fetus,"Labour, delivery or condition at birth"
+Lyu4800,[X]Labour+delivery complicat/oth evidence of fetal distress,"Labour, delivery or condition at birth"
+Lyu4900,[X]Labour+delivery complicated by other cord entanglement,"Labour, delivery or condition at birth"
+Lyu5.00,[X]Delivery,"Labour, delivery or condition at birth"
+Lyu5000,[X]Other single spontaneous delivery,"Labour, delivery or condition at birth"
+Lyu5100,[X]Other and unspecified forceps delivery,"Labour, delivery or condition at birth"
+Lyu5200,[X]Other single delivery by caesarean section,"Labour, delivery or condition at birth"
+Lyu5400,[X]Other manipulation-assisted delivery,"Labour, delivery or condition at birth"
+Lyu5500,[X]Other specified assisted single delivery,"Labour, delivery or condition at birth"
+Q21..00,Intrauterine hypoxia and birth asphyxia,"Labour, delivery or condition at birth"
+Q21..12,Labour fetal anoxia,"Labour, delivery or condition at birth"
+Q212.00,Liveborn with prelabour fetal distress,"Labour, delivery or condition at birth"
+Q212.11,Fetal distress before labour - liveborn,"Labour, delivery or condition at birth"
+Q212000,Liveborn with prelabour abnormal heart beat,"Labour, delivery or condition at birth"
+Q212100,Liveborn with prelabour hypoxia,"Labour, delivery or condition at birth"
+Q212200,Liveborn with prelabour meconium in liquor,"Labour, delivery or condition at birth"
+Q212z00,Liveborn with prelabour fetal distress NOS,"Labour, delivery or condition at birth"
+Q213.00,Liveborn with labour fetal distress,"Labour, delivery or condition at birth"
+Q213.11,Fetal distress in labour - liveborn,"Labour, delivery or condition at birth"
+Q213000,Liveborn with labour abnormal heart beat,"Labour, delivery or condition at birth"
+Q213100,Liveborn with labour hypoxia,"Labour, delivery or condition at birth"
+Q213z00,Liveborn with labour fetal distress NOS,"Labour, delivery or condition at birth"
+Q214.00,"Liveborn with fetal distress, unspecified","Labour, delivery or condition at birth"
+Q214.11,"Fetal distress, unspecified when, liveborn","Labour, delivery or condition at birth"
+Q214000,"Liveborn with abnormal heart beat, unspecified","Labour, delivery or condition at birth"
+Q214100,"Liveborn with fetal hypoxia, unspecified","Labour, delivery or condition at birth"
+Q214z00,Liveborn with unspecified fetal distress NOS,"Labour, delivery or condition at birth"
+Q215.00,Severe birth asphyxia - apgar score less than 4 at 1 minute,"Labour, delivery or condition at birth"
+Q215.11,White asphyxia,"Labour, delivery or condition at birth"
+Q216.00,Mild to moderate birth asphyxia - apgar score 4-7 at 1 min,"Labour, delivery or condition at birth"
+Q216.11,Blue asphyxia,"Labour, delivery or condition at birth"
+Q21z.00,Liveborn with birth asphyxia NOS,"Labour, delivery or condition at birth"
+Q21z.11,Anoxia in newborn NOS,"Labour, delivery or condition at birth"
+Q21z.12,Hypoxia in newborn NOS,"Labour, delivery or condition at birth"
+Q21z.13,Birth asphyxia,"Labour, delivery or condition at birth"
+Q2y..00,"Other specified birth trauma, asphyxia or hypoxia","Labour, delivery or condition at birth"
+Q2z..00,"Birth trauma, asphyxia or hypoxia NOS","Labour, delivery or condition at birth"
+Qz...00,Perinatal conditions NOS,"Labour, delivery or condition at birth"
+TE40000,Accident due to abandonment of newborn,"Labour, delivery or condition at birth"
+Z22B400,Undiagnosed twin,"Labour, delivery or condition at birth"
+Z238100,Uterus contracted,"Labour, delivery or condition at birth"
+Z238111,Uterus well contracted,"Labour, delivery or condition at birth"
+Z238211,Uterus not contracted,"Labour, delivery or condition at birth"
+Z238212,Uterus lax,"Labour, delivery or condition at birth"
+Z239.00,Observation of uterine contractions,"Labour, delivery or condition at birth"
+Z239100,Uterine contractions present,"Labour, delivery or condition at birth"
+Z239311,Uterine contractions stopped,"Labour, delivery or condition at birth"
+Z239500,Uterine contractions problem,"Labour, delivery or condition at birth"
+Z23A.00,Observation of pattern of uterine contractions,"Labour, delivery or condition at birth"
+Z23A300,Regular uterine contractions,"Labour, delivery or condition at birth"
+Z23A900,Moderate uterine contractions,"Labour, delivery or condition at birth"
+Z23AA00,Fair uterine contractions,"Labour, delivery or condition at birth"
+Z23AG00,Hypertonic lower uterine segment during labour,"Labour, delivery or condition at birth"
+Z23AH00,Continuous contractions,"Labour, delivery or condition at birth"
+Z23AI00,Hypertonic contractions,"Labour, delivery or condition at birth"
+Z23AK00,Non-effective uterine contractions,"Labour, delivery or condition at birth"
+Z23AM00,Painless uterine contractions,"Labour, delivery or condition at birth"
+Z23AN00,Painful uterine contractions,"Labour, delivery or condition at birth"
+Z23B211,Frequency of uterine contractions,"Labour, delivery or condition at birth"
+Z23B600,Uterine contraction duration,"Labour, delivery or condition at birth"
+Z23B900,Uterine contraction frequency,"Labour, delivery or condition at birth"
+Z23G.00,Uterine observation in labour,"Labour, delivery or condition at birth"
+Z24..00,Labour observations,"Labour, delivery or condition at birth"
+Z241.00,Labour established,"Labour, delivery or condition at birth"
+Z241100,Onset of labour induced,"Labour, delivery or condition at birth"
+Z243100,First stage of labour established,"Labour, delivery or condition at birth"
+Z243300,Progress of labour - first stage,"Labour, delivery or condition at birth"
+Z243400,Rapid first stage of labour,"Labour, delivery or condition at birth"
+Z243411,Rapid progress in first stage of labour,"Labour, delivery or condition at birth"
+Z243600,Slow progress in first stage of labour,"Labour, delivery or condition at birth"
+Z243800,First stage of labour problem,"Labour, delivery or condition at birth"
+Z244400,Late onset of labour,"Labour, delivery or condition at birth"
+Z244411,Postmature labour,"Labour, delivery or condition at birth"
+Z244500,Relation of onset of labour to due date,"Labour, delivery or condition at birth"
+Z245.00,Observation of blood loss in labour,"Labour, delivery or condition at birth"
+Z246100,Duration of labour,"Labour, delivery or condition at birth"
+Z246200,Onset of labour first stage,"Labour, delivery or condition at birth"
+Z246211,Start of labour,"Labour, delivery or condition at birth"
+Z246300,Onset of contractions,"Labour, delivery or condition at birth"
+Z246311,Onset of labour pains,"Labour, delivery or condition at birth"
+Z246400,Time contractions became regular,"Labour, delivery or condition at birth"
+Z246600,Time rupture of membranes detected,"Labour, delivery or condition at birth"
+Z246611,Time waters ruptured,"Labour, delivery or condition at birth"
+Z246700,Onset of second stage of labour,"Labour, delivery or condition at birth"
+Z246900,Duration of second stage of labour,"Labour, delivery or condition at birth"
+Z248.00,Normal labour,"Labour, delivery or condition at birth"
+Z249.00,Labour problem,"Labour, delivery or condition at birth"
+Z25..00,Delivery observations,"Labour, delivery or condition at birth"
+Z251.00,Mother delivered,"Labour, delivery or condition at birth"
+Z253.12,Rate of delivery,"Labour, delivery or condition at birth"
+Z253100,Slow rate of delivery,"Labour, delivery or condition at birth"
+Z253211,Precipitate delivery,"Labour, delivery or condition at birth"
+Z253300,Normal rate of delivery,"Labour, delivery or condition at birth"
+Z254.00,Observation of pattern of delivery,"Labour, delivery or condition at birth"
+Z254100,Deliveries by forceps - delivered,"Labour, delivery or condition at birth"
+Z254200,Delivered by low forceps delivery,"Labour, delivery or condition at birth"
+Z254300,Delivered by mid-cavity forceps delivery,"Labour, delivery or condition at birth"
+Z254400,Deliveries by breech extraction,"Labour, delivery or condition at birth"
+Z254500,Delivered by caesarean section - pregnancy at term,"Labour, delivery or condition at birth"
+Z254700,Deliveries by vacuum extractor,"Labour, delivery or condition at birth"
+Z254800,Deliveries by spontaneous breech delivery,"Labour, delivery or condition at birth"
+Z254900,Vaginal delivery,"Labour, delivery or condition at birth"
+Z254A00,Abnormal delivery,"Labour, delivery or condition at birth"
+Z254B00,Brow delivery,"Labour, delivery or condition at birth"
+Z254C00,Face delivery,"Labour, delivery or condition at birth"
+Z254D00,Face to pubes birth,"Labour, delivery or condition at birth"
+Z254E00,Multiple birth,"Labour, delivery or condition at birth"
+Z254E11,Multiple birth delivery,"Labour, delivery or condition at birth"
+Z255.00,Observation of second stage of labour,"Labour, delivery or condition at birth"
+Z255400,Rapid second stage of labour,"Labour, delivery or condition at birth"
+Z255700,Failure to progress in second stage of labour,"Labour, delivery or condition at birth"
+Z255711,No progress with delivery,"Labour, delivery or condition at birth"
+Z255B00,Desire to push,"Labour, delivery or condition at birth"
+Z255D00,Ability to push in labour,"Labour, delivery or condition at birth"
+Z255F00,Not pushing well in labour,"Labour, delivery or condition at birth"
+Z256500,Delayed expulsion of placenta,"Labour, delivery or condition at birth"
+Z257.00,Delivery normal,"Labour, delivery or condition at birth"
+Z257.11,Normal delivery,"Labour, delivery or condition at birth"
+Z257.12,Spontaneous vaginal delivery,"Labour, delivery or condition at birth"
+Z257.13,SVD - Spontaneous vaginal delivery,"Labour, delivery or condition at birth"
+Z257.14,FTND - Full term normal delivery,"Labour, delivery or condition at birth"
+Z257.15,ND - Normal delivery,"Labour, delivery or condition at birth"
+Z257100,Spontaneous vertex delivery,"Labour, delivery or condition at birth"
+Z258.00,Delivery problem,"Labour, delivery or condition at birth"
+Z262100,Size of placenta,"Labour, delivery or condition at birth"
+Z262500,Observation of completeness of placenta,"Labour, delivery or condition at birth"
+Z262700,Incomplete placenta at delivery,"Labour, delivery or condition at birth"
+Z262711,Incomplete delivery of placenta,"Labour, delivery or condition at birth"
+Z262A00,Placenta gritty,"Labour, delivery or condition at birth"
+Z262M00,Placenta offensive odour,"Labour, delivery or condition at birth"
+Z263400,Blood clots in membranes,"Labour, delivery or condition at birth"
+Z263E00,Ruptured membranes,"Labour, delivery or condition at birth"
+Z263E11,Waters broken,"Labour, delivery or condition at birth"
+Z263E12,ROM - Ruptured membranes,"Labour, delivery or condition at birth"
+Z263F00,Spontaneous forewater rupture of membranes,"Labour, delivery or condition at birth"
+Z263G00,Spontaneous hindwater rupture of membranes,"Labour, delivery or condition at birth"
+Z264.12,Observation of amniotic fluid,"Labour, delivery or condition at birth"
+Z264800,Meconium stained liquor,"Labour, delivery or condition at birth"
+Z264900,Old meconium staining liquor,"Labour, delivery or condition at birth"
+Z264A00,Fresh meconium staining liquor,"Labour, delivery or condition at birth"
+Z264B00,Thick meconium stained liquor,"Labour, delivery or condition at birth"
+Z264C00,Bloodstained liquor,"Labour, delivery or condition at birth"
+Z265800,Pulsation absent in prolapsed cord,"Labour, delivery or condition at birth"
+Z265900,Umbilical cord not around baby's neck at delivery,"Labour, delivery or condition at birth"
+ZV24000,[V]Examination immediately after delivery,"Labour, delivery or condition at birth"
+ZV27.00,[V]Outcome of delivery,"Labour, delivery or condition at birth"
+ZV27.11,[V]Live birth,"Labour, delivery or condition at birth"
+ZV27.13,[V]Birth - type,"Labour, delivery or condition at birth"
+ZV27000,[V]Single live birth,"Labour, delivery or condition at birth"
+ZV27200,"[V]Twins, both live born","Labour, delivery or condition at birth"
+ZV27500,"[V]Other multiple birth, all live born","Labour, delivery or condition at birth"
+ZV27y00,[V]Other specified outcome of delivery,"Labour, delivery or condition at birth"
+ZV27z00,[V]Unspecified delivery outcome,"Labour, delivery or condition at birth"
+ZV3..00,[V]Healthy liveborn infants according to type of birth,"Labour, delivery or condition at birth"
+ZV30000,"[V]Singleton, born in hospital","Labour, delivery or condition at birth"
+ZV31.00,"[V]Twin, mate live born","Labour, delivery or condition at birth"
+ZV31000,"[V]Twin, born in hospital, mate live born","Labour, delivery or condition at birth"
+ZV31z00,"[V]Twin, mate liveborn, NOS","Labour, delivery or condition at birth"
+ZV33000,"[V]Twin, unspecified, born in hospital","Labour, delivery or condition at birth"
+ZV3z.00,[V]Unspecified birth,"Labour, delivery or condition at birth"
+ZV3z000,"[V]Unspecified birth, born in hospital","Labour, delivery or condition at birth"
+ZV3zz00,"[V]Unspecified birth, NOS","Labour, delivery or condition at birth"

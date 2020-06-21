@@ -1,0 +1,7 @@
+Read v2 Code,SNOMED CT Concept ID,SNOMED CT Description ID,Description,Used by Quint et al. 2016
+H34..00,12295008,21163015,Bronchiectasis,Y
+H34z.00,12295008,21163015,Bronchiectasis NOS,Y
+P861.00,77593006,128792019,Congenital bronchiectasis,Y
+H341.00,195985008,301525010,Post-infective bronchiectasis,Y
+H340.00,195984007,301524014,Recurrent bronchiectasis,Y
+A115.00,23022004,38677017,Tuberculous bronchiectasis,Y

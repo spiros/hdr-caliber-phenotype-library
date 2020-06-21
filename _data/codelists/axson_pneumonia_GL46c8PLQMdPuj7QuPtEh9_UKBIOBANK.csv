@@ -1,0 +1,15 @@
+Code,Description
+131444,"Date J12 first reported (viral pneumonia, not elsewhere classified)"
+131446,Date J13 first reported (pneumonia due to streptococcus pneumoniae)
+131448,Date J14 first reported (pneumonia due to haemophilus influenzae)
+131450,"Date J15 first reported (bacterial pneumonia, not elsewhere classified)"
+131452,"Date J16 first reported (pneumonia due to other infectious organisms, not elsewhere classified)"
+131454,Date J17 first reported (pneumonia in diseases classified elsewhere)
+131456,"Date J18 first reported (pneumonia, organism unspecified)"
+131445,"Source of report of J12 (viral pneumonia, not elsewhere classified)"
+131447,Source of report of J13 (pneumonia due to streptococcus pneumoniae)
+131449,Source of report of J14 (pneumonia due to haemophilus influenzae)
+131451,"Source of report of J15 (bacterial pneumonia, not elsewhere classified)"
+131453,"Source of report of J16 (pneumonia due to other infectious organisms, not elsewhere classified)"
+131455,Source of report of J17 (pneumonia in diseases classified elsewhere)
+131457,"Source of report of J18 (pneumonia, organism unspecified)"

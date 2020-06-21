@@ -1,0 +1,104 @@
+Read v2 Code,SNOMED CT Concept ID,SNOMED CT Description ID,Description,Community-Acquired,Hospital-Acquired,Read Codes used by Braeken et al. 2017
+AyuKA00,40733004,492755015,[X]Klebsiella pneumoniae/cause/disease classifd/oth chapters,,,
+AyuK900,406595002,2158243917,[X]Mycoplasma pneumoniae [PPLO]cause/dis classifd/oth chaptr,,,
+Hyu0A00,53084003,88303013,[X]Other bacterial pneumonia,,,Y
+Hyu0H00,312342009,456043010,"[X]Other pneumonia, organism unspecified",,,
+Hyu0800,75570004,125510013,[X]Other viral pneumonia,,,Y
+Hyu0B00,312342009,456043010,[X]Pneumonia due to other specified infectious organisms,,,Y
+H530300,196112005,301686019,Abscess of lung with pneumonia,,,Y
+H28..00,233606009,350051017,Atypical pneumonia,,,Y
+H22z.00,53084003,88303013,Bacterial pneumonia NOS,,,Y
+,300999006,442211014,Basal pneumonia,,,
+H261.00,300999006,442211014,Basal pneumonia due to unspecified organism,,,Y
+,425996009,2674104010,Bilateral basal pneumonia,,,
+H2z..98,540151000000108,932231000006112,Bilateral pneumonia,,,
+H25..99,689401000000108,885231000006119,Bronchopneumonia,,,
+,396285007,1776258010,Bronchopneumonia,,,
+H25..00,396285007,1776258010,Bronchopneumonia due to unspecified organism,,,Y
+H270.11,195878008,301357010,Chest infection- influenza with pneumonia,,,Y
+H22..11,53084003,88303013,Chest infection- other bacterial pneumonia,,,Y
+H21..11,266350000,396103010,Chest infection- pneumococcal pneumonia,,,Y
+H26..11,312342009,456043010,Chest infection- pneumonia due to unspecified organism,,,Y
+H23..11,312342009,456043010,Chest infection- pneumonia organisms OS,,,Y
+H25..11,396285007,1776258010,Chest infection- unspecified bronchopneumonia,,,Y
+H20..11,75570004,125510013,Chest infection- viral pneumonia,,,Y
+H233.00,233609002,350054013,Chlamydial pneumonia,,,Y
+H2B..00,385093006,1479355018,Community acquired pneumonia,Y,,Y
+,385093006,1787121000006116,Community acquired pneumonia,Y,,
+H22y011,51530003,1230992012,E.coli pneumonia,,,Y
+A54x400,233624006,350073012,Herpes simplex pneumonia,,,Y
+H2C..00,425464007,2674072012,Hospital acquired pneumonia,,Y,
+,425464007,1787131000006118,Hospital acquired pneumonia,,Y,
+H270.99,195878008,885251000006114,Influenza + pneumonia,,,
+H270000,41269000,1229740013,Influenza with bronchopneumonia,,,
+H270.00,195878008,301357010,Influenza with pneumonia,,,Y
+,1033111000000104,2609031000000111,Influenza with pneumonia due to seasonal influenza virus,,,
+H270100,195878008,301357010,"Influenza with pneumonia, influenza virus identified",,,Y
+H56y100,64667001,107470010,Interstitial pneumonia,,,Y
+A3BXB00,40733004,492755015,Klebsiella pneumoniae/cause/disease classifd/oth chapters,,,
+,301000005,442217013,Left lower zone pneumonia,,,
+,301002002,442225010,Left upper zone pneumonia,,,
+,426696003,2674103016,Lingular pneumonia,,,
+H21..00,266350000,396103010,Lobar (pneumococcal) pneumonia,,,Y
+,278516003,415454018,Lobar pneumonia,,,
+H260.00,278516003,415454013,Lobar pneumonia due to unspecified organism,,,Y
+H21..99,266350000,885191000006112,Lobar-penumococcal-pneumonia,,,
+H260000,95436008,512123013,Lung consolidation,,,Y
+H240.99,195900001,301386013,Measles pneumonia,,,
+H231.99,46970008,78272011,Mycoplasma pneumonia,,,
+A3BXA00,406595002,2158243017,Mycoplasma pneumoniae [PPLO] cause/dis classifd/oth chaptr,,,
+4JUK.00,440990006,2792339011,Mycoplasma pneumoniae detected,,,
+H22..00,53084003,88303013,Other bacterial pneumonia,,,
+A3By.00,87628006,145291019,Other specified bacterial infection,,,Y
+H270z00,195878008,301357010,Other specified pneumonia or influenza,,,Y
+H2y..00,195878008,301357010,Other specified pneumonia or influenza,,,Y
+H2?00,195878008,301357010,Pneumonia and influenza,,,Y
+H200.00,41207000,68738015,Pneumonia due to adenovirus,,,Y
+H22yz00,53084003,88303013,Pneumonia due to bacteria NOS,,,Y
+H22y000,51530003,1230992012,Pneumonia due to Escherichia coli,,,Y
+H222.00,70036007,116320011,Pneumonia due to Haemophilus influenzae,,,Y
+H222.11,70036007,116320011,Pneumonia due to Haemophilus influenzae,,,Y
+H220.00,64479007,107173015,Pneumonia due to Klebsiella pneumoniae,,,Y
+H231.00,46970008,494705012,Pneumonia due to Mycoplasma pneumoniae,,,Y
+H22yx00,53084003,88303013,Pneumonia due to other aerobic gram-negative bacteria,,,Y
+H22y.00,53084003,88303013,Pneumonia due to other specified bacteria,,,Y
+H23..00,312342009,456043010,Pneumonia due to other specified organisms,,,Y
+H202.00,64917006,499984015,Pneumonia due to parainfluenza virus,,,Y
+H232.00,195896004,301380019,Pneumonia due to pleuropneumonia like organisms,,,Y
+H22y100,195888009,301371019,Pneumonia due to proteus,,,Y
+H221.00,41381004,69027016,Pneumonia due to pseudomonas,,,Y
+H201.00,195881003,301362011,Pneumonia due to respiratory syncytial virus,,,Y
+H23z.00,312342009,456043010,Pneumonia due to specified organism NOS,,,Y
+H224.00,22754005,38198016,Pneumonia due to staphylococcus,,,Y
+H223.00,34020007,56817014,Pneumonia due to streptococcus,,,Y
+H223000,195886008,301369019,"Pneumonia due to streptococcus, group B",,,Y
+H26..00,312342009,456043010,Pneumonia due to unspecified organism,,,Y
+H22y200,195889001,301372014,Pneumonia- legionella,,,Y
+H2?00,195878008,301357010,Pneumonia or influenza,,,
+H2z..00,195878008,301357010,Pneumonia or influenza NOS,,,Y
+H24y000,195908008,301395017,Pneumonia with actinomycosis,,,Y
+H246.00,111900000,1219703018,Pneumonia with aspergillosis,,,Y
+H24..00,312342009,456043010,Pneumonia with infectious disease EC,,,Y
+H24y.00,312342009,456043010,Pneumonia with infectious diseases EC,,,Y
+H24z.00,312342009,456043010,Pneumonia with infectious diseases EC NOS,,,Y
+H240.00,195900001,301386013,Pneumonia with measles,,,Y
+H24yz00,312342009,456043010,Pneumonia with other infectious diseases EC NOS,,,Y
+H243.11,59475000,1231962012,Pneumonia with pertussis,,,Y
+H24y200,415125002,2533533015,Pneumonia with pneumocystis carinii,,,Y
+H24y700,195911009,301399011,Pneumonia with varicella,,,Y
+H243.00,59475000,1231963019,Pneumonia with whooping cough,,,Y
+H263.00,205237003,314740018,Pneumonitis,,,Y
+A551.00,191727003,294997017,Postmeasles pneumonia,,,Y
+H262.00,314978007,459416013,Postoperative pneumonia,,,
+H571.00,7548000,13455018,Rheumatic pneumonia,,,
+,301001009,442218015,Right lower zone pneumonia,,,
+,301003007,442226011,Right middle zone pneumonia,,,
+,301004001,442232018,Right upper zone pneumonia,,,
+A022200,2523007,5303018,Salmonella pneumonia,,,Y
+,9861002,17213012,Streptococcus pneumoniae,,,
+A116.00,80003002,132731014,Tuberculous pneumonia,,,
+A521.00,195911009,301400016,Varicella pneumonitis,,,Y
+H20..00,75570004,125510013,Viral pneumonia,,,Y
+H20y.00,75570004,125510013,Viral pneumonia NEC,,,Y
+H20z.00,75570004,125510013,Viral pneumonia NOS,,,Y
+H243.99,59475000,885221000006117,Whooping cough pneumonia,,,
