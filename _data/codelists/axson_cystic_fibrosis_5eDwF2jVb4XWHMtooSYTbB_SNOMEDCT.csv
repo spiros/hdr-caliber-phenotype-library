@@ -1,0 +1,51 @@
+Read v2 Code,SNOMED CT Concept ID,SNOMED CT Description ID,Description
+,1834241000006100,1834241000006116,Age at diagnosis of cystic fibrosis - months
+,1834251000006103,1834251000006119,Age at diagnosis of cystic fibrosis - years
+,1708981000006103,1708981000006119,Annual cystic fibrosis blood test
+C370400,526071000000104,1174311000000111,Arthropathy in cystic fibrosis
+,1763641000006109,1763641000006113,Cirrhosis of liver due to cystic fibrosis
+C370.00,190905008,293528019,Cystic fibrosis
+66k0.00,515631000000107,1148241000000114,Cystic fibrosis annual review
+,1708971000006101,1708971000006117,Cystic fibrosis annual review
+,1834261000006101,1834261000006117,Cystic fibrosis complications at birth
+,1834271000006108,1834271000006112,Cystic fibrosis diagnsoed following neonatal screening
+,1838061000006100,1838061000006116,Cystic fibrosis diagnsoed following neonatal screening
+,1855391000006100,1855391000006116,Cystic fibrosis gene mutation - cDNA (protein name)(legacy name)
+,1760721000006102,1760721000006118,Cystic fibrosis gene mutation 1
+,1834221000006107,1834221000006111,Cystic fibrosis gene mutation 1 - unknown
+,1760731000006104,1670731000006115,Cystic fibrosis gene mutation 2
+,1834231000006105,1834231000006114,Cystic fibrosis gene mutation 2 - unknown
+,1854811000006101,1854811000006117,Cystic fibrosis manifested by acute/persistent respriatory symp.
+,1854831000006107,1854831000006111,Cystic fibrosis manifested by bronchiectasis
+,1854841000006102,1854841000006118,Cystic fibrosis manifested by electrolyte imbalance
+,1854771000006101,1854771000006117,Cystic fibrosis manifested by failure to thrive
+,1854881000006108,1854881000006112,Cystic fibrosis manifested by intestinal obstruction
+,1854901000006105,1854901000006114,Cystic fibrosis manifested by malabsorption
+,1854851000006100,1854851000006116,Cystic fibrosis manifested by male infertility
+,1854861000006103,1854861000006119,Cystic fibrosis manifested by malnutrition
+,1854871000006105,1854871000006114,Cystic fibrosis manifested by meconium ileus
+,1854911000006108,1854911000006112,Cystic fibrosis manifested by nasal polyp/sinus disease
+,1854801000006104,1854801000006115,Cystic fibrosis manifested by panreatitis
+,1854781000006103,1854781000006119,Cystic fibrosis manifested by rectal prolapse
+66k..00,515611000000104,1148201000000111,Cystic fibrosis monitoring
+,1708961000006108,1708961000006112,Cystic fibrosis monitoring
+C370z00,190905008,293528019,Cystic fibrosis NOS
+C370800,776981000000103,1736361000000112,Cystic fibrosis related cirrhosis
+C10N100,426705001,2674608014,Cystic fibrosis related diabetes mellitus
+C370y00,190905008,293528019,Cystic fibrosis with combined manifestations
+C370500,526091000000100,1174361000000113,Cystic fibrosis with distal intestinal obstruction syndrome
+C370300,190909002,293537019,Cystic fibrosis with intestinal manifestations
+,1854791000006100,1854791000006116,Cystic fibrosis with liver manifestations
+C370100,86092005,14759013,Cystic fibrosis with meconium ileus
+C370000,81423003,1495466012,Cystic fibrosis with no meconium ileus
+C370y00,190905008,293528019,Cystic fibrosis with other manifestations
+C370200,86555001,143537016,Cystic fibrosis with pulmonary manifestations
+,1854661000006104,1854661000006115,Date of cystic fibrosis diagnosis
+C370900,859041000000103,2222561000000111,Exacerbation of cystic fibrosis
+C370700,427022004,2675247013,Liver disease due to cystic fibrosis
+,1709341000006101,1709341000006117,Liver disease due to cystic fibrosis
+C370111,86092005,1495490013,Meconium ileus in cystic fibrosis
+,1760711000006105,1760711000006114,Other cystic fibrosis gene mutation
+,1763651000006106,1763651000006110,Pancreatic sufficient cystic fibrosis
+,1854691000006107,1854691000006111,Results annual cystic fibrosis assessment discussed with family
+9No7.00,698529000,2974778015,Seen in cystic fibrosis clinic
