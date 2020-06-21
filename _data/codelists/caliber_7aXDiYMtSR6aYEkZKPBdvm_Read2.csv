@@ -1,0 +1,55 @@
+﻿Read code,Read term,CALIBER category
+1361,Teetotaller,Non drinker
+1361.11,Non drinker alcohol,Non drinker
+1361.12,Non-drinker alcohol,Non drinker
+136M.00,Current non drinker,Non drinker
+1367,Stopped drinking alcohol,Ex drinker
+136A.00,Ex-trivial drinker (<1u/day),Ex drinker
+136B.00,Ex-light drinker - (1-2u/day),Ex drinker
+136C.00,Ex-moderate drinker - (3-6u/d),Ex drinker
+136D.00,Ex-heavy drinker - (7-9u/day),Ex drinker
+136E.00,Ex-very heavy drinker-(>9u/d),Ex drinker
+1362.11,Drinks rarely,Occasional drinker (less than once per week)
+1362.12,Drinks occasionally,Occasional drinker (less than once per week)
+136F.00,Spirit drinker,Current drinker
+136G.00,Beer drinker,Current drinker
+136H.00,Drinks beer and spirits,Current drinker
+136I.00,Drinks wine,Current drinker
+136J.00,Social drinker,Current drinker
+136L.00,Alcohol intake within recommended sensible limits,Current drinker
+136N.00,Light drinker,Current drinker
+136O.00,Moderate drinker,Current drinker
+1D19.00,Pain in lymph nodes after alcohol consumption,Current drinker
+2577,O/E - breath - alcohol smell,Current drinker
+2577.11,O/E - alcoholic breath,Current drinker
+E250.11,Drunkenness NOS,Current drinker
+E250.12,Hangover (alcohol),Current drinker
+E250.13,Inebriety NOS,Current drinker
+E250.14,Intoxication - alcohol,Current drinker
+R103.00,[D]Alcohol blood level excessive,Current drinker
+U81..00,[X]Evid of alcohol involv determind by level of intoxication,Current drinker
+136K.00,Alcohol intake above recommended sensible limits,Excess drinker
+136P.00,Heavy drinker,Excess drinker
+136Q.00,Very heavy drinker,Excess drinker
+136S.00,Hazardous alcohol use,Excess drinker
+136T.00,Harmful alcohol use,Excess drinker
+136W.00,Alcohol misuse,Excess drinker
+13ZY.00,Disqualified from driving due to excess alcohol,Excess drinker
+E23..12,Alcohol problem drinking,Excess drinker
+E250.00,Nondependent alcohol abuse,Excess drinker
+E250000,"Nondependent alcohol abuse, unspecified",Excess drinker
+E250100,"Nondependent alcohol abuse, continuous",Excess drinker
+E250300,Nondependent alcohol abuse in remission,Excess drinker
+E250z00,Nondependent alcohol abuse NOS,Excess drinker
+ZV11311,[V]Problems related to lifestyle alcohol use,Excess drinker
+136R.00,Binge drinker,Binge drinker
+E250200,"Nondependent alcohol abuse, episodic",Binge drinker
+136..00,Alcohol consumption,Drinker status not specified
+1368,Alcohol consumption unknown,Drinker status not specified
+136V.00,Alcohol units per week,Drinker status not specified
+136X.00,Alcohol units consumed on heaviest drinking day,Drinker status not specified
+136Z.00,Alcohol consumption NOS,Drinker status not specified
+9k19.00,Alcohol assesment declined - enhanced services admin,Drinker status not specified
+9k19.11,Alcohol assessment declined,Drinker status not specified
+Z786200,Drinking practice,Drinker status not specified
+ZV4KC00,[V] Alcohol use,Drinker status not specified

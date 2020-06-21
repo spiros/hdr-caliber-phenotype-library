@@ -1,0 +1,49 @@
+﻿Read code,Read term,CALIBER category
+C150500,Alcohol-induced pseudo-Cushing's syndrome,Endocrine system
+1B1c.00,Alcohol induced hallucinations,Mental Health
+E01..00,Alcoholic psychoses,Mental Health
+E011.00,Alcohol amnestic syndrome,Mental Health
+E011000,Korsakov's alcoholic psychosis,Mental Health
+E011100,Korsakov's alcoholic psychosis with peripheral neuritis,Mental Health
+E011200,Wernicke-Korsakov syndrome,Mental Health
+E011z00,Alcohol amnestic syndrome NOS,Mental Health
+E012.00,Other alcoholic dementia,Mental Health
+E012.11,Alcoholic dementia NOS,Mental Health
+E015.00,Alcoholic paranoia,Mental Health
+E01y.00,Other alcoholic psychosis,Mental Health
+E01yz00,Other alcoholic psychosis NOS,Mental Health
+E01z.00,Alcoholic psychosis NOS,Mental Health
+Eu10.00,[X]Mental and behavioural disorders due to use of alcohol,Mental Health
+Eu10000,[X]Mental & behav dis due to use alcohol: acute intoxication,Mental Health
+Eu10100,[X]Mental and behav dis due to use of alcohol: harmful use,Mental Health
+Eu10500,[X]Mental & behav dis due to use alcohol: psychotic disorder,Mental Health
+Eu10511,[X]Alcoholic hallucinosis,Mental Health
+Eu10512,[X]Alcoholic jealousy,Mental Health
+Eu10513,[X]Alcoholic paranoia,Mental Health
+Eu10514,[X]Alcoholic psychosis NOS,Mental Health
+Eu10600,[X]Mental and behav dis due to use alcohol: amnesic syndrome,Mental Health
+Eu10611,"[X]Korsakov's psychosis, alcohol induced",Mental Health
+Eu10700,[X]Men & behav dis due alcoh: resid & late-onset psychot dis,Mental Health
+Eu10711,[X]Alcoholic dementia NOS,Mental Health
+Eu10y00,[X]Men & behav dis due to use alcohol: oth men & behav dis,Mental Health
+Eu10z00,[X]Ment & behav dis due use alcohol: unsp ment & behav dis,Mental Health
+E012000,Chronic alcoholic brain syndrome,Nervous system
+Eu10712,[X]Chronic alcoholic brain syndrome,Nervous system
+F11x000,Cerebral degeneration due to alcoholism,Nervous system
+F11x011,Alcoholic encephalopathy,Nervous system
+F144000,Cerebellar ataxia due to alcoholism,Nervous system
+F25B.00,Alcohol-induced epilepsy,Nervous system
+F375.00,Alcoholic polyneuropathy,Nervous system
+F394100,Alcoholic myopathy,Circulatory system
+G555.00,Alcoholic cardiomyopathy,Circulatory system
+G852300,Oesophageal varices in alcoholic cirrhosis of the liver,Digestive system
+J153.00,Alcoholic gastritis,Digestive system
+J610.00,Alcoholic fatty liver,Digestive system
+J611.00,Acute alcoholic hepatitis,Digestive system
+J612.00,Alcoholic cirrhosis of liver,Digestive system
+J612000,Alcoholic fibrosis and sclerosis of liver,Digestive system
+J613.00,Alcoholic liver damage unspecified,Digestive system
+J613000,Alcoholic hepatic failure,Digestive system
+J617.00,Alcoholic hepatitis,Digestive system
+J617000,Chronic alcoholic hepatitis,Digestive system
+J671000,Alcohol-induced chronic pancreatitis,Digestive system
