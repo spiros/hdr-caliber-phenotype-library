@@ -84,3 +84,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - sample_phenotype_1233456.md
