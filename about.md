@@ -3,11 +3,16 @@ layout: home
 title: About the HDR UK Phenotype Portal
 ---
 
-## What is a phenotyping algorithm?
+## About the resource
+
+### Electronic health records
 
 When patients interact with physicians, or are admitted into hospital, information is collected electronically on their symptoms, diagnoses, laboratory test results, and prescriptions and stored in **Electronic Health Records** (EHR). EHR are a valuable resource for researchers and clinicians as they provide comprehesive information about a patients health, and healthcare, over long periods of time. 
 
+### Phenotyping algoritms
 A primary use-case for EHR is the creation of **phenotyping algorithms** used to identify disease status, onset and progression or extraction of information on risk factors or biomarkers. These complex algorithms can enable researchers to extract information from EHR, statistically analyze it and use the findings to improve human health. While considerable effort goes into creating these algorithms, there is no consistent methodology for creating and evaluating them and no centralised repository for depositing and sharing them.
+
+### What is the Phenotype Portal?
 
 The **HDR UK Phenotype Portal** will facilitate the dissemination and re-use of algorithms, tools and methods by the community by providing a national resource for curating such algorithms and their associated metadata.
 
