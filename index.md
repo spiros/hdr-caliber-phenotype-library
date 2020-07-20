@@ -80,7 +80,7 @@ A comprehensive, open-access resource providing the research community with info
 <div class="col-sm-99 text-style-center">
 <div class="text-size-xlarge text-color-medium">What is the HDR UK Phenotype Portal?</div> 
     <div class="text-size-small text-color-rich">
-The <b>HDR UK Phenotype Portal</b> is a a national platform for dissemination of citable algorithms (incl. validations) and tools which will reduce duplication of effort and improve research reproducibility. More information can be found on the <a href="https://www.hdruk.ac.uk/projects/national-phenomics-resource/">HDR website</a></div>
+The <b>HDR UK Phenotype Portal</b> is a a national platform for dissemination of citable algorithms (incl. validations) and tools which will reduce duplication of effort and improve research reproducibility. More information can be found on the <a href="https://www.hdruk.ac.uk/projects/national-phenomics-resource/">HDR website</a>.</div>
 </div>
 </div>
 
