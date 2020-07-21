@@ -136,6 +136,10 @@ You can download a [**sample template file**](https://raw.githubusercontent.com/
 
 If you have a phenotyping algorithm that meets the eligibility requirements, we invite you to submit your data by one of the following ways:
 
-* by email <a href="mailto:s.denaxas[@]ucl.ac.uk">s.denaxas at ucl.ac.uk</a>
-* by pull request (PR) on the [GitHub repository](https://github.com/spiros/hdr-caliber-phenome-portal)
-* by using a Google form
+* by 📫 **email** <a href="mailto:s.denaxas[@]ucl.ac.uk">s.denaxas at ucl.ac.uk</a>
+* by 🐙 **pull request (PR)** on the [GitHub repository](https://github.com/spiros/hdr-caliber-phenome-portal)
+* by ⬆ [**Google form**](https://forms.gle/J5dm94jeT6MG1StP9)
+
+
+
+
