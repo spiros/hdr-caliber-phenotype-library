@@ -83,6 +83,7 @@ clinical_terminologies:
     - ICD-10
     - ICD-11
 validation: 
+    - prognostic
 codelists:
     - axson_bronchiestasis_ZckoXfUWNXn8Jn7fdLQuxj_ICD10.csv
     - axson_bronchiestasis_ZckoXfUWNXn8Jn7fdLQuxj_ICD11.csv
