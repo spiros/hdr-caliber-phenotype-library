@@ -108,7 +108,13 @@ The metadata fields required are the following:
 * **name (string)**: Phenotype (short) name 
 * **data_sources** (list of strings): Names of data sources that phenotype sources information from. These should be identical, if possible, to the names used to identify individual datasets in the [HDR Gateway](https://www.healthdatagateway.org/).
 * **clinical_terminologies** (list of strings): List of controlled clinical terminologies that are used by the phenotype algorithm.
-* **validation** (list of strings): evidence of validation
+* **validation** (list of strings): evidence of validation used as evidence of phenotype robustness - valid values:
+    * _prognostic_: the ability to replicate known prognostic associations
+    * _aetiologic_: the ability to replicate known associations with risk factors
+    * _genetic_ : the abity to replicate associations with known regions or variants
+    * _cross-source_: has the algorithm been evaluated in a similar external data source
+    * _casenote review_ : has the algorithm been validated through manual review of clinical notes (this usually would result to PPV, NPV values)
+    * _cross-country_ : has the algorithm been evaluated in a similar external healthcare system
 * **codelists** (list of strings): (unordered) list of CSV terminologu files associated with the phenotype
 * **phenotype_id** (list of strings): Unique universal phenotype identifier, generated using the `shortuuid` [Python module](https://pypi.org/project/shortuuid/).
 * **group** (string): Disease group for phenotype
