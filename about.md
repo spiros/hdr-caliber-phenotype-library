@@ -132,7 +132,7 @@ J47,Bronchiectasis
 
 ### How to submit data
 
-You can download a [**sample template file**](https://raw.githubusercontent.com/spiros/hdr-caliber-phenome-portal/master/sample_phenotype_1233456.md) from the repository: 
+You can download a [**sample template file**](https://raw.githubusercontent.com/spiros/hdr-caliber-phenome-portal/develop/sample_phenotype_1233456.md) from the repository: 
 
 If you have a phenotyping algorithm that meets the eligibility requirements, we invite you to submit your data by one of the following ways:
 
