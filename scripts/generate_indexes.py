@@ -77,10 +77,7 @@ def export_phenotype2datasets(phenotypes, filename="_data/phenotype2datasets.jso
             phenotype2datasets[name] = []
         for ds in p['data_sources']:
             if type(ds) is dict:
-                ds['phenotype_id'] = p['id']
-                ds['phenotype_url'] = p['url']
                 phenotype2datasets[name].append(ds)
-    # pprint(phenotype2datasets)
     with open(filename, 'w') as json_file:
         json_file.write(json.dumps(phenotype2datasets, indent=2))
 
@@ -96,7 +93,6 @@ def export_dataset2phenotypes(phenotypes, filename="_data/dataset2phenotypes.jso
                     'id': p['id'],
                     'url': p['url']
                 })
-    pprint(dataset2phenotypes)
     with open(filename, 'w') as json_file:
         json_file.write(json.dumps(dataset2phenotypes, indent=2))
 
