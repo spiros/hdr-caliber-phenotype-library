@@ -23,36 +23,3 @@ version: 1
 
 {% include csv.html csvdata=site.data.codelists.katsoulis_non_covid19_cvd_death_A69hsZDh3dcgzPn4HJcNkG_ICD10 %}
 
-<!-- 
-ICD-10 code | Description
-------------|-------------
- G458 | Other transient cerebral ischaemic attacks and related syndromes
- G459 | Transient cerebral ischaemic attack, unspecified
- I110 | Hypertensive heart disease with (congestive) heart failure
- I130 | Hypertensive heart and renal disease with (congestive) heart failure
- I132 | Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
- I200 | Unstable angina
- I201 | Angina pectoris with documented spasm
- I208 | Other forms of angina pectoris
- I209 | Angina pectoris, unspecified
- I21 | Acute myocardial infarction
- I250 | Chronic ischaemic heart disease
- I251 | Atherosclerotic heart disease
- I253 | Aneurysm of heart
- I254 | Coronary artery aneurysm and dissection
- I256 | Silent myocardial ischaemia
- I258 | Other forms of chronic ischaemic heart disease
- I259 | Chronic ischaemic heart disease, unspecified
- I260 | Pulmonary embolism with mention of acute cor pulmonale
- I461 | Sudden cardiac death, so described
- I50 | Heart failure
- I60 | Subarachnoid haemorrhage
- I61 | Intracerebral haemorrhage
- I63 | Cerebral infarction
- I713 | Abdominal aortic aneurysm, ruptured
- I714 | Abdominal aortic aneurysm, without mention of rupture
- I715 | Thoracoabdominal aortic aneurysm, ruptured
- I716 | Thoracoabdominal aortic aneurysm, without mention of rupture
- I718 | Aortic aneurysm of unspecified site, ruptured
- I719 | Aortic aneurysm of unspecified site, without mention of rupture
- I739 | Peripheral vascular disease, unspecified -->
