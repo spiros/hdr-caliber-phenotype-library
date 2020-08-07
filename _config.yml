@@ -23,7 +23,7 @@ email: s.denaxas@ucl.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   HDR UK Phenotype Library
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://portal.caliberresearch.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://portal.caliberresearch.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SpirosDenaxas
 github_username:  spiros
 google_analytics: UA-32217823-3
@@ -84,3 +84,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - sample_phenotype_1233456.md
