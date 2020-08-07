@@ -21,6 +21,9 @@ version: 1
 
 ### Mortality
 
+{% include csv.html csvdata=site.data.codelists.katsoulis_non_covid19_cvd_death_A69hsZDh3dcgzPn4HJcNkG_ICD10 %}
+
+<!-- 
 ICD-10 code | Description
 ------------|-------------
  G458 | Other transient cerebral ischaemic attacks and related syndromes
@@ -52,4 +55,4 @@ ICD-10 code | Description
  I716 | Thoracoabdominal aortic aneurysm, without mention of rupture
  I718 | Aortic aneurysm of unspecified site, ruptured
  I719 | Aortic aneurysm of unspecified site, without mention of rupture
- I739 | Peripheral vascular disease, unspecified
+ I739 | Peripheral vascular disease, unspecified -->

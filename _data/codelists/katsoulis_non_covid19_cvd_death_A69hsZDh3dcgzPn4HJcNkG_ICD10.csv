@@ -1,0 +1,20 @@
+﻿ICD10code,ICD10term
+I110 , Hypertensive heart disease with (congestive) heart failure
+I130 , Hypertensive heart and renal disease with (congestive) heart failure
+I132 , Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+I200 , Unstable angina
+I209 ," Angina pectoris, unspecified"
+I21 , Acute myocardial infarction
+I250 , Chronic ischaemic heart disease
+I251 , Atherosclerotic heart disease
+I255 , Ischemic cardiomyopathy
+I256 , Silent myocardial ischaemia
+I258 , Other forms of chronic ischaemic heart disease
+I259 ," Chronic ischaemic heart disease, unspecified"
+I50 , Heart failure
+I254 , Coronary artery aneurysm and dissection
+I201 ,  Angina pectoris with documented spasm
+I260 , Pulmonary embolism with mention of acute cor pulmonale
+I208 , Other forms of angina pectoris
+I461 ,"  Sudden cardiac death, so described"
+I253 , Aneurysm of heart
