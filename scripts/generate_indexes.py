@@ -90,6 +90,7 @@ def export_dataset2phenotypes(phenotypes, filename="_data/dataset2phenotypes.jso
                     dataset2phenotypes[ds['id']] = []
                 dataset2phenotypes[ds['id']].append({
                     'name': p['name'],
+                    'type': p['type'],
                     'id': p['id'],
                     'url': p['url']
                 })
