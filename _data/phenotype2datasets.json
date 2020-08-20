@@ -2130,6 +2130,18 @@
       "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
     }
   ],
+  "Congenital anomalies in children": [
+    {
+      "name": "Hospital Episode Statistics Admitted Patient Care",
+      "id": "6111c3eb-028c-429e-a78c-6eb9e6b36b66",
+      "url": "https://web.www.healthdatagateway.org/dataset/6111c3eb-028c-429e-a78c-6eb9e6b36b66"
+    },
+    {
+      "name": "Scottish Birth Record (SBR)",
+      "id": "1a575fae-c0d7-4718-b0d6-ba7c9c3edc0d",
+      "url": "https://web.www.healthdatagateway.org/dataset/1a575fae-c0d7-4718-b0d6-ba7c9c3edc0d"
+    }
+  ],
   "Neonatal jaundice (excl haemolytic dz of the newborn)": [
     {
       "name": "Clinical Practice Research Datalink GOLD",
