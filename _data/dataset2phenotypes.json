@@ -2,1481 +2,1777 @@
   "756daeaa-6e47-4269-9df5-477c01cdd271": [
     {
       "name": "Alcoholic liver disease",
+      "type": "Disease or Syndrome",
       "id": "Dx2rRinjMdDgRFjZEJYUh7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-liver-alc-dx2rrinjmddgrfjzejyuh7"
     },
     {
       "name": "Myocardial infarction",
+      "type": "Disease or Syndrome",
       "id": "LG5FyDnaomHyfeNNKPx92J",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-myocardial-infarction-lg5fydnaomhyfennkpx92j"
     },
     {
       "name": "Bronchiestasis",
+      "type": "Disease or Syndrome",
       "id": "ZckoXfUWNXn8Jn7fdLQuxj",
       "url": "https://portal.caliberresearch.org/phenotypes/axson-bronchiestasis-zckoxfuwnxn8jn7fdlquxj"
     },
     {
       "name": "Autoimmune liver disease",
+      "type": "Disease or Syndrome",
       "id": "EhCfQgUPWeWexfdZ8VQUby",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-autoimm-liver-ehcfqgupwewexfdz8vquby"
     },
     {
       "name": "Retinal vascular occlusions",
+      "type": "Disease or Syndrome",
       "id": "7XyRMcnzw5RafSkpB6Gkhg",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-retinal-vasc-occl-7xyrmcnzw5rafskpb6gkhg"
     },
     {
       "name": "Primary Malignancy_Thyroid",
+      "type": "Disease or Syndrome",
       "id": "ZT3puKFh9Kc4i8hjwJCgJT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-thyroid-zt3pukfh9kc4i8hjwjcgjt"
     },
     {
       "name": "HDL Cholesterol",
+      "type": "Biomarker",
       "id": "NojLofAabaBVkaaLh6MCeH",
       "url": "https://portal.caliberresearch.org/phenotypes/hdl-cholesterol"
     },
     {
       "name": "Other Cardiomyopathy",
+      "type": "Disease or Syndrome",
       "id": "L9Vd69SHmNTPEVacrtJdby",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cardiomyo-oth-l9vd69shmntpevacrtjdby"
     },
     {
       "name": "Agranulocytosis",
+      "type": "Disease or Syndrome",
       "id": "n6BbN4xqnikRVdAqPZeCiV",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-agranulocytosis-n6bbn4xqnikrvdaqpzeciv"
     },
     {
       "name": "Primary Malignancy_Bone and articular cartilage",
+      "type": "Disease or Syndrome",
       "id": "QLjNYKgxeNtawoP8gL7Lhd",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-bone-qljnykgxentawop8gl7lhd"
     },
     {
       "name": "Obesity",
+      "type": "Disease or Syndrome",
       "id": "GSbMFsCZ8omuKiyKmKkzCy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-obesity-gsbmfscz8omukiykmkkzcy"
     },
     {
       "name": "Peritonitis",
+      "type": "Disease or Syndrome",
       "id": "7Y4ue6SQxc3UnfZPSpk6ra",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-peritonitis-7y4ue6sqxc3unfzpspk6ra"
     },
     {
       "name": "Keratitis",
+      "type": "Disease or Syndrome",
       "id": "4gcKUGGueUCemht3RcUrfH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-keratitis-4gckuggueucemht3rcurfh"
     },
     {
       "name": "Respiratory failure",
+      "type": "Disease or Syndrome",
       "id": "FucDueZ9X5U3QkLYSMRXuX",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-resp-failure-fucduez9x5u3qklysmrxux"
     },
     {
       "name": "Intrauterine hypoxia",
+      "type": "Disease or Syndrome",
       "id": "4TpFkcXxu9AcbCdcnTuLm2",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-intrauterine-hypoxia-4tpfkcxxu9acbcdcntulm2"
     },
     {
       "name": "Asthma",
+      "type": "Disease or Syndrome",
       "id": "cdd2NMH5QDWVdEfTQNNfpK",
       "url": "https://portal.caliberresearch.org/phenotypes/axson-asthma-cdd2nmh5qdwvdeftqnnfpk"
     },
     {
       "name": "Primary Malignancy_Brain, Other CNS and Intracranial",
+      "type": "Disease or Syndrome",
       "id": "mgSHvmncfQKgDg6E4giQyx",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-brain-mgshvmncfqkgdg6e4giqyx"
     },
     {
       "name": "Psoriasis",
+      "type": "Disease or Syndrome",
       "id": "EDjoSA4NeEFoAonfH4agk4",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-psoriasis-edjosa4neefoaonfh4agk4"
     },
     {
       "name": "Secondary or other Thrombocytopaenia",
+      "type": "Disease or Syndrome",
       "id": "f5FuMcav9uFcEjkbZ5JtG4",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-oth-thrombocytopaenia-f5fumcav9ufcejkbz5jtg4"
     },
     {
       "name": "Barrett's oesophagus",
+      "type": "Disease or Syndrome",
       "id": "9f7dZtMQKkSHuWQf4gttUu",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-barretts-9f7dztmqkkshuwqf4gttuu"
     },
     {
       "name": "Folate deficiency anaemia",
+      "type": "Disease or Syndrome",
       "id": "FPLoVUa2GzovLpzcPkMLfk",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-folatedef-fplovua2gzovlpzcpkmlfk"
     },
     {
       "name": "Glaucoma",
+      "type": "Disease or Syndrome",
       "id": "9vFCEuU9tBZji8yHf4U7hH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-glaucoma-9vfceuu9tbzji8yhf4u7hh"
     },
     {
       "name": "Sleep apnoea",
+      "type": "Disease or Syndrome",
       "id": "AfzQ2jdRKumSy8qtBSeRXQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sleep-apnoea-afzq2jdrkumsy8qtbserxq"
     },
     {
       "name": "Sick sinus syndrome",
+      "type": "Disease or Syndrome",
       "id": "fKjRjHUHCfNPCYsPtJWDiC",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sick-sinus-fkjrjhuhcfnpcysptjwdic"
     },
     {
       "name": "Primary Malignancy_Liver",
+      "type": "Disease or Syndrome",
       "id": "AypekghXaccCJEjHmHgaCf",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-liver-aypekghxacccjejhmhgacf"
     },
     {
       "name": "Primary Malignancy_Uterine",
+      "type": "Disease or Syndrome",
       "id": "PA3KYo4onvF8fxGmEHToCm",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-uterine-pa3kyo4onvf8fxgmehtocm"
     },
     {
       "name": "Heart Rate",
+      "type": "Biomarker",
       "id": "6keWsw2mW2TQjDMhNAUETt",
       "url": "https://portal.caliberresearch.org/phenotypes/heart-rate"
     },
     {
       "name": "Tinnitus",
+      "type": "Disease or Syndrome",
       "id": "5SLXmYddaUtZeWPDn26ddc",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-tinnitus-5slxmyddautzewpdn26ddc"
     },
     {
       "name": "Raynaud's syndrome",
+      "type": "Disease or Syndrome",
       "id": "kGDpso98YvdgBUkHwLtQom",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-raynauds-kgdpso98yvdgbukhwltqom"
     },
     {
       "name": "Stable angina",
+      "type": "Disease or Syndrome",
       "id": "7aMhMWHkJHbNc2w32de4RT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-stable-angina-7amhmwhkjhbnc2w32de4rt"
     },
     {
       "name": "Bifascicular block",
+      "type": "Disease or Syndrome",
       "id": "FeZgkaDCbMMUJgysojnHkT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bifasc-block-fezgkadcbmmujgysojnhkt"
     },
     {
       "name": "Lymphocytes",
+      "type": "Biomarker",
       "id": "WhLcDKoLxY4qzMKfgAN5DJ",
       "url": "https://portal.caliberresearch.org/phenotypes/lymphocytes"
     },
     {
       "name": "Leiomyoma of uterus",
+      "type": "Disease or Syndrome",
       "id": "KPoL4kRqXHE8pRxgnP32T5",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-leiomyoma-kpol4krqxhe8prxgnp32t5"
     },
     {
       "name": "Nonrheumatic aortic valve disorders",
+      "type": "Disease or Syndrome",
       "id": "6KCBwLSve8oKUUJCSoGVMy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-nonrh-aortic-6kcbwlsve8okuujcsogvmy"
     },
     {
       "name": "Scoliosis",
+      "type": "Disease or Syndrome",
       "id": "gWkKqmfdDtieRfqt3gDBgU",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-scoliosis-gwkkqmfddtierfqt3gdbgu"
     },
     {
       "name": "Crohn's disease",
+      "type": "Disease or Syndrome",
       "id": "TdiXVUEF5sCfmGKyALeCaD",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-crohns-tdixvuef5scfmgkyalecad"
     },
     {
       "name": "End stage renal disease",
+      "type": "Disease or Syndrome",
       "id": "656RD4TRGA4B7GHmaJzAzt",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-esrd-656rd4trga4b7ghmajzazt"
     },
     {
       "name": "Primary Malignancy_Oesophageal",
+      "type": "Disease or Syndrome",
       "id": "LkS5bRkV7vWh2J8yRDqSgN",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-oesoph-lks5brkv7vwh2j8yrdqsgn"
     },
     {
       "name": "Appendicitis",
+      "type": "Disease or Syndrome",
       "id": "5aqU7FXzZxDm78WBppyy5y",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-appendicitis-5aqu7fxzzxdm78wbppyy5y"
     },
     {
       "name": "Diabetic neurological complications",
+      "type": "Disease or Syndrome",
       "id": "TbATLTJSibhrbrEmJqsKuJ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-dm-neuro-tbatltjsibhrbremjqskuj"
     },
     {
       "name": "Cystic Fibrosis",
+      "type": "Disease or Syndrome",
       "id": "eqyW2q3h7pLfjRkjpiP5xv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cf-eqyw2q3h7plfjrkjpip5xv"
     },
     {
       "name": "Leukaemia",
+      "type": "Disease or Syndrome",
       "id": "m4HfBXcZAfvWbbMJ6h3wv8",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-leukaemia-m4hfbxczafvwbbmj6h3wv8"
     },
     {
       "name": "Peptic ulcer disease",
+      "type": "Disease or Syndrome",
       "id": "4mSsuwVb7M6w3HhH94Jbov",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ulcer-peptic-4mssuwvb7m6w3hhh94jbov"
     },
     {
       "name": "Visual impairment and blindness",
+      "type": "Disease or Syndrome",
       "id": "4wLv6rsCuLpEkDhEwmGzUQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-blind-4wlv6rsculpekdhewmgzuq"
     },
     {
       "name": "Posterior Uveitis",
+      "type": "Disease or Syndrome",
       "id": "7sT585S2MhmvcxR3qxn4vH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-post-uveitis-7st585s2mhmvcxr3qxn4vh"
     },
     {
       "name": "Cholangitis",
+      "type": "Disease or Syndrome",
       "id": "mNzDobbnJ9ssEhnW6TS2m7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cholangitis-mnzdobbnj9ssehnw6ts2m7"
     },
     {
       "name": "Postmenopausal bleeding",
+      "type": "Disease or Syndrome",
       "id": "U84C3hG5a2mzTnTfvGWdqn",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pmb-u84c3hg5a2mztntfvgwdqn"
     },
     {
       "name": "Chemotherapy medication",
+      "type": "Disease or Syndrome",
       "id": "JqaBFwL3px7cCdDZFo4sDP",
       "url": "https://portal.caliberresearch.org/phenotypes/lai-chemotherapy-ysmmugkizm6hoqrrsfxtpn"
     },
     {
       "name": "Actinic keratosis",
+      "type": "Disease or Syndrome",
       "id": "HCMERysojt6MUQNpDVMW8V",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-actinic-keratosis-hcmerysojt6muqnpdvmw8v"
     },
     {
       "name": "Oesophageal varices",
+      "type": "Disease or Syndrome",
       "id": "ceaqpKKvsiPa7ENJEz2Zzy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-varices-ceaqpkkvsipa7enjez2zzy"
     },
     {
       "name": "Aplastic anaemias",
+      "type": "Disease or Syndrome",
       "id": "GAqEf827VEm86L9hqmEhbd",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-aplastic-gaqef827vem86l9hqmehbd"
     },
     {
       "name": "Splenomegaly",
+      "type": "Disease or Syndrome",
       "id": "YK4bNDbzTVwZa7Jz3crRT7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-splenomegaly-yk4bndbztvwza7jz3crrt7"
     },
     {
       "name": "Polycystic ovarian syndrome",
+      "type": "Disease or Syndrome",
       "id": "GkcVZQrCQJHkwTvYNeMYNz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pcos-gkcvzqrcqjhkwtvynemynz"
     },
     {
       "name": "Diverticular disease of intestine (acute and chronic)",
+      "type": "Disease or Syndrome",
       "id": "oMJoWoJmHqQBFmzfDHCUFM",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-diverticuli-omjowojmhqqbfmzfdhcufm"
     },
     {
       "name": "Primary Malignancy_biliary tract",
+      "type": "Disease or Syndrome",
       "id": "kjbfD3bYfFF5F6dn4Cz7zy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-biliary-kjbfd3byfff5f6dn4cz7zy"
     },
     {
       "name": "Female infertility",
+      "type": "Disease or Syndrome",
       "id": "5uvFsYinHTBYQLE8WQMFUe",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-female-infertility-5uvfsyinhtbyqle8wqmfue"
     },
     {
       "name": "Post-term infant",
+      "type": "Disease or Syndrome",
       "id": "ZzaNcyxKJVbn7nhe394sYW",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-post-term-zzancyxkjvbn7nhe394syw"
     },
     {
       "name": "Schizophrenia, schizotypal and delusional disorders",
+      "type": "Disease or Syndrome",
       "id": "3L5NKPq72J7AASDMvY73QM",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-schizo-3l5nkpq72j7aasdmvy73qm"
     },
     {
       "name": "Anxiety disorders",
+      "type": "Disease or Syndrome",
       "id": "LGWMqosnAtERehdytPzBWy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-anxiety-lgwmqosnaterehdytpzbwy"
     },
     {
       "name": "Pancreatitis",
+      "type": "Disease or Syndrome",
       "id": "bYv8xnQBJ2SFhyYVSoudTt",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pancreatitis-byv8xnqbj2sfhyyvsoudtt"
     },
     {
       "name": "Alopecia areata",
+      "type": "Disease or Syndrome",
       "id": "GeiZN7PXDaTyPtwR8UNAbG",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-alopecia-areata-geizn7pxdatyptwr8unabg"
     },
     {
       "name": "Primary Malignancy_Bladder",
+      "type": "Disease or Syndrome",
       "id": "4EyKyg9kzvVAEJ8ef3itGd",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-bladder-4eykyg9kzvvaej8ef3itgd"
     },
     {
       "name": "Primary Malignancy_Prostate",
+      "type": "Disease or Syndrome",
       "id": "K7iZUPXVXQqcHj5BS4sChz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-prost-k7izupxvxqqchj5bs4schz"
     },
     {
       "name": "Secondary malignancy_Liver and intrahepatic bile duct",
+      "type": "Disease or Syndrome",
       "id": "MLbTBVxELakNfsyiAFybAa",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-liver-mlbtbvxelaknfsyiafybaa"
     },
     {
       "name": "Seborrheic dermatitis",
+      "type": "Disease or Syndrome",
       "id": "aRqXaBkrdmDXUZjTZ4BRKP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-seb-derm-arqxabkrdmdxuzjtz4brkp"
     },
     {
       "name": "Gout",
+      "type": "Disease or Syndrome",
       "id": "2pm8E2fAJJBt7pdSuW2Mge",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-gout-2pm8e2fajjbt7pdsuw2mge"
     },
     {
       "name": "Ischaemic stroke",
+      "type": "Disease or Syndrome",
       "id": "nfrpSeBDjByXgWGZHqTq2a",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-isch-stroke-nfrpsebdjbyxgwgzhqtq2a"
     },
     {
       "name": "Erectile dysfunction",
+      "type": "Disease or Syndrome",
       "id": "k5jqBM97NneeHGDbanJ35x",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ed-k5jqbm97nneehgdbanj35x"
     },
     {
       "name": "Male infertility",
+      "type": "Disease or Syndrome",
       "id": "AtMSYQkQNJaBzawPds5Chv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-male-infertility-atmsyqkqnjabzawpds5chv"
     },
     {
       "name": "Cancer immunotherapy medication",
+      "type": "Disease or Syndrome",
       "id": "Vkf6SPU4ig6A4ARJkYnP2r",
       "url": "https://portal.caliberresearch.org/phenotypes/lai-cancer-immunotherapy-vkf6spu4ig6a4arjkynp2r"
     },
     {
       "name": "Delirium, not induced by alcohol and other psychoactive substances",
+      "type": "Disease or Syndrome",
       "id": "jExUP5ZrKENG5EngmgGJhE",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-delirium-jexup5zrkeng5engmggjhe"
     },
     {
       "name": "COPD",
+      "type": "Disease or Syndrome",
       "id": "Y9JxuQRFPprJDMHSPowJYs",
       "url": "https://portal.caliberresearch.org/phenotypes/axson-copd-y9jxuqrfpprjdmhspowjys"
     },
     {
       "name": "Gastritis and duodenitis",
+      "type": "Disease or Syndrome",
       "id": "A9rp5YMoEb7GbeYiMopaj3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-gastritis-duodenitis-a9rp5ymoeb7gbeyimopaj3"
     },
     {
       "name": "Macular degeneration",
+      "type": "Disease or Syndrome",
       "id": "2V58JY9JVmvvVokAa3E5sb",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-macula-degen-2v58jy9jvmvvvokaa3e5sb"
     },
     {
       "name": "Fracture of wrist",
+      "type": "Disease or Syndrome",
       "id": "AzokdCmJwmRXUXCHfeZAFi",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-fracture-wrist-azokdcmjwmrxuxchfezafi"
     },
     {
       "name": "Secondary Malignancy_Lung",
+      "type": "Disease or Syndrome",
       "id": "M7BkXTa8pkCFTeDAbwEoQr",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-lung-m7bkxta8pkcftedabweoqr"
     },
     {
       "name": "Non-Hodgkin Lymphoma",
+      "type": "Disease or Syndrome",
       "id": "EkuRLLMZVbdtBFhQS3rnLR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-nhl-ekurllmzvbdtbfhqs3rnlr"
     },
     {
       "name": "Heart failure",
+      "type": "Disease or Syndrome",
       "id": "YxiNH8TRWET5poG7g48cLc",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hf-yxinh8trwet5pog7g48clc"
     },
     {
       "name": "Nonrheumatic mitral valve disorders",
+      "type": "Disease or Syndrome",
       "id": "8PuLa8uoEbjtzC4vFipeJr",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-nonrh-mitral-8pula8uoebjtzc4vfipejr"
     },
     {
       "name": "Other interstitial pulmonary diseases with fibrosis",
+      "type": "Disease or Syndrome",
       "id": "HRo7ob4dxZxyDjqocqYp2b",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pulm-fibrosis-hro7ob4dxzxydjqocqyp2b"
     },
     {
       "name": "Rheumatic fever",
+      "type": "Disease or Syndrome",
       "id": "2LQnsm6S4MMjnu6dGcJijr",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rh-fever-2lqnsm6s4mmjnu6dgcjijr"
     },
     {
       "name": "Patent ductus arteriosus",
+      "type": "Disease or Syndrome",
       "id": "9pa8sQyoJywUKZyzLoxfYD",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pda-9pa8sqyojywukzyzloxfyd"
     },
     {
       "name": "Benign neoplasm of colon, rectum, anus and anal canal",
+      "type": "Disease or Syndrome",
       "id": "jiRbp6uJfASuDXyQSDrsdc",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-benign-colon-jirbp6ujfasudxyqsdrsdc"
     },
     {
       "name": "Secondary Malignancy_Bowel",
+      "type": "Disease or Syndrome",
       "id": "hdWRFRcDEiVxSTSwBi8kgp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-bowel-hdwrfrcdeivxstswbi8kgp"
     },
     {
       "name": "Vitiligo",
+      "type": "Disease or Syndrome",
       "id": "kN4e6pLaWWHcb2Zqz5X3Tv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-vitiligo-kn4e6plawwhcb2zqz5x3tv"
     },
     {
       "name": "Enteropathic arthropathy",
+      "type": "Disease or Syndrome",
       "id": "PMpJHFPnAwsr8x96ns3vfb",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-entero-arthro-pmpjhfpnawsr8x96ns3vfb"
     },
     {
       "name": "Hepatic failure",
+      "type": "Disease or Syndrome",
       "id": "5f44cPA3onKPV3axCvVDCP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-liver-fail-5f44cpa3onkpv3axcvvdcp"
     },
     {
       "name": "LDL Cholesterol",
+      "type": "Biomarker",
       "id": "XqKwYhySZhoQKu8gqeUtdr",
       "url": "https://portal.caliberresearch.org/phenotypes/ldl-cholesterol"
     },
     {
       "name": "Secondary Malignancy_retroperitoneum and peritoneum",
+      "type": "Disease or Syndrome",
       "id": "3Eh9Str5jceazQYsBdKVsS",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-peritoneum-3eh9str5jceazqysbdkvss"
     },
     {
       "name": "Bronchiectasis",
+      "type": "Disease or Syndrome",
       "id": "SWUAhaHStc967nLCfhY6rc",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bronchiectasis-swuahahstc967nlcfhy6rc"
     },
     {
       "name": "Enthesopathies & synovial disorders",
+      "type": "Disease or Syndrome",
       "id": "95ZhQE7diuRQwsqRn8UrmT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-enthesopathy-95zhqe7diurqwsqrn8urmt"
     },
     {
       "name": "Secondary Malignancy_Lymph Nodes",
+      "type": "Disease or Syndrome",
       "id": "KXEpdmHgmsKRRxZVWt3GCY",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-ln-kxepdmhgmskrrxzvwt3gcy"
     },
     {
       "name": "Rheumatoid Arthritis",
+      "type": "Disease or Syndrome",
       "id": "EWvRLa7DNMCiGs2XvC2zKT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rha-ewvrla7dnmcigs2xvc2zkt"
     },
     {
       "name": "Hearing loss",
+      "type": "Disease or Syndrome",
       "id": "WwqYf9KzLwtq7pnG68Dmy6",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-deaf-wwqyf9kzlwtq7png68dmy6"
     },
     {
       "name": "Lichen planus",
+      "type": "Disease or Syndrome",
       "id": "YqGNu4ojGFcpbvSUBkptXf",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-lichen-planus-yqgnu4ojgfcpbvsubkptxf"
     },
     {
       "name": "Primary Malignancy_Lung and trachea",
+      "type": "Disease or Syndrome",
       "id": "aMUPXU3c33bfegnJ3LJiAn",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-lung-amupxu3c33bfegnj3ljian"
     },
     {
       "name": "Lupus erythematosus (local and systemic)",
+      "type": "Disease or Syndrome",
       "id": "2ZrkhcLcifb2pT7ZA2mvNG",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sle-2zrkhclcifb2pt7za2mvng"
     },
     {
       "name": "Vitamin B12 deficiency anaemia",
+      "type": "Disease or Syndrome",
       "id": "LWC57mbghEZhQ7TQCCEAXQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-b12-def-lwc57mbghezhq7tqcceaxq"
     },
     {
       "name": "Autism and Asperger's syndrome",
+      "type": "Disease or Syndrome",
       "id": "YwsDewQKrrrZhMoFAARKMP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-autism-ywsdewqkrrrzhmofaarkmp"
     },
     {
       "name": "Homelessness",
+      "type": "Lifestyle Risk Factor",
       "id": "JqaBFwL3px7cCdDZFo4sDP",
       "url": "https://portal.caliberresearch.org/phenotypes/nanjo-homelessness-jqabfwl3px7ccddzfo4sdp"
     },
     {
       "name": "Pulmonary embolism",
+      "type": "Disease or Syndrome",
       "id": "B82p672dxCbWfyEqp9fjJH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pe-b82p672dxcbwfyeqp9fjjh"
     },
     {
       "name": "Asthma",
+      "type": "Disease or Syndrome",
       "id": "eFTHigQ2RjygaBhHUco4pW",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-asthma-efthigq2rjygabhhuco4pw"
     },
     {
       "name": "Multiple myeloma and malignant plasma cell neoplasms",
+      "type": "Disease or Syndrome",
       "id": "ARsQVAvgUW2YqNz7bvcfF4",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-plasmacell-arsqvavguw2yqnz7bvcff4"
     },
     {
       "name": "Rosacea",
+      "type": "Disease or Syndrome",
       "id": "6gn3Xt36GonYTr8XKxQpDw",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rosacea-6gn3xt36gonytr8xkxqpdw"
     },
     {
       "name": "Hodgkin Lymphoma",
+      "type": "Disease or Syndrome",
       "id": "Aax3fRk37rSVpwiUnU27oN",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hodgkins-aax3frk37rsvpwiunu27on"
     },
     {
       "name": "Atrioventricular block, second degree",
+      "type": "Disease or Syndrome",
       "id": "iXpD4FbSVDWsRvWjrAvJ59",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-av-block-2-ixpd4fbsvdwsrvwjravj59"
     },
     {
       "name": "Diaphragmatic hernia",
+      "type": "Disease or Syndrome",
       "id": "j3Ab5ehw85BhFA83WvmJAA",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hernia-diaphragm-j3ab5ehw85bhfa83wvmjaa"
     },
     {
       "name": "Postviral fatigue syndrome, neurasthenia and fibromyalgia",
+      "type": "Disease or Syndrome",
       "id": "4vuyvQJEm58jeMuVwovnwx",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-chronic-fatigue-4vuyvqjem58jemuvwovnwx"
     },
     {
       "name": "Atrioventricular block, complete",
+      "type": "Disease or Syndrome",
       "id": "ZRULCUexj8udmSt9szS23V",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-av-block-3-zrulcuexj8udmst9szs23v"
     },
     {
       "name": "Tuberculosis",
+      "type": "Disease or Syndrome",
       "id": "8CNeWEafK4TcvUs6sNjgjX",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-tb-8cneweafk4tcvus6snjgjx"
     },
     {
       "name": "Intracerebral haemorrhage",
+      "type": "Disease or Syndrome",
       "id": "MsaCKfARZDCB5hQXtFLZ37",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-intracereb-haem-msackfarzdcb5hqxtflz37"
     },
     {
       "name": "Migraine",
+      "type": "Disease or Syndrome",
       "id": "bUrBYE64PvgcArg8ik4AqK",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-migraine-burbye64pvgcarg8ik4aqk"
     },
     {
       "name": "Secondary Malignancy_Pleura",
+      "type": "Disease or Syndrome",
       "id": "DZJSeTByLQPEL4sjVuyKH7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-pleura-dzjsetbylqpel4sjvuykh7"
     },
     {
       "name": "Pulmonary collapse (excl pneumothorax)",
+      "type": "Disease or Syndrome",
       "id": "RSYq6aAcuXgqo5s3xhFwTn",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pulm-collapse-rsyq6aacuxgqo5s3xhfwtn"
     },
     {
       "name": "Pneumothorax",
+      "type": "Disease or Syndrome",
       "id": "a5NNubakLzYdsQiw9uJPBB",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pneumothorax-a5nnubaklzydsqiw9ujpbb"
     },
     {
       "name": "Primary Malignancy_Pancreatic",
+      "type": "Disease or Syndrome",
       "id": "3gL6Q35vvkcwycZ2F4YMgZ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-pancr-3gl6q35vvkcwycz2f4ymgz"
     },
     {
       "name": "Hidradenitis suppurativa",
+      "type": "Disease or Syndrome",
       "id": "TaGJaK2s9GyfkiWfL782qX",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hidradenitis-tagjak2s9gyfkiwfl782qx"
     },
     {
       "name": "Hyperplasia of prostate",
+      "type": "Disease or Syndrome",
       "id": "kkENJEYgtTec8rXhDn3Qgg",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bph-kkenjeygttec8rxhdn3qgg"
     },
     {
       "name": "Body Mass Index",
+      "type": "Biomarker",
       "id": "C3E85YMWy2ixUvafWda9pa",
       "url": "https://portal.caliberresearch.org/phenotypes/body-mass-index"
     },
     {
       "name": "Multiple valve dz",
+      "type": "Disease or Syndrome",
       "id": "53QJzqFVDLTrPR8PAo8cTZ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-mult-valve-53qjzqfvdltrpr8pao8ctz"
     },
     {
       "name": "Secondary pulmonary hypertension",
+      "type": "Disease or Syndrome",
       "id": "VCsG3GCCqTnbmMd8kZGhQh",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-pulm-htn-vcsg3gccqtnbmmd8kzghqh"
     },
     {
       "name": "Giant Cell arteritis",
+      "type": "Disease or Syndrome",
       "id": "5WMaNT9xc6YnhKUBzE877r",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-gca-5wmant9xc6ynhkubze877r"
     },
     {
       "name": "Spondylosis",
+      "type": "Disease or Syndrome",
       "id": "AjMcRwKc6Uid3KktJvcsSB",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-spondylosis-ajmcrwkc6uid3kktjvcssb"
     },
     {
       "name": "Neuromuscular dysfunction of bladder",
+      "type": "Disease or Syndrome",
       "id": "WamGj9C9EdTxVB3SpqGL7Z",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-neuro-bladder-wamgj9c9edtxvb3spqgl7z"
     },
     {
       "name": "Myasthenia gravis",
+      "type": "Disease or Syndrome",
       "id": "7sWRuLLQJ4Xm6GztFZTAg3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-myasthenia-7swrullqj4xm6gztfztag3"
     },
     {
       "name": "HIV",
+      "type": "Disease or Syndrome",
       "id": "5rrCQ6iL8uVpnEahtfFW9s",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hiv-5rrcq6il8uvpneahtffw9s"
     },
     {
       "name": "Abdominal Hernia",
+      "type": "Disease or Syndrome",
       "id": "UmxTP7n8pMNA9ykfrhp5hZ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hernia-abdo-umxtp7n8pmna9ykfrhp5hz"
     },
     {
       "name": "Bell's palsy",
+      "type": "Disease or Syndrome",
       "id": "ZgV8UjFkg87aYaVhUVvdwz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bells-zgv8ujfkg87ayavhuvvdwz"
     },
     {
       "name": "Primary Malignancy_colorectal and anus",
+      "type": "Disease or Syndrome",
       "id": "5fw4nU5BBUFfNmwJaDCet3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-bowel-5fw4nu5bbuffnmwjadcet3"
     },
     {
       "name": "Congenital malformations of cardiac septa",
+      "type": "Disease or Syndrome",
       "id": "GhmCNuKUSB2LBjYPR68WRV",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-congenital-septal-ghmcnukusb2lbjypr68wrv"
     },
     {
       "name": "Polymyalgia Rheumatica",
+      "type": "Disease or Syndrome",
       "id": "hW5RYaJDLhn68qBLn6t5vp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pmr-hw5ryajdlhn68qbln6t5vp"
     },
     {
       "name": "Primary Malignancy_Ovarian",
+      "type": "Disease or Syndrome",
       "id": "CYy4HSPTCZQUAsLXGDYNqy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-ovarian-cyy4hsptczquaslxgdynqy"
     },
     {
       "name": "Protein kinase inhibitor medication",
+      "type": "Disease or Syndrome",
       "id": "PuXE5eUppQXV3RDhTgiU9w",
       "url": "https://portal.caliberresearch.org/phenotypes/lai-protein-kinase-inhibitors-puxe5euppqxv3rdhtgiu9w"
     },
     {
       "name": "Hypo or hyperthyroidism",
+      "type": "Disease or Syndrome",
       "id": "FgVJooWzCgt2V9UnTYdU5S",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-thyroid-fgvjoowzcgt2v9untydu5s"
     },
     {
       "name": "Disorders of autonomic nervous system",
+      "type": "Disease or Syndrome",
       "id": "LfgLjazsU9DQcEwVUsoHXm",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-autonomic-neuro-lfgljazsu9dqcewvusohxm"
     },
     {
       "name": "Hyperkinetic disorders",
+      "type": "Disease or Syndrome",
       "id": "FKG5RnKvwfLLJeTp6fbFz7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-adhd-fkg5rnkvwflljetp6fbfz7"
     },
     {
       "name": "Primary Malignancy_Multiple independent sites",
+      "type": "Disease or Syndrome",
       "id": "eN6gobmprWkohDigCp3Bpz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-multindep-en6gobmprwkohdigcp3bpz"
     },
     {
       "name": "Essential tremor",
+      "type": "Disease or Syndrome",
       "id": "6KbZkdiuqgqkuUJyNUyRba",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-essential-tremor-6kbzkdiuqgqkuujynuyrba"
     },
     {
       "name": "Non-acute cystitis",
+      "type": "Disease or Syndrome",
       "id": "6D7XsekK9PN2co6sQamDWP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-chr-cystitis-6d7xsekk9pn2co6sqamdwp"
     },
     {
       "name": "Iron deficiency anaemia",
+      "type": "Disease or Syndrome",
       "id": "ZGfkjeH6GHi5WaQaTFmGn9",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ida-zgfkjeh6ghi5waqatfmgn9"
     },
     {
       "name": "Personality disorders",
+      "type": "Disease or Syndrome",
       "id": "NBqnQx3PXNA42bGzZhAjR7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pd-nbqnqx3pxna42bgzzhajr7"
     },
     {
       "name": "Carcinoma in situ_cervical",
+      "type": "Disease or Syndrome",
       "id": "mMCP3dUk9Swip6ZHeCvz4m",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cin-cervical-mmcp3duk9swip6zhecvz4m"
     },
     {
       "name": "Multiple sclerosis",
+      "type": "Disease or Syndrome",
       "id": "o3PHkNpsJohi4EwUwRqkNH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ms-o3phknpsjohi4ewuwrqknh"
     },
     {
       "name": "Rheumatic valve dz",
+      "type": "Disease or Syndrome",
       "id": "d8B66i2qoGAozpDTZjdvDn",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rh-valve-d8b66i2qogaozpdtzjdvdn"
     },
     {
       "name": "Stroke NOS",
+      "type": "Disease or Syndrome",
       "id": "XVnS5oshWa9HRBkEVJ2YyL",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-stroke-nos-xvns5oshwa9hrbkevj2yyl"
     },
     {
       "name": "Hyperparathyroidism",
+      "type": "Disease or Syndrome",
       "id": "AGWPXprudWMBcsvMQSJm6j",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pth-agwpxprudwmbcsvmqsjm6j"
     },
     {
       "name": "Immunodeficiencies",
+      "type": "Disease or Syndrome",
       "id": "F6u5wxYWxj4F6gFtp34TPq",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-immunodef-f6u5wxywxj4f6gftp34tpq"
     },
     {
       "name": "Sickle-cell trait",
+      "type": "Disease or Syndrome",
       "id": "HpKeYNjMWk7CReFWYJUAZ8",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sickle-trait-hpkeynjmwk7crefwyjuaz8"
     },
     {
       "name": "Urticaria",
+      "type": "Disease or Syndrome",
       "id": "Ee7wAQs6rhtuTt7zaKWaeV",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-urticaria-ee7waqs6rhtutt7zakwaev"
     },
     {
       "name": "Aspiration pneumonitis",
+      "type": "Disease or Syndrome",
       "id": "LcEe7zG3b3WmAW2bZzu7Ci",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-aspiration-pneumo-lcee7zg3b3wmaw2bzzu7ci"
     },
     {
       "name": "Carpal tunnel syndrome",
+      "type": "Disease or Syndrome",
       "id": "S8MwPhLwnKqmfwy6XzHtsz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-carpal-tunnel-s8mwphlwnkqmfwy6xzhtsz"
     },
     {
       "name": "Benign neoplasm of ovary",
+      "type": "Disease or Syndrome",
       "id": "nBNhjn4LKNC4dMxeUDk6LG",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-benign-ovary-nbnhjn4lknc4dmxeudk6lg"
     },
     {
       "name": "Sjogren's disease",
+      "type": "Disease or Syndrome",
       "id": "XYmHDEuAkAfY9QhmGxYEkM",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sjogren-xymhdeuakafy9qhmgxyekm"
     },
     {
       "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "type": "Disease or Syndrome",
       "id": "kgwoJWpdPG8Npp8HUc37zD",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-copd-kgwojwpdpg8npp8huc37zd"
     },
     {
       "name": "Endometrial hyperplasia and hypertrophy",
+      "type": "Disease or Syndrome",
       "id": "X877B8Y2f3gJMtXhYe5q4j",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-endometrial-hyper-x877b8y2f3gjmtxhye5q4j"
     },
     {
       "name": "Coeliac disease",
+      "type": "Disease or Syndrome",
       "id": "Cqd3iG9YekavWvpyUBnnhf",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-coeliac-cqd3ig9yekavwvpyubnnhf"
     },
     {
       "name": "Pleural plaque",
+      "type": "Disease or Syndrome",
       "id": "VZNZYH2nuex4dvFUyeUJDs",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pleural-plaque-vznzyh2nuex4dvfuyeujds"
     },
     {
       "name": "Neutrophils",
+      "type": "Biomarker",
       "id": "h8uDoPABk2tJXyh7cv3HjL",
       "url": "https://portal.caliberresearch.org/phenotypes/neutrophil-counts"
     },
     {
       "name": "Thalassaemia trait",
+      "type": "Disease or Syndrome",
       "id": "ixf6p5HdgjaCjXgVm9HwJv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-thal-trait-ixf6p5hdgjacjxgvm9hwjv"
     },
     {
       "name": "Anorexia and bulimia nervosa",
+      "type": "Disease or Syndrome",
       "id": "UhAsDHcZDSX5cFJWMvfcnv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-eating-dz-uhasdhczdsx5cfjwmvfcnv"
     },
     {
       "name": "Anterior and Intermediate Uveitis",
+      "type": "Disease or Syndrome",
       "id": "kZW9FeEfguyYymiHmhGEEW",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ant-uveitis-kzw9feefguyyymihmhgeew"
     },
     {
       "name": "Pericardial effusion (noninflammatory)",
+      "type": "Disease or Syndrome",
       "id": "DdFGFs5BuP29rz2ysjUp9t",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pericardial-effusion-ddfgfs5bup29rz2ysjup9t"
     },
     {
       "name": "Urinary Incontinence",
+      "type": "Disease or Syndrome",
       "id": "YvvpLDFgEUAWaQghCgeDrT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-urine-incont-yvvpldfgeuawaqghcgedrt"
     },
     {
       "name": "Nasal polyp",
+      "type": "Disease or Syndrome",
       "id": "2JqMo7MxN89URPqarnRvau",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-nasal-polyp-2jqmo7mxn89urpqarnrvau"
     },
     {
       "name": "Atrioventricular block, first degree",
+      "type": "Disease or Syndrome",
       "id": "T9FGkKdrjMexKXNu9WjWpF",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-av-block-1-t9fgkkdrjmexkxnu9wjwpf"
     },
     {
       "name": "Prematurity",
+      "type": "Disease or Syndrome",
       "id": "QLJese4vjozSvYQxScWpv7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-prematurity-qljese4vjozsvyqxscwpv7"
     },
     {
       "name": "Primary or Idiopathic Thrombocytopaenia",
+      "type": "Disease or Syndrome",
       "id": "CUSRAUEXQqGbaEHKviPawn",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-thrombocytopaenia-cusrauexqqgbaehkvipawn"
     },
     {
       "name": "Cystic Fibrosis",
+      "type": "Disease or Syndrome",
       "id": "5eDwF2jVb4XWHMtooSYTbB",
       "url": "https://portal.caliberresearch.org/phenotypes/axson-cystic-fibrosis-5edwf2jvb4xwhmtoosytbb"
     },
     {
       "name": "Irritable bowel syndrome",
+      "type": "Disease or Syndrome",
       "id": "g2YVaUEpnd8CJyLASZPNQi",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ibs-g2yvauepnd8cjylaszpnqi"
     },
     {
       "name": "Thalassaemia",
+      "type": "Disease or Syndrome",
       "id": "LZDoEqjUR9HYosnmbox6mW",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-thala-lzdoeqjur9hyosnmbox6mw"
     },
     {
       "name": "Neonatal jaundice (excl haemolytic dz of the newborn)",
+      "type": "Disease or Syndrome",
       "id": "MEqZPyc5s3rBZqLaCnkMfB",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-neo-jaundice-meqzpyc5s3rbzqlacnkmfb"
     },
     {
       "name": "Unstable Angina",
+      "type": "Disease or Syndrome",
       "id": "CCQUoFjx2ZzPrqrX8ubGDQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-unstable-angina-ccquofjx2zzprqrx8ubgdq"
     },
     {
       "name": "Primary Malignancy_Other Skin and subcutaneous tissue",
+      "type": "Disease or Syndrome",
       "id": "27GoiZyiiU2g8ef4qUtucH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-skin-27goizyiiu2g8ef4qutuch"
     },
     {
       "name": "Parkinson's disease",
+      "type": "Disease or Syndrome",
       "id": "3WekgjS8prps7Dr3EMAE4L",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-parkinsons-3wekgjs8prps7dr3emae4l"
     },
     {
       "name": "Depression",
+      "type": "Disease or Syndrome",
       "id": "cEacXgEFhPdVWcUgWULATV",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-depression-ceacxgefhpdvwcugwulatv"
     },
     {
       "name": "Scleritis and episcleritis",
+      "type": "Disease or Syndrome",
       "id": "H3bim3sPETSSaygyEddC7h",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-scleritis-h3bim3spetssaygyeddc7h"
     },
     {
       "name": "Female genital prolapse",
+      "type": "Disease or Syndrome",
       "id": "5JUZRXv6X2C8ADgrPw6Su8",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-female-genital-prolapse-5juzrxv6x2c8adgrpw6su8"
     },
     {
       "name": "Urolithiasis",
+      "type": "Disease or Syndrome",
       "id": "Zsx6GFtUKjrFJVrAuRJeEu",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-urolithiasis-zsx6gftukjrfjvraurjeeu"
     },
     {
       "name": "Spina bifida",
+      "type": "Disease or Syndrome",
       "id": "dBF5MaNFLkiqN8qTTm4uXD",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-spina-bifida-dbf5manflkiqn8qttm4uxd"
     },
     {
       "name": "Chronic sinusitis",
+      "type": "Disease or Syndrome",
       "id": "YXtNS5SUPZvfXAvs3RdKSm",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sinusitis-yxtns5supzvfxavs3rdksm"
     },
     {
       "name": "Pneumonia",
+      "type": "Disease or Syndrome",
       "id": "GL46c8PLQMdPuj7QuPtEh9",
       "url": "https://portal.caliberresearch.org/phenotypes/axson-pneumonia-gl46c8plqmdpuj7qupteh9"
     },
     {
       "name": "Fibromatoses",
+      "type": "Disease or Syndrome",
       "id": "eCtYtFNeXxpTRmpj7JYgNp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-fibromatosis-ectytfnexxptrmpj7jygnp"
     },
     {
       "name": "Ventricular tachycardia",
+      "type": "Disease or Syndrome",
       "id": "Mx78fJmJPJg5Sxuzp9wyAk",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-vt-mx78fjmjpjg5sxuzp9wyak"
     },
     {
       "name": "Alcohol Problems",
+      "type": "Disease or Syndrome",
       "id": "UxiyF5AcxtXNJZpNvwfYE4",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-alc-problems-uxiyf5acxtxnjzpnvwfye4"
     },
     {
       "name": "Liver fibrosis, sclerosis and cirrhosis",
+      "type": "Disease or Syndrome",
       "id": "2LW7p3ULbVEqV3vYNLRyu2",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cirrhosis-2lw7p3ulbveqv3vynlryu2"
     },
     {
       "name": "Allergic and chronic rhinitis",
+      "type": "Disease or Syndrome",
       "id": "Y44TQLMdrP4ABsSeBvbuUF",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-allergic-rhinitis-y44tqlmdrp4abssebvbuuf"
     },
     {
       "name": "Other anaemias",
+      "type": "Disease or Syndrome",
       "id": "TkopQyYsqmzwVKiwfAHQnR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oth-anaemia-tkopqyysqmzwvkiwfahqnr"
     },
     {
       "name": "Venous thromboembolic disease (Excl PE)",
+      "type": "Disease or Syndrome",
       "id": "JRTtcdr2U5bo88gJap7hd6",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-vte-ex-pe-jrttcdr2u5bo88gjap7hd6"
     },
     {
       "name": "Anorectal fistula",
+      "type": "Disease or Syndrome",
       "id": "jjFso6okvLjAdwf5SzrL5A",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-anorectal-fistula-jjfso6okvljadwf5szrl5a"
     },
     {
       "name": "Hypertrophy of nasal turbinates",
+      "type": "Disease or Syndrome",
       "id": "W83WMB5A6k6mfQKUJJZt6E",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hyper-nasal-turbs-w83wmb5a6k6mfqkujjzt6e"
     },
     {
       "name": "Primary Malignancy_Cervical",
+      "type": "Disease or Syndrome",
       "id": "fF27tQu3MyuSRfx4LgLvnB",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-cervical-ff27tqu3myusrfx4lglvnb"
     },
     {
       "name": "Subarachnoid haemorrhage",
+      "type": "Disease or Syndrome",
       "id": "VDhB96H287Ty7FyNXBtBeU",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-subarach-vdhb96h287ty7fynxbtbeu"
     },
     {
       "name": "Sarcoidosis",
+      "type": "Disease or Syndrome",
       "id": "Lx4rcw5bcpivtgbF4F7Qc3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sarcoid-lx4rcw5bcpivtgbf4f7qc3"
     },
     {
       "name": "Anorectal prolapse",
+      "type": "Disease or Syndrome",
       "id": "KXydavUn3ZWEK46jNtEKpX",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-anorectal-prolapse-kxydavun3zwek46jntekpx"
     },
     {
       "name": "Secondary polycythaemia",
+      "type": "Disease or Syndrome",
       "id": "iPnDxjmpAu865M4dYgyw3E",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-2ry-polycythaemia-ipndxjmpau865m4dygyw3e"
     },
     {
       "name": "Pleural effusion",
+      "type": "Disease or Syndrome",
       "id": "bQbxWRNDAY7N7fVaLYJxbD",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pleural-effusion-bqbxwrnday7n7fvalyjxbd"
     },
     {
       "name": "Primary Malignancy_Breast",
+      "type": "Disease or Syndrome",
       "id": "FKsMkhEDz2v5aefUoxzZs2",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-breast-fksmkhedz2v5aefuoxzzs2"
     },
     {
       "name": "Osteoporosis",
+      "type": "Disease or Syndrome",
       "id": "WP8cKUQQPyvjzNrHP27HGg",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-osteoporosis-wp8ckuqqpyvjznrhp27hgg"
     },
     {
       "name": "Glomerulonephritis",
+      "type": "Disease or Syndrome",
       "id": "2wTWQbK6ypwjowGXfj3X3p",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-gn-2wtwqbk6ypwjowgxfj3x3p"
     },
     {
       "name": "Ptosis of eyelid",
+      "type": "Disease or Syndrome",
       "id": "HAfApkFqoDfw2eKzvkYvf7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ptosis-hafapkfqodfw2ekzvkyvf7"
     },
     {
       "name": "Volvulus",
+      "type": "Disease or Syndrome",
       "id": "XJgb4NtivUwpgbyVocehfR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-volvulus-xjgb4ntivuwpgbyvocehfr"
     },
     {
       "name": "Intracranial hypertension",
+      "type": "Disease or Syndrome",
       "id": "giQNx539AerZLWMixxD2sk",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-intracranial-htn-giqnx539aerzlwmixxd2sk"
     },
     {
       "name": "Primary Malignancy_Stomach",
+      "type": "Disease or Syndrome",
       "id": "NWXTeKww9Ppu4grcErNrSp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-stomach-nwxtekww9ppu4grcernrsp"
     },
     {
       "name": "Thrombophilia",
+      "type": "Disease or Syndrome",
       "id": "VBQpRRQmjZFgvhbRumkexz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-thrombophilia-vbqprrqmjzfgvhbrumkexz"
     },
     {
       "name": "Chronic viral hepatitis",
+      "type": "Disease or Syndrome",
       "id": "Ue8m4voQcHGgTrx2sQWfeS",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-chr-hep-ue8m4voqchggtrx2sqwfes"
     },
     {
       "name": "Other haemolytic anaemias",
+      "type": "Disease or Syndrome",
       "id": "6iaKHraVPpnAFrkvTvhSNz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oth-haem-anaemia-6iakhravppnafrkvtvhsnz"
     },
     {
       "name": "Respiratory distress of newborn",
+      "type": "Disease or Syndrome",
       "id": "R4aUkbanyG7bknAk32knr7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rdn-r4aukbanyg7bknak32knr7"
     },
     {
       "name": "Dilated cardiomyopathy",
+      "type": "Disease or Syndrome",
       "id": "7qjVDgFaPZCrL9Pkjrzwjd",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-dcm-7qjvdgfapzcrl9pkjrzwjd"
     },
     {
       "name": "Spinal stenosis",
+      "type": "Disease or Syndrome",
       "id": "YhvFzS8BTigRv4MN3FnVcd",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-spinal-stenosis-yhvfzs8btigrv4mn3fnvcd"
     },
     {
       "name": "Portal hypertension",
+      "type": "Disease or Syndrome",
       "id": "g8iQFgfjZBKRBWcyjgtHst",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-portal-htn-g8iqfgfjzbkrbwcyjgthst"
     },
     {
       "name": "Myelodysplastic syndromes",
+      "type": "Disease or Syndrome",
       "id": "AYDKE8FPddcymgoYArhuUx",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-mds-aydke8fpddcymgoyarhuux"
     },
     {
       "name": "Spondylolisthesis",
+      "type": "Disease or Syndrome",
       "id": "NV7at9jhjbVvqGEMaoQdmp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-spondylolisthesis-nv7at9jhjbvvqgemaoqdmp"
     },
     {
       "name": "Left bundle branch block",
+      "type": "Disease or Syndrome",
       "id": "NzHFqJLxSw3A8oVebtDpez",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-lbbb-nzhfqjlxsw3a8ovebtdpez"
     },
     {
       "name": "Retinal detachments and breaks",
+      "type": "Disease or Syndrome",
       "id": "L6j8D8roPto75aTPDALFcE",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-retinal-detach-l6j8d8ropto75atpdalfce"
     },
     {
       "name": "Down's syndrome",
+      "type": "Disease or Syndrome",
       "id": "eJfgxZ6gX5nEXWCoXzQ3KK",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-downs-ejfgxz6gx5nexwcoxzq3kk"
     },
     {
       "name": "Cataract",
+      "type": "Disease or Syndrome",
       "id": "YfnhFx9TGYNQZHbcrYXvvQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cataract-yfnhfx9tgynqzhbcryxvvq"
     },
     {
       "name": "Obsessive-compulsive disorder",
+      "type": "Disease or Syndrome",
       "id": "6E56tRTeBtYVcebZXGCxcw",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ocd-6e56trtebtyvcebzxgcxcw"
     },
     {
       "name": "Secondary Malignancy_Bone",
+      "type": "Disease or Syndrome",
       "id": "FhThhcsart7RXBaX6A5t2k",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-bone-fhthhcsart7rxbax6a5t2k"
     },
     {
       "name": "Primary Malignancy_Other Organs",
+      "type": "Disease or Syndrome",
       "id": "5oEhmm6bfGj5TwvQWpso7s",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-other-5oehmm6bfgj5twvqwpso7s"
     },
     {
       "name": "Primary Malignancy_Kidney and Ureter",
+      "type": "Disease or Syndrome",
       "id": "W5Cc5G9hZUeKusUSNYPhF4",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-kidney-w5cc5g9hzuekususnyphf4"
     },
     {
       "name": "Postinfective and reactive arthropathies",
+      "type": "Disease or Syndrome",
       "id": "TkS6YuotdCr3su6z3Mh5Hw",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-reactive-tks6yuotdcr3su6z3mh5hw"
     },
     {
       "name": "High birth weight",
+      "type": "Disease or Syndrome",
       "id": "LWhG3dXxEAEiBmP9PpEipV",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hbw-lwhg3dxxeaeibmp9ppeipv"
     },
     {
       "name": "Fatty Liver",
+      "type": "Disease or Syndrome",
       "id": "maAhaLUeMoRmFcis7GoRGS",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-fatty-liver-maahaluemormfcis7gorgs"
     },
     {
       "name": "Supraventricular tachycardia",
+      "type": "Disease or Syndrome",
       "id": "YKhzwDUrkdfEzDvnjm9vgE",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-svt-ykhzwdurkdfezdvnjm9vge"
     },
     {
       "name": "Cerebral Palsy",
+      "type": "Disease or Syndrome",
       "id": "LoWH6jeE99hfyV6WWXwa8j",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cerebral-palsy-lowh6jee99hfyv6wwxwa8j"
     },
     {
       "name": "Gastro-oesophageal reflux disease",
+      "type": "Disease or Syndrome",
       "id": "UGcHHBqWYpvDsdwpN2fUPv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-gord-ugchhbqwypvdsdwpn2fupv"
     },
     {
       "name": "Peripheral arterial disease",
+      "type": "Disease or Syndrome",
       "id": "44JczFFvdPMNiwQNrtmijX",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-peripheral-arterial-disease-44jczffvdpmniwqnrtmijx"
     },
     {
       "name": "Bipolar affective disorder and mania",
+      "type": "Disease or Syndrome",
       "id": "3mzXCCZrugWeNywT4eE75N",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bad-3mzxcczrugwenywt4ee75n"
     },
     {
       "name": "Other psychoactive substance misuse",
+      "type": "Disease or Syndrome",
       "id": "6k6xkuwJkn9nYcAfsZSwyp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-substance-misuse-6k6xkuwjkn9nycafszswyp"
     },
     {
       "name": "Primary Malignancy_Testicular",
+      "type": "Disease or Syndrome",
       "id": "TvfnwMvxW5Fpf6nAsm7Kq3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-testis-tvfnwmvxw5fpf6nasm7kq3"
     },
     {
       "name": "Atrial fibrillation",
+      "type": "Disease or Syndrome",
       "id": "7LD6QMWnjm3TRHykwMpQ6h",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-af-7ld6qmwnjm3trhykwmpq6h"
     },
     {
       "name": "Acne",
+      "type": "Disease or Syndrome",
       "id": "3tJXPBK43iqTqheoEebq7i",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-acne-3tjxpbk43iqtqheoeebq7i"
     },
     {
       "name": "White Blood Cells",
+      "type": "Biomarker",
       "id": "m9LJwQVE3LVudvQ5bCu6MZ",
       "url": "https://portal.caliberresearch.org/phenotypes/white-blood-cells"
     },
     {
       "name": "Primary Malignancy_Malignant Melanoma",
+      "type": "Disease or Syndrome",
       "id": "WxanZjRixf3bNtAUg4SnZC",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-melanoma-wxanzjrixf3bntaug4snzc"
     },
     {
       "name": "Juvenile arthritis",
+      "type": "Disease or Syndrome",
       "id": "m9XPD8sWNiMMLKbKUysXK9",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-juv-arth-m9xpd8swnimmlkbkuysxk9"
     },
     {
       "name": "Ulcerative colitis",
+      "type": "Disease or Syndrome",
       "id": "kmM3cSNoeiE3mAPccxjiqr",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ulc-colitis-kmm3csnoeie3mapccxjiqr"
     },
     {
       "name": "Monoclonal gammopathy of undetermined significance (MGUS)",
+      "type": "Disease or Syndrome",
       "id": "DsdMauquZcQ6bsRKDuwRKj",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-mgus-dsdmauquzcq6bsrkduwrkj"
     },
     {
       "name": "Sickle-cell anaemia",
+      "type": "Disease or Syndrome",
       "id": "BoyuDsY7sCnGANEAFw9ffb",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sickle-cell-boyudsy7scnganeafw9ffb"
     },
     {
       "name": "Ankylosing spondylitis",
+      "type": "Disease or Syndrome",
       "id": "M52WcZ3izzZtQD7PswhEB5",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ank-spond-m52wcz3izzztqd7pswheb5"
     },
     {
       "name": "Coronary heart disease not otherwise specified",
+      "type": "Disease or Syndrome",
       "id": "U66rc5otdDeJcbDZi2hj8K",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-chd-nos-u66rc5otddejcbdzi2hj8k"
     },
     {
       "name": "Hydrocoele (incl infected)",
+      "type": "Disease or Syndrome",
       "id": "XNwEwRETWNqzgLPFuYLXh6",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hydrocele-xnwewretwnqzglpfuylxh6"
     },
     {
       "name": "Asbestosis",
+      "type": "Disease or Syndrome",
       "id": "aKBkTvknVPpHysgFT2wjGs",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-asbestosis-akbktvknvpphysgft2wjgs"
     },
     {
       "name": "Osteoarthritis (excl spine)",
+      "type": "Disease or Syndrome",
       "id": "MYMaZGRSrw7cghWD4di64E",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oa-mymazgrsrw7cghwd4di64e"
     },
     {
       "name": "Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)",
+      "type": "Disease or Syndrome",
       "id": "ezrsSL9RyypAFK67puLN56",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-periph-neuro-ezrssl9ryypafk67puln56"
     },
     {
       "name": "Angiodysplasia of colon",
+      "type": "Disease or Syndrome",
       "id": "RSXYXN6U8DbDFnT8ctSbmP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-angiodysplasia-colon-rsxyxn6u8dbdfnt8ctsbmp"
     },
     {
       "name": "Primary pulmonary hypertension",
+      "type": "Disease or Syndrome",
       "id": "LxkwE9SRvZuQspvnwo84E6",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-prim-pulm-htn-lxkwe9srvzuqspvnwo84e6"
     },
     {
       "name": "Obstructive and reflux uropathy",
+      "type": "Disease or Syndrome",
       "id": "LpQMvKGmacacE2W5zsXoTG",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-obstr-reflux-lpqmvkgmacace2w5zsxotg"
     },
     {
       "name": "Collapsed vertebra",
+      "type": "Disease or Syndrome",
       "id": "KvtQuNGwZb74sJz5dENotc",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-collapsed-vert-kvtqungwzb74sjz5denotc"
     },
     {
       "name": "Primary Malignancy_Oro-pharyngeal",
+      "type": "Disease or Syndrome",
       "id": "Yf7weJABXCmh9AHRkGE8oA",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-oroph-yf7wejabxcmh9ahrkge8oa"
     },
     {
       "name": "Benign neoplasm of stomach and duodenum",
+      "type": "Disease or Syndrome",
       "id": "S4SfTTFKq2DW4xfK2ZdjzA",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-benign-stomach-s4sfttfkq2dw4xfk2zdjza"
     },
     {
       "name": "Eosinophils",
+      "type": "Biomarker",
       "id": "PHE00322",
       "url": "https://portal.caliberresearch.org/phenotypes/eosinophils"
     },
     {
       "name": "Cholecystitis",
+      "type": "Disease or Syndrome",
       "id": "ZrmfqHcwmbboMiRCGSZ6ph",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cholecystitis-zrmfqhcwmbbomircgsz6ph"
     },
     {
       "name": "Hypertension",
+      "type": "Disease or Syndrome",
       "id": "inuKppLKH7QtFXFaq8qjaA",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hypertension-inukpplkh7qtfxfaq8qjaa"
     },
     {
       "name": "Primary Malignancy_Mesothelioma",
+      "type": "Disease or Syndrome",
       "id": "LXgfieFkyhgDuovn87QDeQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-mesothelioma-lxgfiefkyhgduovn87qdeq"
     },
     {
       "name": "Hypertrophic Cardiomyopathy",
+      "type": "Disease or Syndrome",
       "id": "HcTtcgqz2cuoAh5Kgmdyg9",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hocm-hcttcgqz2cuoah5kgmdyg9"
     },
     {
       "name": "Slow fetal growth or low birth weight",
+      "type": "Disease or Syndrome",
       "id": "LtQ3z9qkt2rZodR7xiM3fT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-lbw-ltq3z9qkt2rzodr7xim3ft"
     },
     {
       "name": "Diabetes",
+      "type": "Disease or Syndrome",
       "id": "bYMFsBEu7tVB6YkrQ8aBvk",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-diabetes-bymfsbeu7tvb6ykrq8abvk"
     },
     {
       "name": "Undescended testicle",
+      "type": "Disease or Syndrome",
       "id": "GoD9uJHQoeNWNyezo5EXYz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-undescended-testis-god9ujhqoenwnyezo5exyz"
     },
     {
       "name": "Meniere disease",
+      "type": "Disease or Syndrome",
       "id": "HnXiMASGc6kNpvqY2DjqaE",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-meniere-hnximasgc6knpvqy2djqae"
     },
     {
       "name": "Fracture of hip",
+      "type": "Disease or Syndrome",
       "id": "DPFPjLGauPSRA23siby2Ym",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-fracture-hip-dpfpjlgaupsra23siby2ym"
     },
     {
       "name": "Diabetic ophthalmic complications",
+      "type": "Disease or Syndrome",
       "id": "gKfGM8qSdKpABsxux6teD3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-diab-eye-gkfgm8qsdkpabsxux6ted3"
     },
     {
       "name": "Heart Rate",
+      "type": "Biomarker",
       "id": "6keWsw2mW2TQjDMhNAUETt",
       "url": "https://portal.caliberresearch.org/phenotypes/archangelidi-heart-rate-6kewsw2mw2tqjdmhnauett"
     },
     {
       "name": "Tryglicerides",
+      "type": "Biomarker",
       "id": "dVq7JhU5RRLoSk8Na3amwn",
       "url": "https://portal.caliberresearch.org/phenotypes/triglycerides"
     },
     {
       "name": "Oesophagitis and oesophageal ulcer",
+      "type": "Disease or Syndrome",
       "id": "d8ZYipwzzber6k9WFfwnvT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oesoph-ulc-d8zyipwzzber6k9wffwnvt"
     },
     {
       "name": "Blood Pressure",
+      "type": "Biomarker",
       "id": "FUzVABgwNAexCTqwZHPChw",
       "url": "https://portal.caliberresearch.org/phenotypes/blood-pressure"
     },
     {
       "name": "Psoriatic arthropathy",
+      "type": "Disease or Syndrome",
       "id": "kKLsGFTKvcFCbGutKiwfBS",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-psa-kklsgftkvcfcbgutkiwfbs"
     },
     {
       "name": "Motor neuron disease",
+      "type": "Disease or Syndrome",
       "id": "VjkMbeNcLjgWMfxKdFuTT8",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-mnd-vjkmbencljgwmfxkdfutt8"
     },
     {
       "name": "Menorrhagia and polymenorrhoea",
+      "type": "Disease or Syndrome",
       "id": "5Gg3Vvf9jQGzE7KXzWE577",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-menorrhagia-5gg3vvf9jqgze7kxzwe577"
     },
     {
       "name": "Epilepsy",
+      "type": "Disease or Syndrome",
       "id": "Wg2UM5mf2UnhQ57yA44GZL",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-epilepsy-wg2um5mf2unhq57ya44gzl"
     },
     {
       "name": "Secondary Malignancy_Other organs",
+      "type": "Disease or Syndrome",
       "id": "DCDEYHfps3kCT6QfRGVNsx",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-other-dcdeyhfps3kct6qfrgvnsx"
     },
     {
       "name": "Dermatitis (atopc/contact/other/unspecified)",
+      "type": "Disease or Syndrome",
       "id": "C5pW4JMnJFGGY87R2ZPxBv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-dermatitis-c5pw4jmnjfggy87r2zpxbv"
     },
     {
       "name": "Systemic sclerosis",
+      "type": "Disease or Syndrome",
       "id": "LcPUDgrAm6fmc3hzbA8UkB",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sys-sclerosis-lcpudgram6fmc3hzba8ukb"
     },
     {
       "name": "Postcoital and contact bleeding",
+      "type": "Disease or Syndrome",
       "id": "HQLDmTH7NHmWuQvvnfHqmy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pcb-hqldmth7nhmwuqvvnfhqmy"
     },
     {
       "name": "Intellectual disability",
+      "type": "Disease or Syndrome",
       "id": "nMjhav5BGsXc8owNRqqAEs",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-intell-dz-nmjhav5bgsxc8ownrqqaes"
     },
     {
       "name": "Dementia",
+      "type": "Disease or Syndrome",
       "id": "JxyxCgdMoQd58igUNbZATR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-dementia-jxyxcgdmoqd58igunbzatr"
     },
     {
       "name": "Benign neoplasm of brain and other parts of central nervous system",
+      "type": "Disease or Syndrome",
       "id": "Rgxuajnx9VBxwvcb5ET47Z",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-benign-brain-rgxuajnx9vbxwvcb5et47z"
     },
     {
       "name": "Haemangioma, any site",
+      "type": "Disease or Syndrome",
       "id": "nP7HpnvDvriTxZrwvJakYw",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-haemangioma-np7hpnvdvritxzrwvjakyw"
     },
     {
       "name": "Secondary Malignancy_Brain, Other CNS and Intracranial",
+      "type": "Disease or Syndrome",
       "id": "7E8wg49zQwegfBuN6BMHxq",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-brain-7e8wg49zqwegfbun6bmhxq"
     },
     {
       "name": "Benign neoplasm and polyp of uterus",
+      "type": "Disease or Syndrome",
       "id": "4Juk5rUDGhFs5FBTkLN4wU",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-benign-uterus-4juk5rudghfs5fbtkln4wu"
     },
     {
       "name": "Trifascicular block",
+      "type": "Disease or Syndrome",
       "id": "9Fo6p7PhiAo5LgmDGaW2aK",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-trifasc-block-9fo6p7phiao5lgmdgaw2ak"
     },
     {
       "name": "Transient ischaemic attack",
+      "type": "Disease or Syndrome",
       "id": "XxLUtcnthXos59d3fTn9Fy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-tia-xxlutcnthxos59d3ftn9fy"
     },
     {
       "name": "Trigeminal neuralgia",
+      "type": "Disease or Syndrome",
       "id": "QE89cQt4zYGDbRNQ7VoxUM",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-trigem-neur-qe89cqt4zygdbrnq7voxum"
     },
     {
       "name": "Dysmenorrhoea",
+      "type": "Disease or Syndrome",
       "id": "Ypx3HMzkeY6ye8h7fura54",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-dysmenorrhoea-ypx3hmzkey6ye8h7fura54"
     },
     {
       "name": "Cholelithiasis",
+      "type": "Disease or Syndrome",
       "id": "3wyLRCS4K4nQFmsfXfi5em",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cholelithiasis-3wylrcs4k4nqfmsfxfi5em"
     },
     {
       "name": "Pilonidal cyst/sinus",
+      "type": "Disease or Syndrome",
       "id": "QETrH6TzYVaiJ2bBYwp6bs",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pilonidal-qetrh6tzyvaij2bbywp6bs"
     },
     {
       "name": "Anal fissure",
+      "type": "Disease or Syndrome",
       "id": "AyYY3Bpc5hEChq69PMdSiU",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-anal-fissure-ayyy3bpc5hechq69pmdsiu"
     },
     {
       "name": "Secondary Malignancy_Adrenal gland",
+      "type": "Disease or Syndrome",
       "id": "mWcHQYsc5LoAtRFwxmWBB9",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-adrenal-mwchqysc5loatrfwxmwbb9"
     },
     {
       "name": "Tubulo-interstitial nephritis",
+      "type": "Disease or Syndrome",
       "id": "cof9bpW5rsfqsRv2QKTcyR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-tin-cof9bpw5rsfqsrv2qktcyr"
     },
     {
       "name": "Hyposplenism",
+      "type": "Disease or Syndrome",
       "id": "PeJdbuHzpPPWaiEnXdoekZ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hyposplenism-pejdbuhzpppwaienxdoekz"
     },
     {
       "name": "Subdural haematoma - nontraumatic",
+      "type": "Disease or Syndrome",
       "id": "KgmoHwc6cnDpiVAdXRCLTm",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-subdural-haem-kgmohwc6cndpivadxrcltm"
     },
     {
       "name": "Intervertebral disc disorders",
+      "type": "Disease or Syndrome",
       "id": "Q5wvqUfppG6HXq6mJed5iR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-intervert-disc-q5wvqufppg6hxq6mjed5ir"
     },
     {
       "name": "Endometriosis",
+      "type": "Disease or Syndrome",
       "id": "2EgSY3AQ93SdxxaKC4jLWF",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-endometriosis-2egsy3aq93sdxxakc4jlwf"
     },
     {
       "name": "Right bundle branch block",
+      "type": "Disease or Syndrome",
       "id": "8cCG64eH9xaY4AzpdgSs79",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rbbb-8ccg64eh9xay4azpdgss79"
     },
     {
       "name": "Bacterial sepsis of newborn",
+      "type": "Disease or Syndrome",
       "id": "HKfjh9B2YgfezrE5NZEqr8",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sepsis-newborn-hkfjh9b2ygfezre5nzeqr8"
     },
     {
       "name": "Abdominal aortic aneurysm",
+      "type": "Disease or Syndrome",
       "id": "NJ2gf6ZTTxjayMcK5ksHXf",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-aaa-nj2gf6zttxjaymck5kshxf"
     },
     {
       "name": "Polycythaemia vera",
+      "type": "Disease or Syndrome",
       "id": "YNpoTpwazbBciG88G7i2dP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pcv-ynpotpwazbbcig88g7i2dp"
     }
@@ -1484,1531 +1780,1837 @@
   "77b5cf84-d4f2-4418-bafa-73306cf2d2b2": [
     {
       "name": "Alcoholic liver disease",
+      "type": "Disease or Syndrome",
       "id": "Dx2rRinjMdDgRFjZEJYUh7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-liver-alc-dx2rrinjmddgrfjzejyuh7"
     },
     {
       "name": "Myocardial infarction",
+      "type": "Disease or Syndrome",
       "id": "LG5FyDnaomHyfeNNKPx92J",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-myocardial-infarction-lg5fydnaomhyfennkpx92j"
     },
     {
       "name": "Bronchiestasis",
+      "type": "Disease or Syndrome",
       "id": "ZckoXfUWNXn8Jn7fdLQuxj",
       "url": "https://portal.caliberresearch.org/phenotypes/axson-bronchiestasis-zckoxfuwnxn8jn7fdlquxj"
     },
     {
       "name": "Autoimmune liver disease",
+      "type": "Disease or Syndrome",
       "id": "EhCfQgUPWeWexfdZ8VQUby",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-autoimm-liver-ehcfqgupwewexfdz8vquby"
     },
     {
       "name": "Retinal vascular occlusions",
+      "type": "Disease or Syndrome",
       "id": "7XyRMcnzw5RafSkpB6Gkhg",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-retinal-vasc-occl-7xyrmcnzw5rafskpb6gkhg"
     },
     {
       "name": "Primary Malignancy_Thyroid",
+      "type": "Disease or Syndrome",
       "id": "ZT3puKFh9Kc4i8hjwJCgJT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-thyroid-zt3pukfh9kc4i8hjwjcgjt"
     },
     {
       "name": "Other Cardiomyopathy",
+      "type": "Disease or Syndrome",
       "id": "L9Vd69SHmNTPEVacrtJdby",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cardiomyo-oth-l9vd69shmntpevacrtjdby"
     },
     {
       "name": "Infection of male genital system",
+      "type": "Disease or Syndrome",
       "id": "jEazMqmT4jcYc2wcbQgvkE",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-male-gu-jeazmqmt4jcyc2wcbqgvke"
     },
     {
       "name": "Agranulocytosis",
+      "type": "Disease or Syndrome",
       "id": "n6BbN4xqnikRVdAqPZeCiV",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-agranulocytosis-n6bbn4xqnikrvdaqpzeciv"
     },
     {
       "name": "Primary Malignancy_Bone and articular cartilage",
+      "type": "Disease or Syndrome",
       "id": "QLjNYKgxeNtawoP8gL7Lhd",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-bone-qljnykgxentawop8gl7lhd"
     },
     {
       "name": "Obesity",
+      "type": "Disease or Syndrome",
       "id": "GSbMFsCZ8omuKiyKmKkzCy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-obesity-gsbmfscz8omukiykmkkzcy"
     },
     {
       "name": "Peritonitis",
+      "type": "Disease or Syndrome",
       "id": "7Y4ue6SQxc3UnfZPSpk6ra",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-peritonitis-7y4ue6sqxc3unfzpspk6ra"
     },
     {
       "name": "Keratitis",
+      "type": "Disease or Syndrome",
       "id": "4gcKUGGueUCemht3RcUrfH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-keratitis-4gckuggueucemht3rcurfh"
     },
     {
       "name": "Respiratory failure",
+      "type": "Disease or Syndrome",
       "id": "FucDueZ9X5U3QkLYSMRXuX",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-resp-failure-fucduez9x5u3qklysmrxux"
     },
     {
       "name": "Intrauterine hypoxia",
+      "type": "Disease or Syndrome",
       "id": "4TpFkcXxu9AcbCdcnTuLm2",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-intrauterine-hypoxia-4tpfkcxxu9acbcdcntulm2"
     },
     {
       "name": "Asthma",
+      "type": "Disease or Syndrome",
       "id": "cdd2NMH5QDWVdEfTQNNfpK",
       "url": "https://portal.caliberresearch.org/phenotypes/axson-asthma-cdd2nmh5qdwvdeftqnnfpk"
     },
     {
       "name": "Primary Malignancy_Brain, Other CNS and Intracranial",
+      "type": "Disease or Syndrome",
       "id": "mgSHvmncfQKgDg6E4giQyx",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-brain-mgshvmncfqkgdg6e4giqyx"
     },
     {
       "name": "Psoriasis",
+      "type": "Disease or Syndrome",
       "id": "EDjoSA4NeEFoAonfH4agk4",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-psoriasis-edjosa4neefoaonfh4agk4"
     },
     {
       "name": "Secondary or other Thrombocytopaenia",
+      "type": "Disease or Syndrome",
       "id": "f5FuMcav9uFcEjkbZ5JtG4",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-oth-thrombocytopaenia-f5fumcav9ufcejkbz5jtg4"
     },
     {
       "name": "Barrett's oesophagus",
+      "type": "Disease or Syndrome",
       "id": "9f7dZtMQKkSHuWQf4gttUu",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-barretts-9f7dztmqkkshuwqf4gttuu"
     },
     {
       "name": "Folate deficiency anaemia",
+      "type": "Disease or Syndrome",
       "id": "FPLoVUa2GzovLpzcPkMLfk",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-folatedef-fplovua2gzovlpzcpkmlfk"
     },
     {
       "name": "Glaucoma",
+      "type": "Disease or Syndrome",
       "id": "9vFCEuU9tBZji8yHf4U7hH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-glaucoma-9vfceuu9tbzji8yhf4u7hh"
     },
     {
       "name": "Sleep apnoea",
+      "type": "Disease or Syndrome",
       "id": "AfzQ2jdRKumSy8qtBSeRXQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sleep-apnoea-afzq2jdrkumsy8qtbserxq"
     },
     {
       "name": "Sick sinus syndrome",
+      "type": "Disease or Syndrome",
       "id": "fKjRjHUHCfNPCYsPtJWDiC",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sick-sinus-fkjrjhuhcfnpcysptjwdic"
     },
     {
       "name": "Primary Malignancy_Liver",
+      "type": "Disease or Syndrome",
       "id": "AypekghXaccCJEjHmHgaCf",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-liver-aypekghxacccjejhmhgacf"
     },
     {
       "name": "Primary Malignancy_Uterine",
+      "type": "Disease or Syndrome",
       "id": "PA3KYo4onvF8fxGmEHToCm",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-uterine-pa3kyo4onvf8fxgmehtocm"
     },
     {
       "name": "Tinnitus",
+      "type": "Disease or Syndrome",
       "id": "5SLXmYddaUtZeWPDn26ddc",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-tinnitus-5slxmyddautzewpdn26ddc"
     },
     {
       "name": "Raynaud's syndrome",
+      "type": "Disease or Syndrome",
       "id": "kGDpso98YvdgBUkHwLtQom",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-raynauds-kgdpso98yvdgbukhwltqom"
     },
     {
       "name": "Stable angina",
+      "type": "Disease or Syndrome",
       "id": "7aMhMWHkJHbNc2w32de4RT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-stable-angina-7amhmwhkjhbnc2w32de4rt"
     },
     {
       "name": "Ear and Upper Respiratory Tract Infections",
+      "type": "Disease or Syndrome",
       "id": "GtXR2V6qtByiemFrcHdVzr",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ear-urti-gtxr2v6qtbyiemfrchdvzr"
     },
     {
       "name": "Bifascicular block",
+      "type": "Disease or Syndrome",
       "id": "FeZgkaDCbMMUJgysojnHkT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bifasc-block-fezgkadcbmmujgysojnhkt"
     },
     {
       "name": "Leiomyoma of uterus",
+      "type": "Disease or Syndrome",
       "id": "KPoL4kRqXHE8pRxgnP32T5",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-leiomyoma-kpol4krqxhe8prxgnp32t5"
     },
     {
       "name": "Nonrheumatic aortic valve disorders",
+      "type": "Disease or Syndrome",
       "id": "6KCBwLSve8oKUUJCSoGVMy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-nonrh-aortic-6kcbwlsve8okuujcsogvmy"
     },
     {
       "name": "Scoliosis",
+      "type": "Disease or Syndrome",
       "id": "gWkKqmfdDtieRfqt3gDBgU",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-scoliosis-gwkkqmfddtierfqt3gdbgu"
     },
     {
       "name": "Crohn's disease",
+      "type": "Disease or Syndrome",
       "id": "TdiXVUEF5sCfmGKyALeCaD",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-crohns-tdixvuef5scfmgkyalecad"
     },
     {
       "name": "End stage renal disease",
+      "type": "Disease or Syndrome",
       "id": "656RD4TRGA4B7GHmaJzAzt",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-esrd-656rd4trga4b7ghmajzazt"
     },
     {
       "name": "Primary Malignancy_Oesophageal",
+      "type": "Disease or Syndrome",
       "id": "LkS5bRkV7vWh2J8yRDqSgN",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-oesoph-lks5brkv7vwh2j8yrdqsgn"
     },
     {
       "name": "Appendicitis",
+      "type": "Disease or Syndrome",
       "id": "5aqU7FXzZxDm78WBppyy5y",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-appendicitis-5aqu7fxzzxdm78wbppyy5y"
     },
     {
       "name": "Diabetic neurological complications",
+      "type": "Disease or Syndrome",
       "id": "TbATLTJSibhrbrEmJqsKuJ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-dm-neuro-tbatltjsibhrbremjqskuj"
     },
     {
       "name": "Cystic Fibrosis",
+      "type": "Disease or Syndrome",
       "id": "eqyW2q3h7pLfjRkjpiP5xv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cf-eqyw2q3h7plfjrkjpip5xv"
     },
     {
       "name": "Leukaemia",
+      "type": "Disease or Syndrome",
       "id": "m4HfBXcZAfvWbbMJ6h3wv8",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-leukaemia-m4hfbxczafvwbbmj6h3wv8"
     },
     {
       "name": "Peptic ulcer disease",
+      "type": "Disease or Syndrome",
       "id": "4mSsuwVb7M6w3HhH94Jbov",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ulcer-peptic-4mssuwvb7m6w3hhh94jbov"
     },
     {
       "name": "Visual impairment and blindness",
+      "type": "Disease or Syndrome",
       "id": "4wLv6rsCuLpEkDhEwmGzUQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-blind-4wlv6rsculpekdhewmgzuq"
     },
     {
       "name": "Posterior Uveitis",
+      "type": "Disease or Syndrome",
       "id": "7sT585S2MhmvcxR3qxn4vH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-post-uveitis-7st585s2mhmvcxr3qxn4vh"
     },
     {
       "name": "Cholangitis",
+      "type": "Disease or Syndrome",
       "id": "mNzDobbnJ9ssEhnW6TS2m7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cholangitis-mnzdobbnj9ssehnw6ts2m7"
     },
     {
       "name": "Postmenopausal bleeding",
+      "type": "Disease or Syndrome",
       "id": "U84C3hG5a2mzTnTfvGWdqn",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pmb-u84c3hg5a2mztntfvgwdqn"
     },
     {
       "name": "Bacterial Diseases (excl TB)",
+      "type": "Disease or Syndrome",
       "id": "LTt9ydm9NGbZkWQQy7XyiF",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bacterial-ltt9ydm9ngbzkwqqy7xyif"
     },
     {
       "name": "Actinic keratosis",
+      "type": "Disease or Syndrome",
       "id": "HCMERysojt6MUQNpDVMW8V",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-actinic-keratosis-hcmerysojt6muqnpdvmw8v"
     },
     {
       "name": "Oesophageal varices",
+      "type": "Disease or Syndrome",
       "id": "ceaqpKKvsiPa7ENJEz2Zzy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-varices-ceaqpkkvsipa7enjez2zzy"
     },
     {
       "name": "Aplastic anaemias",
+      "type": "Disease or Syndrome",
       "id": "GAqEf827VEm86L9hqmEhbd",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-aplastic-gaqef827vem86l9hqmehbd"
     },
     {
       "name": "Splenomegaly",
+      "type": "Disease or Syndrome",
       "id": "YK4bNDbzTVwZa7Jz3crRT7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-splenomegaly-yk4bndbztvwza7jz3crrt7"
     },
     {
       "name": "Polycystic ovarian syndrome",
+      "type": "Disease or Syndrome",
       "id": "GkcVZQrCQJHkwTvYNeMYNz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pcos-gkcvzqrcqjhkwtvynemynz"
     },
     {
       "name": "Diverticular disease of intestine (acute and chronic)",
+      "type": "Disease or Syndrome",
       "id": "oMJoWoJmHqQBFmzfDHCUFM",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-diverticuli-omjowojmhqqbfmzfdhcufm"
     },
     {
       "name": "Primary Malignancy_biliary tract",
+      "type": "Disease or Syndrome",
       "id": "kjbfD3bYfFF5F6dn4Cz7zy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-biliary-kjbfd3byfff5f6dn4cz7zy"
     },
     {
       "name": "Female infertility",
+      "type": "Disease or Syndrome",
       "id": "5uvFsYinHTBYQLE8WQMFUe",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-female-infertility-5uvfsyinhtbyqle8wqmfue"
     },
     {
       "name": "Post-term infant",
+      "type": "Disease or Syndrome",
       "id": "ZzaNcyxKJVbn7nhe394sYW",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-post-term-zzancyxkjvbn7nhe394syw"
     },
     {
       "name": "Schizophrenia, schizotypal and delusional disorders",
+      "type": "Disease or Syndrome",
       "id": "3L5NKPq72J7AASDMvY73QM",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-schizo-3l5nkpq72j7aasdmvy73qm"
     },
     {
       "name": "Anxiety disorders",
+      "type": "Disease or Syndrome",
       "id": "LGWMqosnAtERehdytPzBWy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-anxiety-lgwmqosnaterehdytpzbwy"
     },
     {
       "name": "Pancreatitis",
+      "type": "Disease or Syndrome",
       "id": "bYv8xnQBJ2SFhyYVSoudTt",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pancreatitis-byv8xnqbj2sfhyyvsoudtt"
     },
     {
       "name": "Alopecia areata",
+      "type": "Disease or Syndrome",
       "id": "GeiZN7PXDaTyPtwR8UNAbG",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-alopecia-areata-geizn7pxdatyptwr8unabg"
     },
     {
       "name": "Primary Malignancy_Bladder",
+      "type": "Disease or Syndrome",
       "id": "4EyKyg9kzvVAEJ8ef3itGd",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-bladder-4eykyg9kzvvaej8ef3itgd"
     },
     {
       "name": "Primary Malignancy_Prostate",
+      "type": "Disease or Syndrome",
       "id": "K7iZUPXVXQqcHj5BS4sChz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-prost-k7izupxvxqqchj5bs4schz"
     },
     {
       "name": "Secondary malignancy_Liver and intrahepatic bile duct",
+      "type": "Disease or Syndrome",
       "id": "MLbTBVxELakNfsyiAFybAa",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-liver-mlbtbvxelaknfsyiafybaa"
     },
     {
       "name": "Seborrheic dermatitis",
+      "type": "Disease or Syndrome",
       "id": "aRqXaBkrdmDXUZjTZ4BRKP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-seb-derm-arqxabkrdmdxuzjtz4brkp"
     },
     {
       "name": "Gout",
+      "type": "Disease or Syndrome",
       "id": "2pm8E2fAJJBt7pdSuW2Mge",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-gout-2pm8e2fajjbt7pdsuw2mge"
     },
     {
       "name": "Ischaemic stroke",
+      "type": "Disease or Syndrome",
       "id": "nfrpSeBDjByXgWGZHqTq2a",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-isch-stroke-nfrpsebdjbyxgwgzhqtq2a"
     },
     {
       "name": "Erectile dysfunction",
+      "type": "Disease or Syndrome",
       "id": "k5jqBM97NneeHGDbanJ35x",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ed-k5jqbm97nneehgdbanj35x"
     },
     {
       "name": "Syndrome of inappropriate secretion of antidiuretic hormone",
+      "type": "Disease or Syndrome",
       "id": "9jTT8smVQKJ5TRWXF3VMKE",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-siadh-9jtt8smvqkj5trwxf3vmke"
     },
     {
       "name": "Male infertility",
+      "type": "Disease or Syndrome",
       "id": "AtMSYQkQNJaBzawPds5Chv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-male-infertility-atmsyqkqnjabzawpds5chv"
     },
     {
       "name": "Delirium, not induced by alcohol and other psychoactive substances",
+      "type": "Disease or Syndrome",
       "id": "jExUP5ZrKENG5EngmgGJhE",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-delirium-jexup5zrkeng5engmggjhe"
     },
     {
       "name": "COPD",
+      "type": "Disease or Syndrome",
       "id": "Y9JxuQRFPprJDMHSPowJYs",
       "url": "https://portal.caliberresearch.org/phenotypes/axson-copd-y9jxuqrfpprjdmhspowjys"
     },
     {
       "name": "Gastritis and duodenitis",
+      "type": "Disease or Syndrome",
       "id": "A9rp5YMoEb7GbeYiMopaj3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-gastritis-duodenitis-a9rp5ymoeb7gbeyimopaj3"
     },
     {
       "name": "Macular degeneration",
+      "type": "Disease or Syndrome",
       "id": "2V58JY9JVmvvVokAa3E5sb",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-macula-degen-2v58jy9jvmvvvokaa3e5sb"
     },
     {
       "name": "Fracture of wrist",
+      "type": "Disease or Syndrome",
       "id": "AzokdCmJwmRXUXCHfeZAFi",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-fracture-wrist-azokdcmjwmrxuxchfezafi"
     },
     {
       "name": "Secondary Malignancy_Lung",
+      "type": "Disease or Syndrome",
       "id": "M7BkXTa8pkCFTeDAbwEoQr",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-lung-m7bkxta8pkcftedabweoqr"
     },
     {
       "name": "Non-Hodgkin Lymphoma",
+      "type": "Disease or Syndrome",
       "id": "EkuRLLMZVbdtBFhQS3rnLR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-nhl-ekurllmzvbdtbfhqs3rnlr"
     },
     {
       "name": "Heart failure",
+      "type": "Disease or Syndrome",
       "id": "YxiNH8TRWET5poG7g48cLc",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hf-yxinh8trwet5pog7g48clc"
     },
     {
       "name": "Nonrheumatic mitral valve disorders",
+      "type": "Disease or Syndrome",
       "id": "8PuLa8uoEbjtzC4vFipeJr",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-nonrh-mitral-8pula8uoebjtzc4vfipejr"
     },
     {
       "name": "Urinary Tract Infections",
+      "type": "Disease or Syndrome",
       "id": "HsazEuurYUFgKk8DHAVLkS",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-uti-hsazeuuryufgkk8dhavlks"
     },
     {
       "name": "Other interstitial pulmonary diseases with fibrosis",
+      "type": "Disease or Syndrome",
       "id": "HRo7ob4dxZxyDjqocqYp2b",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pulm-fibrosis-hro7ob4dxzxydjqocqyp2b"
     },
     {
       "name": "Rheumatic fever",
+      "type": "Disease or Syndrome",
       "id": "2LQnsm6S4MMjnu6dGcJijr",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rh-fever-2lqnsm6s4mmjnu6dgcjijr"
     },
     {
       "name": "Patent ductus arteriosus",
+      "type": "Disease or Syndrome",
       "id": "9pa8sQyoJywUKZyzLoxfYD",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pda-9pa8sqyojywukzyzloxfyd"
     },
     {
       "name": "Infection of anal and rectal regions",
+      "type": "Disease or Syndrome",
       "id": "dxgs3A67daFEpmErCZJjKy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-anorectal-dxgs3a67dafepmerczjjky"
     },
     {
       "name": "Mycoses",
+      "type": "Disease or Syndrome",
       "id": "NssGBvtMFBbqJnVe7ioAVE",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-mycoses-nssgbvtmfbbqjnve7ioave"
     },
     {
       "name": "Benign neoplasm of colon, rectum, anus and anal canal",
+      "type": "Disease or Syndrome",
       "id": "jiRbp6uJfASuDXyQSDrsdc",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-benign-colon-jirbp6ujfasudxyqsdrsdc"
     },
     {
       "name": "Secondary Malignancy_Bowel",
+      "type": "Disease or Syndrome",
       "id": "hdWRFRcDEiVxSTSwBi8kgp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-bowel-hdwrfrcdeivxstswbi8kgp"
     },
     {
       "name": "Vitiligo",
+      "type": "Disease or Syndrome",
       "id": "kN4e6pLaWWHcb2Zqz5X3Tv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-vitiligo-kn4e6plawwhcb2zqz5x3tv"
     },
     {
       "name": "Enteropathic arthropathy",
+      "type": "Disease or Syndrome",
       "id": "PMpJHFPnAwsr8x96ns3vfb",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-entero-arthro-pmpjhfpnawsr8x96ns3vfb"
     },
     {
       "name": "Hepatic failure",
+      "type": "Disease or Syndrome",
       "id": "5f44cPA3onKPV3axCvVDCP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-liver-fail-5f44cpa3onkpv3axcvvdcp"
     },
     {
       "name": "Secondary Malignancy_retroperitoneum and peritoneum",
+      "type": "Disease or Syndrome",
       "id": "3Eh9Str5jceazQYsBdKVsS",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-peritoneum-3eh9str5jceazqysbdkvss"
     },
     {
       "name": "Bronchiectasis",
+      "type": "Disease or Syndrome",
       "id": "SWUAhaHStc967nLCfhY6rc",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bronchiectasis-swuahahstc967nlcfhy6rc"
     },
     {
       "name": "Enthesopathies & synovial disorders",
+      "type": "Disease or Syndrome",
       "id": "95ZhQE7diuRQwsqRn8UrmT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-enthesopathy-95zhqe7diurqwsqrn8urmt"
     },
     {
       "name": "Secondary Malignancy_Lymph Nodes",
+      "type": "Disease or Syndrome",
       "id": "KXEpdmHgmsKRRxZVWt3GCY",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-ln-kxepdmhgmskrrxzvwt3gcy"
     },
     {
       "name": "Rheumatoid Arthritis",
+      "type": "Disease or Syndrome",
       "id": "EWvRLa7DNMCiGs2XvC2zKT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rha-ewvrla7dnmcigs2xvc2zkt"
     },
     {
       "name": "Hearing loss",
+      "type": "Disease or Syndrome",
       "id": "WwqYf9KzLwtq7pnG68Dmy6",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-deaf-wwqyf9kzlwtq7png68dmy6"
     },
     {
       "name": "Lichen planus",
+      "type": "Disease or Syndrome",
       "id": "YqGNu4ojGFcpbvSUBkptXf",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-lichen-planus-yqgnu4ojgfcpbvsubkptxf"
     },
     {
       "name": "Primary Malignancy_Lung and trachea",
+      "type": "Disease or Syndrome",
       "id": "aMUPXU3c33bfegnJ3LJiAn",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-lung-amupxu3c33bfegnj3ljian"
     },
     {
       "name": "Lupus erythematosus (local and systemic)",
+      "type": "Disease or Syndrome",
       "id": "2ZrkhcLcifb2pT7ZA2mvNG",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sle-2zrkhclcifb2pt7za2mvng"
     },
     {
       "name": "Vitamin B12 deficiency anaemia",
+      "type": "Disease or Syndrome",
       "id": "LWC57mbghEZhQ7TQCCEAXQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-b12-def-lwc57mbghezhq7tqcceaxq"
     },
     {
       "name": "Autism and Asperger's syndrome",
+      "type": "Disease or Syndrome",
       "id": "YwsDewQKrrrZhMoFAARKMP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-autism-ywsdewqkrrrzhmofaarkmp"
     },
     {
       "name": "Pulmonary embolism",
+      "type": "Disease or Syndrome",
       "id": "B82p672dxCbWfyEqp9fjJH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pe-b82p672dxcbwfyeqp9fjjh"
     },
     {
       "name": "Asthma",
+      "type": "Disease or Syndrome",
       "id": "eFTHigQ2RjygaBhHUco4pW",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-asthma-efthigq2rjygabhhuco4pw"
     },
     {
       "name": "Multiple myeloma and malignant plasma cell neoplasms",
+      "type": "Disease or Syndrome",
       "id": "ARsQVAvgUW2YqNz7bvcfF4",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-plasmacell-arsqvavguw2yqnz7bvcff4"
     },
     {
       "name": "Rosacea",
+      "type": "Disease or Syndrome",
       "id": "6gn3Xt36GonYTr8XKxQpDw",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rosacea-6gn3xt36gonytr8xkxqpdw"
     },
     {
       "name": "Hodgkin Lymphoma",
+      "type": "Disease or Syndrome",
       "id": "Aax3fRk37rSVpwiUnU27oN",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hodgkins-aax3frk37rsvpwiunu27on"
     },
     {
       "name": "Atrioventricular block, second degree",
+      "type": "Disease or Syndrome",
       "id": "iXpD4FbSVDWsRvWjrAvJ59",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-av-block-2-ixpd4fbsvdwsrvwjravj59"
     },
     {
       "name": "Diaphragmatic hernia",
+      "type": "Disease or Syndrome",
       "id": "j3Ab5ehw85BhFA83WvmJAA",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hernia-diaphragm-j3ab5ehw85bhfa83wvmjaa"
     },
     {
       "name": "Postviral fatigue syndrome, neurasthenia and fibromyalgia",
+      "type": "Disease or Syndrome",
       "id": "4vuyvQJEm58jeMuVwovnwx",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-chronic-fatigue-4vuyvqjem58jemuvwovnwx"
     },
     {
       "name": "Atrioventricular block, complete",
+      "type": "Disease or Syndrome",
       "id": "ZRULCUexj8udmSt9szS23V",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-av-block-3-zrulcuexj8udmst9szs23v"
     },
     {
       "name": "Tuberculosis",
+      "type": "Disease or Syndrome",
       "id": "8CNeWEafK4TcvUs6sNjgjX",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-tb-8cneweafk4tcvus6snjgjx"
     },
     {
       "name": "Intracerebral haemorrhage",
+      "type": "Disease or Syndrome",
       "id": "MsaCKfARZDCB5hQXtFLZ37",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-intracereb-haem-msackfarzdcb5hqxtflz37"
     },
     {
       "name": "Migraine",
+      "type": "Disease or Syndrome",
       "id": "bUrBYE64PvgcArg8ik4AqK",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-migraine-burbye64pvgcarg8ik4aqk"
     },
     {
       "name": "Secondary Malignancy_Pleura",
+      "type": "Disease or Syndrome",
       "id": "DZJSeTByLQPEL4sjVuyKH7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-pleura-dzjsetbylqpel4sjvuykh7"
     },
     {
       "name": "Infection of liver",
+      "type": "Disease or Syndrome",
       "id": "9XCFyAEVmf8xwwHLj3VJ6Q",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-liver-9xcfyaevmf8xwwhlj3vj6q"
     },
     {
       "name": "Pulmonary collapse (excl pneumothorax)",
+      "type": "Disease or Syndrome",
       "id": "RSYq6aAcuXgqo5s3xhFwTn",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pulm-collapse-rsyq6aacuxgqo5s3xhfwtn"
     },
     {
       "name": "Pneumothorax",
+      "type": "Disease or Syndrome",
       "id": "a5NNubakLzYdsQiw9uJPBB",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pneumothorax-a5nnubaklzydsqiw9ujpbb"
     },
     {
       "name": "Primary Malignancy_Pancreatic",
+      "type": "Disease or Syndrome",
       "id": "3gL6Q35vvkcwycZ2F4YMgZ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-pancr-3gl6q35vvkcwycz2f4ymgz"
     },
     {
       "name": "Hidradenitis suppurativa",
+      "type": "Disease or Syndrome",
       "id": "TaGJaK2s9GyfkiWfL782qX",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hidradenitis-tagjak2s9gyfkiwfl782qx"
     },
     {
       "name": "Hyperplasia of prostate",
+      "type": "Disease or Syndrome",
       "id": "kkENJEYgtTec8rXhDn3Qgg",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bph-kkenjeygttec8rxhdn3qgg"
     },
     {
       "name": "Multiple valve dz",
+      "type": "Disease or Syndrome",
       "id": "53QJzqFVDLTrPR8PAo8cTZ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-mult-valve-53qjzqfvdltrpr8pao8ctz"
     },
     {
       "name": "Secondary pulmonary hypertension",
+      "type": "Disease or Syndrome",
       "id": "VCsG3GCCqTnbmMd8kZGhQh",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-pulm-htn-vcsg3gccqtnbmmd8kzghqh"
     },
     {
       "name": "Giant Cell arteritis",
+      "type": "Disease or Syndrome",
       "id": "5WMaNT9xc6YnhKUBzE877r",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-gca-5wmant9xc6ynhkubze877r"
     },
     {
       "name": "Spondylosis",
+      "type": "Disease or Syndrome",
       "id": "AjMcRwKc6Uid3KktJvcsSB",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-spondylosis-ajmcrwkc6uid3kktjvcssb"
     },
     {
       "name": "Neuromuscular dysfunction of bladder",
+      "type": "Disease or Syndrome",
       "id": "WamGj9C9EdTxVB3SpqGL7Z",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-neuro-bladder-wamgj9c9edtxvb3spqgl7z"
     },
     {
       "name": "Myasthenia gravis",
+      "type": "Disease or Syndrome",
       "id": "7sWRuLLQJ4Xm6GztFZTAg3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-myasthenia-7swrullqj4xm6gztfztag3"
     },
     {
       "name": "HIV",
+      "type": "Disease or Syndrome",
       "id": "5rrCQ6iL8uVpnEahtfFW9s",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hiv-5rrcq6il8uvpneahtffw9s"
     },
     {
       "name": "Abdominal Hernia",
+      "type": "Disease or Syndrome",
       "id": "UmxTP7n8pMNA9ykfrhp5hZ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hernia-abdo-umxtp7n8pmna9ykfrhp5hz"
     },
     {
       "name": "Bell's palsy",
+      "type": "Disease or Syndrome",
       "id": "ZgV8UjFkg87aYaVhUVvdwz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bells-zgv8ujfkg87ayavhuvvdwz"
     },
     {
       "name": "Primary Malignancy_colorectal and anus",
+      "type": "Disease or Syndrome",
       "id": "5fw4nU5BBUFfNmwJaDCet3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-bowel-5fw4nu5bbuffnmwjadcet3"
     },
     {
       "name": "Congenital malformations of cardiac septa",
+      "type": "Disease or Syndrome",
       "id": "GhmCNuKUSB2LBjYPR68WRV",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-congenital-septal-ghmcnukusb2lbjypr68wrv"
     },
     {
       "name": "Polymyalgia Rheumatica",
+      "type": "Disease or Syndrome",
       "id": "hW5RYaJDLhn68qBLn6t5vp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pmr-hw5ryajdlhn68qbln6t5vp"
     },
     {
       "name": "Primary Malignancy_Ovarian",
+      "type": "Disease or Syndrome",
       "id": "CYy4HSPTCZQUAsLXGDYNqy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-ovarian-cyy4hsptczquaslxgdynqy"
     },
     {
       "name": "Hypo or hyperthyroidism",
+      "type": "Disease or Syndrome",
       "id": "FgVJooWzCgt2V9UnTYdU5S",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-thyroid-fgvjoowzcgt2v9untydu5s"
     },
     {
       "name": "Disorders of autonomic nervous system",
+      "type": "Disease or Syndrome",
       "id": "LfgLjazsU9DQcEwVUsoHXm",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-autonomic-neuro-lfgljazsu9dqcewvusohxm"
     },
     {
       "name": "Eye infections",
+      "type": "Disease or Syndrome",
       "id": "mPmJwrtNbKFUhG57UF9kA8",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-eye-mpmjwrtnbkfuhg57uf9ka8"
     },
     {
       "name": "Hyperkinetic disorders",
+      "type": "Disease or Syndrome",
       "id": "FKG5RnKvwfLLJeTp6fbFz7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-adhd-fkg5rnkvwflljetp6fbfz7"
     },
     {
       "name": "Primary Malignancy_Multiple independent sites",
+      "type": "Disease or Syndrome",
       "id": "eN6gobmprWkohDigCp3Bpz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-multindep-en6gobmprwkohdigcp3bpz"
     },
     {
       "name": "Essential tremor",
+      "type": "Disease or Syndrome",
       "id": "6KbZkdiuqgqkuUJyNUyRba",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-essential-tremor-6kbzkdiuqgqkuujynuyrba"
     },
     {
       "name": "Non-acute cystitis",
+      "type": "Disease or Syndrome",
       "id": "6D7XsekK9PN2co6sQamDWP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-chr-cystitis-6d7xsekk9pn2co6sqamdwp"
     },
     {
       "name": "Acute Kidney Injury",
+      "type": "Disease or Syndrome",
       "id": "NRvedG2xDpPJt2oDQCADfG",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-aki-nrvedg2xdppjt2odqcadfg"
     },
     {
       "name": "Iron deficiency anaemia",
+      "type": "Disease or Syndrome",
       "id": "ZGfkjeH6GHi5WaQaTFmGn9",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ida-zgfkjeh6ghi5waqatfmgn9"
     },
     {
       "name": "Personality disorders",
+      "type": "Disease or Syndrome",
       "id": "NBqnQx3PXNA42bGzZhAjR7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pd-nbqnqx3pxna42bgzzhajr7"
     },
     {
       "name": "Carcinoma in situ_cervical",
+      "type": "Disease or Syndrome",
       "id": "mMCP3dUk9Swip6ZHeCvz4m",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cin-cervical-mmcp3duk9swip6zhecvz4m"
     },
     {
       "name": "Other nervous system infections",
+      "type": "Disease or Syndrome",
       "id": "g68fb5w3rkcPXQTCt6V35E",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oth-nerv-sys-g68fb5w3rkcpxqtct6v35e"
     },
     {
       "name": "Infections of Other or unspecified organs",
+      "type": "Disease or Syndrome",
       "id": "7YqX9Fgz3M2D6uCKXu7B4q",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oth-organs-7yqx9fgz3m2d6uckxu7b4q"
     },
     {
       "name": "Multiple sclerosis",
+      "type": "Disease or Syndrome",
       "id": "o3PHkNpsJohi4EwUwRqkNH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ms-o3phknpsjohi4ewuwrqknh"
     },
     {
       "name": "Female pelvic inflammatory disease",
+      "type": "Disease or Syndrome",
       "id": "JeHW69nUSoSJ9QHoQSZbxH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pid-jehw69nusosj9qhoqszbxh"
     },
     {
       "name": "Rheumatic valve dz",
+      "type": "Disease or Syndrome",
       "id": "d8B66i2qoGAozpDTZjdvDn",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rh-valve-d8b66i2qogaozpdtzjdvdn"
     },
     {
       "name": "Stroke NOS",
+      "type": "Disease or Syndrome",
       "id": "XVnS5oshWa9HRBkEVJ2YyL",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-stroke-nos-xvns5oshwa9hrbkevj2yyl"
     },
     {
       "name": "Hyperparathyroidism",
+      "type": "Disease or Syndrome",
       "id": "AGWPXprudWMBcsvMQSJm6j",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pth-agwpxprudwmbcsvmqsjm6j"
     },
     {
       "name": "Immunodeficiencies",
+      "type": "Disease or Syndrome",
       "id": "F6u5wxYWxj4F6gFtp34TPq",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-immunodef-f6u5wxywxj4f6gftp34tpq"
     },
     {
       "name": "Viral diseases (excl chronic hepatitis/HIV)",
+      "type": "Disease or Syndrome",
       "id": "YaTJLaqKXS2amocxF3yaRB",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-viral-yatjlaqkxs2amocxf3yarb"
     },
     {
       "name": "Sickle-cell trait",
+      "type": "Disease or Syndrome",
       "id": "HpKeYNjMWk7CReFWYJUAZ8",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sickle-trait-hpkeynjmwk7crefwyjuaz8"
     },
     {
       "name": "Urticaria",
+      "type": "Disease or Syndrome",
       "id": "Ee7wAQs6rhtuTt7zaKWaeV",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-urticaria-ee7waqs6rhtutt7zakwaev"
     },
     {
       "name": "Aspiration pneumonitis",
+      "type": "Disease or Syndrome",
       "id": "LcEe7zG3b3WmAW2bZzu7Ci",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-aspiration-pneumo-lcee7zg3b3wmaw2bzzu7ci"
     },
     {
       "name": "Carpal tunnel syndrome",
+      "type": "Disease or Syndrome",
       "id": "S8MwPhLwnKqmfwy6XzHtsz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-carpal-tunnel-s8mwphlwnkqmfwy6xzhtsz"
     },
     {
       "name": "Benign neoplasm of ovary",
+      "type": "Disease or Syndrome",
       "id": "nBNhjn4LKNC4dMxeUDk6LG",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-benign-ovary-nbnhjn4lknc4dmxeudk6lg"
     },
     {
       "name": "Sjogren's disease",
+      "type": "Disease or Syndrome",
       "id": "XYmHDEuAkAfY9QhmGxYEkM",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sjogren-xymhdeuakafy9qhmgxyekm"
     },
     {
       "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+      "type": "Disease or Syndrome",
       "id": "kgwoJWpdPG8Npp8HUc37zD",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-copd-kgwojwpdpg8npp8huc37zd"
     },
     {
       "name": "Endometrial hyperplasia and hypertrophy",
+      "type": "Disease or Syndrome",
       "id": "X877B8Y2f3gJMtXhYe5q4j",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-endometrial-hyper-x877b8y2f3gjmtxhye5q4j"
     },
     {
       "name": "Coeliac disease",
+      "type": "Disease or Syndrome",
       "id": "Cqd3iG9YekavWvpyUBnnhf",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-coeliac-cqd3ig9yekavwvpyubnnhf"
     },
     {
       "name": "Pleural plaque",
+      "type": "Disease or Syndrome",
       "id": "VZNZYH2nuex4dvFUyeUJDs",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pleural-plaque-vznzyh2nuex4dvfuyeujds"
     },
     {
       "name": "Thalassaemia trait",
+      "type": "Disease or Syndrome",
       "id": "ixf6p5HdgjaCjXgVm9HwJv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-thal-trait-ixf6p5hdgjacjxgvm9hwjv"
     },
     {
       "name": "Anorexia and bulimia nervosa",
+      "type": "Disease or Syndrome",
       "id": "UhAsDHcZDSX5cFJWMvfcnv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-eating-dz-uhasdhczdsx5cfjwmvfcnv"
     },
     {
       "name": "Anterior and Intermediate Uveitis",
+      "type": "Disease or Syndrome",
       "id": "kZW9FeEfguyYymiHmhGEEW",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ant-uveitis-kzw9feefguyyymihmhgeew"
     },
     {
       "name": "Pericardial effusion (noninflammatory)",
+      "type": "Disease or Syndrome",
       "id": "DdFGFs5BuP29rz2ysjUp9t",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pericardial-effusion-ddfgfs5bup29rz2ysjup9t"
     },
     {
       "name": "Urinary Incontinence",
+      "type": "Disease or Syndrome",
       "id": "YvvpLDFgEUAWaQghCgeDrT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-urine-incont-yvvpldfgeuawaqghcgedrt"
     },
     {
       "name": "Nasal polyp",
+      "type": "Disease or Syndrome",
       "id": "2JqMo7MxN89URPqarnRvau",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-nasal-polyp-2jqmo7mxn89urpqarnrvau"
     },
     {
       "name": "Atrioventricular block, first degree",
+      "type": "Disease or Syndrome",
       "id": "T9FGkKdrjMexKXNu9WjWpF",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-av-block-1-t9fgkkdrjmexkxnu9wjwpf"
     },
     {
       "name": "Prematurity",
+      "type": "Disease or Syndrome",
       "id": "QLJese4vjozSvYQxScWpv7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-prematurity-qljese4vjozsvyqxscwpv7"
     },
     {
       "name": "Primary or Idiopathic Thrombocytopaenia",
+      "type": "Disease or Syndrome",
       "id": "CUSRAUEXQqGbaEHKviPawn",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-thrombocytopaenia-cusrauexqqgbaehkvipawn"
     },
     {
       "name": "Cystic Fibrosis",
+      "type": "Disease or Syndrome",
       "id": "5eDwF2jVb4XWHMtooSYTbB",
       "url": "https://portal.caliberresearch.org/phenotypes/axson-cystic-fibrosis-5edwf2jvb4xwhmtoosytbb"
     },
     {
       "name": "Irritable bowel syndrome",
+      "type": "Disease or Syndrome",
       "id": "g2YVaUEpnd8CJyLASZPNQi",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ibs-g2yvauepnd8cjylaszpnqi"
     },
     {
       "name": "Thalassaemia",
+      "type": "Disease or Syndrome",
       "id": "LZDoEqjUR9HYosnmbox6mW",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-thala-lzdoeqjur9hyosnmbox6mw"
     },
     {
       "name": "Neonatal jaundice (excl haemolytic dz of the newborn)",
+      "type": "Disease or Syndrome",
       "id": "MEqZPyc5s3rBZqLaCnkMfB",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-neo-jaundice-meqzpyc5s3rbzqlacnkmfb"
     },
     {
       "name": "Unstable Angina",
+      "type": "Disease or Syndrome",
       "id": "CCQUoFjx2ZzPrqrX8ubGDQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-unstable-angina-ccquofjx2zzprqrx8ubgdq"
     },
     {
       "name": "Primary Malignancy_Other Skin and subcutaneous tissue",
+      "type": "Disease or Syndrome",
       "id": "27GoiZyiiU2g8ef4qUtucH",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-skin-27goizyiiu2g8ef4qutuch"
     },
     {
       "name": "Parkinson's disease",
+      "type": "Disease or Syndrome",
       "id": "3WekgjS8prps7Dr3EMAE4L",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-parkinsons-3wekgjs8prps7dr3emae4l"
     },
     {
       "name": "Meningitis",
+      "type": "Disease or Syndrome",
       "id": "N9XtFjTNs9jJsVP4twUThj",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-meningitis-n9xtfjtns9jjsvp4twuthj"
     },
     {
       "name": "Depression",
+      "type": "Disease or Syndrome",
       "id": "cEacXgEFhPdVWcUgWULATV",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-depression-ceacxgefhpdvwcugwulatv"
     },
     {
       "name": "Scleritis and episcleritis",
+      "type": "Disease or Syndrome",
       "id": "H3bim3sPETSSaygyEddC7h",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-scleritis-h3bim3spetssaygyeddc7h"
     },
     {
       "name": "Female genital prolapse",
+      "type": "Disease or Syndrome",
       "id": "5JUZRXv6X2C8ADgrPw6Su8",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-female-genital-prolapse-5juzrxv6x2c8adgrpw6su8"
     },
     {
       "name": "Infections of the digestive system",
+      "type": "Disease or Syndrome",
       "id": "VGfsivGzeiDGyQeXpTXne6",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-digestive-vgfsivgzeidgyqexptxne6"
     },
     {
       "name": "Encephalitis",
+      "type": "Disease or Syndrome",
       "id": "7Zr2dCJp5bz6fGvwdqyriY",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-enceph-7zr2dcjp5bz6fgvwdqyriy"
     },
     {
       "name": "Urolithiasis",
+      "type": "Disease or Syndrome",
       "id": "Zsx6GFtUKjrFJVrAuRJeEu",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-urolithiasis-zsx6gftukjrfjvraurjeeu"
     },
     {
       "name": "Spina bifida",
+      "type": "Disease or Syndrome",
       "id": "dBF5MaNFLkiqN8qTTm4uXD",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-spina-bifida-dbf5manflkiqn8qttm4uxd"
     },
     {
       "name": "Chronic sinusitis",
+      "type": "Disease or Syndrome",
       "id": "YXtNS5SUPZvfXAvs3RdKSm",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sinusitis-yxtns5supzvfxavs3rdksm"
     },
     {
       "name": "Pneumonia",
+      "type": "Disease or Syndrome",
       "id": "GL46c8PLQMdPuj7QuPtEh9",
       "url": "https://portal.caliberresearch.org/phenotypes/axson-pneumonia-gl46c8plqmdpuj7qupteh9"
     },
     {
       "name": "Fibromatoses",
+      "type": "Disease or Syndrome",
       "id": "eCtYtFNeXxpTRmpj7JYgNp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-fibromatosis-ectytfnexxptrmpj7jygnp"
     },
     {
       "name": "Ventricular tachycardia",
+      "type": "Disease or Syndrome",
       "id": "Mx78fJmJPJg5Sxuzp9wyAk",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-vt-mx78fjmjpjg5sxuzp9wyak"
     },
     {
       "name": "Alcohol Problems",
+      "type": "Disease or Syndrome",
       "id": "UxiyF5AcxtXNJZpNvwfYE4",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-alc-problems-uxiyf5acxtxnjzpnvwfye4"
     },
     {
       "name": "Infection of other or unspecified genitourinary system",
+      "type": "Disease or Syndrome",
       "id": "XRhTnMTri4EeRCQeikSkEg",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oth-gu-xrhtnmtri4eercqeikskeg"
     },
     {
       "name": "Liver fibrosis, sclerosis and cirrhosis",
+      "type": "Disease or Syndrome",
       "id": "2LW7p3ULbVEqV3vYNLRyu2",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cirrhosis-2lw7p3ulbveqv3vynlryu2"
     },
     {
       "name": "Allergic and chronic rhinitis",
+      "type": "Disease or Syndrome",
       "id": "Y44TQLMdrP4ABsSeBvbuUF",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-allergic-rhinitis-y44tqlmdrp4abssebvbuuf"
     },
     {
       "name": "Other anaemias",
+      "type": "Disease or Syndrome",
       "id": "TkopQyYsqmzwVKiwfAHQnR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oth-anaemia-tkopqyysqmzwvkiwfahqnr"
     },
     {
       "name": "Venous thromboembolic disease (Excl PE)",
+      "type": "Disease or Syndrome",
       "id": "JRTtcdr2U5bo88gJap7hd6",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-vte-ex-pe-jrttcdr2u5bo88gjap7hd6"
     },
     {
       "name": "Infection of skin and subcutaneous tissues",
+      "type": "Disease or Syndrome",
       "id": "6DJE5dXsCSY43VUHFopWKF",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-skin-6dje5dxscsy43vuhfopwkf"
     },
     {
       "name": "Anorectal fistula",
+      "type": "Disease or Syndrome",
       "id": "jjFso6okvLjAdwf5SzrL5A",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-anorectal-fistula-jjfso6okvljadwf5szrl5a"
     },
     {
       "name": "Hypertrophy of nasal turbinates",
+      "type": "Disease or Syndrome",
       "id": "W83WMB5A6k6mfQKUJJZt6E",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hyper-nasal-turbs-w83wmb5a6k6mfqkujjzt6e"
     },
     {
       "name": "Other or unspecified infectious organisms",
+      "type": "Disease or Syndrome",
       "id": "jK56Sf9q2Eua9oYxYSqeNw",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oth-organisms-jk56sf9q2eua9oyxysqenw"
     },
     {
       "name": "Primary Malignancy_Cervical",
+      "type": "Disease or Syndrome",
       "id": "fF27tQu3MyuSRfx4LgLvnB",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-cervical-ff27tqu3myusrfx4lglvnb"
     },
     {
       "name": "Subarachnoid haemorrhage",
+      "type": "Disease or Syndrome",
       "id": "VDhB96H287Ty7FyNXBtBeU",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-subarach-vdhb96h287ty7fynxbtbeu"
     },
     {
       "name": "Sarcoidosis",
+      "type": "Disease or Syndrome",
       "id": "Lx4rcw5bcpivtgbF4F7Qc3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sarcoid-lx4rcw5bcpivtgbf4f7qc3"
     },
     {
       "name": "Anorectal prolapse",
+      "type": "Disease or Syndrome",
       "id": "KXydavUn3ZWEK46jNtEKpX",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-anorectal-prolapse-kxydavun3zwek46jntekpx"
     },
     {
       "name": "Secondary polycythaemia",
+      "type": "Disease or Syndrome",
       "id": "iPnDxjmpAu865M4dYgyw3E",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-2ry-polycythaemia-ipndxjmpau865m4dygyw3e"
     },
     {
       "name": "Pleural effusion",
+      "type": "Disease or Syndrome",
       "id": "bQbxWRNDAY7N7fVaLYJxbD",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pleural-effusion-bqbxwrnday7n7fvalyjxbd"
     },
     {
       "name": "Primary Malignancy_Breast",
+      "type": "Disease or Syndrome",
       "id": "FKsMkhEDz2v5aefUoxzZs2",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-breast-fksmkhedz2v5aefuoxzzs2"
     },
     {
       "name": "Osteoporosis",
+      "type": "Disease or Syndrome",
       "id": "WP8cKUQQPyvjzNrHP27HGg",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-osteoporosis-wp8ckuqqpyvjznrhp27hgg"
     },
     {
       "name": "Glomerulonephritis",
+      "type": "Disease or Syndrome",
       "id": "2wTWQbK6ypwjowGXfj3X3p",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-gn-2wtwqbk6ypwjowgxfj3x3p"
     },
     {
       "name": "Ptosis of eyelid",
+      "type": "Disease or Syndrome",
       "id": "HAfApkFqoDfw2eKzvkYvf7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ptosis-hafapkfqodfw2ekzvkyvf7"
     },
     {
       "name": "Volvulus",
+      "type": "Disease or Syndrome",
       "id": "XJgb4NtivUwpgbyVocehfR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-volvulus-xjgb4ntivuwpgbyvocehfr"
     },
     {
       "name": "Intracranial hypertension",
+      "type": "Disease or Syndrome",
       "id": "giQNx539AerZLWMixxD2sk",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-intracranial-htn-giqnx539aerzlwmixxd2sk"
     },
     {
       "name": "Primary Malignancy_Stomach",
+      "type": "Disease or Syndrome",
       "id": "NWXTeKww9Ppu4grcErNrSp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-stomach-nwxtekww9ppu4grcernrsp"
     },
     {
       "name": "Thrombophilia",
+      "type": "Disease or Syndrome",
       "id": "VBQpRRQmjZFgvhbRumkexz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-thrombophilia-vbqprrqmjzfgvhbrumkexz"
     },
     {
       "name": "Septicaemia",
+      "type": "Disease or Syndrome",
       "id": "9kMiBXTWkrHhrPXgVYGoPt",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sepsis-9kmibxtwkrhhrpxgvygopt"
     },
     {
       "name": "Chronic viral hepatitis",
+      "type": "Disease or Syndrome",
       "id": "Ue8m4voQcHGgTrx2sQWfeS",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-chr-hep-ue8m4voqchggtrx2sqwfes"
     },
     {
       "name": "Other haemolytic anaemias",
+      "type": "Disease or Syndrome",
       "id": "6iaKHraVPpnAFrkvTvhSNz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oth-haem-anaemia-6iakhravppnafrkvtvhsnz"
     },
     {
       "name": "Respiratory distress of newborn",
+      "type": "Disease or Syndrome",
       "id": "R4aUkbanyG7bknAk32knr7",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rdn-r4aukbanyg7bknak32knr7"
     },
     {
       "name": "Dilated cardiomyopathy",
+      "type": "Disease or Syndrome",
       "id": "7qjVDgFaPZCrL9Pkjrzwjd",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-dcm-7qjvdgfapzcrl9pkjrzwjd"
     },
     {
       "name": "Spinal stenosis",
+      "type": "Disease or Syndrome",
       "id": "YhvFzS8BTigRv4MN3FnVcd",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-spinal-stenosis-yhvfzs8btigrv4mn3fnvcd"
     },
     {
       "name": "Portal hypertension",
+      "type": "Disease or Syndrome",
       "id": "g8iQFgfjZBKRBWcyjgtHst",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-portal-htn-g8iqfgfjzbkrbwcyjgthst"
     },
     {
       "name": "Myelodysplastic syndromes",
+      "type": "Disease or Syndrome",
       "id": "AYDKE8FPddcymgoYArhuUx",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-mds-aydke8fpddcymgoyarhuux"
     },
     {
       "name": "Spondylolisthesis",
+      "type": "Disease or Syndrome",
       "id": "NV7at9jhjbVvqGEMaoQdmp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-spondylolisthesis-nv7at9jhjbvvqgemaoqdmp"
     },
     {
       "name": "Left bundle branch block",
+      "type": "Disease or Syndrome",
       "id": "NzHFqJLxSw3A8oVebtDpez",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-lbbb-nzhfqjlxsw3a8ovebtdpez"
     },
     {
       "name": "Retinal detachments and breaks",
+      "type": "Disease or Syndrome",
       "id": "L6j8D8roPto75aTPDALFcE",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-retinal-detach-l6j8d8ropto75atpdalfce"
     },
     {
       "name": "Down's syndrome",
+      "type": "Disease or Syndrome",
       "id": "eJfgxZ6gX5nEXWCoXzQ3KK",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-downs-ejfgxz6gx5nexwcoxzq3kk"
     },
     {
       "name": "Cataract",
+      "type": "Disease or Syndrome",
       "id": "YfnhFx9TGYNQZHbcrYXvvQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cataract-yfnhfx9tgynqzhbcryxvvq"
     },
     {
       "name": "Obsessive-compulsive disorder",
+      "type": "Disease or Syndrome",
       "id": "6E56tRTeBtYVcebZXGCxcw",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ocd-6e56trtebtyvcebzxgcxcw"
     },
     {
       "name": "Secondary Malignancy_Bone",
+      "type": "Disease or Syndrome",
       "id": "FhThhcsart7RXBaX6A5t2k",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-bone-fhthhcsart7rxbax6a5t2k"
     },
     {
       "name": "Primary Malignancy_Other Organs",
+      "type": "Disease or Syndrome",
       "id": "5oEhmm6bfGj5TwvQWpso7s",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-other-5oehmm6bfgj5twvqwpso7s"
     },
     {
       "name": "Primary Malignancy_Kidney and Ureter",
+      "type": "Disease or Syndrome",
       "id": "W5Cc5G9hZUeKusUSNYPhF4",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-kidney-w5cc5g9hzuekususnyphf4"
     },
     {
       "name": "Postinfective and reactive arthropathies",
+      "type": "Disease or Syndrome",
       "id": "TkS6YuotdCr3su6z3Mh5Hw",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-reactive-tks6yuotdcr3su6z3mh5hw"
     },
     {
       "name": "High birth weight",
+      "type": "Disease or Syndrome",
       "id": "LWhG3dXxEAEiBmP9PpEipV",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hbw-lwhg3dxxeaeibmp9ppeipv"
     },
     {
       "name": "Fatty Liver",
+      "type": "Disease or Syndrome",
       "id": "maAhaLUeMoRmFcis7GoRGS",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-fatty-liver-maahaluemormfcis7gorgs"
     },
     {
       "name": "Supraventricular tachycardia",
+      "type": "Disease or Syndrome",
       "id": "YKhzwDUrkdfEzDvnjm9vgE",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-svt-ykhzwdurkdfezdvnjm9vge"
     },
     {
       "name": "Cerebral Palsy",
+      "type": "Disease or Syndrome",
       "id": "LoWH6jeE99hfyV6WWXwa8j",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cerebral-palsy-lowh6jee99hfyv6wwxwa8j"
     },
     {
       "name": "Gastro-oesophageal reflux disease",
+      "type": "Disease or Syndrome",
       "id": "UGcHHBqWYpvDsdwpN2fUPv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-gord-ugchhbqwypvdsdwpn2fupv"
     },
     {
       "name": "Infection of bones and joints",
+      "type": "Disease or Syndrome",
       "id": "NRmXHxhHmYizFTm6huuaqv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bone-nrmxhxhhmyizftm6huuaqv"
     },
     {
       "name": "Peripheral arterial disease",
+      "type": "Disease or Syndrome",
       "id": "44JczFFvdPMNiwQNrtmijX",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-peripheral-arterial-disease-44jczffvdpmniwqnrtmijx"
     },
     {
       "name": "Bipolar affective disorder and mania",
+      "type": "Disease or Syndrome",
       "id": "3mzXCCZrugWeNywT4eE75N",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-bad-3mzxcczrugwenywt4ee75n"
     },
     {
       "name": "Other psychoactive substance misuse",
+      "type": "Disease or Syndrome",
       "id": "6k6xkuwJkn9nYcAfsZSwyp",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-substance-misuse-6k6xkuwjkn9nycafszswyp"
     },
     {
       "name": "Primary Malignancy_Testicular",
+      "type": "Disease or Syndrome",
       "id": "TvfnwMvxW5Fpf6nAsm7Kq3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-testis-tvfnwmvxw5fpf6nasm7kq3"
     },
     {
       "name": "Atrial fibrillation",
+      "type": "Disease or Syndrome",
       "id": "7LD6QMWnjm3TRHykwMpQ6h",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-af-7ld6qmwnjm3trhykwmpq6h"
     },
     {
       "name": "Acne",
+      "type": "Disease or Syndrome",
       "id": "3tJXPBK43iqTqheoEebq7i",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-acne-3tjxpbk43iqtqheoeebq7i"
     },
     {
       "name": "Primary Malignancy_Malignant Melanoma",
+      "type": "Disease or Syndrome",
       "id": "WxanZjRixf3bNtAUg4SnZC",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-melanoma-wxanzjrixf3bntaug4snzc"
     },
     {
       "name": "Juvenile arthritis",
+      "type": "Disease or Syndrome",
       "id": "m9XPD8sWNiMMLKbKUysXK9",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-juv-arth-m9xpd8swnimmlkbkuysxk9"
     },
     {
       "name": "Infections of the Heart",
+      "type": "Disease or Syndrome",
       "id": "NfRqmCJ5kt44FfgrbMK3eC",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-heart-nfrqmcj5kt44ffgrbmk3ec"
     },
     {
       "name": "Ulcerative colitis",
+      "type": "Disease or Syndrome",
       "id": "kmM3cSNoeiE3mAPccxjiqr",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ulc-colitis-kmm3csnoeie3mapccxjiqr"
     },
     {
       "name": "Monoclonal gammopathy of undetermined significance (MGUS)",
+      "type": "Disease or Syndrome",
       "id": "DsdMauquZcQ6bsRKDuwRKj",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-mgus-dsdmauquzcq6bsrkduwrkj"
     },
     {
       "name": "Parasitic infections",
+      "type": "Disease or Syndrome",
       "id": "hsJvYqYbf2N7VwESGBcVND",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-parasitic-hsjvyqybf2n7vwesgbcvnd"
     },
     {
       "name": "Sickle-cell anaemia",
+      "type": "Disease or Syndrome",
       "id": "BoyuDsY7sCnGANEAFw9ffb",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sickle-cell-boyudsy7scnganeafw9ffb"
     },
     {
       "name": "Ankylosing spondylitis",
+      "type": "Disease or Syndrome",
       "id": "M52WcZ3izzZtQD7PswhEB5",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-ank-spond-m52wcz3izzztqd7pswheb5"
     },
     {
       "name": "Coronary heart disease not otherwise specified",
+      "type": "Disease or Syndrome",
       "id": "U66rc5otdDeJcbDZi2hj8K",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-chd-nos-u66rc5otddejcbdzi2hj8k"
     },
     {
       "name": "Hydrocoele (incl infected)",
+      "type": "Disease or Syndrome",
       "id": "XNwEwRETWNqzgLPFuYLXh6",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hydrocele-xnwewretwnqzglpfuylxh6"
     },
     {
       "name": "Asbestosis",
+      "type": "Disease or Syndrome",
       "id": "aKBkTvknVPpHysgFT2wjGs",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-asbestosis-akbktvknvpphysgft2wjgs"
     },
     {
       "name": "Osteoarthritis (excl spine)",
+      "type": "Disease or Syndrome",
       "id": "MYMaZGRSrw7cghWD4di64E",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oa-mymazgrsrw7cghwd4di64e"
     },
     {
       "name": "Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)",
+      "type": "Disease or Syndrome",
       "id": "ezrsSL9RyypAFK67puLN56",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-periph-neuro-ezrssl9ryypafk67puln56"
     },
     {
       "name": "Angiodysplasia of colon",
+      "type": "Disease or Syndrome",
       "id": "RSXYXN6U8DbDFnT8ctSbmP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-angiodysplasia-colon-rsxyxn6u8dbdfnt8ctsbmp"
     },
     {
       "name": "Primary pulmonary hypertension",
+      "type": "Disease or Syndrome",
       "id": "LxkwE9SRvZuQspvnwo84E6",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-prim-pulm-htn-lxkwe9srvzuqspvnwo84e6"
     },
     {
       "name": "Obstructive and reflux uropathy",
+      "type": "Disease or Syndrome",
       "id": "LpQMvKGmacacE2W5zsXoTG",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-obstr-reflux-lpqmvkgmacace2w5zsxotg"
     },
     {
       "name": "Collapsed vertebra",
+      "type": "Disease or Syndrome",
       "id": "KvtQuNGwZb74sJz5dENotc",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-collapsed-vert-kvtqungwzb74sjz5denotc"
     },
     {
       "name": "Primary Malignancy_Oro-pharyngeal",
+      "type": "Disease or Syndrome",
       "id": "Yf7weJABXCmh9AHRkGE8oA",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-oroph-yf7wejabxcmh9ahrkge8oa"
     },
     {
       "name": "Benign neoplasm of stomach and duodenum",
+      "type": "Disease or Syndrome",
       "id": "S4SfTTFKq2DW4xfK2ZdjzA",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-benign-stomach-s4sfttfkq2dw4xfk2zdjza"
     },
     {
       "name": "Cholecystitis",
+      "type": "Disease or Syndrome",
       "id": "ZrmfqHcwmbboMiRCGSZ6ph",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cholecystitis-zrmfqhcwmbbomircgsz6ph"
     },
     {
       "name": "Hypertension",
+      "type": "Disease or Syndrome",
       "id": "inuKppLKH7QtFXFaq8qjaA",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hypertension-inukpplkh7qtfxfaq8qjaa"
     },
     {
       "name": "Primary Malignancy_Mesothelioma",
+      "type": "Disease or Syndrome",
       "id": "LXgfieFkyhgDuovn87QDeQ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pri-mesothelioma-lxgfiefkyhgduovn87qdeq"
     },
     {
       "name": "Hypertrophic Cardiomyopathy",
+      "type": "Disease or Syndrome",
       "id": "HcTtcgqz2cuoAh5Kgmdyg9",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hocm-hcttcgqz2cuoah5kgmdyg9"
     },
     {
       "name": "Slow fetal growth or low birth weight",
+      "type": "Disease or Syndrome",
       "id": "LtQ3z9qkt2rZodR7xiM3fT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-lbw-ltq3z9qkt2rzodr7xim3ft"
     },
     {
       "name": "Diabetes",
+      "type": "Disease or Syndrome",
       "id": "bYMFsBEu7tVB6YkrQ8aBvk",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-diabetes-bymfsbeu7tvb6ykrq8abvk"
     },
     {
       "name": "Undescended testicle",
+      "type": "Disease or Syndrome",
       "id": "GoD9uJHQoeNWNyezo5EXYz",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-undescended-testis-god9ujhqoenwnyezo5exyz"
     },
     {
       "name": "Meniere disease",
+      "type": "Disease or Syndrome",
       "id": "HnXiMASGc6kNpvqY2DjqaE",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-meniere-hnximasgc6knpvqy2djqae"
     },
     {
       "name": "Fracture of hip",
+      "type": "Disease or Syndrome",
       "id": "DPFPjLGauPSRA23siby2Ym",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-fracture-hip-dpfpjlgaupsra23siby2ym"
     },
     {
       "name": "Diabetic ophthalmic complications",
+      "type": "Disease or Syndrome",
       "id": "gKfGM8qSdKpABsxux6teD3",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-diab-eye-gkfgm8qsdkpabsxux6ted3"
     },
     {
       "name": "Oesophagitis and oesophageal ulcer",
+      "type": "Disease or Syndrome",
       "id": "d8ZYipwzzber6k9WFfwnvT",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-oesoph-ulc-d8zyipwzzber6k9wffwnvt"
     },
     {
       "name": "Psoriatic arthropathy",
+      "type": "Disease or Syndrome",
       "id": "kKLsGFTKvcFCbGutKiwfBS",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-psa-kklsgftkvcfcbgutkiwfbs"
     },
     {
       "name": "Motor neuron disease",
+      "type": "Disease or Syndrome",
       "id": "VjkMbeNcLjgWMfxKdFuTT8",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-mnd-vjkmbencljgwmfxkdfutt8"
     },
     {
       "name": "Menorrhagia and polymenorrhoea",
+      "type": "Disease or Syndrome",
       "id": "5Gg3Vvf9jQGzE7KXzWE577",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-menorrhagia-5gg3vvf9jqgze7kxzwe577"
     },
     {
       "name": "Epilepsy",
+      "type": "Disease or Syndrome",
       "id": "Wg2UM5mf2UnhQ57yA44GZL",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-epilepsy-wg2um5mf2unhq57ya44gzl"
     },
     {
       "name": "Secondary Malignancy_Other organs",
+      "type": "Disease or Syndrome",
       "id": "DCDEYHfps3kCT6QfRGVNsx",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-other-dcdeyhfps3kct6qfrgvnsx"
     },
     {
       "name": "Dermatitis (atopc/contact/other/unspecified)",
+      "type": "Disease or Syndrome",
       "id": "C5pW4JMnJFGGY87R2ZPxBv",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-dermatitis-c5pw4jmnjfggy87r2zpxbv"
     },
     {
       "name": "Systemic sclerosis",
+      "type": "Disease or Syndrome",
       "id": "LcPUDgrAm6fmc3hzbA8UkB",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sys-sclerosis-lcpudgram6fmc3hzba8ukb"
     },
     {
       "name": "Postcoital and contact bleeding",
+      "type": "Disease or Syndrome",
       "id": "HQLDmTH7NHmWuQvvnfHqmy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pcb-hqldmth7nhmwuqvvnfhqmy"
     },
     {
       "name": "Intellectual disability",
+      "type": "Disease or Syndrome",
       "id": "nMjhav5BGsXc8owNRqqAEs",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-intell-dz-nmjhav5bgsxc8ownrqqaes"
     },
     {
       "name": "Dementia",
+      "type": "Disease or Syndrome",
       "id": "JxyxCgdMoQd58igUNbZATR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-dementia-jxyxcgdmoqd58igunbzatr"
     },
     {
       "name": "Benign neoplasm of brain and other parts of central nervous system",
+      "type": "Disease or Syndrome",
       "id": "Rgxuajnx9VBxwvcb5ET47Z",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-benign-brain-rgxuajnx9vbxwvcb5et47z"
     },
     {
       "name": "Haemangioma, any site",
+      "type": "Disease or Syndrome",
       "id": "nP7HpnvDvriTxZrwvJakYw",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-haemangioma-np7hpnvdvritxzrwvjakyw"
     },
     {
       "name": "Secondary Malignancy_Brain, Other CNS and Intracranial",
+      "type": "Disease or Syndrome",
       "id": "7E8wg49zQwegfBuN6BMHxq",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-brain-7e8wg49zqwegfbun6bmhxq"
     },
     {
       "name": "Benign neoplasm and polyp of uterus",
+      "type": "Disease or Syndrome",
       "id": "4Juk5rUDGhFs5FBTkLN4wU",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-benign-uterus-4juk5rudghfs5fbtkln4wu"
     },
     {
       "name": "Trifascicular block",
+      "type": "Disease or Syndrome",
       "id": "9Fo6p7PhiAo5LgmDGaW2aK",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-trifasc-block-9fo6p7phiao5lgmdgaw2ak"
     },
     {
       "name": "Transient ischaemic attack",
+      "type": "Disease or Syndrome",
       "id": "XxLUtcnthXos59d3fTn9Fy",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-tia-xxlutcnthxos59d3ftn9fy"
     },
     {
       "name": "Trigeminal neuralgia",
+      "type": "Disease or Syndrome",
       "id": "QE89cQt4zYGDbRNQ7VoxUM",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-trigem-neur-qe89cqt4zygdbrnq7voxum"
     },
     {
       "name": "Dysmenorrhoea",
+      "type": "Disease or Syndrome",
       "id": "Ypx3HMzkeY6ye8h7fura54",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-dysmenorrhoea-ypx3hmzkey6ye8h7fura54"
     },
     {
       "name": "Cholelithiasis",
+      "type": "Disease or Syndrome",
       "id": "3wyLRCS4K4nQFmsfXfi5em",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-cholelithiasis-3wylrcs4k4nqfmsfxfi5em"
     },
     {
       "name": "Pilonidal cyst/sinus",
+      "type": "Disease or Syndrome",
       "id": "QETrH6TzYVaiJ2bBYwp6bs",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pilonidal-qetrh6tzyvaij2bbywp6bs"
     },
     {
       "name": "Anal fissure",
+      "type": "Disease or Syndrome",
       "id": "AyYY3Bpc5hEChq69PMdSiU",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-anal-fissure-ayyy3bpc5hechq69pmdsiu"
     },
     {
       "name": "Secondary Malignancy_Adrenal gland",
+      "type": "Disease or Syndrome",
       "id": "mWcHQYsc5LoAtRFwxmWBB9",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sec-adrenal-mwchqysc5loatrfwxmwbb9"
     },
     {
       "name": "Tubulo-interstitial nephritis",
+      "type": "Disease or Syndrome",
       "id": "cof9bpW5rsfqsRv2QKTcyR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-tin-cof9bpw5rsfqsrv2qktcyr"
     },
     {
       "name": "Hyposplenism",
+      "type": "Disease or Syndrome",
       "id": "PeJdbuHzpPPWaiEnXdoekZ",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-hyposplenism-pejdbuhzpppwaienxdoekz"
     },
     {
       "name": "Subdural haematoma - nontraumatic",
+      "type": "Disease or Syndrome",
       "id": "KgmoHwc6cnDpiVAdXRCLTm",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-subdural-haem-kgmohwc6cndpivadxrcltm"
     },
     {
       "name": "Intervertebral disc disorders",
+      "type": "Disease or Syndrome",
       "id": "Q5wvqUfppG6HXq6mJed5iR",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-intervert-disc-q5wvqufppg6hxq6mjed5ir"
     },
     {
       "name": "Endometriosis",
+      "type": "Disease or Syndrome",
       "id": "2EgSY3AQ93SdxxaKC4jLWF",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-endometriosis-2egsy3aq93sdxxakc4jlwf"
     },
     {
       "name": "Right bundle branch block",
+      "type": "Disease or Syndrome",
       "id": "8cCG64eH9xaY4AzpdgSs79",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-rbbb-8ccg64eh9xay4azpdgss79"
     },
     {
       "name": "Bacterial sepsis of newborn",
+      "type": "Disease or Syndrome",
       "id": "HKfjh9B2YgfezrE5NZEqr8",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sepsis-newborn-hkfjh9b2ygfezre5nzeqr8"
     },
     {
       "name": "Abdominal aortic aneurysm",
+      "type": "Disease or Syndrome",
       "id": "NJ2gf6ZTTxjayMcK5ksHXf",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-aaa-nj2gf6zttxjaymck5kshxf"
     },
     {
       "name": "Polycythaemia vera",
+      "type": "Disease or Syndrome",
       "id": "YNpoTpwazbBciG88G7i2dP",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-pcv-ynpotpwazbbcig88g7i2dp"
     },
     {
       "name": "Lower Respiratory Tract Infections",
+      "type": "Disease or Syndrome",
       "id": "RDDq59RszJqvLPTmK5vECd",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-lrti-rddq59rszjqvlptmk5vecd"
     }
@@ -3016,16 +3618,25 @@
   "6111c3eb-028c-429e-a78c-6eb9e6b36b66": [
     {
       "name": "Anaphylaxis",
+      "type": "Disease or Syndrome",
       "id": "AasR59AE9SxUcqFjgLNGDj",
       "url": "https://portal.caliberresearch.org/phenotypes/cardoso-anaphylaxis-aasr59ae9sxucqfjglngdj"
     },
     {
       "name": "Homelessness",
+      "type": "Lifestyle Risk Factor",
       "id": "7aMhMWHkJHbNc2w32de4RT",
       "url": "https://portal.caliberresearch.org/phenotypes/luchenski-homelessness-eugpkyqd9uawwzupmb7gv5"
     },
     {
+      "name": "Congenital anomalies in children",
+      "type": "Disease or Syndrome",
+      "id": "idsvFMrDh3ovRRoAK6HWAh",
+      "url": "https://portal.caliberresearch.org/phenotypes/hardelid-congenital-anom-idsvfmrdh3ovrroak6hwah"
+    },
+    {
       "name": "Hearing loss",
+      "type": "Disease or Syndrome",
       "id": "KiGT2GxSNkwPD8RPF6ZPne",
       "url": "https://portal.caliberresearch.org/phenotypes/cardoso-hearing-loss-kigt2gxsnkwpd8rpf6zpne"
     }
@@ -3033,8 +3644,17 @@
   "c6117afd-bc4d-404b-8d58-9d87db936b4c": [
     {
       "name": "Socioeconomic Deprevation",
+      "type": "Lifestyle Risk Factor",
       "id": "LndXYRN4dmmhTiZMRkRpqL",
       "url": "https://portal.caliberresearch.org/phenotypes/socioeconomic-deprevation"
+    }
+  ],
+  "1a575fae-c0d7-4718-b0d6-ba7c9c3edc0d": [
+    {
+      "name": "Congenital anomalies in children",
+      "type": "Disease or Syndrome",
+      "id": "idsvFMrDh3ovRRoAK6HWAh",
+      "url": "https://portal.caliberresearch.org/phenotypes/hardelid-congenital-anom-idsvfmrdh3ovrroak6hwah"
     }
   ]
 }

@@ -1,0 +1,2 @@
+Markdown==3.2.2
+python-slugify==4.0.0
