@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Team
+title: Team Members, Partners and Collaborators
 ---
 
 ## Team
