@@ -1,0 +1,3696 @@
+{
+  "Alcoholic liver disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Chronic Kidney Disease (CKD)": [],
+  "Myocardial infarction": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Bronchiestasis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Autoimmune liver disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Retinal vascular occlusions": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Thyroid": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Raised Triglycerides": [],
+  "HDL Cholesterol": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Other Cardiomyopathy": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Infection of male genital system": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Agranulocytosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Bone and articular cartilage": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Obesity": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Peritonitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Keratitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Anaphylaxis": [
+    {
+      "name": "Hospital Episode Statistics Admitted Patient Care",
+      "id": "6111c3eb-028c-429e-a78c-6eb9e6b36b66",
+      "url": "https://web.www.healthdatagateway.org/dataset/6111c3eb-028c-429e-a78c-6eb9e6b36b66"
+    }
+  ],
+  "Respiratory failure": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Intrauterine hypoxia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Asthma": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    },
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Brain, Other CNS and Intracranial": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Psoriasis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Secondary or other Thrombocytopaenia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Barrett's oesophagus": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Folate deficiency anaemia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Glaucoma": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Sleep apnoea": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Sick sinus syndrome": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Liver": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Uterine": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Heart Rate": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Tinnitus": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Raynaud's syndrome": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Stable angina": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Ear and Upper Respiratory Tract Infections": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Bifascicular block": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Lymphocytes": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Leiomyoma of uterus": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Nonrheumatic aortic valve disorders": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Scoliosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Crohn's disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Homelessness": [
+    {
+      "name": "Hospital Episode Statistics Admitted Patient Care",
+      "id": "6111c3eb-028c-429e-a78c-6eb9e6b36b66",
+      "url": "https://web.www.healthdatagateway.org/dataset/6111c3eb-028c-429e-a78c-6eb9e6b36b66"
+    },
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Smoking Status": [],
+  "End stage renal disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Oesophageal": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Appendicitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Diabetic neurological complications": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Cystic Fibrosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    },
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Leukaemia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Peptic ulcer disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Visual impairment and blindness": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Posterior Uveitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Cholangitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Postmenopausal bleeding": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Chemotherapy medication": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Bacterial Diseases (excl TB)": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Actinic keratosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Oesophageal varices": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Aplastic anaemias": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Splenomegaly": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Polycystic ovarian syndrome": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Diverticular disease of intestine (acute and chronic)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_biliary tract": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Female infertility": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Post-term infant": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Schizophrenia, schizotypal and delusional disorders": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Anxiety disorders": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Pancreatitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Alopecia areata": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Bladder": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Prostate": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Secondary malignancy_Liver and intrahepatic bile duct": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Seborrheic dermatitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Gout": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Ischaemic stroke": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Erectile dysfunction": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Heart failure": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Syndrome of inappropriate secretion of antidiuretic hormone": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Male infertility": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Cancer immunotherapy medication": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Delirium, not induced by alcohol and other psychoactive substances": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "COPD": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Gastritis and duodenitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Chronic Obstructive Pulmonary Disease (COPD)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Macular degeneration": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Fracture of wrist": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Secondary Malignancy_Lung": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Non-Hodgkin Lymphoma": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Nonrheumatic mitral valve disorders": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Urinary Tract Infections": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Other interstitial pulmonary diseases with fibrosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Rheumatic fever": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Patent ductus arteriosus": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Infection of anal and rectal regions": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Mycoses": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Non-COVID19 CVD death": [],
+  "Benign neoplasm of colon, rectum, anus and anal canal": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Secondary Malignancy_Bowel": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Vitiligo": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Enteropathic arthropathy": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Hepatic failure": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "LDL Cholesterol": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Secondary Malignancy_retroperitoneum and peritoneum": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Bronchiectasis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Enthesopathies & synovial disorders": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Secondary Malignancy_Lymph Nodes": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Rheumatoid Arthritis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Hearing loss": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    },
+    {
+      "name": "Hospital Episode Statistics Admitted Patient Care",
+      "id": "6111c3eb-028c-429e-a78c-6eb9e6b36b66",
+      "url": "https://web.www.healthdatagateway.org/dataset/6111c3eb-028c-429e-a78c-6eb9e6b36b66"
+    }
+  ],
+  "Lichen planus": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Lung and trachea": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Lupus erythematosus (local and systemic)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Vitamin B12 deficiency anaemia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Autism and Asperger's syndrome": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Pulmonary embolism": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Multiple myeloma and malignant plasma cell neoplasms": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Rosacea": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Pregnancy": [],
+  "Hodgkin Lymphoma": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Atrioventricular block, second degree": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Diaphragmatic hernia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Postviral fatigue syndrome, neurasthenia and fibromyalgia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Atrioventricular block, complete": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Tuberculosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Intracerebral haemorrhage": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Migraine": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Secondary Malignancy_Pleura": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Infection of liver": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Pulmonary collapse (excl pneumothorax)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Pneumothorax": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Pancreatic": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Hidradenitis suppurativa": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Hyperplasia of prostate": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Socioeconomic Deprevation": [
+    {
+      "name": "Practice postcode linked deprivation measures for CPRD GOLD",
+      "id": "c6117afd-bc4d-404b-8d58-9d87db936b4c",
+      "url": "https://web.www.healthdatagateway.org/dataset/c6117afd-bc4d-404b-8d58-9d87db936b4c"
+    }
+  ],
+  "Body Mass Index": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Multiple valve dz": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Secondary pulmonary hypertension": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Giant Cell arteritis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Spondylosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Neuromuscular dysfunction of bladder": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Myasthenia gravis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "HIV": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Abdominal Hernia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Bell's palsy": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_colorectal and anus": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Congenital malformations of cardiac septa": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Polymyalgia Rheumatica": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Ovarian": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Protein kinase inhibitor medication": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Hypo or hyperthyroidism": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Disorders of autonomic nervous system": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Eye infections": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Hyperkinetic disorders": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Multiple independent sites": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Essential tremor": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Non-acute cystitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Acute Kidney Injury": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Iron deficiency anaemia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Personality disorders": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Carcinoma in situ_cervical": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Ischaemic Heart Disease": [],
+  "Other nervous system infections": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Infections of Other or unspecified organs": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Multiple sclerosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Female pelvic inflammatory disease": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Rheumatic valve dz": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Stroke NOS": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Hyperparathyroidism": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Immunodeficiencies": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Viral diseases (excl chronic hepatitis/HIV)": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Sickle-cell trait": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Urticaria": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Aspiration pneumonitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Carpal tunnel syndrome": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Benign neoplasm of ovary": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Hypertension": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Sjogren's disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Endometrial hyperplasia and hypertrophy": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Coeliac disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Pleural plaque": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Neutrophils": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Thalassaemia trait": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Anorexia and bulimia nervosa": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Anterior and Intermediate Uveitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Pericardial effusion (noninflammatory)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Urinary Incontinence": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Nasal polyp": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Atrioventricular block, first degree": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Prematurity": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary or Idiopathic Thrombocytopaenia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Irritable bowel syndrome": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Thalassaemia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Congenital anomalies in children": [
+    {
+      "name": "Hospital Episode Statistics Admitted Patient Care",
+      "id": "6111c3eb-028c-429e-a78c-6eb9e6b36b66",
+      "url": "https://web.www.healthdatagateway.org/dataset/6111c3eb-028c-429e-a78c-6eb9e6b36b66"
+    },
+    {
+      "name": "Scottish Birth Record (SBR)",
+      "id": "1a575fae-c0d7-4718-b0d6-ba7c9c3edc0d",
+      "url": "https://web.www.healthdatagateway.org/dataset/1a575fae-c0d7-4718-b0d6-ba7c9c3edc0d"
+    }
+  ],
+  "Neonatal jaundice (excl haemolytic dz of the newborn)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Unstable Angina": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Other Skin and subcutaneous tissue": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Parkinson's disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Meningitis": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Depression": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Scleritis and episcleritis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Female genital prolapse": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Infections of the digestive system": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Encephalitis": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Urolithiasis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Spina bifida": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Chronic sinusitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Pneumonia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Fibromatoses": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Ventricular tachycardia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Alcohol Problems": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Infection of other or unspecified genitourinary system": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Liver fibrosis, sclerosis and cirrhosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Allergic and chronic rhinitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Other anaemias": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Venous thromboembolic disease (Excl PE)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Infection of skin and subcutaneous tissues": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Anorectal fistula": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Hypertrophy of nasal turbinates": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Other or unspecified infectious organisms": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Cervical": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Subarachnoid haemorrhage": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Raised Total Cholesterol": [],
+  "Sarcoidosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Anorectal prolapse": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Diabetes": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Secondary polycythaemia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Ethnic Status": [],
+  "Pleural effusion": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Breast": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Osteoporosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Glomerulonephritis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Ptosis of eyelid": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Volvulus": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Intracranial hypertension": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Raised LDL-C": [],
+  "Primary Malignancy_Stomach": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Thrombophilia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Septicaemia": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Chronic viral hepatitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Other haemolytic anaemias": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Respiratory distress of newborn": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Dilated cardiomyopathy": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Spinal stenosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Portal hypertension": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Myelodysplastic syndromes": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Spondylolisthesis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Left bundle branch block": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Retinal detachments and breaks": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Down's syndrome": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Cataract": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Obsessive-compulsive disorder": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Secondary Malignancy_Bone": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Other Organs": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Kidney and Ureter": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Postinfective and reactive arthropathies": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "High birth weight": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Fatty Liver": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Supraventricular tachycardia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Cerebral Palsy": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Gastro-oesophageal reflux disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Infection of bones and joints": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Peripheral arterial disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Bipolar affective disorder and mania": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Other psychoactive substance misuse": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Testicular": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Atrial fibrillation": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Acne": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "White Blood Cells": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Primary Malignancy_Malignant Melanoma": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Juvenile arthritis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Infections of the Heart": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Ulcerative colitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Monoclonal gammopathy of undetermined significance (MGUS)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Parasitic infections": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Sickle-cell anaemia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Ankylosing spondylitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Coronary heart disease not otherwise specified": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Hydrocoele (incl infected)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Asbestosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Osteoarthritis (excl spine)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Peripheral neuropathies (excluding cranial nerve and carpal tunnel syndromes)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Angiodysplasia of colon": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary pulmonary hypertension": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Obstructive and reflux uropathy": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Collapsed vertebra": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Oro-pharyngeal": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Benign neoplasm of stomach and duodenum": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Alcohol Consumption": [],
+  "Eosinophils": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Cholecystitis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Primary Malignancy_Mesothelioma": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Hypertrophic Cardiomyopathy": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Slow fetal growth or low birth weight": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Undescended testicle": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Meniere disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Fracture of hip": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Diabetic ophthalmic complications": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Tryglicerides": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Oesophagitis and oesophageal ulcer": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Blood Pressure": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    }
+  ],
+  "Psoriatic arthropathy": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Motor neuron disease": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Menorrhagia and polymenorrhoea": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Epilepsy": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Secondary Malignancy_Other organs": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Dermatitis (atopc/contact/other/unspecified)": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Systemic sclerosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Postcoital and contact bleeding": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Intellectual disability": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Dementia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Low HDL-C": [],
+  "Benign neoplasm of brain and other parts of central nervous system": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Haemangioma, any site": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Chronic Kidney Disease": [],
+  "Secondary Malignancy_Brain, Other CNS and Intracranial": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Benign neoplasm and polyp of uterus": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Trifascicular block": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Transient ischaemic attack": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Trigeminal neuralgia": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Dysmenorrhoea": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Cholelithiasis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Pilonidal cyst/sinus": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Anal fissure": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Secondary Malignancy_Adrenal gland": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Tubulo-interstitial nephritis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Hyposplenism": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Subdural haematoma - nontraumatic": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Intervertebral disc disorders": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Endometriosis": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Right bundle branch block": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Bacterial sepsis of newborn": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Abdominal aortic aneurysm": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Polycythaemia vera": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Lower Respiratory Tract Infections": [
+    {
+      "name": "Hospital Episode Statistics APC for CPRD GOLD",
+      "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
+      "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ]
+}
