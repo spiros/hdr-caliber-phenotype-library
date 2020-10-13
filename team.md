@@ -55,7 +55,7 @@ Natalie is the Phenomics Programme Manager for the Health Data Research UK (HDR 
 
 ![Chuang Gao](/assets/img/team/chuang-gao.jpg)
 
-### Chuang Gao
+### Dr Chuang Gao
 #### Data Scientist
 Email CGao001@dundee.ac.uk
 
