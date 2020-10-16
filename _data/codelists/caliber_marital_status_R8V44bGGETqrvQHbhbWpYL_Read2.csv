@@ -1,0 +1,133 @@
+"metadata","category","readcode","readterm","medcode"
+"Name: marital_status_cprd                                                        ",1,"1331.00","Single",37265
+"Version: 1                                                                       ",1,"1331.11","Single - unmarried",11103
+"Source: CPRD                                                                     ",1,"13D2.00","Homeless single person",25452
+"Author: Julie George, Emily Herrett, Ruzan Udumyan, Liam Smeeth, Harry Hemingway ",1,"13H6.00","Single parent",20079
+"Date: 17 May 2011                                                                ",1,"13H6.11","Unmarried parent",16262
+"Timestamp: 15.04 23-Apr-13                                                       ",1,"13W9.00","Single parent family",3394
+"Categories:                                                                      ",1,"13W9000","Single parent family, mother present",36299
+"1. Single                                                                        ",1,"13W9011","Single parent family - mother",25149
+"2. Possibly married                                                              ",1,"6123.00","No partner at present",13001
+"3. Married or co-habiting                                                        ",2,"ZL31300","Under care of marriage guidance counsellor",38003
+"4. Separated or divorced                                                         ",2,"ZL73300","Referral to marriage guidance counsellor",28985
+"5. Widowed                                                                       ",2,"ZLB4.00","Seen by marriage guidance counsellor",36333
+"6. Marital status unclear or not reported                                        ",2,"ZLD1300","Discharge by marriage guidance counsellor",94555
+"                                                                                 ",3,"1276.11","Spouse haemophiliac",63118
+"                                                                                 ",3,"131..00","Occupation of spouse",36077
+"                                                                                 ",3,"131..11","Occupation of husband",33001
+"                                                                                 ",3,"131..12","Occupation of wife",39292
+"                                                                                 ",3,"1311.00","Housewife",9612
+"                                                                                 ",3,"1311.11","Homemaker",33006
+"                                                                                 ",3,"1312.00","House husband",33153
+"                                                                                 ",3,"131Z.00","Occupation of spouse NOS",54096
+"                                                                                 ",3,"1332.00","Married",3988
+"                                                                                 ",3,"1332.11","Remarried",1580
+"                                                                                 ",3,"1332.12","Newly wed",7419
+"                                                                                 ",3,"1336.00","Cohabiting",25503
+"                                                                                 ",3,"133G.00","Common-law husband",16315
+"                                                                                 ",3,"133H.00","Common-law wife",42386
+"                                                                                 ",3,"133S.00","Married/civil partner",88373
+"                                                                                 ",3,"13FD100","Spouse cannot care for patient",23385
+"                                                                                 ",3,"13H4.00","Marital problems",1349
+"                                                                                 ",3,"13H4.11","Marital trouble",29544
+"                                                                                 ",3,"13H4.12","Marital stress",723
+"                                                                                 ",3,"13H4100","Marital breakdown",954
+"                                                                                 ",3,"13H4200","Marital conflict",333
+"                                                                                 ",3,"13H4211","Marital discord",3551
+"                                                                                 ",3,"13H4212","Marital disharmony",1540
+"                                                                                 ",3,"13H4213","Row with wife",30950
+"                                                                                 ",3,"13H4300","Maladjustment to married life",15313
+"                                                                                 ",3,"13H4311","Spouse unsympathetic",42321
+"                                                                                 ",3,"13H4312","Spouse inattentive",54816
+"                                                                                 ",3,"13H5.00","Marital reconciliation",29543
+"                                                                                 ",3,"13H5.11","Cohabitee returned",38325
+"                                                                                 ",3,"13H5.12","Spouse returned home",15950
+"                                                                                 ",3,"13HD.00","Violent spouse",3483
+"                                                                                 ",3,"13HG.00","Broken with partner",24055
+"                                                                                 ",3,"13HH.13","Looks after chronically sick husband",16552
+"                                                                                 ",3,"13HH.15","Looks after chronically sick spouse",15115
+"                                                                                 ",3,"13HH.16","Looks after chronically sick wife",20149
+"                                                                                 ",3,"13HT114","Wife unable to cope",23514
+"                                                                                 ",3,"13HV.00","Extra-marital problems",34771
+"                                                                                 ",3,"13HV000","Affair started",23409
+"                                                                                 ",3,"13HV011","Lover taken",27434
+"                                                                                 ",3,"13HV012","Mistress taken",56178
+"                                                                                 ",3,"13HV100","Affair ended",20536
+"                                                                                 ",3,"13HV200","Affair unsatisfactory",23445
+"                                                                                 ",3,"13HV311","Spouse committed infidelity",15777
+"                                                                                 ",3,"13HV400","Seven year itch - marital",21925
+"                                                                                 ",3,"13HVZ00","Extra-marital problems NOS",37551
+"                                                                                 ",3,"13I2.00","Partner stops work",47411
+"                                                                                 ",3,"13I7100","Husband in prison",24769
+"                                                                                 ",3,"13I7200","Spouse arrested",42398
+"                                                                                 ",3,"13ID.00","Partner unemployed",33188
+"                                                                                 ",3,"13IL.00","Health of spouse",21860
+"                                                                                 ",3,"13IL100","Wife pregnant",8470
+"                                                                                 ",3,"13IL200","Wife well",23974
+"                                                                                 ",3,"13IL300","Wife alive",17538
+"                                                                                 ",3,"13Ir.00","Partner pregnant",94917
+"                                                                                 ",3,"13L1.11","Disabled spouse",15824
+"                                                                                 ",3,"13L1200","Spouse is handicapped",41203
+"                                                                                 ",3,"13L3.11","Alcoholic spouse",10330
+"                                                                                 ",3,"13L3.13","Husband alcoholic",15404
+"                                                                                 ",3,"13L6.00","Spouse unwell",3719
+"                                                                                 ",3,"13L6.11","Has infirm partner",22336
+"                                                                                 ",3,"13L7.00","Partner dying",36947
+"                                                                                 ",3,"13W7000","Crime against spouse",50149
+"                                                                                 ",3,"13WE.00","Spouse works away from home",42402
+"                                                                                 ",3,"1A85.00","Breast lump detected by partner",61291
+"                                                                                 ",3,"1AZ4.00","Low sperm count in partner",49666
+"                                                                                 ",3,"1AZ5.00","Fertility problems in partner",45005
+"                                                                                 ",3,"1F81.00","Spouse cooks food",32984
+"                                                                                 ",3,"6124.00","Partner had vasectomy",1328
+"                                                                                 ",3,"6124.11","Partner sterilised",22934
+"                                                                                 ",3,"6127.00","Partner had tubal ligation",97076
+"                                                                                 ",3,"68b7.00","Antenatal screening not indicated for partner",97398
+"                                                                                 ",3,"8C81.12","Artificial insemin by husband",16344
+"                                                                                 ",3,"8C92.00","Spouse reassured",21346
+"                                                                                 ",3,"918j.00","Partner is informal carer",60723
+"                                                                                 ",3,"9d30.00","Spouse",95101
+"                                                                                 ",3,"9d31.00","Husband",59817
+"                                                                                 ",3,"9d32.00","Wife",59829
+"                                                                                 ",3,"SN56300","Battered wife",3321
+"                                                                                 ",3,"SN56400","Battered husband",23508
+"                                                                                 ",3,"ZV26500","[V]Artificial insemination from husband",30597
+"                                                                                 ",4,"1333.00","Separated",4204
+"                                                                                 ",4,"1333.11","Separated from cohabitee",27385
+"                                                                                 ",4,"1333.12","Husband left home",5055
+"                                                                                 ",4,"1333.13","Wife left home",4925
+"                                                                                 ",4,"1333.14","Cohabitee left home",42428
+"                                                                                 ",4,"1334.00","Divorced",1522
+"                                                                                 ",4,"133T.00","Divorced/person whose civil partnership has been dissolved",96856
+"                                                                                 ",4,"13EF.00","Divorced couple sharing house",31678
+"                                                                                 ",4,"13H2.00","Separation",2093
+"                                                                                 ",4,"13H3.00","Divorce",6056
+"                                                                                 ",4,"13H3.11","Divorce problems",9910
+"                                                                                 ",4,"13H3000","Divorce proceedings",838
+"                                                                                 ",4,"13H3100","Divorce proceedings pending",2159
+"                                                                                 ",4,"13HG.11","Spouse left home",15020
+"                                                                                 ",4,"13HM.11","Legal problem with separation",20217
+"                                                                                 ",4,"13HM.12","Legal problem with divorce",20313
+"                                                                                 ",5,"1335.00","Widowed",4312
+"                                                                                 ",5,"133C.00","Widower",15527
+"                                                                                 ",5,"133V.00","Widowed/surviving civil partner",94044
+"                                                                                 ",5,"13Hc.00","Bereavement",400
+"                                                                                 ",5,"13M1.00","Death of spouse",207
+"                                                                                 ",5,"13MF.00","Death of partner",28440
+"                                                                                 ",5,"13MG.00","Death of wife",11251
+"                                                                                 ",5,"13MH.00","Husband died",17802
+"                                                                                 ",5,"13MI.00","Death of husband",25097
+"                                                                                 ",5,"ZU14100","Death of husband",12325
+"                                                                                 ",5,"ZU14111","Husband died",12076
+"                                                                                 ",6,"133..11","Marital status",28360
+"                                                                                 ",6,"133F.00","Marital state unknown",47408
+"                                                                                 ",6,"133F.11","Civil state unknown",45178
+"                                                                                 ",6,"133Z.00","Personal status NOS",41236
+"                                                                                 ",6,"13H1.00","Marriage",7869
+"                                                                                 ",6,"13HA.00","Battered wife - history",22873
+"                                                                                 ",6,"13HC.00","Battered husband - history",42454
+"                                                                                 ",6,"13HE.00","Engaged",27572
+"                                                                                 ",6,"13HF.00","Broken engagement",40493
+"                                                                                 ",6,"13HX.00","New relationship",9112
+"                                                                                 ",6,"13HY.00","First relationship",50485
+"                                                                                 ",6,"U3M0.00","[X]Neglect and abandonment, by spouse or partner",37113
