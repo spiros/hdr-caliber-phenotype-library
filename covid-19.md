@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: page
 title: COVID-19
 ---
+
+{% assign covid-19_about = site.covid-19 | where: "type", "COVID-19" %}
 
 ## COVID-19
 
