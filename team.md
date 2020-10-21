@@ -1,7 +1,9 @@
 ---
-layout: home
-title: Team Members, Partners and Collaborators
+layout: page
+title: Team / Collaborators
 ---
+
+{% assign team/collaborators_about = site.about | where: "type", "Team" %}
 
 ## Team
 
