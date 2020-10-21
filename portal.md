@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: page
 title: Portal
 ---
+
+{% assign portal_about = site.portal | where: "type", "Portal" %}
 
 ## Portal
 
