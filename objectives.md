@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: page
 title: Objectives
 ---
+
+{% assign objectives_about = site.objectives | where: "type", "Objectives" %}
 
 ## Objectives
 

@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: page
 title: Publications
 ---
+
+{% assign publications_about = site.publications | where: "type", "Publications" %}
 
 ## Publications
 
