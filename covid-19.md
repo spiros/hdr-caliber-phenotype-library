@@ -15,7 +15,7 @@ In order for research into COVID-19 to be carried out consistently across the wh
 
 **Understanding and protecting vulnerable groups**
 
-Researchers harnessed the [Phenotype Portal](https://caliberresearch.org/portal) to address the wider impact of the COVID-19 pandemic by identifying high-risk vulnerable groups.  
+Researchers harnessed the [Phenotype Portal](https://portal.caliberresearch.org/) to address the wider impact of the COVID-19 pandemic by identifying high-risk vulnerable groups.  
 
 *Estimating excess 1-year mortality from COVID-19 according to underlying conditions and age in England (published in [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30854-0/fulltext?utm_campaign=tlcoronavirus20&utm_content=129210454&utm_medium), 2020)*
 
