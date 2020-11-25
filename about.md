@@ -15,7 +15,7 @@ Phenomics refers to the science of deriving new knowledge for health by studying
 
 ### The challenge
 
-A primary reason for using data from EHR is the creation of phenotype algorithms to identify disease status, onset and progression. Phenotyping (describing the characteristics of disease) however is challenging as her data are collected for different purposes, have variable data quality and often require significant harmonisation. While considerable effort goes into these algorithms, there is no consistent methodology for creating and evaluating them and no centralised repository for depositing and sharing them.
+A primary reason for using data from EHR is the creation of phenotype algorithms to identify disease status, onset and progression. Phenotyping (describing the characteristics of disease) however is challenging as the data are collected for different purposes, have variable data quality and often require significant harmonisation. While considerable effort goes into these algorithms, there is no consistent methodology for creating and evaluating them and no centralised repository for depositing and sharing them.
 
 ### The solution
 
@@ -139,7 +139,7 @@ The metadata fields required are the following:
     * _cross-source_: has the algorithm been evaluated in a similar external data source
     * _casenote review_ : has the algorithm been validated through manual review of clinical notes (this usually would result to PPV, NPV values)
     * _cross-country_ : has the algorithm been evaluated in a similar external healthcare system
-* **codelists** (list of strings): (unordered) list of CSV terminologu files associated with the phenotype
+* **codelists** (list of strings): (unordered) list of CSV terminology files associated with the phenotype
 * **phenotype_id** (list of strings): Unique universal phenotype identifier, generated using the `shortuuid` [Python module](https://pypi.org/project/shortuuid/).
 * **group** (string): Disease group for phenotype
 * **valid_event_data_range** (list of strings): DD/MM/YYYY date range for events
