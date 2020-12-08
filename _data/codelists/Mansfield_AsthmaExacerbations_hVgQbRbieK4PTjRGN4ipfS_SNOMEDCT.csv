@@ -1,0 +1,13 @@
+medcodeid,originalreadcode,cleansedreadcode,snomedctconceptid,snomedctdescriptionid,release,term,marker
+2010031000006116,EMISNQAC876,,2010031000006100,2010031000006116,,acute infective exacerbation of asthma,9.0
+2010041000006114,EMISNQAC877,,2010041000006105,2010041000006114,,acute non-infective exacerbation of asthma,9.0
+2460351000000111,38B8,38B8.00,966031000000101,2460351000000111,,severe asthma exacerbation risk assessment,9.0
+419211018,H333,H333.00,708038006,3032747019,,acute exacerbation of asthma,9.0
+7627241000006119,^ESCTAC762724,,708038006,7627241000006119,,acute exacerbation of asthma,9.0
+7628191000006118,^ESCTAC762819,,708090002,7628191000006118,,acute severe exacerbation of asthma,9.0
+7628271000006114,^ESCTAC762827,,708093000,3032949014,,acute exacerbation of extrinsic asthma,9.0
+7628281000006112,^ESCTAC762828,,708093000,3083682018,,acute exacerbation of immunoglobulin e-mediated allergic asthma,9.0
+8465371000006113,^ESCTLI846537,,1086701000000102,8465371000006113,,life threatening acute exacerbation of allergic asthma,9.0
+8465381000006111,^ESCTLI846538,,1086701000000102,2722251000000117,,life threatening acute exacerbation of extrinsic asthma,9.0
+8465391000006114,^ESCTLI846539,,1086711000000100,8465391000006114,,life threatening acute exacerbation of intrinsic asthma,9.0
+8465401000006111,^ESCTLI846540,,1086711000000100,2722281000000111,,life threatening acute exacerbation of non-allergic asthma,9.0
