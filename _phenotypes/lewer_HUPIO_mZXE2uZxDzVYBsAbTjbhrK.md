@@ -42,12 +42,15 @@ version: 1
 
 ### Implementation
 
-We selected patients by identifying product codes indicating a prescription of OAT and clinical codes indicating a history of illicit opioid use, such as ‘heroin dependence’ (see extended data for a full code list23). We prioritised specificity over sensitivity, aiming to use codes that are only applied to the target population.
+This phenotype includes prescriptions of opioid agonist therapy (OAT), indicated by 'Prodcode' under the heading 'Type', and codes indicating a history of illicit opioid use, indicated by 'Medcode' under the heading 'Type'.
 
-We used keywords to search CPRD dictionaries to find Read and SNOMED clinical codes that may illicit opioid use (methadone; buprenorphine; abus*; addict;  ependen*; drug user; heroin; inject; misus*; opiate; opioid; overdose). Our search identified 1,098 Read codes and 1,800 SNOMED codes. Two authors (DL and PP)
-screened the codes for relevance, with conflicts resolved through discussion.
+#### PRODCODES
 
-Where codes were likely to indicate illicit opioid use, but did not specifically mention opioids, we classified them as ‘probable’. Some clinical codes described prescriptions, tests or adverse reactions relating to methadone and buprenorphine. 
+In the UK, treatment for opioid dependence involves the prescription of methadone or buprenorphine. However, these medications are also licensed for other indications including pain and palliative cough. We therefore developed a method to identify medications that are specific to OAT (see publication for more detail).
+
+#### MEDCODES
+
+We used keywords to search CPRD dictionaries to find Read and SNOMED codes that may inidicate a history of illicit opioid use (methadone; buprenorphine; abus*; addict; dependen*; drug user; heroin; inject; misus*; opiate; opioid; overdose). Where codes were likely to indicate illicit opioid use, but did not specifically mention opioids, we classified them as ‘probable’. For example, codes indicating injection of illicit drugs were classified as ‘probable’ because an estimated 94% of people who inject drugs in the UK use heroin. Some clinical codes described prescriptions, tests or adverse reactions relating to methadone and buprenorphine. We excluded these where the indication was unclear.
 
 ### Publications
 
