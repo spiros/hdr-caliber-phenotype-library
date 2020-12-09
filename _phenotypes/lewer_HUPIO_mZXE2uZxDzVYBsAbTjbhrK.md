@@ -10,6 +10,8 @@ data_sources:
     - Clinical Practice Research Datalink AURUM
 clinical_terminologies: 
     - SNOMED-CT
+    - Read Version 2
+    - CPRD product code
 validation: 
     - expert-review
 codelists:
