@@ -22,7 +22,7 @@ BREATHE is facilitating their use in research through:
 * Providing estimates of population sizes meeting each phenotype in each database
 * Expertly reviewing phenotypes at their definition and updating regularly
 
-If you would like more information, or require support, please [get in touch](mailto:breathe.admin@ed.ac.uk?subject=Respiratory%20phenotyes). 
+If you would like more information, or require support, please [get in touch](mailto:breathe.admin@ed.ac.uk?subject=Respiratory%20phenotypes). 
 
 
 ## Standardised respiratory phenotypes
