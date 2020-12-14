@@ -34,6 +34,3 @@ This is not an exhaustive list of codes or mandatory, but a guide to aid researc
 * [Bronchiectasis](/phenotypes/axson-bronchiestasis-zckoxfuwnxn8jn7fdlquxj)
 * [COPD](/phenotypes/axson-copd-y9jxuqrfpprjdmhspowjys)
 * [Cystic Fibrosis](/phenotypes/axson-cystic-fibrosis-5edwf2jvb4xwhmtoosytbb)
-* Lung cancer
-* Pneumonia
-* Sleep disorders
