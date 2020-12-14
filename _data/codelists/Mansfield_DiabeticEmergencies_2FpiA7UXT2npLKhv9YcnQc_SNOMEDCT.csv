@@ -1,0 +1,45 @@
+medcodeid,term,diab_cat,diab_emergency
+928511000006116,Type I diabetes mellitus with ketoacidosis,3. T1DM,1
+459162010,Insulin dependent diabetes mellitus with hypoglycaemic coma,3. T1DM,1
+459163017,Type I diabetes mellitus with hypoglycaemic coma,3. T1DM,1
+84711000006117,Type I diabetes mellitus with hypoglycaemic coma,3. T1DM,1
+616641000006110,"Diabetes mellitus, juvenile type, with ketoacidosis",3. T1DM,1
+771361000006113,Insulin dependent diabetes mellitus with hypoglycaemic coma,3. T1DM,1
+292482014,"Diabetes mellitus, juvenile type, with hyperosmolar coma",3. T1DM,1
+928521000006112,Type 1 diabetes mellitus with ketoacidotic coma,3. T1DM,1
+84341000006119,Type 1 diabetes mellitus with hypoglycaemic coma,3. T1DM,1
+616651000006112,"Diabetes mellitus, juvenile type, with ketoacidotic coma",3. T1DM,1
+459161015,Type 1 diabetes mellitus with hypoglycaemic coma,3. T1DM,1
+928531000006110,Type I diabetes mellitus with ketoacidotic coma,3. T1DM,1
+928501000006119,Type 1 diabetes mellitus with ketoacidosis,3. T1DM,1
+928601000006118,Type 2 diabetes mellitus with ketoacidotic coma, 4.T2DM,1
+928591000006114,Type II diabetes mellitus with ketoacidosis, 4.T2DM,1
+1488898011,Hyperosmolar non-ketotic state in type 2 diabetes mellitus, 4.T2DM,1
+616541000006114,"Diabetes mellitus, adult onset, with ketoacidotic coma", 4.T2DM,1
+84891000006116,Type II diabetes mellitus with hypoglycaemic coma, 4.T2DM,1
+928611000006115,Type II diabetes mellitus with ketoacidotic coma, 4.T2DM,1
+292483016,"Diabetes mellitus, adult onset, with hyperosmolar coma", 4.T2DM,1
+84521000006116,Type 2 diabetes mellitus with hypoglycaemic coma, 4.T2DM,1
+1667891000000113,Hyperosmolar non-ketotic state in type II diabetes mellitus, 4.T2DM,1
+616531000006116,"Diabetes mellitus, adult onset, with ketoacidosis", 4.T2DM,1
+459167016,Type 2 diabetes mellitus with hypoglycaemic coma, 4.T2DM,1
+280511000006113,Non-insulin dependent diabetes mellitus with hypoglyca coma, 4.T2DM,1
+459169018,Type II diabetes mellitus with hypoglycaemic coma, 4.T2DM,1
+928581000006111,Type 2 diabetes mellitus with ketoacidosis, 4.T2DM,1
+850691000006118,Hyperosmolar non-ketotic state in type 2 diabetes mellitus, 4.T2DM,1
+283544013,Admit diabetic emergency,"6.DM, NOS",1
+292489017,Diabetes mellitus NOS with ketoacidotic coma,"6.DM, NOS",1
+292484010,Diabetes mellitus NOS with hyperosmolar coma,"6.DM, NOS",1
+640011000006114,Emergency Diabetic Admission since last appointment,"6.DM, NOS",1
+2622193012,Diabetes mellitus with ketoacidosis,"6.DM, NOS",1
+292479016,Diabetes mellitus NOS with ketoacidosis,"6.DM, NOS",1
+933231000006118,Hypo states in diabetes,"6.DM, NOS",1
+178800012,Insulin coma,"6.DM, NOS",1
+616381000006111,Diabetes mellitus with ketoacidotic coma,"6.DM, NOS",1
+932641000006116,Diabetes with coma,"6.DM, NOS",1
+881461000006110,Diabetes+ketoacidosis -no coma,"6.DM, NOS",1
+881471000006115,Diabetes with coma,"6.DM, NOS",1
+292480018,Diabetes mellitus with hyperosmolar coma,"6.DM, NOS",1
+292478012,Other specified diabetes mellitus with ketoacidosis,"6.DM, NOS",1
+149278011,Iatrogenic hyperinsulinism,"6.DM, NOS",1
+292488013,Other specified diabetes mellitus with coma,"6.DM, NOS",1

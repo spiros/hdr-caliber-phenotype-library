@@ -1,0 +1,106 @@
+medcodeid,term
+104563015,cerebrovascular disease
+1130181000000113,small vessel cerebrovascular disease
+118689010,cerebral thrombosis
+1212072018,occlusive stroke
+1222398015,cerebral arterial occlusion
+122361000006113,stroke due to cerebral arterial occlusion
+122401000006115,stroke unspecified
+1229954013,"cerebral aneurysm, nonruptured"
+125470015,cerebral embolism
+130375018,lateral medullary syndrome
+1573101000006112,cerebral infarction with haemorrhagic transformation
+1576261000006112,cause of death- cerebral infarct
+158118014,cerebellar infarction
+1780304018,stroke/cva annual review
+200591000006119,puerperal cerebrovascular disorder - delivered with p/n comp
+200621000006117,puerperal cerebrovascular disorder with antenatal comp
+200631000006119,puerperal cerebrovascular disorder with postnatal comp
+218511000000117,infarction - cerebral
+2474651019,infarction of basal ganglia
+267311000006118,occlusion+stenosis of multiple and bilat cerebral arteries
+267321000006114,occlusion/stenosis cerebral arts not result cerebral infarct
+287283010,rupture of syphilitic cerebral aneurysm
+294703019,"acute confusional state, of cerebrovascular origin"
+294711012,"subacute confusional state, of cerebrovascular origin"
+297013012,cerebral degeneration due to cerebrovascular disease
+299342019,[x]other lacunar syndromes
+300303013,basilar artery occlusion
+300309012,vertebral artery occlusion
+300310019,multiple and bilateral precerebral arterial occlusion
+300311015,other precerebral artery occlusion
+300312010,cerebral infarct due to thrombosis of precerebral arteries
+300313017,cerebral infarction due to embolism of precerebral arteries
+300314011,precerebral artery occlusion nos
+300321011,cerebral infarction due to thrombosis of cerebral arteries
+300322016,cerebral infarction due to embolism of cerebral arteries
+300345010,multiple and bilateral precerebral artery syndromes
+300362017,middle cerebral artery syndrome
+300363010,anterior cerebral artery syndrome
+300364016,posterior cerebral artery syndrome
+300366019,cerebellar stroke syndrome
+300370010,left sided cva
+300371014,right sided cva
+300374018,other cerebrovascular disease
+300379011,generalised ischaemic cerebrovascular disease nos
+300380014,acute cerebrovascular insufficiency nos
+300395011,occlusion and stenosis of middle cerebral artery
+300396012,occlusion and stenosis of anterior cerebral artery
+300398013,occlusion and stenosis of posterior cerebral artery
+300399017,occlusion and stenosis of cerebellar arteries
+300401011,other cerebrovascular disease os
+300402016,other cerebrovascular disease nos
+300418010,other specified cerebrovascular disease
+300419019,cerebrovascular disease nos
+300941014,[x]other cerebral infarction
+300942019,[x]occlusion and stenosis of other precerebral arteries
+300943012,[x]occlusion and stenosis of other cerebral arteries
+300944018,[x]other specified cerebrovascular diseases
+307879017,puerperal cerebrovascular disorder unspecified
+307880019,puerperal cerebrovascular disorder - delivered
+307884011,puerperal cerebrovascular disorder nos
+313568013,cerebrovascular system anomalies
+313576010,other specified cerebrovascular anomaly
+313577018,cerebrovascular system anomaly nos
+345639010,infarction - precerebral
+345650013,brainstem infarction nos
+345655015,pure motor lacunar syndrome
+345658018,pure sensory lacunar syndrome
+370661000006114,[x]cereb infarct due unsp occlus/stenos precerebr arteries
+370701000006118,[x]cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+370711000006115,[x]cerebrovascular diseases
+395777014,precerebral arterial occlusion
+395780010,cerebral infarction nos
+405339016,stroke and cerebrovascular accident unspecified
+407291000006117,[x]other cerebrovascular disorders in diseases ce
+411416011,stroke in the puerperium
+413750011,central post-stroke pain
+416991000006112,[x]other transnt cerebral ischaemic attacks+related syndroms
+417171000006111,[x]other vascular syndroms/brain in cerebrovasculr diseases
+449935012,admission to stroke unit
+451133011,left sided cerebral infarction
+451134017,right sided cerebral infarction
+524511000006116,brain stem stroke syndrome
+524541000006117,brainstem infarction
+542251000006112,"cereb infarct due cerebral venous thrombosis, nonpyogenic"
+542261000006114,cereb infarct due unsp occlus/stenos precerebr arteries
+542831000006116,cerebral embolus
+543141000006110,cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+543251000006116,cerebrovascular disorders in the puerperium
+57341000006119,wallenberg syndrome
+605461000006117,cva - cerebral artery occlusion
+605481000006110,cva - cerebrovascular accident in the puerperium
+605491000006113,cva - cerebrovascular accident unspecified
+605501000006117,cva unspecified
+800691000006113,generalised ischaemic cerebrovascular disease nos
+841051000006113,cereb autosom dominant arteriop subcort infarcts leukoenceph
+884461000006113,basilar artery occluded
+884481000006115,vertebral artery occluded
+884521000006115,stroke/cva - undefined
+884531000006117,stroke
+884551000006112,cerebral aneurysm-non ruptured
+907581000006119,[rfc] stroke/cva
+907591000006116,[rfc] stroke
+908801000006114,[rfc] stroke
+909171000006115,[rfc] cva
+928621000006111,"mitochond encephalopathy, lact acidosis & strokelike episode"

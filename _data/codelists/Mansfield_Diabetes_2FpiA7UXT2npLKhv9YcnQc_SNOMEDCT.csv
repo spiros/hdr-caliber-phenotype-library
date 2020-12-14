@@ -1,0 +1,699 @@
+medcodeid,term,diab_cat,medcode
+302011,Diabetic peripheral angiopathy,"6.DM, NOS",302011
+9093013,Diabetic retinopathy,"6.DM, NOS",9093013
+19931010,Brittle diabetes,"6.DM, NOS",19931010
+65526011,Diabetic amyotrophy,"6.DM, NOS",65526011
+73294018,Diabetic cataract,"6.DM, NOS",73294018
+73466011,Non-insulin dependent diabetes mellitus, 4.T2DM,73466011
+82373015,Diabetic polyneuropathy,"6.DM, NOS",82373015
+98476015,Proliferative diabetic retinopathy,"6.DM, NOS",98476015
+121589010,Diabetes mellitus,"6.DM, NOS",121589010
+149278011,Iatrogenic hyperinsulinism,"6.DM, NOS",149278011
+178800012,Insulin coma,"6.DM, NOS",178800012
+197761014,Type 2 diabetes mellitus, 4.T2DM,197761014
+197984010,Type 1 diabetes mellitus,3. T1DM,197984010
+205225016,Diabetic nephropathy,"6.DM, NOS",205225016
+216195015,Diabetes care by hospital only,"6.DM, NOS",216195015
+250447011,Diabetic diet,2. Possible diabetes,250447011
+259365016,Glucose tol. test diabetic,2. Possible diabetes,259365016
+264676010,Diabetic monitoring,2. Possible diabetes,264676010
+264677018,Initial diabetic assessment,2. Possible diabetes,264677018
+264678011,Follow-up diabetic assessment,2. Possible diabetes,264678011
+264679015,Diabetic on diet only,2. Possible diabetes,264679015
+264681018,Diabetic on oral treatment,"6.DM, NOS",264681018
+264682013,Diabetic on insulin,"6.DM, NOS",264682013
+264693010,Has seen dietician - diabetes,2. Possible diabetes,264693010
+264695015,Understands diet - diabetes,2. Possible diabetes,264695015
+264701014,Fundoscopy - diabetic check,2. Possible diabetes,264701014
+264704018,Diabetic drug side effects,"6.DM, NOS",264704018
+264705017,Diabetic treatment changed,"6.DM, NOS",264705017
+264706016,Conversion to insulin,"6.DM, NOS",264706016
+264707013,Diabetic - good control,"6.DM, NOS",264707013
+264716012,Diabetic - poor control NOS,"6.DM, NOS",264716012
+264717015,Diabetic - cooperative patient,"6.DM, NOS",264717015
+264718013,Diabetic-uncooperative patient,"6.DM, NOS",264718013
+264719017,Diabetic - follow-up default,"6.DM, NOS",264719017
+264720011,Date diabetic treatment start,"6.DM, NOS",264720011
+264723013,Diabetes: practice programme,"6.DM, NOS",264723013
+264724019,Diabetes: shared care programme,"6.DM, NOS",264724019
+264726017,Diabetes management plan given,2. Possible diabetes,264726017
+264727014,Diabetic annual review,2. Possible diabetes,264727014
+264728016,Annual diabetic blood test,"6.DM, NOS",264728016
+264729012,Diabetic monitoring NOS,2. Possible diabetes,264729012
+282568013,Diabetic crisis monitoring,"6.DM, NOS",282568013
+282570016,Diabetic stabilisation,"6.DM, NOS",282570016
+283544013,Admit diabetic emergency,"6.DM, NOS",283544013
+283584016,Non-urgent diabetic admission,"6.DM, NOS",283584016
+283620017,Referral to diabetologist,2. Possible diabetes,283620017
+283709014,"Refer, diabetic liaison nurse",2. Possible diabetes,283709014
+283938017,Diabetology D.V. done,"6.DM, NOS",283938017
+283974014,Listed for Diabetology admissn,"6.DM, NOS",283974014
+284124018,Private referral to diabetologist,2. Possible diabetes,284124018
+285223014,Seen in diabetic clinic,2. Possible diabetes,285223014
+285751016,Attends diabetes monitoring,2. Possible diabetes,285751016
+285752011,Refuses diabetes monitoring,2. Possible diabetes,285752011
+285753018,Diabetes monitoring default,2. Possible diabetes,285753018
+292478012,Other specified diabetes mellitus with ketoacidosis,"6.DM, NOS",292478012
+292479016,Diabetes mellitus NOS with ketoacidosis,"6.DM, NOS",292479016
+292482014,"Diabetes mellitus, juvenile type, with hyperosmolar coma",3. T1DM,292482014
+292483016,"Diabetes mellitus, adult onset, with hyperosmolar coma", 4.T2DM,292483016
+292489017,Diabetes mellitus NOS with ketoacidotic coma,"6.DM, NOS",292489017
+292495016,Other specified diabetes mellitus with renal complications,"6.DM, NOS",292495016
+292496015,Diabetes mellitis with nephropathy NOS,"6.DM, NOS",292496015
+292503016,Diabetes mellitus NOS with ophthalmic manifestation,"6.DM, NOS",292503016
+292512019,Diabetes mellitus NOS with neurological manifestation,"6.DM, NOS",292512019
+292523015,Diabetes mellitus NOS with peripheral circulatory disorder,"6.DM, NOS",292523015
+292538019,Type I diabetes mellitus with ulcer,3. T1DM,292538019
+292540012,Type 1 diabetes mellitus with ulcer,3. T1DM,292540012
+292541011,Type 1 diabetes mellitus with gangrene,3. T1DM,292541011
+292543014,Type I diabetes mellitus with gangrene,3. T1DM,292543014
+292548017,Type 1 diabetes mellitus - poor control,3. T1DM,292548017
+292550013,Type I diabetes mellitus - poor control,3. T1DM,292550013
+292551012,Type I diabetes mellitus maturity onset,3. T1DM,292551012
+292553010,Type 1 diabetes mellitus maturity onset,3. T1DM,292553010
+292576013,Type II diabetes mellitus with multiple complications, 4.T2DM,292576013
+292577016,Type 2 diabetes mellitus with multiple complications, 4.T2DM,292577016
+292579018,Type 2 diabetes mellitus with ulcer, 4.T2DM,292579018
+292581016,Type II diabetes mellitus with ulcer, 4.T2DM,292581016
+292582011,Type II diabetes mellitus with gangrene, 4.T2DM,292582011
+292583018,Type 2 diabetes mellitus with gangrene, 4.T2DM,292583018
+292589019,Type II diabetes mellitus - poor control, 4.T2DM,292589019
+292590011,Type 2 diabetes mellitus - poor control, 4.T2DM,292590011
+292621010,Diabetes mellitus NOS with other specified manifestation,"6.DM, NOS",292621010
+292622015,Diabetes mellitus with unspecified complication,"6.DM, NOS",292622015
+292626017,Diabetes mellitus NOS with unspecified complication,"6.DM, NOS",292626017
+293756010,[X]Other specified diabetes mellitus,"6.DM, NOS",293756010
+297492014,Diabetic mononeuritis multiplex,"6.DM, NOS",297492014
+297510017,Diabetic mononeuritis NOS,"6.DM, NOS",297510017
+297550019,Acute painful diabetic neuropathy,"6.DM, NOS",297550019
+297551015,Chronic painful diabetic neuropathy,"6.DM, NOS",297551015
+297552010,Asymptomatic diabetic neuropathy,"6.DM, NOS",297552010
+297754014,Preproliferative diabetic retinopathy,"6.DM, NOS",297754014
+297755010,Advanced diabetic maculopathy,"6.DM, NOS",297755010
+297758012,Diabetic retinopathy NOS,"6.DM, NOS",297758012
+297964010,Diabetic iritis,"6.DM, NOS",297964010
+303846016,Nephrotic syndrome in diabetes mellitus,"6.DM, NOS",303846016
+305158015,[X]Glomerular disorders in diabetes mellitus,"6.DM, NOS",305158015
+306113018,"Pre-existing diabetes mellitus, non-insulin-dependent", 4.T2DM,306113018
+308110013,"[X]Pre-existing diabetes mellitus, unspecified","6.DM, NOS",308110013
+308360012,Cellulitis in diabetic foot,"6.DM, NOS",308360012
+309177010,Ischaemic ulcer diabetic foot,"6.DM, NOS",309177010
+309179013,Neuropathic diabetic ulcer - foot,"6.DM, NOS",309179013
+309180011,Mixed diabetic ulcer - foot,"6.DM, NOS",309180011
+309737011,Diabetic cheiroarthropathy,"6.DM, NOS",309737011
+309738018,Diabetic cheiropathy,"6.DM, NOS",309738018
+317347010,[D]Gangrene of toe in diabetic,"6.DM, NOS",317347010
+317348017,[D]Widespread diabetic foot gangrene,"6.DM, NOS",317348017
+330806013,Adverse reaction to insulins and antidiabetic agents NOS,"6.DM, NOS",330806013
+345486016,Diabetic neuropathy,"6.DM, NOS",345486016
+345487013,Diabetes mellitus with neuropathy,"6.DM, NOS",345487013
+345492010,Diabetic mononeuropathy,"6.DM, NOS",345492010
+347657010,Diabetic maculopathy,"6.DM, NOS",347657010
+354508018,Clinical diabetic nephropathy,"6.DM, NOS",354508018
+354509014,Proteinuric diabetic nephropathy,"6.DM, NOS",354509014
+356085010,Maturity onset diabetes in youth type 2, 4.T2DM,356085010
+399419012,Myasthenic syndrome due to diabetic amyotrophy,"6.DM, NOS",399419012
+401531012,Diabetic - poor control,"6.DM, NOS",401531012
+404444016,Hb. A1C - diabetic control,"6.DM, NOS",404444016
+405057014,Diabetes monitored,2. Possible diabetes,405057014
+408811014,Diabetes treatment satisfaction questionnaire,"6.DM, NOS",408811014
+411891014,Unstable diabetes,"6.DM, NOS",411891014
+429970018,Unstable type I diabetes mellitus,3. T1DM,429970018
+429971019,Unstable type 1 diabetes mellitus,3. T1DM,429971019
+448261010,Seen by diabetic liaison nurse,2. Possible diabetes,448261010
+449540010,Discharge by diabetic liaison nurse,2. Possible diabetes,449540010
+453910015,HbA1 - diabetic control,"6.DM, NOS",453910015
+455408014,Advanced diabetic retinal disease,"6.DM, NOS",455408014
+456646018,Referral to diabetes nurse,2. Possible diabetes,456646018
+456686014,Attending diabetes clinic,"6.DM, NOS",456686014
+457156014,[V]Admitted for conversion to insulin,"6.DM, NOS",457156014
+457157017,[V]Admitted for commencement of insulin,"6.DM, NOS",457157017
+457231013,Seen in diabetic eye clinic,2. Possible diabetes,457231013
+457325013,Type I diabetes mellitus without complication,3. T1DM,457325013
+457326014,Type 1 diabetes mellitus without complication,3. T1DM,457326014
+457328010,Non-insulin-dependent diabetes mellitus without complication, 4.T2DM,457328010
+457329019,Type 2 diabetes mellitus without complication, 4.T2DM,457329019
+457330012,Type II diabetes mellitus without complication, 4.T2DM,457330012
+458512016,Diabetic on insulin and oral treatment,"6.DM, NOS",458512016
+459161015,Type 1 diabetes mellitus with hypoglycaemic coma,3. T1DM,459161015
+459163017,Type I diabetes mellitus with hypoglycaemic coma,3. T1DM,459163017
+459167016,Type 2 diabetes mellitus with hypoglycaemic coma, 4.T2DM,459167016
+459169018,Type II diabetes mellitus with hypoglycaemic coma, 4.T2DM,459169018
+459292011,Type 1 diabetes mellitus with arthropathy,3. T1DM,459292011
+459294012,Type I diabetes mellitus with arthropathy,3. T1DM,459294012
+459295013,Type I diabetes mellitus with neuropathic arthropathy,3. T1DM,459295013
+459296014,Type 1 diabetes mellitus with neuropathic arthropathy,3. T1DM,459296014
+459306016,Type II diabetes mellitus with peripheral angiopathy, 4.T2DM,459306016
+459308015,Type 2 diabetes mellitus with peripheral angiopathy, 4.T2DM,459308015
+459309011,Non-insulin dependent diabetes mellitus with arthropathy, 4.T2DM,459309011
+459310018,Type 2 diabetes mellitus with arthropathy, 4.T2DM,459310018
+459311019,Type II diabetes mellitus with arthropathy, 4.T2DM,459311019
+459312014,Type II diabetes mellitus with neuropathic arthropathy, 4.T2DM,459312014
+459313016,Type 2 diabetes mellitus with neuropathic arthropathy, 4.T2DM,459313016
+459694018,Diabetic lipid lowering diet,2. Possible diabetes,459694018
+459695017,Diabetic weight reducing diet,2. Possible diabetes,459695017
+459705019,Diabetes mellitus excluded,"6.DM, NOS",459705019
+461270012,[V]Screening for diabetes mellitus,"6.DM, NOS",461270012
+483882011,Diabetes mellitus autosomal dominant,"6.DM, NOS",483882011
+483886014,Maturity onset diabetes in youth,"6.DM, NOS",483886014
+493773010,NIDDM - Non-insulin dependent diabetes mellitus, 4.T2DM,493773010
+493774016,Type II diabetes mellitus, 4.T2DM,493774016
+494564012,Type I diabetes mellitus,3. T1DM,494564012
+1223147012,Insulin treated Type II diabetes mellitus, 4.T2DM,1223147012
+1223148019,Insulin treated non-insulin dependent diabetes mellitus, 4.T2DM,1223148019
+1227774019,[V]Dietary counselling in diabetes mellitus,2. Possible diabetes,1227774019
+1227832019,[V]Screening for diabetes mellitus (DM),"6.DM, NOS",1227832019
+1230890017,Autonomic neuropathy due to diabetes,"6.DM, NOS",1230890017
+1484867016,Non proliferative diabetic retinopathy,"6.DM, NOS",1484867016
+1484875010,Seen by diabetologist,2. Possible diabetes,1484875010
+1484883016,O/E - no right diabetic retinopathy,"6.DM, NOS",1484883016
+1484886012,O/E - no left diabetic retinopathy,"6.DM, NOS",1484886012
+1484887015,O/E - diabetic maculopathy present both eyes,"6.DM, NOS",1484887015
+1484888013,O/E - diabetic maculopathy absent both eyes,"6.DM, NOS",1484888013
+1484954015,DNA - Did not attend diabetic clinic,2. Possible diabetes,1484954015
+1488393013,O/E - Right diabetic foot at low risk,"6.DM, NOS",1488393013
+1488394019,O/E - Right diabetic foot at high risk,"6.DM, NOS",1488394019
+1488395018,O/E - Right diabetic foot - ulcerated,"6.DM, NOS",1488395018
+1488396017,O/E - Left diabetic foot - ulcerated,"6.DM, NOS",1488396017
+1488397014,O/E - Left diabetic foot at low risk,"6.DM, NOS",1488397014
+1488398016,O/E - Left diabetic foot at high risk,"6.DM, NOS",1488398016
+1488403015,O/E - Left diabetic foot at moderate risk,"6.DM, NOS",1488403015
+1488404014,O/E - Right diabetic foot at moderate risk,"6.DM, NOS",1488404014
+1488405010,Diabetic foot risk assessment,"6.DM, NOS",1488405010
+1488441010,Diabetes medication review,2. Possible diabetes,1488441010
+1488749011,Diabetic monitoring not required,2. Possible diabetes,1488749011
+1488822019,Urine screening test for diabetes,"6.DM, NOS",1488822019
+1488898011,Hyperosmolar non-ketotic state in type 2 diabetes mellitus, 4.T2DM,1488898011
+1780311019,Type 1 diabetes mellitus with persistent microalbuminuria,3. T1DM,1780311019
+1780386019,Diabetic foot examination,"6.DM, NOS",1780386019
+1785163015,High risk proliferative diabetic retinopathy,"6.DM, NOS",1785163015
+1785332013,Background diabetic retinopathy,"6.DM, NOS",1785332013
+2159170012,Patient on maximal tolerated therapy for diabetes,"6.DM, NOS",2159170012
+2159271018,Seen in diabetic foot clinic,2. Possible diabetes,2159271018
+2159948010,Diabetic retinopathy 12 month review,2. Possible diabetes,2159948010
+2159949019,Diabetic retinopathy 6 month review,2. Possible diabetes,2159949019
+2159955012,Under care of diabetologist,"6.DM, NOS",2159955012
+2159956013,Under care of diabetes specialist nurse,"6.DM, NOS",2159956013
+2159969012,Patient held diabetic record issued,"6.DM, NOS",2159969012
+2159973010,O/E - right eye background diabetic retinopathy,"6.DM, NOS",2159973010
+2159974016,O/E - left eye background diabetic retinopathy,"6.DM, NOS",2159974016
+2159975015,O/E - right eye preproliferative diabetic retinopathy,"6.DM, NOS",2159975015
+2159976019,O/E - left eye preproliferative diabetic retinopathy,"6.DM, NOS",2159976019
+2159977011,O/E - right eye proliferative diabetic retinopathy,"6.DM, NOS",2159977011
+2159978018,O/E - left eye proliferative diabetic retinopathy,"6.DM, NOS",2159978018
+2159979014,O/E - right eye diabetic maculopathy,"6.DM, NOS",2159979014
+2159980012,O/E - left eye diabetic maculopathy,"6.DM, NOS",2159980012
+2160025013,Diabetic medicine,"6.DM, NOS",2160025013
+2474309019,Diabetic foot examination declined,2. Possible diabetes,2474309019
+2474334019,Diabetes clinical management plan,2. Possible diabetes,2474334019
+2474726011,Pan retinal photocoagulation for diabetes,"6.DM, NOS",2474726011
+2476117016,Maturity onset diabetes in youth type 1,3. T1DM,2476117016
+2532974016,Transition of diabetes care options discussed,"6.DM, NOS",2532974016
+2532976019,O/E - left chronic diabetic foot ulcer,"6.DM, NOS",2532976019
+2532977011,O/E - right chronic diabetic foot ulcer,"6.DM, NOS",2532977011
+2533106011,Referral to diabetes preconception counselling clinic,2. Possible diabetes,2533106011
+2548271013,Diabetes care plan agreed,"6.DM, NOS",2548271013
+2548430017,Discharged from care of diabetes specialist nurse,2. Possible diabetes,2548430017
+2548633012,Patient held diabetic record declined,2. Possible diabetes,2548633012
+2549069011,Seen in community diabetes specialist clinic,2. Possible diabetes,2549069011
+2549222013,Seen in community diabetic specialist nurse clinic,2. Possible diabetes,2549222013
+2549778010,Seen in diabetic nurse consultant clinic,2. Possible diabetes,2549778010
+2549896013,O/E - sight threatening diabetic retinopathy,"6.DM, NOS",2549896013
+2549901010,Diabetic patient unsuitable for digital retinal photography,"6.DM, NOS",2549901010
+2622193012,Diabetes mellitus with ketoacidosis,"6.DM, NOS",2622193012
+2674067015,Latent autoimmune diabetes mellitus in adult, 4.T2DM,2674067015
+2990619013,Non-diabetic hyperglycaemia,"6.DM, NOS",2990619013
+5211000033113,Drugs Used In Diabetes,"6.DM, NOS",5211000033113
+13751000006117,Other specified diabetes mellitus with multiple comps,"6.DM, NOS",13751000006117
+13761000006115,Other specified diabetes mellitus with neurological comps,"6.DM, NOS",13761000006115
+13771000006110,Other specified diabetes mellitus with ophthalmic complicatn,"6.DM, NOS",13771000006110
+13781000006113,Other specified diabetes mellitus with other spec comps,"6.DM, NOS",13781000006113
+13791000006111,Other specified diabetes mellitus with periph circ comps,"6.DM, NOS",13791000006111
+13811000006110,Other specified diabetes mellitus with unspecified comps,"6.DM, NOS",13811000006110
+16171000000110,Diabetes monitoring admin.NOS,2. Possible diabetes,16171000000110
+21631000000117,Diabetes monitoring admin.,2. Possible diabetes,21631000000117
+25261000000111,Diabetes clinic administration,2. Possible diabetes,25261000000111
+38311000033119,Treatment Of Diabetic Neuropathy,"6.DM, NOS",38311000033119
+63021000000116,Diabetic diet - good compliance,2. Possible diabetes,63021000000116
+63041000000111,Diabetic diet - poor compliance,2. Possible diabetes,63041000000111
+72711000006117,Unstable type 1 diabetes mellitus,3. T1DM,72711000006117
+72721000006113,Unstable type I diabetes mellitus,3. T1DM,72721000006113
+84281000006115,Type 1 diabetes mellitus,3. T1DM,84281000006115
+84291000006117,Type 1 diabetes mellitus - poor control,3. T1DM,84291000006117
+84301000006116,Type 1 diabetes mellitus maturity onset,3. T1DM,84301000006116
+84311000006118,Type 1 diabetes mellitus with arthropathy,3. T1DM,84311000006118
+84321000006114,Type 1 diabetes mellitus with diabetic cataract,3. T1DM,84321000006114
+84331000006112,Type 1 diabetes mellitus with gangrene,3. T1DM,84331000006112
+84341000006119,Type 1 diabetes mellitus with hypoglycaemic coma,3. T1DM,84341000006119
+84351000006117,Type 1 diabetes mellitus with mononeuropathy,3. T1DM,84351000006117
+84361000006115,Type 1 diabetes mellitus with multiple complications,3. T1DM,84361000006115
+84371000006110,Type 1 diabetes mellitus with nephropathy,3. T1DM,84371000006110
+84381000006113,Type 1 diabetes mellitus with neurological complications,3. T1DM,84381000006113
+84391000006111,Type 1 diabetes mellitus with neuropathic arthropathy,3. T1DM,84391000006111
+84401000006113,Type 1 diabetes mellitus with ophthalmic complications,3. T1DM,84401000006113
+84421000006115,Type 1 diabetes mellitus with polyneuropathy,3. T1DM,84421000006115
+84431000006117,Type 1 diabetes mellitus with renal complications,3. T1DM,84431000006117
+84441000006110,Type 1 diabetes mellitus with retinopathy,3. T1DM,84441000006110
+84451000006112,Type 1 diabetes mellitus with ulcer,3. T1DM,84451000006112
+84461000006114,Type 1 diabetes mellitus without complication,3. T1DM,84461000006114
+84471000006119,Type 2 diabetes mellitus, 4.T2DM,84471000006119
+84481000006116,Type 2 diabetes mellitus - poor control, 4.T2DM,84481000006116
+84491000006118,Type 2 diabetes mellitus with arthropathy, 4.T2DM,84491000006118
+84501000006114,Type 2 diabetes mellitus with diabetic cataract, 4.T2DM,84501000006114
+84511000006112,Type 2 diabetes mellitus with gangrene, 4.T2DM,84511000006112
+84521000006116,Type 2 diabetes mellitus with hypoglycaemic coma, 4.T2DM,84521000006116
+84531000006118,Type 2 diabetes mellitus with mononeuropathy, 4.T2DM,84531000006118
+84541000006111,Type 2 diabetes mellitus with multiple complications, 4.T2DM,84541000006111
+84551000006113,Type 2 diabetes mellitus with nephropathy, 4.T2DM,84551000006113
+84561000006110,Type 2 diabetes mellitus with neurological complications, 4.T2DM,84561000006110
+84571000006115,Type 2 diabetes mellitus with neuropathic arthropathy, 4.T2DM,84571000006115
+84581000006117,Type 2 diabetes mellitus with ophthalmic complications, 4.T2DM,84581000006117
+84591000006119,Type 2 diabetes mellitus with peripheral angiopathy, 4.T2DM,84591000006119
+84601000006110,Type 2 diabetes mellitus with polyneuropathy, 4.T2DM,84601000006110
+84611000006113,Type 2 diabetes mellitus with renal complications, 4.T2DM,84611000006113
+84621000006117,Type 2 diabetes mellitus with retinopathy, 4.T2DM,84621000006117
+84631000006119,Type 2 diabetes mellitus with ulcer, 4.T2DM,84631000006119
+84641000006112,Type 2 diabetes mellitus without complication, 4.T2DM,84641000006112
+84651000006114,Type I diabetes mellitus,3. T1DM,84651000006114
+84661000006111,Type I diabetes mellitus - poor control,3. T1DM,84661000006111
+84671000006116,Type I diabetes mellitus maturity onset,3. T1DM,84671000006116
+84681000006118,Type I diabetes mellitus with arthropathy,3. T1DM,84681000006118
+84691000006115,Type I diabetes mellitus with diabetic cataract,3. T1DM,84691000006115
+84701000006115,Type I diabetes mellitus with gangrene,3. T1DM,84701000006115
+84711000006117,Type I diabetes mellitus with hypoglycaemic coma,3. T1DM,84711000006117
+84721000006113,Type I diabetes mellitus with mononeuropathy,3. T1DM,84721000006113
+84731000006111,Type I diabetes mellitus with multiple complications,3. T1DM,84731000006111
+84741000006118,Type I diabetes mellitus with nephropathy,3. T1DM,84741000006118
+84751000006116,Type I diabetes mellitus with neurological complications,3. T1DM,84751000006116
+84761000006119,Type I diabetes mellitus with neuropathic arthropathy,3. T1DM,84761000006119
+84771000006114,Type I diabetes mellitus with ophthalmic complications,3. T1DM,84771000006114
+84791000006110,Type I diabetes mellitus with polyneuropathy,3. T1DM,84791000006110
+84801000006111,Type I diabetes mellitus with renal complications,3. T1DM,84801000006111
+84811000006114,Type I diabetes mellitus with retinopathy,3. T1DM,84811000006114
+84821000006118,Type I diabetes mellitus with ulcer,3. T1DM,84821000006118
+84831000006115,Type I diabetes mellitus without complication,3. T1DM,84831000006115
+84841000006113,Type II diabetes mellitus, 4.T2DM,84841000006113
+84851000006110,Type II diabetes mellitus - poor control, 4.T2DM,84851000006110
+84861000006112,Type II diabetes mellitus with arthropathy, 4.T2DM,84861000006112
+84871000006117,Type II diabetes mellitus with diabetic cataract, 4.T2DM,84871000006117
+84881000006119,Type II diabetes mellitus with gangrene, 4.T2DM,84881000006119
+84891000006116,Type II diabetes mellitus with hypoglycaemic coma, 4.T2DM,84891000006116
+84901000006117,Type II diabetes mellitus with mononeuropathy, 4.T2DM,84901000006117
+84911000006119,Type II diabetes mellitus with multiple complications, 4.T2DM,84911000006119
+84921000006110,Type II diabetes mellitus with nephropathy, 4.T2DM,84921000006110
+84931000006113,Type II diabetes mellitus with neurological complications, 4.T2DM,84931000006113
+84941000006115,Type II diabetes mellitus with neuropathic arthropathy, 4.T2DM,84941000006115
+84951000006118,Type II diabetes mellitus with ophthalmic complications, 4.T2DM,84951000006118
+84961000006116,Type II diabetes mellitus with peripheral angiopathy, 4.T2DM,84961000006116
+84971000006111,Type II diabetes mellitus with polyneuropathy, 4.T2DM,84971000006111
+84981000006114,Type II diabetes mellitus with renal complications, 4.T2DM,84981000006114
+84991000006112,Type II diabetes mellitus with retinopathy, 4.T2DM,84991000006112
+85001000006117,Type II diabetes mellitus with ulcer, 4.T2DM,85001000006117
+85011000006119,Type II diabetes mellitus without complication, 4.T2DM,85011000006119
+139001000000110,Exception reporting: diabetes quality indicators,2. Possible diabetes,139001000000110
+139121000000119,Excepted from diabetes quality indicators: Informed dissent,2. Possible diabetes,139121000000119
+147481000006113,Self monitoring of blood and urine glucose,2. Possible diabetes,147481000006113
+147491000006111,Self monitoring of blood glucose,2. Possible diabetes,147491000006111
+147501000006115,Self monitoring of urine glucose,2. Possible diabetes,147501000006115
+169731000006118,Retinal abnormality - diabetes related,"6.DM, NOS",169731000006118
+189711000000119,Lipoatrophic diabetes mellitus without complication,"6.DM, NOS",189711000000119
+189831000000116,Informed consent for diabetes national audit,"6.DM, NOS",189831000000116
+189841000000113,Informed dissent for diabetes national audit,"6.DM, NOS",189841000000113
+200111000006116,Pt advised re diabetic diet,2. Possible diabetes,200111000006116
+213141000006111,"Pre-existing diabetes mellitus, unspecified","6.DM, NOS",213141000006111
+214921000006116,Polyneuropathy in diabetes,"6.DM, NOS",214921000006116
+223291000000111,Maturity onset diabetes,"6.DM, NOS",223291000000111
+254831000033118,Pholcomed Forte Diabetic,"6.DM, NOS",254831000033118
+280511000006113,Non-insulin dependent diabetes mellitus with hypoglyca coma, 4.T2DM,280511000006113
+280521000006117,Non-insulin dependent diabetes mellitus with mononeuropathy, 4.T2DM,280521000006117
+280531000006119,Non-insulin dependent diabetes mellitus with nephropathy, 4.T2DM,280531000006119
+280541000006112,Non-insulin dependent diabetes mellitus with polyneuropathy, 4.T2DM,280541000006112
+280551000006114,Non-insulin dependent diabetes mellitus with ulcer, 4.T2DM,280551000006114
+280561000006111,Non-insulin-dependent d m with peripheral angiopath, 4.T2DM,280561000006111
+280571000006116,Non-insulin dependent diabetes mellitus, 4.T2DM,280571000006116
+280581000006118,Non-insulin-dependent diabetes mellitus with multiple comps, 4.T2DM,280581000006118
+280591000006115,Non-insulin-dependent diabetes mellitus with neuro comps, 4.T2DM,280591000006115
+281161000006114,Non-insulin depend diabetes mellitus with diabetic cataract, 4.T2DM,281161000006114
+281171000006119,Non-insulin dependent diabetes mellitus - poor control, 4.T2DM,281171000006119
+281181000006116,Non-insulin dependent d m with neuropathic arthropathy, 4.T2DM,281181000006116
+281211000006117,Non-insulin dependent diabetes mellitus with gangrene, 4.T2DM,281211000006117
+298811000000118,Insulin therapy declined,2. Possible diabetes,298811000000118
+299191000000110,Insulin needles changed daily,"6.DM, NOS",299191000000110
+299211000000114,Insulin needles changed for each injection,"6.DM, NOS",299211000000114
+299261000000111,Diabetic 6 month review,2. Possible diabetes,299261000000111
+299601000000114,Type 1 diabetes mellitus with gastroparesis,3. T1DM,299601000000114
+299621000000117,Type 2 diabetes mellitus with gastroparesis, 4.T2DM,299621000000117
+299991000000112,Referral to multidisciplinary diabetic clinic,2. Possible diabetes,299991000000112
+300021000000110,Seen in multidisciplinary diabetic clinic,2. Possible diabetes,300021000000110
+301161000000113,Insulin needles changed less than once a day,"6.DM, NOS",301161000000113
+301191000000119,Did not attend diabetic retinopathy clinic,2. Possible diabetes,301191000000119
+301611000000118,Diabetic monitoring - lower risk albumin excretion,2. Possible diabetes,301611000000118
+301641000000117,Diabetic monitoring - higher risk albumin excretion,2. Possible diabetes,301641000000117
+307661000000114,Referral to diabetic register,"6.DM, NOS",307661000000114
+308071000000112,Patient consent given for addition to diabetic register,"6.DM, NOS",308071000000112
+308811000000110,Referral to diabetic eye clinic,"6.DM, NOS",308811000000110
+341631000033110,Pholcomed Diabetic,"6.DM, NOS",341631000033110
+354651000006115,[X] Adverse reaction to insulins,"6.DM, NOS",354651000006115
+354661000006118,[X] Adverse reaction to insulins and antidiabetic agents,"6.DM, NOS",354661000006118
+354671000006113,[X] Adverse reaction to insulins and antidiabetic agents NOS,"6.DM, NOS",354671000006113
+377001000006117,[X]Diabetes mellitus,"6.DM, NOS",377001000006117
+468181000006111,Adverse reaction to insulins,"6.DM, NOS",468181000006111
+468191000006114,Adverse reaction to insulins and antidiabetic agents,"6.DM, NOS",468191000006114
+472901000000116,Insulin dose changed,"6.DM, NOS",472901000000116
+479511000000117,Diabetes type 1 review,3. T1DM,479511000000117
+479571000000110,Diabetes type 2 review, 4.T2DM,479571000000110
+479981000000119,Referral to community diabetes specialist nurse,2. Possible diabetes,479981000000119
+494831000000119,Cystic fibrosis related diabetes mellitus,"6.DM, NOS",494831000000119
+580131000033119,Diabetamide,"6.DM, NOS",580131000033119
+587111000006111,Non-insulin-dependent diabetes mellitus with ophthalm comps, 4.T2DM,587111000006111
+587521000006111,Non-insulin-dependent diabetes mellitus with renal comps, 4.T2DM,587521000006111
+607851000006113,Date diabetic treatment stopp.,2. Possible diabetes,607851000006113
+616351000006115,Diabetes mellitus with gangrene,"6.DM, NOS",616351000006115
+616381000006111,Diabetes mellitus with ketoacidotic coma,"6.DM, NOS",616381000006111
+616391000006114,Diabetes mellitus with neurological manifestation,"6.DM, NOS",616391000006114
+616421000006118,Diabetes mellitus with ophthalmic manifestation,"6.DM, NOS",616421000006118
+616441000006113,Diabetes mellitus with peripheral circulatory disorder,"6.DM, NOS",616441000006113
+616451000006110,Diabetes mellitus with polyneuropathy,"6.DM, NOS",616451000006110
+616461000006112,Diabetes mellitus with renal manifestation,"6.DM, NOS",616461000006112
+616481000006119,"Diabetes mellitus, adult onset, + neurological manifestation", 4.T2DM,616481000006119
+616491000006116,"Diabetes mellitus, adult onset, + ophthalmic manifestation", 4.T2DM,616491000006116
+616531000006116,"Diabetes mellitus, adult onset, with ketoacidosis", 4.T2DM,616531000006116
+616541000006114,"Diabetes mellitus, adult onset, with ketoacidotic coma", 4.T2DM,616541000006114
+616551000006111,"Diabetes mellitus, adult onset, with renal manifestation", 4.T2DM,616551000006111
+616561000006113,"Diabetes mellitus, adult with gangrene", 4.T2DM,616561000006113
+616571000006118,"Diabetes mellitus, adult, + other specified manifestation", 4.T2DM,616571000006118
+616581000006115,"Diabetes mellitus, adult, + peripheral circulatory disorder", 4.T2DM,616581000006115
+616591000006117,"Diabetes mellitus, juvenile +peripheral circulatory disorder",3. T1DM,616591000006117
+616601000006113,"Diabetes mellitus, juvenile type, + ophthalmic manifestation",3. T1DM,616601000006113
+616641000006110,"Diabetes mellitus, juvenile type, with ketoacidosis",3. T1DM,616641000006110
+616651000006112,"Diabetes mellitus, juvenile type, with ketoacidotic coma",3. T1DM,616651000006112
+616661000006114,"Diabetes mellitus, juvenile type, with renal manifestation",3. T1DM,616661000006114
+616671000006119,"Diabetes mellitus, juvenile, + neurological manifestation",3. T1DM,616671000006119
+616681000006116,"Diabetes mellitus, juvenile, + other specified manifestation",3. T1DM,616681000006116
+616691000006118,Diabetes monitor. check done,2. Possible diabetes,616691000006118
+616701000006118,Diabetes monitor.phone invite,2. Possible diabetes,616701000006118
+616711000006115,Diabetes monitor.verbal invite,2. Possible diabetes,616711000006115
+616731000006114,Diabetes monitoring 1st letter,2. Possible diabetes,616731000006114
+616741000006116,Diabetes monitoring 2nd letter,2. Possible diabetes,616741000006116
+616751000006119,Diabetes monitoring 3rd letter,2. Possible diabetes,616751000006119
+616821000006116,Diabetes well being questionnaire,"6.DM, NOS",616821000006116
+616831000006118,Diabetes with gangrene,"6.DM, NOS",616831000006118
+616891000006119,Diabetic - moderate control,"6.DM, NOS",616891000006119
+616921000006113,Diabetic amyotrophy,"6.DM, NOS",616921000006113
+616971000006114,Diabetic Charcot arthropathy,"6.DM, NOS",616971000006114
+617041000006117,Diabetic Foot Risk Assessment,"6.DM, NOS",617041000006117
+620171000000113,Referral to diabetes special interest general practitioner,2. Possible diabetes,620171000000113
+640011000006114,Emergency Diabetic Admission since last appointment,"6.DM, NOS",640011000006114
+641581000006115,Non-insulin-dependent diabetes mellitus with retinopathy, 4.T2DM,641581000006115
+643691000000114,Insulin initiation - enhanced services administration,"6.DM, NOS",643691000000114
+646031000000112,Insulin treatment initiated,"6.DM, NOS",646031000000112
+674961000006118,NIDDM with peripheral circulatory disorder, 4.T2DM,674961000006118
+733161000000116,Impaired vision due to diabetic retinopathy,"6.DM, NOS",733161000000116
+777231000006119,Injection sites - diabetic,"6.DM, NOS",777231000006119
+840951000006119,Insulin treated Type 2 diabetes mellitus, 4.T2DM,840951000006119
+840971000006112,Diabetes mellitus autosomal dominant type 2, 4.T2DM,840971000006112
+841011000006112,High risk non proliferative diabetic retinopathy,"6.DM, NOS",841011000006112
+841351000006110,Insulin treated Type II diabetes mellitus, 4.T2DM,841351000006110
+850691000006118,Hyperosmolar non-ketotic state in type 2 diabetes mellitus, 4.T2DM,850691000006118
+856531000006119,Diabetic - GP eye check,"6.DM, NOS",856531000006119
+856551000006114,Diabetic - hospital eye check,"6.DM, NOS",856551000006114
+856561000006111,Diabetic foot risk assessment,"6.DM, NOS",856561000006111
+856611000006114,Laser treated diabetic retinopathy,"6.DM, NOS",856611000006114
+856621000006118,Left proliferative diabetic retinopathy,"6.DM, NOS",856621000006118
+856631000006115,Left laser treated diabetic retinopathy,"6.DM, NOS",856631000006115
+856641000006113,Left diabetic maculopathy,"6.DM, NOS",856641000006113
+856651000006110,Left advanced diabetic retinal disease,"6.DM, NOS",856651000006110
+856661000006112,Left diabetic foot active ulceration,"6.DM, NOS",856661000006112
+856671000006117,Left diabetic foot high risk,"6.DM, NOS",856671000006117
+856681000006119,Left diabetic foot moderate risk,"6.DM, NOS",856681000006119
+856691000006116,Left diabetic foot low current risk,"6.DM, NOS",856691000006116
+856771000006110,Patient has been told has diabetes,"6.DM, NOS",856771000006110
+857031000006113,Left non-proliferative diabetic retinopathy,"6.DM, NOS",857031000006113
+857051000006118,Left preproliferative diabetic retinopathy,"6.DM, NOS",857051000006118
+857411000006110,Right proliferative diabetic retinopathy,"6.DM, NOS",857411000006110
+857421000006119,Right laser treated diabetic retinopathy,"6.DM, NOS",857421000006119
+857431000006116,Right diabetic maculopathy,"6.DM, NOS",857431000006116
+857441000006114,Right advanced diabetic retinal disease,"6.DM, NOS",857441000006114
+857691000006119,Right diabetic foot active ulceration,"6.DM, NOS",857691000006119
+857721000006112,Right diabetic foot high risk,"6.DM, NOS",857721000006112
+857741000006117,Right diabetic foot moderate risk,"6.DM, NOS",857741000006117
+857761000006118,Right diabetic foot low current risk,"6.DM, NOS",857761000006118
+857971000006110,Right non-proliferative diabetic retinopathy,"6.DM, NOS",857971000006110
+857981000006113,Right preproliferative diabetic retinopathy,"6.DM, NOS",857981000006113
+881441000006111,Diabetes mellitus - juvenile,3. T1DM,881441000006111
+881451000006113,Diabetes mellitus -adult onset, 4.T2DM,881451000006113
+881461000006110,Diabetes+ketoacidosis -no coma,"6.DM, NOS",881461000006110
+881471000006115,Diabetes with coma,"6.DM, NOS",881471000006115
+881481000006117,Diabetes + nephropathy,"6.DM, NOS",881481000006117
+881491000006119,Diabetes + eye manifestation,"6.DM, NOS",881491000006119
+881501000006110,Diabetes + neuropathy,"6.DM, NOS",881501000006110
+881511000006113,Diabetes + periph.circulat.dis,"6.DM, NOS",881511000006113
+881521000006117,Diabetes + other complications,"6.DM, NOS",881521000006117
+894461000006112,Diabetic mother syndrome,"6.DM, NOS",894461000006112
+902201000006112,Reaction: insulin/antidiabetic,"6.DM, NOS",902201000006112
+905621000006113,[RFC] Diabetes,"6.DM, NOS",905621000006113
+906711000006116,[RFC] Diabetic foot/leg ulcer,"6.DM, NOS",906711000006116
+908831000006118,[RFC] Diabetes mellitus,"6.DM, NOS",908831000006118
+910211000006114,[RFC] Diabetic health promotion,"6.DM, NOS",910211000006114
+910491000006117,[RFC] Diabetic leg ulcer,"6.DM, NOS",910491000006117
+910501000006113,[RFC] Diabetic foot ulcer,"6.DM, NOS",910501000006113
+913451000006117,Type 1 diabetes mellitus with renal complications,3. T1DM,913451000006117
+913461000006115,Type I diabetes mellitus with renal complications,3. T1DM,913461000006115
+913481000006113,Type 1 diabetes mellitus with ophthalmic complications,3. T1DM,913481000006113
+913491000006111,Type I diabetes mellitus with ophthalmic complications,3. T1DM,913491000006111
+913511000006117,Type 1 diabetes mellitus with neurological complications,3. T1DM,913511000006117
+913521000006113,Type I diabetes mellitus with neurological complications,3. T1DM,913521000006113
+913541000006118,Type 1 diabetes mellitus with multiple complications,3. T1DM,913541000006118
+913551000006116,Type I diabetes mellitus with multiple complications,3. T1DM,913551000006116
+913661000006118,Type 1 diabetes mellitus with retinopathy,3. T1DM,913661000006118
+913671000006113,Type I diabetes mellitus with retinopathy,3. T1DM,913671000006113
+913781000006117,Type 1 diabetes mellitus with mononeuropathy,3. T1DM,913781000006117
+913791000006119,Type I diabetes mellitus with mononeuropathy,3. T1DM,913791000006119
+913811000006115,Type 1 diabetes mellitus with polyneuropathy,3. T1DM,913811000006115
+913821000006111,Type I diabetes mellitus with polyneuropathy,3. T1DM,913821000006111
+913841000006116,Type 1 diabetes mellitus with nephropathy,3. T1DM,913841000006116
+913851000006119,Type I diabetes mellitus with nephropathy,3. T1DM,913851000006119
+913901000006112,Type 1 diabetes mellitus with diabetic cataract,3. T1DM,913901000006112
+913911000006110,Type I diabetes mellitus with diabetic cataract,3. T1DM,913911000006110
+914031000006118,Type 2 diabetes mellitus with renal complications, 4.T2DM,914031000006118
+914041000006111,Type II diabetes mellitus with renal complications, 4.T2DM,914041000006111
+914051000006113,Type 2 diabetes mellitus with ophthalmic complications, 4.T2DM,914051000006113
+914061000006110,Type II diabetes mellitus with ophthalmic complications, 4.T2DM,914061000006110
+914071000006115,Type 2 diabetes mellitus with neurological complications, 4.T2DM,914071000006115
+914081000006117,Type II diabetes mellitus with neurological complications, 4.T2DM,914081000006117
+914151000006112,Type 2 diabetes mellitus with retinopathy, 4.T2DM,914151000006112
+914161000006114,Type II diabetes mellitus with retinopathy, 4.T2DM,914161000006114
+914221000006113,Type 2 diabetes mellitus with mononeuropathy, 4.T2DM,914221000006113
+914231000006111,Type II diabetes mellitus with mononeuropathy, 4.T2DM,914231000006111
+914241000006118,Type 2 diabetes mellitus with polyneuropathy, 4.T2DM,914241000006118
+914251000006116,Type II diabetes mellitus with polyneuropathy, 4.T2DM,914251000006116
+914261000006119,Type 2 diabetes mellitus with nephropathy, 4.T2DM,914261000006119
+914271000006114,Type II diabetes mellitus with nephropathy, 4.T2DM,914271000006114
+914301000006111,Type 2 diabetes mellitus with diabetic cataract, 4.T2DM,914301000006111
+914311000006114,Type II diabetes mellitus with diabetic cataract, 4.T2DM,914311000006114
+914391000006116,Insulin treated Type 2 diabetes mellitus, 4.T2DM,914391000006116
+918281000006116,Pt advised re diabetic diet,2. Possible diabetes,918281000006116
+928461000006119,Type 1 diabetes mellitus with persistent proteinuria,3. T1DM,928461000006119
+928471000006114,Type I diabetes mellitus with persistent proteinuria,3. T1DM,928471000006114
+928491000006110,Type I diabetes mellitus with persistent microalbuminuria,3. T1DM,928491000006110
+928501000006119,Type 1 diabetes mellitus with ketoacidosis,3. T1DM,928501000006119
+928511000006116,Type I diabetes mellitus with ketoacidosis,3. T1DM,928511000006116
+928521000006112,Type 1 diabetes mellitus with ketoacidotic coma,3. T1DM,928521000006112
+928531000006110,Type I diabetes mellitus with ketoacidotic coma,3. T1DM,928531000006110
+928541000006117,Type 2 diabetes mellitus with persistent proteinuria, 4.T2DM,928541000006117
+928551000006115,Type II diabetes mellitus with persistent proteinuria, 4.T2DM,928551000006115
+928561000006118,Type 2 diabetes mellitus with persistent microalbuminuria, 4.T2DM,928561000006118
+928571000006113,Type II diabetes mellitus with persistent microalbuminuria, 4.T2DM,928571000006113
+928581000006111,Type 2 diabetes mellitus with ketoacidosis, 4.T2DM,928581000006111
+928591000006114,Type II diabetes mellitus with ketoacidosis, 4.T2DM,928591000006114
+928601000006118,Type 2 diabetes mellitus with ketoacidotic coma, 4.T2DM,928601000006118
+928611000006115,Type II diabetes mellitus with ketoacidotic coma, 4.T2DM,928611000006115
+931191000006110,Excepted from diabetes qual indicators: Patient unsuitable,2. Possible diabetes,931191000006110
+932641000006116,Diabetes with coma,"6.DM, NOS",932641000006116
+933211000006112,DM + persist microalbuminuria,"6.DM, NOS",933211000006112
+933221000006116,DM + persistent proteinuria,"6.DM, NOS",933221000006116
+933231000006118,Hypo states in diabetes,"6.DM, NOS",933231000006118
+938301000006114,Type 1 diabetes mellitus with exudative maculopathy,3. T1DM,938301000006114
+938311000006112,Type I diabetes mellitus with exudative maculopathy,3. T1DM,938311000006112
+938321000006116,Type 2 diabetes mellitus with exudative maculopathy, 4.T2DM,938321000006116
+938331000006118,Type II diabetes mellitus with exudative maculopathy, 4.T2DM,938331000006118
+942641000006117,DM(A),"6.DM, NOS",942641000006117
+967701000006116,Lipoatrophic diabetes mellitus,"6.DM, NOS",967701000006116
+975251000006111,O/E - right eye stable treated prolif diabetic retinopathy,"6.DM, NOS",975251000006111
+975261000006113,O/E - left eye stable treated prolif diabetic retinopathy,"6.DM, NOS",975261000006113
+987441000006113,Six month diabetic review,2. Possible diabetes,987441000006113
+1013661000006110,Adverse reaction to Drugs Used In Diabetes,"6.DM, NOS",1013661000006110
+1013751000006115,Adverse reaction to Treatment Of Diabetic Neuropathy,"6.DM, NOS",1013751000006115
+1052281000006116,Adverse reaction to Pholcomed Forte Diabetic,"6.DM, NOS",1052281000006116
+1060021000006117,Adverse reaction to Pholcomed Diabetic,"6.DM, NOS",1060021000006117
+1065811000000118,Discharged from diabetes shared care programme,2. Possible diabetes,1065811000000118
+1094311000006115,Adverse reaction to Diabetamide,"6.DM, NOS",1094311000006115
+1100981000006112,Adverse reaction to Codeine Linctus Diabetic,"6.DM, NOS",1100981000006112
+1139861000000119,Declined consent for diabetes year of care programme,2. Possible diabetes,1139861000000119
+1162341000000110,Insulin treatment stopped,2. Possible diabetes,1162341000000110
+1177721000000112,Diabetic on subcutaneous treatment,"6.DM, NOS",1177721000000112
+1550571000000114,Jamaica type diabetes,"6.DM, NOS",1550571000000114
+1583891000006119,Ineligib for diab. eye screen: No longer categorised as diabetic,"6.DM, NOS",1583891000006119
+1627291000006113,Did not complete DESMOND diabetes structured educat program,2. Possible diabetes,1627291000006113
+1628691000006114,Seen by general practitioner special interest in diabetes,2. Possible diabetes,1628691000006114
+1658821000000117,Diabetic dietary review,2. Possible diabetes,1658821000000117
+1658861000000113,Type I diabetic dietary review,3. T1DM,1658861000000113
+1658901000000118,Type II diabetic dietary review, 4.T2DM,1658901000000118
+1658941000000115,Diabetic dietary review declined,2. Possible diabetes,1658941000000115
+1665721000000112,Type 2 diabetic dietary review, 4.T2DM,1665721000000112
+1665751000000119,Type 1 diabetic dietary review,3. T1DM,1665751000000119
+1666911000000113,O/E - Left diabetic foot at increased risk,"6.DM, NOS",1666911000000113
+1666931000000117,O/E - Right diabetic foot at increased risk,"6.DM, NOS",1666931000000117
+1667891000000113,Hyperosmolar non-ketotic state in type II diabetes mellitus, 4.T2DM,1667891000000113
+1667921000000117,Type II diabetes mellitus with gastroparesis, 4.T2DM,1667921000000117
+1667941000000112,Type I diabetes mellitus with gastroparesis,3. T1DM,1667941000000112
+1682711000006119,Declined referral to DESMOND diabet. structured educat programme,2. Possible diabetes,1682711000006119
+1694761000006113,Newly diagnosed diabetes,"6.DM, NOS",1694761000006113
+1696331000006114,Diabetic dermopathy,"6.DM, NOS",1696331000006114
+1707491000000116,Suspected diabetes mellitus,2. Possible diabetes,1707491000000116
+1713371000006112,Diabetic medicine,"6.DM, NOS",1713371000006112
+1724331000006117,Insulin treatment stopped,2. Possible diabetes,1724331000006117
+1734721000000114,Diabetic assessment of erectile dysfunction,2. Possible diabetes,1734721000000114
+1754911000006114,Excepted from diabetes qual indicators: service unavailable,2. Possible diabetes,1754911000006114
+1755441000006119,Diabetes monitor invitation by SMS (short message service),2. Possible diabetes,1755441000006119
+1757221000006115,Suspected diabetes mellitus,2. Possible diabetes,1757221000006115
+1759911000000118,Diabetes care plan declined,2. Possible diabetes,1759911000000118
+1763361000006116,Participant in ASCEND(A Study of Cardiovascu.Events in Diabetes),"6.DM, NOS",1763361000006116
+1773381000006119,Seen in in-house nurse-led diabetic clinic,2. Possible diabetes,1773381000006119
+1775381000006118,Referred to Diabetes Service,2. Possible diabetes,1775381000006118
+1776581000006117,Reason for referral: Diabetes,2. Possible diabetes,1776581000006117
+1780981000006115,Diabetic on non-insulin injectable,"6.DM, NOS",1780981000006115
+1809221000006115,High risk of diabetes mellitus,"6.DM, NOS",1809221000006115
+1822191000006112,Diabetes pathway protocol not followed,"6.DM, NOS",1822191000006112
+1822391000006114,Date other antidiabetic drug started,"6.DM, NOS",1822391000006114
+1823471000006110,Diabetes mellitus high risk review,2. Possible diabetes,1823471000006110
+1823921000006119,Diabetes mellitus confirmed,"6.DM, NOS",1823921000006119
+1824081000006117,Diabetes clinical pathway protocol followed,"6.DM, NOS",1824081000006117
+1824571000006112,Referral to walking away from diabetes programme,2. Possible diabetes,1824571000006112
+1824581000006110,Referral to walking away from diabetes programme declined,2. Possible diabetes,1824581000006110
+1824641000006115,Advised about diabetes and driving,"6.DM, NOS",1824641000006115
+1824931000006119,Home visit for diabetes monitoring,2. Possible diabetes,1824931000006119
+1839671000006113,Diabetic short review,2. Possible diabetes,1839671000006113
+1842001000006118,Diabetic annual review by practice nurse,2. Possible diabetes,1842001000006118
+1850931000006111,Reason for influenza vaccine - diabetes mellitus,"6.DM, NOS",1850931000006111
+1854821000006113,Diabetes year of care annual review,2. Possible diabetes,1854821000006113
+1855341000006113,Conversion to insulin by hospital,"6.DM, NOS",1855341000006113
+1855351000006110,Conversion to insulin by diabetic specialist nurse,"6.DM, NOS",1855351000006110
+1856641000006113,Diabetes monitoring in primary care,2. Possible diabetes,1856641000006113
+1856651000006110,Diabetes monitoring in secondary care,2. Possible diabetes,1856651000006110
+1856661000006112,Diabetes treatment type,"6.DM, NOS",1856661000006112
+1859611000006117,Diabetic - eye check,"6.DM, NOS",1859611000006117
+1868141000006110,Referral to DAFNE diabetes structured educn prog declined,2. Possible diabetes,1868141000006110
+1873301000006114,Care contact service: diabetes,"6.DM, NOS",1873301000006114
+1876341000006117,Diabetic 3 month review,2. Possible diabetes,1876341000006117
+1877371000006111,Diabetes clinical management plan no longer in place,2. Possible diabetes,1877371000006111
+1884591000006118,Further diabetic monitoring,2. Possible diabetes,1884591000006118
+1891061000006117,Participant in Diabetes Aerobic and Resistance Exercise study,"6.DM, NOS",1891061000006117
+1918361000006116,Diabetes care planning test results sent to patient,"6.DM, NOS",1918361000006116
+1932051000006114,3D study - problems with diabetes management,2. Possible diabetes,1932051000006114
+1934931000006112,Adverse reaction to Allpresan Diabetic,"6.DM, NOS",1934931000006112
+1935341000006117,Patient in diabetes study,"6.DM, NOS",1935341000006117
+1947151000006112,Joint consultn pracse nurse & comm diabetes specialist nurse,"6.DM, NOS",1947151000006112
+1947161000006114,Joint consultation GP & community diabetes specialist nurse,"6.DM, NOS",1947161000006114
+1954041000006119,Diabetic - uses carbohydrate counting,"6.DM, NOS",1954041000006119
+1955171000006110,Keele ENHANCE trial - diabetic review,2. Possible diabetes,1955171000006110
+1960611000006113,Diabetic foot examination - action required,"6.DM, NOS",1960611000006113
+1960621000006117,Diabetic foot examination - no action required,"6.DM, NOS",1960621000006117
+1966311000006116,Diabetic on oral treatment and glucagon-like peptide 1,"6.DM, NOS",1966311000006116
+1966321000006112,Diabetic on insulin and glucagon-like peptide 1,"6.DM, NOS",1966321000006112
+1968641000006114,Maturity onset diabetes of the young type 5,"6.DM, NOS",1968641000006114
+1984081000006115,Manchester triage - Diabetes,"6.DM, NOS",1984081000006115
+1987971000006114,X-PERT First Steps diabetes self-management programme complt,2. Possible diabetes,1987971000006114
+1994041000006110,High risk of diabetes mellitus annual review declined,2. Possible diabetes,1994041000006110
+1999901000006113,Adverse reaction to Glucorx Allpresan Diabetic,"6.DM, NOS",1999901000006113
+2115761000000117,Diabetes self-management plan review,2. Possible diabetes,2115761000000117
+2116661000000116,Referral to community diabetes service,2. Possible diabetes,2116661000000116
+2117891000000114,Diabetes self-management plan agreed,2. Possible diabetes,2117891000000114
+2156571000000116,Provision of diabetes clinical summary,"6.DM, NOS",2156571000000116
+2168531000033119,Allpresan Diabetic,"6.DM, NOS",2168531000033119
+2174191000000118,High risk of diabetes mellitus,"6.DM, NOS",2174191000000118
+2176771000000110,Referral to community diabetes specialist nurse declined,2. Possible diabetes,2176771000000110
+2182651000000118,Referral to community diabetes clinic,2. Possible diabetes,2182651000000118
+2203931000000113,High risk of diabetes mellitus annual review,2. Possible diabetes,2203931000000113
+2205911000000116,Diabetes clinical pathway,"6.DM, NOS",2205911000000116
+2243331000000115,Erectile dysfunction due to diabetes mellitus,"6.DM, NOS",2243331000000115
+2262341000000113,Conversion to insulin in secondary care,"6.DM, NOS",2262341000000113
+2262381000000117,Conversion to insulin by diabetes specialist nurse,"6.DM, NOS",2262381000000117
+2285231000033114,Glucorx Allpresan Diabetic,"6.DM, NOS",2285231000033114
+2287311000000111,Diabetes Year of Care annual review,2. Possible diabetes,2287311000000111
+2337941000000112,Diabetes Distress Scale 2 item,"6.DM, NOS",2337941000000112
+2338051000000112,Diabetes Distress Scale 17 item,"6.DM, NOS",2338051000000112
+2380481000000115,Enquiry about diabetic erectile dysfunction declined,2. Possible diabetes,2380481000000115
+2415191000000113,Diabetic peripheral neuropathic pain,"6.DM, NOS",2415191000000113
+2460251000000115,Diabetic on non-insulin injectable medication,"6.DM, NOS",2460251000000115
+2460621000000111,Provision of diabetes identity card,"6.DM, NOS",2460621000000111
+2461101000000116,Has diabetes identity card,"6.DM, NOS",2461101000000116
+2493341000000118,Young Townson FootSkin Scale for Diabetic Neuropathy,"6.DM, NOS",2493341000000118
+2500921000000110,Diabetic carbohydrate counting diet,2. Possible diabetes,2500921000000110
+2586611000000113,Seen by diabetes specialist nurse,2. Possible diabetes,2586611000000113
+2586691000000116,Under care of hospital-based diabetes specialist nurse,"6.DM, NOS",2586691000000116
+2586731000000110,Under care of community-based diabetes specialist nurse,"6.DM, NOS",2586731000000110
+2609971000000114,Referred by Diabetes UK roadshow clinician,2. Possible diabetes,2609971000000114
+2014951000006115,New diabetic foot ulcer,"6.DM, NOS",2014951000006115
+77727018,Insulin dependent diabetes mellitus,3. T1DM,77727018
+257623014,Hb. A1C - diabetic control NOS,"6.DM, NOS",257623014
+292466013,Diabetes mellitus with no mention of complication,"6.DM, NOS",292466013
+292475010,Diabetes mellitus NOS with no mention of complication,"6.DM, NOS",292475010
+292480018,Diabetes mellitus with hyperosmolar coma,"6.DM, NOS",292480018
+292484010,Diabetes mellitus NOS with hyperosmolar coma,"6.DM, NOS",292484010
+292488013,Other specified diabetes mellitus with coma,"6.DM, NOS",292488013
+292565014,Unspecified diabetes mellitus with multiple complications,"6.DM, NOS",292565014
+292617015,Diabetes mellitus with other specified manifestation,"6.DM, NOS",292617015
+293759015,[X]Unspecified diabetes mellitus with renal complications,"6.DM, NOS",293759015
+306112011,"Pre-existing diabetes mellitus, insulin-dependent",3. T1DM,306112011
+429972014,Unstable insulin dependent diabetes mellitus,3. T1DM,429972014
+457327017,Insulin-dependent diabetes without complication,3. T1DM,457327017
+459162010,Insulin dependent diabetes mellitus with hypoglycaemic coma,3. T1DM,459162010
+459293018,Insulin dependent diabetes mellitus with arthropathy,3. T1DM,459293018
+1786715019,Bronzed diabetes,"6.DM, NOS",1786715019
+72651000006114,Unstable insulin dependent diabetes mellitus,3. T1DM,72651000006114
+84411000006111,Type 1 diabetes mellitus with peripheral angiopathy,3. T1DM,84411000006111
+84781000006112,Type I diabetes mellitus with peripheral angiopathy,3. T1DM,84781000006112
+616501000006112,"Diabetes mellitus, adult onset, + unspecified complication", 4.T2DM,616501000006112
+616511000006110,"Diabetes mellitus, adult onset, no mention of complication", 4.T2DM,616511000006110
+616611000006111,"Diabetes mellitus, juvenile type, + unspecified complication",3. T1DM,616611000006111
+616621000006115,"Diabetes mellitus, juvenile type, no mention of complication",3. T1DM,616621000006115
+746791000006111,Insulin-dependent diabetes without complication,3. T1DM,746791000006111
+764191000006112,Foot abnormality - diabetes related,"6.DM, NOS",764191000006112
+764201000006110,Foot abnormality - diabetes related,"6.DM, NOS",764201000006110
+771331000006116,Insulin dependent diabetes mellitus with arthropathy,3. T1DM,771331000006116
+771341000006114,Insulin dependent diabetes mellitus with diabetic cataract,3. T1DM,771341000006114
+771351000006111,Insulin dependent diabetes mellitus with gangrene,3. T1DM,771351000006111
+771361000006113,Insulin dependent diabetes mellitus with hypoglycaemic coma,3. T1DM,771361000006113
+771371000006118,Insulin dependent diabetes mellitus with mononeuropathy,3. T1DM,771371000006118
+771381000006115,Insulin dependent diabetes mellitus with multiple complicatn,3. T1DM,771381000006115
+771391000006117,Insulin dependent diabetes mellitus with nephropathy,3. T1DM,771391000006117
+771401000006115,Insulin dependent diabetes mellitus with polyneuropathy,3. T1DM,771401000006115
+771411000006117,Insulin dependent diabetes mellitus with retinopathy,3. T1DM,771411000006117
+771421000006113,Insulin dependent diabetes mellitus with ulcer,3. T1DM,771421000006113
+771481000006112,Insulin-dependent diabetes mellitus with neurological comps,3. T1DM,771481000006112
+771491000006110,Insulin-dependent diabetes mellitus with ophthalmic comps,3. T1DM,771491000006110
+772131000006111,Insulin dependent diab mell with neuropathic arthropathy,3. T1DM,772131000006111
+772141000006118,Insulin dependent diab mell with peripheral angiopathy,3. T1DM,772141000006118
+772151000006116,Insulin dependent diabetes maturity onset,3. T1DM,772151000006116
+772161000006119,Insulin dependent diabetes mellitus,3. T1DM,772161000006119
+772171000006114,Insulin dependent diabetes mellitus,3. T1DM,772171000006114
+772181000006112,Insulin dependent diabetes mellitus - poor control,3. T1DM,772181000006112
+787101000006114,IDDM with peripheral circulatory disorder,3. T1DM,787101000006114
+787111000006112,IDDM-Insulin dependent diabetes mellitus,3. T1DM,787111000006112
+913471000006110,Insulin-dependent diabetes mellitus with ophthalmic comps,3. T1DM,913471000006110
+913501000006115,Insulin-dependent diabetes mellitus with neurological comps,3. T1DM,913501000006115
+913531000006111,Insulin dependent diabetes mellitus with multiple complicat,3. T1DM,913531000006111
+913591000006110,Insulin dependent diabetes mellitus with ulcer,3. T1DM,913591000006110
+913621000006112,Insulin dependent diabetes mellitus with gangrene,3. T1DM,913621000006112
+913651000006115,Insulin dependent diabetes mellitus with retinopathy,3. T1DM,913651000006115
+913681000006111,Insulin dependent diabetes mellitus - poor control,3. T1DM,913681000006111
+913711000006112,Insulin dependent diabetes maturity onset,3. T1DM,913711000006112
+913771000006115,Insulin dependent diabetes mellitus with mononeuropathy,3. T1DM,913771000006115
+913801000006118,Insulin dependent diabetes mellitus with polyneuropathy,3. T1DM,913801000006118
+913831000006114,Insulin dependent diabetes mellitus with nephropathy,3. T1DM,913831000006114
+913891000006113,Insulin dependent diabetes mellitus with diabetic cataract,3. T1DM,913891000006113
+913921000006119,Insulin dependent diab mell with peripheral angiopathy,3. T1DM,913921000006119
+913931000006116,Type 1 diabetes mellitus with peripheral angiopathy,3. T1DM,913931000006116
+913941000006114,Type I diabetes mellitus with peripheral angiopathy,3. T1DM,913941000006114
+913981000006115,Insulin dependent diab mell with neuropathic arthropathy,3. T1DM,913981000006115

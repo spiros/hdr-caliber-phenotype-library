@@ -1,0 +1,129 @@
+medcodeid,term
+100691000006118,thrombosis cavernous sinus
+100721000006111,thrombosis of central nervous system venous sinuses
+100821000006116,thrombus of the superior mesenteric veins
+1059641000000112,deep vein thrombosis - enhanced services administration
+1119161000000115,deep vein thrombosis of peroneal vein
+116051000006118,superficial vessel phlebitis and/or thrombophlebitis of leg
+1776621000006117,reason for referral: deep vein thrombosis
+1786921000006116,recurrent deep vein thrombosis
+193601000006115,pulmonary embolus
+211691000006114,postnatal deep vein thrombosis - delivered with p/n comp
+2144741000000111,recurrent deep vein thrombosis
+216205019,deep vein thrombosis of leg related to air travel
+2162148012,dvt - deep vein thrombosis
+2162149016,deep vein thrombosis
+2162422011,deep vein thrombosis of lower limb
+216571000006116,post operative deep vein thrombosis
+216591000006115,post operative pulmonary embolus
+218551000000118,"deep vein thrombosis, leg"
+2247661000000111,on deep vein thrombosis care pathway
+231561000006110,phlebitis or thrombophlebitis of cns venous sinus nos
+2488341000000112,unprovoked deep vein thrombosis
+2488381000000116,provoked deep vein thrombosis
+24951000006110,other obstetric pulmonary embolism - delivered + p/n comp
+24981000006119,other obstetric pulmonary embolism with antenatal comp
+24991000006116,other obstetric pulmonary embolism with postnatal comp
+2534187010,deep vein thrombosis of leg related to intravenous drug use
+261021000006119,open embolectomy of pulmonary artery
+2675885015,open thrombectomy of renal vein
+268641000006113,obstetric pulmonary embolism nos
+268671000006117,obstetric pulmonary embolism nos - delivered with p/n comp
+269431000006114,obstetric blood-clot pulmonary embolism + a/n complication
+269441000006116,obstetric blood-clot pulmonary embolism + p/n complication
+269891000006110,obstetric air pulmonary embolism with a/n complication
+269901000006114,obstetric air pulmonary embolism with p/n complication
+271392011,trendelenburg pulmonary embolectomy
+296931015,phlebitis and thrombophlebitis of intracranial sinuses
+296940016,thrombosis of central nervous system venous sinus nos
+296947018,thrombophlebitis of central nervous system venous sinuses
+296948011,thrombophlebitis of cavernous sinus
+296949015,thrombophlebitis of superior longitudinal venous sinus
+296951016,thrombophlebitis of central nervous system venous sinus nos
+300656019,phlebitis of a superficial leg vein nos
+300659014,thrombophlebitis of a superficial leg vein nos
+300660016,superficial phlebitis and thrombophlebitis of the leg nos
+300666010,phlebitis of the femoral vein
+300667018,phlebitis of the popliteal vein
+300668011,phlebitis of the anterior tibial vein
+300669015,phlebitis of the dorsalis pedis vein
+300670019,phlebitis of the posterior tibial vein
+300671015,deep vein phlebitis of the leg unspecified
+300672010,thrombophlebitis of the femoral vein
+300673017,thrombophlebitis of the popliteal vein
+300674011,thrombophlebitis of the anterior tibial vein
+300675012,thrombophlebitis of the dorsalis pedis vein
+300676013,thrombophlebitis of the posterior tibial vein
+300677016,deep vein thrombophlebitis of the leg unspecified
+300681016,deep vein phlebitis and thrombophlebitis of the leg nos
+300682011,phlebitis and thrombophlebitis of the leg nos
+300687017,phlebitis of the common iliac vein
+300688010,phlebitis of the internal iliac vein
+300689019,phlebitis of the external iliac vein
+300690011,phlebitis of the iliac vein unspecified
+300691010,thrombophlebitis of the common iliac vein
+300692015,thrombophlebitis of the internal iliac vein
+300695018,thrombophlebitis of the external iliac vein
+300696017,thrombophlebitis of the iliac vein unspecified
+300697014,phlebitis and thrombophlebitis of the iliac vein nos
+300710016,embolism and thrombosis of the vena cava
+300711017,embolism and thrombosis of the renal vein
+30273012,portal vein thrombosis
+305585018,pulmonary embolism following abortive pregnancy
+307739018,antenatal deep vein thrombosis unspecified
+307740016,antenatal deep vein thrombosis - delivered
+307741017,antenatal deep vein thrombosis with antenatal complication
+307742012,antenatal deep vein thrombosis nos
+307747018,postnatal deep vein thrombosis unspecified
+307749015,postnatal deep vein thrombosis with postnatal complication
+307750015,postnatal deep vein thrombosis nos
+307815016,obstetric pulmonary embolism
+307816015,obstetric pulmonary embolus
+307819010,obstetric air pulmonary embolism
+307820016,obstetric air pulmonary embolism unspecified
+307821017,obstetric air pulmonary embolism - delivered
+307825014,obstetric air pulmonary embolism nos
+307826010,amniotic fluid pulmonary embolism unspecified
+307827018,amniotic fluid pulmonary embolism - delivered
+307831012,amniotic fluid pulmonary embolism nos
+307832017,obstetric blood-clot pulmonary embolism
+307833010,obstetric blood-clot pulmonary embolism unspecified
+307834016,obstetric blood-clot pulmonary embolism - delivered
+307838018,obstetric blood-clot pulmonary embolism nos
+307847014,obstetric pyaemic and septic pulmonary embolism unspecified
+307848016,obstetric pyaemic and septic pulmonary embolism - delivered
+307856018,obstetric pyaemic and septic pulmonary embolism nos
+307861016,other obstetric pulmonary embolism unspecified
+307862011,other obstetric pulmonary embolism - delivered
+307866014,other obstetric pulmonary embolism nos
+307867017,obstetric pulmonary embolism nos
+307868010,"obstetric pulmonary embolism nos, unspecified"
+307869019,obstetric pulmonary embolism nos - delivered
+307871019,obstetric pulmonary embolism nos with antenatal complication
+307872014,obstetric pulmonary embolism nos with postnatal complication
+395801015,deep vein phlebitis and thrombophlebitis of the leg
+398448013,obstetric pyaemic and septic pulmonary embolism
+398450017,other obstetric pulmonary embolism
+412645018,phlebitis and/or thrombophlebitis of iliac vein
+419640012,thrombosis of inferior vena cava
+451451019,thrombophlebitis of legs in pregnancy
+451454010,thombophlebitis of legs in the puerperium
+478094014,amniotic fluid pulmonary embolism
+479891000006116,amniotic fluid pulmonary embolism with a/n complication
+479901000006117,amniotic fluid pulmonary embolism with p/n complication
+495552014,antenatal deep vein thrombosis
+497563011,postnatal deep vein thrombosis
+497564017,"dvt - deep venous thrombosis, postnatal"
+527221000006115,budd - chiari syndrome (hepatic vein thrombosis)
+586241000006116,nonpyogenic venous sinus thrombosis
+632111000000118,recurrent pulmonary embolism
+632731000006118,"dvt - deep venous thrombosis, antenatal"
+64466019,hepatic vein thrombosis
+884731000006110,deep venous thrombosis - leg
+888681000006112,antepartum dvt
+888691000006110,postpartum dvt
+888731000006119,obstetrical pulmonary embolism
+905451000006118,[rfc] pulmonary embolism/pulmonary hypertension
+909471000006114,[rfc] deep vein thrombosis
+98484016,pulmonary embolism
+989221000006110,deep venous thrombosis - leg
