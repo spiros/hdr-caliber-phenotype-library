@@ -1,0 +1,321 @@
+Data-base,Type,code,Read or SNOMED term,Name,Meth/ bupe,Status
+AURUM,Prodcode,x2052541000033112,-,Methadone Hydrochloride Diluent Oral Solution Sugar Free,M,Definite
+AURUM,Prodcode,x2267741000033115,-,"Methadone Hydrochloride Oral Solution, Sugar Free, Tartrazine Free 1 mg/1 ml",M,Definite
+AURUM,Prodcode,x174241000033111,-,Buprenorphine 400microgram sublingual tablets sugar free,B,Definite
+AURUM,Prodcode,x1835541000033116,-,Subutex 0.4mg sublingual tablets (Indivior UK Ltd),B,Definite
+AURUM,Prodcode,x1835641000033115,-,Subutex 2mg sublingual tablets (Indivior UK Ltd),B,Definite
+AURUM,Prodcode,x1835341000033111,-,Buprenorphine 2mg sublingual tablets sugar free,B,Definite
+AURUM,Prodcode,x1835441000033117,-,Buprenorphine 8mg sublingual tablets sugar free,B,Definite
+AURUM,Prodcode,x1835741000033112,-,Subutex 8mg sublingual tablets (Indivior UK Ltd),B,Definite
+AURUM,Prodcode,x4010841000033112,-,Suboxone 2mg/500microgram sublingual tablets (Indivior UK Ltd),B,Definite
+AURUM,Prodcode,x4010641000033111,-,Buprenorphine 2mg / Naloxone 500microgram sublingual tablets sugar free,B,Definite
+AURUM,Prodcode,x4010741000033119,-,Buprenorphine 8mg / Naloxone 2mg sublingual tablets sugar free,B,Definite
+AURUM,Prodcode,x4010941000033116,-,Suboxone 8mg/2mg sublingual tablets (Indivior UK Ltd),B,Definite
+AURUM,Prodcode,x4815541000033118,-,Methadone 5mg capsules,M,Definite
+AURUM,Prodcode,x10045241000033110,-,Buprenorphine 1mg sublingual tablets sugar free,B,Definite
+AURUM,Prodcode,x10045641000033113,-,Buprenorphine 4mg sublingual tablets sugar free,B,Definite
+AURUM,Prodcode,x10045441000033111,-,Buprenorphine 6mg sublingual tablets sugar free,B,Definite
+AURUM,Prodcode,x11789141000033119,-,Buprenorphine 2mg oral lyophilisates sugar free,B,Definite
+AURUM,Prodcode,x11789341000033116,-,Espranor 2mg oral lyophilisates (Martindale Pharmaceuticals Ltd),B,Definite
+AURUM,Prodcode,x11789241000033114,-,Buprenorphine 8mg oral lyophilisates sugar free,B,Definite
+AURUM,Prodcode,x11789441000033110,-,Espranor 8mg oral lyophilisates (Martindale Pharmaceuticals Ltd),B,Definite
+AURUM,Prodcode,x1655941000033119,-,Methadone 10mg/ml oral solution sugar free,M,Definite
+AURUM,Prodcode,x888541000033115,-,Methadone 1mg/ml oral solution,M,Definite
+AURUM,Prodcode,x2957241000033118,-,Physeptone 1mg/ml mixture (Martindale Pharmaceuticals Ltd),M,Definite
+AURUM,Prodcode,x2003041000033115,-,Methadone 1mg/ml oral solution sugar free,M,Definite
+AURUM,Prodcode,x2957141000033113,-,Physeptone 1mg/ml oral solution sugar free (Martindale Pharmaceuticals Ltd),M,Definite
+AURUM,Prodcode,x1656041000033112,-,Methadone 20mg/ml oral solution sugar free,M,Definite
+AURUM,Medcode,x342466013,x228389003,Groin injector,-,Probable
+AURUM,Medcode,x342474014,x228396001,Does not share drug injection equipment,-,Probable
+AURUM,Medcode,x407241000000119,x248601000000106,Neck injector,-,Probable
+AURUM,Medcode,x342468014,x228391006,Drug injection behaviour,-,Probable
+AURUM,Medcode,x2474734017,x371435006,[V]Personal history of drug abuse by injection,-,Probable
+AURUM,Medcode,x417771000006112,x295174006,[X]Overdose - heroin,-,Probable
+AURUM,Medcode,x2549886016,x712545004,Abstinent from drug misuse on maintenance replacement,-,Probable
+AURUM,Medcode,x467941000006119,x292056009,"Adverse reaction to heroin, diamorphine",-,Probable
+AURUM,Medcode,x1772531000006119,x1772531000006103,Clinical Opiate Withdrawal Scale,-,Probable
+AURUM,Medcode,x1774961000000119,x763699005,Clinical opiate withdrawal scale,-,Probable
+AURUM,Medcode,x968671000006118,x968671000006102,Currently injecting drugs,-,Probable
+AURUM,Medcode,x512101000000118,x277091000000105,H/O methadone misuse,-,Definite
+AURUM,Medcode,x339576014,x226034001,Injecting drug user,-,Probable
+AURUM,Medcode,x342465012,x228388006,Intravenous drug user,-,Probable
+AURUM,Medcode,x1971531000006116,x1971531000006100,"Mental & behav dis due to use opioids: psychotic disorder, predominantly polymorphic",-,Definite
+AURUM,Medcode,x969121000006115,x969121000006104,Misuse of Anileridine,-,Definite
+AURUM,Medcode,x969271000006114,x969271000006105,Misuse of Codeine linctus,-,Definite
+AURUM,Medcode,x969231000006111,x969231000006107,Misuse of Codeine tablets,-,Probable
+AURUM,Medcode,x969061000006110,x969061000006106,Misuse of Dextromoramide,-,Definite
+AURUM,Medcode,x969251000006116,x969251000006100,Misuse of Dextropropoxyphene,-,Definite
+AURUM,Medcode,x968811000006111,x968811000006107,Misuse of Diamorphine Hydrochl amps,-,Definite
+AURUM,Medcode,x969151000006112,x969151000006108,Misuse of Ethoheptazine,-,Definite
+AURUM,Medcode,x969301000006111,x969301000006107,Misuse of Gee's linctus,-,Definite
+AURUM,Medcode,x969211000006117,x969211000006101,Misuse of Meptazinol,-,Definite
+AURUM,Medcode,x969261000006119,x969261000006103,Misuse of Opiate containing mixture,-,Definite
+AURUM,Medcode,x969281000006112,x969281000006108,Misuse of Pentazocine,-,Definite
+AURUM,Medcode,x969191000006118,x969191000006102,Misuse of Phenazocine,-,Definite
+AURUM,Medcode,x969181000006116,x969181000006100,Misuse of Phenoperidine,-,Definite
+AURUM,Medcode,x882501000006119,x191816009,Morphine/cocaine dependence,-,Definite
+AURUM,Medcode,x882501000006119,x191816009,Morphine/cocaine dependence,-,Definite
+AURUM,Medcode,x988901000006116,x191816009,Morphine/cocaine dependence,-,Definite
+AURUM,Medcode,x988901000006116,x191816009,Morphine/cocaine dependence,-,Definite
+AURUM,Medcode,x882501000006119,x191816009,Morphine/cocaine dependence,-,Definite
+AURUM,Medcode,x882501000006119,x191816009,Morphine/cocaine dependence,-,Definite
+AURUM,Medcode,x988901000006116,x191816009,Morphine/cocaine dependence,-,Definite
+AURUM,Medcode,x988901000006116,x191816009,Morphine/cocaine dependence,-,Definite
+AURUM,Medcode,x2639961000000113,x1047881000000106,Opioid analgesic dependence,-,Probable
+AURUM,Medcode,x2548992019,x416479009,Previously injecting drug user,-,Probable
+AURUM,Medcode,x342473015,x228395002,Sharing of drug injecting equipment,-,Probable
+AURUM,Medcode,x968661000006113,x968661000006109,Previously injected drugs,-,Probable
+AURUM,Medcode,x295297018,x191914006,Nondependent opioid abuse in remission,-,Definite
+AURUM,Medcode,x295232014,x191869005,Combined opioid with other drug dependence in remission,-,Definite
+AURUM,Medcode,x295156018,x191821007,Opioid dependence in remission,-,Definite
+AURUM,Medcode,x477031000000112,x278031000000108,Previous history of opiate misuse,-,Definite
+AURUM,Medcode,x475831000000113,x277431000000104,Previous history of methadone misuse,-,Definite
+AURUM,Medcode,x1976531000006113,x1976531000006109,"Mental and behav dis due to use opioids: dependence syndr, currently abstinent, but in a protected environment",-,Definite
+AURUM,Medcode,x475531000000111,x277281000000101,Previous history of heroin misuse,-,Definite
+AURUM,Medcode,x328544015,x216463005,Accidental poisoning by heroin,-,Probable
+AURUM,Medcode,x1220925010,x13187008,Heroin poisoning,-,Probable
+AURUM,Medcode,x361941000006116,x216463005,[X]Accidental poisoning with heroin,-,Probable
+AURUM,Medcode,x295296010,x191913000,"Nondependent opioid abuse, episodic",-,Definite
+AURUM,Medcode,x295228015,x191865004,Combined opioid with other drug dependence,-,Definite
+AURUM,Medcode,x295295014,x191912005,"Nondependent opioid abuse, continuous",-,Definite
+AURUM,Medcode,x295154015,x191819002,Continuous opioid dependence,-,Definite
+AURUM,Medcode,x295155019,x191820008,Episodic opioid dependence,-,Definite
+AURUM,Medcode,x295231019,x191868002,"Combined opioid with other drug dependence, episodic",-,Definite
+AURUM,Medcode,x295230018,x191867007,"Combined opioid with other drug dependence, continuous",-,Definite
+AURUM,Medcode,x295290016,x191909007,Nondependent opioid abuse,-,Definite
+AURUM,Medcode,x346951016,x231480002,Opium dependence,-,Definite
+AURUM,Medcode,x346949015,x231478008,Methadone dependence,-,Definite
+AURUM,Medcode,x346950015,x231479000,Morphine dependence,-,Definite
+AURUM,Medcode,x346947018,x231477003,Heroin dependence,-,Definite
+AURUM,Medcode,x1485129010,x391102000,Failed heroin detoxification,-,Definite
+AURUM,Medcode,x303011000000111,x200031000000103,Drug addiction maintenance therapy - methadone,-,Definite
+AURUM,Medcode,x314821000000113,x205231000000102,Opiate dependence detoxification,-,Definite
+AURUM,Medcode,x309921000000119,x202991000000100,Heroin misuse,-,Definite
+AURUM,Medcode,x316931000000112,x206131000000102,Drug addiction detoxification therapy - buprenorphine,-,Definite
+AURUM,Medcode,x302981000000113,x200021000000100,Drug addiction detoxification therapy - methadone,-,Definite
+AURUM,Medcode,x316901000000118,x206121000000104,Drug addiction maintenance therapy - buprenorphine,-,Definite
+AURUM,Medcode,x512241000000113,x277221000000102,H/O daily heroin misuse,-,Definite
+AURUM,Medcode,x512651000000113,x279461000000104,Uses heroin on top of substitution therapy,-,Definite
+AURUM,Medcode,x495611000000112,x286841000000101,Reinduction to methadone maintenance therapy,-,Definite
+AURUM,Medcode,x512201000000110,x276981000000107,H/O opiate misuse,-,Definite
+AURUM,Medcode,x512281000000117,x277371000000108,H/O weekly methadone misuse,-,Definite
+AURUM,Medcode,x512441000000112,x278001000000102,H/O infrequent opiate misuse,-,Definite
+AURUM,Medcode,x512261000000114,x277311000000103,H/O infrequent heroin misuse,-,Definite
+AURUM,Medcode,x512271000000119,x277341000000102,H/O daily methadone misuse,-,Definite
+AURUM,Medcode,x512421000000117,x277941000000101,H/O daily opiate misuse,-,Definite
+AURUM,Medcode,x541451000000111,x304681000000107,Opioid agonist substitution therapy,-,Definite
+AURUM,Medcode,x475771000000117,x277401000000105,H/O infrequent methadone misuse,-,Definite
+AURUM,Medcode,x512431000000115,x277971000000107,H/O weekly opiate misuse,-,Definite
+AURUM,Medcode,x495671000000119,x286871000000107,Reinduction to buprenorphine maintenance therapy,-,Definite
+AURUM,Medcode,x512631000000118,x279441000000100,H/O heroin misuse,-,Definite
+AURUM,Medcode,x512251000000111,x277251000000107,H/O weekly heroin misuse,-,Definite
+AURUM,Medcode,x512661000000111,x279491000000105,Does not use heroin on top of substitution therapy,-,Definite
+AURUM,Medcode,x968901000006119,x968901000006103,Misuse of Methadone mixture,-,Definite
+AURUM,Medcode,x969021000006116,x969021000006100,Misuse of Morphine Sulphate,-,Probable
+AURUM,Medcode,x969161000006114,x969161000006105,Misuse of Fentanyl,-,Definite
+AURUM,Medcode,x969381000006119,x969381000006103,Misuse of Kaolin and Morphine,-,Definite
+AURUM,Medcode,x987521000006119,x987521000006103,Drugs used within the past month - Heroin,-,Definite
+AURUM,Medcode,x969051000006113,x969051000006109,Misuse of Dihydrocodeine,-,Definite
+AURUM,Medcode,x969101000006113,x969101000006109,Misuse of Hydromorphone,-,Definite
+AURUM,Medcode,x969141000006110,x969141000006106,Misuse of Oxycodone,-,Definite
+AURUM,Medcode,x987531000006116,x987531000006100,Drugs used within the past month - Methadone,-,Definite
+AURUM,Medcode,x968841000006110,x968841000006106,Substance misuse of Methadone,-,Definite
+AURUM,Medcode,x969041000006111,x969041000006107,Misuse of Opium,-,Definite
+AURUM,Medcode,x968821000006115,x968821000006104,Misuse of Diamorphine Hydrochl reefers,-,Definite
+AURUM,Medcode,x968981000006111,x968981000006107,Misuse of Methadone suppositories,-,Definite
+AURUM,Medcode,x969081000006117,x969081000006101,Misuse of Pethidine,-,Definite
+AURUM,Medcode,x969111000006111,x969111000006107,Misuse of Oxymorphone,-,Definite
+AURUM,Medcode,x969241000006118,x969241000006102,Misuse of Tramadol Hydrochloride,-,Probable
+AURUM,Medcode,x969291000006110,x969291000006106,Misuse of Buprenorphine,-,Definite
+AURUM,Medcode,x969331000006115,x969331000006104,Misuse of Opiate compound analgesics,-,Definite
+AURUM,Medcode,x968961000006118,x968961000006102,Misuse of Methadone amps,-,Definite
+AURUM,Medcode,x968741000006115,x968741000006104,Substance misuse of Heroin,-,Definite
+AURUM,Medcode,x968771000006111,x968771000006107,Misuse of Diamorphine,-,Definite
+AURUM,Medcode,x969001000006114,x969001000006105,Substance misuse of other Opiates,-,Definite
+AURUM,Medcode,x969091000006119,x969091000006103,Misuse of Morphine Sulphate amps,-,Definite
+AURUM,Medcode,x969391000006116,x969391000006100,Misuse of other Opiates,-,Definite
+AURUM,Medcode,x968761000006116,x968761000006100,Misuse of Heroin illicit,-,Definite
+AURUM,Medcode,x968791000006112,x968791000006108,Misuse of Diamorphine Hydrochl elixir,-,Definite
+AURUM,Medcode,x968871000006119,x968871000006103,Misuse of Methadone unspecified,-,Definite
+AURUM,Medcode,x968951000006115,x968951000006104,Misuse of Methadone tablets,-,Definite
+AURUM,Medcode,x969011000006112,x969011000006108,Misuse of Opiates unspecified,-,Definite
+AURUM,Medcode,x969071000006115,x969071000006104,Misuse of Dipianone,-,Definite
+AURUM,Medcode,x969171000006119,x969171000006103,Misuse of Levorphanol,-,Definite
+AURUM,Medcode,x969221000006113,x969221000006109,Misuse of Piritramide,-,Definite
+AURUM,Medcode,x969311000006114,x969311000006105,Misuse of Codeine unspecified,-,Probable
+AURUM,Medcode,x969361000006112,x969361000006108,Misuse of Alphaprodine,-,Definite
+AURUM,Medcode,x295229011,x191865004,"Combined opioid with other drug dependence, unspecified",-,Definite
+AURUM,Medcode,x295293019,x191909007,"Nondependent opioid abuse, unspecified",-,Definite
+AURUM,Medcode,x295157010,x75544000,Opioid drug dependence NOS,-,Definite
+AURUM,Medcode,x295803018,x14784000,[X]Mental and behavioural disorders due to use of opioids,-,Definite
+AURUM,Medcode,x295153014,x75544000,Unspecified opioid dependence,-,Definite
+AURUM,Medcode,x295233016,x191865004,Combined opioid with other drug dependence NOS,-,Definite
+AURUM,Medcode,x44291000006113,x75544000,Opioid type drug dependence,-,Definite
+AURUM,Medcode,x371181000006118,x87132004,"[X]Cold turkey, opiate withdrawal",-,Definite
+AURUM,Medcode,x397661000006117,x943071000000104,[X]Mental & behav dis due to use opioids: psychotic disorder,-,Definite
+AURUM,Medcode,x397901000006111,x5602001,[X]Mental and behav dis due to use of opioids: harmful use,-,Definite
+AURUM,Medcode,x397941000006113,x87132004,[X]Mental and behav dis due to use opioids: withdrawal state,-,Definite
+AURUM,Medcode,x397231000006112,x91388009,[X]Men & behav dis due opioid: withdrawl state with delirium,-,Definite
+AURUM,Medcode,x397931000006115,x75544000,[X]Mental and behav dis due to use opioids: dependence syndr,-,Definite
+AURUM,Medcode,x379281000006110,x75544000,[X]Drug addiction - opioids,-,Definite
+AURUM,Medcode,x397451000006116,x91388009,[X]Ment & behav dis due use opioids: unsp ment & behav dis,-,Definite
+AURUM,Medcode,x630131000006118,x310653000,Drug addictn therap-methadone,-,Definite
+AURUM,Medcode,x388831000006113,x75544000,[X]Heroin addiction,-,Definite
+AURUM,Medcode,x397261000006115,x14784000,[X]Men & behav dis due to use opioids: oth men & behav dis,-,Definite
+AURUM,Medcode,x397651000006119,x77721001,[X]Mental & behav dis due to use opioids: acute intoxication,-,Definite
+AURUM,Medcode,x397921000006118,x91388009,[X]Mental and behav dis due to use opioids: amnesic syndrome,-,Definite
+AURUM,Medcode,x298101000000113,x198021000000102,Buprenorphine maintenance therapy,-,Definite
+AURUM,Medcode,x1715521000000114,x768711000000101,Drug addiction maintenance therapy - lofexidine,-,Definite
+AURUM,Medcode,x1880021000006116,x1880021000006100,Opioid substitution therapy monitoring,-,Definite
+AURUM,Medcode,x1880021000006116,x1880021000006100,Opioid substitution therapy monitoring,-,Definite
+AURUM,Medcode,x2296901000000113,x891951000000109,Opioid substitution therapy monitoring,-,Definite
+AURUM,Medcode,x2296901000000113,x891951000000109,Opioid substitution therapy monitoring,-,Definite
+AURUM,Medcode,x1971461000006112,x1971461000006108,"Men & behav dis due opioid: withdrawl state with delirium, with convulsions",-,Definite
+AURUM,Medcode,x1971521000006119,x1971521000006103,"Mental & behav dis due to use opioids: psychotic disorder, predominantly hallucinatory",-,Definite
+AURUM,Medcode,x1971601000006113,x1971601000006109,"Mental & behav dis due to use opioids: psychotic disorder, predominantly manic symptoms",-,Definite
+AURUM,Medcode,x1971711000006115,x1971711000006104,"Mental & behav dis due to use opioids: resid & late-onset psychot dis, other persisting cognitive impairment",-,Definite
+AURUM,Medcode,x1971421000006118,x1971421000006102,"Mental and behav dis due to use opioids: withdrawal state, uncomplicated",-,Definite
+AURUM,Medcode,x1971451000006110,x1971451000006106,"Men & behav dis due opioid: withdrawl state with delirium, without convulsions",-,Definite
+AURUM,Medcode,x1971471000006117,x1971471000006101,"Mental & behav dis due to use opioids: psychotic disorder, schizophrenia-like",-,Definite
+AURUM,Medcode,x1971571000006118,x1971571000006102,"Mental & behav dis due to use opioids: psychotic disorder, predominantly depressive symptoms",-,Definite
+AURUM,Medcode,x1971671000006119,x1971671000006103,"Mental & behav dis due to use opioids: resid & late-onset psychot dis, personality or behaviour disorder",-,Definite
+AURUM,Medcode,x1971441000006113,x1971441000006109,"Mental and behav dis due to use opioids: withdrawal state, with convulsions",-,Definite
+AURUM,Medcode,x1971741000006116,x1971741000006100,"Mental & behav dis due to use opioids: resid & late-onset psychot dis, late-onset psychotic disorder",-,Definite
+AURUM,Medcode,x1976471000006112,x1976471000006108,"Mental & behav dis due to use opioids: acute intoxication, with convulsions",-,Definite
+AURUM,Medcode,x1976551000006118,x1976551000006102,"Mental and behav dis due to use opioids: dependence syndr, currently on a clinically supervised maintenance or replacement regime [controlled dependence]",-,Definite
+AURUM,Medcode,x1971501000006112,x1971501000006108,"Mental & behav dis due to use opioids: psychotic disorder, predominantly delusional",-,Definite
+AURUM,Medcode,x1971631000006117,x1971631000006101,"Mental & behav dis due to use opioids: psychotic disorder, mixed",-,Definite
+AURUM,Medcode,x1971651000006112,x1971651000006108,"Mental & behav dis due to use opioids: resid & late-onset psychot dis, flashbacks",-,Definite
+AURUM,Medcode,x1971681000006116,x1971681000006100,"Mental & behav dis due to use opioids: resid & late-onset psychot dis, residual affective disorder",-,Definite
+AURUM,Medcode,x1976301000006110,x1976301000006106,"Mental & behav dis due to use opioids: acute intoxication, with trauma or other bodily injury",-,Definite
+AURUM,Medcode,x1976591000006112,x1976591000006108,"Mental and behav dis due to use opioids: dependence syndr, currently using the substance [active dependence]",-,Definite
+AURUM,Medcode,x1976501000006117,x1976501000006101,"Mental and behav dis due to use opioids: dependence syndr, currently abstinent",-,Definite
+AURUM,Medcode,x1976351000006114,x1976351000006105,"Mental & behav dis due to use opioids: acute intoxication, with delirium",-,Definite
+AURUM,Medcode,x1976621000006114,x1976621000006105,"Mental and behav dis due to use opioids: dependence syndr, episodic use [dipsomania]",-,Definite
+AURUM,Medcode,x1976281000006111,x1976281000006107,"Mental & behav dis due to use opioids: acute intoxication, uncomplicated",-,Definite
+AURUM,Medcode,x1976331000006119,x1976331000006103,"Mental & behav dis due to use opioids: acute intoxication, with other medical complications",-,Definite
+AURUM,Medcode,x1976421000006111,x1976421000006107,"Mental & behav dis due to use opioids: acute intoxication, with perceptual distortions",-,Definite
+AURUM,Medcode,x1976581000006114,x1976581000006105,"Mental and behav dis due to use opioids: dependence syndr, currently abstinent, but receiving treatment with aversive or blocking drugs",-,Definite
+AURUM,Medcode,x1880021000006116,x1880021000006100,Opioid substitution therapy monitoring,-,Definite
+AURUM,Medcode,x1880021000006116,x1880021000006100,Opioid substitution therapy monitoring,-,Definite
+AURUM,Medcode,x2296901000000113,x891951000000109,Opioid substitution therapy monitoring,-,Definite
+AURUM,Medcode,x2296901000000113,x891951000000109,Opioid substitution therapy monitoring,-,Definite
+AURUM,Medcode,x1971701000006118,x1971701000006102,"Mental & behav dis due to use opioids: resid & late-onset psychot dis, dementia",-,Definite
+AURUM,Medcode,x2000501000006119,x2000501000006103,Uses other opioids on top of substitution therapy,-,Definite
+AURUM,Medcode,x2000491000006110,x2000491000006106,Does not use opioids on top of substitution therapy,-,Definite
+AURUM,Medcode,x1715481000000114,x768691000000103,Drug addiction maintenance therapy - naltrexone,-,Definite
+AURUM,Medcode,x397161000006110,x943071000000104,[X]Men & beh dis due opioids: resid & late-onset psychot dis,-,Definite
+AURUM,Medcode,x968931000006110,x968931000006106,Misuse of Methadone linctus,-,Definite
+AURUM,Medcode,x969201000006115,x969201000006104,Misuse of Papaveretum,-,Definite
+AURUM,Medcode,x1976611000006118,x1976611000006102,"Mental and behav dis due to use opioids: dependence syndr, continuous use",-,Definite
+AURUM,Medcode,x969341000006113,x969341000006109,Misuse of Nalbuphine,-,Definite
+AURUM,Medcode,x1976441000006116,x1976441000006100,"Mental & behav dis due to use opioids: acute intoxication, with coma",-,Definite
+GOLD,Prodcode,x6547,-,Buprenorphine 2mg sublingual tablets sugar free,B,Definite
+GOLD,Prodcode,x6056,-,Buprenorphine 8mg sublingual tablets sugar free,B,Definite
+GOLD,Prodcode,x33832,-,Methadone 1mg/ml oral solution (Martindale Pharmaceuticals Ltd),M,Definite
+GOLD,Prodcode,x13031,-,Subutex 0.4mg sublingual tablets (Indivior UK Ltd),B,Definite
+GOLD,Prodcode,x35170,-,Suboxone 2mg/500microgram sublingual tablets (Indivior UK Ltd),B,Definite
+GOLD,Prodcode,x26277,-,Physeptone 1mg/ml mixture (Martindale Pharmaceuticals Ltd),M,Definite
+GOLD,Prodcode,x35169,-,Suboxone 8mg/2mg sublingual tablets (Indivior UK Ltd),B,Definite
+GOLD,Prodcode,x35681,-,Buprenorphine 2mg / Naloxone 500microgram sublingual tablets sugar free,B,Definite
+GOLD,Prodcode,x35682,-,Buprenorphine 8mg / Naloxone 2mg sublingual tablets sugar free,B,Definite
+GOLD,Prodcode,x6210,-,Subutex 8mg sublingual tablets (Indivior UK Ltd),B,Definite
+GOLD,Prodcode,x55825,-,Methadone 1mg/ml oral solution sugar free (Thornton & Ross Ltd),M,Definite
+GOLD,Prodcode,x33068,-,Methadone 10mg/1ml solution for injection ampoules,M,Definite
+GOLD,Prodcode,x2952,-,Methadone 1mg/ml oral solution,M,Definite
+GOLD,Prodcode,x3064,-,Buprenorphine 400microgram sublingual tablets sugar free,B,Definite
+GOLD,Prodcode,x47706,-,Methadone 1mg/ml oral solution sugar free (Martindale Pharmaceuticals Ltd),M,Definite
+GOLD,Prodcode,x9728,-,Methadone 1mg/ml oral solution sugar free,M,Definite
+GOLD,Prodcode,x21562,-,Physeptone 1mg/ml oral solution sugar free (Martindale Pharmaceuticals Ltd),M,Definite
+GOLD,Prodcode,x10077,-,Subutex 2mg sublingual tablets (Indivior UK Ltd),B,Definite
+GOLD,Prodcode,x11722,-,Methadone 10mg/ml oral solution sugar free,M,Definite
+GOLD,Medcode,x111551,x1V33.00,Groin injector,-,Probable
+GOLD,Medcode,x106705,x1V3A.00,Does not share drug injection equipment,-,Probable
+GOLD,Medcode,x107780,x1V32.00,Neck injector,-,Probable
+GOLD,Medcode,x95957,x13cN.00,Has never shared drug injection equipment,-,Probable
+GOLD,Medcode,x97000,x1V3..00,Drug injection behaviour,-,Probable
+GOLD,Medcode,x27960,xE240300,Opioid dependence in remission,-,Definite
+GOLD,Medcode,x52451,xE248300,Combined opioid with other drug dependence in remission,-,Definite
+GOLD,Medcode,x86771,x1T13.00,Previous history of methadone misuse,-,Definite
+GOLD,Medcode,x88372,x1T02.00,Previous history of heroin misuse,-,Definite
+GOLD,Medcode,x95953,xE255300,Nondependent opioid abuse in remission,-,Definite
+GOLD,Medcode,x689,xE240.11,Heroin dependence,-,Definite
+GOLD,Medcode,x4564,xEu11212,[X]Heroin addiction,-,Definite
+GOLD,Medcode,x6111,x8B23.11,Drug addictn therap-methadone,-,Definite
+GOLD,Medcode,x10538,xEu11211,[X]Drug addiction - opioids,-,Definite
+GOLD,Medcode,x16243,xE240.00,Opioid type drug dependence,-,Definite
+GOLD,Medcode,x16374,xE240.12,Methadone dependence,-,Definite
+GOLD,Medcode,x20962,xE240200,Episodic opioid dependence,-,Definite
+GOLD,Medcode,x30711,xZV11500,[V]Personal history of drug abuse by injection,-,Probable
+GOLD,Medcode,x24441,xE240z00,Opioid drug dependence NOS,-,Definite
+GOLD,Medcode,x25527,xEu11311,"[X]Cold turkey, opiate withdrawal",-,Definite
+GOLD,Medcode,x26061,xE248.00,Combined opioid with other drug dependence,-,Definite
+GOLD,Medcode,x26831,xE255.00,Nondependent opioid abuse,-,Definite
+GOLD,Medcode,x27652,xEu11700,[X]Men & beh dis due opioids: resid & late-onset psychot dis,-,Definite
+GOLD,Medcode,x28976,x8B2N.00,Drug addiction detoxification therapy - methadone,-,Definite
+GOLD,Medcode,x30565,x146C.00,Failed heroin detoxification,-,Definite
+GOLD,Medcode,x30694,x8B2P.00,Drug addiction maintenance therapy - methadone,-,Definite
+GOLD,Medcode,x32804,xE240.14,Opium dependence,-,Definite
+GOLD,Medcode,x34249,xEu11200,[X]Mental and behav dis due to use opioids: dependence syndr,-,Definite
+GOLD,Medcode,x36241,xEu11300,[X]Mental and behav dis due to use opioids: withdrawal state,-,Definite
+GOLD,Medcode,x37568,xEu11100,[X]Mental and behav dis due to use of opioids: harmful use,-,Definite
+GOLD,Medcode,x38034,xE240000,Unspecified opioid dependence,-,Definite
+GOLD,Medcode,x43075,xE240100,Continuous opioid dependence,-,Definite
+GOLD,Medcode,x47083,x8B2M.00,Buprenorphine maintenance therapy,-,Definite
+GOLD,Medcode,x47335,xEu11.00,[X]Mental and behavioural disorders due to use of opioids,-,Definite
+GOLD,Medcode,x50964,xEu11500,[X]Mental & behav dis due to use opioids: psychotic disorder,-,Definite
+GOLD,Medcode,x51052,x8B2R.00,Drug addiction detoxification therapy - buprenorphine,-,Definite
+GOLD,Medcode,x52739,xEu11y00,[X]Men & behav dis due to use opioids: oth men & behav dis,-,Definite
+GOLD,Medcode,x56194,xE248000,"Combined opioid with other drug dependence, unspecified",-,Definite
+GOLD,Medcode,x58731,xE255100,"Nondependent opioid abuse, continuous",-,Definite
+GOLD,Medcode,x60355,xZ1Q6200,Methadone maintenance,-,Definite
+GOLD,Medcode,x64265,xE248100,"Combined opioid with other drug dependence, continuous",-,Definite
+GOLD,Medcode,x64277,xE248200,"Combined opioid with other drug dependence, episodic",-,Definite
+GOLD,Medcode,x64382,xE255200,"Nondependent opioid abuse, episodic",-,Definite
+GOLD,Medcode,x69508,xE255z00,Nondependent opioid abuse NOS,-,Definite
+GOLD,Medcode,x73737,xE248z00,Combined opioid with other drug dependence NOS,-,Definite
+GOLD,Medcode,x82479,x1T0..00,H/O heroin misuse,-,Definite
+GOLD,Medcode,x85097,x1T1..00,H/O methadone misuse,-,Definite
+GOLD,Medcode,x85953,x1TF..00,Does not use heroin on top of substitution therapy,-,Definite
+GOLD,Medcode,x86002,x1T00.00,H/O daily heroin misuse,-,Definite
+GOLD,Medcode,x86036,x1TD..00,H/O opiate misuse,-,Definite
+GOLD,Medcode,x86041,x1TE..00,Uses heroin on top of substitution therapy,-,Definite
+GOLD,Medcode,x88760,x1TD0.00,H/O daily opiate misuse,-,Definite
+GOLD,Medcode,x89145,x1T03.00,H/O infrequent heroin misuse,-,Definite
+GOLD,Medcode,x90198,x8BE0.00,Reinduction to methadone maintenance therapy,-,Definite
+GOLD,Medcode,x91029,x1TD2.00,H/O infrequent opiate misuse,-,Definite
+GOLD,Medcode,x91256,x1TD3.00,Previous history of opiate misuse,-,Definite
+GOLD,Medcode,x91801,xEu11z00,[X]Ment & behav dis due use opioids: unsp ment & behav dis,-,Definite
+GOLD,Medcode,x92404,x1T10.00,H/O daily methadone misuse,-,Definite
+GOLD,Medcode,x93109,x1T11.00,H/O weekly methadone misuse,-,Definite
+GOLD,Medcode,x93554,x1T01.00,H/O weekly heroin misuse,-,Definite
+GOLD,Medcode,x93980,x8B2S.00,Opioid agonist substitution therapy,-,Definite
+GOLD,Medcode,x95460,xZ1Q6214,Heroin maintenance,-,Definite
+GOLD,Medcode,x96081,x8BE1.00,Reinduction to buprenorphine maintenance therapy,-,Definite
+GOLD,Medcode,x96925,x1V65.00,Heroin misuse,-,Definite
+GOLD,Medcode,x100632,xZ1Q6212,Methadone therapy,-,Definite
+GOLD,Medcode,x101377,x1TD1.00,H/O weekly opiate misuse,-,Definite
+GOLD,Medcode,x103991,xEu11600,[X]Mental and behav dis due to use opioids: amnesic syndrome,-,Definite
+GOLD,Medcode,x106342,x1T12.00,H/O infrequent methadone misuse,-,Definite
+GOLD,Medcode,x108251,x66c4.00,Opioid substitution therapy monitoring,-,Definite
+GOLD,Medcode,x43487,x8B2Q.00,Drug addiction maintenance therapy - buprenorphine,-,Definite
+GOLD,Medcode,x97488,xEu11400,[X]Men & behav dis due opioid: withdrawl state with delirium,-,Definite
+GOLD,Medcode,x42456,xEu11000,[X]Mental & behav dis due to use opioids: acute intoxication,-,Definite
+GOLD,Medcode,x28710,xU205.11,[X]Overdose - heroin,-,Probable
+GOLD,Medcode,x68327,x13r3.00,Abstinent from drug misuse on maintenance replacement,-,Probable
+GOLD,Medcode,x37527,xTJ50.00,"Adverse reaction to heroin, diamorphine",-,Probable
+GOLD,Medcode,x109966,x8B23100,Drug addiction maintenance therapy - lofexidine,-,Definite
+GOLD,Medcode,x109730,x8B23000,Drug addiction maintenance therapy - naltrexone,-,Definite
+GOLD,Medcode,x20458,xSL50100,Heroin poisoning,-,Probable
+GOLD,Medcode,x22079,x13c0.00,Injecting drug user,-,Probable
+GOLD,Medcode,x51334,xU1A5.11,[X]Accidental poisoning with heroin,-,Probable
+GOLD,Medcode,x54560,xT800.00,Accidental poisoning by heroin,-,Probable
+GOLD,Medcode,x103842,x38G1.00,Clinical opiate withdrawal scale,-,Probable
+GOLD,Medcode,x30251,x13c1.00,Intravenous drug user,-,Probable
+GOLD,Medcode,x22059,xE240.13,Morphine dependence,-,Definite
+GOLD,Medcode,x40536,xE255000,"Nondependent opioid abuse, unspecified",-,Definite
+GOLD,Medcode,x30598,x8BAd.00,Opiate dependence detoxification,-,Definite
+GOLD,Medcode,x32709,x13cJ.00,Previously injecting drug user,-,Probable
+GOLD,Medcode,x58560,xZRk7.00,Severity of opiate dependence questionnaire,-,Probable
+GOLD,Medcode,x97811,x1V38.00,Sharing of drug injecting equipment,-,Probable
+GOLD,Medcode,x60243,xZRk7.11,SODQ - Severity of opiate dependence questionnaire,-,Probable
