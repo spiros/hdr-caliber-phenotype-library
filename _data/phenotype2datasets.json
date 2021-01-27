@@ -3038,6 +3038,18 @@
       "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
     }
   ],
+  "Illicit opioid use": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
+    },
+    {
+      "name": "Clinical Practice Research Datalink AURUM",
+      "id": "ef42201e-deb1-4675-896a-8a0162fe52a8",
+      "url": "https://web.www.healthdatagateway.org/dataset/ef42201e-deb1-4675-896a-8a0162fe52a8"
+    }
+  ],
   "Ankylosing spondylitis": [
     {
       "name": "Clinical Practice Research Datalink GOLD",
@@ -3346,6 +3358,13 @@
       "name": "Hospital Episode Statistics APC for CPRD GOLD",
       "id": "77b5cf84-d4f2-4418-bafa-73306cf2d2b2",
       "url": "https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2"
+    }
+  ],
+  "Marital status": [
+    {
+      "name": "Clinical Practice Research Datalink GOLD",
+      "id": "756daeaa-6e47-4269-9df5-477c01cdd271",
+      "url": "https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271"
     }
   ],
   "Epilepsy": [

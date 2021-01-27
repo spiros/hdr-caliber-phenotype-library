@@ -1429,6 +1429,12 @@
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-sickle-cell-boyudsy7scnganeafw9ffb"
     },
     {
+      "name": "Illicit opioid use",
+      "type": "Lifestyle Risk Factor",
+      "id": "mZXE2uZxDzVYBsAbTjbhrK",
+      "url": "https://portal.caliberresearch.org/phenotypes/lewer-hupio-mzxe2uzxdzvybsabtjbhrk"
+    },
+    {
       "name": "Ankylosing spondylitis",
       "type": "Disease or Syndrome",
       "id": "M52WcZ3izzZtQD7PswhEB5",
@@ -1607,6 +1613,12 @@
       "type": "Disease or Syndrome",
       "id": "5Gg3Vvf9jQGzE7KXzWE577",
       "url": "https://portal.caliberresearch.org/phenotypes/kuan-menorrhagia-5gg3vvf9jqgze7kxzwe577"
+    },
+    {
+      "name": "Marital status",
+      "type": "Lifestyle Risk Factor",
+      "id": "R8V44bGGETqrvQHbhbWpYL",
+      "url": "https://portal.caliberresearch.org/phenotypes/caliber-marital-status-cprd-r8v44bggetqrvqhbhbwpyl"
     },
     {
       "name": "Epilepsy",
@@ -3655,6 +3667,14 @@
       "type": "Disease or Syndrome",
       "id": "idsvFMrDh3ovRRoAK6HWAh",
       "url": "https://portal.caliberresearch.org/phenotypes/hardelid-congenital-anom-idsvfmrdh3ovrroak6hwah"
+    }
+  ],
+  "ef42201e-deb1-4675-896a-8a0162fe52a8": [
+    {
+      "name": "Illicit opioid use",
+      "type": "Lifestyle Risk Factor",
+      "id": "mZXE2uZxDzVYBsAbTjbhrK",
+      "url": "https://portal.caliberresearch.org/phenotypes/lewer-hupio-mzxe2uzxdzvybsabtjbhrk"
     }
   ]
 }
