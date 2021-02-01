@@ -5,6 +5,8 @@ phenotype_id: 3CrnLA26CnYaWik6DfCfdt
 name: Psoriasis
 type: Disease or Syndrome                   
 group: Psoriasis
+sources: 
+    - clinicalcodes
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:

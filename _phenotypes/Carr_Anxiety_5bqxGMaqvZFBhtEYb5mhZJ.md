@@ -5,6 +5,8 @@ phenotype_id: 5bqxGMaqvZFBhtEYb5mhZJ
 name: Anxiety
 type: Disease or Syndrome                   
 group: Anxiety
+sources: 
+    - clinicalcodes
 data_sources:
     - Clinical Practice Research Datalink GOLD
     - Clinical Practice Research Datalink AURUM

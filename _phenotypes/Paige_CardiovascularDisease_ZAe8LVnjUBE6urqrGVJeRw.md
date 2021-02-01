@@ -5,6 +5,8 @@ phenotype_id: ZAe8LVnjUBE6urqrGVJeRw
 name: Cardiovascular Disease
 type: Disease or Syndrome                   
 group: Cardiovascular Disease
+sources: 
+    - clinicalcodes
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:

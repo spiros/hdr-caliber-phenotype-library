@@ -5,6 +5,8 @@ phenotype_id: U3GKUiQA222TxunCZz8SZF
 name: Depression
 type: Disease or Syndrome                   
 group: Depression
+sources: 
+    - clinicalcodes
 data_sources:
     - Clinical Practice Research Datalink GOLD
     - Clinical Practice Research Datalink AURUM

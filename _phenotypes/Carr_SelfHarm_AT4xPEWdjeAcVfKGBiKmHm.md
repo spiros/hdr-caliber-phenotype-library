@@ -5,6 +5,8 @@ phenotype_id: AT4xPEWdjeAcVfKGBiKmHm
 name: Self Harm
 type: Disease or Syndrome                   
 group: Self Harm
+sources: 
+    - clinicalcodes
 data_sources:
     - Clinical Practice Research Datalink GOLD
     - Clinical Practice Research Datalink AURUM

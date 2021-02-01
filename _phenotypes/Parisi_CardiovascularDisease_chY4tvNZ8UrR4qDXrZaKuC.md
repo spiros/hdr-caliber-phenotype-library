@@ -5,6 +5,8 @@ phenotype_id: chY4tvNZ8UrR4qDXrZaKuC
 name: Cardiovascular Disease (Psoriasis Association Study with CVD)
 type: Disease or Syndrome                   
 group: Cardiovascular Disease
+sources: 
+    - clinicalcodes
 data_sources:
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
