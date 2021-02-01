@@ -7,9 +7,7 @@ ClinicalCodes.org – An online clinical codes repository to improve validity an
 
 ## What is ClinicalCodes.org?
 
-The ClinicalCodes repository aims to hold code lists for all published electronic medical record studies, irrespective of code type (e.g. Read, ICD9-10, SNOMED) and database (CPRD, QResearch, THIN etc.). Once deposited, code lists will be freely available, with no login needed to download codes.
-
-ClinicalCodes.org is hosted at the <a href="http://www.population-health.manchester.ac.uk/">Institute of Population Health</a> (IPH) at the <a href="http://www.mhs.manchester.ac.uk/">University of Manchester Faculty of Medical and Human Sciences</a>.
+The ClinicalCodes repository aims to hold code lists for all published electronic medical record studies, irrespective of code type (e.g. Read, ICD9-10, SNOMED) and database (CPRD, QResearch, THIN etc.). ClinicalCodes.org is hosted at the <a href="http://www.population-health.manchester.ac.uk/">Institute of Population Health</a> (IPH) at the <a href="http://www.mhs.manchester.ac.uk/">University of Manchester Faculty of Medical and Human Sciences</a>.
 
 It a collaborative project involving the following University of Manchester centres:
 <ul>
