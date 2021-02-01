@@ -1,0 +1,721 @@
+code,coding_system,description,entity,list_name,upload_date
+14K1.00,Read,Intentional overdose of prescription only medication,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+1JP..00,Read,Suspected drug overdose,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+K048.00,Read,Acute renal failure induced by poison,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL...14,Read,Overdose of biological substance,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL...15,Read,Overdose of drug,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL...16,Read,Poisoning by drug and biological substances,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5..00,Read,Analgesic; antipyretic and antirheumatic drug poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL50400,Read,Meperidine (pethidine) poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL50500,Read,Morphine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL50600,Read,Dextropropoxyphene poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL50700,Read,Dihydrocodeine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL51.00,Read,Salicylate poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL51000,Read,Aspirin poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5..11,Read,Analgesic poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL51100,Read,Salicylic acid salt poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5..12,Read,Antipyretic poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL51z00,Read,Salicylate poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL52.00,Read,Aromatic analgesic poisoning NEC,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL52100,Read,Paracetamol poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL52200,Read,Phenacetin poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL52z00,Read,Aromatic analgesic poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL53100,Read,Phenylbutazone poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL54200,Read,Ibuprofen poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL54300,Read,Naproxen poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL54400,Read,Mefenamic acid poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5..99,Read,Poisoning by analgesics,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5x.00,Read,Other non-narcotic analgesic poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5xz00,Read,Non-narcotic analgesic poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5y.00,Read,Other analgesic and antipyretic poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5y000,Read,Pentazocine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5y100,Read,Analgesic poisoning; NEC,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5y199,Read,Poisoning by analgesics,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5y200,Read,Antipyretic poisoning; NEC,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5yz00,Read,Other analgesic or antipyretic poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL5z.00,Read,Analgesic; antipyretic or antirheumatic poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL7..00,Read,Sedative and hypnotic drug poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL70.00,Read,Barbiturate poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL70400,Read,Phenobarbital poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL70511,Read,Quinalbarbitone poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL70z00,Read,Barbiturate poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL7..11,Read,Hypnotic poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL7..12,Read,Sedative poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL76.00,Read,Mixed sedative poisoning NEC,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL7y.00,Read,Other sedative and hypnotic poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL7z.00,Read,Sedative and hypnotic drug poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL7z.11,Read,Sleeping drug poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL8..00,Read,Central nervous system depressants and anaesthetic poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL80.00,Read,Central nervous system muscle-tone depressant poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL80z00,Read,Central nervous system muscle-tone depressant poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL8..11,Read,Anaesthetic poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL83200,Read,Thiopental sodium poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL83x00,Read,Other thiobarbiturate poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL84.00,Read,Other general anaesthetic agent poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL9..00,Read,Psychotropic agent poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL90.00,Read,Antidepressant poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL90000,Read,Amitriptyline poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL90100,Read,Imipramine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL90200,Read,Monoamine oxidase inhibitor poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL90211,Read,MAOI - Monoamine oxidase inhibitor poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL90300,Read,Trazodone poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL90z00,Read,Anti-depressant poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL91.00,Read,Phenothiazine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL91000,Read,Chlorpromazine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL91100,Read,Fluphenazine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL91200,Read,Prochlorperazine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL91300,Read,Promazine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL91400,Read,Thioridazine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL91z00,Read,Phenothiazine poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL92.00,Read,Butyrophenone poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL92000,Read,Haloperidol poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL92100,Read,Spiperone poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL92200,Read,Trifluperidol poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL92z00,Read,Butyrophenone poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL93.00,Read,Other antipsychotics/neuroleptics/tranquilliser poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL94.00,Read,Benzodiazepine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL94000,Read,Chlordiazepoxide poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL94100,Read,Diazepam poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL94200,Read,Flurazepam poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL94300,Read,Lorazepam poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL94400,Read,Medazepam poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL94500,Read,Nitrazepam poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL94600,Read,Poisoning by temazepam,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL94z00,Read,Benzodiazepine poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL95.00,Read,Other tranquilliser poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL95000,Read,Hydroxyzine poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL95z00,Read,Tranquilliser poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL...97,Read,Poisoning by CNS drugs,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL97.00,Read,Psychostimulant poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL97.11,Read,Stimulant poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL97z00,Read,Psychostimulant poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL...98,Read,Poisoning by drugs/medicaments,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL9y.00,Read,Other psychotropic agent poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SL9z.00,Read,Psychotropic agent poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLA..00,Read,Central nervous system stimulant poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLAy.00,Read,Other central nervous system stimulant poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLAz.00,Read,Central nervous system stimulant poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLB..00,Read,Autonomic nervous system drug poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLC0200,Read,Propranolol poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLC0400,Read,Beta blocker poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLHyz00,Read,Other drug and medicament poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLHz.00,Read,Drug and medicament poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLHz.98,Read,Poisoning by drugs/medicaments,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLHz.99,Read,Poisoning by medicaments NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLX..00,Read,Poisoning by oth & unspec antipsychotics & neuroleptics,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SLz..00,Read,Drug; medicament or biological substance poisoning NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SyuF.00,Read,[X]Poisoning by drugs and biological substances,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SyuFA00,Read,[X]Poisoning by other analgesics; not elsewhere classified,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SyuFc00,Read,[X]Poisoning by oth & unspecif drugs & biologic substances,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SyuFd00,Read,[X]Poisoning by anaesthetic; unspecified,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SyuFF00,Read,[X]Poisoning by other and unspecified general anaesthetics,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SyuFG00,Read,[X]Poisoning by mixed antiepileptics; NEC,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SyuFH00,Read,[X]Poisoning by oth antiepileptic & sedative-hypnotic drugs,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SyuFJ00,Read,[X]Poisoning by antipark drug/oth central musc-tone depress,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SyuFK00,Read,[X]Poisoning by other and unspecified antidepressants,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SyuFL00,Read,[X]Poisoning by oth & unspec antipsychotics & neuroleptics,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+SyuFM00,Read,[X]Poisoning by other psychotropic drugs; NEC,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+T....98,Read,Suicide/assault/other inj caus,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK...00,Read,Suicide and selfinflicted injury,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK0..00,Read,Suicide + selfinflicted poisoning by solid/liquid substances,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK00.00,Read,Suicide + selfinflicted poisoning by analgesic/antipyretic,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK01.00,Read,Suicide + selfinflicted poisoning by barbiturates,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK01000,Read,Suicide and self inflicted injury by Amylobarbitone,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK01011,Read,Suicide and self inflicted injury by amobarbital,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK01100,Read,Suicide and self inflicted injury by Barbitone,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK01200,Read,Suicide and self inflicted injury by Butabarbitone,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK01300,Read,Suicide and self inflicted injury by Pentabarbitone,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK01400,Read,Suicide and self inflicted injury by Phenobarbitone,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK01411,Read,Suicide and self inflicted injury by Phenobarbital,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK01500,Read,Suicide and self inflicted injury by Quinalbarbitone,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK01511,Read,Suicide and self inflicted injury by secobarbital,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK01z00,Read,Suicide and self inflicted injury by barbiturates,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK02.00,Read,Suicide + selfinflicted poisoning by oth sedatives/hypnotics,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK03.00,Read,Suicide + selfinflicted poisoning tranquilliser/psychotropic,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK04.00,Read,Suicide + selfinflicted poisoning by other drugs/medicines,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK05.00,Read,Suicide + selfinflicted poisoning by drug or medicine NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK05.99,Read,Attempt suicide -drug overdose,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK06.00,Read,Suicide + selfinflicted poisoning by agricultural chemical,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK07.00,Read,Suicide + selfinflicted poisoning by corrosive/caustic subst,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK08.00,Read,Suicide + selfinflicted poisoning by arsenic + its compounds,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK0z.00,Read,Suicide + selfinflicted poisoning by solid/liquid subst NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK1..00,Read,Suicide + selfinflicted poisoning by gases in domestic use,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK10.00,Read,Suicide + selfinflicted poisoning by gas via pipeline,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK...11,Read,Cause of overdose - deliberate,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK11.00,Read,Suicide + selfinflicted poisoning by liquified petrol gas,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK...12,Read,Injury - self-inflicted,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK...13,Read,Poisoning - self-inflicted,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK...14,Read,Suicide and self harm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK...15,Read,Attempted suicide,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK...17,Read,Para-suicide,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK1..99,Read,Attempt suicide - domestic gas,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK1y.00,Read,Suicide and selfinflicted poisoning by other utility gas,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK1z.00,Read,Suicide + selfinflicted poisoning by domestic gases NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK2..00,Read,Suicide + selfinflicted poisoning by other gases and vapours,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK20.00,Read,Suicide + selfinflicted poisoning by motor veh exhaust gas,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK20.99,Read,Attempt suicide - car exhaust,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK21.00,Read,Suicide and selfinflicted poisoning by other carbon monoxide,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK2y.00,Read,Suicide + selfinflicted poisoning by other gases and vapours,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK2z.00,Read,Suicide + selfinflicted poisoning by gases and vapours NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK3..00,Read,Suicide + selfinflicted injury by hang/strangulate/suffocate,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK30.00,Read,Suicide and selfinflicted injury by hanging,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK30.99,Read,Attempt suicide - hanging,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK31.00,Read,Suicide + selfinflicted injury by suffocation by plastic bag,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK31.99,Read,Attempt suicide - suffocate,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK3y.00,Read,Suicide + selfinflicted inj oth mean hang/strangle/suffocate,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK3z.00,Read,Suicide + selfinflicted inj by hang/strangle/suffocate NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK4..00,Read,Suicide and selfinflicted injury by drowning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK4..99,Read,Attempt suicide - drowning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK5..00,Read,Suicide and selfinflicted injury by firearms and explosives,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK50.00,Read,Suicide and selfinflicted injury by handgun,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK51.00,Read,Suicide and selfinflicted injury by shotgun,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK52.00,Read,Suicide and selfinflicted injury by hunting rifle,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK53.00,Read,Suicide and selfinflicted injury by military firearms,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK54.00,Read,Suicide and selfinflicted injury by other firearm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK55.00,Read,Suicide and selfinflicted injury by explosives,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK5..99,Read,Attempt suicide - firearms,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK5z.00,Read,Suicide and selfinflicted injury by firearms/explosives NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK6..00,Read,Suicide and selfinflicted injury by cutting and stabbing,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK60.00,Read,Suicide and selfinflicted injury by cutting,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK60100,Read,Self inflicted lacerations to wrist,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK60111,Read,Slashed wrists self inflicted,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK61.00,Read,Suicide and selfinflicted injury by stabbing,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK6..99,Read,Attempt suicide - cut/stab,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK6z.00,Read,Suicide and selfinflicted injury by cutting and stabbing NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK7..00,Read,Suicide and selfinflicted injury by jumping from high place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK70.00,Read,Suicide+selfinflicted injury-jump from residential premises,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK71.00,Read,Suicide+selfinflicted injury-jump from oth manmade structure,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK72.00,Read,Suicide+selfinflicted injury-jump from natural sites,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK7..99,Read,Attempt suicide-jump from high,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK7z.00,Read,Suicide+selfinflicted injury-jump from high place NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TK...98,Read,Attempt suicide - NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx..00,Read,Suicide and selfinflicted injury by other means,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx0.00,Read,Suicide + selfinflicted injury-jump/lie before moving object,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx0000,Read,Suicide + selfinflicted injury-jumping before moving object,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx0100,Read,Suicide + selfinflicted injury-lying before moving object,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx0z00,Read,Suicide + selfinflicted inj-jump/lie before moving obj NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx1.00,Read,Suicide and selfinflicted injury by burns or fire,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx2.00,Read,Suicide and selfinflicted injury by scald,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx3.00,Read,Suicide and selfinflicted injury by extremes of cold,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx4.00,Read,Suicide and selfinflicted injury by electrocution,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx5.00,Read,Suicide and selfinflicted injury by crashing motor vehicle,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx6.00,Read,Suicide and selfinflicted injury by crashing of aircraft,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKx7.00,Read,Suicide and selfinflicted injury caustic subst; excl poison,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKxy.00,Read,Suicide and selfinflicted injury by other specified means,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKxz.00,Read,Suicide and selfinflicted injury by other means NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKz..00,Read,Suicide and selfinflicted injury NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TKz..99,Read,Attempt suicide - NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TN3..00,Read,Injury ?accidental; hanging; strangulation and suffocation,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TN3z.00,Read,Injury ?accidental; hanging/strangulation/suffocation NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TN6..00,Read,Injury ?accidental; by cutting and stabbing instruments,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TN60.00,Read,Injury ?accidental; by cutting instrument,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TN61.00,Read,Injury ?accidental; by stabbing instrument,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TN6z.00,Read,Injury ?accidental; by cutting or stabbing instrument NOS,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+TN84.00,Read,Injury ?accidental; by electrocution,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2...00,Read,[X]Intentional self-harm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20..00,Read,[X]Intentional self poisoning/exposure to noxious substances,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200.00,Read,[X]Intent self poison/exposure to nonopioid analgesic,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200000,Read,[X]Int self poison/exposure to nonopioid analgesic at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200100,Read,[X]Intent self poison nonopioid analgesic at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200.11,Read,[X]Overdose - paracetamol,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200.12,Read,[X]Overdose - ibuprofen,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200.13,Read,[X]Overdose - aspirin,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200200,Read,[X]Int self poison nonopioid analges school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200300,Read,[X]Int self poison nonopioid analges in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200400,Read,[X]Intent self pois nonopioid analgesic in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200500,Read,[X]Intent self pois nonopioid analgesic trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200600,Read,[X]Int self pois nonopioid analgesic indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200700,Read,[X]Int self poison/exposure to nonopioid analgesic on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200y00,Read,[X]Int self poison nonopioid analgesic other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U200z00,Read,[X]Intent self poison nonopioid analgesic unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U201.00,Read,[X]Intent self poison/exposure to antiepileptic,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U201000,Read,[X]Int self poison/exposure to antiepileptic at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20..11,Read,[X]Deliberate drug overdose / other poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U201100,Read,[X]Intent self poison antiepileptic at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U201200,Read,[X]Intent self pois nonopioid analges school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U201300,Read,[X]Int self poison antiepileptic in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U201400,Read,[X]Intent self pois antiepileptic in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U201500,Read,[X]Intent self pois antiepileptic trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U201600,Read,[X]Int self poison antiepileptic indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U201700,Read,[X]Int self poison/exposure to antiepileptic on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U201y00,Read,[X]Intent self poison antiepileptic other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U201z00,Read,[X]Intent self poison antiepileptic unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202.00,Read,[X]Intent self poison/exposure to sedative hypnotic,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202000,Read,[X]Int self poison/exposure to sedative hypnotic at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202100,Read,[X]Intent self poison sedative hypnotic at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202.11,Read,[X]Overdose - sleeping tabs,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202.12,Read,[X]Overdose - diazepam,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202.13,Read,[X]Overdose - temazepam,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202.14,Read,[X]Overdose - flurazepam,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202.15,Read,[X]Overdose - nitrazepam,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202.16,Read,[X]Overdose - benzodiazepine,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202.17,Read,[X]Overdose - barbiturate,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202.18,Read,[X]Overdose - amobarbital,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202200,Read,[X]Int self poison sedative hypnotic school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202300,Read,[X]Int self poison sedative hypnotic in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202400,Read,[X]Intent self pois sedative hypnotic in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202500,Read,[X]Intent self pois sedative hypnotic trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202600,Read,[X]Int self pois sedative hypnotic indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202700,Read,[X]Int self poison/exposure to sedative hypnotic on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202y00,Read,[X]Int self poison sedative hypnotic other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U202z00,Read,[X]Intent self poison sedative hypnotic unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U203.00,Read,[X]Intent self poison/exposure to antiparkinson drug,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U203000,Read,[X]Int self poison/exposure to antiparkinson drug at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U203100,Read,[X]Intent self poison antiparkinson drug at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U203200,Read,[X]Int self poison antparkinson drug school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U203300,Read,[X]Int self poison antparkinson drug in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U203400,Read,[X]Intent self pois antiparkinson drug in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U203500,Read,[X]Intent self pois antiparkinson drug trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U203600,Read,[X]Int self pois antiparkinson drug indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U203700,Read,[X]Int self poison/exposure to antiparkinson drug on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U203y00,Read,[X]Int self poison antiparkinson drug other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U203z00,Read,[X]Intent self poison antiparkinson drug unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204.00,Read,[X]Intent self poison/exposure to psychotropic drug,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204000,Read,[X]Int self poison/exposure to psychotropic drug at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204100,Read,[X]Intent self poison psychotropic drug at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204.11,Read,[X]Overdose - antidepressant,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204.12,Read,[X]Overdose - amitriptyline,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204.13,Read,[X]Overdose - SSRI,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204200,Read,[X]Int self poison psychotropic drug school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204300,Read,[X]Int self poison psychotropic drug in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204400,Read,[X]Intent self pois psychotropic drug in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204500,Read,[X]Intent self pois psychotropic drug trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204600,Read,[X]Int self pois psychotropic drug indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204700,Read,[X]Int self poison/exposure to psychotropic drug on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204y00,Read,[X]Int self poison psychotropic drug other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U204z00,Read,[X]Intent self poison psychotropic drug unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U205.00,Read,[X]Intent self poison/exposure to narcotic drug,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U205000,Read,[X]Int self poison/exposure to narcotic drug at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U205100,Read,[X]Intent self poison narcotic drug at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U205200,Read,[X]Int self poison narcotic drug school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U205300,Read,[X]Int self poison narcotic drug in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U205400,Read,[X]Intent self pois narcotic drug in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U205500,Read,[X]Intent self pois narcotic drug trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U205600,Read,[X]Int self pois narcotic drug indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U205700,Read,[X]Int self poison/exposure to narcotic drug on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U205y00,Read,[X]Int self poison narcotic drug other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U205z00,Read,[X]Intent self poison narcotic drug unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U206.00,Read,[X]Intent self poison/exposure to hallucinogen,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U206000,Read,[X]Int self poison/exposure to hallucinogen at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U206100,Read,[X]Intent self poison hallucinogen at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U206200,Read,[X]Int self poison hallucinogenschool/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U206300,Read,[X]Int self poison hallucinogenin sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U206400,Read,[X]Intent self pois hallucinogen in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U206500,Read,[X]Intent self pois hallucinogen trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U206600,Read,[X]Int self pois hallucinogen indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U206700,Read,[X]Int self poison/exposure to hallucinogen on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U206y00,Read,[X]Int self poison hallucinogen other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U206z00,Read,[X]Intent self poison hallucinogen unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U207.00,Read,[X]Intent self poison/exposure to oth autonomic drug,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U207000,Read,[X]Int self poison/exposure to oth autonomic drug at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U207100,Read,[X]Intent self poison oth autonomic drug at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U207200,Read,[X]Int self poison oth autonom drug school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U207300,Read,[X]Int self poison oth autonom drug in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U207400,Read,[X]Intent self pois oth autonomic drug in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U207500,Read,[X]Intent self pois oth autonomic drug trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U207600,Read,[X]Int self pois oth autonomic drug indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U207700,Read,[X]Int self poison/exposure to oth autonomic drug on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U207y00,Read,[X]Int self poison oth autonomic drug other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U207z00,Read,[X]Intent self poison oth autonomic drug unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U208.00,Read,[X]Int self poison/exposure to other/unspec drug/medicament,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U208000,Read,[X]Int self poison/exposure to oth/unsp drug/medicam home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U208100,Read,[X]Intent self poison oth/unsp drug/medicam res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U208200,Read,[X]Int self poison oth/uns drug/med school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U208300,Read,[X]Int self poison oth/uns drug/med in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U208400,Read,[X]Intent self pois oth/unsp drug/medic in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U208500,Read,[X]Intent self pois oth/unsp drug/medic trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U208600,Read,[X]Int self pois oth/unsp drug/medic indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U208700,Read,[X]Int self poison/exposure to oth/unsp drug/medic on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U208y00,Read,[X]Int self poison oth/unsp drug/medic other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U208z00,Read,[X]Intent self poison oth/unsp drug/medic unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U209.00,Read,[X]Intent self poison/exposure to alcohol,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U209000,Read,[X]Int self poison/exposure to alcohol at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U209100,Read,[X]Intent self poison alcohol at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U209200,Read,[X]Int self poison alcohol school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U209300,Read,[X]Int self poison alcohol in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U209400,Read,[X]Intent self pois alcohol in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U209500,Read,[X]Intent self pois alcohol trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U209600,Read,[X]Int self pois alcohol indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U209700,Read,[X]Int self poison/exposure to alcohol on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U209y00,Read,[X]Int self poison alcohol other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U209z00,Read,[X]Intent self poison alcohol unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20A.00,Read,[X]Intentional self poison organ solvent;halogen hydrocarb,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20A000,Read,[X]Intent self pois organ solvent;halogen hydrocarb; home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20A100,Read,[X]Int self poison org solvent;halogen hydrocarb;res instit,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20A.11,Read,[X]Self poisoning from glue solvent,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20A200,Read,[X]Int self poison org solvent;halogen hydrocarb; school,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20A300,Read,[X]Int self poison org solvent;halogen hydrocarb;sport area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20A400,Read,[X]Int self poison org solvent;halogen hydrocarb;in highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20A500,Read,[X]Int self poison org solvent;halogen hydrocarb;trade area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20A600,Read,[X]Int self pois org solvent;halogen hydrocarb;indust area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20A700,Read,[X]Int self poison org solvent;halogen hydrocarb;on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20Ay00,Read,[X]Int self pois org solv;halogen hydrocarb;oth spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20Az00,Read,[X]Int self pois org solv;halogen hydrocarb; unspec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20B.00,Read,[X]Intent self poison/exposure to other gas/vapour,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20B000,Read,[X]Int self poison/exposure to other gas/vapour at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20B100,Read,[X]Intent self poison other gas/vapour at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20B.11,Read,[X]Self carbon monoxide poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20B200,Read,[X]Int self poison other gas/vapour school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20B300,Read,[X]Int self poison other gas/vapour in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20B400,Read,[X]Intent self pois other gas/vapour in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20B500,Read,[X]Intent self pois other gas/vapour trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20B600,Read,[X]Int self pois other gas/vapour indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20B700,Read,[X]Int self poison/exposure to other gas/vapour on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20By00,Read,[X]Int self poison other gas/vapour other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20Bz00,Read,[X]Intent self poison other gas/vapour unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20C.00,Read,[X]Intent self poison/exposure to pesticide,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20C000,Read,[X]Int self poison/exposure to pesticide at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20C100,Read,[X]Intent self poison pesticide at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20C.11,Read,[X]Self poisoning with weedkiller,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20C.12,Read,[X]Self poisoning with paraquat,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20C200,Read,[X]Int self poison pesticide school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20C300,Read,[X]Int self poison pesticide in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20C400,Read,[X]Intent self pois pesticide in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20C500,Read,[X]Intent self pois pesticide trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20C600,Read,[X]Int self pois pesticide indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20C700,Read,[X]Int self poison/exposure to pesticide on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20Cy00,Read,[X]Int self poison pesticide other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20Cz00,Read,[X]Intent self poison pesticide unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20y.00,Read,[X]Intent self poison/exposure to unspecif chemical,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20y000,Read,[X]Int self poison/exposure to unspecif chemical at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20y100,Read,[X]Intent self poison unspecif chemical at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20y200,Read,[X]Int self poison unspecif chemical school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20y300,Read,[X]Int self poison unspecif chemical in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20y400,Read,[X]Intent self pois unspecif chemical in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20y500,Read,[X]Intent self pois unspecif chemical trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20y600,Read,[X]Int self pois unspecif chemical indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20y700,Read,[X]Int self poison/exposure to unspecif chemical on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20yy00,Read,[X]Int self poison unspecif chemical other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U20yz00,Read,[X]Intent self poison unspecif chemical unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U21..00,Read,[X]Intent self harm by hanging strangulation / suffocation,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U210.00,Read,[X]Intent self harm by hanging strangulat/suffocat occ home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2...11,Read,[X]Self inflicted injury,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U211.00,Read,[X]Intent self harm by hangng strangult/suffoct resid instit,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2...12,Read,[X]Injury - self-inflicted,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U213.00,Read,[X]Intent self harm by hang strangl/suffc sport/athlet area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2...14,Read,[X]Attempted suicide,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U214.00,Read,[X]Intent self harm by hangng strangult/suffoct street/h'way,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2...15,Read,[X]Para-suicide,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U215.00,Read,[X]Intent self harm by hang strangl/suffc trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U216.00,Read,[X]Intent self harm by hang strangl/suffc indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U217.00,Read,[X]Intent self harm by hanging strangulat/suffocat occ farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U21y.00,Read,[X]Intent self harm by hangng strangul/suffoct oth spec plce,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U21z.00,Read,[X]Intent self harm by hangng strangul/suffoct unspecif plce,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U22..00,Read,[X]Intentional self harm by drowning and submersion,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U220.00,Read,[X]Intent self harm by drowning/submersion occurrn at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U221.00,Read,[X]Intent self harm by drowning/submersn occ resid instit'n,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U222.00,Read,[X]Intent self harm drown/submers occ sch/ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U223.00,Read,[X]Intent self harm by drown/submersn occ sport/athlet area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U224.00,Read,[X]Intent self harm by drowning/submersn occ street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U225.00,Read,[X]Intent self harm by drown/submersn occ trade/servce area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U226.00,Read,[X]Intent self harm by drown/submers occ indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U227.00,Read,[X]Intent self harm by drowning/submersion occurrn on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U22y.00,Read,[X]Intent self harm by drown/submersn occ oth specif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U22z.00,Read,[X]Intent self harm by drown/submersn occ unspecified place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U23..00,Read,[X]Intentional self harm by handgun discharge,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U230.00,Read,[X]Intention self harm by handgun discharge occurrn at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U231.00,Read,[X]Intent self harm by handgun disch occ in resid instit'n,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U232.00,Read,[X]Intent self harm h'gun disch occ sch oth ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U233.00,Read,[X]Intent self harm by handgun disch occ sport/athlet area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U234.00,Read,[X]Intent self harm by handgun disch occ on street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U235.00,Read,[X]Intent self harm by handgun disch occ trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U236.00,Read,[X]Intent self harm by handgun disch occ indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U237.00,Read,[X]Intention self harm by handgun discharge occurrn on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U23y.00,Read,[X]Intent self harm by handgun disch occ at oth specif plce,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U23z.00,Read,[X]Intent self harm by handgun disch occ at unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U24..00,Read,[X]Intent self harm by rifle shotgun/larger firearm disch,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U240.00,Read,[X]Intent self harm rifle sh'gun/largr firarm disch occ home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U241.00,Read,[X]Int self harm rifl s'gun/lrg frarm disch occ resid instit,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U243.00,Read,[X]Int self harm rifl s'gun/lrg frarm disch sprt/athlet area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U244.00,Read,[X]Int self harm rifl s'gun/lrg frarm disch occ street/h'way,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U245.00,Read,[X]Int self harm rifl s'gun/lrg frarm disch trad/servce area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U247.00,Read,[X]Intent self harm rifle sh'gun/largr firarm disch occ farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U24y.00,Read,[X]Int self harm rifl s'gun/lrg frarm disch oth specif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U24z.00,Read,[X]Int self harm rifl s'gun/lrg frarm disch occ unspec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U25..00,Read,[X]Intent self harm by other/unspecified firearm discharge,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U250.00,Read,[X]Intent self harm oth/unspecif firearm disch occ at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U251.00,Read,[X]Intent self harm oth/unsp firearm disch occ resid instit,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U252.00,Read,[X]Inten self harm oth/uns firarm disch sch/ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U253.00,Read,[X]Inten self harm oth/uns firearm disch occ sprt/athl area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U254.00,Read,[X]Intent self harm oth/unsp firearm disch occ street/h'way,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U255.00,Read,[X]Intent self harm oth/uns firearm disch trade/servce area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U256.00,Read,[X]Inten self harm oth/uns firearm disch indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U257.00,Read,[X]Intent self harm oth/unspecif firearm disch occ on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U25y.00,Read,[X]Intent self harm oth/unsp firearm disch oth specif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U25z.00,Read,[X]Intent self harm oth/unsp firearm disch occ unspecif plce,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U26..00,Read,[X]Intentional self harm by explosive material,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U260.00,Read,[X]Intention self harm by explosive material occurrn home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U261.00,Read,[X]Intention self harm by explosiv materl occ resid instit,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U262.00,Read,[X]Intent self harm by explosiv materl sch/ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U263.00,Read,[X]Intent self harm by explosv materl occ sport/athlet area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U264.00,Read,[X]Intention self harm by explosiv materl occ street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U265.00,Read,[X]Intent self harm by explosv materl occ trade/servce area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U266.00,Read,[X]Intent self harm by explosv materl occ indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U267.00,Read,[X]Intention self harm by explosive material occurrn farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U26y.00,Read,[X]Intent self harm by explosiv materl occ oth specif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U26z.00,Read,[X]Intent self harm by explosiv materl occ unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U27..00,Read,[X]Intentional self harm by smoke; fire and flames,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U270.00,Read,[X]Intention self harm by smoke fire/flames occurrn at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U271.00,Read,[X]Intent self harm by smoke fire/flame occ resid instit'n,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U272.00,Read,[X]Intent self harm by smoke fire/flame sch/ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U273.00,Read,[X]Intent self harm by smok fire/flam occ sport/athlet area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U274.00,Read,[X]Intent self harm by smoke fire/flame occ street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U275.00,Read,[X]Intent self harm by smok fire/flam occ trade/servce area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U276.00,Read,[X]Intent self harm by smok fire/flam occ indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U277.00,Read,[X]Intention self harm by smoke fire/flames occurrn on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U27y.00,Read,[X]Intent self harm by smoke fire/flame occ oth specif plce,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U27z.00,Read,[X]Intent self harm by smoke fire/flames occ unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U28..00,Read,[X]Intentional self harm by steam hot vapours / hot objects,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U280.00,Read,[X]Intent self harm by steam hot vapour/hot obj occ at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U281.00,Read,[X]Intent self harm by steam hot vapour/obj occ resid instit,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U282.00,Read,[X]Int self harm by steam hot vapor/obj sch/ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U283.00,Read,[X]Int self harm by steam hot vapour/obj occ sport/athl area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U284.00,Read,[X]Intent self harm by steam hot vapour/obj occ street/h'way,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U285.00,Read,[X]Int self harm by steam hot vapour/obj trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U286.00,Read,[X]Int self harm by steam hot vapour/obj indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U287.00,Read,[X]Intent self harm by steam hot vapour/hot obj occ on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U28y.00,Read,[X]Intent self harm by steam hot vapour/obj oth specif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U28z.00,Read,[X]Intent self harm by steam hot vapour/obj occ unspec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U29..00,Read,[X]Intentional self harm by sharp object,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U290.00,Read,[X]Intentional self harm by sharp object occurrence at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U291.00,Read,[X]Intent self harm by sharp object occ resident instit'n,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U292.00,Read,[X]Intent self harm sharp obj occ sch oth ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U293.00,Read,[X]Intent self harm by sharp object occ sports/athlet area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U294.00,Read,[X]Intention self harm by sharp object occ street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U295.00,Read,[X]Intent self harm by sharp object occ trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U296.00,Read,[X]Intent self harm by sharp object occ indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U297.00,Read,[X]Intentional self harm by sharp object occurrence on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U29y.00,Read,[X]Intention self harm by sharp object occ oth specif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U29z.00,Read,[X]Intentional self harm by sharp object occ unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2A..00,Read,[X]Intentional self harm by blunt object,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2A0.00,Read,[X]Intentional self harm by blunt object occurrence at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2A1.00,Read,[X]Intent self harm by blunt object occ resident instit'n,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2A2.00,Read,[X]Intent self harm blunt obj occ sch oth ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2A3.00,Read,[X]Intent self harm by blunt object occ sports/athlet area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2A4.00,Read,[X]Intention self harm by blunt object occ street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2A5.00,Read,[X]Intent self harm by blunt object occ trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2A6.00,Read,[X]Intent self harm by blunt object occ indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2A7.00,Read,[X]Intentional self harm by blunt object occurrence on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2Ay.00,Read,[X]Intention self harm by blunt object occ oth specif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2Az.00,Read,[X]Intentional self harm by blunt object occ unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2B..00,Read,[X]Intentional self harm by jumping from a high place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2B0.00,Read,[X]Intent self harm by jumping from high place occ at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2B1.00,Read,[X]Intent self harm by jump from high place occ resid instit,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2B2.00,Read,[X]Int self harm jump fr high place sch oth ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2B3.00,Read,[X]Intent self harm by jump from high place sport/athl area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2B4.00,Read,[X]Intent self harm by jump from high place occ street/h'way,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2B5.00,Read,[X]Intent self harm by jump from high place trad/servce area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2B6.00,Read,[X]Int self harm by jump from high place indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2B7.00,Read,[X]Intent self harm by jumping from high place occ on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2By.00,Read,[X]Int self harm by jump from high place occ oth specif plce,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2Bz.00,Read,[X]Int self harm by jump from high place occ unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2C..00,Read,[X]Intent self harm by jumping / lying before moving object,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2C0.00,Read,[X]Intent self harm by jump/lying befor moving obj occ home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2C1.00,Read,[X]Int self harm jump/lying befr mov obje occ resid instit'n,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2C2.00,Read,[X]Int self harm jump/lying bef mov obj sch/ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2C3.00,Read,[X]Int self harm jump/lying bef mov obj occ sprt/athlet area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2C4.00,Read,[X]Int self harm jump/lying befr mov obje occ street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2C5.00,Read,[X]Int self harm jump/lying bef mov obj occ trad/servce area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2C6.00,Read,[X]Int self harm jump/lying befr mov obj indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2C7.00,Read,[X]Intent self harm by jump/lying befor moving obj occ farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2Cy.00,Read,[X]Int self harm jump/lying bef mov obje occ oth specif plce,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2Cz.00,Read,[X]Int self harm jump/lying bef mov obje occ unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2D..00,Read,[X]Intentional self harm by crashing of motor vehicle,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2D0.00,Read,[X]Intent self harm by crash of motor vehicl occurrn at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2D1.00,Read,[X]Intent self harm by crash motor vehicl occ resid instit'n,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2D2.00,Read,[X]Int self harm crash motor vehicl occ sch/ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2D3.00,Read,[X]Intent self harm by crash motor vehicl occ sprt/athl area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2D4.00,Read,[X]Intent self harm by crash motor vehicl occ street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2D5.00,Read,[X]Intent self harm crash motor vehicl occ trade/servce area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2D6.00,Read,[X]Intent self harm crash motor vehic occ indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2D7.00,Read,[X]Intent self harm by crash of motor vehicl occurrn on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2Dy.00,Read,[X]Intent self harm by crash motor vehic occ oth specif plce,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2Dz.00,Read,[X]Intent self harm by crash motor vehic occ unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2E..00,Read,[X]Self mutilation,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2y..00,Read,[X]Intentional self harm by other specified means,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2y0.00,Read,[X]Intentionl self harm by oth specif means occurrn at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2y1.00,Read,[X]Intent self harm by oth specif means occ resid instit'n,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2y2.00,Read,[X]Intent self harm oth specif mean occ sch/ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2y3.00,Read,[X]Intent self harm by oth specif means occ sport/athl area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2y4.00,Read,[X]Intent self harm by oth specif means occ street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2y5.00,Read,[X]Intent self harm by oth specif means occ trad/servce area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2y6.00,Read,[X]Intent self harm oth specif means occ indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2y7.00,Read,[X]Intentionl self harm by oth specif means occurrn on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2yy.00,Read,[X]Intent self harm oth specif means occ oth specif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2yz.00,Read,[X]Intent self harm by oth specif means occ unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2z..00,Read,[X]Intentional self harm by unspecified means,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2z0.00,Read,[X]Intentional self harm by unspecif means occurrn at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2z1.00,Read,[X]Intent self harm by unspecif means occurrn resid instit'n,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2z2.00,Read,[X]Intent self harm by unspec mean occ sch/ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2z3.00,Read,[X]Intent self harm unspecif means occurrn sport/athlet area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2z4.00,Read,[X]Intent self harm by unspecif means occurrn street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2z5.00,Read,[X]Intent self harm unspecif means occurrn trade/servce area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2z6.00,Read,[X]Intent self harm unspecif mean occurrn indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2z7.00,Read,[X]Intentional self harm by unspecif means occurrn on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2zy.00,Read,[X]Intent self harm by unspecif means occ oth specif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U2zz.00,Read,[X]Intent self harm by unspecif means occ at unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U30..11,Read,[X]Deliberate drug poisoning,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40..00,Read,[X]Poisoning/expos to noxious substance;undetermined intent,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U400.00,Read,[X]Poisoning/exposure; ? intent; to nonopioid analgesic,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U400000,Read,[X]Poison/exposure ?intent; to nonopioid analgesic at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U400100,Read,[X]Pois/expos ?intent to nonopioid analgesic at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U400200,Read,[X]Pois/exp ?intent nonopioid analges school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U400300,Read,[X]Pois/exp ?intent nonopioid analges in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U400400,Read,[X]Pois/expos ?intent nonopioid analgesic in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U400500,Read,[X]Pois/expos ?intent nonopioid analgesic trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U400600,Read,[X]Pois/exp ?intent nonopioid analges indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U400700,Read,[X]Poison/exposure ?intent; to nonopioid analgesic on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U400y00,Read,[X]Pois/exp ?intent to nonopioid analgesic other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U400z00,Read,[X]Pois/expos ?intent to nonopioid analgesic unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U401.00,Read,[X]Poisoning/exposure; ? intent; to antiepileptic,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U401000,Read,[X]Poison/exposure ?intent; to antiepileptic at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U401100,Read,[X]Pois/expos ?intent to antiepileptic at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U401200,Read,[X]Pois/expos ?intent nonopioid analgs school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U401300,Read,[X]Pois/exp ?intent antiepileptics in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U401400,Read,[X]Pois/expos ?intent antiepileptic in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U401500,Read,[X]Pois/expos ?intent antiepileptic trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U401600,Read,[X]Pois/exp ?intent antiepileptic indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U401700,Read,[X]Poison/exposure ?intent; to antiepileptic on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U401y00,Read,[X]Pois/expos ?intent to antiepileptic other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U401z00,Read,[X]Pois/expos ?intent to antiepileptic unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U402.00,Read,[X]Poisoning/exposure; ? intent; to sedative hypnotic,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U402000,Read,[X]Poison/exposure ?intent; to sedative hypnotic at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U402100,Read,[X]Pois/expos ?intent to sedative hypnotic at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U402200,Read,[X]Pois/exp ?intent sedative hypnotic school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U402300,Read,[X]Pois/exp ?intent sedative hypnotic in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U402400,Read,[X]Pois/expos ?intent sedative hypnotic in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U402500,Read,[X]Pois/expos ?intent sedative hypnotic trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U402600,Read,[X]Pois/exp ?intent sedative hypnotic indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U402700,Read,[X]Poison/exposure ?intent; to sedative hypnotic on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U402y00,Read,[X]Pois/exp ?intent to sedative hypnotic other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U402z00,Read,[X]Pois/expos ?intent to sedative hypnotic unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U403.00,Read,[X]Poisoning/exposure; ? intent; to antiparkinson drug,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U403000,Read,[X]Poison/exposure ?intent; to antiparkinson drug at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U403100,Read,[X]Pois/expos ?intent to antiparkinson drug at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U403200,Read,[X]Pois/exp ?intent antparkinson drug school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U403300,Read,[X]Pois/exp ?intent antparkinson drug in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U403400,Read,[X]Pois/expos ?intent antiparkinson drug in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U403500,Read,[X]Pois/expos ?intent antiparkinson drug trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U403600,Read,[X]Pois/exp ?intent antiparkinson drug indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U403700,Read,[X]Poison/exposure ?intent; to antiparkinson drug on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U403y00,Read,[X]Pois/exp ?intent to antiparkinson drug other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U403z00,Read,[X]Pois/expos ?intent to antiparkinson drug unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U404.00,Read,[X]Poisoning/exposure; ? intent; to psychotropic drug,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U404000,Read,[X]Poison/exposure ?intent; to psychotropic drug at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U404100,Read,[X]Pois/expos ?intent to psychotropic drug at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U404200,Read,[X]Pois/exp ?intent psychotropic drug school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U404300,Read,[X]Pois/exp ?intent psychotropic drug in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U404400,Read,[X]Pois/expos ?intent psychotropic drug in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U404500,Read,[X]Pois/expos ?intent psychotropic drug trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U404600,Read,[X]Pois/exp ?intent psychotropic drug indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U404700,Read,[X]Poison/exposure ?intent; to psychotropic drug on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U404y00,Read,[X]Pois/exp ?intent to psychotropic drug other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U404z00,Read,[X]Pois/expos ?intent to psychotropic drug unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U407.00,Read,[X]Poisoning/exposure; ? intent; to other autonomic drug,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U407000,Read,[X]Poison/exposure ?intent; to oth autonomic drug at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U407100,Read,[X]Pois/expos ?intent to oth autonomic drug at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U407200,Read,[X]Pois/exp ?intent oth autonom drug school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U407300,Read,[X]Pois/exp ?intent oth autonom drug in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U407400,Read,[X]Pois/expos ?intent oth autonomic drug in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U407500,Read,[X]Pois/expos ?intent oth autonomic drug trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U407600,Read,[X]Pois/exp ?intent oth autonomic drug indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U407700,Read,[X]Poison/exposure ?intent; to oth autonomic drug on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U407y00,Read,[X]Pois/exp ?intent to oth autonomic drug other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U407z00,Read,[X]Pois/expos ?intent to oth autonomic drug unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U408.00,Read,[X]Poison/exposure; ?intent; to other/unspec drug/medicament,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U408000,Read,[X]Poison/exposure ?intent; to oth/unsp drug/medicam home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U408100,Read,[X]Pois/expos ?intent to oth/unsp drug/medicam res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U408200,Read,[X]Pois/exp ?intent oth/uns drug/med school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U408300,Read,[X]Pois/exp ?intent oth/uns drug/med in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U408400,Read,[X]Pois/expos ?intent oth/unsp drug/medic in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U408500,Read,[X]Pois/expos ?intent oth/unsp drug/medic trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U408600,Read,[X]Pois/exp ?intent oth/unsp drug/medic indust/construc area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U408700,Read,[X]Poison/exposure ?intent; to oth/unsp drug/medic on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U408y00,Read,[X]Pois/exp ?intent to oth/unsp drug/medic other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U408z00,Read,[X]Pois/expos ?intent to oth/unsp drug/medic unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U409.00,Read,[X]Poisoning/exposure; ? intent; to alcohol,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U409000,Read,[X]Poison/exposure ?intent; to alcohol at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U409100,Read,[X]Pois/expos ?intent to alcohol at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U409200,Read,[X]Pois/exp ?intent alcohol school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U409300,Read,[X]Pois/exp ?intent alcohol in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U409400,Read,[X]Pois/expos ?intent alcohol in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U409500,Read,[X]Pois/expos ?intent alcohol trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U409600,Read,[X]Poison/exposure; ?intent; alcohol indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U409700,Read,[X]Poison/exposure ?intent; to alcohol on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U409y00,Read,[X]Pois/exp ?intent to alcohol other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U409z00,Read,[X]Pois/expos ?intent to alcohol unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40B.00,Read,[X]Poisoning/exposure; ? intent; to other gas/vapour,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40B000,Read,[X]Poison/exposure ?intent; to other gas/vapour at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40B100,Read,[X]Pois/expos ?intent to other gas/vapour at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40B200,Read,[X]Pois/exp ?intent other gas/vapour school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40B300,Read,[X]Pois/exp ?intent other gas/vapour in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40B400,Read,[X]Pois/expos ?intent other gas/vapour in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40B500,Read,[X]Pois/expos ?intent other gas/vapour trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40B600,Read,[X]Pois/exp ?intent other gas/vapour indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40B700,Read,[X]Poison/exposure ?intent; to other gas/vapour on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40By00,Read,[X]Pois/exp ?intent to other gas/vapour other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40Bz00,Read,[X]Pois/expos ?intent to other gas/vapour unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40C.00,Read,[X]Poisoning/exposure; ? intent; to pesticide,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40C000,Read,[X]Poison/exposure ?intent; to pesticide at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40C100,Read,[X]Pois/expos ?intent to pesticide at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40C200,Read,[X]Pois/exp ?intent pesticide school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40C300,Read,[X]Pois/exp ?intent pesticide in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40C400,Read,[X]Pois/expos ?intent pesticide in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40C500,Read,[X]Pois/expos ?intent pesticide trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40C600,Read,[X]Poison/exposure; ?intent; pesticide indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40C700,Read,[X]Poison/exposure ?intent; to pesticide on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40Cy00,Read,[X]Pois/exp ?intent to pesticide other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40Cz00,Read,[X]Pois/expos ?intent to pesticide unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40y.00,Read,[X]Poisoning/exposure; ? intent; to unspecif chemical,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40y000,Read,[X]Poison/exposure ?intent; to unspecif chemical at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40y100,Read,[X]Pois/expos ?intent to unspecif chemical at res institut,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40y200,Read,[X]Pois/exp ?intent unspecif chemical school/pub admin area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40y300,Read,[X]Pois/exp ?intent unspecif chemical in sport/athletic area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40y400,Read,[X]Pois/expos ?intent unspecif chemical in street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40y500,Read,[X]Pois/expos ?intent unspecif chemical trade/service area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40y600,Read,[X]Poison/expos ?intent unspec chemic indust/construct area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40y700,Read,[X]Poison/exposure ?intent; to unspecif chemical on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40yy00,Read,[X]Pois/exp ?intent to unspecif chemical other spec place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U40yz00,Read,[X]Pois/expos ?intent to unspecif chemical unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U41..00,Read,[X]Hanging strangulation + suffocation undetermined intent,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U410.00,Read,[X]Hanging strangulat+suffocat undet intent occurrn at home,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U411.00,Read,[X]Hangng strangulat+suffocat undet intent resident instit'n,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U412.00,Read,[X]Hang strangl+suffoc undet intent sch oth ins/pub adm area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U413.00,Read,[X]Hangng strangulat+suffocat undet intent sport/athlet area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U414.00,Read,[X]Hangng strangult+suffocat undet intent occ street/highway,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U415.00,Read,[X]Hangng strangulat+suffocat undet intent trade/servce area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U416.00,Read,[X]Hangng strangult+suffocat undet intent indust/constr area,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U417.00,Read,[X]Hanging strangulat+suffocat undet intent occurrn on farm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U41y.00,Read,[X]Hangng strangult+suffoct undet intent occ oth specif plce,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U41z.00,Read,[X]Hangng strangult+suffoct undet intent occ unspecif place,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+U72..00,Read,[X]Sequel intentn self-harm assault+event of undeterm intent,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX...00,Read,Self-harm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1..00,Read,Self-injurious behaviour,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX...11,Read,Self-damage,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1..11,Read,Self-destructive behaviour,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1..12,Read,SIB - Self-injurious behaviour,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1..13,Read,Deliberate self-harm,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1..14,Read,Self-abusive behaviour,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX13.00,Read,Cutting self,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX13100,Read,Cutting own wrists,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX13.11,Read,Cuts self,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX13200,Read,Cutting own throat,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1H100,Read,Self-strangulation,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1J.00,Read,Self-electrocution,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1L.00,Read,Self-mutilation,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1L100,Read,Self-mutilation of hands,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1L200,Read,Self-mutilation of genitalia,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1L300,Read,Self-mutilation of penis,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1L500,Read,Enucleation of own eyes,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1L600,Read,Self-mutilation of ears,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1L700,Read,Self-inducing a prolapse,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1L800,Read,Breaking own bones,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1L811,Read,Snapping own bones,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1L900,Read,Pulling own teeth out,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1L911,Read,Extracting own teeth,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1LA00,Read,Removing own nails,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1LB00,Read,Eating own flesh,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1LC00,Read,Stripping own skin,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1LD00,Read,[X]Self mutilation,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1M.00,Read,Shooting self,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
+ZX1N.00,Read,Stabbing self,diagnostic,838 - res173: Self-harm (Read codes),2020-10-15
