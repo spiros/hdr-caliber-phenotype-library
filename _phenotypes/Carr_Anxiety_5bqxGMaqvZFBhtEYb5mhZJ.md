@@ -1,6 +1,6 @@
 ---
 layout: phenotype
-title: Anixety
+title: Anxiety
 phenotype_id: 5bqxGMaqvZFBhtEYb5mhZJ
 name: Anxiety
 type: Disease or Syndrome                   
