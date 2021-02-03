@@ -2,7 +2,7 @@ Clinical Practice Research Datalink GOLD:
   name: Clinical Practice Research Datalink GOLD
   id: a29feafa-7bdd-44e9-b977-c9d26425e67f
   url: https://web.www.healthdatagateway.org/dataset/a29feafa-7bdd-44e9-b977-c9d26425e67f
-Clinical Practice Research Datalink AURUM:
+Clinical Practice Research Datalink Aurum:
   name: Clinical Practice Research Datalink AURUM
   id: 1d574c14-1af0-490d-9c4e-be88cfd0e345
   url: https://web.www.healthdatagateway.org/dataset/1d574c14-1af0-490d-9c4e-be88cfd0e345
@@ -10,6 +10,10 @@ Hospital Episode Statistics APC for CPRD GOLD:
   name: Hospital Episode Statistics APC for CPRD GOLD
   id: 4bcf64a6-f404-4ef4-ae6e-172512ab5f43
   url: https://web.www.healthdatagateway.org/dataset/4bcf64a6-f404-4ef4-ae6e-172512ab5f43
+Hospital Episode Statistics APC for CPRD Aurum:
+  name: Hospital Episode Statistics APC for CPRD Aurum
+  id: ed2de8fe-a204-4a4e-bcfa-9e3ad85e2fee
+  url: https://web.www.healthdatagateway.org/dataset/ed2de8fe-a204-4a4e-bcfa-9e3ad85e2fee
 Hospital Episode Statistics Admitted Patient Care:
   name: Hospital Episode Statistics Admitted Patient Care
   id: 2b6409db-a669-4bef-9fd5-39c2b6f8d5e9
@@ -34,7 +38,16 @@ UK Biobank:
   name: Primary-care data
   id: 439e71c7-33b5-4e85-98ce-4b068f2523ad
   url: https://web.www.healthdatagateway.org/dataset/439e71c7-33b5-4e85-98ce-4b068f2523ad
-  
+Death Registration data for CPRD GOLD:
+  name: Death Registration data for CPRD GOLD
+  id: 1d35e229-13eb-4be1-9dae-4752b6c27c4a
+  url: https://web.www.healthdatagateway.org/dataset/1d35e229-13eb-4be1-9dae-4752b6c27c4a
+Death Registration data for CPRD Aurum:
+  name: Death Registration data for CPRD Aurum
+  id: ad8f07ef-a984-449b-8a60-d1dd564cc36d
+  url: https://web.www.healthdatagateway.org/dataset/ad8f07ef-a984-449b-8a60-d1dd564cc36d
+
+
 
 
 
