@@ -30,6 +30,11 @@ Civil Registration - Deaths:
   name: Civil Registration - Deaths
   id: 050163dc-1728-4ac5-a7d9-4dd3ca0ca12a
   url: https://web.www.healthdatagateway.org/dataset/050163dc-1728-4ac5-a7d9-4dd3ca0ca12a
+UK Biobank:
+  name: Primary-care data
+  id: 439e71c7-33b5-4e85-98ce-4b068f2523ad
+  url: https://web.www.healthdatagateway.org/dataset/439e71c7-33b5-4e85-98ce-4b068f2523ad
+  
 
 
 
