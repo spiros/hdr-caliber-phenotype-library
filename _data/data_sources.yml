@@ -1,35 +1,55 @@
 Clinical Practice Research Datalink GOLD:
   name: Clinical Practice Research Datalink GOLD
-  id: 756daeaa-6e47-4269-9df5-477c01cdd271
-  url: https://web.www.healthdatagateway.org/dataset/756daeaa-6e47-4269-9df5-477c01cdd271
-Clinical Practice Research Datalink AURUM:
+  id: a29feafa-7bdd-44e9-b977-c9d26425e67f
+  url: https://web.www.healthdatagateway.org/dataset/a29feafa-7bdd-44e9-b977-c9d26425e67f
+Clinical Practice Research Datalink Aurum:
   name: Clinical Practice Research Datalink AURUM
-  id: ef42201e-deb1-4675-896a-8a0162fe52a8
-  url: https://web.www.healthdatagateway.org/dataset/ef42201e-deb1-4675-896a-8a0162fe52a8
+  id: 1d574c14-1af0-490d-9c4e-be88cfd0e345
+  url: https://web.www.healthdatagateway.org/dataset/1d574c14-1af0-490d-9c4e-be88cfd0e345
 Hospital Episode Statistics APC for CPRD GOLD:
   name: Hospital Episode Statistics APC for CPRD GOLD
-  id: 77b5cf84-d4f2-4418-bafa-73306cf2d2b2
-  url: https://web.www.healthdatagateway.org/dataset/77b5cf84-d4f2-4418-bafa-73306cf2d2b2
+  id: 4bcf64a6-f404-4ef4-ae6e-172512ab5f43
+  url: https://web.www.healthdatagateway.org/dataset/4bcf64a6-f404-4ef4-ae6e-172512ab5f43
+Hospital Episode Statistics APC for CPRD Aurum:
+  name: Hospital Episode Statistics APC for CPRD Aurum
+  id: ed2de8fe-a204-4a4e-bcfa-9e3ad85e2fee
+  url: https://web.www.healthdatagateway.org/dataset/ed2de8fe-a204-4a4e-bcfa-9e3ad85e2fee
 Hospital Episode Statistics Admitted Patient Care:
   name: Hospital Episode Statistics Admitted Patient Care
-  id: 6111c3eb-028c-429e-a78c-6eb9e6b36b66
-  url: https://web.www.healthdatagateway.org/dataset/6111c3eb-028c-429e-a78c-6eb9e6b36b66
+  id: 2b6409db-a669-4bef-9fd5-39c2b6f8d5e9
+  url: https://web.www.healthdatagateway.org/dataset/2b6409db-a669-4bef-9fd5-39c2b6f8d5e9
 Practice postcode linked deprivation measures for CPRD GOLD:
   name: Practice postcode linked deprivation measures for CPRD GOLD
-  id: c6117afd-bc4d-404b-8d58-9d87db936b4c
-  url: https://web.www.healthdatagateway.org/dataset/c6117afd-bc4d-404b-8d58-9d87db936b4c
+  id: 3326d554-ca11-4dc6-aff0-c5b314442d27
+  url: https://web.www.healthdatagateway.org/dataset/3326d554-ca11-4dc6-aff0-c5b314442d27
 Scottish Birth Record (SBR):
   name: Scottish Birth Record (SBR)
-  id: 1a575fae-c0d7-4718-b0d6-ba7c9c3edc0d
-  url: https://web.www.healthdatagateway.org/dataset/1a575fae-c0d7-4718-b0d6-ba7c9c3edc0d
+  id: 81c53293-ef64-4507-8fcf-2a254dc19936
+  url: https://web.www.healthdatagateway.org/dataset/81c53293-ef64-4507-8fcf-2a254dc19936
 General Acute Inpatient and Day Case - Scottish Morbidity Record (SMR01):
   name: General Acute Inpatient and Day Case - Scottish Morbidity Record (SMR01)
-  id: 26f8bf57-e074-41d0-80aa-67a677604607
-  url: https://web.www.healthdatagateway.org/dataset/26f8bf57-e074-41d0-80aa-67a677604607
+  id: 98cda353-0011-45b2-80ca-4ed24cd084bf
+  url: https://web.www.healthdatagateway.org/dataset/98cda353-0011-45b2-80ca-4ed24cd084bf
 Civil Registration - Deaths:
   name: Civil Registration - Deaths
-  id: bfbf7741-65d1-47e3-92e2-bcf50e8c0c20
-  url: https://web.www.healthdatagateway.org/dataset/bfbf7741-65d1-47e3-92e2-bcf50e8c0c20
+  id: 050163dc-1728-4ac5-a7d9-4dd3ca0ca12a
+  url: https://web.www.healthdatagateway.org/dataset/050163dc-1728-4ac5-a7d9-4dd3ca0ca12a
+UK Biobank:
+  name: UK Biobank
+  id: 439e71c7-33b5-4e85-98ce-4b068f2523ad
+  url: https://web.www.healthdatagateway.org/dataset/439e71c7-33b5-4e85-98ce-4b068f2523ad
+Death Registration data for CPRD GOLD:
+  name: Death Registration data for CPRD GOLD
+  id: 1d35e229-13eb-4be1-9dae-4752b6c27c4a
+  url: https://web.www.healthdatagateway.org/dataset/1d35e229-13eb-4be1-9dae-4752b6c27c4a
+Death Registration data for CPRD Aurum:
+  name: Death Registration data for CPRD Aurum
+  id: ad8f07ef-a984-449b-8a60-d1dd564cc36d
+  url: https://web.www.healthdatagateway.org/dataset/ad8f07ef-a984-449b-8a60-d1dd564cc36d
+Office of National Statistics (ONS):
+  name: Office for National Statistics (ONS)
+  id: 487222b7-5c13-4a92-8b41-044796048720
+  url: https://web.www.healthdatagateway.org/dataset/487222b7-5c13-4a92-8b41-044796048720
 
 
 
