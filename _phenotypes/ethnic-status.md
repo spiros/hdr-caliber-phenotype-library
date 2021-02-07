@@ -13,10 +13,12 @@ codelists:
     - caliber_ethnic_status_PMD762GQ76BscDn5YK3Mwe_Read2.csv
     - opensafely-ethnicity-2020-04-27_CTV3.csv
     - nhs_ethnic_category_DMD.csv
+    - ethnicity_SNOMEDCT.csv
 clinical_terminologies: 
     - Read Version 2
     - Read version 3 (CTV3)
     - NHS Data Model and Dictionary
+    - SNOMED CT
 sex: 
     - Female
     - Male
@@ -42,41 +44,9 @@ Ethnicity information was recorded in the HES <i>patient</i> table which uses th
 
 {% include csv.html csvdata=site.data.codelists.nhs_ethnic_category_DMD %}
 
-<!-- <div id="secondarycare" class="tab-pane active">
-                  
-Ethnicity information was recorded in the HES <i>patient</i> table which uses the <a href="https://www.datadictionary.nhs.uk/data_dictionary/attributes/e/end/ethnic_category_code_de.asp?shownav=0">2001 census categorization</a>. 
+#### SNOMED CT
 
-<br>
-
-<pre>White
-A	British
-B	Irish
-C	Any other White background
- 
-Mixed
-D	White and Black Caribbean
-E	White and Black African
-F	White and Asian
-G	Any other mixed background
- 
-Asian or Asian British
-H	Indian
-J	Pakistani
-K	Bangladeshi
-L	Any other Asian background
- 
-Black or Black British
-M	Caribbean
-N	African
-P	Any other Black background
- 
-Other Ethnic Groups
-R	Chinese
-S	Any other ethnic group
- 
-Z	Not stated
-</pre>
-           </div> -->
+{% include csv.html csvdata=site.data.codelists.ethnicity_SNOMEDCT %}
 
 ### Implementation
 
