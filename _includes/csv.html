@@ -1,9 +1,11 @@
 {% assign csvdata = include.csvdata %}
-<table>
+<table class="display" style="width:100%">
     <thead>
-    {% for column in csvdata[0] %}
-        <th>{{ column[0] }}</th>
-    {% endfor %}
+        <tr>
+        {% for column in csvdata[0] %}
+            <th>{{ column[0] }}</th>
+        {% endfor %}
+        </tr>
     </thead>
     <tbody>
     {% for row in csvdata %}
@@ -13,5 +15,17 @@
         {% endfor %}
         </tr>
     {% endfor %}
+    <tfoot>
+        <tr>
+        {% for column in csvdata[0] %}
+            <th>{{ column[0] }}</th>
+        {% endfor %}
+        </tr>
+    </tfoot>
     </tbody>
 </table>
+<script type="text/javascript">
+    $(document).ready(function () {
+      $('table.display').DataTable();
+    });
+  </script>
