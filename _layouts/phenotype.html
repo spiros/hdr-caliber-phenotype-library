@@ -79,7 +79,11 @@ layout: post
                 {% elsif codelist contains 'UKBIOBANK' %}
                 <button type="button" class="btn btn-sm">
                     <a href="/codelists/{{codelist}}">UK Biobank</a>
-                </button>                    
+                </button>
+                {% elsif codelist contains 'GPRD' %}
+                <button type="button" class="btn btn-sm">
+                    <a href="/codelists/{{codelist}}">GPRD</a>
+                </button>                      
 
             {% endif %}          
 
