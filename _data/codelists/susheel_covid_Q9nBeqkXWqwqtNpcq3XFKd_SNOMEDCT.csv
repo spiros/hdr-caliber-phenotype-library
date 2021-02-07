@@ -1,0 +1,24 @@
+﻿System,Code,Description,Category
+snomedct,1240581000000104,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result positive,Detection of current infection - Virus
+snomedct,1240591000000102,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result negative,Detection of current infection - Virus
+snomedct,1321691000000102,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) RNA (ribonucleic acid) detection result unknown,Detection of current infection - Virus
+snomedct,1322781000000102,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen detection result positive,Detection of current infection - Antigen
+snomedct,1322791000000100,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen detection result negative,Detection of current infection - Antigen
+snomedct,1322801000000101,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen detection result indeterminate,Detection of current infection - Antigen
+snomedct,1322821000000105,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antigen detection result unknown,Detection of current infection - Antigen
+snomedct,1322871000000109,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody detection result positive,Detection of Antibody - General
+snomedct,1322891000000108,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody detection result negative,Detection of Antibody - General
+snomedct,1322901000000109,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody detection result indeterminate,Detection of Antibody - General
+snomedct,1322911000000106,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) antibody detection result unknown,Detection of Antibody - General
+snomedct,1321541000000108,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgG detection result positive,Detection of Antibody - IgG
+snomedct,1321571000000102,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgG detection result negative,Detection of Antibody - IgG
+snomedct,1322831000000107,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgG detection result indeterminate,Detection of Antibody - IgG
+snomedct,1321641000000107,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgG detection result unknown,Detection of Antibody - IgG
+snomedct,1321551000000106,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgM detection result positive,Detection of Antibody - IgM
+snomedct,1321561000000109,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgM detection result negative,Detection of Antibody - IgM
+snomedct,1322851000000100,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgM detection result indeterminate,Detection of Antibody - IgM
+snomedct,1321581000000100,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgM detection result unknown,Detection of Antibody - IgM
+snomedct,1321761000000103,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgA detection result positive,Detection of Antibody - IgA
+snomedct,1321791000000109,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgA detection result negative,Detection of Antibody - IgA
+snomedct,1322841000000103,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgA detection result indeterminate,Detection of Antibody - IgA
+snomedct,1321781000000107,SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2) IgA detection result unknown,Detection of Antibody - IgA
