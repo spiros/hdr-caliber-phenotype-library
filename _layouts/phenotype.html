@@ -56,6 +56,14 @@ layout: post
                     <button type="button" class="btn btn-sm">
                         <a href="/codelists/{{codelist}}">Read2</a>
                     </button>                    
+                {% elsif codelist contains 'CTV3' %}
+                <button type="button" class="btn btn-sm">
+                    <a href="/codelists/{{codelist}}">CTV3</a>
+                </button>
+                {% elsif codelist contains 'DMD' %}
+                <button type="button" class="btn btn-sm">
+                    <a href="/codelists/{{codelist}}">DM+D</a>
+                </button>
                 {% elsif codelist contains 'ICD10' %}
                     <button type="button" class="btn btn-sm">
                         <a href="/codelists/{{codelist}}">ICD-10</a>
