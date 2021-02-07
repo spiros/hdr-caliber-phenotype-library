@@ -24,7 +24,7 @@ version: Revision 1
 
 ### Primary Care
 
-{% include csv.html csvdata=site.data.codelists.susheel_gender_gprd_Lbc3RUsSRuRK5qQBPvdV89_Local %}
+{% include csv.html csvdata=site.data.codelists.susheel_gender_Lbc3RUsSRuRK5qQBPvdV89_GPRD %}
 
 ### Secondary Care
 
