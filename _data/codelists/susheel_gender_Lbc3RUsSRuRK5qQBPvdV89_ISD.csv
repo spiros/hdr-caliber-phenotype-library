@@ -1,0 +1,5 @@
+﻿System,Code,Description
+isd,0,"Not Known (i.e. Indeterminate sex, includes 'Intersex')"
+isd,1,Male
+isd,2,Female
+isd,9,"Not Specificed (includes not stated by patient, or not recorded)"

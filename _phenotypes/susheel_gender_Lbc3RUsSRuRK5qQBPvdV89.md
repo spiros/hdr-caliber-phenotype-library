@@ -12,9 +12,11 @@ validation:
 codelists:
     - susheel_gender_Lbc3RUsSRuRK5qQBPvdV89_DMD.csv
     - susheel_gender_Lbc3RUsSRuRK5qQBPvdV89_GPRD.csv
+    - susheel_gender_Lbc3RUsSRuRK5qQBPvdV89_ISD.csv
 clinical_terminologies: 
     - NHS Data Model and Dictionary
     - GPRD Local Classification
+    - NHS Scotland ISD Data Dictionary
 author: Susheel Varma
 status: DRAFT
 date: 2021-02-07
@@ -29,3 +31,5 @@ version: Revision 1
 ### Secondary Care
 
 {% include csv.html csvdata=site.data.codelists.susheel_gender_Lbc3RUsSRuRK5qQBPvdV89_DMD %}
+
+{% include csv.html csvdata=site.data.codelists.susheel_gender_Lbc3RUsSRuRK5qQBPvdV89_ISD %}
