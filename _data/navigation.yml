@@ -1,5 +1,16 @@
 - title: About
   url: /about
+  sublinks:
+  - title: About the project
+    url: /about
+  - title: Team
+    url: /team
+  - title: Technical details
+    url: /tech
+  - title: COVID-19 response
+    url: /covid-19
+  - title: Publications
+    url: /publications
 - title: Phenotypes
   url: #
   sublinks:
@@ -9,5 +20,12 @@
     url: /biomarkers
   - title: Lifestyle Risk Factors
     url: /lifestyle-risk-factors
+- title: Collections
+  url: #
+  sublinks:
+    - title: BREATHE
+      url: /hubs/breathe
+    # - title: ClinicalCodes.org
+    #   url: /collections/clinicalcodes
 - title: Search
   url: /search

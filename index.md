@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Phenotypes
+title: HDR UK CALIBER Phenotype Library
 ---
 
 <!-- Count the total number of terms and the total number of phenotypes -->
@@ -16,7 +16,7 @@ title: Phenotypes
 
 {% assign size = site.phenotypes.size %}
 
-## Welcome to the HDR UK CALIBER Phenotype Portal
+## Welcome to the HDR UK CALIBER Phenotype Library
 A comprehensive, open-access resource providing the research community with information, tools and phenotyping algorithms for UK electronic health records:
 
 <hr class="hr">
@@ -78,9 +78,9 @@ A comprehensive, open-access resource providing the research community with info
 </div>
 
 <div class="col-sm-99 text-style-center">
-<div class="text-size-xlarge text-color-medium">What is the HDR UK Phenotype Portal?</div> 
+<div class="text-size-xlarge text-color-medium">What is the HDR UK Phenotype Library?</div> 
     <div class="text-size-small text-color-rich">
-The <b>HDR UK Phenotype Portal</b> is a a national platform for dissemination of citable algorithms (incl. validations) and tools which will reduce duplication of effort and improve research reproducibility. More information can be found on the <a href="https://www.hdruk.ac.uk/projects/national-phenomics-resource/">HDR website</a>.</div>
+The <b>HDR UK Phenotype Library</b> is a a national platform for dissemination of citable algorithms (incl. validations) and tools which will reduce duplication of effort and improve research reproducibility. More information can be found on the <a href="https://www.hdruk.ac.uk/projects/national-phenomics-resource/">HDR website</a>.</div>
 </div>
 </div>
 
@@ -90,7 +90,7 @@ The <b>HDR UK Phenotype Portal</b> is a a national platform for dissemination of
 <div class="col-sm-99 text-style-center">
 <div class="text-size-xlarge text-color-medium">How to contribute?</div> 
     <div class="text-size-small text-color-rich">
-To <b>submit an EHR phenotyping algorithm</b> to the Phenotype Portal, read our <a href="/about"> documentation pages</a>. If you want to provide feedback, or ask questions, <a href="mailto:s.denaxas[@]ucl.ac.uk">contact the team!</a>
+To <b>submit an EHR phenotyping algorithm</b> to the Phenotype Library, read our <a href="/about"> documentation pages</a>. If you want to provide feedback, or ask questions, <a href="mailto:s.denaxas[@]ucl.ac.uk">contact the team!</a>
 </div>
 </div>
 </div>

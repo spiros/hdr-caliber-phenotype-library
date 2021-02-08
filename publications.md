@@ -5,8 +5,6 @@ title: Publications
 
 {% assign publications_about = site.publications | where: "type", "Publications" %}
 
-## Publications
-
 ### 2020
 
 Banerjee A, Pasea L, Harris S, Gonzalez-Izquierdo A, Torralbo A, Shallcross L, Noursadeghi M, Pillay D, Sebire N, Holmes C, Pagel C, Wong WK, Langenberg C, Williams B, Denaxas S, Hemingway H. Estimating excess 1-year mortality associated with the COVID-19 pandemic according to underlying conditions and age: a population-based cohort study. The Lancet 2020 May 12. DOI: https://doi.org/10.1016/S0140-6736(20)30854-0
