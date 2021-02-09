@@ -1,3 +1,5 @@
 ﻿System,Code,Description
-icd10,U071,COVID-19 Virus Identified
-icd10,U071,COVID019 Virus Not Identified
+icd10,U071,COVID-19 has been confirmed by laboratory testing irrespective of severity of clinical signs or symptoms
+icd10,U07.1,COVID-19 has been confirmed by laboratory testing irrespective of severity of clinical signs or symptoms
+icd10,U072,COVID-19 is diagnosed clinically or epidemiologically but laboratory testing is inconclusive or not available
+icd10,U07.2,COVID-19 is diagnosed clinically or epidemiologically but laboratory testing is inconclusive or not available
