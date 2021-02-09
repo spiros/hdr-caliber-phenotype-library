@@ -11,6 +11,7 @@ data_sources:
     - GPES Data for Pandemic Planning and Research (COVID-19)
     - Hospital Episode Statistics Admitted Patient Care
     - Civil Registration - Deaths
+    - Covid-19 Second Generation Surveillance System
 clinical_terminologies:
     - SNOMED-CT
     - ICD-10
