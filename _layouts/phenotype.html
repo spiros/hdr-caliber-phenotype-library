@@ -87,6 +87,8 @@ layout: post
         </td>
     </tr>
 
+{% if page.validtion != null and page.validation != ""%}
+
     <tr>
         <td><strong>Validation</strong></td>
         <td>
@@ -95,7 +97,8 @@ layout: post
             {% endfor %}
         </td>      
     </tr>
-    
+{% endif %}
+
     <tr>
         <td><strong>Valid Event Data Range</strong></td>
         <td>{{ page.valid_event_data_range }}</td>
