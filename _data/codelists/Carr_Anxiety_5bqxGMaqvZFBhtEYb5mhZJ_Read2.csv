@@ -1,0 +1,89 @@
+code,coding_system,description,entity,list_name,upload_date
+1B1V.00,Read,C/O - panic attack,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+225J.00,Read,O/E - panic attack,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+8CAZ000,Read,Patient given advice about management of anxiety,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+8G52.00,Read,Antiphobic therapy,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+8G94.00,Read,Anxiety management training,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+8HHp.00,Read,Referral for guided self-help for anxiety,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+8IH5300,Read,Referral for guided self-help for anxiety declined,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E200100,Read,Panic disorder,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E200111,Read,Panic attack,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E200200,Read,Generalised anxiety disorder,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E200300,Read,Anxiety with depression,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E200400,Read,Chronic anxiety,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E200500,Read,Recurrent anxiety,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202.00,Read,Phobic disorders,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202000,Read,Phobia unspecified,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202100,Read,Agoraphobia with panic attacks,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202.11,Read,Social phobic disorders,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202.12,Read,Phobic anxiety,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202199,Read,Agoraphobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202200,Read,Agoraphobia without mention of panic attacks,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202299,Read,Agoraphobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202300,Read,Social phobia; fear of eating in public,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202400,Read,Social phobia; fear of public speaking,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202500,Read,Social phobia; fear of public washing,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202600,Read,Acrophobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202800,Read,Claustrophobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202.99,Read,Phobic state,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202z00,Read,Phobic disorder NOS,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202z98,Read,Needle phobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E202z99,Read,Other phobias,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E203.00,Read,Obsessive-compulsive disorders,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E203000,Read,Compulsive neurosis,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E203100,Read,Obsessional neurosis,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E203.11,Read,Anancastic neurosis,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E203z00,Read,Obsessive-compulsive disorder NOS,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E20z.00,Read,Neurotic disorder NOS,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E28z.12,Read,Flying phobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+E29y199,Read,Chron post-traum stress dis,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu05400,Read,[X]Organic anxiety disorder,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu34114,Read,[X]Persistant anxiety depression,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40.00,Read,[X]Phobic anxiety disorders,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40000,Read,[X]Agoraphobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40011,Read,[X]Agoraphobia without history of panic disorder,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40012,Read,[X]Panic disorder with agoraphobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40100,Read,[X]Social phobias,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40111,Read,[X]Anthropophobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40112,Read,[X]Social neurosis,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40200,Read,[X]Specific (isolated) phobias,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40211,Read,[X]Acrophobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40212,Read,[X]Animal phobias,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40213,Read,[X]Claustrophobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40214,Read,[X]Simple phobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40299,Read,Needle phobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40300,Read,[X]Needle phobia,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40y00,Read,[X]Other phobic anxiety disorders,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40z00,Read,[X]Phobic anxiety disorder; unspecified,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40z11,Read,[X]Phobia NOS,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu40z12,Read,[X]Phobic state NOS,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41.00,Read,[X]Other anxiety disorders,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41000,Read,[X]Panic disorder [episodic paroxysmal anxiety],diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41011,Read,[X]Panic attack,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41012,Read,[X]Panic state,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41100,Read,[X]Generalized anxiety disorder,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41111,Read,[X]Anxiety neurosis,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41200,Read,[X]Mixed anxiety and depressive disorder,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41211,Read,[X]Mild anxiety depression,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41300,Read,[X]Other mixed anxiety disorders,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41y00,Read,[X]Other specified anxiety disorders,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41y11,Read,[X]Anxiety hysteria,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu41z00,Read,[X]Anxiety disorder; unspecified,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu42.00,Read,[X]Obsessive - compulsive disorder,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu42000,Read,[X]Predominantly obsessional thoughts or ruminations,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu42.12,Read,[X]Obsessive-compulsive neurosis,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu42200,Read,[X]Mixed obsessional thoughts and acts,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu42y00,Read,[X]Other obsessive-compulsive disorders,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu42z00,Read,[X]Obsessive-compulsive disorder; unspecified,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu43013,Read,[X]Combat fatigue,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu43100,Read,[X]Post - traumatic stress disorder,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu43300,Read,[X]Acute post-traumatic stress disorder follow military comb,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu43400,Read,[X]Chron post-traumatic stress disorder follow military comb,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu43500,Read,[X]Delayed post-traumat stress disorder follow military comb,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu93000,Read,[X]Separation anxiety disorder of childhood,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu93100,Read,[X]Phobic anxiety disorder of childhood,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu93200,Read,[X]Social anxiety disorder of childhood,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Eu93y12,Read,[X]Childhood overanxious disorder,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Z481.00,Read,Phobia counselling,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Z4L1.00,Read,Anxiety counselling,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14
+Z522600,Read,Flooding - obsessional compulsive disorder,diagnostic,836 - res173: Anxiety (Read codes),2020-10-14

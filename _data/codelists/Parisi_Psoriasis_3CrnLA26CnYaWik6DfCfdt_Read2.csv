@@ -1,0 +1,25 @@
+code,coding_system,description,entity,list_name,upload_date
+M16..00,Read,Psoriasis and similar disorders,diagnostic,696 - res66: psoriasis,2018-04-17
+M161.00,Read,Other psoriasis,diagnostic,696 - res66: psoriasis,2018-04-17
+M161000,Read,Psoriasis unspecified,diagnostic,696 - res66: psoriasis,2018-04-17
+M161100,Read,Psoriasis annularis,diagnostic,696 - res66: psoriasis,2018-04-17
+M161200,Read,Psoriasis circinata,diagnostic,696 - res66: psoriasis,2018-04-17
+M161300,Read,Psoriasis diffusa,diagnostic,696 - res66: psoriasis,2018-04-17
+M161400,Read,Psoriasis discoidea,diagnostic,696 - res66: psoriasis,2018-04-17
+M161500,Read,Psoriasis geographica,diagnostic,696 - res66: psoriasis,2018-04-17
+M161600,Read,Guttate psoriasis,diagnostic,696 - res66: psoriasis,2018-04-17
+M161700,Read,Psoriasis gyrata,diagnostic,696 - res66: psoriasis,2018-04-17
+M161800,Read,Psoriasis inveterata,diagnostic,696 - res66: psoriasis,2018-04-17
+M161900,Read,Psoriasis ostracea,diagnostic,696 - res66: psoriasis,2018-04-17
+M161A00,Read,Psoriasis palmaris,diagnostic,696 - res66: psoriasis,2018-04-17
+M161B00,Read,Psoriasis plantaris,diagnostic,696 - res66: psoriasis,2018-04-17
+M161C00,Read,Psoriasis punctata,diagnostic,696 - res66: psoriasis,2018-04-17
+M161E00,Read,Psoriasis universalis,diagnostic,696 - res66: psoriasis,2018-04-17
+M161F00,Read,Psoriasis vulgaris,diagnostic,696 - res66: psoriasis,2018-04-17
+M161F11,Read,Chronic large plaque psoriasis,diagnostic,696 - res66: psoriasis,2018-04-17
+M161H00,Read,Erythrodermic psoriasis,diagnostic,696 - res66: psoriasis,2018-04-17
+M161z00,Read,Psoriasis NOS,diagnostic,696 - res66: psoriasis,2018-04-17
+M16y.00,Read,Other psoriasis and similar disorders,diagnostic,696 - res66: psoriasis,2018-04-17
+M16y000,Read,Scalp psoriasis,diagnostic,696 - res66: psoriasis,2018-04-17
+M16z.00,Read,Psoriasis and similar disorders NOS,diagnostic,696 - res66: psoriasis,2018-04-17
+Myu3000,Read,[X]Other psoriasis,diagnostic,696 - res66: psoriasis,2018-04-17

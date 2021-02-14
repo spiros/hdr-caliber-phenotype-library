@@ -1,0 +1,136 @@
+code,coding_system,description,entity,list_name,upload_date
+1B17.00,Read,Depressed,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+212S.00,Read,Depression resolved,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+2257.00,Read,O/E - depressed,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+62T1.00,Read,Puerperal depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+6659000,Read,Antidepressant drug treatment started,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+6G00.00,Read,Postnatal depression counselling,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+8BK0.00,Read,Depression management programme,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+8CAa.00,Read,Patient given advice about management of depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+8HHq.00,Read,Referral for guided self-help for depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+8HHq000,Read,Referral for depression self-help video,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+8IH5200,Read,Referral for guided self-help for depression declined,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9H90.00,Read,Depression annual review,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9H91.00,Read,Depression medication review,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9H92.00,Read,Depression interim review,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9HA0.00,Read,On depression register,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9hC..00,Read,Exception reporting: depression quality indicators,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9hC0.00,Read,Excepted from depression quality indicators: Patient unsuita,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9hC1.00,Read,Excepted from depression quality indicators: Informed dissen,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9k4..00,Read,Depression - enhanced services administration,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9k40.00,Read,Depression - enhanced service completed,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9kQ..00,Read,On full dose long term treatment depression - enh serv admin,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9kQ..11,Read,On full dose long term treatment for depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9Ov..00,Read,Depression monitoring administration,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9Ov0.00,Read,Depression monitoring first letter,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9Ov1.00,Read,Depression monitoring second letter,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9Ov2.00,Read,Depression monitoring third letter,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9Ov3.00,Read,Depression monitoring verbal invite,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+9Ov4.00,Read,Depression monitoring telephone invite,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E11..12,Read,Depressive psychoses,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112.00,Read,Single major depressive episode,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112000,Read,Single major depressive episode; unspecified,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112100,Read,Single major depressive episode; mild,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112.11,Read,Agitated depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112.12,Read,Endogenous depression first episode,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112.13,Read,Endogenous depression first episode,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112.14,Read,Endogenous depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112200,Read,Single major depressive episode; moderate,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112300,Read,Single major depressive episode; severe; without psychosis,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112400,Read,Single major depressive episode; severe; with psychosis,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112500,Read,Single major depressive episode; partial or unspec remission,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112600,Read,Single major depressive episode; in full remission,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E112z00,Read,Single major depressive episode NOS,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E113.00,Read,Recurrent major depressive episode,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E113000,Read,Recurrent major depressive episodes; unspecified,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E113100,Read,Recurrent major depressive episodes; mild,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E113.11,Read,Endogenous depression - recurrent,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E113200,Read,Recurrent major depressive episodes; moderate,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E113300,Read,Recurrent major depressive episodes; severe; no psychosis,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E113400,Read,Recurrent major depressive episodes; severe; with psychosis,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E113500,Read,Recurrent major depressive episodes;partial/unspec remission,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E113600,Read,Recurrent major depressive episodes; in full remission,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E113700,Read,Recurrent depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E113z00,Read,Recurrent major depressive episode NOS,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E118.00,Read,Seasonal affective disorder,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E11y200,Read,Atypical depressive disorder,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E11z200,Read,Masked depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E130.00,Read,Reactive depressive psychosis,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E130.11,Read,Psychotic reactive depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E135.00,Read,Agitated depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E200300,Read,Anxiety with depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E204.00,Read,Neurotic depression reactive type,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E204.11,Read,Postnatal depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E204.99,Read,Reactive (neurotic) depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E290z00,Read,Brief depressive reaction NOS,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E2B..00,Read,Depressive disorder NEC,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E2B1.00,Read,Chronic depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E2B..98,Read,Depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+E2B..99,Read,Depression NOS,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu05300,Read,[X]Organic mood [affective] disorders,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu20400,Read,[X]Post-schizophrenic depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu3..00,Read,[X]Mood - affective disorders,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32.00,Read,[X]Depressive episode,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32000,Read,[X]Mild depressive episode,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32099,Read,Mild depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32100,Read,[X]Moderate depressive episode,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32.11,Read,[X]Single episode of depressive reaction,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32.12,Read,[X]Single episode of psychogenic depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32.13,Read,[X]Single episode of reactive depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32199,Read,Moderate depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32200,Read,[X]Severe depressive episode without psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32211,Read,[X]Single episode agitated depressn w'out psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32212,Read,[X]Single episode major depression w'out psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32213,Read,[X]Single episode vital depression w'out psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32299,Read,Severe depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32300,Read,[X]Severe depressive episode with psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32311,Read,[X]Single episode of major depression and psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32312,Read,[X]Single episode of psychogenic depressive psychosis,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32313,Read,[X]Single episode of psychotic depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32314,Read,[X]Single episode of reactive depressive psychosis,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32400,Read,[X]Mild depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32500,Read,[X]Major depression; mild,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32600,Read,[X]Major depression; moderately severe,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32700,Read,[X]Major depression; severe without psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32800,Read,[X]Major depression; severe with psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32900,Read,Single major depressive episode; severe; with psychosis; psychosis in remission,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32A00,Read,Recurrent major depressive episodes; severe; with psychosis; psychosis in remission,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32B00,Read,[X]Antenatal depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32y00,Read,[X]Other depressive episodes,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32y11,Read,[X]Atypical depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32y12,Read,[X]Single episode of masked depression NOS,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32z00,Read,[X]Depressive episode; unspecified,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32z11,Read,[X]Depression NOS,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32z12,Read,[X]Depressive disorder NOS,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32z13,Read,[X]Prolonged single episode of reactive depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu32z14,Read,[X] Reactive depression NOS,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33.00,Read,[X]Recurrent depressive disorder,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33000,Read,[X]Recurrent depressive disorder; current episode mild,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33100,Read,[X]Recurrent depressive disorder; current episode moderate,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33.11,Read,[X]Recurrent episodes of depressive reaction,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33.12,Read,[X]Recurrent episodes of psychogenic depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33.13,Read,[X]Recurrent episodes of reactive depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33.14,Read,[X]Seasonal depressive disorder,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33200,Read,[X]Recurr depress disorder cur epi severe without psyc sympt,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33211,Read,[X]Endogenous depression without psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33212,Read,[X]Major depression; recurrent without psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33214,Read,[X]Vital depression; recurrent without psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33300,Read,[X]Recurrent depress disorder cur epi severe with psyc symp,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33311,Read,[X]Endogenous depression with psychotic symptoms,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33313,Read,[X]Recurr severe episodes/major depression+psychotic symptom,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33314,Read,[X]Recurr severe episodes/psychogenic depressive psychosis,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33315,Read,[X]Recurrent severe episodes of psychotic depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33316,Read,[X]Recurrent severe episodes/reactive depressive psychosis,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33400,Read,[X]Recurrent depressive disorder; currently in remission,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33y00,Read,[X]Other recurrent depressive disorders,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33z00,Read,[X]Recurrent depressive disorder; unspecified,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu33z11,Read,[X]Monopolar depression NOS,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu34111,Read,[X]Depressive neurosis,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu34113,Read,[X]Neurotic depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu34114,Read,[X]Persistant anxiety depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu3y111,Read,[X]Recurrent brief depressive episodes,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu41200,Read,[X]Mixed anxiety and depressive disorder,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu41211,Read,[X]Mild anxiety depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu53011,Read,[X]Postnatal depression NOS,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+Eu53012,Read,[X]Postpartum depression NOS,diagnostic,834 - res173: Depression (Read codes),2020-10-14
+R007z13,Read,[D]Postoperative depression,diagnostic,834 - res173: Depression (Read codes),2020-10-14

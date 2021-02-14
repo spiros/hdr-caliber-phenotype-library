@@ -1,0 +1,209 @@
+code,coding_system,description,entity,list_name,upload_date,dm_type
+C100011,Read,Insulin dependent diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C100112,Read,Non-insulin dependent diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C103y00,Read,Other specified diabetes mellitus with coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C108.00,Read,Insulin dependent diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108000,Read,Insulin-dependent diabetes mellitus with renal complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108011,Read,Type I diabetes mellitus with renal complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108012,Read,Type 1 diabetes mellitus with renal complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108100,Read,Insulin-dependent diabetes mellitus with ophthalmic comps,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108.11,Read,IDDM-Insulin dependent diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108112,Read,Type 1 diabetes mellitus with ophthalmic complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108.12,Read,Type 1 diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108.13,Read,Type I diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108200,Read,Insulin-dependent diabetes mellitus with neurological comps,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108211,Read,Type I diabetes mellitus with neurological complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108212,Read,Type 1 diabetes mellitus with neurological complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108300,Read,Insulin dependent diabetes mellitus with multiple complicatn,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108311,Read,Type I diabetes mellitus with multiple complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108411,Read,Unstable type I diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108412,Read,Unstable type 1 diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108500,Read,Insulin dependent diabetes mellitus with ulcer,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108511,Read,Type I diabetes mellitus with ulcer,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108512,Read,Type 1 diabetes mellitus with ulcer,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108600,Read,Insulin dependent diabetes mellitus with gangrene,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108700,Read,Insulin dependent diabetes mellitus with retinopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108711,Read,Type I diabetes mellitus with retinopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108712,Read,Type 1 diabetes mellitus with retinopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108800,Read,Insulin dependent diabetes mellitus - poor control,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108811,Read,Type I diabetes mellitus - poor control,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108812,Read,Type 1 diabetes mellitus - poor control,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108911,Read,Type I diabetes mellitus maturity onset,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108A00,Read,Insulin-dependent diabetes without complication,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108A11,Read,Type I diabetes mellitus without complication,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108B00,Read,Insulin dependent diabetes mellitus with mononeuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108B11,Read,Type I diabetes mellitus with mononeuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108C00,Read,Insulin dependent diabetes mellitus with polyneuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108D00,Read,Insulin dependent diabetes mellitus with nephropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108D11,Read,Type I diabetes mellitus with nephropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108E00,Read,Insulin dependent diabetes mellitus with hypoglycaemic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108E11,Read,Type I diabetes mellitus with hypoglycaemic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108E12,Read,Type 1 diabetes mellitus with hypoglycaemic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108F00,Read,Insulin dependent diabetes mellitus with diabetic cataract,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108F11,Read,Type I diabetes mellitus with diabetic cataract,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108F12,Read,Type 1 diabetes mellitus with diabetic cataract,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108G00,Read,Insulin dependent diab mell with peripheral angiopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108H00,Read,Insulin dependent diabetes mellitus with arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108H11,Read,Type I diabetes mellitus with arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108J00,Read,Insulin dependent diab mell with neuropathic arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108J11,Read,Type I diabetes mellitus with neuropathic arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C108J12,Read,Type 1 diabetes mellitus with neuropathic arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C109.00,Read,Non-insulin dependent diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109000,Read,Non-insulin-dependent diabetes mellitus with renal comps,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109011,Read,Type II diabetes mellitus with renal complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109012,Read,Type 2 diabetes mellitus with renal complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109100,Read,Non-insulin-dependent diabetes mellitus with ophthalm comps,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109.11,Read,NIDDM - Non-insulin dependent diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109111,Read,Type II diabetes mellitus with ophthalmic complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109112,Read,Type 2 diabetes mellitus with ophthalmic complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109.12,Read,Type 2 diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109.13,Read,Type II diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109200,Read,Non-insulin-dependent diabetes mellitus with neuro comps,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109211,Read,Type II diabetes mellitus with neurological complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109212,Read,Type 2 diabetes mellitus with neurological complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109300,Read,Non-insulin-dependent diabetes mellitus with multiple comps,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109312,Read,Type 2 diabetes mellitus with multiple complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109400,Read,Non-insulin dependent diabetes mellitus with ulcer,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109411,Read,Type II diabetes mellitus with ulcer,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109412,Read,Type 2 diabetes mellitus with ulcer,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109500,Read,Non-insulin dependent diabetes mellitus with gangrene,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109511,Read,Type II diabetes mellitus with gangrene,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109512,Read,Type 2 diabetes mellitus with gangrene,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109600,Read,Non-insulin-dependent diabetes mellitus with retinopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109611,Read,Type II diabetes mellitus with retinopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109612,Read,Type 2 diabetes mellitus with retinopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109700,Read,Non-insulin dependent diabetes mellitus - poor control,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109711,Read,Type II diabetes mellitus - poor control,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109712,Read,Type 2 diabetes mellitus - poor control,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109900,Read,Non-insulin-dependent diabetes mellitus without complication,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109911,Read,Type II diabetes mellitus without complication,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109912,Read,Type 2 diabetes mellitus without complication,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109A00,Read,Non-insulin dependent diabetes mellitus with mononeuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109A11,Read,Type II diabetes mellitus with mononeuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109B00,Read,Non-insulin dependent diabetes mellitus with polyneuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109B11,Read,Type II diabetes mellitus with polyneuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109B12,Read,Type 2 diabetes mellitus with polyneuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109C00,Read,Non-insulin dependent diabetes mellitus with nephropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109C11,Read,Type II diabetes mellitus with nephropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109C12,Read,Type 2 diabetes mellitus with nephropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109D00,Read,Non-insulin dependent diabetes mellitus with hypoglyca coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109D11,Read,Type II diabetes mellitus with hypoglycaemic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109D12,Read,Type 2 diabetes mellitus with hypoglycaemic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109E00,Read,Non-insulin depend diabetes mellitus with diabetic cataract,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109E11,Read,Type II diabetes mellitus with diabetic cataract,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109E12,Read,Type 2 diabetes mellitus with diabetic cataract,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109F11,Read,Type II diabetes mellitus with peripheral angiopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109F12,Read,Type 2 diabetes mellitus with peripheral angiopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109G00,Read,Non-insulin dependent diabetes mellitus with arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109G11,Read,Type II diabetes mellitus with arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109G12,Read,Type 2 diabetes mellitus with arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109H11,Read,Type II diabetes mellitus with neuropathic arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109H12,Read,Type 2 diabetes mellitus with neuropathic arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109J00,Read,Insulin treated Type 2 diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109J11,Read,Insulin treated non-insulin dependent diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109J12,Read,Insulin treated Type II diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C109K00,Read,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10E.00,Read,Type 1 diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E000,Read,Type 1 diabetes mellitus with renal complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E011,Read,Type I diabetes mellitus with renal complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E012,Read,Insulin-dependent diabetes mellitus with renal complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E100,Read,Type 1 diabetes mellitus with ophthalmic complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E.11,Read,Type I diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E111,Read,Type I diabetes mellitus with ophthalmic complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E112,Read,Insulin-dependent diabetes mellitus with ophthalmic comps,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E.12,Read,Insulin dependent diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E200,Read,Type 1 diabetes mellitus with neurological complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E212,Read,Insulin-dependent diabetes mellitus with neurological comps,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E300,Read,Type 1 diabetes mellitus with multiple complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E311,Read,Type I diabetes mellitus with multiple complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E312,Read,Insulin dependent diabetes mellitus with multiple complicat,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E400,Read,Unstable type 1 diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E411,Read,Unstable type I diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E412,Read,Unstable insulin dependent diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E500,Read,Type 1 diabetes mellitus with ulcer,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E511,Read,Type I diabetes mellitus with ulcer,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E512,Read,Insulin dependent diabetes mellitus with ulcer,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E600,Read,Type 1 diabetes mellitus with gangrene,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E611,Read,Type I diabetes mellitus with gangrene,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E612,Read,Insulin dependent diabetes mellitus with gangrene,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E700,Read,Type 1 diabetes mellitus with retinopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E711,Read,Type I diabetes mellitus with retinopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E712,Read,Insulin dependent diabetes mellitus with retinopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E800,Read,Type 1 diabetes mellitus - poor control,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E811,Read,Type I diabetes mellitus - poor control,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10E812,Read,Insulin dependent diabetes mellitus - poor control,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EA00,Read,Type 1 diabetes mellitus without complication,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EA11,Read,Type I diabetes mellitus without complication,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EA12,Read,Insulin-dependent diabetes without complication,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EB00,Read,Type 1 diabetes mellitus with mononeuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EC00,Read,Type 1 diabetes mellitus with polyneuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EC11,Read,Type I diabetes mellitus with polyneuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EC12,Read,Insulin dependent diabetes mellitus with polyneuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10ED00,Read,Type 1 diabetes mellitus with nephropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10ED12,Read,Insulin dependent diabetes mellitus with nephropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EE00,Read,Type 1 diabetes mellitus with hypoglycaemic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EE12,Read,Insulin dependent diabetes mellitus with hypoglycaemic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EF00,Read,Type 1 diabetes mellitus with diabetic cataract,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EF12,Read,Insulin dependent diabetes mellitus with diabetic cataract,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EG00,Read,Type 1 diabetes mellitus with peripheral angiopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EH00,Read,Type 1 diabetes mellitus with arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EJ00,Read,Type 1 diabetes mellitus with neuropathic arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EK00,Read,Type 1 diabetes mellitus with persistent proteinuria,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EL00,Read,Type 1 diabetes mellitus with persistent microalbuminuria,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EL11,Read,Type I diabetes mellitus with persistent microalbuminuria,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EM00,Read,Type 1 diabetes mellitus with ketoacidosis,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EM11,Read,Type I diabetes mellitus with ketoacidosis,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EN00,Read,Type 1 diabetes mellitus with ketoacidotic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EN11,Read,Type I diabetes mellitus with ketoacidotic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EP00,Read,Type 1 diabetes mellitus with exudative maculopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EP11,Read,Type I diabetes mellitus with exudative maculopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EQ00,Read,Type 1 diabetes mellitus with gastroparesis,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10EQ11,Read,Type I diabetes mellitus with gastroparesis,diagnostic,754 - res72: Diabetes,2019-04-25,Type 1
+C10F.00,Read,Type 2 diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F000,Read,Type 2 diabetes mellitus with renal complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F011,Read,Type II diabetes mellitus with renal complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F100,Read,Type 2 diabetes mellitus with ophthalmic complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F.11,Read,Type II diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F111,Read,Type II diabetes mellitus with ophthalmic complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F200,Read,Type 2 diabetes mellitus with neurological complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F211,Read,Type II diabetes mellitus with neurological complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F300,Read,Type 2 diabetes mellitus with multiple complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F311,Read,Type II diabetes mellitus with multiple complications,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F400,Read,Type 2 diabetes mellitus with ulcer,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F411,Read,Type II diabetes mellitus with ulcer,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F500,Read,Type 2 diabetes mellitus with gangrene,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F511,Read,Type II diabetes mellitus with gangrene,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F600,Read,Type 2 diabetes mellitus with retinopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F611,Read,Type II diabetes mellitus with retinopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F700,Read,Type 2 diabetes mellitus - poor control,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F711,Read,Type II diabetes mellitus - poor control,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F900,Read,Type 2 diabetes mellitus without complication,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10F911,Read,Type II diabetes mellitus without complication,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FA00,Read,Type 2 diabetes mellitus with mononeuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FA11,Read,Type II diabetes mellitus with mononeuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FB00,Read,Type 2 diabetes mellitus with polyneuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FB11,Read,Type II diabetes mellitus with polyneuropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FC00,Read,Type 2 diabetes mellitus with nephropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FC11,Read,Type II diabetes mellitus with nephropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FD00,Read,Type 2 diabetes mellitus with hypoglycaemic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FD11,Read,Type II diabetes mellitus with hypoglycaemic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FE00,Read,Type 2 diabetes mellitus with diabetic cataract,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FE11,Read,Type II diabetes mellitus with diabetic cataract,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FF00,Read,Type 2 diabetes mellitus with peripheral angiopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FF11,Read,Type II diabetes mellitus with peripheral angiopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FG11,Read,Type II diabetes mellitus with arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FH00,Read,Type 2 diabetes mellitus with neuropathic arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FH11,Read,Type II diabetes mellitus with neuropathic arthropathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FJ00,Read,Insulin treated Type 2 diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FJ11,Read,Insulin treated Type II diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FK00,Read,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FK11,Read,Hyperosmolar non-ketotic state in type II diabetes mellitus,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FL00,Read,Type 2 diabetes mellitus with persistent proteinuria,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FL11,Read,Type II diabetes mellitus with persistent proteinuria,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FM00,Read,Type 2 diabetes mellitus with persistent microalbuminuria,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FM11,Read,Type II diabetes mellitus with persistent microalbuminuria,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FN00,Read,Type 2 diabetes mellitus with ketoacidosis,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FN11,Read,Type II diabetes mellitus with ketoacidosis,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FP00,Read,Type 2 diabetes mellitus with ketoacidotic coma,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FQ00,Read,Type 2 diabetes mellitus with exudative maculopathy,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
+C10FR00,Read,Type 2 diabetes mellitus with gastroparesis,diagnostic,754 - res72: Diabetes,2019-04-25,Type 2
