@@ -1,6 +1,6 @@
 ---
 layout: phenotype
-title: Diability Status
+title: Disability Status
 phenotype_id: YdJbV6FV5dSdSwLy4cgUBs
 name: Disability Status
 type: Lifestyle Risk Factor
