@@ -136,27 +136,6 @@ Email james.welch@cs.ox.ac.uk
 
 James gained a BA in Computation from Oxford University in 2004, and stayed in Oxford to do a DPhil in Software Engineering.  He is currently working on the MRC Data Support Service in conjunction with OeRC and Software Engineering. James' current interests are in the development of enterprise software, "model-driven" technologies, the Unified Modelling Language, model transformations and metamodelling. He is also interested in formal methods, refinement and in particular the languages of Z and B. These interests are combined in a current project on the Booster language and Toolkit, and put into practice on a number of development projects.
 
-## Partners
-
-HDR UK Cambridge 
-* Dr Helen Parkinson
-
-HDR UK Scotland 
-* Prof Emily Jefferson  
-
-HDR UK London
-* [Prof Spiros Denaxas](https://iris.ucl.ac.uk/iris/browse/profile?upi=SDENA57) (UCL Institute of Health Informatics)
-* Dr Vasa Curcin 
-
-HDR UK Oxford 
-* Prof Jim Davies
-
-HDR UK Midlands 
-* Prof Georgios Gkoutos 
-
-HDR UK Wales and Northern Ireland 
-* Daniel Thayer
-
 ## Collaborators
 
 [Prof Sinead Brophy](https://www.swansea.ac.uk/staff/medicine/learningandteaching/s.brophy/) (Swansea University)  
@@ -178,5 +157,3 @@ Dr Harriet Forbes (London School of Hygiene & Tropical Medicine)
 John Nolan
 
 [Dr Steve Harris](https://www.uclh.nhs.uk/OurServices/Consultants/Pages/DrSteveHarris.aspx) (University College London Hospitals) 
-
-[Natalie Fitzpatrick](https://iris.ucl.ac.uk/iris/browse/profile?upi=NKBOS44) (UCL Institute of Health Informatics) 
