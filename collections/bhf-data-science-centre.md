@@ -1,9 +1,9 @@
 ---
 layout: page
-title: BHF Data Science Center
+title: BHF Data Science Centre
 ---
 
-## What is the BHF Data Science Center?
+## What is the BHF Data Science Centre?
 
 The BHF Data Science Centre is a partnership between Health Data Research UK (HDR UK) and the British Heart Foundation (BHF), and sits within HDR UK.
 
