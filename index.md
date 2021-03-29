@@ -90,7 +90,7 @@ The <b>HDR UK Phenotype Library</b> is a a national platform for dissemination o
 <div class="col-sm-99 text-style-center">
 <div class="text-size-xlarge text-color-medium">How to contribute?</div> 
     <div class="text-size-small text-color-rich">
-To <b>submit an EHR phenotyping algorithm</b> to the Phenotype Library, read our <a href="/about"> documentation pages</a>. If you want to provide feedback, or ask questions, <a href="mailto:s.denaxas[@]ucl.ac.uk">contact the team!</a>
+To <b>submit an EHR phenotyping algorithm</b> to the Phenotype Library, read our <a href="/tech"> documentation pages</a>. If you want to provide feedback, or ask questions, <a href="mailto:s.denaxas[@]ucl.ac.uk">contact the team!</a>
 </div>
 </div>
 </div>
