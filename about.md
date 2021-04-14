@@ -26,6 +26,8 @@ Though this project, we will deliver a fundamental step-change in the current EH
 
 ## About the resource
 
+The Library contains definitions for hundreds of diseases from structured and unstructured data sources including mobile devices and wearables.   For each phenotype, the library curates its metadata, implementation details, code and validation information, and enables reproducible and transparent research by the wider research and clinical community.  National research initiatives can curate and showcase their algorithms through bespoke “collection” pages such as BREATHE (respiratory phenotypes collated by the HDR UK Hub for Respiratory Health for use in research) and the British Heart Foundation Data Science Centre phenotypes. Finally, the Phenotype Library is cross-linked to the HDR UK Innovation Gateway to enable discovery of tools and maximise the usability and value of existing data repositories to the research community.
+
 ### Objectives
 
 ## Objectives
@@ -46,3 +48,19 @@ When patients interact with physicians, or are admitted into hospital, informati
 
 ### Phenotyping algoritms
 A primary use-case for EHR is the creation of **phenotyping algorithms** used to identify disease status, onset and progression or extraction of information on risk factors or biomarkers. These complex algorithms can enable researchers to extract information from EHR, statistically analyze it and use the findings to improve human health. While considerable effort goes into creating these algorithms, there is no consistent methodology for creating and evaluating them and no centralised repository for depositing and sharing them.
+
+### Key principles
+
+<ul>
+    <li> The Library stores phenotyping algorithms, metadata and tools only.  No data are stored in the Library. </li>
+<li> Ideally, phenotypes that are deposited in the Library will have undergone some form of peer-review to assess validity and quality either through peer-reviewed publication or some other means of sharing the definition(s)</li>
+<li> Phenotype definitions will be assigned a unique Digital Object Identifier (DOI) to facilitate identification of the phenotype</li>
+<li> All material deposited in the Library remain the intellectual property of the research group who created the phenotype(s) – the default licensing agreement that information is available under is the Creative Commons Attribution 4.0 (CC-A)</li>
+<li> Users should cite the Phenotype Library in all publications, presentations and reports as follows: “HDR UK CALIBER Phenotype Library https://portal.caliberresearch.org/” </li>
+<li> The aim of the Library is not to standardize or harmonize disease definitions, therefore several phenotypes may be stored for the same condition and the onus is on individual researchers to explore which phenotypes they wish to use   </li>
+</ul>
+
+### Future plans
+
+Short term - we are currently working on expanding the Phenotype Library to include a number of new collections (HDR UK Hubs for critical care (PIONEER) and cancer (DATA-CAN), ClinicalCodes.org and UK Biobank).  Longer term - we are taking the first steps towards establishing computational biomedical knowledge objects (e.g. guidelines with embedded phenotypes endorsed by NICE) which will enable the creation of actionable health analytics in the NHS. 
+
