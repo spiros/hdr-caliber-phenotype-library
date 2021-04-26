@@ -17,7 +17,7 @@ A primary reason for using data from EHR is the creation of phenotype algorithms
 
 ### The solution
 
-We will create a national platform for dissemination of citable algorithms (incl. validations) and tools which will reduce duplication of effort and improve research reproducibility. We will explore methods for creating computable representations of algorithms for integration into actionable analytics for healthcare. Finally, we will fundamentally shift the EHR cultural landscape by a robust incentivisation programme, providing guidelines on best practices, cross-disciplinary training, and ensuring alignment with other international initiatives.
+We will create a national library for dissemination of citable algorithms (incl. validations) and tools which will reduce duplication of effort and improve research reproducibility. We will explore methods for creating computable representations of algorithms for integration into actionable analytics for healthcare. Finally, we will fundamentally shift the EHR cultural landscape by a robust incentivisation programme, providing guidelines on best practices, cross-disciplinary training, and ensuring alignment with other international initiatives.
 
 ### Impact and outcomes
 
