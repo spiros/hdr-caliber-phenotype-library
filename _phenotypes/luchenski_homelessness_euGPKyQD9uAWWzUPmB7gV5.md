@@ -13,7 +13,7 @@ clinical_terminologies:
 validation: 
 codelists: 
     - luchenski_homelessness_euGPKyQD9uAWWzUPmB7gV5_ICD10.csv
-    - luchenski_homelessness_7aMhMWHkJHbNc2w32de4RT_GPPractices
+    - luchenski_homelessness_euGPKyQD9uAWWzUPmB7gV5_GPPractices
 valid_event_data_range: 
 sex: 
     - Female
