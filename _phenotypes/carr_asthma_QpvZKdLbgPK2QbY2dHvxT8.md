@@ -1,10 +1,10 @@
 ---
 layout: phenotype
-title: Heart failure
-name: Heart failure
-phenotype_id: XmYuru73YF4EeRppjSAwsP 
+title: Asthma
+name: Asthma
+phenotype_id: QpvZKdLbgPK2QbY2dHvxT8 
 type: Disease or Syndrome
-group: Cardiovascular
+group: Respiratory
 data_sources: 
     - Kings College Hospital NHS Foundation Trust
 clinical_terminologies: 
@@ -12,7 +12,7 @@ clinical_terminologies:
 validation: 
     - expert-review
 codelists: 
-    - carr_heartfailure_XmYuru73YF4EeRppjSAwsP_SNOMEDCT.csv
+    - carr_asthma_QpvZKdLbgPK2QbY2dHvxT8_SNOMEDCT.csv
 valid_event_data_range: 01/03/2020-05/04/2020
 sex: 
     - Female
@@ -52,8 +52,7 @@ annotations for all SNOMED-CT concepts under parent terms Clinical Finding, Diso
 Organism, and Event with disambiguation, pre-trained on MIMIC-III. The annotated
 SNOMED-CT terms are summarised below
 
-{% include csv.html csvdata=site.data.codelists.carr_heartfailure_XmYuru73YF4EeRppjSAwsP_SNOMEDCT %}
-
+{% include csv.html csvdata=site.data.codelists.carr_asthma_QpvZKdLbgPK2QbY2dHvxT8_SNOMEDCT %}
 
 ### Publications
 

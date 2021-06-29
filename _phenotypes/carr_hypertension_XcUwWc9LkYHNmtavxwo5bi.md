@@ -2,7 +2,7 @@
 layout: phenotype
 title: Hypertension
 name: Hypertension
-phenotype_id: XmYuru73YF4EeRppjSAwsP 
+phenotype_id: XcUwWc9LkYHNmtavxwo5bi 
 type: Disease or Syndrome
 group: Cardiovascular
 data_sources: 
@@ -12,7 +12,7 @@ clinical_terminologies:
 validation: 
     - expert-review
 codelists: 
-    - carr_hypertension_XmYuru73YF4EeRppjSAwsP_SNOMEDCT.csv
+    - carr_hypertension_XcUwWc9LkYHNmtavxwo5bi_SNOMEDCT.csv
 valid_event_data_range: 01/03/2020-05/04/2020
 sex: 
     - Female
@@ -52,7 +52,7 @@ annotations for all SNOMED-CT concepts under parent terms Clinical Finding, Diso
 Organism, and Event with disambiguation, pre-trained on MIMIC-III. The annotated
 SNOMED-CT terms are summarised below
 
-{% include csv.html csvdata=site.data.codelists.carr_hypertension_XmYuru73YF4EeRppjSAwsP_SNOMEDCT %}
+{% include csv.html csvdata=site.data.codelists.carr_hypertension_XcUwWc9LkYHNmtavxwo5bi_SNOMEDCT %}
 
 
 ### Publications
