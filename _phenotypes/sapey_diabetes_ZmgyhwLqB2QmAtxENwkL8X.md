@@ -1,4 +1,5 @@
 ---
+layout: phenotype
 title: Diabetes
 name: Diabetes mellitus, of various forms
 phenotype_id: ZmgyhwLqB2QmAtxENwkL8X 
