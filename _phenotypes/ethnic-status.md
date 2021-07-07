@@ -6,8 +6,8 @@ name: Ethnic Status
 type: Lifestyle Risk Factor
 group: Demographics
 data_sources:
-    - Primary care (Clinical Practice Research Datalink GOLD)
-    - Hospital Episode Statistics (HES)
+    - Clinical Practice Research Datalink GOLD
+    - Hospital Episode Statistics Admitted Patient Care
 validation: aetiology, prognosis
 codelists:
     - caliber_ethnic_status_PMD762GQ76BscDn5YK3Mwe_Read2.csv

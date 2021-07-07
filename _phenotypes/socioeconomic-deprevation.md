@@ -6,7 +6,7 @@ name: Socioeconomic Deprevation
 type: Lifestyle Risk Factor
 group: 
 data_sources:
-    - Practice postcode linked deprivation measures for CPRD GOLD
+    - Patient postcode linked deprivation measures for CPRD GOLD
 clinical_terminologies:
 validation: prognosis
 primary_care_code_lists: 

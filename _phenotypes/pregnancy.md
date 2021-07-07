@@ -6,7 +6,7 @@ name: Pregnancy
 type: Lifestyle Risk Factor
 group: 
 data_sources:
-    - Primary care (Clinical Practice Research Datalink GOLD)
+    - Clinical Practice Research Datalink GOLD
 clinical_terminologies: Read Version 2
 validation: aetiology, prognosis
 codelists:
