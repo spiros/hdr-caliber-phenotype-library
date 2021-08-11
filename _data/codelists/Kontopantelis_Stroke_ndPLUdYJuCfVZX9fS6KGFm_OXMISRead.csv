@@ -1,0 +1,85 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4360B,STROKE WITH HYPERTENSION,Stroke,diagnostic
+OXMIS,4360A,CEREBROVASCULAR ACCIDENT WITH HYPERTENSI,Stroke,diagnostic
+OXMIS,4359AT,TRANSIENT ISCHAEMIC ATTACKS,Stroke,diagnostic
+OXMIS,4350AT,TRANSIENT ISCHAEMIC ATTACKS WITH HYPERTE,Stroke,diagnostic
+OXMIS,4369A,CVA (CEREBROVASCULAR ACCIDENT),Stroke,diagnostic
+OXMIS,4369B,STROKE,Stroke,diagnostic
+OXMIS,4369AR,CEREBROVASCULAR ACCIDENT RIGHT,Stroke,diagnostic
+OXMIS,4369AL,CEREBROVASCULAR ACCIDENT LEFT,Stroke,diagnostic
+OXMIS,4369BN,SYNDROME STROKE,Stroke,diagnostic
+Read,G64..00,Cerebral arterial occlusion,Stroke,diagnostic
+Read,G610.00,Cortical haemorrhage,Stroke,diagnostic
+Read,G61..12,Stroke due to intracerebral haemorrhage,Stroke,diagnostic
+Read,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,Stroke,diagnostic
+Read,G61..00,Intracerebral haemorrhage,Stroke,diagnostic
+Read,G616.00,External capsule haemorrhage,Stroke,diagnostic
+Read,G612.00,Basal nucleus haemorrhage,Stroke,diagnostic
+Read,G65zz00,Transient cerebral ischaemia NOS,Stroke,diagnostic
+Read,G611.00,Internal capsule haemorrhage,Stroke,diagnostic
+Read,G615.00,Bulbar haemorrhage,Stroke,diagnostic
+Read,G613.00,Cerebellar haemorrhage,Stroke,diagnostic
+Read,G614.00,Pontine haemorrhage,Stroke,diagnostic
+Read,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,Stroke,diagnostic
+Read,G63y100,Cerebral infarction due to embolism of precerebral arteries,Stroke,diagnostic
+Read,G61X.00,Intracerebral haemorrhage in hemisphere; unspecified,Stroke,diagnostic
+Read,G618.00,Intracerebral haemorrhage; multiple localized,Stroke,diagnostic
+Read,G61X000,Left sided intracerebral haemorrhage; unspecified,Stroke,diagnostic
+Read,G61z.00,Intracerebral haemorrhage NOS,Stroke,diagnostic
+Read,G61X100,Right sided intracerebral haemorrhage; unspecified,Stroke,diagnostic
+Read,G640000,Cerebral infarction due to thrombosis of cerebral arteries,Stroke,diagnostic
+Read,G64z111,Lateral medullary syndrome,Stroke,diagnostic
+Read,G65z100,Intermittent cerebral ischaemia,Stroke,diagnostic
+Read,G640.00,Cerebral thrombosis,Stroke,diagnostic
+Read,G64..11,CVA - cerebral artery occlusion,Stroke,diagnostic
+Read,G64..13,Stroke due to cerebral arterial occlusion,Stroke,diagnostic
+Read,G64..12,Infarction - cerebral,Stroke,diagnostic
+Read,G641000,Cerebral infarction due to embolism of cerebral arteries,Stroke,diagnostic
+Read,G64z100,Wallenberg syndrome,Stroke,diagnostic
+Read,G641.11,Cerebral embolus,Stroke,diagnostic
+Read,G641.00,Cerebral embolism,Stroke,diagnostic
+Read,G64z.00,Cerebral infarction NOS,Stroke,diagnostic
+Read,G64z000,Brainstem infarction,Stroke,diagnostic
+Read,G64z.12,Cerebellar infarction,Stroke,diagnostic
+Read,G64z.11,Brainstem infarction NOS,Stroke,diagnostic
+Read,G65z000,Impending cerebral ischaemia,Stroke,diagnostic
+Read,G65..12,Transient ischaemic attack,Stroke,diagnostic
+Read,G64z200,Left sided cerebral infarction,Stroke,diagnostic
+Read,G65..11,Drop attack,Stroke,diagnostic
+Read,G65..00,Transient cerebral ischaemia,Stroke,diagnostic
+Read,G64z400,Infarction of basal ganglia,Stroke,diagnostic
+Read,G64z300,Right sided cerebral infarction,Stroke,diagnostic
+Read,G65z.00,Transient cerebral ischaemia NOS,Stroke,diagnostic
+Read,G652.00,Subclavian steal syndrome,Stroke,diagnostic
+Read,G65..13,Vertebro-basilar insufficiency,Stroke,diagnostic
+Read,G651000,Vertebro-basilar artery syndrome,Stroke,diagnostic
+Read,G651.00,Vertebral artery syndrome,Stroke,diagnostic
+Read,G650.00,Basilar artery syndrome,Stroke,diagnostic
+Read,G650.11,Insufficiency - basilar artery,Stroke,diagnostic
+Read,G654.00,Multiple and bilateral precerebral artery syndromes,Stroke,diagnostic
+Read,G65y.00,Other transient cerebral ischaemia,Stroke,diagnostic
+Read,G653.00,Carotid artery syndrome hemispheric,Stroke,diagnostic
+Read,G656.00,Vertebrobasilar insufficiency,Stroke,diagnostic
+Read,G666.00,Pure sensory lacunar syndrome,Stroke,diagnostic
+Read,G66..12,Stroke unspecified,Stroke,diagnostic
+Read,G66..11,CVA unspecified,Stroke,diagnostic
+Read,G66..00,Stroke and cerebrovascular accident unspecified,Stroke,diagnostic
+Read,G660.00,Middle cerebral artery syndrome,Stroke,diagnostic
+Read,G665.00,Pure motor lacunar syndrome,Stroke,diagnostic
+Read,G66..13,CVA - Cerebrovascular accident unspecified,Stroke,diagnostic
+Read,G661.00,Anterior cerebral artery syndrome,Stroke,diagnostic
+Read,G664.00,Cerebellar stroke syndrome,Stroke,diagnostic
+Read,G663.00,Brain stem stroke syndrome,Stroke,diagnostic
+Read,G662.00,Posterior cerebral artery syndrome,Stroke,diagnostic
+Read,G668.00,Right sided CVA,Stroke,diagnostic
+Read,Gyu6400,[X]Other cerebral infarction,Stroke,diagnostic
+Read,G667.00,Left sided CVA,Stroke,diagnostic
+Read,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,Stroke,diagnostic
+Read,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,Stroke,diagnostic
+Read,Gyu6200,[X]Other intracerebral haemorrhage,Stroke,diagnostic
+Read,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,Stroke,diagnostic
+Read,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,Stroke,diagnostic
+Read,Gyu6600,[X]Occlusion and stenosis of other cerebral arteries,Stroke,diagnostic
+Read,Gyu6500,[X]Occlusion and stenosis of other precerebral arteries,Stroke,diagnostic
+Read,L440.12,Stroke in the puerperium,Stroke,diagnostic
+Read,L440.11,CVA - cerebrovascular accident in the puerperium,Stroke,diagnostic

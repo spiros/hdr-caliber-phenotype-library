@@ -1,0 +1,19 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,Y44  KA,INJECTION HORMONE REPLACEMENT THERAPY,hormone replacement therapy,diagnostic
+Read,66UC.00,HRT: combined oestrog/progest,hormone replacement therapy,diagnostic
+Read,66UB.00,HRT: unopposed oestrogen,hormone replacement therapy,diagnostic
+Read,66U7.00,HRT started,hormone replacement therapy,diagnostic
+Read,66U..11,Hormone replacement therapy,hormone replacement therapy,diagnostic
+Read,66U8.00,HRT side-effects,hormone replacement therapy,diagnostic
+Read,66UA.00,HRT stopped,hormone replacement therapy,diagnostic
+Read,66U9.00,HRT changed,hormone replacement therapy,diagnostic
+Read,66UH.00,Hormone replacement therapy bleed pattern - normal,hormone replacement therapy,diagnostic
+Read,66uc.00,HRT: combined oestrog/progest,hormone replacement therapy,diagnostic
+Read,8B64.00,Hormone replacement therapy,hormone replacement therapy,diagnostic
+Read,66UI.00,Hormone replacement therapy bleed pattern - abnormal,hormone replacement therapy,diagnostic
+Read,66UK.00,Hormone replacement therapy bleed pattern - no bleeding,hormone replacement therapy,diagnostic
+Read,66UJ.00,Hormone replacement therapy bleed pattern - not relevant,hormone replacement therapy,diagnostic
+Read,8B64000,Hormone Replacement Therapy ongoing treatment,hormone replacement therapy,diagnostic
+Read,8B64.12,HRT prophylaxis,hormone replacement therapy,diagnostic
+Read,8B64.11,Hormone implant - HRT,hormone replacement therapy,diagnostic
+Read,T366 A,Hormone replacement therapy,hormone replacement therapy,diagnostic

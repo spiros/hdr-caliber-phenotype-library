@@ -1,0 +1,80 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4139PA,ANGINA INVERSA,Coronary_Heart_Disease,diagnostic
+OXMIS,4139N,ANGINA,Coronary_Heart_Disease,diagnostic
+OXMIS,4129N,ISCHAEMIC HEART DISEASE ASYMPTOMATIC,Coronary_Heart_Disease,diagnostic
+OXMIS,4129AN,ISCHAEMIC HEART DISEASE,Coronary_Heart_Disease,diagnostic
+OXMIS,4119B,ISCHAEMIC HEART DISEASE SUBACUTE,Coronary_Heart_Disease,diagnostic
+OXMIS,4129,ISCHAEMIC HEART DISEASE CHRONIC,Coronary_Heart_Disease,diagnostic
+OXMIS,4120A,ISCHAEMIC HEART DISEASE HYPERTENSIVE,Coronary_Heart_Disease,diagnostic
+OXMIS,4139M,SYNDROME ANGINAL,Coronary_Heart_Disease,diagnostic
+OXMIS,4139,ANGINA PECTORIS,Coronary_Heart_Disease,diagnostic
+OXMIS,4130E,ANGINA EFFORT WITH HYPERTENSION,Coronary_Heart_Disease,diagnostic
+OXMIS,4130,ANGINA PECTORIS WITH HYPERTENSION,Coronary_Heart_Disease,diagnostic
+OXMIS,4139E,ANGINA EFFORT,Coronary_Heart_Disease,diagnostic
+OXMIS,4139AT,ANGINA ATYPICAL,Coronary_Heart_Disease,diagnostic
+OXMIS,4139CO,ANGINA CRESCENDO,Coronary_Heart_Disease,diagnostic
+OXMIS,4139C,CARDIAC ANGINA,Coronary_Heart_Disease,diagnostic
+OXMIS,4139U,UNSTABLE ANGINA,Coronary_Heart_Disease,diagnostic
+OXMIS,4149,ASYMPTOMATIC ISCHAEMIC HEART DISEASE,Coronary_Heart_Disease,diagnostic
+Read,G31y.00,Other acute and subacute ischaemic heart disease,Coronary_Heart_Disease,diagnostic
+Read,G311.14,Angina at rest,Coronary_Heart_Disease,diagnostic
+Read,G311500,Acute coronary syndrome,Coronary_Heart_Disease,diagnostic
+Read,G3...11,Arteriosclerotic heart disease,Coronary_Heart_Disease,diagnostic
+Read,G3...12,Atherosclerotic heart disease,Coronary_Heart_Disease,diagnostic
+Read,G3...00,Ischaemic heart disease,Coronary_Heart_Disease,diagnostic
+Read,G311.13,Unstable angina,Coronary_Heart_Disease,diagnostic
+Read,G310.11,Dressler's syndrome,Coronary_Heart_Disease,diagnostic
+Read,G310.00,Postmyocardial infarction syndrome,Coronary_Heart_Disease,diagnostic
+Read,G3...13,IHD - Ischaemic heart disease,Coronary_Heart_Disease,diagnostic
+Read,G31..00,Other acute and subacute ischaemic heart disease,Coronary_Heart_Disease,diagnostic
+Read,G311.12,Impending infarction,Coronary_Heart_Disease,diagnostic
+Read,G311.00,Preinfarction syndrome,Coronary_Heart_Disease,diagnostic
+Read,G311.11,Crescendo angina,Coronary_Heart_Disease,diagnostic
+Read,G311z00,Preinfarction syndrome NOS,Coronary_Heart_Disease,diagnostic
+Read,G311300,Refractory angina,Coronary_Heart_Disease,diagnostic
+Read,G311200,Angina at rest,Coronary_Heart_Disease,diagnostic
+Read,G311100,Unstable angina,Coronary_Heart_Disease,diagnostic
+Read,G340000,Single coronary vessel disease,Coronary_Heart_Disease,diagnostic
+Read,G330z00,Angina decubitus NOS,Coronary_Heart_Disease,diagnostic
+Read,G31y200,Subendocardial ischaemia,Coronary_Heart_Disease,diagnostic
+Read,G31y000,Acute coronary insufficiency,Coronary_Heart_Disease,diagnostic
+Read,G330000,Nocturnal angina,Coronary_Heart_Disease,diagnostic
+Read,G32..00,Old myocardial infarction,Coronary_Heart_Disease,diagnostic
+Read,G31yz00,Other acute and subacute ischaemic heart disease NOS,Coronary_Heart_Disease,diagnostic
+Read,G31y300,Transient myocardial ischaemia,Coronary_Heart_Disease,diagnostic
+Read,G330.00,Angina decubitus,Coronary_Heart_Disease,diagnostic
+Read,G32..11,Healed myocardial infarction,Coronary_Heart_Disease,diagnostic
+Read,G33..00,Angina pectoris,Coronary_Heart_Disease,diagnostic
+Read,G32..12,Personal history of myocardial infarction,Coronary_Heart_Disease,diagnostic
+Read,Gyu3.00,[X]Ischaemic heart diseases,Coronary_Heart_Disease,diagnostic
+Read,G331.11,Variant angina pectoris,Coronary_Heart_Disease,diagnostic
+Read,G340.12,Coronary artery disease,Coronary_Heart_Disease,diagnostic
+Read,G331.00,Prinzmetal's angina,Coronary_Heart_Disease,diagnostic
+Read,G33z100,Stenocardia,Coronary_Heart_Disease,diagnostic
+Read,G332.00,Coronary artery spasm,Coronary_Heart_Disease,diagnostic
+Read,G33z200,Syncope anginosa,Coronary_Heart_Disease,diagnostic
+Read,G33z000,Status anginosus,Coronary_Heart_Disease,diagnostic
+Read,G33z.00,Angina pectoris NOS,Coronary_Heart_Disease,diagnostic
+Read,G340.11,Triple vessel disease of the heart,Coronary_Heart_Disease,diagnostic
+Read,G33z600,New onset angina,Coronary_Heart_Disease,diagnostic
+Read,G33z500,Post infarct angina,Coronary_Heart_Disease,diagnostic
+Read,G33z300,Angina on effort,Coronary_Heart_Disease,diagnostic
+Read,G33z400,Ischaemic chest pain,Coronary_Heart_Disease,diagnostic
+Read,G340.00,Coronary atherosclerosis,Coronary_Heart_Disease,diagnostic
+Read,G33z700,Stable angina,Coronary_Heart_Disease,diagnostic
+Read,G34..00,Other chronic ischaemic heart disease,Coronary_Heart_Disease,diagnostic
+Read,G33zz00,Angina pectoris NOS,Coronary_Heart_Disease,diagnostic
+Read,G3z..00,Ischaemic heart disease NOS,Coronary_Heart_Disease,diagnostic
+Read,G3y..00,Other specified ischaemic heart disease,Coronary_Heart_Disease,diagnostic
+Read,G344.00,Silent myocardial ischaemia,Coronary_Heart_Disease,diagnostic
+Read,G343.00,Ischaemic cardiomyopathy,Coronary_Heart_Disease,diagnostic
+Read,G342.00,Atherosclerotic cardiovascular disease,Coronary_Heart_Disease,diagnostic
+Read,G340100,Double coronary vessel disease,Coronary_Heart_Disease,diagnostic
+Read,G34z000,Asymptomatic coronary heart disease,Coronary_Heart_Disease,diagnostic
+Read,G34y000,Chronic coronary insufficiency,Coronary_Heart_Disease,diagnostic
+Read,G34y.00,Other specified chronic ischaemic heart disease,Coronary_Heart_Disease,diagnostic
+Read,G34z.00,Other chronic ischaemic heart disease NOS,Coronary_Heart_Disease,diagnostic
+Read,G34yz00,Other specified chronic ischaemic heart disease NOS,Coronary_Heart_Disease,diagnostic
+Read,G34y100,Chronic myocardial ischaemia,Coronary_Heart_Disease,diagnostic
+Read,Gyu3300,[X]Other forms of chronic ischaemic heart disease,Coronary_Heart_Disease,diagnostic
+Read,Gyu3200,[X]Other forms of acute ischaemic heart disease,Coronary_Heart_Disease,diagnostic

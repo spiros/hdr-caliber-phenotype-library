@@ -1,0 +1,13 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,44J3.00,Serum creatinine,serum_Creatine_testing,test
+Read,44J3200,Serum creatinine normal,serum_Creatine_testing,test
+Read,44J3z00,Serum creatinine NOS,serum_Creatine_testing,test
+Read,44J3300,Serum creatinine raised,serum_Creatine_testing,test
+Read,44J3100,Serum creatinine low,serum_Creatine_testing,test
+Read,44J3000,Serum creatinine abnormal,serum_Creatine_testing,test
+Read,44JC.00,Corrected plasma creatinine level,serum_Creatine_testing,test
+Read,451G.00,GFR calculated abbreviated MDRD adj for African Americ orign,serum_Creatine_testing,test
+Read,44JD.00,Corrected serum creatinine level,serum_Creatine_testing,test
+Read,451F.00,Glomerular filtration rate,serum_Creatine_testing,test
+Read,451E.00,GFR calculated abbreviated MDRD,serum_Creatine_testing,test
+Read,44JF.00,Plasma creatinine level,serum_Creatine_testing,test

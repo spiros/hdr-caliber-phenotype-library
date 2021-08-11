@@ -1,0 +1,24 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,9859,TOXICITY LITHIUM,Lithium levels,diagnostic
+OXMIS,L 130LC,LITHIUM LEVEL THERAPEUTIC,Lithium levels,diagnostic
+OXMIS,T3551CA,LITHIUM THERAPY,Lithium levels,diagnostic
+OXMIS,L 130LD,LITHIUM LEVEL HIGH,Lithium levels,diagnostic
+OXMIS,L 130LB,LITHIUM LEVEL LOW,Lithium levels,diagnostic
+OXMIS,L 130LA,LITHIUM LEVEL,Lithium levels,diagnostic
+OXMIS,L 130L9,LITHIUM LEVEL (mmol/l),Lithium levels,diagnostic
+OXMIS,L 130L,SERUM LITHIUM LEVEL,Lithium levels,diagnostic
+Read,d61z.00,,Lithium levels,diagnostic
+Read,6657.00,On lithium,Lithium levels,diagnostic
+Read,46P3.00,Urine lithium,Lithium levels,diagnostic
+Read,6657.11,Lithium monitoring,Lithium levels,diagnostic
+Read,44W8200,Lithium level low,Lithium levels,diagnostic
+Read,44W8000,Lithium level therapeutic,Lithium levels,diagnostic
+Read,44W8100,Lithium level high - toxic,Lithium levels,diagnostic
+Read,R105300,[D]Lithium; blood level abnormal,Lithium levels,diagnostic
+Read,44vE.00,Lithium level therapeutic,Lithium levels,diagnostic
+Read,665B.00,Lithium stopped,Lithium levels,diagnostic
+Read,44W8.00,Serum lithium level,Lithium levels,diagnostic
+Read,44W8.11,Lithium: blood level,Lithium levels,diagnostic
+Read,6657.12,Started lithium,Lithium levels,diagnostic
+Read,d615.00,,Lithium levels,diagnostic
+Read,d616.00,,Lithium levels,diagnostic

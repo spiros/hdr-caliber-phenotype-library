@@ -1,0 +1,67 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,493 AE,ASTHMA SEASONAL,asthma_clinicals,diagnostic
+OXMIS,493 AD,ASTHMA OCCASIONAL,asthma_clinicals,diagnostic
+OXMIS,493 AB,ASTHMA ATTACK,asthma_clinicals,diagnostic
+OXMIS,493 AA,ASTHMA ACUTE,asthma_clinicals,diagnostic
+OXMIS,493,ASTHMA,asthma_clinicals,diagnostic
+OXMIS,3052AT,PSYCHOGENIC ASTHMA,asthma_clinicals,diagnostic
+OXMIS,493 NA,NOCTURNAL ASTHMA,asthma_clinicals,diagnostic
+OXMIS,493 BR,BRONCHIAL ASTHMA,asthma_clinicals,diagnostic
+OXMIS,493 AI,ASTHMA SEVERITY MILD,asthma_clinicals,diagnostic
+OXMIS,493 BD,ASTHMA AND BRONCHITIS,asthma_clinicals,diagnostic
+OXMIS,493 AJ,ASTHMA SEVERITY MODERATE,asthma_clinicals,diagnostic
+OXMIS,493 AR,ASTHMA RESOLVED,asthma_clinicals,diagnostic
+OXMIS,493 AK,ASTHMA SEVERITY SEVERE,asthma_clinicals,diagnostic
+OXMIS,493 EA,ASTHMA EXERCISE INCLUDED,asthma_clinicals,diagnostic
+OXMIS,493 JC,CHRONIC ASTHMA,asthma_clinicals,diagnostic
+OXMIS,493 CH,CHILDHOOD ASTHMA,asthma_clinicals,diagnostic
+OXMIS,493 C,CROUP ASTHMATIC,asthma_clinicals,diagnostic
+OXMIS,493 HT,INTRINSIC ASTHMA,asthma_clinicals,diagnostic
+OXMIS,493 EP,ASTHMA EPISODIC,asthma_clinicals,diagnostic
+OXMIS,493 EB,ASTHMA EXERCISE INDUCED,asthma_clinicals,diagnostic
+OXMIS,493 GS,ASTHMA POLLEN INITIATED,asthma_clinicals,diagnostic
+OXMIS,493 GR,ASTHMA ALLERGIC GRASS,asthma_clinicals,diagnostic
+OXMIS,691 TM,ECZEMA WITH ASTHMA,asthma_clinicals,diagnostic
+OXMIS,L4930LO,LATE ONSET ASTHMA,asthma_clinicals,diagnostic
+Read,1780.00,Aspirin induced asthma,asthma_clinicals,diagnostic
+Read,1O2..00,Asthma confirmed,asthma_clinicals,diagnostic
+Read,H334.00,Brittle asthma,asthma_clinicals,diagnostic
+Read,H332.00,Mixed asthma,asthma_clinicals,diagnostic
+Read,173d.00,Work aggravated asthma,asthma_clinicals,diagnostic
+Read,2126200,Asthma resolved,asthma_clinicals,diagnostic
+Read,173A.00,Exercise induced asthma,asthma_clinicals,diagnostic
+Read,212G.00,Asthma resolved,asthma_clinicals,diagnostic
+Read,H330100,Extrinsic asthma with status asthmaticus,asthma_clinicals,diagnostic
+Read,H330011,Hay fever with asthma,asthma_clinicals,diagnostic
+Read,663V000,Occasional asthma,asthma_clinicals,diagnostic
+Read,H312000,Chronic asthmatic bronchitis,asthma_clinicals,diagnostic
+Read,663j.00,Asthma - currently active,asthma_clinicals,diagnostic
+Read,663V100,Mild asthma,asthma_clinicals,diagnostic
+Read,663V300,Severe asthma,asthma_clinicals,diagnostic
+Read,663V200,Moderate asthma,asthma_clinicals,diagnostic
+Read,H330.00,Extrinsic (atopic) asthma,asthma_clinicals,diagnostic
+Read,H330000,Extrinsic asthma without status asthmaticus,asthma_clinicals,diagnostic
+Read,H33..11,Bronchial asthma,asthma_clinicals,diagnostic
+Read,H33..00,Asthma,asthma_clinicals,diagnostic
+Read,H330.11,Allergic asthma,asthma_clinicals,diagnostic
+Read,H330.14,Pollen asthma,asthma_clinicals,diagnostic
+Read,H330.13,Hay fever with asthma,asthma_clinicals,diagnostic
+Read,H330.12,Childhood asthma,asthma_clinicals,diagnostic
+Read,H35y700,Wood asthma,asthma_clinicals,diagnostic
+Read,H47y000,Detergent asthma,asthma_clinicals,diagnostic
+Read,H330111,Extrinsic asthma with asthma attack,asthma_clinicals,diagnostic
+Read,H35y600,Sequoiosis (red-cedar asthma),asthma_clinicals,diagnostic
+Read,H33zz00,Asthma NOS,asthma_clinicals,diagnostic
+Read,H33z200,Late-onset asthma,asthma_clinicals,diagnostic
+Read,H331000,Intrinsic asthma without status asthmaticus,asthma_clinicals,diagnostic
+Read,H330z00,Extrinsic asthma NOS,asthma_clinicals,diagnostic
+Read,H331.11,Late onset asthma,asthma_clinicals,diagnostic
+Read,H331.00,Intrinsic asthma,asthma_clinicals,diagnostic
+Read,H331100,Intrinsic asthma with status asthmaticus,asthma_clinicals,diagnostic
+Read,H33z.11,Hyperreactive airways disease,asthma_clinicals,diagnostic
+Read,H33z.00,Asthma unspecified,asthma_clinicals,diagnostic
+Read,H331111,Intrinsic asthma with asthma attack,asthma_clinicals,diagnostic
+Read,H33zz12,Allergic asthma NEC,asthma_clinicals,diagnostic
+Read,H33zz11,Exercise induced asthma,asthma_clinicals,diagnostic
+Read,173c.00,Occupational asthma,asthma_clinicals,diagnostic
+Read,H331z00,Intrinsic asthma NOS,asthma_clinicals,diagnostic

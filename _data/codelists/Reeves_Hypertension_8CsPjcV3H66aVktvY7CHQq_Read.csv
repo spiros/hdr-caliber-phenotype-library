@@ -1,0 +1,25 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G24z.00,Secondary hypertension NOS,Hypertension,diagnostic
+Read,G20..11,High blood pressure,Hypertension,diagnostic
+Read,G2...00,Hypertensive disease,Hypertension,diagnostic
+Read,G202.00,Systolic hypertension,Hypertension,diagnostic
+Read,G20z.11,Hypertension NOS,Hypertension,diagnostic
+Read,G20..00,Essential hypertension,Hypertension,diagnostic
+Read,G201.00,Benign essential hypertension,Hypertension,diagnostic
+Read,G2y..00,Other specified hypertensive disease,Hypertension,diagnostic
+Read,G200.00,Malignant essential hypertension,Hypertension,diagnostic
+Read,G20z.00,Essential hypertension NOS,Hypertension,diagnostic
+Read,G24..00,Secondary hypertension,Hypertension,diagnostic
+Read,G2z..00,Hypertensive disease NOS,Hypertension,diagnostic
+Read,G203.00,Diastolic hypertension,Hypertension,diagnostic
+Read,G241z00,Secondary benign hypertension NOS,Hypertension,diagnostic
+Read,G241000,Secondary benign renovascular hypertension,Hypertension,diagnostic
+Read,G24z100,Hypertension secondary to drug,Hypertension,diagnostic
+Read,G24z000,Secondary renovascular hypertension NOS,Hypertension,diagnostic
+Read,G24zz00,Secondary hypertension NOS,Hypertension,diagnostic
+Read,G240.00,Secondary malignant hypertension,Hypertension,diagnostic
+Read,G244.00,Hypertension secondary to endocrine disorders,Hypertension,diagnostic
+Read,G241.00,Secondary benign hypertension,Hypertension,diagnostic
+Read,G240z00,Secondary malignant hypertension NOS,Hypertension,diagnostic
+Read,G240000,Secondary malignant renovascular hypertension,Hypertension,diagnostic
+Read,2126100,Hypertension resolved,Hypertension,diagnostic

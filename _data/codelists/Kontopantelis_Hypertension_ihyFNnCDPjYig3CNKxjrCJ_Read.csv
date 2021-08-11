@@ -1,0 +1,70 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G210z00,Malignant hypertensive heart disease NOS,hypertension,diagnostic
+Read,Gyu2000,[X]Other secondary hypertension,hypertension,diagnostic
+Read,2126100,Hypertension resolved,hypertension,diagnostic
+Read,212K.00,Hypertension resolved,hypertension,diagnostic
+Read,G200.00,Malignant essential hypertension,hypertension,diagnostic
+Read,G241.00,Secondary benign hypertension,hypertension,diagnostic
+Read,G22z.00,Hypertensive renal disease NOS,hypertension,diagnostic
+Read,G20z.00,Essential hypertension NOS,hypertension,diagnostic
+Read,L120.00,Benign essential hypertension in pregnancy/childbirth/puerp,hypertension,diagnostic
+Read,G240.00,Secondary malignant hypertension,hypertension,diagnostic
+Read,G2...00,Hypertensive disease,hypertension,diagnostic
+Read,G21zz00,Hypertensive heart disease NOS,hypertension,diagnostic
+Read,G24z.00,Secondary hypertension NOS,hypertension,diagnostic
+Read,G201.00,Benign essential hypertension,hypertension,diagnostic
+Read,G21..00,Hypertensive heart disease,hypertension,diagnostic
+Read,G2y..00,Other specified hypertensive disease,hypertension,diagnostic
+Read,G21z.00,Hypertensive heart disease NOS,hypertension,diagnostic
+Read,G241000,Secondary benign renovascular hypertension,hypertension,diagnostic
+Read,G232.00,Hypertensive heart&renal dis wth (congestive) heart failure,hypertension,diagnostic
+Read,G24z000,Secondary renovascular hypertension NOS,hypertension,diagnostic
+Read,G22z.11,Renal hypertension,hypertension,diagnostic
+Read,G233.00,Hypertensive heart and renal disease with renal failure,hypertension,diagnostic
+Read,L122100,Other pre-existing hypertension in preg/childb/puerp - deliv,hypertension,diagnostic
+Read,L128200,Pre-exist 2ndry hypertens comp preg childbth and puerperium,hypertension,diagnostic
+Read,L120z00,Benign essential hypertension in preg/childb/puerp NOS,hypertension,diagnostic
+Read,G202.00,Systolic hypertension,hypertension,diagnostic
+Read,G222.00,Hypertensive renal disease with renal failure,hypertension,diagnostic
+Read,G24zz00,Secondary hypertension NOS,hypertension,diagnostic
+Read,G20z.11,Hypertension NOS,hypertension,diagnostic
+Read,G244.00,Hypertension secondary to endocrine disorders,hypertension,diagnostic
+Read,G220.00,Malignant hypertensive renal disease,hypertension,diagnostic
+Read,L120000,Benign essential hypertension in preg/childb/puerp unspec,hypertension,diagnostic
+Read,G211.00,Benign hypertensive heart disease,hypertension,diagnostic
+Read,L120100,Benign essential hypertension in preg/childb/puerp - deliv,hypertension,diagnostic
+Read,L128.00,Pre-exist hypertension compl preg childbirth and puerperium,hypertension,diagnostic
+Read,G221.00,Benign hypertensive renal disease,hypertension,diagnostic
+Read,G211100,Benign hypertensive heart disease with CCF,hypertension,diagnostic
+Read,G22..00,Hypertensive renal disease,hypertension,diagnostic
+Read,G241z00,Secondary benign hypertension NOS,hypertension,diagnostic
+Read,G210.00,Malignant hypertensive heart disease,hypertension,diagnostic
+Read,L121100,Renal hypertension in pregnancy/childbirth/puerp - delivered,hypertension,diagnostic
+Read,G211000,Benign hypertensive heart disease without CCF,hypertension,diagnostic
+Read,L122z00,Other pre-existing hypertension in preg/childb/puerp NOS,hypertension,diagnostic
+Read,L120300,Benign essential hypertension in preg/childb/puerp-not deliv,hypertension,diagnostic
+Read,G21z000,Hypertensive heart disease NOS without CCF,hypertension,diagnostic
+Read,G234.00,Hyperten heart&renal dis+both(congestv)heart and renal fail,hypertension,diagnostic
+Read,G240000,Secondary malignant renovascular hypertension,hypertension,diagnostic
+Read,G231.00,Benign hypertensive heart and renal disease,hypertension,diagnostic
+Read,G21z100,Hypertensive heart disease NOS with CCF,hypertension,diagnostic
+Read,G23..00,Hypertensive heart and renal disease,hypertension,diagnostic
+Read,G2z..00,Hypertensive disease NOS,hypertension,diagnostic
+Read,G23z.00,Hypertensive heart and renal disease NOS,hypertension,diagnostic
+Read,L121000,Renal hypertension in pregnancy/childbirth/puerp unspecified,hypertension,diagnostic
+Read,G230.00,Malignant hypertensive heart and renal disease,hypertension,diagnostic
+Read,L122.00,Other pre-existing hypertension in preg/childbirth/puerp,hypertension,diagnostic
+Read,G24..00,Secondary hypertension,hypertension,diagnostic
+Read,G210100,Malignant hypertensive heart disease with CCF,hypertension,diagnostic
+Read,L121.00,Renal hypertension in pregnancy/childbirth/puerperium,hypertension,diagnostic
+Read,G240z00,Secondary malignant hypertension NOS,hypertension,diagnostic
+Read,L121z00,Renal hypertension in pregnancy/childbirth/puerperium NOS,hypertension,diagnostic
+Read,Gyu2100,[X]Hypertension secondary to other renal disorders,hypertension,diagnostic
+Read,L120400,Benign essential hypertension in preg/childb/puerp +p/n comp,hypertension,diagnostic
+Read,L122000,Other pre-existing hypertension in preg/childb/puerp unspec,hypertension,diagnostic
+Read,G21z011,Cardiomegaly - hypertensive,hypertension,diagnostic
+Read,G2...11,BP - hypertensive disease,hypertension,diagnostic
+Read,G20..00,Essential hypertension,hypertension,diagnostic
+Read,L122300,Other pre-exist hypertension in preg/childb/puerp-not deliv,hypertension,diagnostic
+Read,G210000,Malignant hypertensive heart disease without CCF,hypertension,diagnostic
+Read,L121300,Renal hypertension in preg/childbirth/puerp - not delivered,hypertension,diagnostic

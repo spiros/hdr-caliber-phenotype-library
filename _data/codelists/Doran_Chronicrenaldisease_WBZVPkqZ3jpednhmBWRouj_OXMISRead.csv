@@ -1,0 +1,8 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,5932EC,CHRONIC RENAL FAILURE,chronic renal disease,diagnostic
+Read,D215000,Anaemia secondary to chronic renal failure,chronic renal disease,diagnostic
+Read,1Z12.00,Chronic kidney disease stage 3,chronic renal disease,diagnostic
+Read,Kyu2100,[X]Other chronic renal failure,chronic renal disease,diagnostic
+Read,1Z13.00,Chronic kidney disease stage 4,chronic renal disease,diagnostic
+Read,K05..00,Chronic renal failure,chronic renal disease,diagnostic
+Read,1Z14.00,Chronic kidney disease stage 5,chronic renal disease,diagnostic

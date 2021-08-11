@@ -1,0 +1,198 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,493 JC,CHRONIC ASTHMA,asthma,diagnostic
+OXMIS,Y100 AR,ASTHMA ROUTINE ASSESSMENT,asthma,diagnostic
+OXMIS,493,ASTHMA,asthma,diagnostic
+OXMIS,493 F,ASTHMATIC ALLERGY,asthma,diagnostic
+OXMIS,493 KA,EXACERBATION OF ASTHMA,asthma,diagnostic
+OXMIS,493 AD,ASTHMA OCCASIONAL,asthma,diagnostic
+OXMIS,493 EB,ASTHMA EXERCISE INDUCED,asthma,diagnostic
+OXMIS,493 BH,ASTHMA FREQUENCY CONSTANTLY,asthma,diagnostic
+OXMIS,493 AA,ASTHMA ACUTE,asthma,diagnostic
+OXMIS,493 HT,INTRINSIC ASTHMA,asthma,diagnostic
+OXMIS,Y060 LE,ASTHMA GROUP,asthma,diagnostic
+OXMIS,Y060 JB,CLINIC ASTHMA,asthma,diagnostic
+OXMIS,493 CL,ASTHMA MEDICATION REGULARLY,asthma,diagnostic
+OXMIS,L4930LO,LATE ONSET ASTHMA,asthma,diagnostic
+OXMIS,493 CK,ASTHMA MEDICATION PRN,asthma,diagnostic
+OXMIS,493 AE,ASTHMA SEASONAL,asthma,diagnostic
+OXMIS,493 GS,ASTHMA POLLEN INITIATED,asthma,diagnostic
+OXMIS,493 CJ,ASTHMA MEDICATION INTERMITTENTLY,asthma,diagnostic
+OXMIS,493 BG,ASTHMA FREQUENCY REGULARLY,asthma,diagnostic
+OXMIS,493 BI,ASTHMA FREQUENCY ON EXERCISE ONLY,asthma,diagnostic
+OXMIS,3052AT,PSYCHOGENIC ASTHMA,asthma,diagnostic
+OXMIS,Y0601JB,ASTHMA CLINIC ATTENDANCE,asthma,diagnostic
+OXMIS,493 AI,ASTHMA SEVERITY MILD,asthma,diagnostic
+OXMIS,493 CH,CHILDHOOD ASTHMA,asthma,diagnostic
+OXMIS,493 BF,ASTHMA FREQUENCY RARELY,asthma,diagnostic
+OXMIS,493 C,CROUP ASTHMATIC,asthma,diagnostic
+OXMIS,493 AB,ASTHMA ATTACK,asthma,diagnostic
+OXMIS,493 BR,BRONCHIAL ASTHMA,asthma,diagnostic
+OXMIS,493 AH,ASTHMA HOSPITALISED,asthma,diagnostic
+OXMIS,493 D,STATUS ASTHMATICUS,asthma,diagnostic
+OXMIS,493 GR,ASTHMA ALLERGIC GRASS,asthma,diagnostic
+OXMIS,493 KB,ASTHMA EXACERBATION,asthma,diagnostic
+OXMIS,493 NA,NOCTURNAL ASTHMA,asthma,diagnostic
+OXMIS,493 BD,ASTHMA AND BRONCHITIS,asthma,diagnostic
+OXMIS,493 AJ,ASTHMA SEVERITY MODERATE,asthma,diagnostic
+OXMIS,493 AR,ASTHMA RESOLVED,asthma,diagnostic
+OXMIS,493 AK,ASTHMA SEVERITY SEVERE,asthma,diagnostic
+OXMIS,493 EP,ASTHMA EPISODIC,asthma,diagnostic
+OXMIS,493 EA,ASTHMA EXERCISE INCLUDED,asthma,diagnostic
+OXMIS,493 CM,ASTHMA MEDICATION PROPHYLACTICLY,asthma,diagnostic
+OXMIS,691 TM,ECZEMA WITH ASTHMA,asthma,diagnostic
+Read,c13L.00,,asthma,diagnostic
+Read,663N.00,Asthma disturbing sleep,asthma,diagnostic
+Read,663e000,Asthma sometimes restricts exercise,asthma,diagnostic
+Read,663N200,Asthma disturbs sleep frequently,asthma,diagnostic
+Read,8793.00,Asthma control step 0,asthma,diagnostic
+Read,c1D6.00,,asthma,diagnostic
+Read,66YQ.00,Asthma monitoring by nurse,asthma,diagnostic
+Read,212G.00,Asthma resolved,asthma,diagnostic
+Read,8795.00,Asthma control step 2,asthma,diagnostic
+Read,c648.00,,asthma,diagnostic
+Read,c192.00,,asthma,diagnostic
+Read,663p.00,Asthma treatment compliance unsatisfactory,asthma,diagnostic
+Read,H33z200,Late-onset asthma,asthma,diagnostic
+Read,8HTT.00,Referral to asthma clinic,asthma,diagnostic
+Read,178..00,Asthma trigger,asthma,diagnostic
+Read,c11z.00,Other disorder of pancreatic internal secretion NOS,asthma,diagnostic
+Read,c65f.00,,asthma,diagnostic
+Read,66YJ.00,Asthma annual review,asthma,diagnostic
+Read,663u.00,Asthma causes daytime symptoms 1 to 2 times per week,asthma,diagnostic
+Read,663x.00,Asthma limits walking on the flat,asthma,diagnostic
+Read,663r.00,Asthma causes night symptoms 1 to 2 times per month,asthma,diagnostic
+Read,663q.00,Asthma daytime symptoms,asthma,diagnostic
+Read,663y.00,Number of asthma exacerbations in past year,asthma,diagnostic
+Read,c13w.00,SALBUTAMOL unit dose neb soln 2.5mg/2.5ml,asthma,diagnostic
+Read,c1Dv.00,SALMETEROL + FLUTICASONE cfc free inh 25micrograms + 125micrograms/actuation,asthma,diagnostic
+Read,c13J.00,SALBUTAMOL cfc free inh 100micrograms/inhalation,asthma,diagnostic
+Read,c61t.00,BECLOMETASONE inh 250micrograms/actuation,asthma,diagnostic
+Read,663U.00,Asthma management plan given,asthma,diagnostic
+Read,c663.00,BECOTIDE EASI-BREATHE breath act inh 100micrograms/actuation,asthma,diagnostic
+Read,c315.00,ATROVENT AUTOHALER breath act inh 20micrograms/actuation,asthma,diagnostic
+Read,c1Dz.00,SALMETEROL + FLUTICASONE dry pdr inh 50micrograms+ 500micrograms/inhalation,asthma,diagnostic
+Read,663V300,Severe asthma,asthma,diagnostic
+Read,H331.00,Intrinsic asthma,asthma,diagnostic
+Read,663d.00,Emergency asthma admission since last appointment,asthma,diagnostic
+Read,8H2P.00,Emergency admission; asthma,asthma,diagnostic
+Read,663V200,Moderate asthma,asthma,diagnostic
+Read,H312000,Chronic asthmatic bronchitis,asthma,diagnostic
+Read,cA15.00,,asthma,diagnostic
+Read,c617.00,BECOTIDE 100 inh 100micrograms/actuation,asthma,diagnostic
+Read,663V.00,Asthma severity,asthma,diagnostic
+Read,663V000,Occasional asthma,asthma,diagnostic
+Read,H33zz00,Asthma NOS,asthma,diagnostic
+Read,H330z00,Extrinsic asthma NOS,asthma,diagnostic
+Read,H331.11,Late onset asthma,asthma,diagnostic
+Read,663h.00,Asthma - currently dormant,asthma,diagnostic
+Read,H33..00,Asthma,asthma,diagnostic
+Read,663V100,Mild asthma,asthma,diagnostic
+Read,H35y700,Wood asthma,asthma,diagnostic
+Read,H33z100,Asthma attack,asthma,diagnostic
+Read,H330.12,Childhood asthma,asthma,diagnostic
+Read,663f.00,Asthma never restricts exercise,asthma,diagnostic
+Read,H331z00,Intrinsic asthma NOS,asthma,diagnostic
+Read,H332.00,Mixed asthma,asthma,diagnostic
+Read,8794.00,Asthma control step 1,asthma,diagnostic
+Read,663j.00,Asthma - currently active,asthma,diagnostic
+Read,H33z011,Severe asthma attack,asthma,diagnostic
+Read,9OJA.11,Asthma monitored,asthma,diagnostic
+Read,H330100,Extrinsic asthma with status asthmaticus,asthma,diagnostic
+Read,H47y000,Detergent asthma,asthma,diagnostic
+Read,H331000,Intrinsic asthma without status asthmaticus,asthma,diagnostic
+Read,H330011,Hay fever with asthma,asthma,diagnostic
+Read,8796.00,Asthma control step 3,asthma,diagnostic
+Read,663..11,Asthma monitoring,asthma,diagnostic
+Read,H33z000,Status asthmaticus NOS,asthma,diagnostic
+Read,H330.13,Hay fever with asthma,asthma,diagnostic
+Read,2126200,Asthma resolved,asthma,diagnostic
+Read,9N1d.00,Seen in asthma clinic,asthma,diagnostic
+Read,H331111,Intrinsic asthma with asthma attack,asthma,diagnostic
+Read,9OJ1.00,Attends asthma monitoring,asthma,diagnostic
+Read,8798.00,Asthma control step 5,asthma,diagnostic
+Read,663e100,Asthma severely restricts exercise,asthma,diagnostic
+Read,8791.00,Further asthma - drug prevent.,asthma,diagnostic
+Read,H35y600,Sequoiosis (red-cedar asthma),asthma,diagnostic
+Read,663N100,Asthma disturbs sleep weekly,asthma,diagnostic
+Read,663P.00,Asthma limiting activities,asthma,diagnostic
+Read,663Q.00,Asthma not limiting activities,asthma,diagnostic
+Read,663N000,Asthma causing night waking,asthma,diagnostic
+Read,H331100,Intrinsic asthma with status asthmaticus,asthma,diagnostic
+Read,663W.00,Asthma prophylactic medication used,asthma,diagnostic
+Read,H33..11,Bronchial asthma,asthma,diagnostic
+Read,H33zz12,Allergic asthma NEC,asthma,diagnostic
+Read,H330.00,Extrinsic (atopic) asthma,asthma,diagnostic
+Read,663e.00,Asthma restricts exercise,asthma,diagnostic
+Read,H33zz11,Exercise induced asthma,asthma,diagnostic
+Read,663O.00,Asthma not disturbing sleep,asthma,diagnostic
+Read,H33z.00,Asthma unspecified,asthma,diagnostic
+Read,H330.14,Pollen asthma,asthma,diagnostic
+Read,8797.00,Asthma control step 4,asthma,diagnostic
+Read,173A.00,Exercise induced asthma,asthma,diagnostic
+Read,9OJA.00,Asthma monitoring check done,asthma,diagnostic
+Read,663O000,Asthma never disturbs sleep,asthma,diagnostic
+Read,c198.00,SEREVENT ACCUHALER 50micrograms/actuation,asthma,diagnostic
+Read,663n.00,Asthma treatment compliance satisfactory,asthma,diagnostic
+Read,H330111,Extrinsic asthma with asthma attack,asthma,diagnostic
+Read,H333.00,Acute exacerbation of asthma,asthma,diagnostic
+Read,c11b.00,VENTOLIN sf syrp 2mg/5ml,asthma,diagnostic
+Read,H330.11,Allergic asthma,asthma,diagnostic
+Read,c13I.00,AIROMIR cfc free inh 100micrograms/inhalation,asthma,diagnostic
+Read,H33z111,Asthma attack NOS,asthma,diagnostic
+Read,H330000,Extrinsic asthma without status asthmaticus,asthma,diagnostic
+Read,c61z.00,BECLOMETASONE inh 100micrograms/actuation,asthma,diagnostic
+Read,c14f.00,BRICANYL TURBOHALER 500micrograms,asthma,diagnostic
+Read,c109.00,,asthma,diagnostic
+Read,c13v.00,SALBUTAMOL inh 100micrograms/inhalation,asthma,diagnostic
+Read,c13G.00,,asthma,diagnostic
+Read,h33z100,Asthma attack,asthma,diagnostic
+Read,c65V.00,FLIXOTIDE ACCUHALER 250micrograms/inhalation,asthma,diagnostic
+Read,663t.00,Asthma causes daytime symptoms 1 to 2 times per month,asthma,diagnostic
+Read,66Y5.00,Change in asthma management plan,asthma,diagnostic
+Read,c31u.00,,asthma,diagnostic
+Read,9NI8.00,Asthma outreach clinic,asthma,diagnostic
+Read,663v.00,Asthma causes daytime symptoms most days,asthma,diagnostic
+Read,66Y9.00,Step up change in asthma management plan,asthma,diagnostic
+Read,c1E1.00,,asthma,diagnostic
+Read,663m.00,Asthma accident and emergency attendance since last visit,asthma,diagnostic
+Read,663s.00,Asthma never causes daytime symptoms,asthma,diagnostic
+Read,66YA.00,Step down change in asthma management plan,asthma,diagnostic
+Read,66YC.00,Absent from work or school due to asthma,asthma,diagnostic
+Read,66YK.00,Asthma follow-up,asthma,diagnostic
+Read,1780.00,Aspirin induced asthma,asthma,diagnostic
+Read,8B3j.00,Asthma medication review,asthma,diagnostic
+Read,1O2..00,Asthma confirmed,asthma,diagnostic
+Read,66YR.00,Asthma monitoring by doctor,asthma,diagnostic
+Read,663w.00,Asthma limits walking up hills or stairs,asthma,diagnostic
+Read,H33z.11,Hyperreactive airways disease,asthma,diagnostic
+Read,66YP.00,Asthma night-time symptoms,asthma,diagnostic
+Read,c61u.00,,asthma,diagnostic
+Read,c665.00,,asthma,diagnostic
+Read,8CR0.00,Asthma clinical management plan,asthma,diagnostic
+Read,c672.00,,asthma,diagnostic
+Read,H334.00,Brittle asthma,asthma,diagnostic
+Read,cA11.00,,asthma,diagnostic
+Read,c61i.00,,asthma,diagnostic
+Read,c61v.00,,asthma,diagnostic
+Read,c61O.00,,asthma,diagnostic
+Read,c31G.00,,asthma,diagnostic
+Read,c1Du.00,,asthma,diagnostic
+Read,c1C4.00,,asthma,diagnostic
+Read,c13T.00,,asthma,diagnostic
+Read,c14j.00,,asthma,diagnostic
+Read,c135.00,Diabetes insipidus,asthma,diagnostic
+Read,c1E7.00,,asthma,diagnostic
+Read,173d.00,Work aggravated asthma,asthma,diagnostic
+Read,c66B.00,,asthma,diagnostic
+Read,c66a.00,,asthma,diagnostic
+Read,c31x.00,,asthma,diagnostic
+Read,c191.00,,asthma,diagnostic
+Read,c31t.00,,asthma,diagnostic
+Read,c14w.00,,asthma,diagnostic
+Read,c61F.00,,asthma,diagnostic
+Read,c1Dw.00,,asthma,diagnostic
+Read,c332.00,Other paraproteinaemias,asthma,diagnostic
+Read,c13o.00,,asthma,diagnostic
+Read,173c.00,Occupational asthma,asthma,diagnostic
+Read,c13U.00,,asthma,diagnostic
+Read,c61x.00,,asthma,diagnostic

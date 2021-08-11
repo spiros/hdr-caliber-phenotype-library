@@ -1,0 +1,106 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4369AR,CEREBROVASCULAR ACCIDENT RIGHT,stroke,diagnostic
+OXMIS,4369A,CVA (CEREBROVASCULAR ACCIDENT),stroke,diagnostic
+OXMIS,4369AL,CEREBROVASCULAR ACCIDENT LEFT,stroke,diagnostic
+OXMIS,4360B,STROKE WITH HYPERTENSION,stroke,diagnostic
+OXMIS,4360A,CEREBROVASCULAR ACCIDENT WITH HYPERTENSI,stroke,diagnostic
+OXMIS,4369BN,SYNDROME STROKE,stroke,diagnostic
+OXMIS,4359AT,TRANSIENT ISCHAEMIC ATTACKS,stroke,diagnostic
+OXMIS,4350AT,TRANSIENT ISCHAEMIC ATTACKS WITH HYPERTE,stroke,diagnostic
+OXMIS,4369B,STROKE,stroke,diagnostic
+OXMIS,4389PP,POSTSTROKE PARALYSIS,stroke,diagnostic
+OXMIS,4389PN,SYNDROME POSTSTROKE,stroke,diagnostic
+Read,Gyu6200,[X]Other intracerebral haemorrhage,stroke,diagnostic
+Read,G618.00,Intracerebral haemorrhage; multiple localized,stroke,diagnostic
+Read,G610.00,Cortical haemorrhage,stroke,diagnostic
+Read,G650.00,Basilar artery syndrome,stroke,diagnostic
+Read,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,stroke,diagnostic
+Read,G63y100,Cerebral infarction due to embolism of precerebral arteries,stroke,diagnostic
+Read,F423600,Amaurosis fugax,stroke,diagnostic
+Read,Gyu6400,[X]Other cerebral infarction,stroke,diagnostic
+Read,G660.00,Middle cerebral artery syndrome,stroke,diagnostic
+Read,G66..11,CVA unspecified,stroke,diagnostic
+Read,G65z.00,Transient cerebral ischaemia NOS,stroke,diagnostic
+Read,Gyu6600,[X]Occlusion and stenosis of other cerebral arteries,stroke,diagnostic
+Read,G653.00,Carotid artery syndrome hemispheric,stroke,diagnostic
+Read,G61X000,Left sided intracerebral haemorrhage; unspecified,stroke,diagnostic
+Read,G611.00,Internal capsule haemorrhage,stroke,diagnostic
+Read,G64..00,Cerebral arterial occlusion,stroke,diagnostic
+Read,G654.00,Multiple and bilateral precerebral artery syndromes,stroke,diagnostic
+Read,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,stroke,diagnostic
+Read,L440.11,CVA - cerebrovascular accident in the puerperium,stroke,diagnostic
+Read,G61z.00,Intracerebral haemorrhage NOS,stroke,diagnostic
+Read,G61X100,Right sided intracerebral haemorrhage; unspecified,stroke,diagnostic
+Read,G61X.00,Intracerebral haemorrhage in hemisphere; unspecified,stroke,diagnostic
+Read,G613.00,Cerebellar haemorrhage,stroke,diagnostic
+Read,G65z100,Intermittent cerebral ischaemia,stroke,diagnostic
+Read,G65z000,Impending cerebral ischaemia,stroke,diagnostic
+Read,G65y.00,Other transient cerebral ischaemia,stroke,diagnostic
+Read,G661.00,Anterior cerebral artery syndrome,stroke,diagnostic
+Read,L440.12,Stroke in the puerperium,stroke,diagnostic
+Read,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,stroke,diagnostic
+Read,G641.00,Cerebral embolism,stroke,diagnostic
+Read,G64z.00,Cerebral infarction NOS,stroke,diagnostic
+Read,G641.11,Cerebral embolus,stroke,diagnostic
+Read,G666.00,Pure sensory lacunar syndrome,stroke,diagnostic
+Read,G64z000,Brainstem infarction,stroke,diagnostic
+Read,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,stroke,diagnostic
+Read,G667.00,Left sided CVA,stroke,diagnostic
+Read,G66..00,Stroke and cerebrovascular accident unspecified,stroke,diagnostic
+Read,G652.00,Subclavian steal syndrome,stroke,diagnostic
+Read,G65zz00,Transient cerebral ischaemia NOS,stroke,diagnostic
+Read,G650.11,Insufficiency - basilar artery,stroke,diagnostic
+Read,G65..00,Transient cerebral ischaemia,stroke,diagnostic
+Read,G66..13,CVA - Cerebrovascular accident unspecified,stroke,diagnostic
+Read,G64z100,Wallenberg syndrome,stroke,diagnostic
+Read,G615.00,Bulbar haemorrhage,stroke,diagnostic
+Read,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,stroke,diagnostic
+Read,G65..13,Vertebro-basilar insufficiency,stroke,diagnostic
+Read,G64z.11,Brainstem infarction NOS,stroke,diagnostic
+Read,G651.00,Vertebral artery syndrome,stroke,diagnostic
+Read,G64z111,Lateral medullary syndrome,stroke,diagnostic
+Read,G64z200,Left sided cerebral infarction,stroke,diagnostic
+Read,G641000,Cerebral infarction due to embolism of cerebral arteries,stroke,diagnostic
+Read,G61..00,Intracerebral haemorrhage,stroke,diagnostic
+Read,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,stroke,diagnostic
+Read,G640000,Cerebral infarction due to thrombosis of cerebral arteries,stroke,diagnostic
+Read,G665.00,Pure motor lacunar syndrome,stroke,diagnostic
+Read,G668.00,Right sided CVA,stroke,diagnostic
+Read,G616.00,External capsule haemorrhage,stroke,diagnostic
+Read,G66..12,Stroke unspecified,stroke,diagnostic
+Read,Gyu6500,[X]Occlusion and stenosis of other precerebral arteries,stroke,diagnostic
+Read,G64z300,Right sided cerebral infarction,stroke,diagnostic
+Read,G65..11,Drop attack,stroke,diagnostic
+Read,G612.00,Basal nucleus haemorrhage,stroke,diagnostic
+Read,G65..12,Transient ischaemic attack,stroke,diagnostic
+Read,G662.00,Posterior cerebral artery syndrome,stroke,diagnostic
+Read,G61..12,Stroke due to intracerebral haemorrhage,stroke,diagnostic
+Read,G651000,Vertebro-basilar artery syndrome,stroke,diagnostic
+Read,G64z.12,Cerebellar infarction,stroke,diagnostic
+Read,G614.00,Pontine haemorrhage,stroke,diagnostic
+Read,G64..11,CVA - cerebral artery occlusion,stroke,diagnostic
+Read,G640.00,Cerebral thrombosis,stroke,diagnostic
+Read,G64..13,Stroke due to cerebral arterial occlusion,stroke,diagnostic
+Read,Gyu6F00,[X]Intracerebral haemorrhage in hemisphere; unspecified,stroke,diagnostic
+Read,8HHM.00,Ref to multidisciplinary stroke function improvement service,stroke,diagnostic
+Read,G664.00,Cerebellar stroke syndrome,stroke,diagnostic
+Read,8HBJ.00,Stroke / transient ischaemic attack referral,stroke,diagnostic
+Read,G663.00,Brain stem stroke syndrome,stroke,diagnostic
+Read,8HTQ.00,Referral to stroke clinic,stroke,diagnostic
+Read,662e.00,Stroke/CVA annual review,stroke,diagnostic
+Read,G656.00,Vertebrobasilar insufficiency,stroke,diagnostic
+Read,662M.00,Stroke monitoring,stroke,diagnostic
+Read,G64z400,Infarction of basal ganglia,stroke,diagnostic
+Read,9N0p.00,Seen in stroke clinic,stroke,diagnostic
+Read,662o.00,Haemorrhagic stroke monitoring,stroke,diagnostic
+Read,ZV12512,[V]Personal history of cerebrovascular accident (CVA),stroke,diagnostic
+Read,7P24200,Delivery of rehabilitation for stroke,stroke,diagnostic
+Read,14AK.00,H/O: Stroke in last year,stroke,diagnostic
+Read,G68X.00,Sequelae of stroke;not specfd as h'morrhage or infarction,stroke,diagnostic
+Read,Gyu6D00,[X]Sequelae/other + unspecified cerebrovascular diseases,stroke,diagnostic
+Read,14AB.00,H/O: TIA,stroke,diagnostic
+Read,14A7.12,H/O: stroke,stroke,diagnostic
+Read,ZV12511,[V]Personal history of stroke,stroke,diagnostic
+Read,14A7.00,H/O: CVA/stroke,stroke,diagnostic
+Read,Gyu6C00,[X]Sequelae of stroke;not specfd as h'morrhage or infarction,stroke,diagnostic
+Read,G64..12,Infarction - cerebral,stroke,diagnostic

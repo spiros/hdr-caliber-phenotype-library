@@ -1,0 +1,120 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,342 E,PARKINSONIAN EPILEPSY,Epilepsy_clinicals,diagnostic
+Read,F250y00,Other specified generalised nonconvulsive epilepsy,Epilepsy_clinicals,diagnostic
+Read,2126000,Epilepsy resolved,Epilepsy_clinicals,diagnostic
+Read,212J.00,Epilepsy resolved,Epilepsy_clinicals,diagnostic
+Read,1B1W.00,Transient epileptic amnesia,Epilepsy_clinicals,diagnostic
+Read,667F.00,Seizure free >12 months,Epilepsy_clinicals,diagnostic
+Read,3451,GRAND MAL EPILEPSY,Epilepsy_clinicals,diagnostic
+Read,2932,PSYCHOSIS EPILEPTIC,Epilepsy_clinicals,diagnostic
+Read,3450,EPILEPSY NONCONVULSIVE GENERALIZED,Epilepsy_clinicals,diagnostic
+Read,3032EP,EPILEPSY ALCOHOLIC,Epilepsy_clinicals,diagnostic
+Read,3459CL,EPILEPSY CLIMACTERIC,Epilepsy_clinicals,diagnostic
+Read,3453T,TEMPORAL LOBE EPILEPSY,Epilepsy_clinicals,diagnostic
+Read,3459D,ISCHAEMIC EPILEPSY,Epilepsy_clinicals,diagnostic
+Read,3453P,EPILEPSY PERIPHERAL,Epilepsy_clinicals,diagnostic
+Read,3453AT,EPILEPSY AUTOMATISM,Epilepsy_clinicals,diagnostic
+Read,3459A,POST-TRAUMATIC EPILEPSY,Epilepsy_clinicals,diagnostic
+Read,3459C,EPILEPTIC COMA,Epilepsy_clinicals,diagnostic
+Read,3459BA,IDOPATHIC EPILEPSY,Epilepsy_clinicals,diagnostic
+Read,3459AB,ABDOMEN CONVULSIVE EQUIVALENT (EPILEPSY),Epilepsy_clinicals,diagnostic
+Read,3459M,MIGRAINE EPILEPSY,Epilepsy_clinicals,diagnostic
+Read,6674.00,Epilepsy associated problems,Epilepsy_clinicals,diagnostic
+Read,667E.00,Epilepsy care arrangement,Epilepsy_clinicals,diagnostic
+Read,3459F,FIT EPILEPTIC,Epilepsy_clinicals,diagnostic
+Read,3459N,NOCTURNAL EPILEPSY,Epilepsy_clinicals,diagnostic
+Read,6672.00,Follow-up epilepsy assessment,Epilepsy_clinicals,diagnostic
+Read,667..00,Epilepsy monitoring,Epilepsy_clinicals,diagnostic
+Read,3459R,EPILEPSY RESOLVED,Epilepsy_clinicals,diagnostic
+Read,6678.00,Epilepsy treatment changed,Epilepsy_clinicals,diagnostic
+Read,667D.00,Epilepsy control poor,Epilepsy_clinicals,diagnostic
+Read,6676.00,Last fit,Epilepsy_clinicals,diagnostic
+Read,6675.00,Fit frequency,Epilepsy_clinicals,diagnostic
+Read,6679.00,Epilepsy treatment started,Epilepsy_clinicals,diagnostic
+Read,667C.00,Epilepsy control good,Epilepsy_clinicals,diagnostic
+Read,667B.00,Nocturnal epilepsy,Epilepsy_clinicals,diagnostic
+Read,667A.00,Epilepsy treatment stopped,Epilepsy_clinicals,diagnostic
+Read,667X.00,No epilepsy drug side effects,Epilepsy_clinicals,diagnostic
+Read,F250z00,Generalised nonconvulsive epilepsy NOS,Epilepsy_clinicals,diagnostic
+Read,F250300,Epileptic seizures - akinetic,Epilepsy_clinicals,diagnostic
+Read,667M.00,Epilepsy management plan given,Epilepsy_clinicals,diagnostic
+Read,667G.00,Epilepsy restricts employment,Epilepsy_clinicals,diagnostic
+Read,667H.00,Epilepsy prevents employment,Epilepsy_clinicals,diagnostic
+Read,667L.00,Epilepsy does not limit activities,Epilepsy_clinicals,diagnostic
+Read,667K.00,Epilepsy limits activities,Epilepsy_clinicals,diagnostic
+Read,667J.00,Epilepsy impairs education,Epilepsy_clinicals,diagnostic
+Read,667Q.00,1 to 12 seizures a year,Epilepsy_clinicals,diagnostic
+Read,667W.00,Emergency epilepsy treatment since last appointment,Epilepsy_clinicals,diagnostic
+Read,667P.00,No seizures on treatment,Epilepsy_clinicals,diagnostic
+Read,667N.00,Epilepsy severity,Epilepsy_clinicals,diagnostic
+Read,667R.00,2 to 4 seizures a month,Epilepsy_clinicals,diagnostic
+Read,667V.00,Many seizures a day,Epilepsy_clinicals,diagnostic
+Read,667T.00,Daily seizures,Epilepsy_clinicals,diagnostic
+Read,667S.00,1 to 7 seizures a week,Epilepsy_clinicals,diagnostic
+Read,Eu05y11,[X]Epileptic psychosis NOS,Epilepsy_clinicals,diagnostic
+Read,F250500,Lennox-Gastaut syndrome,Epilepsy_clinicals,diagnostic
+Read,8BIF.00,Epilepsy medication review,Epilepsy_clinicals,diagnostic
+Read,8BL3.00,Patient on maximal tolerated anticonvulsant therapy,Epilepsy_clinicals,diagnostic
+Read,Eu05212,[X]Schizophrenia-like psychosis in epilepsy,Epilepsy_clinicals,diagnostic
+Read,9N4V.00,DNA - Did not attend epilepsy clinic,Epilepsy_clinicals,diagnostic
+Read,9N0r.00,Seen in epilepsy clinic,Epilepsy_clinicals,diagnostic
+Read,F132100,Progressive myoclonic epilepsy,Epilepsy_clinicals,diagnostic
+Read,F250200,Epileptic seizures - atonic,Epilepsy_clinicals,diagnostic
+Read,Eu80300,[X]Acquired aphasia with epilepsy [Landau - Kleffner],Epilepsy_clinicals,diagnostic
+Read,Eu06013,[X]Limbic epilepsy personality,Epilepsy_clinicals,diagnostic
+Read,F25..00,Epilepsy,Epilepsy_clinicals,diagnostic
+Read,F250100,Pykno-epilepsy,Epilepsy_clinicals,diagnostic
+Read,F250011,Epileptic absences,Epilepsy_clinicals,diagnostic
+Read,F250000,Petit mal (minor) epilepsy,Epilepsy_clinicals,diagnostic
+Read,F250.00,Generalised nonconvulsive epilepsy,Epilepsy_clinicals,diagnostic
+Read,F251z00,Generalised convulsive epilepsy NOS,Epilepsy_clinicals,diagnostic
+Read,F251.00,Generalised convulsive epilepsy,Epilepsy_clinicals,diagnostic
+Read,F255200,Somatosensory epilepsy,Epilepsy_clinicals,diagnostic
+Read,F251111,Otohara syndrome,Epilepsy_clinicals,diagnostic
+Read,F251y00,Other specified generalised convulsive epilepsy,Epilepsy_clinicals,diagnostic
+Read,F251011,Tonic-clonic epilepsy,Epilepsy_clinicals,diagnostic
+Read,F251000,Grand mal (major) epilepsy,Epilepsy_clinicals,diagnostic
+Read,F251200,Epileptic seizures - clonic,Epilepsy_clinicals,diagnostic
+Read,F251500,Tonic-clonic epilepsy,Epilepsy_clinicals,diagnostic
+Read,F251400,Epileptic seizures - tonic,Epilepsy_clinicals,diagnostic
+Read,F251300,Epileptic seizures - myoclonic,Epilepsy_clinicals,diagnostic
+Read,F255100,Sensory induced epilepsy,Epilepsy_clinicals,diagnostic
+Read,F253.00,Grand mal status,Epilepsy_clinicals,diagnostic
+Read,F254200,Psychosensory epilepsy,Epilepsy_clinicals,diagnostic
+Read,F252.00,Petit mal status,Epilepsy_clinicals,diagnostic
+Read,F254100,Psychomotor epilepsy,Epilepsy_clinicals,diagnostic
+Read,F253.11,Status epilepticus,Epilepsy_clinicals,diagnostic
+Read,F254000,Temporal lobe epilepsy,Epilepsy_clinicals,diagnostic
+Read,F254.00,Partial epilepsy with impairment of consciousness,Epilepsy_clinicals,diagnostic
+Read,F254500,Complex partial epileptic seizure,Epilepsy_clinicals,diagnostic
+Read,F255012,Motor epilepsy,Epilepsy_clinicals,diagnostic
+Read,F254400,Epileptic automatism,Epilepsy_clinicals,diagnostic
+Read,F254300,Limbic system epilepsy,Epilepsy_clinicals,diagnostic
+Read,F254z00,Partial epilepsy with impairment of consciousness NOS,Epilepsy_clinicals,diagnostic
+Read,F255011,Focal epilepsy,Epilepsy_clinicals,diagnostic
+Read,F255000,Jacksonian; focal or motor epilepsy,Epilepsy_clinicals,diagnostic
+Read,F255.00,Partial epilepsy without impairment of consciousness,Epilepsy_clinicals,diagnostic
+Read,F255300,Visceral reflex epilepsy,Epilepsy_clinicals,diagnostic
+Read,F25y.00,Other forms of epilepsy,Epilepsy_clinicals,diagnostic
+Read,F255y00,Partial epilepsy without impairment of consciousness OS,Epilepsy_clinicals,diagnostic
+Read,F255600,Simple partial epileptic seizure,Epilepsy_clinicals,diagnostic
+Read,F255311,Partial epilepsy with autonomic symptoms,Epilepsy_clinicals,diagnostic
+Read,F255500,Unilateral epilepsy,Epilepsy_clinicals,diagnostic
+Read,F255400,Visual reflex epilepsy,Epilepsy_clinicals,diagnostic
+Read,F25B.00,Alcohol-induced epilepsy,Epilepsy_clinicals,diagnostic
+Read,F25X.00,Status epilepticus; unspecified,Epilepsy_clinicals,diagnostic
+Read,F257.00,Kojevnikov's epilepsy,Epilepsy_clinicals,diagnostic
+Read,F255z00,Partial epilepsy without impairment of consciousness NOS,Epilepsy_clinicals,diagnostic
+Read,F25C.00,Drug-induced epilepsy,Epilepsy_clinicals,diagnostic
+Read,F25F.00,Photosensitive epilepsy,Epilepsy_clinicals,diagnostic
+Read,F25E.00,Stress-induced epilepsy,Epilepsy_clinicals,diagnostic
+Read,F25D.00,Menstrual epilepsy,Epilepsy_clinicals,diagnostic
+Read,F25z.00,Epilepsy NOS,Epilepsy_clinicals,diagnostic
+Read,F25y100,Gelastic epilepsy,Epilepsy_clinicals,diagnostic
+Read,F25y000,Cursive (running) epilepsy,Epilepsy_clinicals,diagnostic
+Read,F25yz00,Other forms of epilepsy NOS,Epilepsy_clinicals,diagnostic
+Read,F25y200,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset,Epilepsy_clinicals,diagnostic
+Read,F25y400,Benign Rolandic epilepsy,Epilepsy_clinicals,diagnostic
+Read,F25y300,Complex partial status epilepticus,Epilepsy_clinicals,diagnostic
+Read,SC20000,Traumatic epilepsy,Epilepsy_clinicals,diagnostic
+Read,F25z.11,Fit (in known epileptic) NOS,Epilepsy_clinicals,diagnostic

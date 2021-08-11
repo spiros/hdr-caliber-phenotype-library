@@ -1,0 +1,520 @@
+Coding System (GPRD_product_code),Codes,Description,Entity type,Category
+GPRD_product_code,12483001,CARALPHA tabs 10mg + 12.5mg,ACE inhibitors,drug
+GPRD_product_code,03203003,ENALAPRIL tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,00615003,VASCACE tabs 1mg,ACE inhibitors,drug
+GPRD_product_code,03203002,ENALAPRIL tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,03203001,ENALAPRIL tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,01122003,ACEPRIL tabs 50mg,ACE inhibitors,drug
+GPRD_product_code,04927009,RAMIPRIL tabs 5mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,03312010,ENALAPRIL tabs 5mg [APS],ACE inhibitors,drug
+GPRD_product_code,03312009,ENALAPRIL tabs 2.5mg [APS],ACE inhibitors,drug
+GPRD_product_code,03309010,ENALAPRIL tabs 5mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,03309009,ENALAPRIL tabs 2.5mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,03310009,ENALAPRIL tabs 20mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,03309011,ENALAPRIL tabs 10mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,03312011,ENALAPRIL tabs 10mg [APS],ACE inhibitors,drug
+GPRD_product_code,04209009,LISINOPRIL tabs 2.5mg [TEVA],ACE inhibitors,drug
+GPRD_product_code,03320009,ENALAPRIL tabs 2.5mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,03313009,ENALAPRIL tabs 20mg [APS],ACE inhibitors,drug
+GPRD_product_code,03320010,ENALAPRIL tabs 5mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,03320011,ENALAPRIL tabs 10mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,03821009,ENALAPRIL tabs 20mg [KENT],ACE inhibitors,drug
+GPRD_product_code,03820009,ENALAPRIL tabs 10mg [KENT],ACE inhibitors,drug
+GPRD_product_code,04287009,LISINOPRIL tabs 20mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,04211009,LISINOPRIL tabs 10mg [TEVA],ACE inhibitors,drug
+GPRD_product_code,04210009,LISINOPRIL tabs 5mg [TEVA],ACE inhibitors,drug
+GPRD_product_code,05851009,ENALAPRIL + HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04275009,LISINOPRIL tabs 2.5mg [NICHE],ACE inhibitors,drug
+GPRD_product_code,04276009,LISINOPRIL tabs 5mg [NICHE],ACE inhibitors,drug
+GPRD_product_code,04311009,LISINOPRIL tabs 20mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,04212009,LISINOPRIL tabs 20mg [TEVA],ACE inhibitors,drug
+GPRD_product_code,04277009,LISINOPRIL tabs 10mg [NICHE],ACE inhibitors,drug
+GPRD_product_code,04278009,LISINOPRIL tabs 20mg [NICHE],ACE inhibitors,drug
+GPRD_product_code,04310009,LISINOPRIL tabs 10mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,04298009,LISINOPRIL tabs 5mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04297009,LISINOPRIL tabs 2.5mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04299009,LISINOPRIL tabs 10mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04309009,LISINOPRIL tabs 5mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,04308009,LISINOPRIL tabs 2.5mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,04300009,LISINOPRIL tabs 20mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04318009,LISINOPRIL tabs 2.5mg [STERWIN],ACE inhibitors,drug
+GPRD_product_code,04315009,LISINOPRIL tabs 5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04314009,LISINOPRIL tabs 2.5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04317009,LISINOPRIL tabs 20mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04316009,LISINOPRIL tabs 10mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04321009,LISINOPRIL tabs 20mg [STERWIN],ACE inhibitors,drug
+GPRD_product_code,04320009,LISINOPRIL tabs 10mg [STERWIN],ACE inhibitors,drug
+GPRD_product_code,04319009,LISINOPRIL tabs 5mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,04592009,CO-ZIDOCAPT tabs 25mg + 50mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,04326009,LISINOPRIL tabs 20mg [ALPHARMA],ACE inhibitors,drug
+GPRD_product_code,04325009,LISINOPRIL tabs 10mg [ALPHARMA],ACE inhibitors,drug
+GPRD_product_code,04324009,LISINOPRIL tabs 5mg [ALPHARMA],ACE inhibitors,drug
+GPRD_product_code,04323009,LISINOPRIL tabs 2.5mg [ALPHARMA],ACE inhibitors,drug
+GPRD_product_code,04364009,CO-ZIDOCAPT tabs 25mg + 50mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04363009,CO-ZIDOCAPT tabs 12.5mg + 25mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04358009,ENALAPRIL + HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,04926009,RAMIPRIL tabs 2.5mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,03803009,CAPTOPRIL tabs 12.5mg [KENT],ACE inhibitors,drug
+GPRD_product_code,03726009,ENALAPRIL tabs 20mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,03699009,ENALAPRIL tabs 20mg [NEOLAB],ACE inhibitors,drug
+GPRD_product_code,03725009,ENALAPRIL tabs 2.5mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,03725011,ENALAPRIL tabs 10mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,03725010,ENALAPRIL tabs 5mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,03804009,CAPTOPRIL tabs 25mg [KENT],ACE inhibitors,drug
+GPRD_product_code,03818009,ENALAPRIL tabs 2.5mg [KENT],ACE inhibitors,drug
+GPRD_product_code,03805009,CAPTOPRIL tabs 50mg [KENT],ACE inhibitors,drug
+GPRD_product_code,03819009,ENALAPRIL tabs 5mg [KENT],ACE inhibitors,drug
+GPRD_product_code,04286009,LISINOPRIL tabs 10mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,04282009,LISINOPRIL tabs 5mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,04925009,RAMIPRIL tabs 1.25mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,04861009,RAMIPRIL caps 2.5mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04608009,ENALAPRIL tabs 10mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,04849009,RAMIPRIL caps 1.25mg [TEVA],ACE inhibitors,drug
+GPRD_product_code,04609009,ENALAPRIL tabs 20mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,04851009,RAMIPRIL tabs 2.5mg [APS],ACE inhibitors,drug
+GPRD_product_code,04852009,RAMIPRIL tabs 5mg [APS],ACE inhibitors,drug
+GPRD_product_code,04850009,RAMIPRIL caps 2.5mg [TEVA],ACE inhibitors,drug
+GPRD_product_code,04860009,RAMIPRIL caps 1.25mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04853009,RAMIPRIL caps 5mg [TEVA],ACE inhibitors,drug
+GPRD_product_code,04855009,RAMIPRIL tabs 10mg [APS],ACE inhibitors,drug
+GPRD_product_code,04854009,RAMIPRIL caps 10mg [TEVA],ACE inhibitors,drug
+GPRD_product_code,04865009,RAMIPRIL caps 5mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,04862009,RAMIPRIL caps 5mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04903009,RAMIPRIL tabs 10mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04872009,RAMIPRIL caps 10mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,04863009,RAMIPRIL caps 10mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04866009,RAMIPRIL caps 10mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,04871009,RAMIPRIL caps 5mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,04870009,RAMIPRIL caps 2.5mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,04902009,RAMIPRIL tabs 5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04897009,RAMIPRIL caps 2.5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04896009,RAMIPRIL caps 1.25mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04898009,RAMIPRIL caps 5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04901009,RAMIPRIL tabs 2.5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04899009,RAMIPRIL caps 10mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04900009,RAMIPRIL tabs 1.25mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04938009,RAMIPRIL caps 1.25mg [SOVEREIGN],ACE inhibitors,drug
+GPRD_product_code,04928009,RAMIPRIL tabs 10mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,04943009,RAMIPRIL tabs 2.5mg [SOVEREIGN],ACE inhibitors,drug
+GPRD_product_code,04939009,RAMIPRIL caps 2.5mg [SOVEREIGN],ACE inhibitors,drug
+GPRD_product_code,04940009,RAMIPRIL caps 5mg [SOVEREIGN],ACE inhibitors,drug
+GPRD_product_code,04942009,RAMIPRIL tabs 1.25mg [SOVEREIGN],ACE inhibitors,drug
+GPRD_product_code,04941009,RAMIPRIL caps 10mg [SOVEREIGN],ACE inhibitors,drug
+GPRD_product_code,04954009,RAMIPRIL caps 1.25mg [DEXCEL],ACE inhibitors,drug
+GPRD_product_code,04680009,CAPTOPRIL tabs 25mg [SOVEREIGN],ACE inhibitors,drug
+GPRD_product_code,04607009,ENALAPRIL tabs 5mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,04945009,RAMIPRIL tabs 10mg [SOVEREIGN],ACE inhibitors,drug
+GPRD_product_code,04606009,ENALAPRIL tabs 2.5mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,04616009,LISINOPRIL tabs 20mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,04614009,LISINOPRIL tabs 5mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,04615009,LISINOPRIL tabs 10mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,04749009,CAPTOPRIL tabs 12.5mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04681009,CAPTOPRIL tabs 50mg [SOVEREIGN],ACE inhibitors,drug
+GPRD_product_code,05136009,QUINAPRIL tabs 5mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,04800009,LISINOPRIL tabs 2.5mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05050009,LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,04750009,CAPTOPRIL tabs 25mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,04848009,RAMIPRIL tabs 1.25mg [APS],ACE inhibitors,drug
+GPRD_product_code,04864009,RAMIPRIL caps 2.5mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,04957009,RAMIPRIL caps 10mg [DEXCEL],ACE inhibitors,drug
+GPRD_product_code,04956009,RAMIPRIL caps 5mg [DEXCEL],ACE inhibitors,drug
+GPRD_product_code,04955009,RAMIPRIL caps 2.5mg [DEXCEL],ACE inhibitors,drug
+GPRD_product_code,05051009,QUINAPRIL tabs 5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,05047009,CO-ZIDOCAPT tabs 12.5mg + 25mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,05048009,CO-ZIDOCAPT tabs 25mg + 50mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,05027009,RAMIPRIL caps 1.25mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,05132003,ODRIK caps 2mg,ACE inhibitors,drug
+GPRD_product_code,05066009,RAMIPRIL tabs 5mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,05065009,RAMIPRIL tabs 2.5mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,05056009,RAMIPRIL tabs 1.25mg [NICHE],ACE inhibitors,drug
+GPRD_product_code,05055009,QUINAPRIL tabs 20mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,05054009,QUINAPRIL tabs 10mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,05058009,RAMIPRIL tabs 5mg [NICHE],ACE inhibitors,drug
+GPRD_product_code,05057009,RAMIPRIL tabs 2.5mg [NICHE],ACE inhibitors,drug
+GPRD_product_code,05059009,QUINAPRIL tabs 40mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,05064009,RAMIPRIL tabs 1.25mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,05060009,RAMIPRIL tabs 10mg [NICHE],ACE inhibitors,drug
+GPRD_product_code,05132002,ODRIK caps 1mg,ACE inhibitors,drug
+GPRD_product_code,05088009,QUINAPRIL tabs 10mg [ALPHARMA],ACE inhibitors,drug
+GPRD_product_code,05087009,QUINAPRIL tabs 5mg [ALPHARMA],ACE inhibitors,drug
+GPRD_product_code,05101009,QUINAPRIL tabs 10mg [APS],ACE inhibitors,drug
+GPRD_product_code,05067009,RAMIPRIL tabs 10mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,05089009,QUINAPRIL tabs 20mg [ALPHARMA],ACE inhibitors,drug
+GPRD_product_code,05100009,QUINAPRIL tabs 5mg [APS],ACE inhibitors,drug
+GPRD_product_code,05090009,QUINAPRIL tabs 40mg [ALPHARMA],ACE inhibitors,drug
+GPRD_product_code,05103009,QUINAPRIL tabs 40mg [APS],ACE inhibitors,drug
+GPRD_product_code,05102009,QUINAPRIL tabs 20mg [APS],ACE inhibitors,drug
+GPRD_product_code,05130001,CAPTOPRIL + HYDROCHLOROTHIAZIDE tabs 50mg + 25mg,ACE inhibitors,drug
+GPRD_product_code,05132001,ODRIK caps 0.5mg,ACE inhibitors,drug
+GPRD_product_code,05131002,CAPOZIDE LS tablets,ACE inhibitors,drug
+GPRD_product_code,05130002,CAPTOPRIL + HYDROCHLOROTHIAZIDE tabs 25mg + 12.5mg,ACE inhibitors,drug
+GPRD_product_code,05131001,CAPOZIDE tabs,ACE inhibitors,drug
+GPRD_product_code,05137009,QUINAPRIL tabs 10mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05138009,QUINAPRIL tabs 20mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05172009,QUINAPRIL tabs 10mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,05165009,RAMIPRIL caps 5mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,05164009,RAMIPRIL caps 2.5mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,05139009,QUINAPRIL tabs 40mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05166009,RAMIPRIL caps 10mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,05286009,RAMIPRIL tabs 10mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05171009,QUINAPRIL tabs 5mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,05173009,QUINAPRIL tabs 20mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,05282009,RAMIPRIL tabs 5mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05280009,RAMIPRIL tabs 2.5mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05277009,RAMIPRIL tabs 1.25mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05272009,LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,05349009,ENALAPRIL tabs 10mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05364009,RAMIPRIL caps 2.5mg [ACTAVIS],ACE inhibitors,drug
+GPRD_product_code,05348009,ENALAPRIL tabs 5mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05426009,RAMIPRIL tabs 5mg [PLIVA],ACE inhibitors,drug
+GPRD_product_code,05347009,ENALAPRIL tabs 2.5mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05350009,ENALAPRIL tabs 20mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05363009,RAMIPRIL caps 1.25mg [ACTAVIS],ACE inhibitors,drug
+GPRD_product_code,05366009,RAMIPRIL caps 10mg [ACTAVIS],ACE inhibitors,drug
+GPRD_product_code,05365009,RAMIPRIL caps 5mg [ACTAVIS],ACE inhibitors,drug
+GPRD_product_code,05396001,TRANDOLAPRIL caps 500 micrograms,ACE inhibitors,drug
+GPRD_product_code,05425009,RAMIPRIL tabs 2.5mg [PLIVA],ACE inhibitors,drug
+GPRD_product_code,05396003,TRANDOLAPRIL caps 2mg,ACE inhibitors,drug
+GPRD_product_code,05424009,RAMIPRIL tabs 1.25mg [PLIVA],ACE inhibitors,drug
+GPRD_product_code,05396002,TRANDOLAPRIL caps 1mg,ACE inhibitors,drug
+GPRD_product_code,05437009,LISINOPRIL tabs 2.5mg [ARROW],ACE inhibitors,drug
+GPRD_product_code,05476009,LISINOPRIL tabs 5mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,05436009,LISINOPRIL tabs 5mg [ARROW],ACE inhibitors,drug
+GPRD_product_code,05427009,RAMIPRIL tabs 10mg [PLIVA],ACE inhibitors,drug
+GPRD_product_code,05438009,LISINOPRIL tabs 10mg [ARROW],ACE inhibitors,drug
+GPRD_product_code,05439009,LISINOPRIL tabs 20mg [ARROW],ACE inhibitors,drug
+GPRD_product_code,05446001,HYDROCHLOROTHIAZIDE + CAPTOPRIL tabs 25mg + 50mg,ACE inhibitors,drug
+GPRD_product_code,05446002,HYDROCHLOROTHIAZIDE + CAPTOPRIL tabs 12.5mg + 25mg,ACE inhibitors,drug
+GPRD_product_code,05475009,LISINOPRIL tabs 2.5mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,05487009,RAMIPRIL caps 1.25mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05477009,LISINOPRIL tabs 10mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,05478009,LISINOPRIL tabs 20mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,05484009,CAPTOPRIL oral susp 5mg/5ml [ELDON],ACE inhibitors,drug
+GPRD_product_code,05587009,RAMIPRIL tabs 1.25mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,05489009,RAMIPRIL caps 5mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05488009,RAMIPRIL caps 2.5mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05490009,RAMIPRIL caps 10mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05668009,RAMIPRIL caps 5mg [ARROW],ACE inhibitors,drug
+GPRD_product_code,05246002,CARACE tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,05250003,LISINOPRIL tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,05246003,CARACE tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,06115009,FOSINOPRIL tabs 10mg [FOCUS],ACE inhibitors,drug
+GPRD_product_code,05247001,CARACE tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,05248003,ZESTRIL tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,05248002,ZESTRIL tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,05250002,LISINOPRIL tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,05248001,ZESTRIL tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,05250001,LISINOPRIL tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,05249001,ZESTRIL tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,05270009,LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,05251001,LISINOPRIL tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,05640009,RAMIPRIL caps 10mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,05639009,RAMIPRIL caps 5mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,05604003,QUINAPRIL tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,05604002,QUINAPRIL tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,05638009,RAMIPRIL caps 2.5mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,05637009,RAMIPRIL caps 1.25mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,02508001,PRALENAL tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,05684009,RAMIPRIL caps 10mg [FOCUS],ACE inhibitors,drug
+GPRD_product_code,05669009,RAMIPRIL caps 10mg [ARROW],ACE inhibitors,drug
+GPRD_product_code,05681009,RAMIPRIL caps 1.25mg [FOCUS],ACE inhibitors,drug
+GPRD_product_code,05683009,RAMIPRIL caps 5mg [FOCUS],ACE inhibitors,drug
+GPRD_product_code,05984009,FOSINOPRIL tabs 10mg [APS],ACE inhibitors,drug
+GPRD_product_code,05733009,CO-ZIDOCAPT tabs 25mg + 50mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05682009,RAMIPRIL caps 2.5mg [FOCUS],ACE inhibitors,drug
+GPRD_product_code,05728009,CAPTOPRIL tabs 12.5mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05730009,CAPTOPRIL tabs 50mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05729009,CAPTOPRIL tabs 25mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05745009,LISINOPRIL tabs 5mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05959009,FOSINOPRIL tabs 20mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,05744009,LISINOPRIL tabs 2.5mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05747009,LISINOPRIL tabs 20mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05746009,LISINOPRIL tabs 10mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05860001,RAMIPRIL caps 10mg,ACE inhibitors,drug
+GPRD_product_code,05958009,FOSINOPRIL tabs 10mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,05799009,QUINAPRIL tabs 5mg [FOCUS],ACE inhibitors,drug
+GPRD_product_code,05875009,LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,06071002,GOPTEN caps 1mg,ACE inhibitors,drug
+GPRD_product_code,05985009,FOSINOPRIL tabs 20mg [APS],ACE inhibitors,drug
+GPRD_product_code,06024009,FOSINOPRIL tabs 10mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,06020009,FOSINOPRIL tabs 20mg [ALPHARMA],ACE inhibitors,drug
+GPRD_product_code,06019009,FOSINOPRIL tabs 10mg [ALPHARMA],ACE inhibitors,drug
+GPRD_product_code,06067009,FOSINOPRIL tabs 10mg [ARROW],ACE inhibitors,drug
+GPRD_product_code,06025009,FOSINOPRIL tabs 20mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,06071001,GOPTEN caps 0.5mg,ACE inhibitors,drug
+GPRD_product_code,06068009,FOSINOPRIL tabs 20mg [ARROW],ACE inhibitors,drug
+GPRD_product_code,06071003,GOPTEN caps 2mg,ACE inhibitors,drug
+GPRD_product_code,05603001,ACCUPRO tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,05590009,RAMIPRIL tabs 10mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,06540002,PRALENAL tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,05662009,RAMIPRIL caps 5mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05589009,RAMIPRIL tabs 5mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,05603002,ACCUPRO tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,05661009,RAMIPRIL caps 2.5mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05604001,QUINAPRIL tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,05603003,ACCUPRO tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,05660009,RAMIPRIL caps 1.25mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05663009,RAMIPRIL caps 10mg [RATIOPHARM],ACE inhibitors,drug
+GPRD_product_code,05667009,RAMIPRIL caps 2.5mg [ARROW],ACE inhibitors,drug
+GPRD_product_code,05666009,RAMIPRIL caps 1.25mg [ARROW],ACE inhibitors,drug
+GPRD_product_code,03694009,CAPTOPRIL tabs 12.5mg [NEOLAB],ACE inhibitors,drug
+GPRD_product_code,06402001,PERINDOPRIL tabs 2mg,ACE inhibitors,drug
+GPRD_product_code,06540001,PRALENAL tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,06083009,ENALAPRIL tabs 10mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,06432003,RAMIPRIL caps 5mg,ACE inhibitors,drug
+GPRD_product_code,06402002,PERINDOPRIL tabs 4mg,ACE inhibitors,drug
+GPRD_product_code,06431002,TRITACE caps 2.5mg,ACE inhibitors,drug
+GPRD_product_code,06431001,TRITACE caps 1.25mg,ACE inhibitors,drug
+GPRD_product_code,06431003,TRITACE caps 5mg,ACE inhibitors,drug
+GPRD_product_code,06432002,RAMIPRIL caps 2.5mg,ACE inhibitors,drug
+GPRD_product_code,06432001,RAMIPRIL caps 1.25mg,ACE inhibitors,drug
+GPRD_product_code,06606009,RAMIPRIL caps 2.5mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,06664009,RAMIPRIL tabs 10mg [ACTAVIS],ACE inhibitors,drug
+GPRD_product_code,06605009,RAMIPRIL caps 1.25mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,06540003,PRALENAL tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,06655009,RAMIPRIL caps 5mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,06663009,RAMIPRIL tabs 5mg [ACTAVIS],ACE inhibitors,drug
+GPRD_product_code,06662009,RAMIPRIL tabs 2.5mg [ACTAVIS],ACE inhibitors,drug
+GPRD_product_code,06668009,PERINDOPRIL tabs 2mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,06670009,PERINDOPRIL tabs 8mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,06669009,PERINDOPRIL tabs 4mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,06104009,LISINOPRIL tabs 20mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,06862001,STARIL tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,06103009,LISINOPRIL tabs 10mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,06863001,FOSINOPRIL tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,06862002,STARIL tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,06898001,QUINAPRIL & HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg,ACE inhibitors,drug
+GPRD_product_code,06863002,FOSINOPRIL tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,08041002,ENALAPRIL wafer 10mg,ACE inhibitors,drug
+GPRD_product_code,07112003,EDNYT tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,06102009,LISINOPRIL tabs 5mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,07112002,EDNYT tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,07112001,EDNYT tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,07267001,ACCUPRO tabs 40mg,ACE inhibitors,drug
+GPRD_product_code,08041001,ENALAPRIL wafer 5mg,ACE inhibitors,drug
+GPRD_product_code,07268001,QUINAPRIL tabs 40mg,ACE inhibitors,drug
+GPRD_product_code,06101009,LISINOPRIL tabs 2.5mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,06084009,ENALAPRIL tabs 20mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,06082009,ENALAPRIL tabs 5mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,06202009,FOSINOPRIL tabs 20mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,05343009,LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,06201009,FOSINOPRIL tabs 10mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,06116009,FOSINOPRIL tabs 20mg [FOCUS],ACE inhibitors,drug
+GPRD_product_code,06656009,RAMIPRIL caps 10mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,06251002,CARACE 10 plus tab,ACE inhibitors,drug
+GPRD_product_code,05342009,LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,06251001,CARACE 20 plus tab,ACE inhibitors,drug
+GPRD_product_code,06401002,COVERSYL tabs 4mg,ACE inhibitors,drug
+GPRD_product_code,06401001,COVERSYL tabs 2mg,ACE inhibitors,drug
+GPRD_product_code,09589001,HYTENEZE tabs 12.5mg,ACE inhibitors,drug
+GPRD_product_code,09589002,HYTENEZE tabs 25mg,ACE inhibitors,drug
+GPRD_product_code,09554002,RAMIPRIL + FELODIPINE mr tab 5mg + 5mg,ACE inhibitors,drug
+GPRD_product_code,08555001,PERINDOPRIL tabs 8mg,ACE inhibitors,drug
+GPRD_product_code,09554001,RAMIPRIL + FELODIPINE mr tab 2.5mg + 2.5mg,ACE inhibitors,drug
+GPRD_product_code,08934001,RAMIPRIL caps 2.5mg + 5mg + 10mg,ACE inhibitors,drug
+GPRD_product_code,10456001,EDNYT tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,10897002,ECOPACE tabs 25mg,ACE inhibitors,drug
+GPRD_product_code,09950001,CAPTOPRIL tabs 2mg,ACE inhibitors,drug
+GPRD_product_code,09589003,HYTENEZE tabs 50mg,ACE inhibitors,drug
+GPRD_product_code,10575001,COVERSYL tabs 8mg,ACE inhibitors,drug
+GPRD_product_code,10941002,KAPLON tabs 25mg,ACE inhibitors,drug
+GPRD_product_code,10897001,ECOPACE tabs 12.5mg,ACE inhibitors,drug
+GPRD_product_code,10694001,PERINDOPRIL + INDAPAMIDE tabs 4mg + 1.25mg,ACE inhibitors,drug
+GPRD_product_code,10897003,ECOPACE tabs 50mg,ACE inhibitors,drug
+GPRD_product_code,10941001,KAPLON tabs 12.5mg,ACE inhibitors,drug
+GPRD_product_code,10930002,TENSOPRIL tabs 25mg,ACE inhibitors,drug
+GPRD_product_code,10930001,TENSOPRIL tabs 12.5mg,ACE inhibitors,drug
+GPRD_product_code,10930003,TENSOPRIL tabs 50mg,ACE inhibitors,drug
+GPRD_product_code,10938002,CO-ZIDOCAPT tabs 12.5mg + 25mg,ACE inhibitors,drug
+GPRD_product_code,10938001,CO-ZIDOCAPT tabs 25mg + 50mg,ACE inhibitors,drug
+GPRD_product_code,11542001,TRIAPIN mr tab 5mg + 5mg,ACE inhibitors,drug
+GPRD_product_code,11491001,CAPTOMEX tabs 12.5mg,ACE inhibitors,drug
+GPRD_product_code,11285001,TRITACE TITRATION PACK caps 2.5mg + 5mg + 10mg,ACE inhibitors,drug
+GPRD_product_code,10941003,KAPLON tabs 50mg,ACE inhibitors,drug
+GPRD_product_code,11491002,CAPTOMEX tabs 25mg,ACE inhibitors,drug
+GPRD_product_code,11538001,TRIAPIN MITE mr tab 2.5mg + 2.5mg,ACE inhibitors,drug
+GPRD_product_code,11491003,CAPTOMEX tabs 50mg,ACE inhibitors,drug
+GPRD_product_code,11566001,TRANDOLAPRIL + VERAPAMIL mr cap 2mg + 180mg,ACE inhibitors,drug
+GPRD_product_code,11649001,INNOVACE MELT wafer 20mg,ACE inhibitors,drug
+GPRD_product_code,11574001,TARKA caps 180mg + 2mg,ACE inhibitors,drug
+GPRD_product_code,11650001,INNOVACE MELT wafer 2.5mg,ACE inhibitors,drug
+GPRD_product_code,11650003,INNOVACE MELT wafer 10mg,ACE inhibitors,drug
+GPRD_product_code,11650002,INNOVACE MELT wafer 5mg,ACE inhibitors,drug
+GPRD_product_code,05049009,LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,09182002,PERDIX tabs 15mg,ACE inhibitors,drug
+GPRD_product_code,09182001,PERDIX tabs 7.5mg,ACE inhibitors,drug
+GPRD_product_code,08219002,FELODIPINE + RAMIPRIL mr tab 5mg + 5mg,ACE inhibitors,drug
+GPRD_product_code,08219001,FELODIPINE + RAMIPRIL mr tab 2.5mg + 2.5mg,ACE inhibitors,drug
+GPRD_product_code,09423003,IMIDAPRIL HCl tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,09183001,MOEXIPRIL HCl tabs 7.5mg,ACE inhibitors,drug
+GPRD_product_code,09259001,CAPTO-CO tabs 12.5mg + 25mg,ACE inhibitors,drug
+GPRD_product_code,09183002,MOEXIPRIL HCl tabs 15mg,ACE inhibitors,drug
+GPRD_product_code,09259002,CAPTO-CO tabs 25mg+50mg,ACE inhibitors,drug
+GPRD_product_code,09423002,IMIDAPRIL HCl tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,09423001,IMIDAPRIL HCl tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,09466001,TANATRIL tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,09466003,TANATRIL tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,09466002,TANATRIL tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,13861001,RAMIPRIL oral susp 2.5mg/5ml,ACE inhibitors,drug
+GPRD_product_code,12776001,RANACE caps 10mg,ACE inhibitors,drug
+GPRD_product_code,05007009,LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [APS],ACE inhibitors,drug
+GPRD_product_code,12096001,RAMIPRIL tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,12775001,RANACE caps 5mg,ACE inhibitors,drug
+GPRD_product_code,12774001,RANACE caps 2.5mg,ACE inhibitors,drug
+GPRD_product_code,12097001,TRITACE tabs 1.25mg,ACE inhibitors,drug
+GPRD_product_code,12773001,RANACE caps 1.25mg,ACE inhibitors,drug
+GPRD_product_code,12629001,LOPACE caps 10mg,ACE inhibitors,drug
+GPRD_product_code,12935001,CAPTOPRIL oral liq 5mg/5ml,ACE inhibitors,drug
+GPRD_product_code,13649001,LISINOPRIL oral susp 7.5mg/5ml,ACE inhibitors,drug
+GPRD_product_code,13102001,QUINIL tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,02206011,CAPTOPRIL tabs 50mg [ALPHAR/COX],ACE inhibitors,drug
+GPRD_product_code,13101001,QUINIL tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,00339003,CILAZAPRIL tabs 1mg,ACE inhibitors,drug
+GPRD_product_code,13545001,CAPTOPRIL oral susp 6.25mg/5ml,ACE inhibitors,drug
+GPRD_product_code,13103001,QUINIL tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,02167010,CAPTOPRIL tabs 25mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,13104001,QUINIL tabs 40mg,ACE inhibitors,drug
+GPRD_product_code,14249001,CAPTOPRIL caps,ACE inhibitors,drug
+GPRD_product_code,14504001,RAMIPRIL oral liq,ACE inhibitors,drug
+GPRD_product_code,05006009,LISINOPRIL & HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg [APS],ACE inhibitors,drug
+GPRD_product_code,14248001,CAPTOPRIL oral liq,ACE inhibitors,drug
+GPRD_product_code,13870001,PERINDOPRIL oral susp 4mg/5ml,ACE inhibitors,drug
+GPRD_product_code,14503001,RAMIPRIL oral susp 10mg/5ml,ACE inhibitors,drug
+GPRD_product_code,14250001,CAPTOPRIL oral pwdr,ACE inhibitors,drug
+GPRD_product_code,14463001,LISINOPRIL oral liq,ACE inhibitors,drug
+GPRD_product_code,00671001,LISINOPRIL + HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg,ACE inhibitors,drug
+GPRD_product_code,14821001,CAPTOPRIL (IPU) tabs 6.25mg,ACE inhibitors,drug
+GPRD_product_code,11558001,VERAPAMIL HCl + TRANDOLAPRIL mr cap 180mg + 2mg,ACE inhibitors,drug
+GPRD_product_code,04522009,ENALAPRIL + HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,00733001,ENALAPRIL + HYDROCHLOROTHIAZIDE tabs 20mg + 12.5mg,ACE inhibitors,drug
+GPRD_product_code,00837001,ZESTORETIC 20-tab 20mg + 12.5mg,ACE inhibitors,drug
+GPRD_product_code,01122002,ACEPRIL tabs 25mg,ACE inhibitors,drug
+GPRD_product_code,03335009,ENALAPRIL tabs 20mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,00671002,LISINOPRIL + HYDROCHLOROTHIAZIDE tabs 10mg + 12.5mg,ACE inhibitors,drug
+GPRD_product_code,11044001,COVERSYL PLUS tabs,ACE inhibitors,drug
+GPRD_product_code,12300001,TRITACE tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,02179011,CAPTOPRIL tabs 50mg [CP PHARM],ACE inhibitors,drug
+GPRD_product_code,03436011,ENALAPRIL tabs 10mg [DEXCEL],ACE inhibitors,drug
+GPRD_product_code,12095001,RAMIPRIL tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,12299001,TRITACE tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,12094001,RAMIPRIL tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,03331010,ENALAPRIL tabs 5mg [ALPHAR/COX],ACE inhibitors,drug
+GPRD_product_code,12298001,TRITACE tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,12098001,TRITACE tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,03353011,ENALAPRIL tabs 20mg [CP PHARM],ACE inhibitors,drug
+GPRD_product_code,03341011,ENALAPRIL tabs 10mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,12297001,TRITACE tabs 1.25mg,ACE inhibitors,drug
+GPRD_product_code,03341009,ENALAPRIL tabs 2.5mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,03341010,ENALAPRIL tabs 5mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,03338010,ENALAPRIL tabs 5mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,03339009,ENALAPRIL tabs 20mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,03338009,ENALAPRIL tabs 2.5mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,12100001,TRITACE tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,03331009,ENALAPRIL tabs 2.5mg [ALPHAR/COX],ACE inhibitors,drug
+GPRD_product_code,03338011,ENALAPRIL tabs 10mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,03334009,ENALAPRIL tabs 2.5mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,12099001,TRITACE tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,03334010,ENALAPRIL tabs 5mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,03332009,ENALAPRIL tabs 20mg [ALPHAR/COX],ACE inhibitors,drug
+GPRD_product_code,03334011,ENALAPRIL tabs 10mg [SANDOZ],ACE inhibitors,drug
+GPRD_product_code,12377001,TRANDOLAPRIL caps 4mg,ACE inhibitors,drug
+GPRD_product_code,12484001,CARALPHA tabs 20mg + 12.5mg,ACE inhibitors,drug
+GPRD_product_code,01122001,ACEPRIL tabs 12.5mg,ACE inhibitors,drug
+GPRD_product_code,03436009,ENALAPRIL tabs 2.5mg [DEXCEL],ACE inhibitors,drug
+GPRD_product_code,02205009,CAPTOPRIL tabs 12.5mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,12378001,GOPTEN caps 4mg,ACE inhibitors,drug
+GPRD_product_code,03204001,ENALAPRIL tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,03321009,ENALAPRIL tabs 20mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,12628001,LOPACE caps 5mg,ACE inhibitors,drug
+GPRD_product_code,12627001,LOPACE caps 2.5mg,ACE inhibitors,drug
+GPRD_product_code,01941009,ENALAPRIL tabs 5mg [DOWELHURST],ACE inhibitors,drug
+GPRD_product_code,06897001,ACCURETIC tabs 10mg + 12.5mg,ACE inhibitors,drug
+GPRD_product_code,03437009,ENALAPRIL tabs 20mg [DEXCEL],ACE inhibitors,drug
+GPRD_product_code,03353010,ENALAPRIL tabs 10mg [CP PHARM],ACE inhibitors,drug
+GPRD_product_code,02166011,CAPTOPRIL tabs 50mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,02168010,CAPTOPRIL tabs 25mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,02168011,CAPTOPRIL tabs 50mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,02166010,CAPTOPRIL tabs 25mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,03111002,CAPTOPRIL tabs 25mg,ACE inhibitors,drug
+GPRD_product_code,02166009,CAPTOPRIL tabs 12.5mg [GEN (UK)],ACE inhibitors,drug
+GPRD_product_code,02178010,CAPTOPRIL tabs 25mg [LAGAP],ACE inhibitors,drug
+GPRD_product_code,03111003,CAPTOPRIL tabs 50mg,ACE inhibitors,drug
+GPRD_product_code,03097011,ENALAPRIL tabs 10mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,03900007,CAPTOPRIL 4 MG/ML LIQ,ACE inhibitors,drug
+GPRD_product_code,02652007,ENALAPRIL MALEATE 40 MG TAB,ACE inhibitors,drug
+GPRD_product_code,02178011,CAPTOPRIL tabs 50mg [LAGAP],ACE inhibitors,drug
+GPRD_product_code,03031010,CAPTOPRIL tabs 25mg [STERWIN],ACE inhibitors,drug
+GPRD_product_code,03111001,CAPTOPRIL tabs 12.5mg,ACE inhibitors,drug
+GPRD_product_code,03203007,PERINDOPRIL/TERT-BUTYLAMINE 2 MG TAB,ACE inhibitors,drug
+GPRD_product_code,03031011,CAPTOPRIL tabs 50mg [STERWIN],ACE inhibitors,drug
+GPRD_product_code,02913007,CAPTOPRIL 100 MG TAB,ACE inhibitors,drug
+GPRD_product_code,02996011,CAPTOPRIL tabs 50mg [LENNON],ACE inhibitors,drug
+GPRD_product_code,03097010,ENALAPRIL tabs 5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,00837002,ZESTORETIC 10-tab 10mg + 12.5mg,ACE inhibitors,drug
+GPRD_product_code,02996009,CAPTOPRIL tabs 12.5mg [LENNON],ACE inhibitors,drug
+GPRD_product_code,02996010,CAPTOPRIL tabs 25mg [LENNON],ACE inhibitors,drug
+GPRD_product_code,02179009,CAPTOPRIL tabs 12.5mg [CP PHARM],ACE inhibitors,drug
+GPRD_product_code,00727001,INNOZIDE tabs,ACE inhibitors,drug
+GPRD_product_code,00148001,CAPOTEN tabs 12.5mg,ACE inhibitors,drug
+GPRD_product_code,01528002,CILAZAPRIL tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,03694010,CAPTOPRIL tabs 25mg [NEOLAB],ACE inhibitors,drug
+GPRD_product_code,12738001,LISINOPRIL oral soln 5mg/5ml,ACE inhibitors,drug
+GPRD_product_code,14900001,QUINAPRIL + HYDROCHLOROTHIAZIDE (IPU) tabs 20mg + 12.5mg,ACE inhibitors,drug
+GPRD_product_code,14539001,CAPTOPRIL oral susp 12.5mg/5ml,ACE inhibitors,drug
+GPRD_product_code,12187001,CAPTOPRIL oral liq 3mg/5ml,ACE inhibitors,drug
+GPRD_product_code,14573001,PERINDOPRIL oral liq,ACE inhibitors,drug
+GPRD_product_code,01528001,CILAZAPRIL tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,03113009,CO-ZIDOCAPT tabs 25mg + 50mg [ALPHAR/COX],ACE inhibitors,drug
+GPRD_product_code,00615002,VASCACE tabs 0.5mg,ACE inhibitors,drug
+GPRD_product_code,01846001,TRITACE caps 10mg,ACE inhibitors,drug
+GPRD_product_code,06081009,ENALAPRIL tabs 2.5mg [ALMUS],ACE inhibitors,drug
+GPRD_product_code,03698011,ENALAPRIL tabs 10mg [NEOLAB],ACE inhibitors,drug
+GPRD_product_code,00615001,VASCACE tabs 0.25mg,ACE inhibitors,drug
+GPRD_product_code,04600009,CO-ZIDOCAPT tabs 12.5mg + 25mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,05588009,RAMIPRIL tabs 2.5mg [RANBAXY],ACE inhibitors,drug
+GPRD_product_code,05246001,CARACE tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,08041003,ENALAPRIL wafer 20mg,ACE inhibitors,drug
+GPRD_product_code,12093001,RAMIPRIL tabs 1.25mg,ACE inhibitors,drug
+GPRD_product_code,01783002,INNOVACE tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,02205011,CAPTOPRIL tabs 50mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,01783001,INNOVACE tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,01783003,INNOVACE tabs 10mg,ACE inhibitors,drug
+GPRD_product_code,02960009,CAPTOPRIL tabs 50mg [APS],ACE inhibitors,drug
+GPRD_product_code,00339002,CILAZAPRIL tabs 500 micrograms,ACE inhibitors,drug
+GPRD_product_code,01830002,VASCACE tabs 5mg,ACE inhibitors,drug
+GPRD_product_code,04944009,RAMIPRIL tabs 5mg [SOVEREIGN],ACE inhibitors,drug
+GPRD_product_code,01830001,VASCACE tabs 2.5mg,ACE inhibitors,drug
+GPRD_product_code,00148002,CAPOTEN tabs 25mg,ACE inhibitors,drug
+GPRD_product_code,02179010,CAPTOPRIL tabs 25mg [CP PHARM],ACE inhibitors,drug
+GPRD_product_code,00339001,CILAZAPRIL tabs 250micrograms,ACE inhibitors,drug
+GPRD_product_code,00148003,CAPOTEN tabs 50mg,ACE inhibitors,drug
+GPRD_product_code,02206009,CAPTOPRIL tabs 12.5mg [ALPHAR/COX],ACE inhibitors,drug
+GPRD_product_code,02959009,CAPTOPRIL tabs 25mg [APS],ACE inhibitors,drug
+GPRD_product_code,02640002,INNOVACE titration pack,ACE inhibitors,drug
+GPRD_product_code,02180010,CAPTOPRIL tabs 25mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,02958009,CAPTOPRIL tabs 12.5mg [APS],ACE inhibitors,drug
+GPRD_product_code,02939001,ACEZIDE tabs,ACE inhibitors,drug
+GPRD_product_code,02860009,CAPTOPRIL tabs 12.5mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,02860010,CAPTOPRIL tabs 25mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,02640001,INNOVACE tabs 20mg,ACE inhibitors,drug
+GPRD_product_code,03031009,CAPTOPRIL tabs 12.5mg [STERWIN],ACE inhibitors,drug
+GPRD_product_code,03097009,ENALAPRIL tabs 2.5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,03099009,ENALAPRIL tabs 20mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,02860011,CAPTOPRIL tabs 50mg [TILLOMED],ACE inhibitors,drug
+GPRD_product_code,02178009,CAPTOPRIL tabs 12.5mg [LAGAP],ACE inhibitors,drug
+GPRD_product_code,03204003,ENALAPRIL wafer 2.5mg,ACE inhibitors,drug
+GPRD_product_code,03436010,ENALAPRIL tabs 5mg [DEXCEL],ACE inhibitors,drug
+GPRD_product_code,03204002,ENALAPRIL titration pack,ACE inhibitors,drug
+GPRD_product_code,03331011,ENALAPRIL tabs 10mg [ALPHAR/COX],ACE inhibitors,drug
+GPRD_product_code,03353009,ENALAPRIL tabs 5mg [CP PHARM],ACE inhibitors,drug
+GPRD_product_code,03342009,ENALAPRIL tabs 20mg [WINTHROP],ACE inhibitors,drug
+GPRD_product_code,02205010,CAPTOPRIL tabs 25mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,02180011,CAPTOPRIL tabs 50mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,02167011,CAPTOPRIL tabs 50mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,02168009,CAPTOPRIL tabs 12.5mg [HILLCROSS],ACE inhibitors,drug
+GPRD_product_code,02206010,CAPTOPRIL tabs 25mg [ALPHAR/COX],ACE inhibitors,drug
+GPRD_product_code,02180009,CAPTOPRIL tabs 12.5mg [GENUS],ACE inhibitors,drug
+GPRD_product_code,03698010,ENALAPRIL tabs 5mg [NEOLAB],ACE inhibitors,drug
+GPRD_product_code,03694011,CAPTOPRIL tabs 50mg [NEOLAB],ACE inhibitors,drug
+GPRD_product_code,02167009,CAPTOPRIL tabs 12.5mg [IVAX],ACE inhibitors,drug
+GPRD_product_code,03698009,ENALAPRIL tabs 2.5mg [NEOLAB],ACE inhibitors,drug

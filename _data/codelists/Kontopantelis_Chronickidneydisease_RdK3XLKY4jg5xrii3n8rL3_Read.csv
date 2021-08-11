@@ -1,0 +1,75 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,10081,Chronic uraemia,Chronic Kidney Disease,diagnostic
+Read,57568,Chronic pyelonephritis with medullary necrosis,Chronic Kidney Disease,diagnostic
+Read,11553,Kidney transplant failure and rejection,Chronic Kidney Disease,diagnostic
+Read,10647,Nephritis - chronic,Chronic Kidney Disease,diagnostic
+Read,6712,End stage renal failure,Chronic Kidney Disease,diagnostic
+Read,17365,Nephrotic syndrome; diffuse crescentic glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,10809,Chronic membranous glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,11875,Nephropathy - chronic,Chronic Kidney Disease,diagnostic
+Read,12585,Chronic kidney disease stage 5,Chronic Kidney Disease,diagnostic
+Read,12566,Chronic kidney disease stage 3,Chronic Kidney Disease,diagnostic
+Read,17253,Renal transplant planned,Chronic Kidney Disease,diagnostic
+Read,15097,Chronic glomerulonephritis NOS,Chronic Kidney Disease,diagnostic
+Read,12479,Chronic kidney disease stage 4,Chronic Kidney Disease,diagnostic
+Read,1803,Nephrotic syndrome with membranous glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,26862,Exploration of renal transplant,Chronic Kidney Disease,diagnostic
+Read,25055,Chronic pyonephrosis,Chronic Kidney Disease,diagnostic
+Read,2471,Nephrotic syndrome in diabetes mellitus,Chronic Kidney Disease,diagnostic
+Read,23913,Nephrotic syndrome; minor glomerular abnormality,Chronic Kidney Disease,diagnostic
+Read,19316,Nephrotic syndrome; diffuse membranous glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,18774,Renal transplant with complication; without blame,Chronic Kidney Disease,diagnostic
+Read,22852,Nephrotic syndrome; focal and segmental glomerular lesions,Chronic Kidney Disease,diagnostic
+Read,21158,Chronic pyelitis,Chronic Kidney Disease,diagnostic
+Read,22205,Lupus nephritis,Chronic Kidney Disease,diagnostic
+Read,21947,Nephrotic syn difus mesangial prolifertiv glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,21989,Nephrotic syn;diffuse mesangiocapillary glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,35360,Nonobstructive reflux-associated chronic pyelonephritis,Chronic Kidney Disease,diagnostic
+Read,2999,Nephrotic syndrome,Chronic Kidney Disease,diagnostic
+Read,56987,Nephrotic syndrome; dense deposit disease,Chronic Kidney Disease,diagnostic
+Read,29634,Nephrotic syndrome with minimal change glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,2939,Calculous pyelonephritis,Chronic Kidney Disease,diagnostic
+Read,27427,Nephrotic syndrome NOS,Chronic Kidney Disease,diagnostic
+Read,34998,Chronic proliferative glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,47672,Nephrotic syndrome in systemic lupus erythematosus,Chronic Kidney Disease,diagnostic
+Read,4669,Chronic focal glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,4654,Chronic pyelonephritis,Chronic Kidney Disease,diagnostic
+Read,40349,Lipoid nephrosis,Chronic Kidney Disease,diagnostic
+Read,45499,Kimmelstiel - Wilson disease,Chronic Kidney Disease,diagnostic
+Read,48111,Chronic pyelonephritis NOS,Chronic Kidney Disease,diagnostic
+Read,54990,Kidney transplant with complication; without blame,Chronic Kidney Disease,diagnostic
+Read,47922,Nephrotic syndrome in amyloidosis,Chronic Kidney Disease,diagnostic
+Read,50472,Nephrotic syn;difus endocapilary proliftv glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,53852,End stage renal failure,Chronic Kidney Disease,diagnostic
+Read,48855,Chronic obstructive pyelonephritis,Chronic Kidney Disease,diagnostic
+Read,512,Chronic renal failure,Chronic Kidney Disease,diagnostic
+Read,5911,[V]Kidney transplanted,Chronic Kidney Disease,diagnostic
+Read,63786,Congenital nephrotic syndrome,Chronic Kidney Disease,diagnostic
+Read,57926,Steroid sensitive nephrotic syndrome,Chronic Kidney Disease,diagnostic
+Read,58750,Nephrotic syndrome in polyarteritis nodosa,Chronic Kidney Disease,diagnostic
+Read,65400,Chronic diffuse glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,63615,Other chronic glomerulonephritis NOS,Chronic Kidney Disease,diagnostic
+Read,61494,Chronic membranoproliferative glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,60960,Other chronic glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,65064,Chronic rapidly progressive glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,8330,End-stage renal disease,Chronic Kidney Disease,diagnostic
+Read,99631,Chronic pyelonephritis without medullary necrosis,Chronic Kidney Disease,diagnostic
+Read,7804,Chronic glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,72303,Finnish nephrosis syndrome,Chronic Kidney Disease,diagnostic
+Read,95177,Chronic kidney disease stage 3B without proteinuria,Chronic Kidney Disease,diagnostic
+Read,94373,Nephrotic syndrome with other pathological kidney lesions,Chronic Kidney Disease,diagnostic
+Read,94793,Chronic kidney disease stage 3 with proteinuria,Chronic Kidney Disease,diagnostic
+Read,95175,Chronic kidney disease stage 3A without proteinuria,Chronic Kidney Disease,diagnostic
+Read,95123,Chronic kidney disease stage 3 without proteinuria,Chronic Kidney Disease,diagnostic
+Read,99201,Nephrotic syndrome in malaria,Chronic Kidney Disease,diagnostic
+Read,95122,Chronic kidney disease stage 4 with proteinuria,Chronic Kidney Disease,diagnostic
+Read,94965,Chronic kidney disease stage 3A,Chronic Kidney Disease,diagnostic
+Read,95178,Chronic kidney disease stage 3B with proteinuria,Chronic Kidney Disease,diagnostic
+Read,95405,Chronic kidney disease stage 5 without proteinuria,Chronic Kidney Disease,diagnostic
+Read,9840,Nephrotic syndrome with proliferative glomerulonephritis,Chronic Kidney Disease,diagnostic
+Read,95179,Chronic kidney disease stage 3B,Chronic Kidney Disease,diagnostic
+Read,95406,Chronic kidney disease stage 4 without proteinuria,Chronic Kidney Disease,diagnostic
+Read,95508,Chronic kidney disease stage 5 with proteinuria,Chronic Kidney Disease,diagnostic
+Read,97758,Chronic glomerulonephritis + diseases EC,Chronic Kidney Disease,diagnostic
+Read,95408,Chronic kidney disease stage 3A with proteinuria,Chronic Kidney Disease,diagnostic
+Read,99644,Nephrotic syndrome+membranoproliferative glomerulonephritis,Chronic Kidney Disease,diagnostic

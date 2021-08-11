@@ -1,0 +1,147 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G632.00,Vertebral artery occlusion,Macrovascular_complications,diagnostic
+Read,G63y100,Cerebral infarction due to embolism of precerebral arteries,Macrovascular_complications,diagnostic
+Read,G300.00,Acute anterolateral infarction,Macrovascular_complications,diagnostic
+Read,G63..11,Infarction - precerebral,Macrovascular_complications,diagnostic
+Read,G73z.00,Peripheral vascular disease NOS,Macrovascular_complications,diagnostic
+Read,G742z00,Peripheral arterial embolism and thrombosis NOS,Macrovascular_complications,diagnostic
+Read,G30..17,Silent myocardial infarction,Macrovascular_complications,diagnostic
+Read,G73..00,Other peripheral vascular disease,Macrovascular_complications,diagnostic
+Read,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,Macrovascular_complications,diagnostic
+Read,G73z011,Claudication,Macrovascular_complications,diagnostic
+Read,G73yz00,Other specified peripheral vascular disease NOS,Macrovascular_complications,diagnostic
+Read,G73zz00,Peripheral vascular disease NOS,Macrovascular_complications,diagnostic
+Read,G73y.00,Other specified peripheral vascular disease,Macrovascular_complications,diagnostic
+Read,Gyu7400,[X]Other specified peripheral vascular diseases,Macrovascular_complications,diagnostic
+Read,G73z000,Intermittent claudication,Macrovascular_complications,diagnostic
+Read,G30..16,Thrombosis - coronary,Macrovascular_complications,diagnostic
+Read,G73..12,Ischaemia of legs,Macrovascular_complications,diagnostic
+Read,G74y300,Embolism and thrombosis of the iliac artery unspecified,Macrovascular_complications,diagnostic
+Read,G30..15,MI - acute myocardial infarction,Macrovascular_complications,diagnostic
+Read,G700.00,Aortic atherosclerosis,Macrovascular_complications,diagnostic
+Read,G76z000,Iliac artery occlusion,Macrovascular_complications,diagnostic
+Read,G70..00,Atherosclerosis,Macrovascular_complications,diagnostic
+Read,G30..13,Cardiac rupture following myocardial infarction (MI),Macrovascular_complications,diagnostic
+Read,G30..12,Coronary thrombosis,Macrovascular_complications,diagnostic
+Read,G30..00,Acute myocardial infarction,Macrovascular_complications,diagnostic
+Read,G38..00,Postoperative myocardial infarction,Macrovascular_complications,diagnostic
+Read,G304.00,Posterior myocardial infarction NOS,Macrovascular_complications,diagnostic
+Read,G301.00,Other specified anterior myocardial infarction,Macrovascular_complications,diagnostic
+Read,G301z00,Anterior myocardial infarction NOS,Macrovascular_complications,diagnostic
+Read,G301000,Acute anteroapical infarction,Macrovascular_complications,diagnostic
+Read,G301100,Acute anteroseptal infarction,Macrovascular_complications,diagnostic
+Read,G30y.00,Other acute myocardial infarction,Macrovascular_complications,diagnostic
+Read,G303.00,Acute inferoposterior infarction,Macrovascular_complications,diagnostic
+Read,G302.00,Acute inferolateral infarction,Macrovascular_complications,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,Macrovascular_complications,diagnostic
+Read,G307000,Acute non-Q wave infarction,Macrovascular_complications,diagnostic
+Read,G307.00,Acute subendocardial infarction,Macrovascular_complications,diagnostic
+Read,G305.00,Lateral myocardial infarction NOS,Macrovascular_complications,diagnostic
+Read,G306.00,True posterior myocardial infarction,Macrovascular_complications,diagnostic
+Read,G30X.00,Acute transmural myocardial infarction of unspecif site,Macrovascular_complications,diagnostic
+Read,G307100,Acute non-ST segment elevation myocardial infarction,Macrovascular_complications,diagnostic
+Read,G30B.00,Acute posterolateral myocardial infarction,Macrovascular_complications,diagnostic
+Read,G308.00,Inferior myocardial infarction NOS,Macrovascular_complications,diagnostic
+Read,G309.00,Acute Q-wave infarct,Macrovascular_complications,diagnostic
+Read,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,Macrovascular_complications,diagnostic
+Read,G30z.00,Acute myocardial infarction NOS,Macrovascular_complications,diagnostic
+Read,G30yz00,Other acute myocardial infarction NOS,Macrovascular_complications,diagnostic
+Read,G30y200,Acute septal infarction,Macrovascular_complications,diagnostic
+Read,G30y100,Acute papillary muscle infarction,Macrovascular_complications,diagnostic
+Read,G63..00,Precerebral arterial occlusion,Macrovascular_complications,diagnostic
+Read,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,Macrovascular_complications,diagnostic
+Read,G311000,Myocardial infarction aborted,Macrovascular_complications,diagnostic
+Read,G350.00,Subsequent myocardial infarction of anterior wall,Macrovascular_complications,diagnostic
+Read,G35..00,Subsequent myocardial infarction,Macrovascular_complications,diagnostic
+Read,G311011,MI - myocardial infarction aborted,Macrovascular_complications,diagnostic
+Read,G311500,Acute coronary syndrome,Macrovascular_complications,diagnostic
+Read,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,Macrovascular_complications,diagnostic
+Read,G353.00,Subsequent myocardial infarction of other sites,Macrovascular_complications,diagnostic
+Read,G351.00,Subsequent myocardial infarction of inferior wall,Macrovascular_complications,diagnostic
+Read,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,Macrovascular_complications,diagnostic
+Read,G35X.00,Subsequent myocardial infarction of unspecified site,Macrovascular_complications,diagnostic
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,Macrovascular_complications,diagnostic
+Read,G61z.00,Intracerebral haemorrhage NOS,Macrovascular_complications,diagnostic
+Read,G380.00,Postoperative transmural myocardial infarction anterior wall,Macrovascular_complications,diagnostic
+Read,Gyu3600,[X]Subsequent myocardial infarction of unspecified site,Macrovascular_complications,diagnostic
+Read,G574011,Cardiac arrest-ventricular fibrillation,Macrovascular_complications,diagnostic
+Read,G38z.00,Postoperative myocardial infarction; unspecified,Macrovascular_complications,diagnostic
+Read,G384.00,Postoperative subendocardial myocardial infarction,Macrovascular_complications,diagnostic
+Read,G381.00,Postoperative transmural myocardial infarction inferior wall,Macrovascular_complications,diagnostic
+Read,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site,Macrovascular_complications,diagnostic
+Read,G575.00,Cardiac arrest,Macrovascular_complications,diagnostic
+Read,G575z00,Cardiac arrest; unspecified,Macrovascular_complications,diagnostic
+Read,G575.12,Asystole,Macrovascular_complications,diagnostic
+Read,G575.11,Cardio-respiratory arrest,Macrovascular_complications,diagnostic
+Read,G575100,Sudden cardiac death; so described,Macrovascular_complications,diagnostic
+Read,G575000,Cardiac arrest with successful resuscitation,Macrovascular_complications,diagnostic
+Read,G61X100,Right sided intracerebral haemorrhage; unspecified,Macrovascular_complications,diagnostic
+Read,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,Macrovascular_complications,diagnostic
+Read,G61..00,Intracerebral haemorrhage,Macrovascular_complications,diagnostic
+Read,G613.00,Cerebellar haemorrhage,Macrovascular_complications,diagnostic
+Read,G611.00,Internal capsule haemorrhage,Macrovascular_complications,diagnostic
+Read,G61..12,Stroke due to intracerebral haemorrhage,Macrovascular_complications,diagnostic
+Read,G610.00,Cortical haemorrhage,Macrovascular_complications,diagnostic
+Read,G612.00,Basal nucleus haemorrhage,Macrovascular_complications,diagnostic
+Read,G61X000,Left sided intracerebral haemorrhage; unspecified,Macrovascular_complications,diagnostic
+Read,G617.00,Intracerebral haemorrhage; intraventricular,Macrovascular_complications,diagnostic
+Read,G616.00,External capsule haemorrhage,Macrovascular_complications,diagnostic
+Read,G614.00,Pontine haemorrhage,Macrovascular_complications,diagnostic
+Read,G615.00,Bulbar haemorrhage,Macrovascular_complications,diagnostic
+Read,G618.00,Intracerebral haemorrhage; multiple localized,Macrovascular_complications,diagnostic
+Read,G61X.00,Intracerebral haemorrhage in hemisphere; unspecified,Macrovascular_complications,diagnostic
+Read,G641.00,Cerebral embolism,Macrovascular_complications,diagnostic
+Read,G640000,Cerebral infarction due to thrombosis of cerebral arteries,Macrovascular_complications,diagnostic
+Read,G664.00,Cerebellar stroke syndrome,Macrovascular_complications,diagnostic
+Read,G64..12,Infarction - cerebral,Macrovascular_complications,diagnostic
+Read,7L08300,Amputation lesser toe,Macrovascular_complications,diagnostic
+Read,G640.00,Cerebral thrombosis,Macrovascular_complications,diagnostic
+Read,G64..13,Stroke due to cerebral arterial occlusion,Macrovascular_complications,diagnostic
+Read,G64z111,Lateral medullary syndrome,Macrovascular_complications,diagnostic
+Read,G641.11,Cerebral embolus,Macrovascular_complications,diagnostic
+Read,G663.00,Brain stem stroke syndrome,Macrovascular_complications,diagnostic
+Read,G641000,Cerebral infarction due to embolism of cerebral arteries,Macrovascular_complications,diagnostic
+Read,G64z000,Brainstem infarction,Macrovascular_complications,diagnostic
+Read,G64z.12,Cerebellar infarction,Macrovascular_complications,diagnostic
+Read,G64z.00,Cerebral infarction NOS,Macrovascular_complications,diagnostic
+Read,G64z.11,Brainstem infarction NOS,Macrovascular_complications,diagnostic
+Read,G662.00,Posterior cerebral artery syndrome,Macrovascular_complications,diagnostic
+Read,G64z400,Infarction of basal ganglia,Macrovascular_complications,diagnostic
+Read,G64z300,Right sided cerebral infarction,Macrovascular_complications,diagnostic
+Read,G64z200,Left sided cerebral infarction,Macrovascular_complications,diagnostic
+Read,G661.00,Anterior cerebral artery syndrome,Macrovascular_complications,diagnostic
+Read,G66..00,Stroke and cerebrovascular accident unspecified,Macrovascular_complications,diagnostic
+Read,G66..11,CVA unspecified,Macrovascular_complications,diagnostic
+Read,G66..13,CVA - Cerebrovascular accident unspecified,Macrovascular_complications,diagnostic
+Read,G66..12,Stroke unspecified,Macrovascular_complications,diagnostic
+Read,7L07300,Amputation through metatarsal bones,Macrovascular_complications,diagnostic
+Read,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,Macrovascular_complications,diagnostic
+Read,G668.00,Right sided CVA,Macrovascular_complications,diagnostic
+Read,G667.00,Left sided CVA,Macrovascular_complications,diagnostic
+Read,G666.00,Pure sensory lacunar syndrome,Macrovascular_complications,diagnostic
+Read,G665.00,Pure motor lacunar syndrome,Macrovascular_complications,diagnostic
+Read,G676000,Cereb infarct due cerebral venous thrombosis; nonpyogenic,Macrovascular_complications,diagnostic
+Read,G671000,Acute cerebrovascular insufficiency NOS,Macrovascular_complications,diagnostic
+Read,G671.00,Generalised ischaemic cerebrovascular disease NOS,Macrovascular_complications,diagnostic
+Read,G671z00,Generalised ischaemic cerebrovascular disease NOS,Macrovascular_complications,diagnostic
+Read,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,Macrovascular_complications,diagnostic
+Read,7L08.00,Amputation of toe,Macrovascular_complications,diagnostic
+Read,Gyu6200,[X]Other intracerebral haemorrhage,Macrovascular_complications,diagnostic
+Read,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,Macrovascular_complications,diagnostic
+Read,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,Macrovascular_complications,diagnostic
+Read,Gyu6400,[X]Other cerebral infarction,Macrovascular_complications,diagnostic
+Read,Gyu6F00,[X]Intracerebral haemorrhage in hemisphere; unspecified,Macrovascular_complications,diagnostic
+Read,7L0L200,Amputation of supernumerary toe,Macrovascular_complications,diagnostic
+Read,7L08z00,Amputation of toe NOS,Macrovascular_complications,diagnostic
+Read,7L07z00,Amputation of foot NOS,Macrovascular_complications,diagnostic
+Read,7L06400,Amputation below knee,Macrovascular_complications,diagnostic
+Read,7L06.00,Amputation of leg,Macrovascular_complications,diagnostic
+Read,7L07000,Amputation through ankle,Macrovascular_complications,diagnostic
+Read,7L07.00,Amputation of foot,Macrovascular_complications,diagnostic
+Read,7L08100,Amputation of phalanx of toe,Macrovascular_complications,diagnostic
+Read,7L08y00,Other specified amputation of toe,Macrovascular_complications,diagnostic
+Read,R054300,[D]Widespread diabetic foot gangrene,Macrovascular_complications,diagnostic
+Read,7L08011,Amputation great toe,Macrovascular_complications,diagnostic
+Read,7L07012,Syme amputation of foot through ankle,Macrovascular_complications,diagnostic
+Read,M271000,Ischaemic ulcer diabetic foot,Macrovascular_complications,diagnostic
+Read,7L07y00,Other specified amputation of foot,Macrovascular_complications,diagnostic

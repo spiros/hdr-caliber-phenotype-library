@@ -1,0 +1,24 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,2718PA,FRUCTOSAMINE,HbA1C_testing,test
+OXMIS,L2859GB,Hb A1C HIGH (GLYCOSYLATED HAEMOGLOBIN TE,HbA1C_testing,test
+OXMIS,L2859GA,Hb A1C NORMAL (GLYCOSYLATED HAEMOGLOBIN,HbA1C_testing,test
+OXMIS,L2859G,Hb A1C (GLYCOSYLATED HAEMOGLOBIN TEST),HbA1C_testing,test
+OXMIS,L9027F,SERUM FRUCTOSAMINE LEVEL,HbA1C_testing,test
+Read,42c0.00,HbA1 < 7% - good control,HbA1C_testing,test
+Read,42W3.00,Hb. A1C > 10% - bad control,HbA1C_testing,test
+Read,42c..00,HbA1 - diabetic control,HbA1C_testing,test
+Read,42c3.00,HbA1 level (DCCT aligned),HbA1C_testing,test
+Read,42W2.00,Hb. A1C 7-10% - borderline,HbA1C_testing,test
+Read,42c2.00,HbA1 > 10% - bad control,HbA1C_testing,test
+Read,42c1.00,HbA1 7 - 10% - borderline control,HbA1C_testing,test
+Read,42W1.00,Hb. A1C < 7% - good control,HbA1C_testing,test
+Read,42W..00,Hb. A1C - diabetic control,HbA1C_testing,test
+Read,42W..12,Glycated haemoglobin,HbA1C_testing,test
+Read,42W..11,Glycosylated Hb,HbA1C_testing,test
+Read,44Z1000,Corrected fructosamine,HbA1C_testing,test
+Read,44TB.00,Haemoglobin A1c level,HbA1C_testing,test
+Read,42W4.00,HbA1c level (DCCT aligned),HbA1C_testing,test
+Read,44TC.00,Haemoglobin A1 level,HbA1C_testing,test
+Read,44Z1.00,Serum fructosamine,HbA1C_testing,test
+Read,44TL.00,Total glycosylated haemoglobin level,HbA1C_testing,test
+Read,44TD.00,Fructosamine level,HbA1C_testing,test

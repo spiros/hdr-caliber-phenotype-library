@@ -1,0 +1,58 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4010TM,BP TAKEN LYING DOWN,blood_pressure_measurement,observation
+OXMIS,4010TV,BLOOD PRESSURE TAKEN SITTING,blood_pressure_measurement,observation
+OXMIS,Y060 CA,SCREENING BLOOD PRESSURE ABNORMAL,blood_pressure_measurement,observation
+OXMIS,Y060 AA,SCREENING BLOOD PRESSURE,blood_pressure_measurement,observation
+OXMIS,4010TS,BP TAKEN STANDING,blood_pressure_measurement,observation
+OXMIS,Y060 BA,SCREENING BLOOD PRESSURE NORMAL,blood_pressure_measurement,observation
+OXMIS,4010TT,BLOOD PRESSURE TAKEN STANDING,blood_pressure_measurement,observation
+OXMIS,D2530,BLOOD PRESSURE RECORDED,blood_pressure_measurement,observation
+OXMIS,4010TU,BP TAKEN SITTING,blood_pressure_measurement,observation
+OXMIS,4010TL,BLOOD PRESSURE TAKEN LYING DOWN,blood_pressure_measurement,observation
+OXMIS,4010CA,BP CHECKED,blood_pressure_measurement,observation
+OXMIS,4010T,BP TAKEN,blood_pressure_measurement,observation
+OXMIS,4010C,BLOOD PRESSURE CHECK,blood_pressure_measurement,observation
+Read,246F.00,O/E - blood pressure decreased,blood_pressure_measurement,observation
+Read,2467.00,O/E - BP reading very high,blood_pressure_measurement,observation
+Read,246Z.00,O/E-blood pressure reading NOS,blood_pressure_measurement,observation
+Read,2463.00,O/E - BP borderline low,blood_pressure_measurement,observation
+Read,246D.00,Standing blood pressure reading,blood_pressure_measurement,observation
+Read,2461.00,O/E - BP reading very low,blood_pressure_measurement,observation
+Read,246..12,O/E - blood pressure,blood_pressure_measurement,observation
+Read,662B.00,O/E - initial high BP,blood_pressure_measurement,observation
+Read,6623.00,Pre-treatment BP reading,blood_pressure_measurement,observation
+Read,246B.00,O/E - BP stable,blood_pressure_measurement,observation
+Read,2466.00,O/E - BP reading raised,blood_pressure_measurement,observation
+Read,246C.00,Lying blood pressure reading,blood_pressure_measurement,observation
+Read,R1y3.00,[D]Low blood pressure reading,blood_pressure_measurement,observation
+Read,246G.00,O/E - BP labile,blood_pressure_measurement,observation
+Read,246Q.00,Sitting systolic blood pressure,blood_pressure_measurement,observation
+Read,2465.00,O/E - BP borderline raised,blood_pressure_measurement,observation
+Read,246E.00,Sitting blood pressure reading,blood_pressure_measurement,observation
+Read,246..11,O/E - BP reading,blood_pressure_measurement,observation
+Read,2464.00,O/E - BP reading normal,blood_pressure_measurement,observation
+Read,2462.00,O/E - BP reading low,blood_pressure_measurement,observation
+Read,662C.00,O/E - check high BP,blood_pressure_measurement,observation
+Read,246J.00,O/E - BP reading: no postural drop,blood_pressure_measurement,observation
+Read,2468.00,O/E - BP reading:postural drop,blood_pressure_measurement,observation
+Read,R1y2.00,[D]Raised blood pressure reading,blood_pressure_measurement,observation
+Read,246..00,O/E - blood pressure reading,blood_pressure_measurement,observation
+Read,ZV70B00,[V]Examination of blood pressure,blood_pressure_measurement,observation
+Read,662L.00,24 hr blood pressure monitoring,blood_pressure_measurement,observation
+Read,2469.00,O/E - Systolic BP reading,blood_pressure_measurement,observation
+Read,246A.00,O/E - Diastolic BP reading,blood_pressure_measurement,observation
+Read,246N.00,Standing systolic blood pressure,blood_pressure_measurement,observation
+Read,246c.00,Average home diastolic blood pressure,blood_pressure_measurement,observation
+Read,246S.00,Lying systolic blood pressure,blood_pressure_measurement,observation
+Read,246T.00,Lying diastolic blood pressure,blood_pressure_measurement,observation
+Read,246X.00,Average day interval diastolic blood pressure,blood_pressure_measurement,observation
+Read,246R.00,Sitting diastolic blood pressure,blood_pressure_measurement,observation
+Read,246P.00,Standing diastolic blood pressure,blood_pressure_measurement,observation
+Read,246W.00,Average 24 hour systolic blood pressure,blood_pressure_measurement,observation
+Read,246V.00,Average 24 hour diastolic blood pressure,blood_pressure_measurement,observation
+Read,246b.00,Average night interval systolic blood pressure,blood_pressure_measurement,observation
+Read,246Y.00,Average day interval systolic blood pressure,blood_pressure_measurement,observation
+Read,246f.00,Ambulatory diastolic blood pressure,blood_pressure_measurement,observation
+Read,246d.00,Average home systolic blood pressure,blood_pressure_measurement,observation
+Read,246e.00,Ambulatory systolic blood pressure,blood_pressure_measurement,observation
+Read,246a.00,Average night interval diastolic blood pressure,blood_pressure_measurement,observation
