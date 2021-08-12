@@ -2,7 +2,7 @@
 layout: phenotype
 title: Homelessness
 name: Homelessness
-phenotype_id: 7aMhMWHkJHbNc2w32de4RT 
+phenotype_id: euGPKyQD9uAWWzUPmB7gV5 
 type: Lifestyle Risk Factor
 group: Lifestyle Risk Factor
 data_sources: 
@@ -12,7 +12,8 @@ clinical_terminologies:
     - ICD-10
 validation: 
 codelists: 
-    - luchenski_homelessness_7aMhMWHkJHbNc2w32de4RT_ICD10.csv
+    - luchenski_homelessness_euGPKyQD9uAWWzUPmB7gV5_ICD10.csv
+    - luchenski_homelessness_euGPKyQD9uAWWzUPmB7gV5_GPPractices
 valid_event_data_range: 
 sex: 
     - Female
@@ -30,10 +31,10 @@ version: 1
 
 #### Specialist centres or GP practices
 
-{% include csv.html csvdata=site.data.codelists.luchenski_homelessness_7aMhMWHkJHbNc2w32de4RT_GPPractices %}
+{% include csv.html csvdata=site.data.codelists.luchenski_homelessness_euGPKyQD9uAWWzUPmB7gV5_GPPractices %}
 
 ### Secondary care 
-{% include csv.html csvdata=site.data.codelists.luchenski_homelessness_7aMhMWHkJHbNc2w32de4RT_ICD10 %}
+{% include csv.html csvdata=site.data.codelists.luchenski_homelessness_euGPKyQD9uAWWzUPmB7gV5_ICD10 %}
 
 ### Implementation 
 

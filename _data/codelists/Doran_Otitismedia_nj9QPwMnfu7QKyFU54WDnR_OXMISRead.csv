@@ -1,0 +1,70 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,3810,OTITIS MEDIA ACUTE,otitis media,diagnostic
+OXMIS,3810ML,OTITIS MEDIA ACUTE LEFT,otitis media,diagnostic
+OXMIS,3810MR,OTITIS MEDIA ACUTE RIGHT,otitis media,diagnostic
+OXMIS,3811A,OTITIS MEDIA CHRONIC,otitis media,diagnostic
+OXMIS,3811AR,RECURRENT OTITIS MEDIA,otitis media,diagnostic
+OXMIS,3819,OTITIS MEDIA,otitis media,diagnostic
+OXMIS,3811AT,OTITIS MEDIA CATARRHAL,otitis media,diagnostic
+OXMIS,3811TR,SECRETORY OTITIS MEDIA,otitis media,diagnostic
+OXMIS,3811D,OTITIS MEDIA CHRONIC SUPPURATIVE,otitis media,diagnostic
+OXMIS,3811E,OTITIS MEDIA BILATERAL SUPPURATIVE,otitis media,diagnostic
+OXMIS,3819MP,SUPPURATIVE OTITIS MEDIA,otitis media,diagnostic
+OXMIS,3819E,OTITIS MEDIA BILATERAL,otitis media,diagnostic
+OXMIS,3829,OTITIS MEDIA WITH MASTOIDITIS,otitis media,diagnostic
+Read,F511.11,Chronic secretory otitis media; serous,otitis media,diagnostic
+Read,F511.00,Chronic otitis media with effusion; serous,otitis media,diagnostic
+Read,F510600,Acute allergic sanguinous otitis media,otitis media,diagnostic
+Read,F510z00,Acute nonsuppurative otitis media NOS,otitis media,diagnostic
+Read,F510.00,Acute non suppurative otitis media,otitis media,diagnostic
+Read,F510500,Acute allergic mucoid otitis media,otitis media,diagnostic
+Read,F51..00,Nonsuppurative otitis media + eustachian tube disorders,otitis media,diagnostic
+Read,A552.00,Postmeasles otitis media,otitis media,diagnostic
+Read,F510400,Acute allergic serous otitis media,otitis media,diagnostic
+Read,F510011,Acute secretory otitis media,otitis media,diagnostic
+Read,F510000,Acute otitis media with effusion,otitis media,diagnostic
+Read,F510300,Acute sanguinous otitis media,otitis media,diagnostic
+Read,F510200,Acute mucoid otitis media,otitis media,diagnostic
+Read,F510100,Acute serous otitis media,otitis media,diagnostic
+Read,F522.00,Chronic suppurative otitis media; atticoantral,otitis media,diagnostic
+Read,F513111,Chronic secretory otitis media; purulent,otitis media,diagnostic
+Read,F511100,Serosanguinous chronic otitis media,otitis media,diagnostic
+Read,F513100,Chronic otitis media with effusion; purulent,otitis media,diagnostic
+Read,F512.12,Chronic secretory otitis media; mucoid,otitis media,diagnostic
+Read,F512.00,Chronic otitis media with effusion; mucoid,otitis media,diagnostic
+Read,F511z00,Chronic serous otitis media NOS,otitis media,diagnostic
+Read,F512100,Mucosanguinous chronic otitis media,otitis media,diagnostic
+Read,F513000,Chronic allergic otitis media,otitis media,diagnostic
+Read,F513.00,Chronic otitis media with effusion; other,otitis media,diagnostic
+Read,F512z00,Chronic mucoid otitis media NOS,otitis media,diagnostic
+Read,F514200,Catarrhal otitis media NOS,otitis media,diagnostic
+Read,F513z00,Other chronic nonsuppurative otitis media NOS,otitis media,diagnostic
+Read,F521.00,Chronic suppurative otitis media; tubotympanic,otitis media,diagnostic
+Read,F514100,Serous otitis media NOS,otitis media,diagnostic
+Read,F514000,Allergic otitis media NOS,otitis media,diagnostic
+Read,F514.00,Unspecified nonsuppurative otitis media,otitis media,diagnostic
+Read,F52..00,Suppurative and unspecified otitis media,otitis media,diagnostic
+Read,F520z00,Acute suppurative otitis media NOS,otitis media,diagnostic
+Read,F518.00,Chronic otitis media with effusion; unspecified,otitis media,diagnostic
+Read,F514300,Mucoid otitis media NOS,otitis media,diagnostic
+Read,F514z00,Nonsuppurative otitis media NOS,otitis media,diagnostic
+Read,F520.00,Acute suppurative otitis media,otitis media,diagnostic
+Read,F520300,Acute suppurative otitis media due to disease EC,otitis media,diagnostic
+Read,F520100,Acute suppurative otitis media tympanic membrane ruptured,otitis media,diagnostic
+Read,F520000,Acute suppurative otitis media tympanic membrane intact,otitis media,diagnostic
+Read,FyuP200,[X]Other chronic suppurative otitis media,otitis media,diagnostic
+Read,F524000,Bilateral suppurative otitis media,otitis media,diagnostic
+Read,F524.00,Purulent otitis media NOS,otitis media,diagnostic
+Read,F523.00,Chronic suppurative otitis media NOS,otitis media,diagnostic
+Read,FyuP100,[X]Other chronic nonsuppurative otitis media,otitis media,diagnostic
+Read,F527.00,Acute right otitis media,otitis media,diagnostic
+Read,F526.00,Acute left otitis media,otitis media,diagnostic
+Read,F525.00,Recurrent acute otitis media,otitis media,diagnostic
+Read,F528.00,Acute bilateral otitis media,otitis media,diagnostic
+Read,FyuP000,[X]Other acute nonsuppurative otitis media,otitis media,diagnostic
+Read,F52z.00,Otitis media NOS,otitis media,diagnostic
+Read,f528.00,Acute bilateral otitis media,otitis media,diagnostic
+Read,FyuP400,[X]Otitis media in viral diseases classified elsewhere,otitis media,diagnostic
+Read,FyuP300,[X]Otitis media in bacterial diseases classified elsewhere,otitis media,diagnostic
+Read,SN30.11,Aero-otitis media,otitis media,diagnostic
+Read,FyuP500,[X]Otitis media in other diseases classified elsewhere,otitis media,diagnostic

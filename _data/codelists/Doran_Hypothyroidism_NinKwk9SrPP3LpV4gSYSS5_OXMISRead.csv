@@ -1,0 +1,39 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,244 AC,HYPOTHYROIDISM ACQUIRED,hypothyroidism,diagnostic
+OXMIS,243,HYPOTHYROIDISM CONGENITAL,hypothyroidism,diagnostic
+OXMIS,244 AG,HYPOTHYROIDISM COMPENSATED,hypothyroidism,diagnostic
+Read,C043.00,Other iatrogenic hypothyroidism,hypothyroidism,diagnostic
+Read,C03z.00,Congenital hypothyroidism NOS,hypothyroidism,diagnostic
+Read,C042.00,Iodine hypothyroidism,hypothyroidism,diagnostic
+Read,C03..00,Congenital hypothyroidism,hypothyroidism,diagnostic
+Read,C03y100,Congenital hypothyroidism without goitre,hypothyroidism,diagnostic
+Read,C03y000,Congenital hypothyroidism with diffuse goitre,hypothyroidism,diagnostic
+Read,C03y.00,Other specified congenital hypothyroidism,hypothyroidism,diagnostic
+Read,C04..13,Hypothyroidism,hypothyroidism,diagnostic
+Read,C041z00,Postablative hypothyroidism NOS,hypothyroidism,diagnostic
+Read,C04..12,Thyroid deficiency,hypothyroidism,diagnostic
+Read,C04..00,Acquired hypothyroidism,hypothyroidism,diagnostic
+Read,C04..11,Myxoedema,hypothyroidism,diagnostic
+Read,C040.00,Postsurgical hypothyroidism,hypothyroidism,diagnostic
+Read,C041000,Irradiation hypothyroidism,hypothyroidism,diagnostic
+Read,C041.00,Other postablative hypothyroidism,hypothyroidism,diagnostic
+Read,C040.11,Post ablative hypothyroidism,hypothyroidism,diagnostic
+Read,C043000,Hypothyroidism resulting from para-aminosalicylic acid,hypothyroidism,diagnostic
+Read,Cyu1100,[X]Other sp cified hypothyroidism,hypothyroidism,diagnostic
+Read,C045.00,Acquired atrophy of thyroid,hypothyroidism,diagnostic
+Read,C043100,Hypothyroidism resulting from phenylbutazone,hypothyroidism,diagnostic
+Read,C044.00,Postinfectious hypothyroidism,hypothyroidism,diagnostic
+Read,C043z00,Iatrogenic hypothyroidism NOS,hypothyroidism,diagnostic
+Read,C043200,Hypothyroidism resulting from resorcinol,hypothyroidism,diagnostic
+Read,C04z.00,Hypothyroidism NOS,hypothyroidism,diagnostic
+Read,C04z100,Myxoedema coma,hypothyroidism,diagnostic
+Read,C04y.00,Other acquired hypothyroidism,hypothyroidism,diagnostic
+Read,C046.00,Autoimmune myxoedema,hypothyroidism,diagnostic
+Read,C04z.11,Pretibial myxoedema - hypothyroid,hypothyroidism,diagnostic
+Read,C04z000,Premature puberty due to hypothyroidism,hypothyroidism,diagnostic
+Read,C04z.13,Hypothyroid goitre; acquired,hypothyroidism,diagnostic
+Read,C04z.12,Thyroid insufficiency,hypothyroidism,diagnostic
+Read,f922.00,THYROXINE tabs 50micrograms,hypothyroidism,diagnostic
+Read,f921.00,THYROXINE,hypothyroidism,diagnostic
+Read,f923.00,THYROXINE tabs 100micrograms,hypothyroidism,diagnostic
+Read,F381400,Myasthenic syndrome due to hypothyroidism,hypothyroidism,diagnostic

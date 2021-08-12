@@ -1,0 +1,129 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,N054200,Oligoarticular osteoarthritis; unspecified; of upper arm,Osteoarthritis,diagnostic
+Read,7130EA,STERNOCLAVICULAR JOINT OSTEOARTHROSIS,Osteoarthritis,diagnostic
+Read,7130AA,OSTEOARTHROSIS ANKLE,Osteoarthritis,diagnostic
+Read,7130H,OSTEOARTHROSIS TOE,Osteoarthritis,diagnostic
+Read,N051000,Localised; primary osteoarthritis of unspecified site,Osteoarthritis,diagnostic
+Read,7130AG,OSTEOARTHROSIS GENERAL,Osteoarthritis,diagnostic
+Read,N054z00,Osteoarthritis of more than one site; unspecified; NOS,Osteoarthritis,diagnostic
+Read,N050600,Erosive osteoarthrosis,Osteoarthritis,diagnostic
+Read,N052800,Localised; secondary osteoarthritis of other specified site,Osteoarthritis,diagnostic
+Read,N051.00,Localised; primary osteoarthritis,Osteoarthritis,diagnostic
+Read,N053z00,Localised osteoarthritis; unspecified; NOS,Osteoarthritis,diagnostic
+Read,N05zK00,Osteoarthritis NOS; of sacro-iliac joint,Osteoarthritis,diagnostic
+Read,N050100,Generalised osteoarthritis of the hand,Osteoarthritis,diagnostic
+Read,N052100,Localised; secondary osteoarthritis of the shoulder region,Osteoarthritis,diagnostic
+Read,N052600,Localised; secondary osteoarthritis of the lower leg,Osteoarthritis,diagnostic
+Read,N05z000,Osteoarthritis NOS; of unspecified site,Osteoarthritis,diagnostic
+Read,N053.00,Localised osteoarthritis; unspecified,Osteoarthritis,diagnostic
+Read,N052700,Localised; secondary osteoarthritis of the ankle and foot,Osteoarthritis,diagnostic
+Read,N050z00,Generalised osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N051300,Localised; primary osteoarthritis of the forearm,Osteoarthritis,diagnostic
+Read,N053600,Localised osteoarthritis; unspecified; of the lower leg,Osteoarthritis,diagnostic
+Read,N054800,Oligoarticular osteoarthritis; unspecified; other spec sites,Osteoarthritis,diagnostic
+Read,N050000,Generalised osteoarthritis of unspecified site,Osteoarthritis,diagnostic
+Read,N11D300,Osteoarthritis of spine NOS,Osteoarthritis,diagnostic
+Read,N05zP00,Osteoarthritis NOS; of subtalar joint,Osteoarthritis,diagnostic
+Read,N11D000,Osteoarthritis of cervical spine,Osteoarthritis,diagnostic
+Read,N054600,Oligoarticular osteoarthritis; unspecified; of lower leg,Osteoarthritis,diagnostic
+Read,N052200,Localised; secondary osteoarthritis of the upper arm,Osteoarthritis,diagnostic
+Read,N05z711,Ankle osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N052500,Localised; secondary osteoarthritis of pelvic region/thigh,Osteoarthritis,diagnostic
+Read,N052.00,Localised; secondary osteoarthritis,Osteoarthritis,diagnostic
+Read,N11D100,Osteoarthritis of thoracic spine,Osteoarthritis,diagnostic
+Read,N052300,Localised; secondary osteoarthritis of the forearm,Osteoarthritis,diagnostic
+Read,N054100,Oligoarticular osteoarthritis; unspecified; of shoulder,Osteoarthritis,diagnostic
+Read,N05z200,Osteoarthritis NOS; of the upper arm,Osteoarthritis,diagnostic
+Read,N054000,Oligoarticular osteoarthritis; unspec; of unspecified sites,Osteoarthritis,diagnostic
+Read,N053000,Localised osteoarthritis; unspecified; of unspecified site,Osteoarthritis,diagnostic
+Read,N05zM00,Osteoarthritis NOS; of tibio-fibular joint,Osteoarthritis,diagnostic
+Read,7131C,OSTEOARTHROSIS SPINE,Osteoarthritis,diagnostic
+Read,N05zQ00,Osteoarthritis NOS; of talonavicular joint,Osteoarthritis,diagnostic
+Read,7130PA,OSTEOARTHRITIC PROTRUSION ACETABULUM,Osteoarthritis,diagnostic
+Read,N05zR00,Osteoarthritis NOS; of other tarsal joint,Osteoarthritis,diagnostic
+Read,N052000,Localised; secondary osteoarthritis of unspecified site,Osteoarthritis,diagnostic
+Read,N054400,Oligoarticular osteoarthritis; unspecified; of hand,Osteoarthritis,diagnostic
+Read,N052z00,Localised; secondary osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N054900,Oligoarticular osteoarthritis; unspecified; multiple sites,Osteoarthritis,diagnostic
+Read,N053200,Localised osteoarthritis; unspecified; of the upper arm,Osteoarthritis,diagnostic
+Read,N054500,Oligoarticular osteoarthritis; unspecified; of pelvis/thigh,Osteoarthritis,diagnostic
+Read,N05zD00,Osteoarthritis NOS; of distal radio-ulnar joint,Osteoarthritis,diagnostic
+Read,N053300,Localised osteoarthritis; unspecified; of the forearm,Osteoarthritis,diagnostic
+Read,N054700,Oligoarticular osteoarthritis; unspecified; of ankle/foot,Osteoarthritis,diagnostic
+Read,7130A,OSTEOARTHRITIS,Osteoarthritis,diagnostic
+Read,7130C,OSTEOARTHROSIS FINGERS,Osteoarthritis,diagnostic
+Read,7130B,OSTEOARTHROSIS KNEE(S),Osteoarthritis,diagnostic
+Read,7130N,OSTEOARTHROSIS HANDS,Osteoarthritis,diagnostic
+Read,7130DA,OSTEOARTHRITIS HIP,Osteoarthritis,diagnostic
+Read,7131A,OSTEOARTHROSIS NECK,Osteoarthritis,diagnostic
+Read,7130AB,OSTEOARTHROSIS,Osteoarthritis,diagnostic
+Read,7130E,OSTEOARTHROSIS SHOULDER,Osteoarthritis,diagnostic
+Read,7130D,OSTEOARTHROSIS HIP,Osteoarthritis,diagnostic
+Read,7130EL,OSTEOARTHROSIS ELBOW,Osteoarthritis,diagnostic
+Read,7130AW,OSTEOARTHROSIS WRIST,Osteoarthritis,diagnostic
+Read,7130FT,OSTEOARTHROSIS FOOT,Osteoarthritis,diagnostic
+Read,7130AC,OSTEOARTHROSIS ACROMIO CLAVICULAR JOINT,Osteoarthritis,diagnostic
+Read,N051E00,Localised; primary osteoarthritis of toe,Osteoarthritis,diagnostic
+Read,7131BR,SPONDYLITIS OSTEOARTHRITIC,Osteoarthritis,diagnostic
+Read,7131DL,LUMBAR OSTEOARTHRITIS,Osteoarthritis,diagnostic
+Read,7130MD,TEMPOROMANDIBULAR OSTEOARTHROSIS,Osteoarthritis,diagnostic
+Read,N05zz00,Osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N05zU00,Osteoarthritis NOS; of IP joint of toe,Osteoarthritis,diagnostic
+Read,N11D200,Osteoarthritis of lumbar spine,Osteoarthritis,diagnostic
+Read,7130CT,THUMB OSTEOARTHROSIS,Osteoarthritis,diagnostic
+Read,N05..11,Osteoarthritis,Osteoarthritis,diagnostic
+Read,N051100,Localised; primary osteoarthritis of the shoulder region,Osteoarthritis,diagnostic
+Read,N051700,Localised; primary osteoarthritis of the ankle and foot,Osteoarthritis,diagnostic
+Read,N05z500,Osteoarthritis NOS; pelvic region/thigh,Osteoarthritis,diagnostic
+Read,N05z713,Toe osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N05z611,Knee osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N05z400,Osteoarthritis NOS; of the hand,Osteoarthritis,diagnostic
+Read,N05z211,Elbow osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N05zB00,Osteoarthritis NOS; of acromioclavicular joint,Osteoarthritis,diagnostic
+Read,N053611,Patellofemoral osteoarthritis,Osteoarthritis,diagnostic
+Read,N11z.11,Osteoarthritis spine,Osteoarthritis,diagnostic
+Read,N05z511,Hip osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N05z712,Foot osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N05z412,Thumb osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N05z411,Finger osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N053700,Localised osteoarthritis; unspecified; of the ankle and foot,Osteoarthritis,diagnostic
+Read,N05..00,Osteoarthritis and allied disorders,Osteoarthritis,diagnostic
+Read,N05zL00,Osteoarthritis NOS; of knee,Osteoarthritis,diagnostic
+Read,N050.00,Generalised osteoarthritis - OA,Osteoarthritis,diagnostic
+Read,N05z100,Osteoarthritis NOS; of shoulder region,Osteoarthritis,diagnostic
+Read,N05zA00,Osteoarthritis NOS; of sternoclavicular joint,Osteoarthritis,diagnostic
+Read,N05zF00,Osteoarthritis NOS; of MCP joint,Osteoarthritis,diagnostic
+Read,N050200,Generalised osteoarthritis of multiple sites,Osteoarthritis,diagnostic
+Read,N110.12,Osteoarthritis cervical spine,Osteoarthritis,diagnostic
+Read,N05z.00,Osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N11..12,Osteoarthritis of spine,Osteoarthritis,diagnostic
+Read,N05zS00,Osteoarthritis NOS; of 1st MTP joint,Osteoarthritis,diagnostic
+Read,N05z900,Osteoarthritis NOS; of shoulder,Osteoarthritis,diagnostic
+Read,N05zJ00,Osteoarthritis NOS; of hip,Osteoarthritis,diagnostic
+Read,N05z800,Osteoarthritis NOS; other specified site,Osteoarthritis,diagnostic
+Read,N05zT00,Osteoarthritis NOS; of lesser MTP joint,Osteoarthritis,diagnostic
+Read,N05zN00,Osteoarthritis NOS; of ankle,Osteoarthritis,diagnostic
+Read,N05zG00,Osteoarthritis NOS; of PIP joint of finger,Osteoarthritis,diagnostic
+Read,N05zE00,Osteoarthritis NOS; of wrist,Osteoarthritis,diagnostic
+Read,N05zH00,Osteoarthritis NOS; of DIP joint of finger,Osteoarthritis,diagnostic
+Read,N053400,Localised osteoarthritis; unspecified; of the hand,Osteoarthritis,diagnostic
+Read,N051500,Localised; primary osteoarthritis of the pelvic region/thigh,Osteoarthritis,diagnostic
+Read,N05z600,Osteoarthritis NOS; of the lower leg,Osteoarthritis,diagnostic
+Read,N05z700,Osteoarthritis NOS; of ankle and foot,Osteoarthritis,diagnostic
+Read,N05z311,Wrist osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N053100,Localised osteoarthritis; unspecified; of shoulder region,Osteoarthritis,diagnostic
+Read,N11D.00,Osteoarthritis of spine,Osteoarthritis,diagnostic
+Read,N054.00,Oligoarticular osteoarthritis; unspecified,Osteoarthritis,diagnostic
+Read,N051F00,Localised; primary osteoarthritis of elbow,Osteoarthritis,diagnostic
+Read,N053800,Localised osteoarthritis; unspecified; of other spec site,Osteoarthritis,diagnostic
+Read,N050400,Primary generalized osteoarthrosis,Osteoarthritis,diagnostic
+Read,N051400,Localised; primary osteoarthritis of the hand,Osteoarthritis,diagnostic
+Read,N051800,Localised; primary osteoarthritis of other specified site,Osteoarthritis,diagnostic
+Read,N05zC00,Osteoarthritis NOS; of elbow,Osteoarthritis,diagnostic
+Read,N051600,Localised; primary osteoarthritis of the lower leg,Osteoarthritis,diagnostic
+Read,N053500,Localised osteoarthritis; unspecified; pelvic region/thigh,Osteoarthritis,diagnostic
+Read,N051z00,Localised; primary osteoarthritis NOS,Osteoarthritis,diagnostic
+Read,N052400,Localised; secondary osteoarthritis of the hand,Osteoarthritis,diagnostic
+Read,N051D00,Localised; primary osteoarthritis of the wrist,Osteoarthritis,diagnostic
+Read,N051200,Localised; primary osteoarthritis of the upper arm,Osteoarthritis,diagnostic
+Read,N05z300,Osteoarthritis NOS; of the forearm,Osteoarthritis,diagnostic

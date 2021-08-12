@@ -1,0 +1,86 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,L4031AA,T3 UPTAKE TEST ABNORMAL,thyroid_function,test
+OXMIS,L4031,T3 UPTAKE TEST,thyroid_function,test
+OXMIS,L4021PV,T4 TOXICOSIS TEST,thyroid_function,test
+OXMIS,L4021PN,T4 TOXICOSIS TEST NORMAL,thyroid_function,test
+OXMIS,L 112N,TSH LEVEL,thyroid_function,test
+OXMIS,L 112MC,SERUM TSH ABNORMAL,thyroid_function,test
+OXMIS,L 112MB,SERUM TSH NORMAL,thyroid_function,test
+OXMIS,L 112MA,SERUM TSH,thyroid_function,test
+OXMIS,L4021PA,T4 TOXICOSIS TEST ABNORMAL,thyroid_function,test
+OXMIS,L4000T,SERUM THYROXINE LEVEL,thyroid_function,test
+OXMIS,L 112NC,TSH LEVEL ABNORMAL,thyroid_function,test
+OXMIS,L 112NB,TSH LEVEL NORMAL,thyroid_function,test
+OXMIS,L4000TE,THYROXINE ESTIMATION,thyroid_function,test
+OXMIS,L4021LN,T4 LEVEL NORMAL,thyroid_function,test
+OXMIS,L4021LA,T4 LEVEL ABNORMAL,thyroid_function,test
+OXMIS,L4021L,T4 LEVEL,thyroid_function,test
+OXMIS,L4031LS,T3 SERUM LEVEL DECREASED,thyroid_function,test
+OXMIS,L4031LF,T3 FREE LEVEL,thyroid_function,test
+OXMIS,L4031HS,T3 SERUM LEVEL INCREASED,thyroid_function,test
+OXMIS,L4031AN,T3 UPTAKE TEST NORMAL,thyroid_function,test
+OXMIS,L4033FA,THYROID FUNCTION TEST ABNORMAL,thyroid_function,test
+OXMIS,L4033F,THYROID FUNCTION TEST,thyroid_function,test
+OXMIS,L4031NM,T3 LEVEL,thyroid_function,test
+OXMIS,L4033FN,THYROID FUNCTION TEST NORMAL,thyroid_function,test
+OXMIS,L4071,T3 SUPPRESSION TEST,thyroid_function,test
+Read,442..00,Thyroid hormone tests,thyroid_function,test
+Read,4424000,Serum T3 level normal,thyroid_function,test
+Read,442M.00,90 minute plasma TSH level,thyroid_function,test
+Read,442..13,Thyroid function tests,thyroid_function,test
+Read,4424.00,Serum T3 level,thyroid_function,test
+Read,442..12,TSH level,thyroid_function,test
+Read,442..11,TRH level,thyroid_function,test
+Read,442..14,Thyroxine binding globulin,thyroid_function,test
+Read,4423.00,Thyroid hormone tests low,thyroid_function,test
+Read,4422.00,Thyroid hormone tests high,thyroid_function,test
+Read,4421.11,Euthyroid,thyroid_function,test
+Read,4421.00,Thyroid hormone tests normal,thyroid_function,test
+Read,442L.00,60 minute plasma TSH level,thyroid_function,test
+Read,4426000,Serum T4 level normal,thyroid_function,test
+Read,4424100,Serum T3 level high,thyroid_function,test
+Read,442b.00,Serum total T4 level,thyroid_function,test
+Read,4426.00,Serum T4 level,thyroid_function,test
+Read,4425.00,Free T3 level,thyroid_function,test
+Read,4424200,Serum T3 level low,thyroid_function,test
+Read,4429.00,Thyroxine binding globulin-TBG,thyroid_function,test
+Read,442B.00,TRH - thyroid release. hormone,thyroid_function,test
+Read,4428.00,Free thyroxine index,thyroid_function,test
+Read,4426100,Serum T4 level abnormal,thyroid_function,test
+Read,4427.00,Free T4 level,thyroid_function,test
+Read,442a.00,Plasma total T4 level,thyroid_function,test
+Read,442A100,Serum TSH level abnormal,thyroid_function,test
+Read,442A000,Serum TSH level normal,thyroid_function,test
+Read,442A.00,TSH - thyroid stim. hormone,thyroid_function,test
+Read,442K.00,30 minute plasma TSH level,thyroid_function,test
+Read,442D100,T3 uptake test abnormal,thyroid_function,test
+Read,442c.00,Plasma free T4 level,thyroid_function,test
+Read,442C.00,Thyroid horm tests borderline,thyroid_function,test
+Read,442D000,T3 uptake test normal,thyroid_function,test
+Read,442d.00,Serum thyroglobulin level,thyroid_function,test
+Read,442D.00,T3 uptake test,thyroid_function,test
+Read,442F.00,T3 suppression test,thyroid_function,test
+Read,442J.00,Thyroid function test,thyroid_function,test
+Read,442e.00,Blood spot TSH level,thyroid_function,test
+Read,442E.00,PBI - protein bound iodine estimation,thyroid_function,test
+Read,442f.00,Serum total T3 level,thyroid_function,test
+Read,442I.00,Thyroid function tests abnormal,thyroid_function,test
+Read,442H.00,Thyroid function tests normal,thyroid_function,test
+Read,442G.00,Thyroid hormone tests abnormal,thyroid_function,test
+Read,442g.00,Serum thyroglobulin recovery level,thyroid_function,test
+Read,442O.00,150 minute plasma TSH level,thyroid_function,test
+Read,442X.00,Plasma TSH level,thyroid_function,test
+Read,442V.,,thyroid_function,test
+Read,442N.00,120 minute plasma TSH level,thyroid_function,test
+Read,442U.00,Serum free triiodothyronine level,thyroid_function,test
+Read,442W.00,Serum TSH level,thyroid_function,test
+Read,442P.00,30 minute serum TSH level,thyroid_function,test
+Read,442Q.00,60 minute serum TSH level,thyroid_function,test
+Read,442V.00,Serum free T4 level,thyroid_function,test
+Read,442T.00,150 minute serum TSH level,thyroid_function,test
+Read,442S.00,120 minute serum TSH level,thyroid_function,test
+Read,442R.00,90 minute serum TSH level,thyroid_function,test
+Read,442Y.00,Plasma free triiodothyronine level,thyroid_function,test
+Read,442Z.00,Thyroid hormone tests NOS,thyroid_function,test
+Read,R145z00,[D]Thyroid function tests abnormal NOS,thyroid_function,test
+Read,R145.00,[D]Thyroid function test abnormal,thyroid_function,test

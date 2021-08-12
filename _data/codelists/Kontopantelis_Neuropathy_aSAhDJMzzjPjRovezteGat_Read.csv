@@ -1,0 +1,30 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,29B8.00,10g monofilament sensation absent,Neuropathy,diagnostic
+Read,29B7.00,10g monofilament sensation present,Neuropathy,diagnostic
+Read,311A.00,Monofilament foot sensation test,Neuropathy,diagnostic
+Read,29B3.00,O/E - hypoaesthesia present,Neuropathy,diagnostic
+Read,29B4.00,O/E - hyperaesthesia present,Neuropathy,diagnostic
+Read,29HB.00,O/E - Vibration sense of left foot absent,Neuropathy,diagnostic
+Read,29B2100,O/E - anaesthesia of extremities,Neuropathy,diagnostic
+Read,29B9.00,10g monofilament sensation R foot abnormal,Neuropathy,diagnostic
+Read,29B..11,O/E - touch sensation,Neuropathy,diagnostic
+Read,29HA.00,O/E - Vibration sense of right foot absent,Neuropathy,diagnostic
+Read,29B2000,O/E - anaesthesia in legs,Neuropathy,diagnostic
+Read,29B..00,O/E - tactile sensation,Neuropathy,diagnostic
+Read,29H..00,O/E - vibration sense,Neuropathy,diagnostic
+Read,29B2.00,O/E - anaesthesia present,Neuropathy,diagnostic
+Read,29B2.11,O/E - loss of touch sensation,Neuropathy,diagnostic
+Read,29H9.00,O/E - vibration sense right foot reduced,Neuropathy,diagnostic
+Read,29B1.00,O/E - tactile sensation normal,Neuropathy,diagnostic
+Read,29BC.00,10g monofilament sensation L foot normal,Neuropathy,diagnostic
+Read,29BB.00,10g monofilament sensation R foot normal,Neuropathy,diagnostic
+Read,29BA.00,10g monofilament sensation L foot abnormal,Neuropathy,diagnostic
+Read,29H3.00,O/E - vibration sense absent,Neuropathy,diagnostic
+Read,29H8.00,O/E - vibration sense left foot reduced,Neuropathy,diagnostic
+Read,29H2.00,O/E - vibration sense reduced,Neuropathy,diagnostic
+Read,29H1.00,O/E - vibration sense normal,Neuropathy,diagnostic
+Read,29H4.00,O/E - Vibration sense of right foot abnormal,Neuropathy,diagnostic
+Read,29H7.00,O/E - Vibration sense of left foot normal,Neuropathy,diagnostic
+Read,29H6.00,O/E - Vibration sense of left foot abnormal,Neuropathy,diagnostic
+Read,29H5.00,O/E - Vibration sense of right foot normal,Neuropathy,diagnostic
+Read,66Ac.00,Diabetic peripheral neuropathy screening,Neuropathy,diagnostic

@@ -1,0 +1,576 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,4497,VENTOLIN ACCUHALER 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,4055,SALBULIN syrp 2mg/5ml,asthma_drugs,drug
+CPRD_product_code,862,SALBULIN inh,asthma_drugs,drug
+CPRD_product_code,31,VENTOLIN inh 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,3254,SALBULIN tabs 4mg,asthma_drugs,drug
+CPRD_product_code,856,VENTOLIN sf syrp 2mg/5ml,asthma_drugs,drug
+CPRD_product_code,18622,SALBULIN tabs 2mg,asthma_drugs,drug
+CPRD_product_code,987,VENTOLIN tabs 4mg,asthma_drugs,drug
+CPRD_product_code,5261,NUELIN SA-250 tabs,asthma_drugs,drug
+CPRD_product_code,4171,VENTOLIN tabs 2mg,asthma_drugs,drug
+CPRD_product_code,31933,SALBUTAMOL inh 100micrograms/inhalation [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,4592,CHOLEDYL tabs 200mg,asthma_drugs,drug
+CPRD_product_code,44713,SALBUTAMOL inh 100micrograms/inhalation [CELLTECH],asthma_drugs,drug
+CPRD_product_code,20225,AMINOPHYLLINE 500 MG INJ,asthma_drugs,drug
+CPRD_product_code,20171,AMINOPHYLLINE 180 MG SUP,asthma_drugs,drug
+CPRD_product_code,3187,CHOLEDYL syrp 62.5mg/5ml,asthma_drugs,drug
+CPRD_product_code,25937,AMINOPHYLLINE INTRAMUSCULAR 500 MG INJ,asthma_drugs,drug
+CPRD_product_code,24207,AMINOPHYLLINE PAED 50 MG SUP,asthma_drugs,drug
+CPRD_product_code,34618,SALBUTAMOL tabs 2mg [ALPHAR/COX],asthma_drugs,drug
+CPRD_product_code,2722,DUOVENT inh 40micrograms + 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,8653,AMINOPHYLLINE 360 MG SUP,asthma_drugs,drug
+CPRD_product_code,25022,AMINOPHYLLINE 150 MG SUP,asthma_drugs,drug
+CPRD_product_code,41549,SALBUTAMOL tabs 2mg [CP PHARM],asthma_drugs,drug
+CPRD_product_code,1683,INTAL scap,asthma_drugs,drug
+CPRD_product_code,34702,SALBUTAMOL inh 100micrograms/inhalation [CP PHARM],asthma_drugs,drug
+CPRD_product_code,34311,SALBUTAMOL inh 100micrograms/inhalation [BERK],asthma_drugs,drug
+CPRD_product_code,5941,UNIPHYLLIN CONTINUS tabs 300mg,asthma_drugs,drug
+CPRD_product_code,10331,NUELIN liq 60mg/5ml,asthma_drugs,drug
+CPRD_product_code,898,VENTOLIN EVOHALER 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,9270,IPRATROPIUM BROMIDE + FENOTEROL HYDROBROMIDE unit dose neb soln 500micrograms + 1.25mg/4ml,asthma_drugs,drug
+CPRD_product_code,5453,UNIPHYLLIN CONTINUS tabs 400mg,asthma_drugs,drug
+CPRD_product_code,16207,DUOVENT UDVs neb soln,asthma_drugs,drug
+CPRD_product_code,7841,NUELIN tabs 125mg,asthma_drugs,drug
+CPRD_product_code,32102,SALBUTAMOL tabs 4mg [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,1423,UNIPHYLLIN CONTINUS tabs 200mg,asthma_drugs,drug
+CPRD_product_code,863,SLO-PHYLLIN caps 125mg,asthma_drugs,drug
+CPRD_product_code,1097,SLO-PHYLLIN caps 60mg,asthma_drugs,drug
+CPRD_product_code,28241,MIN-I-JET AMINOPHYLLINE inj 250mg/10ml,asthma_drugs,drug
+CPRD_product_code,7730,THEO-DUR tabs 300mg,asthma_drugs,drug
+CPRD_product_code,2757,SLO-PHYLLIN caps 250mg,asthma_drugs,drug
+CPRD_product_code,7731,THEO-DUR tabs 200mg,asthma_drugs,drug
+CPRD_product_code,24023,THEODROX tabs,asthma_drugs,drug
+CPRD_product_code,1952,VENTOLIN rcap 400micrograms,asthma_drugs,drug
+CPRD_product_code,2995,NUELIN SA tabs 175mg,asthma_drugs,drug
+CPRD_product_code,1957,VENTOLIN NEBULES 5mg,asthma_drugs,drug
+CPRD_product_code,2851,VENTOLIN rcap 200micrograms,asthma_drugs,drug
+CPRD_product_code,674,VENTOLIN NEBULES 2.5mg,asthma_drugs,drug
+CPRD_product_code,17185,VENTOLIN inj 500micrograms/ml,asthma_drugs,drug
+CPRD_product_code,510,VENTOLIN respirator soln 5mg/ml,asthma_drugs,drug
+CPRD_product_code,28577,VENTOLIN inj 50micrograms/ml,asthma_drugs,drug
+CPRD_product_code,7788,BUDESONIDE breath act pwdr inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,9635,ZADITEN sf elixir 1mg/5ml,asthma_drugs,drug
+CPRD_product_code,3787,ZADITEN tabs 1mg,asthma_drugs,drug
+CPRD_product_code,10812,ZADITEN caps 1mg,asthma_drugs,drug
+CPRD_product_code,2609,FRANOL tabs,asthma_drugs,drug
+CPRD_product_code,1642,BUDESONIDE breath act pwdr inh 400micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,2092,BUDESONIDE breath act pwdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,2892,BECLOFORTE disks (refill pack) 400micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,35510,BUDESONIDE dry pdr inh cart+dev 200micrograms,asthma_drugs,drug
+CPRD_product_code,21769,LASMA tabs 300mg,asthma_drugs,drug
+CPRD_product_code,30204,SALBUTAMOL inh caps 200micrograms,asthma_drugs,drug
+CPRD_product_code,1093,SALAMOL inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,665,SERETIDE 100 ACCUHALER,asthma_drugs,drug
+CPRD_product_code,6462,SALBUTAMOL breath act pwdr inh 95micrograms,asthma_drugs,drug
+CPRD_product_code,34619,SALBUTAMOL cfc free inh 100micrograms/inhalation [KENT],asthma_drugs,drug
+CPRD_product_code,34029,SALBUTAMOL inh caps 400micrograms,asthma_drugs,drug
+CPRD_product_code,30212,SALBUTAMOL CYCLOHALER,asthma_drugs,drug
+CPRD_product_code,4545,PULMICORT LS refill canister 50micrograms,asthma_drugs,drug
+CPRD_product_code,4499,AEROBEC forte AUTOHALER 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,2159,AEROBEC AUTOHALER 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,11993,PRO-VENT caps 300mg,asthma_drugs,drug
+CPRD_product_code,1680,PULMICORT LS inh 50micrograms,asthma_drugs,drug
+CPRD_product_code,4541,BRICANYL SA tabs 7.5mg,asthma_drugs,drug
+CPRD_product_code,15483,BRICANYL expectorant,asthma_drugs,drug
+CPRD_product_code,2125,PULMICORT refill canister 200micrograms,asthma_drugs,drug
+CPRD_product_code,454,PULMICORT inh 200micrograms,asthma_drugs,drug
+CPRD_product_code,28508,SALBUTAMOL inh 100micrograms/inhalation [IVAX],asthma_drugs,drug
+CPRD_product_code,1269,BECOTIDE neb susp 50micrograms/ml,asthma_drugs,drug
+CPRD_product_code,3075,BECOTIDE rcap 400micrograms,asthma_drugs,drug
+CPRD_product_code,3947,BECOTIDE rcap 100micrograms,asthma_drugs,drug
+CPRD_product_code,1537,BECOTIDE rcap 200micrograms,asthma_drugs,drug
+CPRD_product_code,21102,SALBUTAMOL sf syrp 2mg/5ml [LAGAP],asthma_drugs,drug
+CPRD_product_code,1801,VENTIDE inh,asthma_drugs,drug
+CPRD_product_code,696,SALBUTAMOL mr cap 8mg,asthma_drugs,drug
+CPRD_product_code,1861,AEROBEC AUTOHALER 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1629,INTAL neb soln 10mg/ml,asthma_drugs,drug
+CPRD_product_code,10744,THEOPHYLLINE 80 MG ELI,asthma_drugs,drug
+CPRD_product_code,4647,INTAL SYNCRONER 5mg/inhalation,asthma_drugs,drug
+CPRD_product_code,3993,FILAIR FORTE inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,4100,INTAL AUTOHALER 5mg/inhalation,asthma_drugs,drug
+CPRD_product_code,1962,ATROVENT UDVs neb soln 0.25mg/ml,asthma_drugs,drug
+CPRD_product_code,314,INTAL inh,asthma_drugs,drug
+CPRD_product_code,38416,SALBUTAMOL CYCLOCAPS 400micrograms [DU PONT],asthma_drugs,drug
+CPRD_product_code,590,PHYLLOCONTIN CONTINUS tabs 225mg,asthma_drugs,drug
+CPRD_product_code,32893,THEOPHYLLINE 100MG/LYSINE 74MG MG TAB,asthma_drugs,drug
+CPRD_product_code,10432,THEOPHYLLINE 300 MG SUP,asthma_drugs,drug
+CPRD_product_code,38097,SALBUTAMOL CYCLOCAPS 200micrograms [DU PONT],asthma_drugs,drug
+CPRD_product_code,8806,PHYLLOCONTIN CONTINUS forte tabs 350mg,asthma_drugs,drug
+CPRD_product_code,28881,SALBUTAMOL sf syrp [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,10407,PHYLLOCONTIN CONTINUS paed tab 100mg,asthma_drugs,drug
+CPRD_product_code,1100,BECLAZONE inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,3363,BECLOFORTE DISKHALER 400micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1422,CROMOGEN inh 5mg/inhalation,asthma_drugs,drug
+CPRD_product_code,2992,BECLAZONE inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,30596,AMINOPHYLLINE mr tab 225mg [ALPHAR/COX],asthma_drugs,drug
+CPRD_product_code,1551,BECLAZONE inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,23961,IPRATROPIUM BROMIDE inh soln 250micrograms/ml [GALEN],asthma_drugs,drug
+CPRD_product_code,3585,STERI-NEB CROMOGEN neb soln 10mg/ml,asthma_drugs,drug
+CPRD_product_code,21859,ASMAVEN inh 100micrograms,asthma_drugs,drug
+CPRD_product_code,99,BECOTIDE 100 inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1414,STERI-NEB SALAMOL unit dose neb soln 5mg/2.5ml,asthma_drugs,drug
+CPRD_product_code,4634,STERI-NEB SALAMOL unit dose neb soln 2.5mg/2.5ml,asthma_drugs,drug
+CPRD_product_code,5551,FLIXOTIDE NEBULES 500micrograms/2ml,asthma_drugs,drug
+CPRD_product_code,11478,FLUTICASONE unit dose neb susp 2mg/2ml,asthma_drugs,drug
+CPRD_product_code,16305,FLIXOTIDE NEBULES 2mg/2ml,asthma_drugs,drug
+CPRD_product_code,17465,FLUTICASONE unit dose neb susp 500micrograms/2ml,asthma_drugs,drug
+CPRD_product_code,12274,TEDRAL tabs,asthma_drugs,drug
+CPRD_product_code,15409,THEOPHYLLINE 3 MG SOL,asthma_drugs,drug
+CPRD_product_code,218,AMINOPHYLLINE 100 MG CAP,asthma_drugs,drug
+CPRD_product_code,2758,BRICANYL refill canister,asthma_drugs,drug
+CPRD_product_code,26873,COBUTOLIN tabs 2mg,asthma_drugs,drug
+CPRD_product_code,15441,FENOTEROL HYDROBROMIDE .5 % SOL,asthma_drugs,drug
+CPRD_product_code,8339,FENOTEROL HYDROBROMIDE COMPLETE UNIT INH,asthma_drugs,drug
+CPRD_product_code,31845,SALAPIN syrp 2mg/5ml,asthma_drugs,drug
+CPRD_product_code,24674,BIOPHYLLINE tabs 500mg,asthma_drugs,drug
+CPRD_product_code,29325,BECLOMETASONE inh 250micrograms/actuation [GEN (UK)],asthma_drugs,drug
+CPRD_product_code,3306,ATROVENT FORTE inh 40micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,27944,TEDRAL elixir,asthma_drugs,drug
+CPRD_product_code,24418,BIOPHYLLINE tabs 350mg,asthma_drugs,drug
+CPRD_product_code,31774,BECLOMETASONE inh 50micrograms/actuation [GEN (UK)],asthma_drugs,drug
+CPRD_product_code,10831,BIOPHYLLINE syrp 125mg/5ml,asthma_drugs,drug
+CPRD_product_code,21482,BECLOMETASONE inh 100micrograms/actuation [GEN (UK)],asthma_drugs,drug
+CPRD_product_code,8215,TILADE inh 2mg/inhalation,asthma_drugs,drug
+CPRD_product_code,34315,BECLOMETASONE inh 250micrograms/actuation [ALPHAR/COX],asthma_drugs,drug
+CPRD_product_code,14991,AMINOPHYLLINE inj 250mg/10ml,asthma_drugs,drug
+CPRD_product_code,37612,TERBUTALINE unit dose neb soln 2.5mg/ml [GALEN],asthma_drugs,drug
+CPRD_product_code,17140,AMINOPHYLLINE tabs 200mg,asthma_drugs,drug
+CPRD_product_code,3688,TILADE mint inh 2mg/inhalation,asthma_drugs,drug
+CPRD_product_code,8056,AMINOPHYLLINE tabs 100mg,asthma_drugs,drug
+CPRD_product_code,10597,TILADE mint SYNCRONER 2mg/inhalation,asthma_drugs,drug
+CPRD_product_code,28640,BECLOMETASONE inh 100micrograms/actuation [ALPHAR/COX],asthma_drugs,drug
+CPRD_product_code,34162,SALBUTAMOL unit dose neb soln 2.5mg/2.5ml [GALEN],asthma_drugs,drug
+CPRD_product_code,881,SALBUTAMOL tabs 2mg,asthma_drugs,drug
+CPRD_product_code,10561,AMINOPHYLLINE inj 250mg/ml,asthma_drugs,drug
+CPRD_product_code,32874,BECLOMETASONE inh 50micrograms/actuation [ALPHAR/COX],asthma_drugs,drug
+CPRD_product_code,34018,SALBUTAMOL unit dose neb soln 5mg/2.5ml [GALEN],asthma_drugs,drug
+CPRD_product_code,17,SALBUTAMOL cfc free inh 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,8,SALBUTAMOL inh 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,29273,AMINOPHYLLINE mr tab 225mg [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,8955,THEOPHYLLINE 100 MG TAB,asthma_drugs,drug
+CPRD_product_code,15765,SODIUM CROMOGLICATE inh & spacer 5mg/inhalation,asthma_drugs,drug
+CPRD_product_code,33588,SALBUTAMOL inh 100micrograms/inhalation [GEN (UK)],asthma_drugs,drug
+CPRD_product_code,40177,IPRATROPIUM BROMIDE unit dose neb soln 250micrograms/ml [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,34919,BECLOMETASONE inh 50micrograms/actuation [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,33258,BECLOMETASONE inh 250micrograms/actuation [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,25204,BECLOMETASONE inh 100micrograms/actuation [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,2158,SODIUM CROMOGLICATE breath act inh 5mg/inhalation,asthma_drugs,drug
+CPRD_product_code,2911,SODIUM CROMOGLICATE inh caps 20mg,asthma_drugs,drug
+CPRD_product_code,3763,TERBUTALINE RESPULES INH,asthma_drugs,drug
+CPRD_product_code,45863,SALBUTAMOL unit dose neb soln 5mg/2.5ml [GEN (UK)],asthma_drugs,drug
+CPRD_product_code,964,SODIUM CROMOGLICATE inh 5mg/inhalation,asthma_drugs,drug
+CPRD_product_code,37615,SODIUM CROMOGLICATE inh 1mg/inhalation,asthma_drugs,drug
+CPRD_product_code,8498,SODIUM CROMOGLICATE neb soln 10mg/ml,asthma_drugs,drug
+CPRD_product_code,14603,SODIUM CROMOGLICATE inh & spacer 5mg/actuation,asthma_drugs,drug
+CPRD_product_code,7832,CHOLINE THEOPHYLLINATE tabs 200mg,asthma_drugs,drug
+CPRD_product_code,273,THEOPHYLLINE 200 MG CAP,asthma_drugs,drug
+CPRD_product_code,30238,BECLOMETHASONE breath act inh 50micrograms/actuation [APS],asthma_drugs,drug
+CPRD_product_code,18288,CHOLINE THEOPHYLLINATE tabs 100mg,asthma_drugs,drug
+CPRD_product_code,30118,SALBUTAMOL cfc free inh 100micrograms/inhalation [APS],asthma_drugs,drug
+CPRD_product_code,18988,CHOLINE THEOPHYLLINATE syrp 62.5mg/5ml,asthma_drugs,drug
+CPRD_product_code,1960,VOLMAX tabs 8mg,asthma_drugs,drug
+CPRD_product_code,23572,AMINOPHYLLINE SR tablets 225mg [IVAX],asthma_drugs,drug
+CPRD_product_code,12808,FENOTEROL + IPRATROPIUM BROMIDE breath act inh 100micrograms + 40micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,27842,AMINOPHYLLINE 2 ML INJ,asthma_drugs,drug
+CPRD_product_code,28073,BECLOMETHASONE breath act inh 250micrograms/actuation [APS],asthma_drugs,drug
+CPRD_product_code,27679,BECLOMETHASONE breath act inh 100micrograms/actuation [APS],asthma_drugs,drug
+CPRD_product_code,3786,FENOTEROL + IPRATROPIUM BROMIDE inh 100micrograms + 40micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,34310,SALBUTAMOL cfc free inh 100micrograms/inhalation [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,4842,FENOTEROL inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5185,FENOTEROL inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,8608,NEDOCROMIL SODIUM inh 2mg/inhalation,asthma_drugs,drug
+CPRD_product_code,2978,SALBUTAMOL breath act pwdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,37791,IPRATROPIUM BROMIDE inh soln 250micrograms/ml,asthma_drugs,drug
+CPRD_product_code,38419,TERBUTALINE syrp 1.5mg/5ml [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,33089,SALBUTAMOL inh 100micrograms/inhalation [KENT],asthma_drugs,drug
+CPRD_product_code,13529,AMNIVENT sr tab 225mg,asthma_drugs,drug
+CPRD_product_code,34739,BECLOMETHASONE inh 50micrograms/actuation [APS],asthma_drugs,drug
+CPRD_product_code,1411,IPRATROPIUM BROMIDE unit dose neb soln 250micrograms/ml,asthma_drugs,drug
+CPRD_product_code,34859,BECLOMETASONE inh 250micrograms/actuation [NEOLAB],asthma_drugs,drug
+CPRD_product_code,33849,BECLOMETASONE inh 100micrograms/actuation [NEOLAB],asthma_drugs,drug
+CPRD_product_code,34428,BECLOMETASONE inh 50micrograms/actuation [NEOLAB],asthma_drugs,drug
+CPRD_product_code,1410,IPRATROPIUM BROMIDE neb soln 0.25mg/ml,asthma_drugs,drug
+CPRD_product_code,1409,IPRATROPIUM BROMIDE inh 20micrograms/dose,asthma_drugs,drug
+CPRD_product_code,4268,IPRATROPIUM BROMIDE inh 40micrograms/metered inhalation,asthma_drugs,drug
+CPRD_product_code,6081,IPRATROPIUM BROMIDE breath act inh 20micrograms/dose,asthma_drugs,drug
+CPRD_product_code,27505,IPRATROPIUM BROMIDE + FENOTEROL HYDROBROMIDE breath act inh 40micrograms + 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,8433,BUDESONIDE inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,3374,KETOTIFEN tabs 1mg,asthma_drugs,drug
+CPRD_product_code,26616,IPRATROPIUM BROMIDE + FENOTEROL HYDROBROMIDE inh 40micrograms + 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,10813,KETOTIFEN caps 1mg,asthma_drugs,drug
+CPRD_product_code,33817,SALBUTAMOL cfc free inh 100micrograms/inhalation [ALPHAR/COX],asthma_drugs,drug
+CPRD_product_code,22080,AMINOPHYLLINE 20 ML INJ,asthma_drugs,drug
+CPRD_product_code,959,BUDESONIDE inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,32050,SALBUTAMOL CYCLOCAPS inh caps 400micrograms [APS],asthma_drugs,drug
+CPRD_product_code,33373,SALBUTAMOL CYCLOCAPS inh caps 200micrograms [APS],asthma_drugs,drug
+CPRD_product_code,46157,BECLOMETASONE CYCLOCAPS inh caps 200micrograms [APS],asthma_drugs,drug
+CPRD_product_code,41269,BECLOMETASONE CYCLOCAPS inh caps 400micrograms [APS],asthma_drugs,drug
+CPRD_product_code,909,BUDESONIDE inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,3556,BECLOMETASONE + SALBUTAMOL inh 50micrograms + 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,19121,BECLOMETASONE + SALBUTAMOL inh caps 100micrograms + 200micrograms,asthma_drugs,drug
+CPRD_product_code,19376,BECLOMETASONE + SALBUTAMOL inh caps 200micrograms + 400micrograms,asthma_drugs,drug
+CPRD_product_code,34794,BECLOMETASONE inh 200micrograms/actuation [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,1832,THEOGRAD tabs 350mg,asthma_drugs,drug
+CPRD_product_code,8522,TERBUTALINE mr tab 7.5mg,asthma_drugs,drug
+CPRD_product_code,1956,PULMICORT RESPULES neb susp 1mg/2ml,asthma_drugs,drug
+CPRD_product_code,4801,BUDESONIDE neb susp 0.5mg/2ml,asthma_drugs,drug
+CPRD_product_code,1959,PULMICORT RESPULES neb susp 0.5mg/2ml,asthma_drugs,drug
+CPRD_product_code,4942,BUDESONIDE neb susp 1mg/2ml,asthma_drugs,drug
+CPRD_product_code,17875,TERBUTALINE + GUAIFENESIN expectorant,asthma_drugs,drug
+CPRD_product_code,1620,TERBUTALINE inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,41691,SALBUTAMOL sf oral soln 2mg/5ml [SANDOZ],asthma_drugs,drug
+CPRD_product_code,282,SALBUTAMOL sf oral soln 2mg/5ml,asthma_drugs,drug
+CPRD_product_code,8676,TERBUTALINE respirator soln 10mg/ml,asthma_drugs,drug
+CPRD_product_code,7711,TERBUTALINE spacer inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5308,TERBUTALINE respirator soln 2.5mg/ml,asthma_drugs,drug
+CPRD_product_code,1628,TERBUTALINE refill canister 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,10433,THEOPHYLLINE liq 60mg/5ml,asthma_drugs,drug
+CPRD_product_code,26860,THEOPHYLLINE + EPHEDRINE SULPHATE tabs 120mg + 15mg,asthma_drugs,drug
+CPRD_product_code,7733,THEOPHYLLINE mr tab 250mg,asthma_drugs,drug
+CPRD_product_code,10723,THEOPHYLLINE syrp 125mg/5ml,asthma_drugs,drug
+CPRD_product_code,1833,THEOPHYLLINE mr tab 200mg,asthma_drugs,drug
+CPRD_product_code,4593,THEOPHYLLINE tabs 125mg,asthma_drugs,drug
+CPRD_product_code,3388,THEOPHYLLINE mr tab 175mg,asthma_drugs,drug
+CPRD_product_code,15365,THEOPHYLLINE sf elixir 10mg/5ml,asthma_drugs,drug
+CPRD_product_code,15153,THEOPHYLLINE + EPHEDRINE HCl tabs 120mg + 11mg,asthma_drugs,drug
+CPRD_product_code,1834,THEOPHYLLINE mr tab 400mg,asthma_drugs,drug
+CPRD_product_code,9092,THEOPHYLLINE mr tab 350mg,asthma_drugs,drug
+CPRD_product_code,7732,THEOPHYLLINE mr tab 300mg,asthma_drugs,drug
+CPRD_product_code,12240,THEOPHYLLINE mr cap 300mg,asthma_drugs,drug
+CPRD_product_code,880,THEOPHYLLINE mr cap 60mg,asthma_drugs,drug
+CPRD_product_code,2147,THEOPHYLLINE mr cap 250mg,asthma_drugs,drug
+CPRD_product_code,879,THEOPHYLLINE mr cap 125mg,asthma_drugs,drug
+CPRD_product_code,555,AMINOPHYLLINE mr tab 225mg,asthma_drugs,drug
+CPRD_product_code,1698,SALBUTAMOL breath act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,15025,AMINOPHYLLINE 25 MG SUP,asthma_drugs,drug
+CPRD_product_code,34134,AEROLIN 400 inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,26063,BECLOMETHASONE inh 100micrograms/actuation [APS],asthma_drugs,drug
+CPRD_product_code,4514,AMINOPHYLLINE mr tab 350mg,asthma_drugs,drug
+CPRD_product_code,1258,BECOTIDE 200 inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,30210,BECLOMETHASONE inh 250micrograms/actuation [APS],asthma_drugs,drug
+CPRD_product_code,18456,SALBUTAMOL + BECLOMETASONE inh caps 200micrograms + 100micrograms,asthma_drugs,drug
+CPRD_product_code,882,SALBUTAMOL inh caps 200micrograms,asthma_drugs,drug
+CPRD_product_code,1711,SALBUTAMOL unit dose neb soln 5mg/2.5ml,asthma_drugs,drug
+CPRD_product_code,1630,SALBUTAMOL unit dose neb soln 2.5mg/2.5ml,asthma_drugs,drug
+CPRD_product_code,14561,SALBUTAMOL + BECLOMETASONE inh caps 400micrograms + 200micrograms,asthma_drugs,drug
+CPRD_product_code,2850,SALBUTAMOL inh caps 400micrograms,asthma_drugs,drug
+CPRD_product_code,11307,SALBUTAMOL + BECLOMETASONE inh 100mcg + 50mcg,asthma_drugs,drug
+CPRD_product_code,7965,SALBUTAMOL respirator soln 5mg/ml,asthma_drugs,drug
+CPRD_product_code,30240,AEROLIN AUTOHALER cfc/free b/act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,24117,AMINOPHYLLINE 300 MG SUP,asthma_drugs,drug
+CPRD_product_code,1951,BECODISKS disc 400micrograms,asthma_drugs,drug
+CPRD_product_code,942,AEROLIN AUTOHALER breath act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,883,BECODISKS disc 200micrograms,asthma_drugs,drug
+CPRD_product_code,16625,VENTIDE rcap,asthma_drugs,drug
+CPRD_product_code,2229,BECODISKS disc 100micrograms,asthma_drugs,drug
+CPRD_product_code,18484,VENTIDE paed rcap,asthma_drugs,drug
+CPRD_product_code,10289,AMINOPHYLLINE 200 MG SUP,asthma_drugs,drug
+CPRD_product_code,1961,VOLMAX tabs 4mg,asthma_drugs,drug
+CPRD_product_code,1950,VENTODISKS disc 400micrograms/blister,asthma_drugs,drug
+CPRD_product_code,1882,VENTODISKS disc 200micrograms/blister,asthma_drugs,drug
+CPRD_product_code,19350,AMINOPHYLLINE 62.5 MG SUP,asthma_drugs,drug
+CPRD_product_code,42497,SALBUTAMOL tabs 8mg,asthma_drugs,drug
+CPRD_product_code,29475,BECLOMETHASONE DIPROPIONATE .02 ML LOT,asthma_drugs,drug
+CPRD_product_code,31231,BECLOMETHASONE DIPROPRIONATE .5 % CRE,asthma_drugs,drug
+CPRD_product_code,27593,AMINOPHYLLINE 350 MG SUP,asthma_drugs,drug
+CPRD_product_code,8470,AMINOPHYLLINE 225 MG SUP,asthma_drugs,drug
+CPRD_product_code,15613,SALBUTAMOL inj 0.5mg/ml,asthma_drugs,drug
+CPRD_product_code,3018,BECLOMETASONE inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,7576,BECLOMETHASONE DIPROPRIONATE CART 200 MCG,asthma_drugs,drug
+CPRD_product_code,5172,SERETIDE 250 EVOHALER 25micrograms + 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1242,BECLOMETASONE inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,30229,IPRATROPIUM BROMIDE nebuliser soln 250micrograms/ml [GALEN],asthma_drugs,drug
+CPRD_product_code,1346,SALBUTAMOL inj 0.05mg/ml,asthma_drugs,drug
+CPRD_product_code,9233,BECLOMETASONE inh caps 200micrograms,asthma_drugs,drug
+CPRD_product_code,4759,BECLOMETASONE inh caps 100micrograms,asthma_drugs,drug
+CPRD_product_code,38,BECLOMETASONE inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,41412,BECLOMETASONE inh 400micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,7653,BECLOMETASONE inh caps 400micrograms,asthma_drugs,drug
+CPRD_product_code,1259,BECLOMETASONE inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,7964,BECLOMETASONE neb susp 50micrograms/ml,asthma_drugs,drug
+CPRD_product_code,20838,SALBUVENT tabs 2mg,asthma_drugs,drug
+CPRD_product_code,12042,VENTOLIN CR tabs 8mg,asthma_drugs,drug
+CPRD_product_code,2893,BECLOMETASONE disc 200micrograms,asthma_drugs,drug
+CPRD_product_code,18968,SALBUTAMOL conc soln inf 1mg/ml,asthma_drugs,drug
+CPRD_product_code,4365,BECLOMETASONE disc 100micrograms,asthma_drugs,drug
+CPRD_product_code,29267,SALBUVENT tabs 4mg,asthma_drugs,drug
+CPRD_product_code,40655,SALBUVENT inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1635,SALBUVENT syrp 2mg/5ml,asthma_drugs,drug
+CPRD_product_code,10458,VENTOLIN CR tabs 4mg,asthma_drugs,drug
+CPRD_product_code,5753,SALBUTAMOL disc 400micrograms,asthma_drugs,drug
+CPRD_product_code,3163,SALBUTAMOL disc 200micrograms,asthma_drugs,drug
+CPRD_product_code,2148,BECLOMETASONE disc 400micrograms,asthma_drugs,drug
+CPRD_product_code,12699,PECRAM sr tab 225mg,asthma_drugs,drug
+CPRD_product_code,3994,SALBUTAMOL mr tab 4mg,asthma_drugs,drug
+CPRD_product_code,9384,SALBUTAMOL mr cap 4mg,asthma_drugs,drug
+CPRD_product_code,2869,SALBUTAMOL mr tab 8mg,asthma_drugs,drug
+CPRD_product_code,35000,SPIRIVA inh pdr cap (refill) 18 micrograms,asthma_drugs,drug
+CPRD_product_code,11618,FLUTICASONE + SALMETEROL cfc free inh 250micrograms + 25micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,27249,DO-DO CHESTEZE tabs,asthma_drugs,drug
+CPRD_product_code,9711,FORMOTEROL FUMARATE breath act inh 6 micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,10968,FORADIL inh caps 12mcg,asthma_drugs,drug
+CPRD_product_code,31082,SALBUVENT respirator soln 5mg/ml,asthma_drugs,drug
+CPRD_product_code,11588,FLUTICASONE + SALMETEROL cfc free inh 125micrograms + 25micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,27340,SALBUVENT inj 0.5mg/ml,asthma_drugs,drug
+CPRD_product_code,12994,FLUTICASONE + SALMETEROL cfc free inh 50micrograms + 25micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,7935,MAXIVENT inh 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,25125,AMINOPHYLLINE supp 360mg,asthma_drugs,drug
+CPRD_product_code,8057,AMINOPHYLLINE mr tab 100mg,asthma_drugs,drug
+CPRD_product_code,8610,AMINOPHYLLINE 1 GM SUP,asthma_drugs,drug
+CPRD_product_code,18308,AMINOPHYLLINE 100 MG SUP,asthma_drugs,drug
+CPRD_product_code,11779,IPRATROPIUM BROMIDE caps + inh 40mcg,asthma_drugs,drug
+CPRD_product_code,17874,MONOVENT syrp 1.5mg/5ml,asthma_drugs,drug
+CPRD_product_code,18314,AEROCROM SYNCRONER,asthma_drugs,drug
+CPRD_product_code,8267,SODIUM CROMOGLICATE + SALBUTAMOL inh,asthma_drugs,drug
+CPRD_product_code,10360,AEROCROM inh,asthma_drugs,drug
+CPRD_product_code,24380,SODIUM CROMOGLICATE + SALBUTAMOL inh & spacer,asthma_drugs,drug
+CPRD_product_code,14483,TERBUTALINE inj 500micrograms/ml,asthma_drugs,drug
+CPRD_product_code,4306,BECLOMETHASONE DIPROPRIONATE CART 100 MCG,asthma_drugs,drug
+CPRD_product_code,2994,ATROVENT AEROCAPS 40mcg,asthma_drugs,drug
+CPRD_product_code,8333,IPRATROPIUM BROMIDE inh caps 40mcg,asthma_drugs,drug
+CPRD_product_code,9681,ATROVENT AEROHALER 40mcg,asthma_drugs,drug
+CPRD_product_code,13307,BRICANYL inj 500micrograms/ml,asthma_drugs,drug
+CPRD_product_code,746,TIOTROPIUM inh caps 18 micrograms,asthma_drugs,drug
+CPRD_product_code,38120,THEOPHYLLINE mr tab 500mg,asthma_drugs,drug
+CPRD_product_code,3838,SALBUTAMOL 400MCG/BECLOMETH.100MCG R/CAP INH,asthma_drugs,drug
+CPRD_product_code,3289,FLIXOTIDE inh 25micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,2224,SEREVENT ACCUHALER 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,3570,BUDESONIDE refill canister 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,14700,BUDESONIDE inh 400micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,956,PULMICORT TURBOHALER breath act pwdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,960,PULMICORT TURBOHALER breath act pwdr inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,908,PULMICORT TURBOHALER breath act pwdr inh 400micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,465,SALMETEROL inh 25micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,40709,SALBUTAMOL unit dose neb soln 2.5mg/2.5ml [HILLCROSS],asthma_drugs,drug
+CPRD_product_code,947,BUDESONIDE refill canister 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,910,SEREVENT DISKHALER 50micrograms,asthma_drugs,drug
+CPRD_product_code,3297,SALMETEROL disc 50micrograms,asthma_drugs,drug
+CPRD_product_code,549,SEREVENT inh 25micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,719,SALMETEROL breath act pwdr inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,2395,SALBUTAMOL 2 MG/5ML SYR,asthma_drugs,drug
+CPRD_product_code,7638,FLUTICASONE disc 250micrograms,asthma_drugs,drug
+CPRD_product_code,2160,BECLOMETASONE breath act inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1619,TERBUTALINE breath act inh 500micrograms,asthma_drugs,drug
+CPRD_product_code,12144,BAMBUTEROL tabs 20mg,asthma_drugs,drug
+CPRD_product_code,14527,BAMBEC tabs 10mg,asthma_drugs,drug
+CPRD_product_code,7192,BAMBUTEROL tabs 10mg,asthma_drugs,drug
+CPRD_product_code,13575,BAMBEC tabs 20mg,asthma_drugs,drug
+CPRD_product_code,4131,FLUTICASONE disc 100micrograms,asthma_drugs,drug
+CPRD_product_code,7972,INTAL FISONAIR inh 5mg/inhalation,asthma_drugs,drug
+CPRD_product_code,2600,BECLOMETASONE breath act inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1734,BECLOMETASONE breath act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,7602,FLUTICASONE disc 50micrograms,asthma_drugs,drug
+CPRD_product_code,1424,FLIXOTIDE disc 250micrograms,asthma_drugs,drug
+CPRD_product_code,3989,FLIXOTIDE disc 100micrograms,asthma_drugs,drug
+CPRD_product_code,8635,FLIXOTIDE disc 50micrograms,asthma_drugs,drug
+CPRD_product_code,4132,FLUTICASONE inh 125micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,11410,FLUTICASONE + SALMETEROL dry pdr inh 500micrograms + 50micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,25339,MAXIVENT STERIPOULE unit dose neb soln 5mg/2.5ml,asthma_drugs,drug
+CPRD_product_code,5580,FLIXOTIDE ACCUHALER 50micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,1518,FLIXOTIDE inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,4688,FLUTICASONE inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,2723,FLUTICASONE inh 25micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1676,FLIXOTIDE inh 125micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1412,FLIXOTIDE inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,2951,FLUTICASONE inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,2862,DUOVENT AUTOHALER breath act inh,asthma_drugs,drug
+CPRD_product_code,1697,ATROVENT AUTOHALER breath act inh 20micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1426,FLIXOTIDE disc 500micrograms,asthma_drugs,drug
+CPRD_product_code,9164,FLUTICASONE breath act pwdr inh 50micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,7891,FLUTICASONE disc 500micrograms,asthma_drugs,drug
+CPRD_product_code,5885,FLUTICASONE breath act pwdr inh 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,5223,FLUTICASONE cfc free inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,556,COMBIVENT inh 20mcg + 100mcg,asthma_drugs,drug
+CPRD_product_code,4926,FLIXOTIDE ACCUHALER 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,5822,FLUTICASONE cfc free inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,2152,IPRATROPIUM BROMIDE + SALBUTAMOL inh 20mcg + 100mcg,asthma_drugs,drug
+CPRD_product_code,23269,MAXIVENT STERIPOULE unit dose neb soln 2.5mg/2.5ml,asthma_drugs,drug
+CPRD_product_code,5975,FLUTICASONE cfc free inh 125micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1415,STERI-NEB IPRATROPIUM unit dose neb soln 250micrograms/ml,asthma_drugs,drug
+CPRD_product_code,5309,FLIXOTIDE EVOHALER 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5521,BECLOMETASONE breath act pwdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5804,BECLOMETASONE breath act pwdr inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,6746,BUDESONIDE + FORMOTEROL breath act pwdr inh 400micrograms + 12micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5683,FLIXOTIDE EVOHALER 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,11497,BECLOMETASONE breath act pwdr inh 400micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5718,FLIXOTIDE EVOHALER 125micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,3666,SERETIDE 500 ACCUHALER,asthma_drugs,drug
+CPRD_product_code,5161,SERETIDE 125 EVOHALER 25micrograms + 125micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,17590,ASMANEX TWISTHALER dry pdr inh 400micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,18299,FENOTEROL + IPRATROPIUM BROMIDE unit dose neb soln 1.25mg + 500micrograms/4ml,asthma_drugs,drug
+CPRD_product_code,2655,AIROMIR cfc free inh 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,1243,BECLAZONE EASI-BREATHE breath act inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,6780,SYMBICORT TURBOHALER 400micrograms + 12micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,895,BECLAZONE EASI-BREATHE breath act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1725,BECLAZONE EASI-BREATHE breath act inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,911,FLIXOTIDE ACCUHALER 250micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,5992,BECLOMETASONE breath act pwdr inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,19401,BECLOMETASONE inh/compt spacer 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,14739,NORPHYLLIN SR tablets 225mg,asthma_drugs,drug
+CPRD_product_code,3119,BECLOFORTE INTEGRA inh/compt spacer 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5740,AIROMIR AUTOHALER cfc/free b/act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5522,BECLOMETASONE breath act pwdr inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5889,SALAMOL cfc free inh 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,638,SERETIDE 250 ACCUHALER,asthma_drugs,drug
+CPRD_product_code,7948,FLUTICASONE breath act pwdr inh 250micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,14736,PULVINAL BECLOMETASONE DIPROPIONATE breath act pwdr inh 400micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,11046,IPRATROPIUM BROMIDE + SALBUTAMOL unit dose neb soln 500micrograms + 2.5mg/2.5ml,asthma_drugs,drug
+CPRD_product_code,2440,FLIXOTIDE ACCUHALER 500micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,3305,COMBIVENT UDVs neb soln 2.5ml,asthma_drugs,drug
+CPRD_product_code,2282,FLUTICASONE breath act pwdr inh 500micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,5898,SALAMOL STERI-NEB unit dose neb soln 2.5mg/2.5ml,asthma_drugs,drug
+CPRD_product_code,13037,PULVINAL BECLOMETASONE DIPROPIONATE breath act pwdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,30230,SALBUTAMOL breath act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5516,SALAMOL EASI-BREATHE cfc/free b/act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,957,SALAMOL EASI-BREATHE breath act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,14757,PULVINAL BECLOMETASONE DIPROPIONATE breath act pwdr inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,12633,TILARIN nasal spray 1%,asthma_drugs,drug
+CPRD_product_code,12822,SALBUTAMOL + IPRATROPIUM BROMIDE unit dose neb soln 2.5mg + 500micrograms/2.5ml,asthma_drugs,drug
+CPRD_product_code,14448,NEDOCROMIL SODIUM nasal spray 1%,asthma_drugs,drug
+CPRD_product_code,34995,SPIRIVA inh pdr caps+dev 18 micrograms,asthma_drugs,drug
+CPRD_product_code,13040,FLUTICASONE + SALMETEROL dry pdr inh 250micrograms + 50micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,9571,BECLOMETASONE vortex inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,13273,FLUTICASONE + SALMETEROL dry pdr inh 100micrograms + 50micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,6526,FORMOTEROL FUMARATE inh caps 12mcg,asthma_drugs,drug
+CPRD_product_code,5837,SALAMOL STERI-NEB unit dose neb soln 5mg/2.5ml,asthma_drugs,drug
+CPRD_product_code,3546,QVAR cfc free inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,15706,BECLOMETASONE vortex inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1885,BECLAZONE inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,12909,SALBUTAMOL + IPRATROPIUM BROMIDE inh 100micrograms + 20micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,16018,MOMETASONE FUROATE dry pdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,11198,BECLOMETASONE vortex inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5170,SALAMOL cfc free inh 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,3443,SALBUTAMOL spacehaler 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,14525,SALBUTAMOL vortex inh 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,18394,BDP spacehaler 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,9599,BECLAZONE inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,10254,MOMETASONE FUROATE dry pdr inh 400micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,6325,SYMBICORT TURBOHALER 200micrograms + 6micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,19031,BDP spacehaler 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,7013,SYMBICORT TURBOHALER 100micrograms + 6micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,14524,BDP spacehaler 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,6050,SPIRIVA inh caps 18 micrograms,asthma_drugs,drug
+CPRD_product_code,1728,CROMOGEN EASI-BREATHE breath act inh 5mg/inhalation,asthma_drugs,drug
+CPRD_product_code,13038,PULVINAL SALBUTAMOL breath act pwdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,13815,BECLAZONE inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,4803,BECLAZONE inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,22430,SPACEHALER SALBUTAMOL spacehaler 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,28761,SPACEHALER BDP spacehaler 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,20825,SPACEHALER BDP spacehaler 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,24898,SPACEHALER BDP spacehaler 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5942,SALMETEROL + FLUTICASONE dry pdr inh 50micrograms + 250micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,3150,BECLOMETASONE EXTRAFINE PARTICLE cfc free inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,22313,VENTMAX SR mr cap 8mg,asthma_drugs,drug
+CPRD_product_code,1727,BECOTIDE EASI-BREATHE breath act inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,5558,SALMETEROL + FLUTICASONE dry pdr inh 50micrograms+ 500micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,958,VENTOLIN EASI-BREATHE breath act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,4665,SALBULIN cfc free inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,10321,BUDESONIDE inh caps 400micrograms,asthma_drugs,drug
+CPRD_product_code,17696,VENTMAX SR mr cap 4mg,asthma_drugs,drug
+CPRD_product_code,6938,SALMETEROL + FLUTICASONE dry pdr inh 50micrograms + 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,896,BECOTIDE EASI-BREATHE breath act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1552,BECLOFORTE EASI-BREATHE breath act inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1974,OXIS 12 TURBOHALER 12micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,16433,ASMANEX TWISTHALER dry pdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1975,OXIS 6 TURBOHALER 6 micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,7133,FORMOTEROL FUMARATE breath act inh 12micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,19389,ASMABEC spacehaler 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,10090,BECLOMETASONE EXTRAFINE PARTICLE cfc free inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,14567,ASMABEC CLICKHALER dry pdr inh 250micrograms,asthma_drugs,drug
+CPRD_product_code,9651,ASMASAL spacehaler 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,4601,ASMABEC CLICKHALER dry pdr inh 100micrograms,asthma_drugs,drug
+CPRD_product_code,9477,ASMABEC spacehaler 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,9577,ASMABEC CLICKHALER dry pdr inh 50micrograms,asthma_drugs,drug
+CPRD_product_code,14590,ASMABEC spacehaler 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1741,SALBUTAMOL cfc/free b/act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,6796,BUDESONIDE + FORMOTEROL breath act pwdr inh 200micrograms + 6micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,10218,BUDESONIDE + FORMOTEROL breath act pwdr inh 100micrograms + 6micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1087,ASMASAL CLICKHALER dry pdr inh 95micrograms,asthma_drugs,drug
+CPRD_product_code,18537,BUDESONIDE inh caps 200micrograms,asthma_drugs,drug
+CPRD_product_code,18421,RESPONTIN NEBULES 250micrograms/ml,asthma_drugs,drug
+CPRD_product_code,13996,SALAMOL cfc free inh 100micrograms/inhalation,asthma_drugs,drug
+CPRD_product_code,13757,TROPIOVENT STERIPOULE unit dose neb soln 250micrograms/ml,asthma_drugs,drug
+CPRD_product_code,3220,QVAR AUTOHALER cfc/free b/act inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,35011,TIOTROPIUM inh pdr cap (refill) 18 micrograms,asthma_drugs,drug
+CPRD_product_code,23709,STERI-NEB IPRATROPIUM unit dose neb soln 500micrograms/2ml,asthma_drugs,drug
+CPRD_product_code,41832,MONOVENT syrp 1.5mg/5ml,asthma_drugs,drug
+CPRD_product_code,2335,QVAR cfc free inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,9921,BECLOMETASONE EXTRAFINE PARTICLE cfc/free b/act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,11732,BECLOMETASONE EXTRAFINE PARTICLE cfc/free b/act inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,11719,SLO-PHYLLIN caps 60mg,asthma_drugs,drug
+CPRD_product_code,6569,SALMETEROL + FLUTICASONE cfc free inh 25micrograms + 125micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,6616,SALMETEROL + FLUTICASONE cfc free inh 25micrograms + 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,4413,QVAR AUTOHALER cfc/free b/act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,6315,SLO-PHYLLIN caps 250mg,asthma_drugs,drug
+CPRD_product_code,5864,SALMETEROL + FLUTICASONE cfc free inh 25micrograms + 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,15284,SLO-PHYLLIN caps 125mg,asthma_drugs,drug
+CPRD_product_code,5143,SERETIDE 50 EVOHALER 25micrograms + 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,6512,ATROVENT cfc free inh 20micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,6758,STERI-NEB IPRATROPIUM unit dose neb soln 250micrograms/ml,asthma_drugs,drug
+CPRD_product_code,16577,EASYHALER SALBUTAMOL breath act pwdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,6522,IPRATROPIUM BROMIDE cfc free inh 20micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,13181,EASYHALER SALBUTAMOL breath act pwdr inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,16054,BUDESONIDE REFILLABLE breath act pwdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,7017,SALBUTAMOL breath act pwdr inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,23741,NOVOLIZER BUDESONIDE breath act pwdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,18140,RESPONTIN NEBULES 500micrograms/2ml,asthma_drugs,drug
+CPRD_product_code,6772,IPRATROPIUM BROMIDE nebuliser soln 250micrograms/ml,asthma_drugs,drug
+CPRD_product_code,18848,QVAR EASI-BREATHE cfc/free b/act inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,14294,QVAR EASI-BREATHE cfc/free b/act inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,23567,RESPONTIN NEBULES 250micrograms/ml,asthma_drugs,drug
+CPRD_product_code,6719,IPRATROPIUM BROMIDE nebuliser soln 500micrograms/2ml,asthma_drugs,drug
+CPRD_product_code,7140,ATROVENT UDVs neb soln 500micrograms/2ml,asthma_drugs,drug
+CPRD_product_code,6911,ATROVENT UDVs neb soln 250micrograms/1ml,asthma_drugs,drug
+CPRD_product_code,35014,TIOTROPIUM inh pdr caps+dev 18 micrograms,asthma_drugs,drug
+CPRD_product_code,17670,EASYHALER BUDESONIDE breath act pwdr inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,6988,AMINOPHYLLINE HYDRATE mr tab 100mg,asthma_drugs,drug
+CPRD_product_code,6839,ALVESCO cfc free inh 160micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,7356,CICLESONIDE cfc free inh 80micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,21224,ALVESCO cfc free inh 80micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,10102,CICLESONIDE cfc free inh 160micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,7268,SEREVENT EVOHALER cfc free inh 25micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,14306,FORMOTEROL FUMARATE cfc free inh 12micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,17654,EASYHALER BECLOMETASONE breath act pwdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,17002,AMINOPHYLLINE HYDRATE mr tab 225mg,asthma_drugs,drug
+CPRD_product_code,16994,AMINOPHYLLINE HYDRATE mr tab 350mg,asthma_drugs,drug
+CPRD_product_code,7270,SALMETEROL cfc free inh 25micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,25784,ATIMOS MODULITE cfc free inh 12micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,25119,TILADE cfc free inh 2mg/inhalation,asthma_drugs,drug
+CPRD_product_code,13256,NEDOCROMIL SODIUM cfc free inh 2mg/inhalation,asthma_drugs,drug
+CPRD_product_code,35744,BRICANYL inj 2.5mg/5ml,asthma_drugs,drug
+CPRD_product_code,30649,EASYHALER BUDESONIDE breath act pwdr inh 400micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,21005,BECLOMETASONE cfc free inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,27188,EASYHALER BUDESONIDE breath act pwdr inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,14321,BECLOMETASONE cfc free inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,15326,BECLOMETASONE cfc free inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,16584,BECLOMETASONE cfc free inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,35522,BRICANYL inj 500micrograms/1ml,asthma_drugs,drug
+CPRD_product_code,16151,CLENIL MODULITE cfc free inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,13290,CLENIL MODULITE cfc free inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,16158,CLENIL MODULITE cfc free inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,35862,TERBUTALINE inj 500micrograms/1ml,asthma_drugs,drug
+CPRD_product_code,16148,CLENIL MODULITE cfc free inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,35557,IPRAMOL STERI-NEB unit dose neb soln 500micrograms + 2.5mg/2.5ml,asthma_drugs,drug
+CPRD_product_code,35602,BUDESONIDE dry pdr inh cart ref 200micrograms,asthma_drugs,drug
+CPRD_product_code,35631,NOVOLIZER BUDESONIDE inh pdr + device 200micrograms,asthma_drugs,drug
+CPRD_product_code,35724,NOVOLIZER BUDESONIDE inh pdr (refill) 200micrograms,asthma_drugs,drug
+CPRD_product_code,42511,AMINOPHYLLINE inj 25mg/ml [CELLTECH],asthma_drugs,drug
+CPRD_product_code,4591,CHOLEDYL tabs 100mg,asthma_drugs,drug
+CPRD_product_code,4222,BRICANYL respirator soln 10mg/ml,asthma_drugs,drug
+CPRD_product_code,26987,BRICANYL comp tabs,asthma_drugs,drug
+CPRD_product_code,534,ATROVENT inh 20micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,8111,BECLOFORTE VM pack 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,4640,BRICANYL respirator soln 2.5mg/ml,asthma_drugs,drug
+CPRD_product_code,3927,FILAIR inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1236,BECLOFORTE inh 250micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,42910,AMINOPHYLLINE inj 250mg/10ml [MARTINDALE],asthma_drugs,drug
+CPRD_product_code,13365,BEROTEC neb soln 5mg/ml,asthma_drugs,drug
+CPRD_product_code,1406,BECOTIDE 50 inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,3743,FILAIR inh 50micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,2020,BEROTEC inh 200micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,1794,BEROTEC inh 100micrograms/actuation,asthma_drugs,drug
+CPRD_product_code,10958,SALBUTAMOL .25 MG INJ,asthma_drugs,drug
+CPRD_product_code,907,BRICANYL TURBOHALER 500micrograms,asthma_drugs,drug
+CPRD_product_code,7954,BRICANYL spacer inh,asthma_drugs,drug
+CPRD_product_code,235,BRICANYL inh,asthma_drugs,drug

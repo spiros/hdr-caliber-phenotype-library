@@ -1,0 +1,19 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,3213.00,Exercise ECG,exercise_testing,test
+Read,33B9500,Exercise tolerance test abnormal,exercise_testing,test
+Read,33B9100,Exercise tolerance test done,exercise_testing,test
+Read,8HTJ.00,Referral to rapid access chest pain clinic,exercise_testing,test
+Read,3213011,Negative exercise ECG test,exercise_testing,test
+Read,33B9300,Exercise tolerance test normal,exercise_testing,test
+Read,3213000,Exercise ECG normal,exercise_testing,test
+Read,8HRA.00,Referral for exercise ECG,exercise_testing,test
+Read,3213111,Positive exercise ECG test,exercise_testing,test
+Read,33B9400,Exercise toler test equivocal,exercise_testing,test
+Read,3213100,Exercise ECG abnormal,exercise_testing,test
+Read,33B9.00,Exercise tolerance test,exercise_testing,test
+Read,8H4R.00,Referral to cardiology special interest general practitioner,exercise_testing,test
+Read,33B9Z00,Exercise tolerance test NOS,exercise_testing,test
+Read,8H44.00,Cardiological referral,exercise_testing,test
+Read,5744.00,Isotope dynamic heart scan,exercise_testing,test
+Read,9N0f.00,Seen in rapid access chest pain clinic,exercise_testing,test
+Read,8HVJ.00,Private referral to cardiologist,exercise_testing,test

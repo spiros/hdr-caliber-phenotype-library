@@ -1,0 +1,28 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G58..00,Heart failure,Congestive cardiac failure,diagnostic
+Read,G58z.11,Weak heart,Congestive cardiac failure,diagnostic
+Read,G580.11,Congestive cardiac failure,Congestive cardiac failure,diagnostic
+Read,G58z.12,Cardiac failure NOS,Congestive cardiac failure,diagnostic
+Read,G58z.00,Heart failure NOS,Congestive cardiac failure,diagnostic
+Read,G581.13,Impaired left ventricular function,Congestive cardiac failure,diagnostic
+Read,G581000,Acute left ventricular failure,Congestive cardiac failure,diagnostic
+Read,G580.12,Right heart failure,Congestive cardiac failure,diagnostic
+Read,G580.14,Biventricular failure,Congestive cardiac failure,diagnostic
+Read,G580.13,Right ventricular failure,Congestive cardiac failure,diagnostic
+Read,G580300,Compensated cardiac failure,Congestive cardiac failure,diagnostic
+Read,G580200,Decompensated cardiac failure,Congestive cardiac failure,diagnostic
+Read,G581.11,Asthma - cardiac,Congestive cardiac failure,diagnostic
+Read,G580000,Acute congestive heart failure,Congestive cardiac failure,diagnostic
+Read,G580100,Chronic congestive heart failure,Congestive cardiac failure,diagnostic
+Read,G582.00,Acute heart failure,Congestive cardiac failure,diagnostic
+Read,G580400,Congestive heart failure due to valvular disease,Congestive cardiac failure,diagnostic
+Read,G581.12,Pulmonary oedema - acute,Congestive cardiac failure,diagnostic
+Read,G5yy900,Left ventricular systolic dysfunction,Congestive cardiac failure,diagnostic
+Read,G583.11,HFNEF - heart failure with normal ejection fraction,Congestive cardiac failure,diagnostic
+Read,G583.00,Heart failure with normal ejection fraction,Congestive cardiac failure,diagnostic
+Read,G584.00,,Congestive cardiac failure,diagnostic
+Read,G1yz100,Rheumatic left ventricular failure,Congestive cardiac failure,diagnostic
+Read,G5yyA00,Left ventricular diastolic dysfunction,Congestive cardiac failure,diagnostic
+Read,G58..11,Cardiac failure,Congestive cardiac failure,diagnostic
+Read,G581.00,Left ventricular failure,Congestive cardiac failure,diagnostic
+Read,G580.00,Congestive heart failure,Congestive cardiac failure,diagnostic

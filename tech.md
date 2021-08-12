@@ -51,6 +51,7 @@ The phenotype definition file is a markdown file with a YAML header. The YAML he
 For example, the code snippet below displays the metadata associated with the [bronchiestasis](https://portal.caliberresearch.org/phenotypes/axson-bronchiestasis-zckoxfuwnxn8jn7fdlquxj) phenotyping algorithm submitted by the HDR UK BREATHE Hub (you can view the [raw file](https://raw.githubusercontent.com/spiros/hdr-caliber-phenome-portal/master/_phenotypes/axson_bronchiestasis_ZckoXfUWNXn8Jn7fdLQuxj.md) directly on the repository.)
 
 ```yaml
+layout: phenotype
 title: Bronchiestasis
 name: Bronchiestasis
 phenotype_id: ZckoXfUWNXn8Jn7fdLQuxj 

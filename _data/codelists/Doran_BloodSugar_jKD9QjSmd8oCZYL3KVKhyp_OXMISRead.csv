@@ -1,0 +1,65 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,L3300NM,NORMAL GLUCOSE TOLERANCE TEST,blood_sugar,test
+OXMIS,L1300R,RANDOM BLOOD SUGAR LEVEL,blood_sugar,test
+OXMIS,L1300A,BLOOD GLUCOSE,blood_sugar,test
+OXMIS,L1300H,RAISED BLOOD GLUCOSE LEVEL,blood_sugar,test
+OXMIS,L1300F,FASTING BLOOD SUGAR LEVEL,blood_sugar,test
+OXMIS,L3300,GLUCOSE TOLERANCE TEST,blood_sugar,test
+OXMIS,L1300RA,RANDOM BLOOD SUGAR NORMAL,blood_sugar,test
+OXMIS,L1300RB,RANDOM BLOOD SUGAR RAISED,blood_sugar,test
+OXMIS,L1300RW,RANDOM BLOOD SUGAR NORMAL (VENOUS SAMPLE,blood_sugar,test
+OXMIS,L1300RY,RANDOM BLOOD SUGAR LOW (VENOUS SAMPLE),blood_sugar,test
+OXMIS,L1300RX,RANDOM BLOOD SUGAR RAISED (VENOUS SAMPLE,blood_sugar,test
+OXMIS,L1300RC,RANDOM BLOOD SUGAR LOW,blood_sugar,test
+OXMIS,L1300RV,RANDOM BLOOD SUGAR (VENOUS SAMPLE),blood_sugar,test
+Read,44TH.00,120 minute blood glucose level,blood_sugar,test
+Read,44TG.00,90 minute blood glucose level,blood_sugar,test
+Read,44T1.00,Random blood sugar,blood_sugar,test
+Read,44f7.00,150 minute serum glucose level,blood_sugar,test
+Read,44f..00,Serum glucose level,blood_sugar,test
+Read,44f3.00,30 minute serum glucose level,blood_sugar,test
+Read,44f6.00,120 minute serum glucose level,blood_sugar,test
+Read,44f5.00,90 minute serum glucose level,blood_sugar,test
+Read,44f4.00,60 minute serum glucose level,blood_sugar,test
+Read,44T3.11,Post prandial blood sugar,blood_sugar,test
+Read,44T1000,Random blood sugar normal,blood_sugar,test
+Read,44TF.00,60 minute blood glucose level,blood_sugar,test
+Read,44T1100,Random blood sugar low,blood_sugar,test
+Read,44T3.00,2 hours post food blood sugar,blood_sugar,test
+Read,44T2.00,Fasting blood sugar,blood_sugar,test
+Read,44T1200,Random blood sugar raised,blood_sugar,test
+Read,44TE.00,30 minute blood glucose level,blood_sugar,test
+Read,44T5.00,Laboratory blood sugar,blood_sugar,test
+Read,44T4.00,Dip-stick blood sugar,blood_sugar,test
+Read,44T6.00,Lunch time blood sugar,blood_sugar,test
+Read,44T9.00,Glucometer blood sugar,blood_sugar,test
+Read,44T8.00,Bedtime blood sugar,blood_sugar,test
+Read,44T7.00,Supper time blood sugar,blood_sugar,test
+Read,R10D.00,[D]Elevated blood glucose level,blood_sugar,test
+Read,8A17.00,Self monitoring of blood glucose,blood_sugar,test
+Read,44TK.00,Fasting blood glucose level,blood_sugar,test
+Read,44TJ.00,Blood glucose level,blood_sugar,test
+Read,44TI.00,150 minute blood glucose level,blood_sugar,test
+Read,44U..11,Blood sugar result,blood_sugar,test
+Read,44U5.00,Blood glucose 7-9.9 mmol/L,blood_sugar,test
+Read,44U4.00,Blood glucose 5-6.9 mmol/L,blood_sugar,test
+Read,44U..00,Blood glucose result,blood_sugar,test
+Read,44TM.00,Blood glucose series,blood_sugar,test
+Read,44U1.00,Blood glucose 0-1.4 mmol/L,blood_sugar,test
+Read,44U3.00,Blood glucose 2.5-4.9 mmol/L,blood_sugar,test
+Read,44U2.00,Blood glucose 1.5-2.4 mmol/L,blood_sugar,test
+Read,44U9.00,Blood glucose abnormal,blood_sugar,test
+Read,7P17200,Glucose tolerance test,blood_sugar,test
+Read,44U8.00,Blood glucose normal,blood_sugar,test
+Read,44U7.00,2 hour post-prandial blood glucose level,blood_sugar,test
+Read,44U6.00,Blood glucose 10-13.9 mmol/L,blood_sugar,test
+Read,44VZ.00,Glucose tolerance test NOS,blood_sugar,test
+Read,44V..00,Glucose tolerance test,blood_sugar,test
+Read,44Uz.00,Blood glucose raised NOS,blood_sugar,test
+Read,44UZ.00,Blood glucose 14+ mmol/L,blood_sugar,test
+Read,44V..11,Blood glucose tolerance,blood_sugar,test
+Read,44V6.00,Extended glucose tolerance test,blood_sugar,test
+Read,44V1.00,Glucose tolerance test normal,blood_sugar,test
+Read,44V..12,Blood sugar tolerance,blood_sugar,test
+Read,R102.12,[D]Impaired glucose tolerance test,blood_sugar,test
+Read,R102.00,[D]Glucose tolerance test abnormal,blood_sugar,test

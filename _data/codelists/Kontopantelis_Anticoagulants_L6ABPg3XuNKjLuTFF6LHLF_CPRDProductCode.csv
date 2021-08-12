@@ -1,0 +1,77 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,48070,Warfarin sodium tablets,res9: anticoagulants,drug
+CPRD_product_code,45,Warfarin 1mg tablets,res9: anticoagulants,drug
+CPRD_product_code,53745,Warfarin 3mg tablets (Bristol Laboratories Ltd),res9: anticoagulants,drug
+CPRD_product_code,53752,Warfarin 1mg tablets (Alliance Healthcare (Distribution) Ltd),res9: anticoagulants,drug
+CPRD_product_code,8466,Marevan 1mg tablets (Mercury Pharma Group Ltd),res9: anticoagulants,drug
+CPRD_product_code,5305,Sinthrome 1mg tablets (Alliance Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,33711,Warfarin 5mg Tablet (WB Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,833,Warfarin 3mg/5ml oral solution,res9: anticoagulants,drug
+CPRD_product_code,61,Warfarin 3mg tablets,res9: anticoagulants,drug
+CPRD_product_code,39755,Pradaxa 110mg capsules (Boehringer Ingelheim Ltd),res9: anticoagulants,drug
+CPRD_product_code,4446,Acenocoumarol 1mg tablets,res9: anticoagulants,drug
+CPRD_product_code,1781,Warfarin 5mg tablets,res9: anticoagulants,drug
+CPRD_product_code,13502,Dindevan 10mg Tablet (Goldshield Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,31511,Warfarin 3mg Tablet (WB Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,31937,Warfarin 5mg tablets (Teva UK Ltd),res9: anticoagulants,drug
+CPRD_product_code,13501,Dindevan 50mg Tablet (Goldshield Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,13348,Marevan 5mg tablets (Mercury Pharma Group Ltd),res9: anticoagulants,drug
+CPRD_product_code,6262,Warfarin 500microgram tablets,res9: anticoagulants,drug
+CPRD_product_code,8467,Marevan 3mg tablets (Mercury Pharma Group Ltd),res9: anticoagulants,drug
+CPRD_product_code,13644,Dindevan 25mg Tablet (Goldshield Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,30203,Warfarin wbp 3mg Tablet (Boehringer Ingelheim Ltd),res9: anticoagulants,drug
+CPRD_product_code,13505,Phenindione 10mg tablets,res9: anticoagulants,drug
+CPRD_product_code,13503,Phenindione 50mg tablets,res9: anticoagulants,drug
+CPRD_product_code,13504,Phenindione 25mg tablets,res9: anticoagulants,drug
+CPRD_product_code,15006,Sinthrome 4mg Tablet (Alliance Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,30202,Warfarin wbp 1mg Tablet (Boehringer Ingelheim Ltd),res9: anticoagulants,drug
+CPRD_product_code,23078,Warfarin 1mg Tablet (WB Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,15376,Acenocoumarol 4mg tablets,res9: anticoagulants,drug
+CPRD_product_code,17965,Marevan 500microgram tablets (Mercury Pharma Group Ltd),res9: anticoagulants,drug
+CPRD_product_code,34019,Warfarin 1mg tablets (IVAX Pharmaceuticals UK Ltd),res9: anticoagulants,drug
+CPRD_product_code,34086,Warfarin 3mg Tablet (Celltech Pharma Europe Ltd),res9: anticoagulants,drug
+CPRD_product_code,34087,Warfarin 1mg Tablet (Celltech Pharma Europe Ltd),res9: anticoagulants,drug
+CPRD_product_code,36099,Warfarin 1mg/5ml oral suspension,res9: anticoagulants,drug
+CPRD_product_code,34095,Warfarin wbp 5mg Tablet (Boehringer Ingelheim Ltd),res9: anticoagulants,drug
+CPRD_product_code,34299,Warfarin 1mg tablets (Teva UK Ltd),res9: anticoagulants,drug
+CPRD_product_code,34088,Warfarin 5mg Tablet (Celltech Pharma Europe Ltd),res9: anticoagulants,drug
+CPRD_product_code,38041,Warfarin sodium 5mg/ml oral suspension,res9: anticoagulants,drug
+CPRD_product_code,34416,Warfarin 1mg tablets (Kent Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,34918,Warfarin 5mg tablets (Actavis UK Ltd),res9: anticoagulants,drug
+CPRD_product_code,34517,Warfarin 1mg tablets (Generics (UK) Ltd),res9: anticoagulants,drug
+CPRD_product_code,34418,Warfarin 5mg tablets (Generics (UK) Ltd),res9: anticoagulants,drug
+CPRD_product_code,34417,Warfarin 3mg tablets (Teva UK Ltd),res9: anticoagulants,drug
+CPRD_product_code,34576,Warfarin 1mg Tablet (Lagap),res9: anticoagulants,drug
+CPRD_product_code,34526,Warfarin 3mg tablets (Generics (UK) Ltd),res9: anticoagulants,drug
+CPRD_product_code,34864,Warfarin 5mg tablets (IVAX Pharmaceuticals UK Ltd),res9: anticoagulants,drug
+CPRD_product_code,34758,Warfarin 3mg tablets (IVAX Pharmaceuticals UK Ltd),res9: anticoagulants,drug
+CPRD_product_code,34691,Warfarin 5mg Tablet (Regent Laboratories Ltd),res9: anticoagulants,drug
+CPRD_product_code,38044,Warfarin 5mg/5ml oral solution,res9: anticoagulants,drug
+CPRD_product_code,48134,Xarelto 15mg tablets (Bayer Plc),res9: anticoagulants,drug
+CPRD_product_code,39503,Dabigatran etexilate 75mg capsules,res9: anticoagulants,drug
+CPRD_product_code,39119,Rivaroxaban 10mg tablets,res9: anticoagulants,drug
+CPRD_product_code,39444,Dabigatran etexilate 110mg capsules,res9: anticoagulants,drug
+CPRD_product_code,42474,Pradaxa 75mg capsules (Boehringer Ingelheim Ltd),res9: anticoagulants,drug
+CPRD_product_code,39639,Xarelto 10mg tablets (Bayer Plc),res9: anticoagulants,drug
+CPRD_product_code,43407,Warfarin 3mg tablets (A A H Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,40143,Warfarin 500microgram tablets (A A H Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,39866,Warfarin 1mg tablets (Almus Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,46678,Pradaxa 150mg capsules (Boehringer Ingelheim Ltd),res9: anticoagulants,drug
+CPRD_product_code,47944,Warfarin 1mg tablets (Actavis UK Ltd),res9: anticoagulants,drug
+CPRD_product_code,46632,Dabigatran etexilate 150mg capsules,res9: anticoagulants,drug
+CPRD_product_code,43408,Warfarin 1mg tablets (A A H Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,44866,Warfarin sodium 1mg/ml oral supension SF,res9: anticoagulants,drug
+CPRD_product_code,43409,Warfarin 5mg tablets (A A H Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,43655,Warfarin sodium oral solution,res9: anticoagulants,drug
+CPRD_product_code,47207,Rivaroxaban 20mg tablets,res9: anticoagulants,drug
+CPRD_product_code,48869,Warfarin 1mg/ml oral suspension sugar free,res9: anticoagulants,drug
+CPRD_product_code,46924,Phenindione 10mg tablets (Mercury Pharma Group Ltd),res9: anticoagulants,drug
+CPRD_product_code,47925,Xarelto 20mg tablets (Bayer Plc),res9: anticoagulants,drug
+CPRD_product_code,47566,Apixaban 2.5mg tablets,res9: anticoagulants,drug
+CPRD_product_code,47353,Rivaroxaban 15mg tablets,res9: anticoagulants,drug
+CPRD_product_code,51484,Warfarin 1mg tablets (Bristol Laboratories Ltd),res9: anticoagulants,drug
+CPRD_product_code,50000,Warfarin 1mg/ml oral suspension sugar free (A A H Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,51509,Warfarin 1mg tablets (APC Pharmaceuticals & Chemicals (Europe) Ltd),res9: anticoagulants,drug
+CPRD_product_code,53740,Eliquis 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res9: anticoagulants,drug
+CPRD_product_code,51496,Warfarin 1mg tablets (Phoenix Healthcare Distribution Ltd),res9: anticoagulants,drug
+CPRD_product_code,54066,Apixaban 5mg tablets,res9: anticoagulants,drug

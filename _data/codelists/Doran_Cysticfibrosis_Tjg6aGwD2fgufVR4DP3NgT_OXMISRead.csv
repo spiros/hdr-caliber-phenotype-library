@@ -1,0 +1,13 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,7484F,FIBROCYSTIC DISEASE LUNG,cystic fibrosis,diagnostic
+OXMIS,2730A,FIBROSIS CYSTIC,cystic fibrosis,diagnostic
+Read,C370.12,Mucoviscidosis,cystic fibrosis,diagnostic
+Read,C370.00,Cystic fibrosis,cystic fibrosis,diagnostic
+Read,C370z00,Cystic fibrosis NOS,cystic fibrosis,diagnostic
+Read,C370y11,Cystic fibrosis with combined manifestations,cystic fibrosis,diagnostic
+Read,C370000,Cystic fibrosis with no meconium ileus,cystic fibrosis,diagnostic
+Read,C370100,Cystic fibrosis with meconium ileus,cystic fibrosis,diagnostic
+Read,C370y00,Cystic fibrosis with other manifestations,cystic fibrosis,diagnostic
+Read,C370300,Cystic fibrosis with intestinal manifestations,cystic fibrosis,diagnostic
+Read,C370200,Cystic fibrosis with pulmonary manifestations,cystic fibrosis,diagnostic
+Read,C370111,Meconium ileus in cystic fibrosis,cystic fibrosis,diagnostic
