@@ -1,0 +1,195 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E104.00,Acute schizophrenic episode,res36: Schizophrenia spectrum,diagnostic
+Read,E107500,Schizo-affective schizophrenia in remission,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20500,[X]Residual schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E107z00,Schizo-affective schizophrenia NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E10y100,Coenesthopathic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20511,[X]Chronic undifferentiated schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E107400,Acute exacerbation of chronic schizo-affective schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22100,[X]Delusional misidentification syndrome,res36: Schizophrenia spectrum,diagnostic
+Read,E10y.00,Other schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E107200,Chronic schizo-affective schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E10y.11,Cenesthopathic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E11z000,Unspecified affective psychoses NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E107300,Acute exacerbation subchronic schizo-affective schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E10..00,Schizophrenic disorders,res36: Schizophrenia spectrum,diagnostic
+Read,E107100,Subchronic schizo-affective schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E105500,Latent schizophrenia in remission,res36: Schizophrenia spectrum,diagnostic
+Read,E107000,Unspecified schizo-affective schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E105200,Chronic latent schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E107.11,Cyclic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E107.00,Schizo-affective schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E105z00,Latent schizophrenia NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E106.00,Residual schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E10y000,Atypical schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E11z.00,Other and unspecified affective psychoses,res36: Schizophrenia spectrum,diagnostic
+Read,E10yz00,Other schizophrenia NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E10z.00,Schizophrenia NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E1y..00,Other specified non-organic psychoses,res36: Schizophrenia spectrum,diagnostic
+Read,E12z.00,Paranoid psychosis NOS,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22015,[X]Paranoia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20311,[X]Atypical schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E12yz00,Other paranoid states NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E12y000,Paranoia querulans,res36: Schizophrenia spectrum,diagnostic
+Read,E120.00,Simple paranoid state,res36: Schizophrenia spectrum,diagnostic
+Read,E12..00,Paranoid states,res36: Schizophrenia spectrum,diagnostic
+Read,E11zz00,Other affective psychosis NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E12y.00,Other paranoid states,res36: Schizophrenia spectrum,diagnostic
+Read,E121.00,Chronic paranoid psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,E122.00,Paraphrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E123.00,Shared paranoid disorder,res36: Schizophrenia spectrum,diagnostic
+Read,225E.00,O/E - paranoid delusions,res36: Schizophrenia spectrum,diagnostic
+Read,E141100,Residual disintegrative psychoses,res36: Schizophrenia spectrum,diagnostic
+Read,E13z.00,Nonorganic psychosis NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E13yz00,Other reactive psychoses NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E130.11,Psychotic reactive depression,res36: Schizophrenia spectrum,diagnostic
+Read,E13..00,Other nonorganic psychoses,res36: Schizophrenia spectrum,diagnostic
+Read,E130.00,Reactive depressive psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,E13..11,Reactive psychoses,res36: Schizophrenia spectrum,diagnostic
+Read,E13y100,Brief reactive psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,E131.00,Acute hysterical psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,E133.00,Acute paranoid reaction,res36: Schizophrenia spectrum,diagnostic
+Read,E13y.00,Other reactive psychoses,res36: Schizophrenia spectrum,diagnostic
+Read,E134.00,Psychogenic paranoid psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,E141.11,Heller's syndrome,res36: Schizophrenia spectrum,diagnostic
+Read,E14..00,Psychoses with origin in childhood,res36: Schizophrenia spectrum,diagnostic
+Read,E13z.11,Psychotic episode NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E141.00,Disintegrative psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20600,[X]Simple schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22014,[X]Sensitiver Beziehungswahn,res36: Schizophrenia spectrum,diagnostic
+Read,Eu21.12,[X]Borderline schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20214,[X]Schizophrenic flexibilatis cerea,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20300,[X]Undifferentiated schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu21.11,[X]Latent schizophrenic reaction,res36: Schizophrenia spectrum,diagnostic
+Read,Eu0z.12,[X]Symptomatic psychosis NOS,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20213,[X]Schizophrenic catatonia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu02z12,[X] Presenile psychosis NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E1z..00,Non-organic psychosis NOS,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20211,[X]Catatonic stupor,res36: Schizophrenia spectrum,diagnostic
+Read,Eu21.00,[X]Schizotypal disorder,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20000,[X]Paranoid schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20z00,"[X]Schizophrenia, unspecified",res36: Schizophrenia spectrum,diagnostic
+Read,Eu20212,[X]Schizophrenic catalepsy,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20y00,[X]Other schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20y13,[X]Schizophrenifrm psychos NOS,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20y12,[X]Schizophreniform disord NOS,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22012,[X]Paranoid state,res36: Schizophrenia spectrum,diagnostic
+Read,Eu21.13,[X]Latent schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22013,[X]Paraphrenia - late,res36: Schizophrenia spectrum,diagnostic
+Read,Eu21.16,[X]Pseudoneurotic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22.00,[X]Persistent delusional disorders,res36: Schizophrenia spectrum,diagnostic
+Read,Eu21.14,[X]Prepsychotic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu21.15,[X]Prodromal schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22011,[X]Paranoid psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22000,[X]Delusional disorder,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22y12,[X]Involutional paranoid state,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22y00,[X]Other persistent delusional disorders,res36: Schizophrenia spectrum,diagnostic
+Read,E101.00,Hebephrenic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu25200,"[X]Schizoaffective disorder, mixed type",res36: Schizophrenia spectrum,diagnostic
+Read,Eu22111,[X]Capgras syndrome,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22y11,[X]Delusional dysmorphophobia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu25112,"[X]Schizophreniform psychosis, depressive type",res36: Schizophrenia spectrum,diagnostic
+Read,Eu25011,"[X]Schizoaffective psychosis, manic type",res36: Schizophrenia spectrum,diagnostic
+Read,Eu23300,[X]Other acute predominantly delusional psychotic disorders,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22y13,[X]Paranoia querulans,res36: Schizophrenia spectrum,diagnostic
+Read,Eu23000,[X]Acute polymorphic psychot disord without symp of schizoph,res36: Schizophrenia spectrum,diagnostic
+Read,Eu23214,[X]Schizophrenic reaction,res36: Schizophrenia spectrum,diagnostic
+Read,Eu23.00,[X]Acute and transient psychotic disorders,res36: Schizophrenia spectrum,diagnostic
+Read,Eu22z00,"[X]Persistent delusional disorder, unspecified",res36: Schizophrenia spectrum,diagnostic
+Read,Eu23212,[X]Brief schizophrenifrm psych,res36: Schizophrenia spectrum,diagnostic
+Read,Eu23100,[X]Acute polymorphic psychot disord with symp of schizophren,res36: Schizophrenia spectrum,diagnostic
+Read,Eu23012,[X]Cycloid psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu23211,[X]Brief schizophreniform disorder,res36: Schizophrenia spectrum,diagnostic
+Read,Eu23112,[X]Cycloid psychosis with symptoms of schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu23200,[X]Acute schizophrenia-like psychotic disorder,res36: Schizophrenia spectrum,diagnostic
+Read,Eu25000,"[X]Schizoaffective disorder, manic type",res36: Schizophrenia spectrum,diagnostic
+Read,Eu23z00,"[X]Acute and transient psychotic disorder, unspecified",res36: Schizophrenia spectrum,diagnostic
+Read,Eu23y00,[X]Other acute and transient psychotic disorders,res36: Schizophrenia spectrum,diagnostic
+Read,Eu23312,[X]Psychogenic paranoid psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu25.00,[X]Schizoaffective disorders,res36: Schizophrenia spectrum,diagnostic
+Read,Eu23z12,[X]Reactive psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu23z11,[X]Brief reactive psychosis NOS,res36: Schizophrenia spectrum,diagnostic
+Read,Eu25111,"[X]Schizoaffective psychosis, depressive type",res36: Schizophrenia spectrum,diagnostic
+Read,Eu25100,"[X]Schizoaffective disorder, depressive type",res36: Schizophrenia spectrum,diagnostic
+Read,Eu25012,"[X]Schizophreniform psychosis, manic type",res36: Schizophrenia spectrum,diagnostic
+Read,Eu25212,[X]Mixed schizophrenic and affective psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,E102z00,Catatonic schizophrenia NOS,res36: Schizophrenia spectrum,diagnostic
+Read,ZV11000,[V]Personal history of schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu32900,"[X]Single major depr ep, severe with psych, psych in remiss",res36: Schizophrenia spectrum,diagnostic
+Read,Eu25z11,[X]Schizoaffective psychosis NOS,res36: Schizophrenia spectrum,diagnostic
+Read,Eu25z00,"[X]Schizoaffective disorder, unspecified",res36: Schizophrenia spectrum,diagnostic
+Read,Eu25y00,[X]Other schizoaffective disorders,res36: Schizophrenia spectrum,diagnostic
+Read,Eu32314,[X]Single episode of reactive depressive psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu2z.11,[X]Psychosis NOS,res36: Schizophrenia spectrum,diagnostic
+Read,Eu2z.00,[X]Unspecified nonorganic psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu2y.00,[X]Other nonorganic psychotic disorders,res36: Schizophrenia spectrum,diagnostic
+Read,Eu2y.11,[X]Chronic hallucinatory psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu32313,[X]Single episode of psychotic depression,res36: Schizophrenia spectrum,diagnostic
+Read,Eu32311,[X]Single episode of major depression and psychotic symptoms,res36: Schizophrenia spectrum,diagnostic
+Read,Eu32300,[X]Severe depressive episode with psychotic symptoms,res36: Schizophrenia spectrum,diagnostic
+Read,Eu32312,[X]Single episode of psychogenic depressive psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,ZS7C611,Schizophrenic language,res36: Schizophrenia spectrum,diagnostic
+Read,Ryu5300,[X]Other hallucinations,res36: Schizophrenia spectrum,diagnostic
+Read,Eu32A00,"[X]Recurr major depr ep, severe with psych, psych in remiss",res36: Schizophrenia spectrum,diagnostic
+Read,Eu33316,[X]Recurrent severe episodes/reactive depressive psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu33311,[X]Endogenous depression with psychotic symptoms,res36: Schizophrenia spectrum,diagnostic
+Read,Eu33300,[X]Recurrent depress disorder cur epi severe with psyc symp,res36: Schizophrenia spectrum,diagnostic
+Read,Eu33315,[X]Recurrent severe episodes of psychotic depression,res36: Schizophrenia spectrum,diagnostic
+Read,Eu33314,[X]Recurr severe episodes/psychogenic depressive psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu33313,[X]Recurr severe episodes/major depression+psychotic symptom,res36: Schizophrenia spectrum,diagnostic
+Read,R001z00,[D]Hallucinations NOS,res36: Schizophrenia spectrum,diagnostic
+Read,R001.00,[D]Hallucinations,res36: Schizophrenia spectrum,diagnostic
+Read,Eu84314,[X]Symbiotic psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu44.14,[X]Hysterical psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,Eu84312,[X]Disintegrative psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,R001400,[D]Visual hallucinations,res36: Schizophrenia spectrum,diagnostic
+Read,R001100,"[D]Hallucinations, gustatory",res36: Schizophrenia spectrum,diagnostic
+Read,R001000,"[D]Hallucinations, auditory",res36: Schizophrenia spectrum,diagnostic
+Read,R001300,"[D]Hallucinations, tactile",res36: Schizophrenia spectrum,diagnostic
+Read,R001200,"[D]Hallucinations, olfactory",res36: Schizophrenia spectrum,diagnostic
+Read,E1...00,Non-organic psychoses,res36: Schizophrenia spectrum,diagnostic
+Read,Eu2..00,"[X]Schizophrenia, schizotypal and delusional disorders",res36: Schizophrenia spectrum,diagnostic
+Read,Eu20.00,[X]Schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E105.00,Latent schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,1464.00,H/O: schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,665F.00,On injectable neuroleptic,res36: Schizophrenia spectrum,diagnostic
+Read,146H.00,H/O: psychosis,res36: Schizophrenia spectrum,diagnostic
+Read,665E.00,Injectable neuroleptic given,res36: Schizophrenia spectrum,diagnostic
+Read,1BH..11,Delusion,res36: Schizophrenia spectrum,diagnostic
+Read,1BH..00,Delusions,res36: Schizophrenia spectrum,diagnostic
+Read,1BH1.00,Grandiose delusions,res36: Schizophrenia spectrum,diagnostic
+Read,1BH0.00,Delusion of persecution,res36: Schizophrenia spectrum,diagnostic
+Read,286..11,Poor insight into psychotic condition,res36: Schizophrenia spectrum,diagnostic
+Read,1BH3.00,Paranoid ideation,res36: Schizophrenia spectrum,diagnostic
+Read,1BH2.00,Ideas of reference,res36: Schizophrenia spectrum,diagnostic
+Read,285..11,"Psychotic condition, insight present",res36: Schizophrenia spectrum,diagnostic
+Read,225F.00,O/E - delusion of persecution,res36: Schizophrenia spectrum,diagnostic
+Read,E101400,Acute exacerbation of chronic hebephrenic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E100200,Chronic schizophrenic,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20200,[X]Catatonic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E105000,Unspecified latent schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E101z00,Hebephrenic schizophrenia NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E100100,Subchronic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E100.00,Simple schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E100000,Unspecified schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E100.11,Schizophrenia simplex,res36: Schizophrenia spectrum,diagnostic
+Read,E100400,Acute exacerbation of chronic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20111,[X]Disorganised schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E100300,Acute exacerbation of subchronic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E100z00,Simple schizophrenia NOS,res36: Schizophrenia spectrum,diagnostic
+Read,E100500,Schizophrenia in remission,res36: Schizophrenia spectrum,diagnostic
+Read,E101000,Unspecified hebephrenic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20100,[X]Hebephrenic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,Eu20011,[X]Paraphrenic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E102500,Catatonic schizophrenia in remission,res36: Schizophrenia spectrum,diagnostic
+Read,E102.00,Catatonic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E101500,Hebephrenic schizophrenia in remission,res36: Schizophrenia spectrum,diagnostic
+Read,E102100,Subchronic catatonic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E102000,Unspecified catatonic schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E103200,Chronic paranoid schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E103.00,Paranoid schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E103000,Unspecified paranoid schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E103500,Paranoid schizophrenia in remission,res36: Schizophrenia spectrum,diagnostic
+Read,E103300,Acute exacerbation of subchronic paranoid schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E103400,Acute exacerbation of chronic paranoid schizophrenia,res36: Schizophrenia spectrum,diagnostic
+Read,E103z00,Paranoid schizophrenia NOS,res36: Schizophrenia spectrum,diagnostic

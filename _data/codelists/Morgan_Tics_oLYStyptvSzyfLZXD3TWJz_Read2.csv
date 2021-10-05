@@ -1,0 +1,18 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu95.00,[x]tic disorders,res59: Tics,diagnostic
+Read,1B24.00,has a tic,res59: Tics,diagnostic
+Read,Eu95z00,"[x]tic disorder, unspecified",res59: Tics,diagnostic
+Read,Eu95y00,[x]other tic disorders,res59: Tics,diagnostic
+Read,Eu95200,[x]comb vocal multiple motor tic disorder - de la tourette,res59: Tics,diagnostic
+Read,Eu95100,[x]chronic motor or vocal tic disorder,res59: Tics,diagnostic
+Read,E272.00,tics,res59: Tics,diagnostic
+Read,E272200,chronic motor tic disorder,res59: Tics,diagnostic
+Read,Eu95000,[x]transient tic disorder,res59: Tics,diagnostic
+Read,E272z00,tic nos,res59: Tics,diagnostic
+Read,2974.00,o/e - spasm/tic,res59: Tics,diagnostic
+Read,E272300,gilles de la tourette's disorder,res59: Tics,diagnostic
+Read,2974.12,o/e - tic,res59: Tics,diagnostic
+Read,E272000,tic disorder unspecified,res59: Tics,diagnostic
+Read,1B24.11,tic - symptom,res59: Tics,diagnostic
+Read,E272100,transient childhood tic,res59: Tics,diagnostic
+Read,F133.00,tics of organic origin,res59: Tics,diagnostic

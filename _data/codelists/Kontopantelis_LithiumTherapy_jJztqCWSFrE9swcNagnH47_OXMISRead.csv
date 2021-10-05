@@ -1,0 +1,19 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,L 130LA,LITHIUM LEVEL,lithium_therapy,diagnostic
+OXMIS,L 130L,SERUM LITHIUM LEVEL,lithium_therapy,diagnostic
+OXMIS,L 130LC,LITHIUM LEVEL THERAPEUTIC,lithium_therapy,diagnostic
+OXMIS,L 130LB,LITHIUM LEVEL LOW,lithium_therapy,diagnostic
+OXMIS,L 130LD,LITHIUM LEVEL HIGH,lithium_therapy,diagnostic
+Read,6657.11,Lithium monitoring,lithium_therapy,diagnostic
+Read,44W8.11,Lithium: blood level,lithium_therapy,diagnostic
+Read,44W8.00,Serum lithium level,lithium_therapy,diagnostic
+Read,44vE.00,Lithium level therapeutic,lithium_therapy,diagnostic
+Read,44W8200,Lithium level low,lithium_therapy,diagnostic
+Read,44W8000,Lithium level therapeutic,lithium_therapy,diagnostic
+Read,44W8100,Lithium level high - toxic,lithium_therapy,diagnostic
+Read,6657.00,On lithium,lithium_therapy,diagnostic
+Read,9859,TOXICITY LITHIUM,lithium_therapy,diagnostic
+Read,6657.12,Started lithium,lithium_therapy,diagnostic
+Read,665B.00,Lithium stopped,lithium_therapy,diagnostic
+Read,T3551CA,LITHIUM THERAPY,lithium_therapy,diagnostic
+Read,R105300,[D]Lithium; blood level abnormal,lithium_therapy,diagnostic

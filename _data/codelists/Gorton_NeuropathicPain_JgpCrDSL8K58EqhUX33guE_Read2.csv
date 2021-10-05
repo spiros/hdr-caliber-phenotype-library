@@ -1,0 +1,25 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,N242300,Neuropathic pain,res55: neuropathic_pain,diagnostic
+Read,F301z00,Trigeminal neuralgia NOS,res55: neuropathic_pain,diagnostic
+Read,A531200,Postherpetic trigeminal neuralgia,res55: neuropathic_pain,diagnostic
+Read,N242000,Neuralgia unspecified,res55: neuropathic_pain,diagnostic
+Read,N142000,Lumbago with sciatica,res55: neuropathic_pain,diagnostic
+Read,F370100,Postinfectious polyneuritis,res55: neuropathic_pain,diagnostic
+Read,FyuJ100,[X]Retrobulbar neuritis in diseases classified elsewhere,res55: neuropathic_pain,diagnostic
+Read,N143.00,Sciatica,res55: neuropathic_pain,diagnostic
+Read,N143.11,Acute back pain with sciatica,res55: neuropathic_pain,diagnostic
+Read,1475.00,H/O: trigeminal neuralgia,res55: neuropathic_pain,diagnostic
+Read,A531.11,Post-herpetic neuralgia,res55: neuropathic_pain,diagnostic
+Read,A531500,Postzoster neuralgia,res55: neuropathic_pain,diagnostic
+Read,A531511,Postherpetic neuralgia,res55: neuropathic_pain,diagnostic
+Read,F262100,Horton's (histamine) neuralgia,res55: neuropathic_pain,diagnostic
+Read,F262500,Periodic migrainous neuralgia,res55: neuropathic_pain,diagnostic
+Read,F300.00,Post-herpetic trigeminal neuralgia,res55: neuropathic_pain,diagnostic
+Read,F301.00,Other specified trigeminal neuralgia,res55: neuropathic_pain,diagnostic
+Read,F301000,Tic douloureux,res55: neuropathic_pain,diagnostic
+Read,F321.00,Glossopharyngeal neuralgia,res55: neuropathic_pain,diagnostic
+Read,F336000,Phantom limb syndrome with pain,res55: neuropathic_pain,diagnostic
+Read,F356100,Morton's neuralgia,res55: neuropathic_pain,diagnostic
+Read,F372000,Acute painful diabetic neuropathy,res55: neuropathic_pain,diagnostic
+Read,F372100,Chronic painful diabetic neuropathy,res55: neuropathic_pain,diagnostic
+Read,N242z00,"Neuralgia, neuritis or radiculitis NOS",res55: neuropathic_pain,diagnostic

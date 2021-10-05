@@ -1,0 +1,98 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,F250300       ,Epileptic seizures - akinetic ,res55: epilepsy,diagnostic
+Read, F254z00       ,Partial epilepsy with impairment of consciousness NOS ,res55: epilepsy,diagnostic
+Read,Eu05212,[X]Schizophrenia-like psychosis in epilepsy,res55: epilepsy,diagnostic
+Read,Eu06013        ,[X]Limbic epilepsy personality,res55: epilepsy,diagnostic
+Read, F255100 ,Sensory induced epilepsy ,res55: epilepsy,diagnostic
+Read,F255600        ,Simple partial epileptic seizure ,res55: epilepsy,diagnostic
+Read,F250500   ,Lennox-Gastaut syndrome,res55: epilepsy,diagnostic
+Read,2824.11,O/E - Jacksonian fit ,res55: epilepsy,diagnostic
+Read,F254400        ,Epileptic automatism,res55: epilepsy,diagnostic
+Read, F254.00     ,Partial epilepsy with impairment of consciousness ,res55: epilepsy,diagnostic
+Read,F256.12,West Syndrome,res55: epilepsy,diagnostic
+Read, F132100       ,Progressive myoclonic epilepsy ,res55: epilepsy,diagnostic
+Read, F255200       ,Somatosensory epilepsy ,res55: epilepsy,diagnostic
+Read, F254200    ,Psychosensory epilepsy ,res55: epilepsy,diagnostic
+Read, F251100       ,Neonatal myoclonic epilepsy ,res55: epilepsy,diagnostic
+Read,1B1W.00        ,Transient epileptic amnesia ,res55: epilepsy,diagnostic
+Read, F25y.00       ,Other forms of epilepsy ,res55: epilepsy,diagnostic
+Read,F259.00,Early infant epileptic encephalopathy with suppression bursts,res55: epilepsy,diagnostic
+Read, F251z00  ,Generalised convulsive epilepsy NOS ,res55: epilepsy,diagnostic
+Read, Eu80300       ,[X]Acquired aphasia with epilepsy [Landau - Kleffner] ,res55: epilepsy,diagnostic
+Read, F251y00       ,Other specified generalised convulsive epilepsy ,res55: epilepsy,diagnostic
+Read,F132200,Myoclonic encephalopathy,res55: epilepsy,diagnostic
+Read, F250z00       ,Generalised nonconvulsive epilepsy NOS ,res55: epilepsy,diagnostic
+Read,2825,O/E - psychomotor fit,res55: epilepsy,diagnostic
+Read,ZS82.00        , Acquired epileptic aphasia,res55: epilepsy,diagnostic
+Read,F251111,Otohara syndrome,res55: epilepsy,diagnostic
+Read,F256z00,Infantile Spasms NOS,res55: epilepsy,diagnostic
+Read,2824,O/E - focal (Jacksonian) fit,res55: epilepsy,diagnostic
+Read, F25D.00       ,Menstrual epilepsy ,res55: epilepsy,diagnostic
+Read,F25y000        ,Cursive (running) epilepsy ,res55: epilepsy,diagnostic
+Read, F255400       ,Visual reflex epilepsy ,res55: epilepsy,diagnostic
+Read,F25y500,Panayiotopoulos syndrome,res55: epilepsy,diagnostic
+Read,F257.00   ,Kojevnikov's epilepsy ,res55: epilepsy,diagnostic
+Read,Fyu5100        ,[X]Other epilepsy ,res55: epilepsy,diagnostic
+Read,F255012        ,Motor epilepsy ,res55: epilepsy,diagnostic
+Read,F255500        ,Unilateral epilepsy ,res55: epilepsy,diagnostic
+Read,Fyu5900       ,"[X]Status epilepticus, unspecified",res55: epilepsy,diagnostic
+Read,F252.00,Petit mal status,res55: epilepsy,diagnostic
+Read,F25G.00,Severe myoclonic epilepsy in infancy,res55: epilepsy,diagnostic
+Read,F25..00        ,Epilepsy,res55: epilepsy,diagnostic
+Read,F251000  ,Grand mal (major) epilepsy ,res55: epilepsy,diagnostic
+Read,F250011        ,Epileptic absences ,res55: epilepsy,diagnostic
+Read,F254000        ,Temporal lobe epilepsy ,res55: epilepsy,diagnostic
+Read,F25.z.11,Fit (in known epileptic) NOS,res55: epilepsy,diagnostic
+Read,1473,H/O: epilepsy ,res55: epilepsy,diagnostic
+Read,SC20000        ,Traumatic epilepsy ,res55: epilepsy,diagnostic
+Read,F256.00,Infantile Spasms,res55: epilepsy,diagnostic
+Read,667B.00        ,Nocturnal epilepsy ,res55: epilepsy,diagnostic
+Read,F251400       ,Epileptic seizures - tonic ,res55: epilepsy,diagnostic
+Read,F255011    ,Focal epilepsy ,res55: epilepsy,diagnostic
+Read,F25X.00        ,"Status epilepticus, unspecified",res55: epilepsy,diagnostic
+Read,2823,O/E - petit mal fit ,res55: epilepsy,diagnostic
+Read,2828,Absence seizure ,res55: epilepsy,diagnostic
+Read,F255000     ,"Jacksonian, focal or motor epilepsy",res55: epilepsy,diagnostic
+Read,F25yz00        ,Other forms of epilepsy NOS ,res55: epilepsy,diagnostic
+Read,F250.00        ,Generalised nonconvulsive epilepsy ,res55: epilepsy,diagnostic
+Read,F254500       ,Complex partial epileptic seizure,res55: epilepsy,diagnostic
+Read,F25y400        ,Benign Rolandic epilepsy ,res55: epilepsy,diagnostic
+Read, F25A.00       ,Juvenile myoclonic epilepsy ,res55: epilepsy,diagnostic
+Read,1O30.00        ,Epilepsy confirmed ,res55: epilepsy,diagnostic
+Read,667N.00        ,Epilepsy severity  ,res55: epilepsy,diagnostic
+Read,F256100,Salaam attacks,res55: epilepsy,diagnostic
+Read, F254100   ,Psychomotor epilepsy ,res55: epilepsy,diagnostic
+Read,F250200        ,Epileptic seizures - atonic ,res55: epilepsy,diagnostic
+Read,F25y300        ,Complex partial status epilepticus,res55: epilepsy,diagnostic
+Read, F255.00    ,Partial epilepsy without impairment of consciousness ,res55: epilepsy,diagnostic
+Read, F251.00       ,Generalised convulsive epilepsy ,res55: epilepsy,diagnostic
+Read,F255z00       ,Partial epilepsy without impairment of consciousness NOS ,res55: epilepsy,diagnostic
+Read, F25B.00  ,Alcohol-induced epilepsy  ,res55: epilepsy,diagnostic
+Read,F25F.00       ,Photosensitive epilepsy ,res55: epilepsy,diagnostic
+Read, F25C.00       ,Drug-induced epilepsy ,res55: epilepsy,diagnostic
+Read,F259.11,Ohtahara syndrome,res55: epilepsy,diagnostic
+Read,F25y100        ,Gelastic epilepsy ,res55: epilepsy,diagnostic
+Read, F254300       , Limbic system epilepsy ,res55: epilepsy,diagnostic
+Read,Fyu5200      ,[X]Other status epilepticus,res55: epilepsy,diagnostic
+Read, F250y00       ,Other specified generalised nonconvulsive epilepsy ,res55: epilepsy,diagnostic
+Read,ZS82.11   ,Landau-Kleffner syndrome ,res55: epilepsy,diagnostic
+Read, F25E.00       ,Stress-induced epilepsy ,res55: epilepsy,diagnostic
+Read,F255300        ,Visceral reflex epilepsy,res55: epilepsy,diagnostic
+Read,F255311     ,Partial epilepsy with autonomic symptoms ,res55: epilepsy,diagnostic
+Read,Fyu5000        ,[X]Other generalized epilepsy and epileptic syndromes ,res55: epilepsy,diagnostic
+Read,F256.11,Lightning spasms,res55: epilepsy,diagnostic
+Read,F251600,Grand mal seizure,res55: epilepsy,diagnostic
+Read,F256000,Hypsarrhthymia,res55: epilepsy,diagnostic
+Read,F250100,pykno-epilepsy,res55: epilepsy,diagnostic
+Read,F250000   ,Petit mal (minor) epilepsy ,res55: epilepsy,diagnostic
+Read, F255y00       ,Partial epilepsy without impairment of consciousness OS,res55: epilepsy,diagnostic
+Read,F251200      ,Epileptic seizures - clonic ,res55: epilepsy,diagnostic
+Read,Eu05y11,[X]Epileptic psychosis NOS,res55: epilepsy,diagnostic
+Read,F253.11       ,Status epilepticus ,res55: epilepsy,diagnostic
+Read,F253.00,Grand mal status,res55: epilepsy,diagnostic
+Read,F251300        ,Epileptic seizures - myoclonic ,res55: epilepsy,diagnostic
+Read,F250400        ,Juvenile absence epilepsy ,res55: epilepsy,diagnostic
+Read,F25y200  , Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset,res55: epilepsy,diagnostic
+Read,F25z.00        ,Epilepsy NOS,res55: epilepsy,diagnostic
+Read,F251500 ,Tonic-clonic epilepsy ,res55: epilepsy,diagnostic
+Read, F251011       ,Tonic-clonic epilepsy ,res55: epilepsy,diagnostic

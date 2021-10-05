@@ -1,0 +1,53 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,5199B,BRONCHOSPASM,hypotension drugs,drug
+OXMIS,5199AL,BRONCHOSPASM ALLERGIC,hypotension drugs,drug
+OXMIS,4580T,HYPOTENSION ORTHOSTATIC,hypotension drugs,drug
+OXMIS,4580AB,HYPOTENSION FIRST DOSE,hypotension drugs,drug
+OXMIS,2552,PHAEOCHROMOCYTOMA,hypotension drugs,drug
+OXMIS,4580A,POSTURAL HYPOTENSION,hypotension drugs,drug
+OXMIS,4279BR,SINUS BRADYCARDIA,hypotension drugs,drug
+OXMIS,4139PB,PRINZMETAL'S ANGINA,hypotension drugs,drug
+OXMIS,4580,HYPOTENSION,hypotension drugs,drug
+OXMIS,4279G,BRADYCARDIA,hypotension drugs,drug
+OXMIS,4279PK,SICK SINUS SYNDROME,hypotension drugs,drug
+OXMIS,9779PH,HYPOTENSION POSTURAL DRUG INDUCED,hypotension drugs,drug
+OXMIS,7886M,METABOLIC ACIDOSIS,hypotension drugs,drug
+Read,2422.11,O/E - bradycardia,hypotension drugs,drug
+Read,23D2.11,O/E - bronchospasm,hypotension drugs,drug
+Read,2422.00,O/E - pulse rate - bradycardia,hypotension drugs,drug
+Read,B540.11,Phaeochromocytoma,hypotension drugs,drug
+Read,G872.00,Idiopathic hypotension,hypotension drugs,drug
+Read,8624.00,Hypothermia with hypotension,hypotension drugs,drug
+Read,G871.00,Chronic hypotension,hypotension drugs,drug
+Read,G331.00,Prinzmetal's angina,hypotension drugs,drug
+Read,BBD9.00,[M]Phaeochromocytoma NOS,hypotension drugs,drug
+Read,B7H0000,Benign phaeochromocytoma,hypotension drugs,drug
+Read,F130300,Parkinsonism with orthostatic hypotension,hypotension drugs,drug
+Read,BBDA.00,[M]Phaeochromocytoma; malignant,hypotension drugs,drug
+Read,C362000,Metabolic acidosis NEC,hypotension drugs,drug
+Read,G870.11,Postural hypotension,hypotension drugs,drug
+Read,G57y100,Severe sinus bradycardia,hypotension drugs,drug
+Read,G57y000,Persistent sinus bradycardia,hypotension drugs,drug
+Read,G870.00,Orthostatic hypotension,hypotension drugs,drug
+Read,G57y300,Sick sinus syndrome,hypotension drugs,drug
+Read,G87..00,Hypotension,hypotension drugs,drug
+Read,R059.00,[D]Sinus bradycardia,hypotension drugs,drug
+Read,G873.00,Hypotension due to drugs,hypotension drugs,drug
+Read,R055100,[D]Cardiogenic shock,hypotension drugs,drug
+Read,L263A00,Maternal care for fetal bradycardia during pregnancy,hypotension drugs,drug
+Read,G87z.00,Hypotension NOS,hypotension drugs,drug
+Read,L263.12,Fetal bradycardia,hypotension drugs,drug
+Read,H5y1600,Bronchospasm,hypotension drugs,drug
+Read,Gyu9000,[X]Other hypotension,hypotension drugs,drug
+Read,H061200,Acute bronchiolitis with bronchospasm,hypotension drugs,drug
+Read,L392200,Maternal hypotension syndrome - delivered with p/n problem,hypotension drugs,drug
+Read,Q48C.00,Neonatal hypotension,hypotension drugs,drug
+Read,L392100,Maternal hypotension syndrome - delivered,hypotension drugs,drug
+Read,L392.00,Maternal hypotension syndrome,hypotension drugs,drug
+Read,L392000,Maternal hypotension syndrome unspecified,hypotension drugs,drug
+Read,L392300,Maternal hypotension syndrome with antenatal problem,hypotension drugs,drug
+Read,Q448.00,Newborn late metabolic acidosis,hypotension drugs,drug
+Read,L392z00,Maternal hypotension syndrome NOS,hypotension drugs,drug
+Read,L392400,Maternal hypotension syndrome with postnatal problem,hypotension drugs,drug
+Read,R05W.00,[D] Bradycardia; unspecified,hypotension drugs,drug
+Read,Ryu0600,[X]Bradycardia; unspecified,hypotension drugs,drug

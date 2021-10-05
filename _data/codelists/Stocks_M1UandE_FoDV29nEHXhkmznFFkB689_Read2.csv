@@ -1,0 +1,90 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,44J5.00,Renal profile,res25: M1_U&E,test
+Read,44J6.00,Albumin excretion rate,res25: M1_U&E,test
+Read,44J7.00,Albumin / creatinine ratio,res25: M1_U&E,test
+Read,44I7000,Serum bicarbonate level normal,res25: M1_U&E,test
+Read,44J8.11,Urea - blood,res25: M1_U&E,test
+Read,4513,Creatinine clearance-glom filt,res25: M1_U&E,test
+Read,44i2.00,Plasma inorganic phosphate level,res25: M1_U&E,test
+Read,44J..13,Serum urea level,res25: M1_U&E,test
+Read,44JA.00,Plasma urea level,res25: M1_U&E,test
+Read,44h0.00,Blood potassium level,res25: M1_U&E,test
+Read,44J..12,Urea and electrolytes,res25: M1_U&E,test
+Read,44J..11,Urea - blood,res25: M1_U&E,test
+Read,4513.11,Creatinine clearance,res25: M1_U&E,test
+Read,44J..00,Blood urea/renal function,res25: M1_U&E,test
+Read,44J9.00,Serum urea level,res25: M1_U&E,test
+Read,44J3000,Serum creatinine abnormal,res25: M1_U&E,test
+Read,44J3.00,Serum creatinine,res25: M1_U&E,test
+Read,44J1.00,Blood urea normal,res25: M1_U&E,test
+Read,44J2.00,Blood urea abnormal,res25: M1_U&E,test
+Read,44J3z00,Serum creatinine NOS,res25: M1_U&E,test
+Read,44J3100,Serum creatinine low,res25: M1_U&E,test
+Read,44J3300,Serum creatinine raised,res25: M1_U&E,test
+Read,44J3200,Serum creatinine normal,res25: M1_U&E,test
+Read,44JD.00,Corrected serum creatinine level,res25: M1_U&E,test
+Read,44h..00,Blood electrolyte levels,res25: M1_U&E,test
+Read,44JH.00,Plasma osmolality,res25: M1_U&E,test
+Read,44JC.00,Corrected plasma creatinine level,res25: M1_U&E,test
+Read,44JG.00,Overnight albumin excretion rate,res25: M1_U&E,test
+Read,44JF.00,Plasma creatinine level,res25: M1_U&E,test
+Read,44JE.00,Peritoneal equilibration test,res25: M1_U&E,test
+Read,451F.00,Glomerular filtration rate,res25: M1_U&E,test
+Read,4412000,Urea and electrolytes normal,res25: M1_U&E,test
+Read,451E.00,GFR calculated abbreviated MDRD,res25: M1_U&E,test
+Read,44JZ.00,Blood urea/renal function NOS,res25: M1_U&E,test
+Read,4Q40.00,Creatinine level,res25: M1_U&E,test
+Read,451G.00,GFR calculated abbreviated MDRD adj for African Americ orign,res25: M1_U&E,test
+Read,44JB.00,Urea and electrolytes,res25: M1_U&E,test
+Read,44I7.00,Serum bicarbonate,res25: M1_U&E,test
+Read,44h6.00,Plasma sodium level,res25: M1_U&E,test
+Read,44I6100,Serum chloride level abnormal,res25: M1_U&E,test
+Read,44h5.00,Blood inorganic phosphate level,res25: M1_U&E,test
+Read,44h2.00,Blood chloride level,res25: M1_U&E,test
+Read,44h1.00,Blood sodium level,res25: M1_U&E,test
+Read,44h4.00,Blood calcium level,res25: M1_U&E,test
+Read,44h3.00,Blood bicarbonate level,res25: M1_U&E,test
+Read,44I..00,Serum electrolytes,res25: M1_U&E,test
+Read,44h8.00,Plasma potassium level,res25: M1_U&E,test
+Read,44hD.00,Blood ionised calcium level,res25: M1_U&E,test
+Read,44h7.00,Plasma calcium level,res25: M1_U&E,test
+Read,44hC.00,Standard bicarbonate level,res25: M1_U&E,test
+Read,44h9.00,Plasma corrected calcium level,res25: M1_U&E,test
+Read,44hB.00,Actual bicarbonate level,res25: M1_U&E,test
+Read,44hA.00,Blood total carbon dioxide (calculated),res25: M1_U&E,test
+Read,44I4.00,Serum potassium,res25: M1_U&E,test
+Read,44i0.00,Plasma bicarbonate level,res25: M1_U&E,test
+Read,44i..00,Plasma electrolyte levels,res25: M1_U&E,test
+Read,44I3.00,Electrolytes abnormal,res25: M1_U&E,test
+Read,44I0.00,,res25: M1_U&E,test
+Read,44I6000,Serum chloride level normal,res25: M1_U&E,test
+Read,44I1.00,Blood sent for electrolytes,res25: M1_U&E,test
+Read,44i1.00,Plasma chloride level,res25: M1_U&E,test
+Read,44I4100,Raised serum potassium level,res25: M1_U&E,test
+Read,44I4000,Normal serum potassium level,res25: M1_U&E,test
+Read,44I6.00,Serum chloride,res25: M1_U&E,test
+Read,44I4200,Low serum potassium level,res25: M1_U&E,test
+Read,44I5100,Serum sodium level abnormal,res25: M1_U&E,test
+Read,44I5000,Serum sodium level normal,res25: M1_U&E,test
+Read,44I5.00,Serum sodium,res25: M1_U&E,test
+Read,44I9100,Serum phosphate level abnormal,res25: M1_U&E,test
+Read,44I8000,Normal serum calcium level,res25: M1_U&E,test
+Read,44I9000,Serum phosphate level normal,res25: M1_U&E,test
+Read,44I9.00,Serum inorganic phosphate,res25: M1_U&E,test
+Read,44I8100,Raised serum calcium level,res25: M1_U&E,test
+Read,44IB.00,Serum anion gap,res25: M1_U&E,test
+Read,44IZ.00,Serum electrolytes NOS,res25: M1_U&E,test
+Read,44IA.00,Plasma anion gap,res25: M1_U&E,test
+Read,44IF.00,Urine chromatography,res25: M1_U&E,test
+Read,44IC.11,Adjusted serum calcium level,res25: M1_U&E,test
+Read,44IC.00,Corrected serum calcium level,res25: M1_U&E,test
+Read,44IE.00,Serum ionized calcium (pH 7.4) level,res25: M1_U&E,test
+Read,44ID.00,Serum ionised calcium level,res25: M1_U&E,test
+Read,4Q42.00,Potassium level,res25: M1_U&E,test
+Read,4Q43.00,Sodium level,res25: M1_U&E,test
+Read,44I2.00,Electrolytes normal,res25: M1_U&E,test
+Read,4412100,Urea and electrolytes abnormal,res25: M1_U&E,test
+Read,44I7100,Serum bicarbonate level abnormal,res25: M1_U&E,test
+Read,44I8.00,Serum calcium,res25: M1_U&E,test
+Read,44J8.00,Blood urea,res25: M1_U&E,test
+Read,44J4.00,Serum osmolality,res25: M1_U&E,test

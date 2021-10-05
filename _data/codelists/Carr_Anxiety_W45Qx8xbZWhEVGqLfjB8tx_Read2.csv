@@ -1,0 +1,311 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu44.11,[X]Conversion hysteria,res36: Anxiety,diagnostic
+Read,E294.00,Adjustment reaction with disturbance emotion and conduct,res36: Anxiety,diagnostic
+Read,Eu44412,[X]Psychogenic dysphonia,res36: Anxiety,diagnostic
+Read,225J.00,O/E - panic attack,res36: Anxiety,diagnostic
+Read,8G52.00,Antiphobic therapy,res36: Anxiety,diagnostic
+Read,E20y000,Somatization disorder,res36: Anxiety,diagnostic
+Read,Eu45317,[X]Psychogenic diarrhoea,res36: Anxiety,diagnostic
+Read,E201.00,Hysteria,res36: Anxiety,diagnostic
+Read,E200z00,Anxiety state NOS,res36: Anxiety,diagnostic
+Read,E200500,Recurrent anxiety,res36: Anxiety,diagnostic
+Read,E29..00,Adjustment reaction,res36: Anxiety,diagnostic
+Read,Eu44.00,[X]Dissociative [conversion] disorders,res36: Anxiety,diagnostic
+Read,E290000,Grief reaction,res36: Anxiety,diagnostic
+Read,Eu43111,[X]Traumatic neurosis,res36: Anxiety,diagnostic
+Read,E28z.12,Flying phobia,res36: Anxiety,diagnostic
+Read,Eu43z00,"[X]Reaction to severe stress, unspecified",res36: Anxiety,diagnostic
+Read,Eu43200,[X]Adjustment disorders,res36: Anxiety,diagnostic
+Read,Eu44411,[X]Psychogenic aphonia,res36: Anxiety,diagnostic
+Read,Eu44.12,[X]Conversion reaction,res36: Anxiety,diagnostic
+Read,Eu44.13,[X]Hysteria,res36: Anxiety,diagnostic
+Read,Eu44400,[X]Dissociative motor disorders,res36: Anxiety,diagnostic
+Read,Eu44000,[X]Dissociative amnesia,res36: Anxiety,diagnostic
+Read,Eu44300,[X]Trance and possession disorders,res36: Anxiety,diagnostic
+Read,Eu44200,[X]Dissociative stupor,res36: Anxiety,diagnostic
+Read,Eu44100,[X]Dissociative fugue,res36: Anxiety,diagnostic
+Read,E26z.00,Psychosomatic disorder NOS,res36: Anxiety,diagnostic
+Read,Eu44611,[X]Psychogenic deafness,res36: Anxiety,diagnostic
+Read,Eu45316,[X]Psychogenic cough,res36: Anxiety,diagnostic
+Read,Eu45000,[X]Somatization disorder,res36: Anxiety,diagnostic
+Read,Eu44600,[X]Dissociative anaesthesia and sensory loss,res36: Anxiety,diagnostic
+Read,Eu44511,[X]Pseudoseizures,res36: Anxiety,diagnostic
+Read,E278111,Muscular headache,res36: Anxiety,diagnostic
+Read,Eu44500,[X]Dissociative convulsions,res36: Anxiety,diagnostic
+Read,Eu44z00,"[X]Dissociative [conversion] disorder, unspecified",res36: Anxiety,diagnostic
+Read,Eu45.00,[X]Somatoform disorders,res36: Anxiety,diagnostic
+Read,Eu44y11,[X]Ganser's syndrome,res36: Anxiety,diagnostic
+Read,Eu44y00,[X]Other dissociative [conversion] disorders,res36: Anxiety,diagnostic
+Read,Eu44700,[X]Mixed dissociative [conversion] disorders,res36: Anxiety,diagnostic
+Read,Eu44y13,[X]Psychogenic confusion,res36: Anxiety,diagnostic
+Read,Eu44y14,[X]Psychogenic twilight state,res36: Anxiety,diagnostic
+Read,Eu44y12,[X]Multiple personality,res36: Anxiety,diagnostic
+Read,Eu45314,[X]Neurocirculatory asthenia,res36: Anxiety,diagnostic
+Read,Eu45100,[X]Undifferentiated somatoform disorder,res36: Anxiety,diagnostic
+Read,Eu45011,[X]Multiple psychosomatic disorder,res36: Anxiety,diagnostic
+Read,Eu45012,[X]Briquet's syndrome,res36: Anxiety,diagnostic
+Read,Eu45111,[X]Undifferentiated psychosomatic disorder,res36: Anxiety,diagnostic
+Read,Eu45313,[X]Gastric neurosis,res36: Anxiety,diagnostic
+Read,Eu45213,[X]Hypochondriacal neurosis,res36: Anxiety,diagnostic
+Read,Eu45312,[X]Da Costa's syndrome,res36: Anxiety,diagnostic
+Read,Eu45200,[X]Hypochondriacal disorder,res36: Anxiety,diagnostic
+Read,Eu45212,[X]Dysmorphophobia nondelusional,res36: Anxiety,diagnostic
+Read,Eu45211,[X]Body dysmorphic disorder,res36: Anxiety,diagnostic
+Read,Eu45214,[X]Hypochondriasis,res36: Anxiety,diagnostic
+Read,Eu45215,[X]Nosophobia,res36: Anxiety,diagnostic
+Read,Eu45311,[X]Cardiac neurosis,res36: Anxiety,diagnostic
+Read,Eu45300,[X]Somatoform autonomic dysfunction,res36: Anxiety,diagnostic
+Read,Eu46100,[X]Depersonalization - derealization syndrome,res36: Anxiety,diagnostic
+Read,Eu45323,[X]Psychogenic freq micturit,res36: Anxiety,diagnostic
+Read,Eu45500,[X]Globus pharyngeus,res36: Anxiety,diagnostic
+Read,Eu43100,[X]Post - traumatic stress disorder,res36: Anxiety,diagnostic
+Read,Eu45322,[X]Psychogenic hyperventilat,res36: Anxiety,diagnostic
+Read,Eu45321,[X]Psychogenic hiccough,res36: Anxiety,diagnostic
+Read,Eu45320,[X]Psychogenic flatulence,res36: Anxiety,diagnostic
+Read,Eu45318,[X]Psychogenic dyspepsia,res36: Anxiety,diagnostic
+Read,Eu45319,[X]Psychogenic dysuria,res36: Anxiety,diagnostic
+Read,Eu45414,[X]Somatoform pain disorder,res36: Anxiety,diagnostic
+Read,Eu45324,[X]Psychogenic IBS,res36: Anxiety,diagnostic
+Read,Eu45325,[X]Psychogenic pylorospasm,res36: Anxiety,diagnostic
+Read,Eu45400,[X]Persistent somatoform pain disorder,res36: Anxiety,diagnostic
+Read,Eu45411,[X]Psychalgia,res36: Anxiety,diagnostic
+Read,Eu45413,[X]Psychogenic headache,res36: Anxiety,diagnostic
+Read,Eu45412,[X]Psychogenic backache,res36: Anxiety,diagnostic
+Read,Eu46011,[X]Fatigue syndrome,res36: Anxiety,diagnostic
+Read,Eu45z11,[X]Psychosomatic disorder NOS,res36: Anxiety,diagnostic
+Read,Eu45511,[X]Globus hystericus,res36: Anxiety,diagnostic
+Read,Eu45z00,"[X]Somatoform disorder, unspecified",res36: Anxiety,diagnostic
+Read,Eu45y00,[X]Other somatoform disorders,res36: Anxiety,diagnostic
+Read,Eu45y11,[X]Psychogenic dysmenorrhoea,res36: Anxiety,diagnostic
+Read,2258.00,O/E - anxious,res36: Anxiety,diagnostic
+Read,Eu45y12,[X]Globus hystericus,res36: Anxiety,diagnostic
+Read,Eu45y14,[X]Psychogenic torticollis,res36: Anxiety,diagnostic
+Read,Eu45y13,[X]Psychogenic pruritis,res36: Anxiety,diagnostic
+Read,Eu46000,[X]Neurasthenia,res36: Anxiety,diagnostic
+Read,Eu46.00,[X]Other neurotic disorders,res36: Anxiety,diagnostic
+Read,Eu46y12,[X]Dhat syndrome,res36: Anxiety,diagnostic
+Read,Eu46y16,[X]Psychogenic syncope,res36: Anxiety,diagnostic
+Read,Eu46y11,[X]Briquet's disorder,res36: Anxiety,diagnostic
+Read,Eu46y00,[X]Other specified neurotic disorders,res36: Anxiety,diagnostic
+Read,Eu46y15,[X]Psychasthenia neurosis,res36: Anxiety,diagnostic
+Read,Eu46y13,"[X]Occupational neurosis, including writer's cramp",res36: Anxiety,diagnostic
+Read,Eu46y14,[X]Psychasthenia,res36: Anxiety,diagnostic
+Read,Eu46z00,"[X]Neurotic disorder, unspecified",res36: Anxiety,diagnostic
+Read,Eu93000,[X]Separation anxiety disorder of childhood,res36: Anxiety,diagnostic
+Read,Eu51511,[X]Dream anxiety disorder,res36: Anxiety,diagnostic
+Read,Eu46z11,[X]Neurosis NOS,res36: Anxiety,diagnostic
+Read,Eu93100,[X]Phobic anxiety disorder of childhood,res36: Anxiety,diagnostic
+Read,Eu93y12,[X]Childhood overanxious disorder,res36: Anxiety,diagnostic
+Read,Eu93200,[X]Social anxiety disorder of childhood,res36: Anxiety,diagnostic
+Read,Z4L1.00,Anxiety counselling,res36: Anxiety,diagnostic
+Read,ZS7C700,Post-traumatic mutism,res36: Anxiety,diagnostic
+Read,Eu41012,[X]Panic state,res36: Anxiety,diagnostic
+Read,Eu43015,[X]Psychic shock,res36: Anxiety,diagnostic
+Read,E28..11,Combat fatigue,res36: Anxiety,diagnostic
+Read,Eu43000,[X]Acute stress reaction,res36: Anxiety,diagnostic
+Read,E28..00,Acute reaction to stress,res36: Anxiety,diagnostic
+Read,E283.00,Other acute stress reactions,res36: Anxiety,diagnostic
+Read,E282.00,Acute stupor state due to acute stress reaction,res36: Anxiety,diagnostic
+Read,E280.00,Acute panic state due to acute stress reaction,res36: Anxiety,diagnostic
+Read,E281.00,Acute fugue state due to acute stress reaction,res36: Anxiety,diagnostic
+Read,E283100,Acute posttrauma stress state,res36: Anxiety,diagnostic
+Read,E283000,Acute situational disturbance,res36: Anxiety,diagnostic
+Read,E28z.00,Acute stress reaction NOS,res36: Anxiety,diagnostic
+Read,E283z00,Other acute stress reaction NOS,res36: Anxiety,diagnostic
+Read,E284.00,Stress reaction causing mixed disturbance of emotion/conduct,res36: Anxiety,diagnostic
+Read,E263.00,Psychogenic skin symptoms,res36: Anxiety,diagnostic
+Read,Eu43.00,"[X]Reaction to severe stress, and adjustment disorders",res36: Anxiety,diagnostic
+Read,Eu41y11,[X]Anxiety hysteria,res36: Anxiety,diagnostic
+Read,Eu41211,[X]Mild anxiety depression,res36: Anxiety,diagnostic
+Read,Eu41300,[X]Other mixed anxiety disorders,res36: Anxiety,diagnostic
+Read,E200200,Generalised anxiety disorder,res36: Anxiety,diagnostic
+Read,Eu43014,[X]Crisis state,res36: Anxiety,diagnostic
+Read,E29y.00,Other adjustment reactions,res36: Anxiety,diagnostic
+Read,Eu45y15,[X]Teeth-grinding,res36: Anxiety,diagnostic
+Read,E263000,Psychogenic pruritus,res36: Anxiety,diagnostic
+Read,Eu42z00,"[X]Obsessive-compulsive disorder, unspecified",res36: Anxiety,diagnostic
+Read,E29y500,Other adjustment reaction with withdrawal,res36: Anxiety,diagnostic
+Read,E29yz00,Other adjustment reactions NOS,res36: Anxiety,diagnostic
+Read,E201600,Other conversion disorder,res36: Anxiety,diagnostic
+Read,E205.12,Tired all the time,res36: Anxiety,diagnostic
+Read,E278z00,Psychalgia NOS,res36: Anxiety,diagnostic
+Read,E2y..00,Other specified neuroses or other mental disorders,res36: Anxiety,diagnostic
+Read,E200300,Anxiety with depression,res36: Anxiety,diagnostic
+Read,E292311,Specific academic or work inhibition,res36: Anxiety,diagnostic
+Read,E292y00,Adjustment reaction with mixed disturbance of emotion,res36: Anxiety,diagnostic
+Read,E292100,Adolescent emancipation disorder,res36: Anxiety,diagnostic
+Read,E292500,Culture shock,res36: Anxiety,diagnostic
+Read,Eu41111,[X]Anxiety neurosis,res36: Anxiety,diagnostic
+Read,E292312,Specific work inhibition,res36: Anxiety,diagnostic
+Read,Eu43011,[X]Acute crisis reaction,res36: Anxiety,diagnostic
+Read,E20y011,Briquet's disorder,res36: Anxiety,diagnostic
+Read,Eu41112,[X]Anxiety reaction,res36: Anxiety,diagnostic
+Read,E263z00,Psychogenic skin symptoms NOS,res36: Anxiety,diagnostic
+Read,E201511,Fit - hysterical,res36: Anxiety,diagnostic
+Read,Eu41113,[X]Anxiety state,res36: Anxiety,diagnostic
+Read,E20..00,Neurotic disorders,res36: Anxiety,diagnostic
+Read,E200100,Panic disorder,res36: Anxiety,diagnostic
+Read,E202E00,Fear of pregnancy,res36: Anxiety,diagnostic
+Read,E201500,Hysterical seizures,res36: Anxiety,diagnostic
+Read,E201400,Hysterical paralysis,res36: Anxiety,diagnostic
+Read,E200111,Panic attack,res36: Anxiety,diagnostic
+Read,8HHp.00,Referral for guided self-help for anxiety,res36: Anxiety,diagnostic
+Read,8G94.00,Anxiety management training,res36: Anxiety,diagnostic
+Read,E201300,Hysterical tremor,res36: Anxiety,diagnostic
+Read,E2...00,"Neurotic, personality and other nonpsychotic disorders",res36: Anxiety,diagnostic
+Read,E200000,Anxiety state unspecified,res36: Anxiety,diagnostic
+Read,E201200,Hysterical deafness,res36: Anxiety,diagnostic
+Read,E200400,Chronic anxiety,res36: Anxiety,diagnostic
+Read,E201100,Hysterical blindness,res36: Anxiety,diagnostic
+Read,E201000,Hysteria unspecified,res36: Anxiety,diagnostic
+Read,E201612,Globus hystericus,res36: Anxiety,diagnostic
+Read,E201z13,Ganser's syndrome - hysterical,res36: Anxiety,diagnostic
+Read,E201611,"Astasia - abasia, hysterical",res36: Anxiety,diagnostic
+Read,E203100,Obsessional neurosis,res36: Anxiety,diagnostic
+Read,E278.00,Psychalgia,res36: Anxiety,diagnostic
+Read,Eu41100,[X]Generalized anxiety disorder,res36: Anxiety,diagnostic
+Read,E201z12,Ataxia - hysterical,res36: Anxiety,diagnostic
+Read,E201900,Multiple personality,res36: Anxiety,diagnostic
+Read,E201z11,Aphonia - hysterical,res36: Anxiety,diagnostic
+Read,E201B00,Compensation neurosis,res36: Anxiety,diagnostic
+Read,E265200,Psychogenic dysmenorrhea,res36: Anxiety,diagnostic
+Read,E203000,Compulsive neurosis,res36: Anxiety,diagnostic
+Read,E202400,"Social phobia, fear of public speaking",res36: Anxiety,diagnostic
+Read,E202.00,Phobic disorders,res36: Anxiety,diagnostic
+Read,E278000,Psychogenic pain unspecified,res36: Anxiety,diagnostic
+Read,E202300,"Social phobia, fear of eating in public",res36: Anxiety,diagnostic
+Read,E202200,Agoraphobia without mention of panic attacks,res36: Anxiety,diagnostic
+Read,E203.11,Anancastic neurosis,res36: Anxiety,diagnostic
+Read,E202A00,Fear of flying,res36: Anxiety,diagnostic
+Read,E202600,Acrophobia,res36: Anxiety,diagnostic
+Read,E202900,Fear of crowds,res36: Anxiety,diagnostic
+Read,E203.00,Obsessive-compulsive disorders,res36: Anxiety,diagnostic
+Read,E202D00,Fear of death,res36: Anxiety,diagnostic
+Read,E202z11,Weight fixation,res36: Anxiety,diagnostic
+Read,E261300,Psychogenic hyperventilation,res36: Anxiety,diagnostic
+Read,E261200,Psychogenic hiccough,res36: Anxiety,diagnostic
+Read,E20y.00,Other neurotic disorders,res36: Anxiety,diagnostic
+Read,E207.00,Hypochondriasis,res36: Anxiety,diagnostic
+Read,E205.00,Neurasthenia - nervous debility,res36: Anxiety,diagnostic
+Read,E206.00,Depersonalisation syndrome,res36: Anxiety,diagnostic
+Read,E260000,Psychogenic paralysis,res36: Anxiety,diagnostic
+Read,E260.00,Psychogenic musculoskeletal symptoms,res36: Anxiety,diagnostic
+Read,E20y200,Other occupational neurosis,res36: Anxiety,diagnostic
+Read,E20y100,Writer's cramp neurosis,res36: Anxiety,diagnostic
+Read,E26..00,Physiological malfunction arising from mental factors,res36: Anxiety,diagnostic
+Read,E20yz00,Other neurotic disorder NOS,res36: Anxiety,diagnostic
+Read,E20z.11,Nervous breakdown,res36: Anxiety,diagnostic
+Read,E260z00,Psychogenic musculoskeletal symptoms NOS,res36: Anxiety,diagnostic
+Read,E261100,Psychogenic cough,res36: Anxiety,diagnostic
+Read,E260100,Psychogenic torticollis,res36: Anxiety,diagnostic
+Read,E261000,Psychogenic air hunger,res36: Anxiety,diagnostic
+Read,E261.00,Psychogenic respiratory symptoms,res36: Anxiety,diagnostic
+Read,E264000,Psychogenic aerophagy,res36: Anxiety,diagnostic
+Read,E261500,Psychogenic aphonia,res36: Anxiety,diagnostic
+Read,E265100,Psychogenic vaginismus,res36: Anxiety,diagnostic
+Read,E261400,Psychogenic yawning,res36: Anxiety,diagnostic
+Read,E264.11,Globus abdominalis,res36: Anxiety,diagnostic
+Read,E262000,Cardiac neurosis,res36: Anxiety,diagnostic
+Read,E262.00,Psychogenic cardiovascular symptoms,res36: Anxiety,diagnostic
+Read,E261z00,Psychogenic respiratory symptom NOS,res36: Anxiety,diagnostic
+Read,E264.00,Psychogenic gastrointestinal tract symptoms,res36: Anxiety,diagnostic
+Read,E262200,Neurocirculatory asthenia,res36: Anxiety,diagnostic
+Read,E262z00,Psychogenic cardiovascular symptom NOS,res36: Anxiety,diagnostic
+Read,E262300,Psychogenic cardiovascular disorder,res36: Anxiety,diagnostic
+Read,E265.00,Psychogenic genitourinary tract symptoms,res36: Anxiety,diagnostic
+Read,E264500,Psychogenic constipation,res36: Anxiety,diagnostic
+Read,E264011,Air swallowing - excessive,res36: Anxiety,diagnostic
+Read,E264400,Psychogenic dyspepsia,res36: Anxiety,diagnostic
+Read,E264200,Cyclical vomiting - psychogenic,res36: Anxiety,diagnostic
+Read,E264311,Spurious diarrhoea,res36: Anxiety,diagnostic
+Read,E264300,Psychogenic diarrhoea,res36: Anxiety,diagnostic
+Read,E264z00,Psychogenic gastrointestinal tract symptom NOS,res36: Anxiety,diagnostic
+Read,E293200,Adjustment reaction with destructiveness,res36: Anxiety,diagnostic
+Read,E267.00,Psychogenic symptom of special sense organ,res36: Anxiety,diagnostic
+Read,E293100,Adjustment reaction with antisocial behaviour,res36: Anxiety,diagnostic
+Read,E265z00,Psychogenic genitourinary tract symptom NOS,res36: Anxiety,diagnostic
+Read,E28z.11,Examination fear,res36: Anxiety,diagnostic
+Read,E292000,Separation anxiety disorder,res36: Anxiety,diagnostic
+Read,E265300,Psychogenic dysuria,res36: Anxiety,diagnostic
+Read,E292.00,"Adjustment reaction, predominant disturbance other emotions",res36: Anxiety,diagnostic
+Read,E28z.13,Stage fright,res36: Anxiety,diagnostic
+Read,E290011,Bereavement reaction,res36: Anxiety,diagnostic
+Read,E292300,Specific academic or work inhibition,res36: Anxiety,diagnostic
+Read,E293000,Adjustment reaction with aggression,res36: Anxiety,diagnostic
+Read,E292200,Early adult emancipation disorder,res36: Anxiety,diagnostic
+Read,E293.00,Adjustment reaction with predominant disturbance of conduct,res36: Anxiety,diagnostic
+Read,E292400,Adjustment reaction with anxious mood,res36: Anxiety,diagnostic
+Read,E292z00,Adjustment reaction with disturbance of other emotion NOS,res36: Anxiety,diagnostic
+Read,Eu40y00,[X]Other phobic anxiety disorders,res36: Anxiety,diagnostic
+Read,E29y200,Adjustment reaction with physical symptoms,res36: Anxiety,diagnostic
+Read,Eu40000,[X]Agoraphobia,res36: Anxiety,diagnostic
+Read,Eu41011,[X]Panic attack,res36: Anxiety,diagnostic
+Read,E29y100,Other post-traumatic stress disorder,res36: Anxiety,diagnostic
+Read,E26yz00,Other psychogenic malfunction NOS,res36: Anxiety,diagnostic
+Read,E29y000,Concentration camp syndrome,res36: Anxiety,diagnostic
+Read,E29z.00,Adjustment reaction NOS,res36: Anxiety,diagnostic
+Read,E29y400,Adjustment reaction due to hospitalisation,res36: Anxiety,diagnostic
+Read,E29y300,Elective mutism due to an adjustment reaction,res36: Anxiety,diagnostic
+Read,Eu40.00,[X]Phobic anxiety disorders,res36: Anxiety,diagnostic
+Read,Eu4..00,"[X]Neurotic, stress - related and somoform disorders",res36: Anxiety,diagnostic
+Read,E2z..00,Neuroses or other mental disorder NOS,res36: Anxiety,diagnostic
+Read,Eu34114,[X]Persistant anxiety depression,res36: Anxiety,diagnostic
+Read,Eu40300,[X]Needle phobia,res36: Anxiety,diagnostic
+Read,Eu40100,[X]Social phobias,res36: Anxiety,diagnostic
+Read,Eu40212,[X]Animal phobias,res36: Anxiety,diagnostic
+Read,Eu40012,[X]Panic disorder with agoraphobia,res36: Anxiety,diagnostic
+Read,Eu40211,[X]Acrophobia,res36: Anxiety,diagnostic
+Read,Eu40200,[X]Specific (isolated) phobias,res36: Anxiety,diagnostic
+Read,Eu40214,[X]Simple phobia,res36: Anxiety,diagnostic
+Read,Eu40213,[X]Claustrophobia,res36: Anxiety,diagnostic
+Read,Eu41.00,[X]Other anxiety disorders,res36: Anxiety,diagnostic
+Read,E26y000,Bruxism (teeth grinding),res36: Anxiety,diagnostic
+Read,Eu40z00,"[X]Phobic anxiety disorder, unspecified",res36: Anxiety,diagnostic
+Read,Eu41000,[X]Panic disorder [episodic paroxysmal anxiety],res36: Anxiety,diagnostic
+Read,Eu40z11,[X]Phobia NOS,res36: Anxiety,diagnostic
+Read,Eu40z12,[X]Phobic state NOS,res36: Anxiety,diagnostic
+Read,E26y.00,Other psychogenic malfunction,res36: Anxiety,diagnostic
+Read,Eu41200,[X]Mixed anxiety and depressive disorder,res36: Anxiety,diagnostic
+Read,E278100,Tension headache,res36: Anxiety,diagnostic
+Read,E202z00,Phobic disorder NOS,res36: Anxiety,diagnostic
+Read,E202800,Claustrophobia,res36: Anxiety,diagnostic
+Read,Eu41z11,[X]Anxiety NOS,res36: Anxiety,diagnostic
+Read,Eu41y00,[X]Other specified anxiety disorders,res36: Anxiety,diagnostic
+Read,E202B00,Cancer phobia,res36: Anxiety,diagnostic
+Read,E202C00,Dental phobia,res36: Anxiety,diagnostic
+Read,Eu43012,[X]Acute reaction to stress,res36: Anxiety,diagnostic
+Read,E201A00,Dissociative reaction unspecified,res36: Anxiety,diagnostic
+Read,E202100,Agoraphobia with panic attacks,res36: Anxiety,diagnostic
+Read,Eu43y00,[X]Other reactions to severe stress,res36: Anxiety,diagnostic
+Read,Eu42y00,[X]Other obsessive-compulsive disorders,res36: Anxiety,diagnostic
+Read,Eu42.00,[X]Obsessive - compulsive disorder,res36: Anxiety,diagnostic
+Read,Eu40112,[X]Social neurosis,res36: Anxiety,diagnostic
+Read,Eu41z00,"[X]Anxiety disorder, unspecified",res36: Anxiety,diagnostic
+Read,E202500,"Social phobia, fear of public washing",res36: Anxiety,diagnostic
+Read,E202700,Animal phobia,res36: Anxiety,diagnostic
+Read,E201z00,Hysteria NOS,res36: Anxiety,diagnostic
+Read,E202000,Phobia unspecified,res36: Anxiety,diagnostic
+Read,E201C00,Phantom pregnancy,res36: Anxiety,diagnostic
+Read,Eu43013,[X]Combat fatigue,res36: Anxiety,diagnostic
+Read,E205.11,Nervous exhaustion,res36: Anxiety,diagnostic
+Read,E201700,Hysterical amnesia,res36: Anxiety,diagnostic
+Read,Eu43400,[X]Chron post-traumatic stress disorder follow military comb,res36: Anxiety,diagnostic
+Read,E203z00,Obsessive-compulsive disorder NOS,res36: Anxiety,diagnostic
+Read,E201800,Hysterical fugue,res36: Anxiety,diagnostic
+Read,E202.11,Social phobic disorders,res36: Anxiety,diagnostic
+Read,E202.12,Phobic anxiety,res36: Anxiety,diagnostic
+Read,Eu40011,[X]Agoraphobia without history of panic disorder,res36: Anxiety,diagnostic
+Read,E200.00,Anxiety states,res36: Anxiety,diagnostic
+Read,Eu05400,[X]Organic anxiety disorder,res36: Anxiety,diagnostic
+Read,Eu42100,[X]Predominantly compulsive acts [obsessional rituals],res36: Anxiety,diagnostic
+Read,Eu43212,[X]Grief reaction,res36: Anxiety,diagnostic
+Read,Eu43211,[X]Culture shock,res36: Anxiety,diagnostic
+Read,Eu43300,[X]Acute post-traumatic stress disorder follow military comb,res36: Anxiety,diagnostic
+Read,Eu42200,[X]Mixed obsessional thoughts and acts,res36: Anxiety,diagnostic
+Read,Eu43213,[X]Hospitalism in children,res36: Anxiety,diagnostic
+Read,E278200,Psychogenic backache,res36: Anxiety,diagnostic
+Read,Eu42.12,[X]Obsessive-compulsive neurosis,res36: Anxiety,diagnostic
+Read,Eu42000,[X]Predominantly obsessional thoughts or ruminations,res36: Anxiety,diagnostic
+Read,E20z.00,Neurotic disorder NOS,res36: Anxiety,diagnostic
+Read,Eu42.11,[X]Anankastic neurosis,res36: Anxiety,diagnostic
+Read,E20y300,Psychasthenic neurosis,res36: Anxiety,diagnostic

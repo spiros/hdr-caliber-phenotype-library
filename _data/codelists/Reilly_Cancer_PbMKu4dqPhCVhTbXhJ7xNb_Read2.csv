@@ -1,0 +1,1208 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B23y.00,Malignant neoplasm of other specified pleura,res26: Cancer,diagnostic
+Read,ByuC200,[X]2ndry+unspcf malignant neoplasm lymph nodes/multi regions,res26: Cancer,diagnostic
+Read,B24..00,"Malignant neoplasm of thymus, heart and mediastinum",res26: Cancer,diagnostic
+Read,B1...11,Carcinoma of digestive organs and peritoneum,res26: Cancer,diagnostic
+Read,B063.00,Malignant neoplasm of vallecula,res26: Cancer,diagnostic
+Read,B641.11,Chronic lymphatic leukaemia,res26: Cancer,diagnostic
+Read,B430.00,"Malignant neoplasm of corpus uteri, excluding isthmus",res26: Cancer,diagnostic
+Read,B41..11,Cervical carcinoma (uterus),res26: Cancer,diagnostic
+Read,B32..00,Malignant melanoma of skin,res26: Cancer,diagnostic
+Read,B47z.11,Seminoma of testis,res26: Cancer,diagnostic
+Read,B210.00,Malignant neoplasm of glottis,res26: Cancer,diagnostic
+Read,B46..00,Malignant neoplasm of prostate,res26: Cancer,diagnostic
+Read,B49..00,Malignant neoplasm of urinary bladder,res26: Cancer,diagnostic
+Read,B34..11,Ca female breast,res26: Cancer,diagnostic
+Read,B21..00,Malignant neoplasm of larynx,res26: Cancer,diagnostic
+Read,B430200,Malignant neoplasm of endometrium of corpus uteri,res26: Cancer,diagnostic
+Read,B4A0.00,Malignant neoplasm of kidney parenchyma,res26: Cancer,diagnostic
+Read,B600.00,Reticulosarcoma,res26: Cancer,diagnostic
+Read,B13..00,Malignant neoplasm of colon,res26: Cancer,diagnostic
+Read,B5z..00,Malignant neoplasm of other and unspecified site NOS,res26: Cancer,diagnostic
+Read,B10..00,Malignant neoplasm of oesophagus,res26: Cancer,diagnostic
+Read,B133.00,Malignant neoplasm of sigmoid colon,res26: Cancer,diagnostic
+Read,B440.11,Cancer of ovary,res26: Cancer,diagnostic
+Read,B580.00,Secondary malignant neoplasm of kidney,res26: Cancer,diagnostic
+Read,B141.00,Malignant neoplasm of rectum,res26: Cancer,diagnostic
+Read,B41..00,Malignant neoplasm of cervix uteri,res26: Cancer,diagnostic
+Read,B61..00,Hodgkin's disease,res26: Cancer,diagnostic
+Read,B40..00,"Malignant neoplasm of uterus, part unspecified",res26: Cancer,diagnostic
+Read,B22z.11,Lung cancer,res26: Cancer,diagnostic
+Read,B584.00,Secondary malignant neoplasm of other part of nervous system,res26: Cancer,diagnostic
+Read,B627X00,"Diffuse non-Hodgkin's lymphoma, unspecified",res26: Cancer,diagnostic
+Read,B242.00,Malignant neoplasm of anterior mediastinum,res26: Cancer,diagnostic
+Read,B204.00,Malignant neoplasm of frontal sinus,res26: Cancer,diagnostic
+Read,B161200,Malignant neoplasm of common bile duct,res26: Cancer,diagnostic
+Read,B68z.00,Leukaemia NOS,res26: Cancer,diagnostic
+Read,B64..11,Lymphatic leukaemia,res26: Cancer,diagnostic
+Read,B627.00,Non - Hodgkin's lymphoma,res26: Cancer,diagnostic
+Read,B48..00,Malignant neoplasm of penis and other male genital organs,res26: Cancer,diagnostic
+Read,B541.00,Malignant neoplasm of parathyroid gland,res26: Cancer,diagnostic
+Read,B22z.00,Malignant neoplasm of bronchus or lung NOS,res26: Cancer,diagnostic
+Read,B134.00,Malignant neoplasm of caecum,res26: Cancer,diagnostic
+Read,B570.00,Secondary malignant neoplasm of lung,res26: Cancer,diagnostic
+Read,B34..00,Malignant neoplasm of female breast,res26: Cancer,diagnostic
+Read,B680.00,Acute leukaemia NOS,res26: Cancer,diagnostic
+Read,B53..00,Malignant neoplasm of thyroid gland,res26: Cancer,diagnostic
+Read,B583200,Cerebral metastasis,res26: Cancer,diagnostic
+Read,B454.00,Malignant neoplasm of vulva unspecified,res26: Cancer,diagnostic
+Read,B640.00,Acute lymphoid leukaemia,res26: Cancer,diagnostic
+Read,B650.00,Acute myeloid leukaemia,res26: Cancer,diagnostic
+Read,B020.00,Malignant neoplasm of parotid gland,res26: Cancer,diagnostic
+Read,B577.11,Liver metastases,res26: Cancer,diagnostic
+Read,B583000,Secondary malignant neoplasm of brain,res26: Cancer,diagnostic
+Read,B10z.11,Oesophageal cancer,res26: Cancer,diagnostic
+Read,B45..00,Malig neop of other and unspecified female genital organs,res26: Cancer,diagnostic
+Read,B620.00,Nodular lymphoma (Brill - Symmers disease),res26: Cancer,diagnostic
+Read,B625.11,"Histiocytosis X (acute, progressive)",res26: Cancer,diagnostic
+Read,B624.11,Leukaemic reticuloendotheliosis,res26: Cancer,diagnostic
+Read,B630.00,Multiple myeloma,res26: Cancer,diagnostic
+Read,B30..11,Chondroma,res26: Cancer,diagnostic
+Read,B4A0000,Hypernephroma,res26: Cancer,diagnostic
+Read,B440.00,Malignant neoplasm of ovary,res26: Cancer,diagnostic
+Read,B590.11,Carcinomatosis,res26: Cancer,diagnostic
+Read,B6y0.00,Myeloproliferative disorder,res26: Cancer,diagnostic
+Read,B141.12,Rectal carcinoma,res26: Cancer,diagnostic
+Read,B58..00,Secondary malignant neoplasm of other specified sites,res26: Cancer,diagnostic
+Read,B470200,Seminoma of undescended testis,res26: Cancer,diagnostic
+Read,B131.00,Malignant neoplasm of transverse colon,res26: Cancer,diagnostic
+Read,B57..11,Metastases of respiratory and/or digestive systems,res26: Cancer,diagnostic
+Read,B12..00,Malignant neoplasm of small intestine and duodenum,res26: Cancer,diagnostic
+Read,B565.00,Secondary and unspec malig neop intrapelvic lymph nodes,res26: Cancer,diagnostic
+Read,B585.00,Secondary malignant neoplasm of bone and bone marrow,res26: Cancer,diagnostic
+Read,B43..00,Malignant neoplasm of body of uterus,res26: Cancer,diagnostic
+Read,B226.00,Mesothelioma,res26: Cancer,diagnostic
+Read,B65..00,Myeloid leukaemia,res26: Cancer,diagnostic
+Read,B141.11,Carcinoma of rectum,res26: Cancer,diagnostic
+Read,ByuDF11,[X]Non-Hodgkin's lymphoma NOS,res26: Cancer,diagnostic
+Read,B56..11,Lymph node metastases,res26: Cancer,diagnostic
+Read,B4A3.00,Malignant neoplasm of urethra,res26: Cancer,diagnostic
+Read,B56..00,Secondary and unspecified malignant neoplasm of lymph nodes,res26: Cancer,diagnostic
+Read,ByuDF00,"[X]Non-Hodgkin's lymphoma, unspecified type",res26: Cancer,diagnostic
+Read,B11..00,Malignant neoplasm of stomach,res26: Cancer,diagnostic
+Read,B17..00,Malignant neoplasm of pancreas,res26: Cancer,diagnostic
+Read,B576200,Malignant ascites,res26: Cancer,diagnostic
+Read,B641.00,Chronic lymphoid leukaemia,res26: Cancer,diagnostic
+Read,B542000,Malignant neoplasm of pituitary gland,res26: Cancer,diagnostic
+Read,B232.00,Mesothelioma of pleura,res26: Cancer,diagnostic
+Read,B55..00,Malignant neoplasm of other and ill-defined sites,res26: Cancer,diagnostic
+Read,B15..00,Malignant neoplasm of liver and intrahepatic bile ducts,res26: Cancer,diagnostic
+Read,B5...11,Carcinoma of other and unspecified sites,res26: Cancer,diagnostic
+Read,B170.00,Malignant neoplasm of head of pancreas,res26: Cancer,diagnostic
+Read,B582600,Secondary malignant neoplasm of skin of breast,res26: Cancer,diagnostic
+Read,B21z.00,Malignant neoplasm of larynx NOS,res26: Cancer,diagnostic
+Read,B13z.11,Colonic cancer,res26: Cancer,diagnostic
+Read,B130.00,Malignant neoplasm of hepatic flexure of colon,res26: Cancer,diagnostic
+Read,B142.11,Anal carcinoma,res26: Cancer,diagnostic
+Read,B471100,Teratoma of descended testis,res26: Cancer,diagnostic
+Read,B34z.00,Malignant neoplasm of female breast NOS,res26: Cancer,diagnostic
+Read,B56z.00,Secondary and unspec malig neop lymph nodes NOS,res26: Cancer,diagnostic
+Read,B62y.00,Malignant lymphoma NOS,res26: Cancer,diagnostic
+Read,B450100,Malignant neoplasm of vaginal vault,res26: Cancer,diagnostic
+Read,B3...11,"Carcinoma of bone, connective tissue, skin and breast",res26: Cancer,diagnostic
+Read,B525.00,Malignant neoplasm of cauda equina,res26: Cancer,diagnostic
+Read,B11..11,Gastric neoplasm,res26: Cancer,diagnostic
+Read,B01..00,Malignant neoplasm of tongue,res26: Cancer,diagnostic
+Read,B00..11,Carcinoma of lip,res26: Cancer,diagnostic
+Read,B222.00,"Malignant neoplasm of upper lobe, bronchus or lung",res26: Cancer,diagnostic
+Read,B057.00,Overlapping lesion of other and unspecified parts of mouth,res26: Cancer,diagnostic
+Read,B6...00,Malignant neoplasm of lymphatic and haemopoietic tissue,res26: Cancer,diagnostic
+Read,B162.00,Malignant neoplasm of ampulla of Vater,res26: Cancer,diagnostic
+Read,B651.00,Chronic myeloid leukaemia,res26: Cancer,diagnostic
+Read,B136.00,Malignant neoplasm of ascending colon,res26: Cancer,diagnostic
+Read,B51..11,Cerebral tumour - malignant,res26: Cancer,diagnostic
+Read,B132.00,Malignant neoplasm of descending colon,res26: Cancer,diagnostic
+Read,B621.00,Mycosis fungoides,res26: Cancer,diagnostic
+Read,B1z..00,Malig neop oth/ill-defined sites digestive tract/peritoneum,res26: Cancer,diagnostic
+Read,B5...00,Malignant neoplasm of other and unspecified sites,res26: Cancer,diagnostic
+Read,B454.11,Primary vulval cancer,res26: Cancer,diagnostic
+Read,B593.00,Primary malignant neoplasm of unknown site,res26: Cancer,diagnostic
+Read,B1z0.11,Cancer of bowel,res26: Cancer,diagnostic
+Read,B62y800,Malignant lymphoma NOS of lymph nodes of multiple sites,res26: Cancer,diagnostic
+Read,B4A..00,Malig neop of kidney and other unspecified urinary organs,res26: Cancer,diagnostic
+Read,B550200,Malignant neoplasm of nose NOS,res26: Cancer,diagnostic
+Read,B62x200,Peripheral T-cell lymphoma,res26: Cancer,diagnostic
+Read,B4A1.00,Malignant neoplasm of renal pelvis,res26: Cancer,diagnostic
+Read,B4...00,Malignant neoplasm of genitourinary organ,res26: Cancer,diagnostic
+Read,B3...12,Sarcoma of bone and connective tissue,res26: Cancer,diagnostic
+Read,Byu6.00,[X]Malignant neoplasm of breast,res26: Cancer,diagnostic
+Read,B22..00,"Malignant neoplasm of trachea, bronchus and lung",res26: Cancer,diagnostic
+Read,B224100,Malignant neoplasm of lower lobe of lung,res26: Cancer,diagnostic
+Read,B221.00,Malignant neoplasm of main bronchus,res26: Cancer,diagnostic
+Read,B4A2.00,Malignant neoplasm of ureter,res26: Cancer,diagnostic
+Read,B62yz00,Malignant lymphoma NOS,res26: Cancer,diagnostic
+Read,B590.00,Disseminated malignancy NOS,res26: Cancer,diagnostic
+Read,B11z.00,Malignant neoplasm of stomach NOS,res26: Cancer,diagnostic
+Read,B00..00,Malignant neoplasm of lip,res26: Cancer,diagnostic
+Read,B05..00,Malignant neoplasm of other and unspecified parts of mouth,res26: Cancer,diagnostic
+Read,B220.00,Malignant neoplasm of trachea,res26: Cancer,diagnostic
+Read,B577.00,Secondary malignant neoplasm of liver,res26: Cancer,diagnostic
+Read,B626.00,Malignant mast cell tumours,res26: Cancer,diagnostic
+Read,B630.12,Myelomatosis,res26: Cancer,diagnostic
+Read,B47..00,Malignant neoplasm of testis,res26: Cancer,diagnostic
+Read,B31z.00,"Malignant neoplasm of connective and soft tissue, site NOS",res26: Cancer,diagnostic
+Read,B65y100,Acute promyelocytic leukaemia,res26: Cancer,diagnostic
+Read,B346.00,Malignant neoplasm of axillary tail of female breast,res26: Cancer,diagnostic
+Read,B3...00,"Malig neop of bone, connective tissue, skin and breast",res26: Cancer,diagnostic
+Read,B060.00,Malignant neoplasm of tonsil,res26: Cancer,diagnostic
+Read,B572.00,Secondary malignant neoplasm of pleura,res26: Cancer,diagnostic
+Read,B510.00,Malignant neoplasm cerebrum (excluding lobes and ventricles),res26: Cancer,diagnostic
+Read,B1...00,Malignant neoplasm of digestive organs and peritoneum,res26: Cancer,diagnostic
+Read,B150000,Primary carcinoma of liver,res26: Cancer,diagnostic
+Read,B47z.12,Teratoma of testis,res26: Cancer,diagnostic
+Read,B16z.00,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS,res26: Cancer,diagnostic
+Read,B552.00,Malignant neoplasm of abdomen,res26: Cancer,diagnostic
+Read,B160.00,Malignant neoplasm of gallbladder,res26: Cancer,diagnostic
+Read,B506.00,Malignant neoplasm of choroid,res26: Cancer,diagnostic
+Read,B30z.00,Malignant neoplasm of bone and articular cartilage NOS,res26: Cancer,diagnostic
+Read,B30..00,Malignant neoplasm of bone and articular cartilage,res26: Cancer,diagnostic
+Read,B151.00,Malignant neoplasm of intrahepatic bile ducts,res26: Cancer,diagnostic
+Read,B0z0.00,Malignant neoplasm of pharynx unspecified,res26: Cancer,diagnostic
+Read,B550400,Malignant neoplasm of neck NOS,res26: Cancer,diagnostic
+Read,B4...11,Carcinoma of genitourinary organ,res26: Cancer,diagnostic
+Read,B681.00,Chronic leukaemia NOS,res26: Cancer,diagnostic
+Read,B18z.00,Malignant neoplasm of retroperitoneum and peritoneum NOS,res26: Cancer,diagnostic
+Read,B58y000,Secondary malignant neoplasm of breast,res26: Cancer,diagnostic
+Read,B58z.00,Secondary malignant neoplasm of other specified site NOS,res26: Cancer,diagnostic
+Read,B302.00,Malignant neoplasm of vertebral column,res26: Cancer,diagnostic
+Read,B540.11,Phaeochromocytoma,res26: Cancer,diagnostic
+Read,B627700,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma,res26: Cancer,diagnostic
+Read,B432.00,Malignant neoplasm of overlapping lesion of corpus uteri,res26: Cancer,diagnostic
+Read,B221000,Malignant neoplasm of carina of bronchus,res26: Cancer,diagnostic
+Read,B6y0.11,Myeloproliferative disease,res26: Cancer,diagnostic
+Read,B627C11,Follicular lymphoma NOS,res26: Cancer,diagnostic
+Read,B042.00,"Malignant neoplasm, overlapping lesion of floor of mouth",res26: Cancer,diagnostic
+Read,B1z0.00,"Malignant neoplasm of intestinal tract, part unspecified",res26: Cancer,diagnostic
+Read,B300A00,Malignant neoplasm of maxilla,res26: Cancer,diagnostic
+Read,B62x.00,Malignant lymphoma otherwise specified,res26: Cancer,diagnostic
+Read,B481.00,Malignant neoplasm of glans penis,res26: Cancer,diagnostic
+Read,B181.00,Mesothelioma of peritoneum,res26: Cancer,diagnostic
+Read,B69..00,Myelomonocytic leukaemia,res26: Cancer,diagnostic
+Read,B513.00,Malignant neoplasm of parietal lobe,res26: Cancer,diagnostic
+Read,B562300,Secondary and unspec malig neop common iliac lymph nodes,res26: Cancer,diagnostic
+Read,B120.00,Malignant neoplasm of duodenum,res26: Cancer,diagnostic
+Read,B135.00,Malignant neoplasm of appendix,res26: Cancer,diagnostic
+Read,B137.00,Malignant neoplasm of splenic flexure of colon,res26: Cancer,diagnostic
+Read,B58y.00,Secondary malignant neoplasm of other specified sites,res26: Cancer,diagnostic
+Read,B51..00,Malignant neoplasm of brain,res26: Cancer,diagnostic
+Read,B493.00,Malignant neoplasm of anterior wall of urinary bladder,res26: Cancer,diagnostic
+Read,B4A..11,Renal malignant neoplasm,res26: Cancer,diagnostic
+Read,B224000,Malignant neoplasm of lower lobe bronchus,res26: Cancer,diagnostic
+Read,B585000,Pathological fracture due to metastatic bone disease,res26: Cancer,diagnostic
+Read,Byu4.00,[X]Melanoma and other malignant neoplasms of skin,res26: Cancer,diagnostic
+Read,B630100,Solitary myeloma,res26: Cancer,diagnostic
+Read,B006.00,Malignant neoplasm of overlapping lesion of lip,res26: Cancer,diagnostic
+Read,B44..00,Malignant neoplasm of ovary and other uterine adnexa,res26: Cancer,diagnostic
+Read,B614800,Hodgkin's nodular sclerosis of lymph nodes of multiple sites,res26: Cancer,diagnostic
+Read,B02..00,Malignant neoplasm of major salivary glands,res26: Cancer,diagnostic
+Read,Byu4100,"[X]Malignant melanoma of skin, unspecified",res26: Cancer,diagnostic
+Read,B112.00,Malignant neoplasm of pyloric antrum of stomach,res26: Cancer,diagnostic
+Read,B35..00,Malignant neoplasm of male breast,res26: Cancer,diagnostic
+Read,B64..00,Lymphoid leukaemia,res26: Cancer,diagnostic
+Read,B311300,Malignant neoplasm of connective and soft tissue of hand,res26: Cancer,diagnostic
+Read,B0...00,"Malignant neoplasm of lip, oral cavity and pharynx",res26: Cancer,diagnostic
+Read,B3y..00,"Malig neop of bone, connective tissue, skin and breast OS",res26: Cancer,diagnostic
+Read,B222.11,Pancoast's syndrome,res26: Cancer,diagnostic
+Read,B660.00,Acute monocytic leukaemia,res26: Cancer,diagnostic
+Read,B582.00,Secondary malignant neoplasm of skin,res26: Cancer,diagnostic
+Read,B471.00,Malignant neoplasm of descended testis,res26: Cancer,diagnostic
+Read,B45z.00,Malignant neoplasm of female genital organ NOS,res26: Cancer,diagnostic
+Read,B04..00,Malignant neoplasm of floor of mouth,res26: Cancer,diagnostic
+Read,B50..00,Malignant neoplasm of eye,res26: Cancer,diagnostic
+Read,B56y.00,Secondary and unspec malig neop lymph nodes multiple sites,res26: Cancer,diagnostic
+Read,B58..11,Secondary carcinoma of other specified sites,res26: Cancer,diagnostic
+Read,B57..12,Secondary carcinoma of respiratory and/or digestive systems,res26: Cancer,diagnostic
+Read,B134.11,Carcinoma of caecum,res26: Cancer,diagnostic
+Read,B180.00,Malignant neoplasm of retroperitoneum,res26: Cancer,diagnostic
+Read,B630200,Plasmacytoma NOS,res26: Cancer,diagnostic
+Read,B630000,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",res26: Cancer,diagnostic
+Read,B111.00,Malignant neoplasm of pylorus of stomach,res26: Cancer,diagnostic
+Read,B58y500,Secondary malignant neoplasm of prostate,res26: Cancer,diagnostic
+Read,B602.00,Burkitt's lymphoma,res26: Cancer,diagnostic
+Read,B627C00,Follicular non-Hodgkin's lymphoma,res26: Cancer,diagnostic
+Read,B581100,Secondary malignant neoplasm of bladder,res26: Cancer,diagnostic
+Read,B221z00,Malignant neoplasm of main bronchus NOS,res26: Cancer,diagnostic
+Read,B691.00,Chronic myelomonocytic leukaemia,res26: Cancer,diagnostic
+Read,Byu5011,[X]Mesothelioma of lung,res26: Cancer,diagnostic
+Read,B471000,Seminoma of descended testis,res26: Cancer,diagnostic
+Read,B524.00,Malig neopl peripheral nerves and autonomic nervous system,res26: Cancer,diagnostic
+Read,B340000,Malignant neoplasm of nipple of female breast,res26: Cancer,diagnostic
+Read,B150300,Hepatocellular carcinoma,res26: Cancer,diagnostic
+Read,B110100,Malignant neoplasm of cardio-oesophageal junction of stomach,res26: Cancer,diagnostic
+Read,B313.00,Malignant neoplasm of connective and soft tissue of thorax,res26: Cancer,diagnostic
+Read,B06..00,Malignant neoplasm of oropharynx,res26: Cancer,diagnostic
+Read,B212.00,Malignant neoplasm of subglottis,res26: Cancer,diagnostic
+Read,B58yz00,Secondary malignant neoplasm of other specified site NOS,res26: Cancer,diagnostic
+Read,B180200,Malignant neoplasm of retrocaecal tissue,res26: Cancer,diagnostic
+Read,B344.00,Malignant neoplasm of upper-outer quadrant of female breast,res26: Cancer,diagnostic
+Read,B200.00,Malignant neoplasm of nasal cavities,res26: Cancer,diagnostic
+Read,B551100,Malignant neoplasm of chest wall NOS,res26: Cancer,diagnostic
+Read,B161.00,Malignant neoplasm of extrahepatic bile ducts,res26: Cancer,diagnostic
+Read,B610.00,Hodgkin's paragranuloma,res26: Cancer,diagnostic
+Read,B060000,Malignant neoplasm of faucial tonsil,res26: Cancer,diagnostic
+Read,B68..00,Leukaemia of unspecified cell type,res26: Cancer,diagnostic
+Read,B142.00,Malignant neoplasm of anal canal,res26: Cancer,diagnostic
+Read,B016.00,Malignant neoplasm of lingual tonsil,res26: Cancer,diagnostic
+Read,B0...11,"Carcinoma of lip, oral cavity and pharynx",res26: Cancer,diagnostic
+Read,B07..00,Malignant neoplasm of nasopharynx,res26: Cancer,diagnostic
+Read,B061.00,Malignant neoplasm of tonsillar fossa,res26: Cancer,diagnostic
+Read,B201.00,"Malig neop auditory tube, middle ear and mastoid air cells",res26: Cancer,diagnostic
+Read,B152.00,Malignant neoplasm of liver unspecified,res26: Cancer,diagnostic
+Read,B326400,Malignant melanoma of finger,res26: Cancer,diagnostic
+Read,B150.00,Primary malignant neoplasm of liver,res26: Cancer,diagnostic
+Read,B561300,Secondary and unspec malig neop ant mediastinal lymph nodes,res26: Cancer,diagnostic
+Read,B211.00,Malignant neoplasm of supraglottis,res26: Cancer,diagnostic
+Read,B222100,Malignant neoplasm of upper lobe of lung,res26: Cancer,diagnostic
+Read,B064000,"Malignant neoplasm of epiglottis, free border",res26: Cancer,diagnostic
+Read,B591.00,Other malignant neoplasm NOS,res26: Cancer,diagnostic
+Read,B45y000,Malignant neoplasm of overlapping lesion of vulva,res26: Cancer,diagnostic
+Read,B624.00,Leukaemic reticuloendotheliosis,res26: Cancer,diagnostic
+Read,B340.00,Malignant neoplasm of nipple and areola of female breast,res26: Cancer,diagnostic
+Read,B21y.00,"Malignant neoplasm of larynx, other specified site",res26: Cancer,diagnostic
+Read,B45X.00,Malignant neoplasm/overlapping lesion/feml genital organs,res26: Cancer,diagnostic
+Read,B20..00,"Malig neop nasal cavities, middle ear and accessory sinuses",res26: Cancer,diagnostic
+Read,B4A1000,Malignant neoplasm of renal calyces,res26: Cancer,diagnostic
+Read,B576100,Secondary malignant neoplasm of peritoneum,res26: Cancer,diagnostic
+Read,B670.11,Di Guglielmo's disease,res26: Cancer,diagnostic
+Read,B303.00,"Malignant neoplasm of ribs, sternum and clavicle",res26: Cancer,diagnostic
+Read,B554.00,Malignant neoplasm of upper limb NOS,res26: Cancer,diagnostic
+Read,B601.00,Lymphosarcoma,res26: Cancer,diagnostic
+Read,B651z00,Chronic myeloid leukaemia NOS,res26: Cancer,diagnostic
+Read,B661.00,Chronic monocytic leukaemia,res26: Cancer,diagnostic
+Read,B240.00,Malignant neoplasm of thymus,res26: Cancer,diagnostic
+Read,B311200,Malignant neoplasm of connective and soft tissue of fore-arm,res26: Cancer,diagnostic
+Read,B225.00,Malignant neoplasm of overlapping lesion of bronchus & lung,res26: Cancer,diagnostic
+Read,B64y100,Prolymphocytic leukaemia,res26: Cancer,diagnostic
+Read,B055z00,Malignant neoplasm of palate NOS,res26: Cancer,diagnostic
+Read,B303400,Malignant neoplasm of costo-vertebral joint,res26: Cancer,diagnostic
+Read,B124.00,"Malignant neoplasm, overlapping lesion of small intestine",res26: Cancer,diagnostic
+Read,B326300,Malignant melanoma of hand,res26: Cancer,diagnostic
+Read,B140.00,Malignant neoplasm of rectosigmoid junction,res26: Cancer,diagnostic
+Read,B32z.00,Malignant melanoma of skin NOS,res26: Cancer,diagnostic
+Read,B08z.00,Malignant neoplasm of hypopharynx NOS,res26: Cancer,diagnostic
+Read,B540.00,Malignant neoplasm of adrenal gland,res26: Cancer,diagnostic
+Read,B143.00,Malignant neoplasm of anus unspecified,res26: Cancer,diagnostic
+Read,B505.00,Malignant neoplasm of retina,res26: Cancer,diagnostic
+Read,B420.00,Choriocarcinoma,res26: Cancer,diagnostic
+Read,B560600,Secondary and unspec malig neop of facial lymph nodes,res26: Cancer,diagnostic
+Read,B41z.00,Malignant neoplasm of cervix uteri NOS,res26: Cancer,diagnostic
+Read,B675.00,Acute myelofibrosis,res26: Cancer,diagnostic
+Read,B13z.00,Malignant neoplasm of colon NOS,res26: Cancer,diagnostic
+Read,B496.00,Malignant neoplasm of ureteric orifice,res26: Cancer,diagnostic
+Read,B627B00,Other types of follicular non-Hodgkin's lymphoma,res26: Cancer,diagnostic
+Read,B2zy.00,Malignant neoplasm of other site of respiratory tract,res26: Cancer,diagnostic
+Read,B614.00,"Hodgkin's disease, nodular sclerosis",res26: Cancer,diagnostic
+Read,B07z.00,Malignant neoplasm of nasopharynx NOS,res26: Cancer,diagnostic
+Read,B627000,Follicular non-Hodgkin's small cleaved cell lymphoma,res26: Cancer,diagnostic
+Read,B313000,Malignant neoplasm of connective and soft tissue of axilla,res26: Cancer,diagnostic
+Read,B575000,Secondary malignant neoplasm of colon,res26: Cancer,diagnostic
+Read,B521.00,Malignant neoplasm of cerebral meninges,res26: Cancer,diagnostic
+Read,Byu5100,"[X]Mesothelioma, unspecified",res26: Cancer,diagnostic
+Read,B54..00,Malig neop of other endocrine glands and related structures,res26: Cancer,diagnostic
+Read,B30..12,Osteoma,res26: Cancer,diagnostic
+Read,B4Az.00,Malignant neoplasm of kidney or urinary organs NOS,res26: Cancer,diagnostic
+Read,B050.11,Malignant neoplasm of buccal mucosa,res26: Cancer,diagnostic
+Read,B342.00,Malignant neoplasm of upper-inner quadrant of female breast,res26: Cancer,diagnostic
+Read,B18y200,Malignant neoplasm of mesorectum,res26: Cancer,diagnostic
+Read,B613z00,"Hodgkin's, lymphocytic-histiocytic predominance NOS",res26: Cancer,diagnostic
+Read,B65yz00,Other myeloid leukaemia NOS,res26: Cancer,diagnostic
+Read,B49z.00,Malignant neoplasm of urinary bladder NOS,res26: Cancer,diagnostic
+Read,B10z.00,Malignant neoplasm of oesophagus NOS,res26: Cancer,diagnostic
+Read,B312300,Malig neop of connective and soft tissue of lower leg,res26: Cancer,diagnostic
+Read,B6y..00,Malignant neoplasm lymphatic or haematopoietic tissue OS,res26: Cancer,diagnostic
+Read,B67z.00,Other specified leukaemia NOS,res26: Cancer,diagnostic
+Read,B23..00,Malignant neoplasm of pleura,res26: Cancer,diagnostic
+Read,B341.00,Malignant neoplasm of central part of female breast,res26: Cancer,diagnostic
+Read,B223.00,"Malignant neoplasm of middle lobe, bronchus or lung",res26: Cancer,diagnostic
+Read,B150100,Hepatoblastoma of liver,res26: Cancer,diagnostic
+Read,B224.00,"Malignant neoplasm of lower lobe, bronchus or lung",res26: Cancer,diagnostic
+Read,B555.00,Malignant neoplasm of lower limb NOS,res26: Cancer,diagnostic
+Read,B160.11,Carcinoma gallbladder,res26: Cancer,diagnostic
+Read,B626800,Mast cell malignancy of lymph nodes of multiple sites,res26: Cancer,diagnostic
+Read,B050.00,Malignant neoplasm of cheek mucosa,res26: Cancer,diagnostic
+Read,B200200,Malignant neoplasm of septum of nose,res26: Cancer,diagnostic
+Read,B58y600,Secondary malignant neoplasm of testis,res26: Cancer,diagnostic
+Read,B41y.00,Malignant neoplasm of other site of cervix,res26: Cancer,diagnostic
+Read,B222000,Malignant neoplasm of upper lobe bronchus,res26: Cancer,diagnostic
+Read,B43y.00,Malignant neoplasm of other site of uterine body,res26: Cancer,diagnostic
+Read,B325100,Malignant melanoma of breast,res26: Cancer,diagnostic
+Read,B110.00,Malignant neoplasm of cardia of stomach,res26: Cancer,diagnostic
+Read,B627W00,Unspecified B-cell non-Hodgkin's lymphoma,res26: Cancer,diagnostic
+Read,B651.11,Chronic granulocytic leukaemia,res26: Cancer,diagnostic
+Read,B302100,Malignant neoplasm of thoracic vertebra,res26: Cancer,diagnostic
+Read,B030.00,Malignant neoplasm of upper gum,res26: Cancer,diagnostic
+Read,B113.00,Malignant neoplasm of fundus of stomach,res26: Cancer,diagnostic
+Read,B202.00,Malignant neoplasm of maxillary sinus,res26: Cancer,diagnostic
+Read,B62y400,Malignant lymphoma NOS of lymph nodes of axilla and arm,res26: Cancer,diagnostic
+Read,B43z.00,Malignant neoplasm of body of uterus NOS,res26: Cancer,diagnostic
+Read,B62..00,Other malignant neoplasm of lymphoid and histiocytic tissue,res26: Cancer,diagnostic
+Read,B221100,Malignant neoplasm of hilus of lung,res26: Cancer,diagnostic
+Read,B65z.00,Myeloid leukaemia NOS,res26: Cancer,diagnostic
+Read,B560200,Secondary and unspec malig neop superficial cervical LN,res26: Cancer,diagnostic
+Read,B071000,Malignant neoplasm of adenoid,res26: Cancer,diagnostic
+Read,B66y.00,Other monocytic leukaemia,res26: Cancer,diagnostic
+Read,B583.00,Secondary malignant neoplasm of brain and spinal cord,res26: Cancer,diagnostic
+Read,B301.00,Malignant neoplasm of mandible,res26: Cancer,diagnostic
+Read,B2...00,Malig neop of respiratory tract and intrathoracic organs,res26: Cancer,diagnostic
+Read,B08..00,Malignant neoplasm of hypopharynx,res26: Cancer,diagnostic
+Read,B122.00,Malignant neoplasm of ileum,res26: Cancer,diagnostic
+Read,B470300,Teratoma of undescended testis,res26: Cancer,diagnostic
+Read,B575z00,Secondary malig neop of large intestine or rectum NOS,res26: Cancer,diagnostic
+Read,B31..00,Malignant neoplasm of connective and other soft tissue,res26: Cancer,diagnostic
+Read,B325300,Malignant melanoma of groin,res26: Cancer,diagnostic
+Read,B010000,Malignant neoplasm of base of tongue dorsal surface,res26: Cancer,diagnostic
+Read,B17z.00,Malignant neoplasm of pancreas NOS,res26: Cancer,diagnostic
+Read,B163.00,"Malignant neoplasm, overlapping lesion of biliary tract",res26: Cancer,diagnostic
+Read,B622.00,Sezary's disease,res26: Cancer,diagnostic
+Read,B625.00,Letterer-Siwe disease,res26: Cancer,diagnostic
+Read,B68y.00,Other leukaemia of unspecified cell type,res26: Cancer,diagnostic
+Read,B308300,Malignant neoplasm of medial cuneiform,res26: Cancer,diagnostic
+Read,B23z.00,Malignant neoplasm of pleura NOS,res26: Cancer,diagnostic
+Read,B012.00,"Malignant neoplasm of tongue, tip and lateral border",res26: Cancer,diagnostic
+Read,B14..00,"Malignant neoplasm of rectum, rectosigmoid junction and anus",res26: Cancer,diagnostic
+Read,Byu9.00,[X]Malignant neoplasm of urinary tract,res26: Cancer,diagnostic
+Read,B57..00,Secondary malig neop of respiratory and digestive systems,res26: Cancer,diagnostic
+Read,Byu2.00,[X]Malignant neoplasm of respiratory and intrathoracic orga,res26: Cancer,diagnostic
+Read,Byu1.00,[X]Malignant neoplasm of digestive organs,res26: Cancer,diagnostic
+Read,ByuA.00,"[X]Malignant neoplasm of eye, brain and other parts of cent",res26: Cancer,diagnostic
+Read,ByuC.00,"[X]Malignant neoplasm of ill-defined, secondary and unspeci",res26: Cancer,diagnostic
+Read,B153.00,Secondary malignant neoplasm of liver,res26: Cancer,diagnostic
+Read,B174.00,Malignant neoplasm of Islets of Langerhans,res26: Cancer,diagnostic
+Read,B173.00,Malignant neoplasm of pancreatic duct,res26: Cancer,diagnostic
+Read,B576000,Secondary malignant neoplasm of retroperitoneum,res26: Cancer,diagnostic
+Read,B582200,Secondary malignant neoplasm of skin of neck,res26: Cancer,diagnostic
+Read,B492.00,Malignant neoplasm of lateral wall of urinary bladder,res26: Cancer,diagnostic
+Read,B66..00,Monocytic leukaemia,res26: Cancer,diagnostic
+Read,B561600,Secondary and unspec malig neop superfic tracheobronchial LN,res26: Cancer,diagnostic
+Read,B18y500,Malignant neoplasm of pelvic peritoneum,res26: Cancer,diagnostic
+Read,B015.00,"Malignant neoplasm of tongue, junctional zone",res26: Cancer,diagnostic
+Read,B056.00,Malignant neoplasm of retromolar area,res26: Cancer,diagnostic
+Read,ByuC300,[X]Secondary malignant neoplasm/oth+unspc respiratory organs,res26: Cancer,diagnostic
+Read,B510z00,Malignant neoplasm of cerebrum NOS,res26: Cancer,diagnostic
+Read,B587.00,Secondary malignant neoplasm of adrenal gland,res26: Cancer,diagnostic
+Read,B49y.00,Malignant neoplasm of other site of urinary bladder,res26: Cancer,diagnostic
+Read,B327800,Malignant melanoma of toe,res26: Cancer,diagnostic
+Read,B04z.00,Malignant neoplasm of floor of mouth NOS,res26: Cancer,diagnostic
+Read,B161211,Carcinoma common bile duct,res26: Cancer,diagnostic
+Read,B6y1.00,Myelosclerosis with myeloid metaplasia,res26: Cancer,diagnostic
+Read,B551000,Malignant neoplasm of axilla NOS,res26: Cancer,diagnostic
+Read,B64y200,Adult T-cell leukaemia,res26: Cancer,diagnostic
+Read,B450.00,Malignant neoplasm of vagina,res26: Cancer,diagnostic
+Read,B6...11,Malignant neoplasm of histiocytic tissue,res26: Cancer,diagnostic
+Read,B67..00,Other specified leukaemia,res26: Cancer,diagnostic
+Read,B63..00,Multiple myeloma and immunoproliferative neoplasms,res26: Cancer,diagnostic
+Read,B052.00,Malignant neoplasm of hard palate,res26: Cancer,diagnostic
+Read,B671.00,Chronic erythraemia,res26: Cancer,diagnostic
+Read,B007.00,"Malignant neoplasm of lip, unspecified",res26: Cancer,diagnostic
+Read,B05z000,Kaposi's sarcoma of palate,res26: Cancer,diagnostic
+Read,B054.00,Malignant neoplasm of uvula,res26: Cancer,diagnostic
+Read,B563000,Secondary and unspec malig neop axillary lymph nodes,res26: Cancer,diagnostic
+Read,B25..00,"Malig neo, overlapping lesion of heart, mediastinum & pleura",res26: Cancer,diagnostic
+Read,B631.00,Plasma cell leukaemia,res26: Cancer,diagnostic
+Read,B110z00,Malignant neoplasm of cardia of stomach NOS,res26: Cancer,diagnostic
+Read,B303000,Malignant neoplasm of rib,res26: Cancer,diagnostic
+Read,B220z00,Malignant neoplasm of trachea NOS,res26: Cancer,diagnostic
+Read,B213100,Malignant neoplasm of cricoid cartilage,res26: Cancer,diagnostic
+Read,B47z.00,Malignant neoplasm of testis NOS,res26: Cancer,diagnostic
+Read,B013z00,Malignant neoplasm of ventral tongue surface NOS,res26: Cancer,diagnostic
+Read,B327400,Malignant melanoma of lower leg,res26: Cancer,diagnostic
+Read,B561000,Secondary and unspec malig neop internal mammary lymph nodes,res26: Cancer,diagnostic
+Read,B05y.00,Malignant neoplasm of other specified mouth parts,res26: Cancer,diagnostic
+Read,B34yz00,Malignant neoplasm of other site of female breast NOS,res26: Cancer,diagnostic
+Read,B621z00,Mycosis fungoides NOS,res26: Cancer,diagnostic
+Read,B072000,Malignant neoplasm of pharyngeal recess,res26: Cancer,diagnostic
+Read,B560700,Secondary and unspec malig neop submental lymph nodes,res26: Cancer,diagnostic
+Read,B64yz00,Other lymphoid leukaemia NOS,res26: Cancer,diagnostic
+Read,B0zz.00,"Malignant neoplasm of lip, oral cavity and pharynx NOS",res26: Cancer,diagnostic
+Read,B514.00,Malignant neoplasm of occipital lobe,res26: Cancer,diagnostic
+Read,B4y..00,Malignant neoplasm of genitourinary organ OS,res26: Cancer,diagnostic
+Read,B583100,Secondary malignant neoplasm of spinal cord,res26: Cancer,diagnostic
+Read,B5y..00,Malignant neoplasm of other and unspecified site OS,res26: Cancer,diagnostic
+Read,B325.00,Malignant melanoma of trunk (excluding scrotum),res26: Cancer,diagnostic
+Read,B64z.00,Lymphoid leukaemia NOS,res26: Cancer,diagnostic
+Read,B490.00,Malignant neoplasm of trigone of urinary bladder,res26: Cancer,diagnostic
+Read,B0z2.00,Malignant neoplasm of laryngopharynx,res26: Cancer,diagnostic
+Read,B613.00,"Hodgkin's disease, lymphocytic-histiocytic predominance",res26: Cancer,diagnostic
+Read,B306z00,"Malignant neoplasm of pelvis, sacrum or coccyx NOS",res26: Cancer,diagnostic
+Read,ByuC000,[X]Malignant neoplasm of other specified sites,res26: Cancer,diagnostic
+Read,B22y.00,Malignant neoplasm of other sites of bronchus or lung,res26: Cancer,diagnostic
+Read,B15z.00,Malignant neoplasm of liver and intrahepatic bile ducts NOS,res26: Cancer,diagnostic
+Read,B573.00,Secondary malignant neoplasm of other respiratory organs,res26: Cancer,diagnostic
+Read,B316.00,Malig neop of connective and soft tissue trunk unspecified,res26: Cancer,diagnostic
+Read,B306.00,"Malignant neoplasm of pelvic bones, sacrum and coccyx",res26: Cancer,diagnostic
+Read,B313100,Malignant neoplasm of diaphragm,res26: Cancer,diagnostic
+Read,B4A1z00,Malignant neoplasm of renal pelvis NOS,res26: Cancer,diagnostic
+Read,B104.00,Malignant neoplasm of middle third of oesophagus,res26: Cancer,diagnostic
+Read,B223z00,"Malignant neoplasm of middle lobe, bronchus or lung NOS",res26: Cancer,diagnostic
+Read,B201200,Malignant neoplasm of tympanic antrum,res26: Cancer,diagnostic
+Read,B59z.00,Malignant neoplasm of unspecified site NOS,res26: Cancer,diagnostic
+Read,ByuC700,[X]Secondary malignant neoplasm of other specified sites,res26: Cancer,diagnostic
+Read,B35z.00,Malignant neoplasm of other site of male breast,res26: Cancer,diagnostic
+Read,B312400,Malignant neoplasm of connective and soft tissue of foot,res26: Cancer,diagnostic
+Read,B350.00,Malignant neoplasm of nipple and areola of male breast,res26: Cancer,diagnostic
+Read,B564000,Secondary and unspec malig neop superficial inguinal LN,res26: Cancer,diagnostic
+Read,B303500,Malignant neoplasm of xiphoid process,res26: Cancer,diagnostic
+Read,B327200,Malignant melanoma of knee,res26: Cancer,diagnostic
+Read,B550000,Malignant neoplasm of head NOS,res26: Cancer,diagnostic
+Read,B300600,Malignant neoplasm of parietal bone,res26: Cancer,diagnostic
+Read,B203.00,Malignant neoplasm of ethmoid sinus,res26: Cancer,diagnostic
+Read,B321.00,Malignant melanoma of eyelid including canthus,res26: Cancer,diagnostic
+Read,B302200,Malignant neoplasm of lumbar vertebra,res26: Cancer,diagnostic
+Read,B326100,Malignant melanoma of upper arm,res26: Cancer,diagnostic
+Read,B594.00,Secondary malignant neoplasm of unknown site,res26: Cancer,diagnostic
+Read,B582z00,Secondary malignant neoplasm of skin NOS,res26: Cancer,diagnostic
+Read,B312200,Malig neop connective and soft tissue of popliteal space,res26: Cancer,diagnostic
+Read,B50z.00,Malignant neoplasm of eye NOS,res26: Cancer,diagnostic
+Read,B682.00,Subacute leukaemia NOS,res26: Cancer,diagnostic
+Read,B58y100,Secondary malignant neoplasm of uterus,res26: Cancer,diagnostic
+Read,B062.00,Malignant neoplasm of tonsillar pillar,res26: Cancer,diagnostic
+Read,B05z.00,Malignant neoplasm of mouth NOS,res26: Cancer,diagnostic
+Read,B11y.00,Malignant neoplasm of other specified site of stomach,res26: Cancer,diagnostic
+Read,B62y000,Malignant lymphoma NOS of unspecified site,res26: Cancer,diagnostic
+Read,B57y.00,Secondary malignant neoplasm of other digestive organ,res26: Cancer,diagnostic
+Read,B116.00,Malignant neoplasm of greater curve of stomach unspecified,res26: Cancer,diagnostic
+Read,B215.00,Malignant neoplasm of epiglottis NOS,res26: Cancer,diagnostic
+Read,B20z.00,Malignant neoplasm of accessory sinus NOS,res26: Cancer,diagnostic
+Read,B553z00,Malignant neoplasm of pelvis NOS,res26: Cancer,diagnostic
+Read,B614100,"Hodgkin's nodular sclerosis of head, face and neck",res26: Cancer,diagnostic
+Read,B326z00,Malignant melanoma of upper limb or shoulder NOS,res26: Cancer,diagnostic
+Read,Byu4300,"[X]Malignant neoplasm of skin, unspecified",res26: Cancer,diagnostic
+Read,B300700,Malignant neoplasm of sphenoid bone,res26: Cancer,diagnostic
+Read,B561400,Secondary and unspec malig neop post mediastinal lymph nodes,res26: Cancer,diagnostic
+Read,Byu7300,"[X]Malignant neoplasm of female genital organ, unspecified",res26: Cancer,diagnostic
+Read,B300400,Malignant neoplasm of occipital bone,res26: Cancer,diagnostic
+Read,B07y.00,Malignant neoplasm of other specified site of nasopharynx,res26: Cancer,diagnostic
+Read,B574000,Secondary malignant neoplasm of duodenum,res26: Cancer,diagnostic
+Read,B14y.00,"Malig neop other site rectum, rectosigmoid junction and anus",res26: Cancer,diagnostic
+Read,B322.00,Malignant melanoma of ear and external auricular canal,res26: Cancer,diagnostic
+Read,B1zy.00,Malignant neoplasm other spec digestive tract and peritoneum,res26: Cancer,diagnostic
+Read,B066.00,Malignant neoplasm of lateral wall of oropharynx,res26: Cancer,diagnostic
+Read,B500z00,Malignant neoplasm of eyeball NOS,res26: Cancer,diagnostic
+Read,B52z.00,Malignant neoplasm of nervous system NOS,res26: Cancer,diagnostic
+Read,B34y.00,Malignant neoplasm of other site of female breast,res26: Cancer,diagnostic
+Read,B307000,Malignant neoplasm of femur,res26: Cancer,diagnostic
+Read,B04y.00,Malignant neoplasm of other sites of floor of mouth,res26: Cancer,diagnostic
+Read,B082.00,"Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect",res26: Cancer,diagnostic
+Read,B544.00,Malignant neoplasm of carotid body,res26: Cancer,diagnostic
+Read,Byu4000,[X]Malignant melanoma of other+unspecified parts of face,res26: Cancer,diagnostic
+Read,B410000,Malignant neoplasm of endocervical canal,res26: Cancer,diagnostic
+Read,Byu4200,[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face,res26: Cancer,diagnostic
+Read,B614000,"Hodgkin's disease, nodular sclerosis of unspecified site",res26: Cancer,diagnostic
+Read,Byu8000,[X]Malignant neoplasm/other specified male genital organs,res26: Cancer,diagnostic
+Read,B616.00,"Hodgkin's disease, lymphocytic depletion",res26: Cancer,diagnostic
+Read,B315100,Malig neop of connective and soft tissue of inguinal region,res26: Cancer,diagnostic
+Read,B523z00,Malignant neoplasm of spinal meninges NOS,res26: Cancer,diagnostic
+Read,B561500,Secondary and unspec malig neop paratracheal lymph nodes,res26: Cancer,diagnostic
+Read,B672.00,Megakaryocytic leukaemia,res26: Cancer,diagnostic
+Read,B615200,Hodgkin's mixed cellularity of intrathoracic lymph nodes,res26: Cancer,diagnostic
+Read,B303200,Malignant neoplasm of clavicle,res26: Cancer,diagnostic
+Read,B601200,Lymphosarcoma of intrathoracic lymph nodes,res26: Cancer,diagnostic
+Read,Byu..00,[X]Additional neoplasm classification terms,res26: Cancer,diagnostic
+Read,B560500,Secondary and unspec malig neop submandibular lymph nodes,res26: Cancer,diagnostic
+Read,B581z00,Secondary malignant neoplasm of other urinary organ NOS,res26: Cancer,diagnostic
+Read,B62x400,Malignant reticulosis,res26: Cancer,diagnostic
+Read,B314000,Malig neop of connective and soft tissue of abdominal wall,res26: Cancer,diagnostic
+Read,B014.00,Malignant neoplasm of anterior 2/3 of tongue unspecified,res26: Cancer,diagnostic
+Read,B620800,Nodular lymphoma of lymph nodes of multiple sites,res26: Cancer,diagnostic
+Read,B41y100,Malignant neoplasm of squamocolumnar junction of cervix,res26: Cancer,diagnostic
+Read,B452.00,Malignant neoplasm of labia minora,res26: Cancer,diagnostic
+Read,Byu7100,[X]Malignant neoplasm/other specified female genital organs,res26: Cancer,diagnostic
+Read,B62x100,Lymphoepithelioid lymphoma,res26: Cancer,diagnostic
+Read,B305000,Malignant neoplasm of carpal bone - scaphoid,res26: Cancer,diagnostic
+Read,B553000,Malignant neoplasm of inguinal region NOS,res26: Cancer,diagnostic
+Read,Byu2100,"[X]Malignant neoplasm/overlap lesion/heart,mediastinm+pleura",res26: Cancer,diagnostic
+Read,B312.00,Malig neop of connective and soft tissue of hip and leg,res26: Cancer,diagnostic
+Read,B412.00,"Malignant neoplasm, overlapping lesion of cervix uteri",res26: Cancer,diagnostic
+Read,B151400,Malignant neoplasm of intrahepatic gall duct,res26: Cancer,diagnostic
+Read,ByuB100,"[X]Malignant neoplasm of endocrine gland, unspecified",res26: Cancer,diagnostic
+Read,B074.00,"Malignant neoplasm, overlapping lesion of nasopharynx",res26: Cancer,diagnostic
+Read,B000000,"Malignant neoplasm of upper lip, external",res26: Cancer,diagnostic
+Read,B001000,"Malignant neoplasm of lower lip, external",res26: Cancer,diagnostic
+Read,B620000,Nodular lymphoma of unspecified site,res26: Cancer,diagnostic
+Read,B560z00,Secondary unspec malig neop lymph nodes head/face/neck NOS,res26: Cancer,diagnostic
+Read,B230.00,Malignant neoplasm of parietal pleura,res26: Cancer,diagnostic
+Read,B306400,Malignant neoplasm of coccygeal vertebra,res26: Cancer,diagnostic
+Read,B111z00,Malignant neoplasm of pylorus of stomach NOS,res26: Cancer,diagnostic
+Read,B560100,Secondary and unspec malignant neoplasm mastoid lymph nodes,res26: Cancer,diagnostic
+Read,B55yz00,Malignant neoplasm of specified site NOS,res26: Cancer,diagnostic
+Read,B24z.00,"Malignant neoplasm of heart, thymus and mediastinum NOS",res26: Cancer,diagnostic
+Read,B26..00,"Malignant neoplasm, overlap lesion of resp & intrathor orgs",res26: Cancer,diagnostic
+Read,Byu5000,[X]Mesothelioma of other sites,res26: Cancer,diagnostic
+Read,ByuD500,[X]Other lymphoid leukaemia,res26: Cancer,diagnostic
+Read,B322000,Malignant melanoma of auricle (ear),res26: Cancer,diagnostic
+Read,B315z00,Malig neop of connective and soft tissue of pelvis NOS,res26: Cancer,diagnostic
+Read,B62x500,Malignant immunoproliferative small intestinal disease,res26: Cancer,diagnostic
+Read,B623z00,Malignant histiocytosis NOS,res26: Cancer,diagnostic
+Read,B308D00,Malignant neoplasm of phalanges of foot,res26: Cancer,diagnostic
+Read,B550z00,"Malignant neoplasm of head, neck and face NOS",res26: Cancer,diagnostic
+Read,B310300,Malignant neoplasm of cartilage of ear,res26: Cancer,diagnostic
+Read,B4Ay000,Malignant neoplasm of overlapping lesion of urinary organs,res26: Cancer,diagnostic
+Read,B306100,Malignant neoplasm of ischium,res26: Cancer,diagnostic
+Read,B431000,Malignant neoplasm of lower uterine segment,res26: Cancer,diagnostic
+Read,B51y000,Malignant neoplasm of corpus callosum,res26: Cancer,diagnostic
+Read,B602100,"Burkitt's lymphoma of lymph nodes of head, face and neck",res26: Cancer,diagnostic
+Read,B315200,Malignant neoplasm of connective and soft tissue of perineum,res26: Cancer,diagnostic
+Read,B340z00,Malignant neoplasm of nipple or areola of female breast NOS,res26: Cancer,diagnostic
+Read,B18y100,Malignant neoplasm of mesocaecum,res26: Cancer,diagnostic
+Read,B451z00,Malignant neoplasm of labia majora NOS,res26: Cancer,diagnostic
+Read,B310000,Malignant neoplasm of soft tissue of head,res26: Cancer,diagnostic
+Read,B583z00,Secondary malignant neoplasm of brain or spinal cord NOS,res26: Cancer,diagnostic
+Read,B500100,Malignant neoplasm of iris,res26: Cancer,diagnostic
+Read,B542.00,Malignant neoplasm pituitary gland and craniopharyngeal duct,res26: Cancer,diagnostic
+Read,B300200,Malignant neoplasm of malar bone,res26: Cancer,diagnostic
+Read,B61z100,"Hodgkin's disease NOS of lymph nodes of head, face and neck",res26: Cancer,diagnostic
+Read,B542z00,Malig neop pituitary gland or craniopharyngeal duct NOS,res26: Cancer,diagnostic
+Read,B61z200,Hodgkin's disease NOS of intrathoracic lymph nodes,res26: Cancer,diagnostic
+Read,B06y.00,"Malignant neoplasm of oropharynx, other specified sites",res26: Cancer,diagnostic
+Read,B013.00,Malignant neoplasm of ventral surface of tongue,res26: Cancer,diagnostic
+Read,B200300,Malignant neoplasm of vestibule of nose,res26: Cancer,diagnostic
+Read,B180z00,Malignant neoplasm of retroperitoneum NOS,res26: Cancer,diagnostic
+Read,B62y700,Malignant lymphoma NOS of spleen,res26: Cancer,diagnostic
+Read,B581000,Secondary malignant neoplasm of ureter,res26: Cancer,diagnostic
+Read,B062200,Malignant neoplasm of palatoglossal arch,res26: Cancer,diagnostic
+Read,B303300,Malignant neoplasm of costal cartilage,res26: Cancer,diagnostic
+Read,B58y400,Secondary malignant neoplasm of vulva,res26: Cancer,diagnostic
+Read,Byu5A00,[X]Malignant neoplasm overlapping lesion of skin,res26: Cancer,diagnostic
+Read,B16y.00,Malignant neoplasm other gallbladder/extrahepatic bile duct,res26: Cancer,diagnostic
+Read,B600000,Reticulosarcoma of unspecified site,res26: Cancer,diagnostic
+Read,B314z00,Malig neop of connective and soft tissue of abdomen NOS,res26: Cancer,diagnostic
+Read,B690.00,Acute myelomonocytic leukaemia,res26: Cancer,diagnostic
+Read,B614300,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes,res26: Cancer,diagnostic
+Read,B24X.00,"Malignant neoplasm of mediastinum, part unspecified",res26: Cancer,diagnostic
+Read,B450z00,Malignant neoplasm of vagina NOS,res26: Cancer,diagnostic
+Read,B510100,Malignant neoplasm of cerebral cortex,res26: Cancer,diagnostic
+Read,B327600,Malignant melanoma of heel,res26: Cancer,diagnostic
+Read,B540000,Malignant neoplasm of adrenal cortex,res26: Cancer,diagnostic
+Read,B564100,Secondary and unspec malig neop deep inguinal lymph nodes,res26: Cancer,diagnostic
+Read,B512000,Malignant neoplasm of hippocampus,res26: Cancer,diagnostic
+Read,B561.00,Secondary and unspec malig neop intrathoracic lymph nodes,res26: Cancer,diagnostic
+Read,B575100,Secondary malignant neoplasm of rectum,res26: Cancer,diagnostic
+Read,B510500,Malignant neoplasm of thalamus,res26: Cancer,diagnostic
+Read,B004.00,"Malignant neoplasm of lip unspecified, inner aspect",res26: Cancer,diagnostic
+Read,B561800,Secondary and unspec malig neop bronchopulmonary lymph nodes,res26: Cancer,diagnostic
+Read,B562200,Secondary and unspec malig neop inferior mesenteric LN,res26: Cancer,diagnostic
+Read,B61z000,"Hodgkin's disease NOS, unspecified site",res26: Cancer,diagnostic
+Read,B151z00,Malignant neoplasm of intrahepatic bile ducts NOS,res26: Cancer,diagnostic
+Read,B241000,Malignant neoplasm of endocardium,res26: Cancer,diagnostic
+Read,ByuDE00,[X]Unspecified B-cell non-Hodgkin's lymphoma,res26: Cancer,diagnostic
+Read,B300800,Malignant neoplasm of temporal bone,res26: Cancer,diagnostic
+Read,B100.00,Malignant neoplasm of cervical oesophagus,res26: Cancer,diagnostic
+Read,B614z00,"Hodgkin's disease, nodular sclerosis NOS",res26: Cancer,diagnostic
+Read,ByuD600,[X]Other myeloid leukaemia,res26: Cancer,diagnostic
+Read,B485.00,Malignant neoplasm of spermatic cord,res26: Cancer,diagnostic
+Read,B501z00,Malignant neoplasm of orbit NOS,res26: Cancer,diagnostic
+Read,B524100,"Malignant neoplasm of peripheral nerve,upp limb,incl should",res26: Cancer,diagnostic
+Read,B304200,Malignant neoplasm of humerus,res26: Cancer,diagnostic
+Read,Byu3200,[X]Malignant neoplasm/overlap lesion/bone+articulr cartilage,res26: Cancer,diagnostic
+Read,B62y500,Malignant lymphoma NOS of lymph node inguinal region and leg,res26: Cancer,diagnostic
+Read,B48z.00,Malignant neoplasm of penis and other male genital organ NOS,res26: Cancer,diagnostic
+Read,B55y100,Malignant neoplasm of trunk NOS,res26: Cancer,diagnostic
+Read,B54z.00,Malig neop of endocrine gland or related structure NOS,res26: Cancer,diagnostic
+Read,B652.00,Subacute myeloid leukaemia,res26: Cancer,diagnostic
+Read,B102.00,Malignant neoplasm of abdominal oesophagus,res26: Cancer,diagnostic
+Read,B213000,Malignant neoplasm of arytenoid cartilage,res26: Cancer,diagnostic
+Read,B18yz00,Malignant neoplasm of specified parts of peritoneum NOS,res26: Cancer,diagnostic
+Read,B524300,Malignant neoplasm of peripheral nerve of thorax,res26: Cancer,diagnostic
+Read,B524000,"Malignant neoplasm of peripheral nerves of head, face & neck",res26: Cancer,diagnostic
+Read,B503.00,Malignant neoplasm of conjunctiva,res26: Cancer,diagnostic
+Read,B671.11,Heilmeyer - Schoner disease,res26: Cancer,diagnostic
+Read,ByuE.00,[X]Malignant neoplasms/independent (primary) multiple sites,res26: Cancer,diagnostic
+Read,B616400,Hodgkin's lymphocytic depletion lymph nodes axilla and arm,res26: Cancer,diagnostic
+Read,ByuA200,"[X]Malignant neoplasm of meninges, unspecified",res26: Cancer,diagnostic
+Read,B564.00,Secondary and unspec malig neop inguinal and lower limb LN,res26: Cancer,diagnostic
+Read,B601z00,Lymphosarcoma NOS,res26: Cancer,diagnostic
+Read,B582400,Secondary malignant neoplasm of skin of shoulder and arm,res26: Cancer,diagnostic
+Read,B612.00,Hodgkin's sarcoma,res26: Cancer,diagnostic
+Read,B013100,Malignant neoplasm of frenulum linguae,res26: Cancer,diagnostic
+Read,B326500,Malignant melanoma of thumb,res26: Cancer,diagnostic
+Read,B311500,Malignant neoplasm of connective and soft tissue of thumb,res26: Cancer,diagnostic
+Read,B123.00,Malignant neoplasm of Meckel's diverticulum,res26: Cancer,diagnostic
+Read,B66..12,Monoblastic leukaemia,res26: Cancer,diagnostic
+Read,B576.00,Secondary malig neop of retroperitoneum and peritoneum,res26: Cancer,diagnostic
+Read,B57z.00,Secondary malig neop of respiratory or digestive system NOS,res26: Cancer,diagnostic
+Read,B470.00,Malignant neoplasm of undescended testis,res26: Cancer,diagnostic
+Read,B63y.00,Other immunoproliferative neoplasms,res26: Cancer,diagnostic
+Read,B311100,"Malignant neoplasm of connective and soft tissue, upper arm",res26: Cancer,diagnostic
+Read,B327z00,Malignant melanoma of lower limb or hip NOS,res26: Cancer,diagnostic
+Read,ByuD300,[X]Other specified types of non-Hodgkin's lymphoma,res26: Cancer,diagnostic
+Read,B517000,Malignant neoplasm of cerebral peduncle,res26: Cancer,diagnostic
+Read,B083.00,Malignant neoplasm of posterior pharynx,res26: Cancer,diagnostic
+Read,B62z100,Unspec malig neop lymphoid/histiocytic lymph node head/neck,res26: Cancer,diagnostic
+Read,B18y400,Malignant neoplasm of parietal peritoneum,res26: Cancer,diagnostic
+Read,Byu7000,"[X]Malignant neoplasm of uterine adnexa, unspecified",res26: Cancer,diagnostic
+Read,ByuDC00,"[X]Diffuse non-Hodgkin's lymphoma, unspecified",res26: Cancer,diagnostic
+Read,B241200,Malignant neoplasm of myocardium,res26: Cancer,diagnostic
+Read,B51y200,"Malignant neoplasm, overlapping lesion of brain",res26: Cancer,diagnostic
+Read,B44z.00,Malignant neoplasm of uterine adnexa NOS,res26: Cancer,diagnostic
+Read,B340100,Malignant neoplasm of areola of female breast,res26: Cancer,diagnostic
+Read,B574.00,Secondary malignant neoplasm of small intestine and duodenum,res26: Cancer,diagnostic
+Read,B601300,Lymphosarcoma of intra-abdominal lymph nodes,res26: Cancer,diagnostic
+Read,B520000,Malignant neoplasm of olfactory bulb,res26: Cancer,diagnostic
+Read,B502.00,Malignant neoplasm of lacrimal gland,res26: Cancer,diagnostic
+Read,B551z00,Malignant neoplasm of thorax NOS,res26: Cancer,diagnostic
+Read,B560000,Secondary and unspec malig neop of superficial parotid LN,res26: Cancer,diagnostic
+Read,B304400,Malignant neoplasm of ulna,res26: Cancer,diagnostic
+Read,ByuE000,[X]Malignant neoplasms/independent(primary)multiple sites,res26: Cancer,diagnostic
+Read,B560300,Secondary and unspec malignant neoplasm occipital lymph node,res26: Cancer,diagnostic
+Read,B31y.00,Malig neop connective and soft tissue other specified site,res26: Cancer,diagnostic
+Read,B326.00,Malignant melanoma of upper limb and shoulder,res26: Cancer,diagnostic
+Read,B624000,Leukaemic reticuloendotheliosis of unspecified sites,res26: Cancer,diagnostic
+Read,B180100,Malignant neoplasm of perinephric tissue,res26: Cancer,diagnostic
+Read,B624300,Leukaemic reticuloend of intra-abdominal lymph nodes,res26: Cancer,diagnostic
+Read,B151000,Malignant neoplasm of interlobular bile ducts,res26: Cancer,diagnostic
+Read,B205.00,Malignant neoplasm of sphenoidal sinus,res26: Cancer,diagnostic
+Read,ByuD900,[X]Other leukaemia of unspecified cell type,res26: Cancer,diagnostic
+Read,B627800,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),res26: Cancer,diagnostic
+Read,B520200,Malignant neoplasm of acoustic nerve,res26: Cancer,diagnostic
+Read,B614400,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm,res26: Cancer,diagnostic
+Read,B11yz00,Malignant neoplasm of other specified site of stomach NOS,res26: Cancer,diagnostic
+Read,B507100,Malignant neoplasm of nasolacrimal duct,res26: Cancer,diagnostic
+Read,B11y000,Malignant neoplasm of anterior wall of stomach NEC,res26: Cancer,diagnostic
+Read,B592X00,Kaposi's sarcoma of multiple organs,res26: Cancer,diagnostic
+Read,B62z.00,Malignant neoplasms of lymphoid and histiocytic tissue NOS,res26: Cancer,diagnostic
+Read,B1z1.00,Malignant neoplasm of spleen NEC,res26: Cancer,diagnostic
+Read,B52..00,Malig neop of other and unspecified parts of nervous system,res26: Cancer,diagnostic
+Read,B58y411,Secondary cancer of the vulva,res26: Cancer,diagnostic
+Read,ByuD100,[X]Other types of follicular non-Hodgkin's lymphoma,res26: Cancer,diagnostic
+Read,B304z00,Malig neop of scapula and long bones of upper arm NOS,res26: Cancer,diagnostic
+Read,B614200,Hodgkin's nodular sclerosis of intrathoracic lymph nodes,res26: Cancer,diagnostic
+Read,B2z0.00,"Malig neop of upper respiratory tract, part unspecified",res26: Cancer,diagnostic
+Read,B003000,"Malignant neoplasm of lower lip, buccal aspect",res26: Cancer,diagnostic
+Read,B672.11,Thrombocytic leukaemia,res26: Cancer,diagnostic
+Read,B623300,Malignant histiocytosis of intra-abdominal lymph nodes,res26: Cancer,diagnostic
+Read,B324.00,Malignant melanoma of scalp and neck,res26: Cancer,diagnostic
+Read,B106.00,"Malignant neoplasm, overlapping lesion of oesophagus",res26: Cancer,diagnostic
+Read,B673.00,Mast cell leukaemia,res26: Cancer,diagnostic
+Read,B620z00,Nodular lymphoma NOS,res26: Cancer,diagnostic
+Read,B30W.00,Malignant neoplasm/overlap lesion/bone+articulr cartilage,res26: Cancer,diagnostic
+Read,B001.00,"Malignant neoplasm of lower lip, vermilion border",res26: Cancer,diagnostic
+Read,B44y.00,Malignant neoplasm of other site of uterine adnexa,res26: Cancer,diagnostic
+Read,B005.00,Malignant neoplasm of commissure of lip,res26: Cancer,diagnostic
+Read,B615z00,"Hodgkin's disease, mixed cellularity NOS",res26: Cancer,diagnostic
+Read,B323500,Malignant melanoma of temple,res26: Cancer,diagnostic
+Read,B325500,Malignant melanoma of perineum,res26: Cancer,diagnostic
+Read,B602z00,Burkitt's lymphoma NOS,res26: Cancer,diagnostic
+Read,B305100,Malignant neoplasm of carpal bone - lunate,res26: Cancer,diagnostic
+Read,B653100,Granulocytic sarcoma,res26: Cancer,diagnostic
+Read,B206.00,"Malignant neoplasm, overlapping lesion of accessory sinuses",res26: Cancer,diagnostic
+Read,B48y200,"Malignant neoplasm, overlapping lesion male genital orgs",res26: Cancer,diagnostic
+Read,B323300,Malignant melanoma of forehead,res26: Cancer,diagnostic
+Read,B323z00,Malignant melanoma of face NOS,res26: Cancer,diagnostic
+Read,B307.00,Malignant neoplasm of long bones of leg,res26: Cancer,diagnostic
+Read,B48y.00,Malignant neoplasm of other male genital organ,res26: Cancer,diagnostic
+Read,B350100,Malignant neoplasm of areola of male breast,res26: Cancer,diagnostic
+Read,B612400,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,res26: Cancer,diagnostic
+Read,ByuA000,[X]Malignant neoplasm/other and unspecified cranial nerves,res26: Cancer,diagnostic
+Read,B55y000,Malignant neoplasm of back NOS,res26: Cancer,diagnostic
+Read,B004200,"Malignant neoplasm of lip unspecified, mucosa",res26: Cancer,diagnostic
+Read,B550.00,"Malignant neoplasm of head, neck and face",res26: Cancer,diagnostic
+Read,B48y000,Malignant neoplasm of seminal vesicle,res26: Cancer,diagnostic
+Read,B430100,Malignant neoplasm of fundus of corpus uteri,res26: Cancer,diagnostic
+Read,ByuC600,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system,res26: Cancer,diagnostic
+Read,B613100,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck",res26: Cancer,diagnostic
+Read,B517z00,Malignant neoplasm of brain stem NOS,res26: Cancer,diagnostic
+Read,B150200,Primary angiosarcoma of liver,res26: Cancer,diagnostic
+Read,B560900,Secondary and unspec malig neop deep cervical LN,res26: Cancer,diagnostic
+Read,B350000,Malignant neoplasm of nipple of male breast,res26: Cancer,diagnostic
+Read,B62y600,Malignant lymphoma NOS of intrapelvic lymph nodes,res26: Cancer,diagnostic
+Read,B320.00,Malignant melanoma of lip,res26: Cancer,diagnostic
+Read,B623000,Malignant histiocytosis of unspecified site,res26: Cancer,diagnostic
+Read,B561700,Secondary and unspec malig neop inferior tracheobronchial LN,res26: Cancer,diagnostic
+Read,B300z00,Malignant neoplasm of bones of skull and face NOS,res26: Cancer,diagnostic
+Read,B562400,Secondary and unspec malig neop external iliac lymph nodes,res26: Cancer,diagnostic
+Read,B627D00,Diffuse non-Hodgkin's centroblastic lymphoma,res26: Cancer,diagnostic
+Read,B574z00,Secondary malig neop of small intestine or duodenum NOS,res26: Cancer,diagnostic
+Read,B18y600,Malignant neoplasm of the pouch of Douglas,res26: Cancer,diagnostic
+Read,B00zz00,"Malignant neoplasm of lip, vermilion border NOS",res26: Cancer,diagnostic
+Read,B010.11,Malignant neoplasm of posterior third of tongue,res26: Cancer,diagnostic
+Read,B055100,Malignant neoplasm of roof of mouth,res26: Cancer,diagnostic
+Read,B308800,Malignant neoplasm of first metatarsal bone,res26: Cancer,diagnostic
+Read,B315000,Malignant neoplasm of connective and soft tissue of buttock,res26: Cancer,diagnostic
+Read,B521z00,Malignant neoplasm of cerebral meninges NOS,res26: Cancer,diagnostic
+Read,B600300,Reticulosarcoma of intra-abdominal lymph nodes,res26: Cancer,diagnostic
+Read,B520100,Malignant neoplasm of optic nerve,res26: Cancer,diagnostic
+Read,B601100,"Lymphosarcoma of lymph nodes of head, face and neck",res26: Cancer,diagnostic
+Read,B055.00,Malignant neoplasm of palate unspecified,res26: Cancer,diagnostic
+Read,B62zz11,Immunoproliferative neoplasm,res26: Cancer,diagnostic
+Read,B02y.00,Malignant neoplasm of other major salivary glands,res26: Cancer,diagnostic
+Read,B564z00,Secondary and unspec malig neop of inguinal and leg LN NOS,res26: Cancer,diagnostic
+Read,B58y300,Secondary malignant neoplasm of vagina,res26: Cancer,diagnostic
+Read,B653.00,Myeloid sarcoma,res26: Cancer,diagnostic
+Read,B431z00,Malignant neoplasm of isthmus of uterine body NOS,res26: Cancer,diagnostic
+Read,B200000,Malignant neoplasm of cartilage of nose,res26: Cancer,diagnostic
+Read,B022.00,Malignant neoplasm of sublingual gland,res26: Cancer,diagnostic
+Read,B627100,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma,res26: Cancer,diagnostic
+Read,B540z00,Malignant neoplasm of adrenal gland NOS,res26: Cancer,diagnostic
+Read,B003.00,"Malignant neoplasm of lower lip, inner aspect",res26: Cancer,diagnostic
+Read,B600100,"Reticulosarcoma of lymph nodes of head, face and neck",res26: Cancer,diagnostic
+Read,B510400,Malignant neoplasm of hypothalamus,res26: Cancer,diagnostic
+Read,B613000,"Hodgkin's, lymphocytic-histiocytic predominance unspec site",res26: Cancer,diagnostic
+Read,B51y.00,Malignant neoplasm of other parts of brain,res26: Cancer,diagnostic
+Read,B323100,Malignant melanoma of chin,res26: Cancer,diagnostic
+Read,B41y000,Malignant neoplasm of cervical stump,res26: Cancer,diagnostic
+Read,B304300,Malignant neoplasm of radius,res26: Cancer,diagnostic
+Read,B620300,Nodular lymphoma of intra-abdominal lymph nodes,res26: Cancer,diagnostic
+Read,B310z00,"Malig neop connective and soft tissue head, face, neck NOS",res26: Cancer,diagnostic
+Read,B161000,Malignant neoplasm of cystic duct,res26: Cancer,diagnostic
+Read,B1z1100,Fibrosarcoma of spleen,res26: Cancer,diagnostic
+Read,B304.00,Malignant neoplasm of scapula and long bones of upper arm,res26: Cancer,diagnostic
+Read,B601000,Lymphosarcoma of unspecified site,res26: Cancer,diagnostic
+Read,B507.00,Malignant neoplasm of lacrimal duct,res26: Cancer,diagnostic
+Read,B62z500,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg,res26: Cancer,diagnostic
+Read,B308200,Malignant neoplasm of calcaneum,res26: Cancer,diagnostic
+Read,B201300,Malignant neoplasm of mastoid air cells,res26: Cancer,diagnostic
+Read,B67y000,Lymphosarcoma cell leukaemia,res26: Cancer,diagnostic
+Read,B4A4.00,Malignant neoplasm of paraurethral glands,res26: Cancer,diagnostic
+Read,B484.00,Malignant neoplasm of epididymis,res26: Cancer,diagnostic
+Read,B61z400,Hodgkin's disease NOS of lymph nodes of axilla and arm,res26: Cancer,diagnostic
+Read,B58y200,Secondary malignant neoplasm of cervix uteri,res26: Cancer,diagnostic
+Read,B621500,Mycosis fungoides of lymph nodes of inguinal region and leg,res26: Cancer,diagnostic
+Read,B562100,Secondary and unspec malig neop superficial mesenteric LN,res26: Cancer,diagnostic
+Read,B305.12,Malignant neoplasm of metacarpal bones,res26: Cancer,diagnostic
+Read,B313200,Malignant neoplasm of great vessels,res26: Cancer,diagnostic
+Read,ByuDB00,"[X]Mal neoplasm/lymphoid,haematopoietic+related tissu,unspcf",res26: Cancer,diagnostic
+Read,B004000,"Malignant neoplasm of lip unspecified, buccal aspect",res26: Cancer,diagnostic
+Read,B550500,Malignant neoplasm of supraclavicular fossa NOS,res26: Cancer,diagnostic
+Read,B62y200,Malignant lymphoma NOS of intrathoracic lymph nodes,res26: Cancer,diagnostic
+Read,B430000,Malignant neoplasm of cornu of corpus uteri,res26: Cancer,diagnostic
+Read,B064z00,Malignant neoplasm of anterior epiglottis NOS,res26: Cancer,diagnostic
+Read,B642.00,Subacute lymphoid leukaemia,res26: Cancer,diagnostic
+Read,Byu3100,"[X]Malignant neoplasm/bones+articular cartilage/limb,unspfd",res26: Cancer,diagnostic
+Read,B565z00,Secondary and unspec malig neop intrapelvic LN NOS,res26: Cancer,diagnostic
+Read,B581.00,Secondary malignant neoplasm of other urinary organs,res26: Cancer,diagnostic
+Read,B305z00,Malignant neoplasm of hand bones NOS,res26: Cancer,diagnostic
+Read,B613300,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node",res26: Cancer,diagnostic
+Read,B305.00,Malignant neoplasm of hand bones,res26: Cancer,diagnostic
+Read,B563z00,Secondary and unspec malig neop axilla and upper limb LN NOS,res26: Cancer,diagnostic
+Read,B327000,Malignant melanoma of hip,res26: Cancer,diagnostic
+Read,B201z00,"Malig neop auditory tube, middle ear, mastoid air cells NOS",res26: Cancer,diagnostic
+Read,B48yz00,Malignant neoplasm of other male genital organ NOS,res26: Cancer,diagnostic
+Read,Byu5800,"[X]Mal neoplasm/connective+soft tissue of trunk,unspecified",res26: Cancer,diagnostic
+Read,ByuD800,[X]Other specified leukaemias,res26: Cancer,diagnostic
+Read,B54X.00,"Malignant neoplasm-pluriglandular involvement,unspecified",res26: Cancer,diagnostic
+Read,B524500,Malignant neoplasm of peripheral nerve of pelvis,res26: Cancer,diagnostic
+Read,B000.00,"Malignant neoplasm of upper lip, vermilion border",res26: Cancer,diagnostic
+Read,B624z00,Leukaemic reticuloendotheliosis NOS,res26: Cancer,diagnostic
+Read,B322z00,Malignant melanoma of ear and external auricular canal NOS,res26: Cancer,diagnostic
+Read,B524200,"Malignant neoplasm of peripheral nerve of low limb, incl hip",res26: Cancer,diagnostic
+Read,Byu2400,[X]Malignant neoplasm/ill-defined sites within resp system,res26: Cancer,diagnostic
+Read,B524400,Malignant neoplasm of peripheral nerve of abdomen,res26: Cancer,diagnostic
+Read,B565000,Secondary and unspec malig neop internal iliac lymph nodes,res26: Cancer,diagnostic
+Read,B504.00,Malignant neoplasm of cornea,res26: Cancer,diagnostic
+Read,B161z00,Malignant neoplasm of extrahepatic bile ducts NOS,res26: Cancer,diagnostic
+Read,B08y.00,Malignant neoplasm of other specified hypopharyngeal site,res26: Cancer,diagnostic
+Read,B501000,Malignant neoplasm of connective tissue of orbit,res26: Cancer,diagnostic
+Read,B305D00,Malignant neoplasm of phalanges of hand,res26: Cancer,diagnostic
+Read,B52y.00,Malignant neoplasm of other specified part of nervous system,res26: Cancer,diagnostic
+Read,B624.12,Hairy cell leukaemia,res26: Cancer,diagnostic
+Read,ByuC400,[X]Secondary malignant neoplasm/oth+unspcfd digestive organs,res26: Cancer,diagnostic
+Read,B613200,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes",res26: Cancer,diagnostic
+Read,B064100,Malignant neoplasm of glossoepiglottic fold,res26: Cancer,diagnostic
+Read,ByuD700,[X]Other monocytic leukaemia,res26: Cancer,diagnostic
+Read,B626z00,Malignant mast cell tumour NOS,res26: Cancer,diagnostic
+Read,B151200,Malignant neoplasm of intrahepatic biliary passages,res26: Cancer,diagnostic
+Read,B62x000,T-zone lymphoma,res26: Cancer,diagnostic
+Read,B067.00,Malignant neoplasm of posterior wall of oropharynx,res26: Cancer,diagnostic
+Read,B003200,"Malignant neoplasm of lower lip, mucosa",res26: Cancer,diagnostic
+Read,B553100,Malignant neoplasm of presacral region,res26: Cancer,diagnostic
+Read,B003100,"Malignant neoplasm of lower lip, frenulum",res26: Cancer,diagnostic
+Read,B54y.00,Malignant neoplasm of other specified endocrine gland,res26: Cancer,diagnostic
+Read,B18y700,Malignant neoplasm of mesentery,res26: Cancer,diagnostic
+Read,B002300,"Malignant neoplasm of upper lip, oral aspect",res26: Cancer,diagnostic
+Read,B312z00,Malig neop connective and soft tissue hip and leg NOS,res26: Cancer,diagnostic
+Read,B621300,Mycosis fungoides of intra-abdominal lymph nodes,res26: Cancer,diagnostic
+Read,B06yz00,Malignant neoplasm of other specified site of oropharynx NOS,res26: Cancer,diagnostic
+Read,B010z00,Malignant neoplasm of fixed part of tongue NOS,res26: Cancer,diagnostic
+Read,B311400,Malignant neoplasm of connective and soft tissue of finger,res26: Cancer,diagnostic
+Read,B517300,Malignant neoplasm of pons,res26: Cancer,diagnostic
+Read,Byu5900,"[X]Malignant neoplasm/connective + soft tissue,unspecified",res26: Cancer,diagnostic
+Read,B62x600,True histiocytic lymphoma,res26: Cancer,diagnostic
+Read,B001100,"Malignant neoplasm of lower lip, lipstick area",res26: Cancer,diagnostic
+Read,B1z2.00,"Malignant neoplasm, overlapping lesion of digestive system",res26: Cancer,diagnostic
+Read,B062300,Malignant neoplasm of palatopharyngeal arch,res26: Cancer,diagnostic
+Read,B1z1z00,Malignant neoplasm of spleen NOS,res26: Cancer,diagnostic
+Read,B42..00,Malignant neoplasm of placenta,res26: Cancer,diagnostic
+Read,B561z00,Secondary and unspec malig neop intrathoracic LN NOS,res26: Cancer,diagnostic
+Read,B560400,Secondary and unspec malig neop deep parotid lymph nodes,res26: Cancer,diagnostic
+Read,B308B00,Malignant neoplasm of fourth metatarsal bone,res26: Cancer,diagnostic
+Read,B602500,Burkitt's lymphoma of lymph nodes of inguinal region and leg,res26: Cancer,diagnostic
+Read,Byu5300,"[X]Kaposi's sarcoma, unspecified",res26: Cancer,diagnostic
+Read,B66z.00,Monocytic leukaemia NOS,res26: Cancer,diagnostic
+Read,B243.00,Malignant neoplasm of posterior mediastinum,res26: Cancer,diagnostic
+Read,B03z.00,Malignant neoplasm of gum NOS,res26: Cancer,diagnostic
+Read,B517200,Malignant neoplasm of midbrain,res26: Cancer,diagnostic
+Read,B62z200,Unspec malig neop lymphoid/histiocytic of intrathoracic node,res26: Cancer,diagnostic
+Read,B138.00,"Malignant neoplasm, overlapping lesion of colon",res26: Cancer,diagnostic
+Read,B003z00,"Malignant neoplasm of lower lip, inner aspect NOS",res26: Cancer,diagnostic
+Read,B003300,"Malignant neoplasm of lower lip, oral aspect",res26: Cancer,diagnostic
+Read,B110111,Malignant neoplasm of gastro-oesophageal junction,res26: Cancer,diagnostic
+Read,B00z100,"Malignant neoplasm of lip, unspecified, lipstick area",res26: Cancer,diagnostic
+Read,B540100,Malignant neoplasm of adrenal medulla,res26: Cancer,diagnostic
+Read,B67y.00,Other and unspecified leukaemia,res26: Cancer,diagnostic
+Read,B613500,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg",res26: Cancer,diagnostic
+Read,B314100,Malig neoplasm of connective and soft tissues of lumb spine,res26: Cancer,diagnostic
+Read,B305C00,Malignant neoplasm of fifth metacarpal bone,res26: Cancer,diagnostic
+Read,B623100,"Malignant histiocytosis of lymph nodes head, face and neck",res26: Cancer,diagnostic
+Read,B55y200,Malignant neoplasm of flank NOS,res26: Cancer,diagnostic
+Read,B61z700,Hodgkin's disease NOS of spleen,res26: Cancer,diagnostic
+Read,B615100,"Hodgkin's mixed cellularity of lymph nodes head, face, neck",res26: Cancer,diagnostic
+Read,B070.00,Malignant neoplasm of roof of nasopharynx,res26: Cancer,diagnostic
+Read,B17y000,Malignant neoplasm of ectopic pancreatic tissue,res26: Cancer,diagnostic
+Read,B241.00,Malignant neoplasm of heart,res26: Cancer,diagnostic
+Read,B613600,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes",res26: Cancer,diagnostic
+Read,B34y000,Malignant neoplasm of ectopic site of female breast,res26: Cancer,diagnostic
+Read,B620500,Nodular lymphoma of lymph nodes of inguinal region and leg,res26: Cancer,diagnostic
+Read,B300300,Malignant neoplasm of nasal bone,res26: Cancer,diagnostic
+Read,B241300,Malignant neoplasm of pericardium,res26: Cancer,diagnostic
+Read,B616000,Hodgkin's lymphocytic depletion of unspecified site,res26: Cancer,diagnostic
+Read,B0z1.00,Malignant neoplasm of Waldeyer's ring,res26: Cancer,diagnostic
+Read,B621800,Mycosis fungoides of lymph nodes of multiple sites,res26: Cancer,diagnostic
+Read,B35z000,Malignant neoplasm of ectopic site of male breast,res26: Cancer,diagnostic
+Read,B308100,Malignant neoplasm of talus,res26: Cancer,diagnostic
+Read,B600700,Reticulosarcoma of spleen,res26: Cancer,diagnostic
+Read,B051000,Malignant neoplasm of upper buccal sulcus,res26: Cancer,diagnostic
+Read,B071.00,Malignant neoplasm of posterior wall of nasopharynx,res26: Cancer,diagnostic
+Read,Byu5700,"[X]Malignant neoplasm of peritoneum, unspecified",res26: Cancer,diagnostic
+Read,B45y.00,Malignant neoplasm of other specified female genital organ,res26: Cancer,diagnostic
+Read,B32y000,Overlapping malignant melanoma of skin,res26: Cancer,diagnostic
+Read,B561200,Secondary and unspec malig neop diaphragmatic lymph nodes,res26: Cancer,diagnostic
+Read,B300B00,Malignant neoplasm of turbinate,res26: Cancer,diagnostic
+Read,B055000,Malignant neoplasm of junction of hard and soft palate,res26: Cancer,diagnostic
+Read,B62zz00,Lymphoid and histiocytic malignancy NOS,res26: Cancer,diagnostic
+Read,B17yz00,Malignant neoplasm of specified site of pancreas NOS,res26: Cancer,diagnostic
+Read,B621000,Mycosis fungoides of unspecified site,res26: Cancer,diagnostic
+Read,B470z00,Malignant neoplasm of undescended testis NOS,res26: Cancer,diagnostic
+Read,ByuC100,[X]Malignant neoplasm/overlap lesion/other+ill-defined sites,res26: Cancer,diagnostic
+Read,B621400,Mycosis fungoides of lymph nodes of axilla and upper limb,res26: Cancer,diagnostic
+Read,B175.00,"Malignant neoplasm, overlapping lesion of pancreas",res26: Cancer,diagnostic
+Read,B615000,"Hodgkin's disease, mixed cellularity of unspecified site",res26: Cancer,diagnostic
+Read,B58y211,Secondary cancer of the cervix,res26: Cancer,diagnostic
+Read,B11y100,Malignant neoplasm of posterior wall of stomach NEC,res26: Cancer,diagnostic
+Read,B61z800,Hodgkin's disease NOS of lymph nodes of multiple sites,res26: Cancer,diagnostic
+Read,B576z00,Secondary malig neop of retroperitoneum or peritoneum NOS,res26: Cancer,diagnostic
+Read,B602300,Burkitt's lymphoma of intra-abdominal lymph nodes,res26: Cancer,diagnostic
+Read,B20y.00,"Malig neop other site nasal cavity, middle ear and sinuses",res26: Cancer,diagnostic
+Read,B071z00,Malignant neoplasm of posterior wall of nasopharynx NOS,res26: Cancer,diagnostic
+Read,B551200,Malignant neoplasm of intrathoracic site NOS,res26: Cancer,diagnostic
+Read,ByuC500,[X]2ndry malignant neoplasm/bladder+oth+unsp urinary organs,res26: Cancer,diagnostic
+Read,B051100,Malignant neoplasm of lower buccal sulcus,res26: Cancer,diagnostic
+Read,B213z00,Malignant neoplasm of laryngeal cartilage NOS,res26: Cancer,diagnostic
+Read,B324000,Malignant melanoma of scalp,res26: Cancer,diagnostic
+Read,B58y800,Secondary malignant neoplasm of epididymis and vas deferens,res26: Cancer,diagnostic
+Read,B692.00,Subacute myelomonocytic leukaemia,res26: Cancer,diagnostic
+Read,B313300,Malig neoplasm of connective and soft tissues of thor spine,res26: Cancer,diagnostic
+Read,B31z000,Kaposi's sarcoma of soft tissue,res26: Cancer,diagnostic
+Read,B324z00,Malignant melanoma of scalp and neck NOS,res26: Cancer,diagnostic
+Read,B600z00,Reticulosarcoma NOS,res26: Cancer,diagnostic
+Read,B062100,Malignant neoplasm of glossopalatine fold,res26: Cancer,diagnostic
+Read,ByuD200,[X]Other types of diffuse non-Hodgkin's lymphoma,res26: Cancer,diagnostic
+Read,B201100,Malignant neoplasm of tympanic cavity,res26: Cancer,diagnostic
+Read,B313z00,Malig neop of connective and soft tissue of thorax NOS,res26: Cancer,diagnostic
+Read,B002200,"Malignant neoplasm of upper lip, mucosa",res26: Cancer,diagnostic
+Read,Byu2300,[X]Malignant neopl/overlapping les/resp+intrathoracic organs,res26: Cancer,diagnostic
+Read,B000z00,"Malignant neoplasm of upper lip, vermilion border NOS",res26: Cancer,diagnostic
+Read,B563100,Secondary and unspec malig neop supratrochlear lymph nodes,res26: Cancer,diagnostic
+Read,B61z500,Hodgkin's disease NOS of lymph nodes inguinal region and leg,res26: Cancer,diagnostic
+Read,B200100,Malignant neoplasm of nasal conchae,res26: Cancer,diagnostic
+Read,B002100,"Malignant neoplasm of upper lip, frenulum",res26: Cancer,diagnostic
+Read,B545z00,Malignant neoplasm of aortic body or paraganglia NOS,res26: Cancer,diagnostic
+Read,B004300,"Malignant neoplasm of lip, oral aspect",res26: Cancer,diagnostic
+Read,B312500,Malignant neoplasm of connective and soft tissue of toe,res26: Cancer,diagnostic
+Read,B073200,Malignant neoplasm posterior margin nasal septum and choanae,res26: Cancer,diagnostic
+Read,B574200,Secondary malignant neoplasm of ileum,res26: Cancer,diagnostic
+Read,B67yz00,Other and unspecified leukaemia NOS,res26: Cancer,diagnostic
+Read,B002.00,"Malignant neoplasm of upper lip, inner aspect",res26: Cancer,diagnostic
+Read,B602200,Burkitt's lymphoma of intrathoracic lymph nodes,res26: Cancer,diagnostic
+Read,B12y.00,Malignant neoplasm of other specified site small intestine,res26: Cancer,diagnostic
+Read,B520.00,Malignant neoplasm of cranial nerves,res26: Cancer,diagnostic
+Read,B60y.00,Other specified reticulosarcoma or lymphosarcoma,res26: Cancer,diagnostic
+Read,B062z00,Malignant neoplasm of tonsillar fossa NOS,res26: Cancer,diagnostic
+Read,B510300,Malignant neoplasm of globus pallidus,res26: Cancer,diagnostic
+Read,B60z.00,Reticulosarcoma or lymphosarcoma NOS,res26: Cancer,diagnostic
+Read,B62z800,Unspec malig neop lymphoid/histiocytic of multiple sites,res26: Cancer,diagnostic
+Read,B110000,Malignant neoplasm of cardiac orifice of stomach,res26: Cancer,diagnostic
+Read,B24y.00,"Malig neop of other site of heart, thymus and mediastinum",res26: Cancer,diagnostic
+Read,B582100,Secondary malignant neoplasm of skin of face,res26: Cancer,diagnostic
+Read,B622z00,Sezary's disease NOS,res26: Cancer,diagnostic
+Read,B601500,Lymphosarcoma of lymph nodes of inguinal region and leg,res26: Cancer,diagnostic
+Read,B610100,"Hodgkin's paragranuloma of lymph nodes of head, face, neck",res26: Cancer,diagnostic
+Read,B520z00,Malignant neoplasm of cranial nerves NOS,res26: Cancer,diagnostic
+Read,B073z00,Malignant neoplasm of anterior wall of nasopharynx NOS,res26: Cancer,diagnostic
+Read,B002z00,"Malignant neoplasm of upper lip, inner aspect NOS",res26: Cancer,diagnostic
+Read,B626500,Mast cell malignancy of lymph nodes inguinal region and leg,res26: Cancer,diagnostic
+Read,B00z000,"Malignant neoplasm of lip, unspecified, external",res26: Cancer,diagnostic
+Read,B51yz00,Malignant neoplasm of other part of brain NOS,res26: Cancer,diagnostic
+Read,B651000,Chronic eosinophilic leukaemia,res26: Cancer,diagnostic
+Read,B220100,Malignant neoplasm of mucosa of trachea,res26: Cancer,diagnostic
+Read,B060100,Malignant neoplasm of palatine tonsil,res26: Cancer,diagnostic
+Read,Byu5400,"[X]Malignant neoplasm/peripheral nerves of trunk,unspecified",res26: Cancer,diagnostic
+Read,B616z00,"Hodgkin's disease, lymphocytic depletion NOS",res26: Cancer,diagnostic
+Read,B565200,Secondary and unspec malig neop circumflex iliac LN,res26: Cancer,diagnostic
+Read,B662.00,Subacute monocytic leukaemia,res26: Cancer,diagnostic
+Read,B4A1100,Malignant neoplasm of ureteropelvic junction,res26: Cancer,diagnostic
+Read,B182.00,Overlapping malign lesion of retroperitoneum and peritoneum,res26: Cancer,diagnostic
+Read,B03y.00,Malignant neoplasm of other sites of gum,res26: Cancer,diagnostic
+Read,B001z00,"Malignant neoplasm of lower lip, vermilion border NOS",res26: Cancer,diagnostic
+Read,B616700,"Hodgkin's disease, lymphocytic depletion of spleen",res26: Cancer,diagnostic
+Read,B241400,Mesothelioma of pericardium,res26: Cancer,diagnostic
+Read,B442.00,Malignant neoplasm of broad ligament,res26: Cancer,diagnostic
+Read,B507000,Malignant neoplasm of lacrimal sac,res26: Cancer,diagnostic
+Read,B626000,Mast cell malignancy of unspecified site,res26: Cancer,diagnostic
+Read,B625000,Letterer-Siwe disease of unspecified sites,res26: Cancer,diagnostic
+Read,B060200,Malignant neoplasm of overlapping lesion of tonsil,res26: Cancer,diagnostic
+Read,B013000,Malignant neoplasm of anterior 2/3 of tongue ventral surface,res26: Cancer,diagnostic
+Read,B322100,Malignant melanoma of external auditory meatus,res26: Cancer,diagnostic
+Read,ByuD400,[X]Other malignant immunoproliferative diseases,res26: Cancer,diagnostic
+Read,B625200,Letterer-Siwe disease of intrathoracic lymph nodes,res26: Cancer,diagnostic
+Read,B072z00,Malignant neoplasm of lateral wall of nasopharynx NOS,res26: Cancer,diagnostic
+Read,B051.00,Malignant neoplasm of vestibule of mouth,res26: Cancer,diagnostic
+Read,B601700,Lymphosarcoma of spleen,res26: Cancer,diagnostic
+Read,B651200,Chronic neutrophilic leukaemia,res26: Cancer,diagnostic
+Read,B312000,Malignant neoplasm of connective and soft tissue of hip,res26: Cancer,diagnostic
+Read,B66yz00,Other monocytic leukaemia NOS,res26: Cancer,diagnostic
+Read,B62z300,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes,res26: Cancer,diagnostic
+Read,B308z00,Malignant neoplasm of short bones of leg NOS,res26: Cancer,diagnostic
+Read,B610300,Hodgkin's paragranuloma of intra-abdominal lymph nodes,res26: Cancer,diagnostic
+Read,Byu5B00,[X]Kaposi's sarcoma of other sites,res26: Cancer,diagnostic
+Read,B500.00,"Malig neop eyeball excl conjunctiva, cornea, retina, choroid",res26: Cancer,diagnostic
+Read,B307z00,Malignant neoplasm of long bones of leg NOS,res26: Cancer,diagnostic
+Read,B081.00,Malignant neoplasm of pyriform sinus,res26: Cancer,diagnostic
+Read,B611100,"Hodgkin's granuloma of lymph nodes of head, face and neck",res26: Cancer,diagnostic
+Read,B172.00,Malignant neoplasm of tail of pancreas,res26: Cancer,diagnostic
+Read,B327300,Malignant melanoma of popliteal fossa area,res26: Cancer,diagnostic
+Read,B500000,Malignant neoplasm of ciliary body,res26: Cancer,diagnostic
+Read,B072.00,Malignant neoplasm of lateral wall of nasopharynx,res26: Cancer,diagnostic
+Read,B16..00,Malignant neoplasm gallbladder and extrahepatic bile ducts,res26: Cancer,diagnostic
+Read,Byu0.00,"[X]Malignant neoplasm of lip, oral cavity and pharynx",res26: Cancer,diagnostic
+Read,B542100,Malignant neoplasm of craniopharyngeal duct,res26: Cancer,diagnostic
+Read,B582300,Secondary malignant neoplasm of skin of trunk,res26: Cancer,diagnostic
+Read,B55y.00,Malignant neoplasm of other specified sites,res26: Cancer,diagnostic
+Read,B3z..00,"Malig neop of bone, connective tissue, skin and breast NOS",res26: Cancer,diagnostic
+Read,Byu2000,"[X]Malignant neoplasm of bronchus or lung, unspecified",res26: Cancer,diagnostic
+Read,B310100,Malignant neoplasm of soft tissue of face,res26: Cancer,diagnostic
+Read,B223100,Malignant neoplasm of middle lobe of lung,res26: Cancer,diagnostic
+Read,Byu5.00,[X]Malignant neoplasm of mesothelial and soft tissue,res26: Cancer,diagnostic
+Read,B053.00,Malignant neoplasm of soft palate,res26: Cancer,diagnostic
+Read,B01z.00,Malignant neoplasm of tongue NOS,res26: Cancer,diagnostic
+Read,B50y.00,Malignant neoplasm of other specified site of eye,res26: Cancer,diagnostic
+Read,B306300,Malignant neoplasm of sacral vertebra,res26: Cancer,diagnostic
+Read,Byu8.00,[X]Malignant neoplasm of male genital organs,res26: Cancer,diagnostic
+Read,ByuB.00,[X]Malignant neoplasm of thyroid and other endocrine glands,res26: Cancer,diagnostic
+Read,Byu7.00,[X]Malignant neoplasm of female genital organs,res26: Cancer,diagnostic
+Read,B307200,Malignant neoplasm of tibia,res26: Cancer,diagnostic
+Read,ByuD.00,"[X]Malignant neoplasms of lymphoid, haematopoietic and rela",res26: Cancer,diagnostic
+Read,B171.00,Malignant neoplasm of body of pancreas,res26: Cancer,diagnostic
+Read,Byu3.00,[X]Malignant neoplasm of bone and articular cartilage,res26: Cancer,diagnostic
+Read,B115.00,Malignant neoplasm of lesser curve of stomach unspecified,res26: Cancer,diagnostic
+Read,B497.00,Malignant neoplasm of urachus,res26: Cancer,diagnostic
+Read,B51z.00,Malignant neoplasm of brain NOS,res26: Cancer,diagnostic
+Read,B111100,Malignant neoplasm of pyloric canal of stomach,res26: Cancer,diagnostic
+Read,ByuA100,"[X]Malignant neoplasm/central nervous system, unspecified",res26: Cancer,diagnostic
+Read,B323000,Malignant melanoma of external surface of cheek,res26: Cancer,diagnostic
+Read,B327700,Malignant melanoma of foot,res26: Cancer,diagnostic
+Read,B101.00,Malignant neoplasm of thoracic oesophagus,res26: Cancer,diagnostic
+Read,B60..00,Lymphosarcoma and reticulosarcoma,res26: Cancer,diagnostic
+Read,B494.00,Malignant neoplasm of posterior wall of urinary bladder,res26: Cancer,diagnostic
+Read,B550100,Malignant neoplasm of cheek NOS,res26: Cancer,diagnostic
+Read,B01y.00,Malignant neoplasm of other sites of tongue,res26: Cancer,diagnostic
+Read,B223000,Malignant neoplasm of middle lobe bronchus,res26: Cancer,diagnostic
+Read,B562000,Secondary and unspec malig neop coeliac lymph nodes,res26: Cancer,diagnostic
+Read,B495.00,Malignant neoplasm of bladder neck,res26: Cancer,diagnostic
+Read,B345.00,Malignant neoplasm of lower-outer quadrant of female breast,res26: Cancer,diagnostic
+Read,B32y.00,Malignant melanoma of other specified skin site,res26: Cancer,diagnostic
+Read,B300.00,Malignant neoplasm of bones of skull and face,res26: Cancer,diagnostic
+Read,B064.00,Malignant neoplasm of anterior epiglottis,res26: Cancer,diagnostic
+Read,B310.00,"Malig neop of connective and soft tissue head, face and neck",res26: Cancer,diagnostic
+Read,B105.00,Malignant neoplasm of lower third of oesophagus,res26: Cancer,diagnostic
+Read,B30z000,Osteosarcoma,res26: Cancer,diagnostic
+Read,B61zz00,Hodgkin's disease NOS,res26: Cancer,diagnostic
+Read,B325700,Malignant melanoma of back,res26: Cancer,diagnostic
+Read,B543.00,Malignant neoplasm of pineal gland,res26: Cancer,diagnostic
+Read,B511.00,Malignant neoplasm of frontal lobe,res26: Cancer,diagnostic
+Read,B63z.00,Immunoproliferative neoplasm or myeloma NOS,res26: Cancer,diagnostic
+Read,B213.00,Malignant neoplasm of laryngeal cartilage,res26: Cancer,diagnostic
+Read,B670.00,Acute erythraemia and erythroleukaemia,res26: Cancer,diagnostic
+Read,B200z00,Malignant neoplasm of nasal cavities NOS,res26: Cancer,diagnostic
+Read,B224z00,"Malignant neoplasm of lower lobe, bronchus or lung NOS",res26: Cancer,diagnostic
+Read,B327500,Malignant melanoma of ankle,res26: Cancer,diagnostic
+Read,B2zz.00,Malignant neoplasm of respiratory tract NOS,res26: Cancer,diagnostic
+Read,B62y300,Malignant lymphoma NOS of intra-abdominal lymph nodes,res26: Cancer,diagnostic
+Read,B41yz00,Malignant neoplasm of other site of cervix NOS,res26: Cancer,diagnostic
+Read,B12z.00,Malignant neoplasm of small intestine NOS,res26: Cancer,diagnostic
+Read,B06z.00,Malignant neoplasm of oropharynx NOS,res26: Cancer,diagnostic
+Read,Byu3300,"[X]Malignant neoplasm/bone+articular cartilage, unspecified",res26: Cancer,diagnostic
+Read,B010.00,Malignant neoplasm of base of tongue,res26: Cancer,diagnostic
+Read,B483.00,"Malignant neoplasm of penis, part unspecified",res26: Cancer,diagnostic
+Read,ByuD000,[X]Other Hodgkin's disease,res26: Cancer,diagnostic
+Read,B03..00,Malignant neoplasm of gum,res26: Cancer,diagnostic
+Read,B18y.00,Malignant neoplasm of specified parts of peritoneum,res26: Cancer,diagnostic
+Read,B586.00,Secondary malignant neoplasm of ovary,res26: Cancer,diagnostic
+Read,B582000,Secondary malignant neoplasm of skin of head,res26: Cancer,diagnostic
+Read,B630.11,Kahler's disease,res26: Cancer,diagnostic
+Read,B080.00,Malignant neoplasm of postcricoid region,res26: Cancer,diagnostic
+Read,Byu1100,[X]Other specified carcinomas of liver,res26: Cancer,diagnostic
+Read,B121.00,Malignant neoplasm of jejunum,res26: Cancer,diagnostic
+Read,B011z00,Malignant neoplasm of dorsum of tongue NOS,res26: Cancer,diagnostic
+Read,B325600,Malignant melanoma of umbilicus,res26: Cancer,diagnostic
+Read,B114.00,Malignant neoplasm of body of stomach,res26: Cancer,diagnostic
+Read,B011.00,Malignant neoplasm of dorsal surface of tongue,res26: Cancer,diagnostic
+Read,B30X.00,"Malignant neoplasm/bones+articular cartilage/limb,unspfd",res26: Cancer,diagnostic
+Read,B451.00,Malignant neoplasm of labia majora,res26: Cancer,diagnostic
+Read,B306000,Malignant neoplasm of ilium,res26: Cancer,diagnostic
+Read,B222z00,"Malignant neoplasm of upper lobe, bronchus or lung NOS",res26: Cancer,diagnostic
+Read,B073.00,Malignant neoplasm of anterior wall of nasopharynx,res26: Cancer,diagnostic
+Read,B431.00,Malignant neoplasm of isthmus of uterine body,res26: Cancer,diagnostic
+Read,B18..00,Malignant neoplasm of retroperitoneum and peritoneum,res26: Cancer,diagnostic
+Read,B517.00,Malignant neoplasm of brain stem,res26: Cancer,diagnostic
+Read,B575.00,Secondary malignant neoplasm of large intestine and rectum,res26: Cancer,diagnostic
+Read,B623.00,Malignant histiocytosis,res26: Cancer,diagnostic
+Read,B611.00,Hodgkin's granuloma,res26: Cancer,diagnostic
+Read,B300C00,Malignant neoplasm of vomer,res26: Cancer,diagnostic
+Read,B62xX00,Oth and unspecif peripheral & cutaneous T-cell lymphomas,res26: Cancer,diagnostic
+Read,B150z00,Primary malignant neoplasm of liver NOS,res26: Cancer,diagnostic
+Read,B2z..00,Malig neop other/ill-defined sites resp/intrathoracic organs,res26: Cancer,diagnostic
+Read,B071100,Malignant neoplasm of pharyngeal tonsil,res26: Cancer,diagnostic
+Read,B55z.00,Malignant neoplasm of other and ill defined site NOS,res26: Cancer,diagnostic
+Read,B562z00,Secondary and unspec malig neop intra-abdominal LN NOS,res26: Cancer,diagnostic
+Read,B4Ay.00,Malignant neoplasm of other urinary organs,res26: Cancer,diagnostic
+Read,B312100,Malig neop of connective and soft tissue thigh and upper leg,res26: Cancer,diagnostic
+Read,B560800,Secondary and unspec malig neop anterior cervical LN,res26: Cancer,diagnostic
+Read,B620100,"Nodular lymphoma of lymph nodes of head, face and neck",res26: Cancer,diagnostic
+Read,B323400,Malignant melanoma of external surface of nose,res26: Cancer,diagnostic
+Read,B314.00,Malignant neoplasm of connective and soft tissue of abdomen,res26: Cancer,diagnostic
+Read,B491.00,Malignant neoplasm of dome of urinary bladder,res26: Cancer,diagnostic
+Read,Byu8200,"[X]Malignant neoplasm of male genital organ, unspecified",res26: Cancer,diagnostic
+Read,B516.00,Malignant neoplasm of cerebellum,res26: Cancer,diagnostic
+Read,Byu9000,"[X]Malignant neoplasm of urinary organ, unspecified",res26: Cancer,diagnostic
+Read,B343.00,Malignant neoplasm of lower-inner quadrant of female breast,res26: Cancer,diagnostic
+Read,B563300,Secondary and unspec malig neop pectoral lymph nodes,res26: Cancer,diagnostic
+Read,B326200,Malignant melanoma of fore-arm,res26: Cancer,diagnostic
+Read,B324100,Malignant melanoma of neck,res26: Cancer,diagnostic
+Read,B501.00,Malignant neoplasm of orbit,res26: Cancer,diagnostic
+Read,B2...11,Carcinoma of respiratory tract and intrathoracic organs,res26: Cancer,diagnostic
+Read,B430z00,Malignant neoplasm of corpus uteri NOS,res26: Cancer,diagnostic
+Read,B040.00,Malignant neoplasm of anterior portion of floor of mouth,res26: Cancer,diagnostic
+Read,B327.00,Malignant melanoma of lower limb and hip,res26: Cancer,diagnostic
+Read,B508.00,"Malignant neoplasm, overlapping lesion of eye and adnexa",res26: Cancer,diagnostic
+Read,B325z00,"Malignant melanoma of trunk, excluding scrotum, NOS",res26: Cancer,diagnostic
+Read,B58y900,Secondary malignant neoplasm of tongue,res26: Cancer,diagnostic
+Read,Byu1200,"[X]Malignant neoplasm of intestinal tract, part unspecified",res26: Cancer,diagnostic
+Read,B430300,Malignant neoplasm of myometrium of corpus uteri,res26: Cancer,diagnostic
+Read,B142000,Malignant neoplasm of cloacogenic zone,res26: Cancer,diagnostic
+Read,B630300,Lambda light chain myeloma,res26: Cancer,diagnostic
+Read,B041.00,Malignant neoplasm of lateral portion of floor of mouth,res26: Cancer,diagnostic
+Read,B443.00,Malignant neoplasm of parametrium,res26: Cancer,diagnostic
+Read,B0z..00,"Malig neop other/ill-defined sites lip, oral cavity, pharynx",res26: Cancer,diagnostic
+Read,B625800,Letterer-Siwe disease of lymph nodes of multiple sites,res26: Cancer,diagnostic
+Read,B0zy.00,"Malignant neoplasm of other sites lip, oral cavity, pharynx",res26: Cancer,diagnostic
+Read,B510000,Malignant neoplasm of basal ganglia,res26: Cancer,diagnostic
+Read,B551.00,Malignant neoplasm of thorax,res26: Cancer,diagnostic
+Read,B323.00,Malignant melanoma of other and unspecified parts of face,res26: Cancer,diagnostic
+Read,B545200,Malignant neoplasm of coccygeal body,res26: Cancer,diagnostic
+Read,B512.00,Malignant neoplasm of temporal lobe,res26: Cancer,diagnostic
+Read,B515000,Malignant neoplasm of choroid plexus,res26: Cancer,diagnostic
+Read,B017.00,Malignant overlapping lesion of tongue,res26: Cancer,diagnostic
+Read,B302000,Malignant neoplasm of cervical vertebra,res26: Cancer,diagnostic
+Read,B625z00,Letterer-Siwe disease NOS,res26: Cancer,diagnostic
+Read,B323200,Malignant melanoma of eyebrow,res26: Cancer,diagnostic
+Read,B486.00,Malignant neoplasm of scrotum,res26: Cancer,diagnostic
+Read,B48y100,Malignant neoplasm of tunica vaginalis,res26: Cancer,diagnostic
+Read,B565300,Secondary and unspec malig neop sacral lymph nodes,res26: Cancer,diagnostic
+Read,ByuA300,"[X]Malig neopl, overlap lesion brain & other part of CNS",res26: Cancer,diagnostic
+Read,B512z00,Malignant neoplasm of temporal lobe NOS,res26: Cancer,diagnostic
+Read,B451000,Malignant neoplasm of greater vestibular (Bartholin's) gland,res26: Cancer,diagnostic
+Read,B545100,Malignant neoplasm of aortic body,res26: Cancer,diagnostic
+Read,B49y000,"Malignant neoplasm, overlapping lesion of bladder",res26: Cancer,diagnostic
+Read,B59..00,Malignant neoplasm of unspecified site,res26: Cancer,diagnostic
+Read,B213300,Malignant neoplasm of thyroid cartilage,res26: Cancer,diagnostic
+Read,B64y.00,Other lymphoid leukaemia,res26: Cancer,diagnostic
+Read,B17y.00,Malignant neoplasm of other specified sites of pancreas,res26: Cancer,diagnostic
+Read,B111000,Malignant neoplasm of prepylorus of stomach,res26: Cancer,diagnostic
+Read,B13y.00,Malignant neoplasm of other specified sites of colon,res26: Cancer,diagnostic
+Read,B065.00,Malignant neoplasm of junctional region of epiglottis,res26: Cancer,diagnostic
+Read,B310200,Malignant neoplasm of soft tissue of neck,res26: Cancer,diagnostic
+Read,B523.00,Malignant neoplasm of spinal meninges,res26: Cancer,diagnostic
+Read,B302z00,Malignant neoplasm of vertebral column NOS,res26: Cancer,diagnostic
+Read,B517100,Malignant neoplasm of medulla oblongata,res26: Cancer,diagnostic
+Read,B482.00,Malignant neoplasm of body of penis,res26: Cancer,diagnostic
+Read,B304000,Malignant neoplasm of scapula,res26: Cancer,diagnostic
+Read,B582500,Secondary malignant neoplasm of skin of hip and leg,res26: Cancer,diagnostic
+Read,B35zz00,Malignant neoplasm of male breast NOS,res26: Cancer,diagnostic
+Read,B410.00,Malignant neoplasm of endocervix,res26: Cancer,diagnostic
+Read,B615.00,"Hodgkin's disease, mixed cellularity",res26: Cancer,diagnostic
+Read,B627200,Follicular non-Hodgkin's large cell lymphoma,res26: Cancer,diagnostic
+Read,B560.00,Secondary and unspec malig neop lymph nodes head/face/neck,res26: Cancer,diagnostic
+Read,B347.00,"Malignant neoplasm, overlapping lesion of breast",res26: Cancer,diagnostic
+Read,B58y700,Secondary malignant neoplasm of penis,res26: Cancer,diagnostic
+Read,B59zX00,"Kaposi's sarcoma, unspecified",res26: Cancer,diagnostic
+Read,B031.00,Malignant neoplasm of lower gum,res26: Cancer,diagnostic
+Read,B6z..00,Malignant neoplasm lymphatic or haematopoietic tissue NOS,res26: Cancer,diagnostic
+Read,Byu1300,[X]Malignant neoplsm/ill-defin sites within digestive system,res26: Cancer,diagnostic
+Read,B303100,Malignant neoplasm of sternum,res26: Cancer,diagnostic
+Read,B310400,Malignant neoplasm of tarsus of eyelid,res26: Cancer,diagnostic
+Read,B430211,Malignant neoplasm of endometrium,res26: Cancer,diagnostic
+Read,B563.00,Secondary and unspec malig neop axilla and upper limb LN,res26: Cancer,diagnostic
+Read,B325000,Malignant melanoma of axilla,res26: Cancer,diagnostic
+Read,B441.00,Malignant neoplasm of fallopian tube,res26: Cancer,diagnostic
+Read,B306500,Malignant sacral teratoma,res26: Cancer,diagnostic
+Read,B52X.00,"Malignant neoplasm of meninges, unspecified",res26: Cancer,diagnostic
+Read,B545.00,Malignant neoplasm of aortic body and other paraganglia,res26: Cancer,diagnostic
+Read,B311.00,Malig neop connective and soft tissue upper limb/shoulder,res26: Cancer,diagnostic
+Read,B311000,Malignant neoplasm of connective and soft tissue of shoulder,res26: Cancer,diagnostic
+Read,B562.00,Secondary and unspec malig neop intra-abdominal lymph nodes,res26: Cancer,diagnostic
+Read,B627500,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma,res26: Cancer,diagnostic
+Read,B480.00,Malignant neoplasm of prepuce (foreskin),res26: Cancer,diagnostic
+Read,B241z00,Malignant neoplasm of heart NOS,res26: Cancer,diagnostic
+Read,B410z00,Malignant neoplasm of endocervix NOS,res26: Cancer,diagnostic
+Read,B627300,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,res26: Cancer,diagnostic
+Read,B000100,"Malignant neoplasm of upper lip, lipstick area",res26: Cancer,diagnostic
+Read,Byu2500,"[X]Malignant neoplasm of mediastinum, part unspecified",res26: Cancer,diagnostic
+Read,B6z0.00,Kaposi's sarcoma of lymph nodes,res26: Cancer,diagnostic
+Read,B214.00,"Malignant neoplasm, overlapping lesion of larynx",res26: Cancer,diagnostic
+Read,B300900,Malignant neoplasm of zygomatic bone,res26: Cancer,diagnostic
+Read,B411.00,Malignant neoplasm of exocervix,res26: Cancer,diagnostic
+Read,B300500,Malignant neoplasm of orbital bone,res26: Cancer,diagnostic
+Read,B326000,Malignant melanoma of shoulder,res26: Cancer,diagnostic
+Read,B307100,Malignant neoplasm of fibula,res26: Cancer,diagnostic
+Read,B02z.00,Malignant neoplasm of major salivary gland NOS,res26: Cancer,diagnostic
+Read,B550300,Malignant neoplasm of jaw NOS,res26: Cancer,diagnostic
+Read,B103.00,Malignant neoplasm of upper third of oesophagus,res26: Cancer,diagnostic
+Read,B4z..00,Malignant neoplasm of genitourinary organ NOS,res26: Cancer,diagnostic
+Read,B524600,"Malignant neoplasm,overlap lesion periph nerve & auton ns",res26: Cancer,diagnostic
+Read,B62y100,"Malignant lymphoma NOS of lymph nodes of head, face and neck",res26: Cancer,diagnostic
+Read,B545000,Malignant neoplasm of glomus jugulare,res26: Cancer,diagnostic
+Read,B325800,Malignant melanoma of chest wall,res26: Cancer,diagnostic
+Read,B18y300,Malignant neoplasm of omentum,res26: Cancer,diagnostic
+Read,B674.00,Acute panmyelosis,res26: Cancer,diagnostic
+Read,B522.00,Malignant neoplasm of spinal cord,res26: Cancer,diagnostic
+Read,B563200,Secondary and unspec malig neop infraclavicular lymph nodes,res26: Cancer,diagnostic
+Read,B14z.00,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",res26: Cancer,diagnostic
+Read,B021.00,Malignant neoplasm of submandibular gland,res26: Cancer,diagnostic
+Read,B1zz.00,Malignant neoplasm of digestive tract and peritoneum NOS,res26: Cancer,diagnostic
+Read,B303z00,"Malignant neoplasm of rib, sternum and clavicle NOS",res26: Cancer,diagnostic
+Read,B117.00,"Malignant neoplasm, overlapping lesion of stomach",res26: Cancer,diagnostic
+Read,B592.00,Malignant neoplasms of independent (primary) multiple sites,res26: Cancer,diagnostic
+Read,B571.00,Secondary malignant neoplasm of mediastinum,res26: Cancer,diagnostic
+Read,B487.00,"Malignant neoplasm, overlapping lesion of penis",res26: Cancer,diagnostic
+Read,B515.00,Malignant neoplasm of cerebral ventricles,res26: Cancer,diagnostic
+Read,B306200,Malignant neoplasm of pubis,res26: Cancer,diagnostic
+Read,B327100,Malignant melanoma of thigh,res26: Cancer,diagnostic
+Read,B653000,Chloroma,res26: Cancer,diagnostic
+Read,B315.00,Malignant neoplasm of connective and soft tissue of pelvis,res26: Cancer,diagnostic
+Read,B062000,Malignant neoplasm of faucial pillar,res26: Cancer,diagnostic
+Read,B553.00,Malignant neoplasm of pelvis,res26: Cancer,diagnostic
+Read,ByuC800,[X]Malignant neoplasm without specification of site,res26: Cancer,diagnostic
+Read,B561900,Secondary and unspec malig neop pulmonary lymph nodes,res26: Cancer,diagnostic
+Read,B161100,Malignant neoplasm of hepatic duct,res26: Cancer,diagnostic
+Read,B453.00,Malignant neoplasm of clitoris,res26: Cancer,diagnostic
+Read,B410100,Malignant neoplasm of endocervical gland,res26: Cancer,diagnostic
+Read,B060z00,Malignant neoplasm tonsil NOS,res26: Cancer,diagnostic
+Read,B325200,Malignant melanoma of buttock,res26: Cancer,diagnostic
+Read,B300100,Malignant neoplasm of frontal bone,res26: Cancer,diagnostic
+Read,B327900,Malignant melanoma of great toe,res26: Cancer,diagnostic
+Read,B300000,Malignant neoplasm of ethmoid bone,res26: Cancer,diagnostic
+Read,B10y.00,Malignant neoplasm of other specified part of oesophagus,res26: Cancer,diagnostic
+Read,B61z.00,Hodgkin's disease NOS,res26: Cancer,diagnostic
+Read,B627600,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,res26: Cancer,diagnostic
+Read,B52W.00,"Malig neopl, overlap lesion brain & other part of CNS",res26: Cancer,diagnostic
+Read,B581200,Secondary malignant neoplasm of urethra,res26: Cancer,diagnostic

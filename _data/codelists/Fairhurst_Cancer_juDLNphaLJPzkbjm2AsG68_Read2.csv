@@ -1,0 +1,98 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B14z.00,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",res47: Cancer,diagnostic
+Read,B13z.00,Malignant neoplasm of colon NOS,res47: Cancer,diagnostic
+Read,B140.00,Malignant neoplasm of rectosigmoid junction,res47: Cancer,diagnostic
+Read,B13y.00,Malignant neoplasm of other specified sites of colon,res47: Cancer,diagnostic
+Read,B133.00,Malignant neoplasm of sigmoid colon,res47: Cancer,diagnostic
+Read,B132.00,Malignant neoplasm of descending colon,res47: Cancer,diagnostic
+Read,B13..00,Malignant neoplasm of colon,res47: Cancer,diagnostic
+Read,B131.00,Malignant neoplasm of transverse colon,res47: Cancer,diagnostic
+Read,B130.00,Malignant neoplasm of hepatic flexure of colon,res47: Cancer,diagnostic
+Read,B139.00,Hereditary nonpolyposis colon cancer,res47: Cancer,diagnostic
+Read,B135.00,Malignant neoplasm of appendix,res47: Cancer,diagnostic
+Read,B134.11,Carcinoma of caecum,res47: Cancer,diagnostic
+Read,B134.00,Malignant neoplasm of caecum,res47: Cancer,diagnostic
+Read,B138.00,"Malignant neoplasm, overlapping lesion of colon",res47: Cancer,diagnostic
+Read,B136.00,Malignant neoplasm of ascending colon,res47: Cancer,diagnostic
+Read,B137.00,Malignant neoplasm of splenic flexure of colon,res47: Cancer,diagnostic
+Read,B34..11,Ca female breast,res47: Cancer,diagnostic
+Read,B34..00,Malignant neoplasm of female breast,res47: Cancer,diagnostic
+Read,B14..00,"Malignant neoplasm of rectum, rectosigmoid junction and anus",res47: Cancer,diagnostic
+Read,B14y.00,"Malig neop other site rectum, rectosigmoid junction and anus",res47: Cancer,diagnostic
+Read,B13z.11,Colonic cancer,res47: Cancer,diagnostic
+Read,B143.00,Malignant neoplasm of anus unspecified,res47: Cancer,diagnostic
+Read,B142.00,Malignant neoplasm of anal canal,res47: Cancer,diagnostic
+Read,B141.00,Malignant neoplasm of rectum,res47: Cancer,diagnostic
+Read,B141.12,Rectal carcinoma,res47: Cancer,diagnostic
+Read,B141.11,Carcinoma of rectum,res47: Cancer,diagnostic
+Read,B142.11,Anal carcinoma,res47: Cancer,diagnostic
+Read,B142000,Malignant neoplasm of cloacogenic zone,res47: Cancer,diagnostic
+Read,B804000,Carcinoma in situ of rectosigmoid junction,res47: Cancer,diagnostic
+Read,B575.00,Secondary malignant neoplasm of large intestine and rectum,res47: Cancer,diagnostic
+Read,B804.00,Carcinoma in situ of rectum and rectosigmoid junction,res47: Cancer,diagnostic
+Read,B1z0.11,Cancer of bowel,res47: Cancer,diagnostic
+Read,B803z00,Carcinoma in situ of colon NOS,res47: Cancer,diagnostic
+Read,B803100,Carcinoma in situ of transverse colon,res47: Cancer,diagnostic
+Read,B575100,Secondary malignant neoplasm of rectum,res47: Cancer,diagnostic
+Read,B575000,Secondary malignant neoplasm of colon,res47: Cancer,diagnostic
+Read,B803000,Carcinoma in situ of hepatic flexure of colon,res47: Cancer,diagnostic
+Read,B575z00,Secondary malig neop of large intestine or rectum NOS,res47: Cancer,diagnostic
+Read,B803.00,Carcinoma in situ of colon,res47: Cancer,diagnostic
+Read,B803800,High grade dysplasia of colon,res47: Cancer,diagnostic
+Read,B803400,Carcinoma in situ of caecum,res47: Cancer,diagnostic
+Read,B803200,Carcinoma in situ of descending colon,res47: Cancer,diagnostic
+Read,B803300,Carcinoma in situ of sigmoid colon,res47: Cancer,diagnostic
+Read,B803700,Carcinoma in situ of splenic flexure of colon,res47: Cancer,diagnostic
+Read,B803500,Carcinoma in situ of appendix,res47: Cancer,diagnostic
+Read,B803600,Carcinoma in situ of ascending colon,res47: Cancer,diagnostic
+Read,B35z000,Malignant neoplasm of ectopic site of male breast,res47: Cancer,diagnostic
+Read,B343.00,Malignant neoplasm of lower-inner quadrant of female breast,res47: Cancer,diagnostic
+Read,B902500,Neoplasm of uncertain behaviour of rectum,res47: Cancer,diagnostic
+Read,B804100,Carcinoma in situ of rectum,res47: Cancer,diagnostic
+Read,B902400,Neoplasm of uncertain behaviour of colon,res47: Cancer,diagnostic
+Read,B804z00,Carcinoma in situ of rectum or rectosigmoid junction NOS,res47: Cancer,diagnostic
+Read,B902000,Neoplasm of uncertain behaviour of stomach,res47: Cancer,diagnostic
+Read,B342.00,Malignant neoplasm of upper-inner quadrant of female breast,res47: Cancer,diagnostic
+Read,B340000,Malignant neoplasm of nipple of female breast,res47: Cancer,diagnostic
+Read,B902z00,"Neop of uncertain behaviour stomach, intestine or rectum NOS",res47: Cancer,diagnostic
+Read,B340.00,Malignant neoplasm of nipple and areola of female breast,res47: Cancer,diagnostic
+Read,B341.00,Malignant neoplasm of central part of female breast,res47: Cancer,diagnostic
+Read,B340100,Malignant neoplasm of areola of female breast,res47: Cancer,diagnostic
+Read,B340z00,Malignant neoplasm of nipple or areola of female breast NOS,res47: Cancer,diagnostic
+Read,B35z.00,Malignant neoplasm of other site of male breast,res47: Cancer,diagnostic
+Read,B34y000,Malignant neoplasm of ectopic site of female breast,res47: Cancer,diagnostic
+Read,B345.00,Malignant neoplasm of lower-outer quadrant of female breast,res47: Cancer,diagnostic
+Read,B344.00,Malignant neoplasm of upper-outer quadrant of female breast,res47: Cancer,diagnostic
+Read,B34y.00,Malignant neoplasm of other site of female breast,res47: Cancer,diagnostic
+Read,B346.00,Malignant neoplasm of axillary tail of female breast,res47: Cancer,diagnostic
+Read,B347.00,"Malignant neoplasm, overlapping lesion of breast",res47: Cancer,diagnostic
+Read,B350100,Malignant neoplasm of areola of male breast,res47: Cancer,diagnostic
+Read,B34z.00,Malignant neoplasm of female breast NOS,res47: Cancer,diagnostic
+Read,B34yz00,Malignant neoplasm of other site of female breast NOS,res47: Cancer,diagnostic
+Read,B350000,Malignant neoplasm of nipple of male breast,res47: Cancer,diagnostic
+Read,B35..00,Malignant neoplasm of male breast,res47: Cancer,diagnostic
+Read,B350.00,Malignant neoplasm of nipple and areola of male breast,res47: Cancer,diagnostic
+Read,BB94.11,[M]Secretory breast carcinoma,res47: Cancer,diagnostic
+Read,B830.00,Carcinoma in situ of breast,res47: Cancer,diagnostic
+Read,B58y000,Secondary malignant neoplasm of breast,res47: Cancer,diagnostic
+Read,B35zz00,Malignant neoplasm of male breast NOS,res47: Cancer,diagnostic
+Read,B36..00,Local recurrence of malignant tumour of breast,res47: Cancer,diagnostic
+Read,BA03.00,Neoplasm of unspecified nature of breast,res47: Cancer,diagnostic
+Read,B830000,Lobular carcinoma in situ of breast,res47: Cancer,diagnostic
+Read,ZV10415,[V]Personal history of malignant neoplasm of prostate,res47: Cancer,diagnostic
+Read,B933.00,Neoplasm of uncertain behaviour of breast,res47: Cancer,diagnostic
+Read,B830100,Intraductal carcinoma in situ of breast,res47: Cancer,diagnostic
+Read,B915.00,Neoplasm of uncertain behaviour of prostate,res47: Cancer,diagnostic
+Read,B834100,Prostatic intraepithelial neoplasia,res47: Cancer,diagnostic
+Read,4M01.00,Gleason prostate grade 5-7 (medium),res47: Cancer,diagnostic
+Read,1427000,H/O: prostate cancer,res47: Cancer,diagnostic
+Read,Byu6.00,[X]Malignant neoplasm of breast,res47: Cancer,diagnostic
+Read,4M00.00,Gleason prostate grade 2-4 (low),res47: Cancer,diagnostic
+Read,1J08.00,Suspected prostate cancer,res47: Cancer,diagnostic
+Read,4M0..00,Gleason grading of prostate cancer,res47: Cancer,diagnostic
+Read,B834000,High grade prostatic intraepithelial neoplasia,res47: Cancer,diagnostic
+Read,B46..00,Malignant neoplasm of prostate,res47: Cancer,diagnostic
+Read,4M02.00,Gleason prostate grade 8-10 (high),res47: Cancer,diagnostic
+Read,B834.00,Carcinoma in situ of prostate,res47: Cancer,diagnostic
+Read,B58y500,Secondary malignant neoplasm of prostate,res47: Cancer,diagnostic
+Read,B7C2000,Adenoma of prostate,res47: Cancer,diagnostic

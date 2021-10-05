@@ -1,0 +1,35 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,M161A00,Psoriasis palmaris,res34: psoriasis,diagnostic
+Read,M161z00,Psoriasis NOS,res34: psoriasis,diagnostic
+Read,M160z00,Psoriatic arthropathy NOS,res34: psoriasis,diagnostic
+Read,M161000,Psoriasis unspecified,res34: psoriasis,diagnostic
+Read,M161.00,Other psoriasis,res34: psoriasis,diagnostic
+Read,M160.00,Psoriatic arthropathy,res34: psoriasis,diagnostic
+Read,M161600,Guttate psoriasis,res34: psoriasis,diagnostic
+Read,M163.00,Pityriasis rosea,res34: psoriasis,diagnostic
+Read,M16..00,Psoriasis and similar disorders,res34: psoriasis,diagnostic
+Read,M16y000,Scalp psoriasis,res34: psoriasis,diagnostic
+Read,M161B00,Psoriasis plantaris,res34: psoriasis,diagnostic
+Read,M161F11,Chronic large plaque psoriasis,res34: psoriasis,diagnostic
+Read,M16z.00,Psoriasis and similar disorders NOS,res34: psoriasis,diagnostic
+Read,M161500,Psoriasis geographica,res34: psoriasis,diagnostic
+Read,M162500,Parapsoriasis lichenoides,res34: psoriasis,diagnostic
+Read,M161F00,Psoriasis vulgaris,res34: psoriasis,diagnostic
+Read,M160000,Psoriasis spondylitica,res34: psoriasis,diagnostic
+Read,M166.00,Palmoplantar pustular psoriasis,res34: psoriasis,diagnostic
+Read,M161H00,Erythrodermic psoriasis,res34: psoriasis,diagnostic
+Read,M161400,Psoriasis discoidea,res34: psoriasis,diagnostic
+Read,M161E00,Psoriasis universalis,res34: psoriasis,diagnostic
+Read,M160100,Distal interphalangeal psoriatic arthropathy,res34: psoriasis,diagnostic
+Read,M161100,Psoriasis annularis,res34: psoriasis,diagnostic
+Read,M16y.00,Other psoriasis and similar disorders,res34: psoriasis,diagnostic
+Read,M161300,Psoriasis diffusa,res34: psoriasis,diagnostic
+Read,M161200,Psoriasis circinata,res34: psoriasis,diagnostic
+Read,M161C00,Psoriasis punctata,res34: psoriasis,diagnostic
+Read,M160200,Arthritis mutilans,res34: psoriasis,diagnostic
+Read,M161J00,Flexural psoriasis,res34: psoriasis,diagnostic
+Read,M161900,Psoriasis ostracea,res34: psoriasis,diagnostic
+Read,M161800,Psoriasis inveterata,res34: psoriasis,diagnostic
+Read,M161700,Psoriasis gyrata,res34: psoriasis,diagnostic
+Read,M161D00,Pustular psoriasis,res34: psoriasis,diagnostic
+Read,M160.11,Psoriatic arthritis,res34: psoriasis,diagnostic

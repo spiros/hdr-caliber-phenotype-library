@@ -1,0 +1,36 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,J624.00,Hepatorenal syndrome,res50: Moderate or severe liver disease,diagnostic
+Read,J620z00,Liver abscess NOS,res50: Moderate or severe liver disease,diagnostic
+Read,J622.00,Hepatic coma,res50: Moderate or severe liver disease,diagnostic
+Read,J623.00,Portal hypertension,res50: Moderate or severe liver disease,diagnostic
+Read,760F400,Rigid oesophagoscopic banding of oesophageal varices,res50: Moderate or severe liver disease,diagnostic
+Read,J620300,Liver abscess via umbilicus,res50: Moderate or severe liver disease,diagnostic
+Read,J62y.00,Other sequelae of chronic liver disease,res50: Moderate or severe liver disease,diagnostic
+Read,J62z.00,Liver abscess and chronic liver disease causing sequelae NOS,res50: Moderate or severe liver disease,diagnostic
+Read,SP14300,Hepatorenal syndrome as a complication of care,res50: Moderate or severe liver disease,diagnostic
+Read,A053.00,Amoebic liver abscess,res50: Moderate or severe liver disease,diagnostic
+Read,G852300,Oesophageal varices in alcoholic cirrhosis of the liver,res50: Moderate or severe liver disease,diagnostic
+Read,J620.00,Liver abscess - excluding amoebic liver abscess,res50: Moderate or severe liver disease,diagnostic
+Read,J620100,Liver abscess due to cholangitis,res50: Moderate or severe liver disease,diagnostic
+Read,J620000,Liver abscess due to portal pyaemia,res50: Moderate or severe liver disease,diagnostic
+Read,G852z00,Oesophageal varices in diseases EC NOS,res50: Moderate or severe liver disease,diagnostic
+Read,G858.00,Oesophageal varices NOS,res50: Moderate or severe liver disease,diagnostic
+Read,A704z00,Other specified viral hepatitis with hepatic coma NOS,res50: Moderate or severe liver disease,diagnostic
+Read,G852.00,Oesophageal varices in diseases EC,res50: Moderate or severe liver disease,diagnostic
+Read,G852100,Oesophageal varices without bleeding in diseases EC,res50: Moderate or severe liver disease,diagnostic
+Read,G852000,Oesophageal varices with bleeding in diseases EC,res50: Moderate or severe liver disease,diagnostic
+Read,G85..11,Oesophageal varices,res50: Moderate or severe liver disease,diagnostic
+Read,G850.00,Oesophageal varices with bleeding,res50: Moderate or severe liver disease,diagnostic
+Read,7609,Open operations on oesophageal varices,res50: Moderate or severe liver disease,diagnostic
+Read,7609z00,Open operation on oesophageal varices NOS,res50: Moderate or severe liver disease,diagnostic
+Read,760C500,Fibreoptic endoscopic banding of oesophageal varices,res50: Moderate or severe liver disease,diagnostic
+Read,760C300,Fibreoptic endoscopic injection sclerotherapy oesoph varices,res50: Moderate or severe liver disease,diagnostic
+Read,7609300,Local ligation of oesophageal varices,res50: Moderate or severe liver disease,diagnostic
+Read,7609400,Open injection sclerotherapy to oesophageal varices,res50: Moderate or severe liver disease,diagnostic
+Read,7609y00,Other specified open operation on oesophageal varices,res50: Moderate or severe liver disease,diagnostic
+Read,760F300,Rigid oesophagoscopic injection sclerotherapy oesoph varices,res50: Moderate or severe liver disease,diagnostic
+Read,G851.00,Oesophageal varices without bleeding,res50: Moderate or severe liver disease,diagnostic
+Read,G852200,Oesophageal varices in cirrhosis of the liver,res50: Moderate or severe liver disease,diagnostic
+Read,J62..00,Liver abscess and sequelae of chronic liver disease,res50: Moderate or severe liver disease,diagnostic
+Read,Gyu9400,[X]Oesophageal varices in diseases classified elsewhere,res50: Moderate or severe liver disease,diagnostic
+Read,J620200,Liver abscess via hepatic artery,res50: Moderate or severe liver disease,diagnostic

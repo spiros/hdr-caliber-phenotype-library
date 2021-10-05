@@ -1,0 +1,13 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,22K..00,Body Mass Index,res25: P17_BMI,diagnostic
+Read,22K9100,,res25: P17_BMI,diagnostic
+Read,22K1.00,Body Mass Index normal K/M2,res25: P17_BMI,diagnostic
+Read,22K9000,Baseline body mass index centile,res25: P17_BMI,diagnostic
+Read,22K7.00,Body mass index 40+ - severely obese,res25: P17_BMI,diagnostic
+Read,22K5.00,Body mass index 30+ - obesity,res25: P17_BMI,diagnostic
+Read,22K2.00,Body Mass Index high K/M2,res25: P17_BMI,diagnostic
+Read,22K4.00,Body mass index index 25-29 - overweight,res25: P17_BMI,diagnostic
+Read,22K3.00,Body Mass Index low K/M2,res25: P17_BMI,diagnostic
+Read,22K6.00,Body mass index less than 20,res25: P17_BMI,diagnostic
+Read,22K9.00,Body mass index centile,res25: P17_BMI,diagnostic
+Read,22K8.00,Body mass index 20-24 - normal,res25: P17_BMI,diagnostic

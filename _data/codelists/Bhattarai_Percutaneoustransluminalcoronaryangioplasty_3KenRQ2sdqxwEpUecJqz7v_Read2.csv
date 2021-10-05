@@ -1,0 +1,22 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,7928,Transluminal balloon angioplasty of coronary artery,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,793G.00,Perc translumin balloon angioplasty stenting coronary artery,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7928z00,Transluminal balloon angioplasty of coronary artery NOS,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7929000,Percutaneous transluminal laser coronary angioplasty,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7929100,Percut transluminal coronary thrombolysis with streptokinase,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7928100,Percut translum balloon angioplasty mult coronary arteries,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,793Gz00,Perc translum balloon angioplasty stenting coronary art NOS,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7928y00,Transluminal balloon angioplasty of coronary artery OS,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7929y00,Other therapeutic transluminal op on coronary artery OS,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,793G200,Perc translum balloon angioplasty insert 1-2 stents cor art,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,793G300,Percutaneous cor balloon angiop 3 more stents cor art NEC,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7928000,Percut transluminal balloon angioplasty one coronary artery,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7928.11,Percutaneous balloon coronary angioplasty,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7929400,Insertion of coronary artery stent,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7929500,Insertion of drug-eluting coronary artery stent,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7929z00,Other therapeutic transluminal op on coronary artery NOS,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7929300,Rotary blade coronary angioplasty,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,793G000,Perc translum ball angio insert 1-2 drug elut stents cor art,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,793Gy00,OS perc translumina balloon angioplast stenting coronary art,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,7928200,Percut translum balloon angioplasty bypass graft coronary art,res12: percutaneous transluminal coronary angioplasty,diagnostic
+Read,793G100,Perc tran ball angio ins 3 or more drug elut stents cor art,res12: percutaneous transluminal coronary angioplasty,diagnostic

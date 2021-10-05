@@ -1,0 +1,26 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,M161H00,Erythrodermic psoriasis,res26: psoriasis,diagnostic
+Read,M16y000,Scalp psoriasis,res26: psoriasis,diagnostic
+Read,M161B00,Psoriasis plantaris,res26: psoriasis,diagnostic
+Read,M161z00,Psoriasis NOS,res26: psoriasis,diagnostic
+Read,M161000,Psoriasis unspecified,res26: psoriasis,diagnostic
+Read,M161A00,Psoriasis palmaris,res26: psoriasis,diagnostic
+Read,M161600,Guttate psoriasis,res26: psoriasis,diagnostic
+Read,M16..00,Psoriasis and similar disorders,res26: psoriasis,diagnostic
+Read,14F2.00,H/O: psoriasis,res26: psoriasis,diagnostic
+Read,M161100,Psoriasis annularis,res26: psoriasis,diagnostic
+Read,M161E00,Psoriasis universalis,res26: psoriasis,diagnostic
+Read,M161400,Psoriasis discoidea,res26: psoriasis,diagnostic
+Read,M161200,Psoriasis circinata,res26: psoriasis,diagnostic
+Read,M161F00,Psoriasis vulgaris,res26: psoriasis,diagnostic
+Read,M161500,Psoriasis geographica,res26: psoriasis,diagnostic
+Read,M161C00,Psoriasis punctata,res26: psoriasis,diagnostic
+Read,M161.00,Other psoriasis,res26: psoriasis,diagnostic
+Read,M161800,Psoriasis inveterata,res26: psoriasis,diagnostic
+Read,M161300,Psoriasis diffusa,res26: psoriasis,diagnostic
+Read,M16z.00,Psoriasis and similar disorders NOS,res26: psoriasis,diagnostic
+Read,M16y.00,Other psoriasis and similar disorders,res26: psoriasis,diagnostic
+Read,M161700,Psoriasis gyrata,res26: psoriasis,diagnostic
+Read,M161900,Psoriasis ostracea,res26: psoriasis,diagnostic
+Read,M161F11,Chronic large plaque psoriasis,res26: psoriasis,diagnostic
+Read,Myu3000,[X]Other psoriasis,res26: psoriasis,diagnostic

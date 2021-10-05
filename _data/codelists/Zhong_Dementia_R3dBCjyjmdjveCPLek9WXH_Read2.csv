@@ -1,0 +1,116 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,F11xz00,Cerebral degeneration other disease NOS,res50: dementia,diagnostic
+Read,E012000,Chronic alcoholic brain syndrome,res50: dementia,diagnostic
+Read,E012.11,Alcoholic dementia NOS,res50: dementia,diagnostic
+Read,E000.00,Uncomplicated senile dementia,res50: dementia,diagnostic
+Read,F11x900,Cerebral degeneration in Parkinson's disease,res50: dementia,diagnostic
+Read,Eu02500,[X]Lewy body dementia,res50: dementia,diagnostic
+Read,E00..12,Senile/presenile dementia,res50: dementia,diagnostic
+Read,A411.00,Jakob-Creutzfeldt disease,res50: dementia,diagnostic
+Read,1461,H/O: dementia,res50: dementia,diagnostic
+Read,E00..11,Senile dementia,res50: dementia,diagnostic
+Read,BBC9.11,[M]Pick's tubular adenoma,res50: dementia,diagnostic
+Read,E00..00,Senile and presenile organic psychotic conditions,res50: dementia,diagnostic
+Read,E012.00,Other alcoholic dementia,res50: dementia,diagnostic
+Read,E002z00,Senile dementia with depressive or paranoid features NOS,res50: dementia,diagnostic
+Read,E001100,Presenile dementia with delirium,res50: dementia,diagnostic
+Read,E001000,Uncomplicated presenile dementia,res50: dementia,diagnostic
+Read,E001.00,Presenile dementia,res50: dementia,diagnostic
+Read,E002100,Senile dementia with depression,res50: dementia,diagnostic
+Read,E001300,Presenile dementia with depression,res50: dementia,diagnostic
+Read,E001200,Presenile dementia with paranoia,res50: dementia,diagnostic
+Read,E002000,Senile dementia with paranoia,res50: dementia,diagnostic
+Read,E002.00,Senile dementia with depressive or paranoid features,res50: dementia,diagnostic
+Read,E001z00,Presenile dementia NOS,res50: dementia,diagnostic
+Read,E00z.00,Senile or presenile psychoses NOS,res50: dementia,diagnostic
+Read,E004200,Arteriosclerotic dementia with paranoia,res50: dementia,diagnostic
+Read,E004.00,Arteriosclerotic dementia,res50: dementia,diagnostic
+Read,E003.00,Senile dementia with delirium,res50: dementia,diagnostic
+Read,E004100,Arteriosclerotic dementia with delirium,res50: dementia,diagnostic
+Read,E004.11,Multi infarct dementia,res50: dementia,diagnostic
+Read,E004000,Uncomplicated arteriosclerotic dementia,res50: dementia,diagnostic
+Read,E00y.11,Presbyophrenic psychosis,res50: dementia,diagnostic
+Read,E004300,Arteriosclerotic dementia with depression,res50: dementia,diagnostic
+Read,E00y.00,Other senile and presenile organic psychoses,res50: dementia,diagnostic
+Read,E004z00,Arteriosclerotic dementia NOS,res50: dementia,diagnostic
+Read,Eu04100,[X]Delirium superimposed on dementia,res50: dementia,diagnostic
+Read,Eu01200,[X]Subcortical vascular dementia,res50: dementia,diagnostic
+Read,Eu00.00,[X]Dementia in Alzheimer's disease,res50: dementia,diagnostic
+Read,E02y100,Drug-induced dementia,res50: dementia,diagnostic
+Read,E041.00,Dementia in conditions EC,res50: dementia,diagnostic
+Read,E040.11,Korsakoff's non-alcoholic psychosis,res50: dementia,diagnostic
+Read,Eu00113,"[X]Primary degen dementia of Alzheimer's type, senile onset",res50: dementia,diagnostic
+Read,Eu00012,"[X]Primary degen dementia, Alzheimer's type, presenile onset",res50: dementia,diagnostic
+Read,Eu00000,[X]Dementia in Alzheimer's disease with early onset,res50: dementia,diagnostic
+Read,Eu00011,"[X]Presenile dementia,Alzheimer's type",res50: dementia,diagnostic
+Read,Eu00112,"[X]Senile dementia,Alzheimer's type",res50: dementia,diagnostic
+Read,Eu00111,[X]Alzheimer's disease type 1,res50: dementia,diagnostic
+Read,Eu00100,[X]Dementia in Alzheimer's disease with late onset,res50: dementia,diagnostic
+Read,Eu01111,[X]Predominantly cortical dementia,res50: dementia,diagnostic
+Read,Eu00z11,[X]Alzheimer's dementia unspec,res50: dementia,diagnostic
+Read,Eu00z00,"[X]Dementia in Alzheimer's disease, unspecified",res50: dementia,diagnostic
+Read,Eu00200,"[X]Dementia in Alzheimer's dis, atypical or mixed type",res50: dementia,diagnostic
+Read,Eu00013,[X]Alzheimer's disease type 2,res50: dementia,diagnostic
+Read,Eu01100,[X]Multi-infarct dementia,res50: dementia,diagnostic
+Read,Eu01000,[X]Vascular dementia of acute onset,res50: dementia,diagnostic
+Read,Eu01.00,[X]Vascular dementia,res50: dementia,diagnostic
+Read,Eu01.11,[X]Arteriosclerotic dementia,res50: dementia,diagnostic
+Read,Eu04000,"[X]Delirium not superimposed on dementia, so described",res50: dementia,diagnostic
+Read,Eu02400,[X]Dementia in human immunodef virus [HIV] disease,res50: dementia,diagnostic
+Read,Eu01z00,"[X]Vascular dementia, unspecified",res50: dementia,diagnostic
+Read,Eu01300,[X]Mixed cortical and subcortical vascular dementia,res50: dementia,diagnostic
+Read,Eu01y00,[X]Other vascular dementia,res50: dementia,diagnostic
+Read,Eu02300,[X]Dementia in Parkinson's disease,res50: dementia,diagnostic
+Read,Eu02.00,[X]Dementia in other diseases classified elsewhere,res50: dementia,diagnostic
+Read,Eu02200,[X]Dementia in Huntington's disease,res50: dementia,diagnostic
+Read,Eu02100,[X]Dementia in Creutzfeldt-Jakob disease,res50: dementia,diagnostic
+Read,Eu02z16,"[X] Senile dementia, depressed or paranoid type",res50: dementia,diagnostic
+Read,Eu02z15,[X] Senile psychosis NOS,res50: dementia,diagnostic
+Read,Eu02z00,[X] Unspecified dementia,res50: dementia,diagnostic
+Read,Eu02y00,[X]Dementia in other specified diseases classif elsewhere,res50: dementia,diagnostic
+Read,Eu02z13,[X] Primary degenerative dementia NOS,res50: dementia,diagnostic
+Read,Eu02z11,[X] Presenile dementia NOS,res50: dementia,diagnostic
+Read,Eu02z12,[X] Presenile psychosis NOS,res50: dementia,diagnostic
+Read,F103100,Cerebral degeneration in mucopolysaccharidoses,res50: dementia,diagnostic
+Read,F11..00,Other cerebral degenerations,res50: dementia,diagnostic
+Read,Eu84311,[X]Dementia infantalis,res50: dementia,diagnostic
+Read,Eu10711,[X]Alcoholic dementia NOS,res50: dementia,diagnostic
+Read,Eu05700,[X]Mild cognitive disorder,res50: dementia,diagnostic
+Read,Eu10712,[X]Chronic alcoholic brain syndrome,res50: dementia,diagnostic
+Read,F10z.00,Childhood cerebral degenerations NOS,res50: dementia,diagnostic
+Read,F10..00,Cerebral degenerations usually manifest in childhood,res50: dementia,diagnostic
+Read,F103z00,Cerebral degeneration in disease NOS,res50: dementia,diagnostic
+Read,F102100,Cerebral degeneration in Niemann-Pick disease,res50: dementia,diagnostic
+Read,Eu02z14,[X] Senile dementia NOS,res50: dementia,diagnostic
+Read,F103000,Cerebral degeneration in Hunter's disease,res50: dementia,diagnostic
+Read,F103.00,Cerebral degeneration in diseases EC,res50: dementia,diagnostic
+Read,F11x800,Cerebral degeneration due to multifocal leucoencephalopathy,res50: dementia,diagnostic
+Read,F11x000,Cerebral degeneration due to alcoholism,res50: dementia,diagnostic
+Read,F112.00,Senile degeneration of brain,res50: dementia,diagnostic
+Read,F111.00,Pick's disease,res50: dementia,diagnostic
+Read,F110.00,Alzheimer's disease,res50: dementia,diagnostic
+Read,F110000,Alzheimer's disease with early onset,res50: dementia,diagnostic
+Read,F11x.00,Cerebral degeneration in other disease EC,res50: dementia,diagnostic
+Read,F113000,Normal pressure hydrocephalus,res50: dementia,diagnostic
+Read,F116.00,Lewy body disease,res50: dementia,diagnostic
+Read,F11x700,Cerebral degeneration due to Jakob - Creutzfeldt disease,res50: dementia,diagnostic
+Read,F110100,Alzheimer's disease with late onset,res50: dementia,diagnostic
+Read,F11x200,Cerebral degeneration due to cerebrovascular disease,res50: dementia,diagnostic
+Read,F11x500,Cerebral degeneration due to myxoedema,res50: dementia,diagnostic
+Read,F11x400,Cerebral degeneration due to neoplastic disease,res50: dementia,diagnostic
+Read,F11x600,Cerebral degeneration due to vitamin B12 deficiency,res50: dementia,diagnostic
+Read,Eu02000,[X]Dementia in Pick's disease,res50: dementia,diagnostic
+Read,F12z.00,Parkinson's disease NOS,res50: dementia,diagnostic
+Read,F11y000,Reye's syndrome,res50: dementia,diagnostic
+Read,F11y.00,Other cerebral degeneration,res50: dementia,diagnostic
+Read,F13..11,Extrapyramidal disease excluding Parkinson's disease,res50: dementia,diagnostic
+Read,F11z.00,Cerebral degeneration NOS,res50: dementia,diagnostic
+Read,F11y100,Cerebral ataxia,res50: dementia,diagnostic
+Read,F11yz00,Other cerebral degeneration NOS,res50: dementia,diagnostic
+Read,F12..00,Parkinson's disease,res50: dementia,diagnostic
+Read,F11z.11,Cerebral atrophy,res50: dementia,diagnostic
+Read,ZR1T.00,Arizona battery for communication disorders of dementia,res50: dementia,diagnostic
+Read,F134.00,Huntington's chorea,res50: dementia,diagnostic
+Read,G532100,Pick's disease of heart,res50: dementia,diagnostic
+Read,Fyu3000,[X]Other Alzheimer's disease,res50: dementia,diagnostic
+Read,ZS7C500,Language disorder of dementia,res50: dementia,diagnostic

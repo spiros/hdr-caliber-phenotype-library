@@ -1,0 +1,13 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,42QE.00,International normalised ratio,res25: M5_INR,test
+Read,66Q7.00,Target international normalised ratio,res25: M5_INR,test
+Read,42QE000,INR - international normal ratio normal,res25: M5_INR,test
+Read,42QE200,INR percentage time in therapeutic range,res25: M5_INR,test
+Read,42QE100,INR - international normal ratio abnormal,res25: M5_INR,test
+Read,66QE.00,Self monitoring of international normalised ratio,res25: M5_INR,test
+Read,66Q7000,INR (international normalised ratio) target range,res25: M5_INR,test
+Read,66Q8000,International normalised ratio above target range,res25: M5_INR,test
+Read,66Q8.00,International normalised ratio deviation from target,res25: M5_INR,test
+Read,66Q9.00,Warfarin dose unchanged,res25: M5_INR,test
+Read,66QD.00,Anticoagulation monitoring - primary care,res25: M5_INR,test
+Read,66QC.00,Anticoagulation monitoring - secondary care,res25: M5_INR,test

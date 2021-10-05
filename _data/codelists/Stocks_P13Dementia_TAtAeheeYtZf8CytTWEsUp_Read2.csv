@@ -1,0 +1,97 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E00..12,Senile/presenile dementia,res25: P13_dementia,diagnostic
+Read,Eu00z00,"[X]Dementia in Alzheimer's disease, unspecified",res25: P13_dementia,diagnostic
+Read,Eu00200,"[X]Dementia in Alzheimer's dis, atypical or mixed type",res25: P13_dementia,diagnostic
+Read,Eu00112,"[X]Senile dementia,Alzheimer's type",res25: P13_dementia,diagnostic
+Read,Eu00111,[X]Alzheimer's disease type 1,res25: P13_dementia,diagnostic
+Read,E002100,Senile dementia with depression,res25: P13_dementia,diagnostic
+Read,Eu00100,[X]Dementia in Alzheimer's disease with late onset,res25: P13_dementia,diagnostic
+Read,E002000,Senile dementia with paranoia,res25: P13_dementia,diagnostic
+Read,E002.00,Senile dementia with depressive or paranoid features,res25: P13_dementia,diagnostic
+Read,E00..11,Senile dementia,res25: P13_dementia,diagnostic
+Read,E00..00,Senile and presenile organic psychotic conditions,res25: P13_dementia,diagnostic
+Read,A411.00,Jakob-Creutzfeldt disease,res25: P13_dementia,diagnostic
+Read,E001000,Uncomplicated presenile dementia,res25: P13_dementia,diagnostic
+Read,E001z00,Presenile dementia NOS,res25: P13_dementia,diagnostic
+Read,E001.00,Presenile dementia,res25: P13_dementia,diagnostic
+Read,E001100,Presenile dementia with delirium,res25: P13_dementia,diagnostic
+Read,E001300,Presenile dementia with depression,res25: P13_dementia,diagnostic
+Read,E001200,Presenile dementia with paranoia,res25: P13_dementia,diagnostic
+Read,Eu00013,[X]Alzheimer's disease type 2,res25: P13_dementia,diagnostic
+Read,E004300,Arteriosclerotic dementia with depression,res25: P13_dementia,diagnostic
+Read,E003.00,Senile dementia with delirium,res25: P13_dementia,diagnostic
+Read,E002z00,Senile dementia with depressive or paranoid features NOS,res25: P13_dementia,diagnostic
+Read,E004200,Arteriosclerotic dementia with paranoia,res25: P13_dementia,diagnostic
+Read,E004.00,Arteriosclerotic dementia,res25: P13_dementia,diagnostic
+Read,Eu00000,[X]Dementia in Alzheimer's disease with early onset,res25: P13_dementia,diagnostic
+Read,E004.11,Multi infarct dementia,res25: P13_dementia,diagnostic
+Read,E004100,Arteriosclerotic dementia with delirium,res25: P13_dementia,diagnostic
+Read,E004000,Uncomplicated arteriosclerotic dementia,res25: P13_dementia,diagnostic
+Read,Eu00.00,[X]Dementia in Alzheimer's disease,res25: P13_dementia,diagnostic
+Read,E004z00,Arteriosclerotic dementia NOS,res25: P13_dementia,diagnostic
+Read,E012.00,Other alcoholic dementia,res25: P13_dementia,diagnostic
+Read,E00y.00,Other senile and presenile organic psychoses,res25: P13_dementia,diagnostic
+Read,E00z.00,Senile or presenile psychoses NOS,res25: P13_dementia,diagnostic
+Read,E00y.11,Presbyophrenic psychosis,res25: P13_dementia,diagnostic
+Read,E012.11,Alcoholic dementia NOS,res25: P13_dementia,diagnostic
+Read,E041.00,Dementia in conditions EC,res25: P13_dementia,diagnostic
+Read,E02y100,Drug-induced dementia,res25: P13_dementia,diagnostic
+Read,E012000,Chronic alcoholic brain syndrome,res25: P13_dementia,diagnostic
+Read,Eu00012,"[X]Primary degen dementia, Alzheimer's type, presenile onset",res25: P13_dementia,diagnostic
+Read,Eu00011,"[X]Presenile dementia,Alzheimer's type",res25: P13_dementia,diagnostic
+Read,Eu00113,"[X]Primary degen dementia of Alzheimer's type, senile onset",res25: P13_dementia,diagnostic
+Read,E000.00,Uncomplicated senile dementia,res25: P13_dementia,diagnostic
+Read,Eu02.00,[X]Dementia in other diseases classified elsewhere,res25: P13_dementia,diagnostic
+Read,F11yz00,Other cerebral degeneration NOS,res25: P13_dementia,diagnostic
+Read,Eu01z00,"[X]Vascular dementia, unspecified",res25: P13_dementia,diagnostic
+Read,Eu01000,[X]Vascular dementia of acute onset,res25: P13_dementia,diagnostic
+Read,Eu01y00,[X]Other vascular dementia,res25: P13_dementia,diagnostic
+Read,Eu01.11,[X]Arteriosclerotic dementia,res25: P13_dementia,diagnostic
+Read,Eu00z11,[X]Alzheimer's dementia unspec,res25: P13_dementia,diagnostic
+Read,Eu01.00,[X]Vascular dementia,res25: P13_dementia,diagnostic
+Read,Eu01100,[X]Multi-infarct dementia,res25: P13_dementia,diagnostic
+Read,Eu01300,[X]Mixed cortical and subcortical vascular dementia,res25: P13_dementia,diagnostic
+Read,Eu01200,[X]Subcortical vascular dementia,res25: P13_dementia,diagnostic
+Read,Eu01111,[X]Predominantly cortical dementia,res25: P13_dementia,diagnostic
+Read,Eu02y00,[X]Dementia in other specified diseases classif elsewhere,res25: P13_dementia,diagnostic
+Read,Eu02000,[X]Dementia in Pick's disease,res25: P13_dementia,diagnostic
+Read,F110000,Alzheimer's disease with early onset,res25: P13_dementia,diagnostic
+Read,Eu02500,[X]Lewy body dementia,res25: P13_dementia,diagnostic
+Read,Eu02200,[X]Dementia in Huntington's disease,res25: P13_dementia,diagnostic
+Read,Eu02100,[X]Dementia in Creutzfeldt-Jakob disease,res25: P13_dementia,diagnostic
+Read,Eu02400,[X]Dementia in human immunodef virus [HIV] disease,res25: P13_dementia,diagnostic
+Read,Eu02300,[X]Dementia in Parkinson's disease,res25: P13_dementia,diagnostic
+Read,F11y100,Cerebral ataxia,res25: P13_dementia,diagnostic
+Read,Eu02z13,[X] Primary degenerative dementia NOS,res25: P13_dementia,diagnostic
+Read,F110.00,Alzheimer's disease,res25: P13_dementia,diagnostic
+Read,Eu02z12,[X] Presenile psychosis NOS,res25: P13_dementia,diagnostic
+Read,Eu02z00,[X] Unspecified dementia,res25: P13_dementia,diagnostic
+Read,Eu02z11,[X] Presenile dementia NOS,res25: P13_dementia,diagnostic
+Read,Eu02z14,[X] Senile dementia NOS,res25: P13_dementia,diagnostic
+Read,Eu05700,[X]Mild cognitive disorder,res25: P13_dementia,diagnostic
+Read,Eu04100,[X]Delirium superimposed on dementia,res25: P13_dementia,diagnostic
+Read,Eu02z15,[X] Senile psychosis NOS,res25: P13_dementia,diagnostic
+Read,Eu02z16,"[X] Senile dementia, depressed or paranoid type",res25: P13_dementia,diagnostic
+Read,F11x011,Alcoholic encephalopathy,res25: P13_dementia,diagnostic
+Read,F11y000,Reye's syndrome,res25: P13_dementia,diagnostic
+Read,F1110A,,res25: P13_dementia,diagnostic
+Read,F111.00,Pick's disease,res25: P13_dementia,diagnostic
+Read,F110100,Alzheimer's disease with late onset,res25: P13_dementia,diagnostic
+Read,F11x000,Cerebral degeneration due to alcoholism,res25: P13_dementia,diagnostic
+Read,F116.00,Lewy body disease,res25: P13_dementia,diagnostic
+Read,F112.00,Senile degeneration of brain,res25: P13_dementia,diagnostic
+Read,F11x.00,Cerebral degeneration in other disease EC,res25: P13_dementia,diagnostic
+Read,F118.00,,res25: P13_dementia,diagnostic
+Read,F11x200,Cerebral degeneration due to cerebrovascular disease,res25: P13_dementia,diagnostic
+Read,F11y.00,Other cerebral degeneration,res25: P13_dementia,diagnostic
+Read,F11x500,Cerebral degeneration due to myxoedema,res25: P13_dementia,diagnostic
+Read,F11x400,Cerebral degeneration due to neoplastic disease,res25: P13_dementia,diagnostic
+Read,F11xz00,Cerebral degeneration other disease NOS,res25: P13_dementia,diagnostic
+Read,F11x600,Cerebral degeneration due to vitamin B12 deficiency,res25: P13_dementia,diagnostic
+Read,F11x900,Cerebral degeneration in Parkinson's disease,res25: P13_dementia,diagnostic
+Read,F11x700,Cerebral degeneration due to Jakob - Creutzfeldt disease,res25: P13_dementia,diagnostic
+Read,F11x800,Cerebral degeneration due to multifocal leucoencephalopathy,res25: P13_dementia,diagnostic
+Read,F11z.11,Cerebral atrophy,res25: P13_dementia,diagnostic
+Read,F11z.00,Cerebral degeneration NOS,res25: P13_dementia,diagnostic
+Read,F134.00,Huntington's chorea,res25: P13_dementia,diagnostic
+Read,Fyu3000,[X]Other Alzheimer's disease,res25: P13_dementia,diagnostic

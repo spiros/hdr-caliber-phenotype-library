@@ -1,0 +1,38 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,J41..12,Ulcerative colitis and/or proctitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J4...11,Colitis - noninfective,res34: inflammatory_bowel_disease,diagnostic
+Read,J410100,Ulcerative colitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J40..11,Crohn's disease,res34: inflammatory_bowel_disease,diagnostic
+Read,J4...12,Inflammatory bowel disease,res34: inflammatory_bowel_disease,diagnostic
+Read,J40..00,Regional enteritis - Crohn's disease,res34: inflammatory_bowel_disease,diagnostic
+Read,J402.00,Regional ileocolitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J438.00,Left sided colitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J412.00,Ulcerative (chronic) ileocolitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J41yz00,Other idiopathic proctocolitis NOS,res34: inflammatory_bowel_disease,diagnostic
+Read,J4z5.00,Exacerbation of non-infective colitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J437.00,Colitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J41y.00,Other idiopathic proctocolitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J43..00,Other non-infective inflammatory gastroenteritis and colitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J410.00,Ulcerative proctocolitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J400.00,Regional enteritis of the small bowel,res34: inflammatory_bowel_disease,diagnostic
+Read,J400500,Exacerbation of Crohn's disease of small intestine,res34: inflammatory_bowel_disease,diagnostic
+Read,J413.00,Ulcerative pancolitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J4z3.00,Non-infective colitis NOS,res34: inflammatory_bowel_disease,diagnostic
+Read,J4z2.00,Non-infective ileitis NOS,res34: inflammatory_bowel_disease,diagnostic
+Read,J435.00,Pouchitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J41z.00,Idiopathic proctocolitis NOS,res34: inflammatory_bowel_disease,diagnostic
+Read,J40z.11,Crohn's disease NOS,res34: inflammatory_bowel_disease,diagnostic
+Read,J410200,Ulcerative rectosigmoiditis,res34: inflammatory_bowel_disease,diagnostic
+Read,J400200,Crohn's disease of the terminal ileum,res34: inflammatory_bowel_disease,diagnostic
+Read,J4z6.00,Indeterminate colitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J400z00,Crohn's disease of the small bowel NOS,res34: inflammatory_bowel_disease,diagnostic
+Read,J41..11,Mucous colitis and/or proctitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J411.00,Ulcerative (chronic) enterocolitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J401z00,Crohn's disease of the large bowel NOS,res34: inflammatory_bowel_disease,diagnostic
+Read,J401200,Exacerbation of Crohn's disease of large intestine,res34: inflammatory_bowel_disease,diagnostic
+Read,J410z00,Ulcerative proctocolitis NOS,res34: inflammatory_bowel_disease,diagnostic
+Read,J400400,Crohn's disease of the ileum NOS,res34: inflammatory_bowel_disease,diagnostic
+Read,J431300,Toxic colitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J400300,Crohn's disease of the ileum unspecified,res34: inflammatory_bowel_disease,diagnostic
+Read,J431200,Toxic enterocolitis,res34: inflammatory_bowel_disease,diagnostic
+Read,J410000,Ulcerative ileocolitis,res34: inflammatory_bowel_disease,diagnostic

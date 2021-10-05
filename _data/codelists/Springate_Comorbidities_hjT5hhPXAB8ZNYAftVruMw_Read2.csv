@@ -1,0 +1,235 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,7927500,Open angioplasty of coronary artery,res24: comorbidities,diagnostic
+Read,G340.00,Coronary atherosclerosis,res24: comorbidities,diagnostic
+Read,G301.00,Other specified anterior myocardial infarction,res24: comorbidities,diagnostic
+Read,G340100,Double coronary vessel disease,res24: comorbidities,diagnostic
+Read,ZV45K00,[V]Presence of coronary artery bypass graft,res24: comorbidities,diagnostic
+Read,792Cz00,Replacement of coronary artery NOS,res24: comorbidities,diagnostic
+Read,G30..00,Acute myocardial infarction,res24: comorbidities,diagnostic
+Read,G32..00,Old myocardial infarction,res24: comorbidities,diagnostic
+Read,G340000,Single coronary vessel disease,res24: comorbidities,diagnostic
+Read,G33..00,Angina pectoris,res24: comorbidities,diagnostic
+Read,14B4.00,H/O: asthma,res24: comorbidities,diagnostic
+Read,G33z300,Angina on effort,res24: comorbidities,diagnostic
+Read,F423600,Amaurosis fugax,res24: comorbidities,diagnostic
+Read,G307.00,Acute subendocardial infarction,res24: comorbidities,diagnostic
+Read,G308.00,Inferior myocardial infarction NOS,res24: comorbidities,diagnostic
+Read,G3z..00,Ischaemic heart disease NOS,res24: comorbidities,diagnostic
+Read,792Dy00,Other specified other bypass of coronary artery,res24: comorbidities,diagnostic
+Read,7928,Transluminal balloon angioplasty of coronary artery,res24: comorbidities,diagnostic
+Read,G3y..00,Other specified ischaemic heart disease,res24: comorbidities,diagnostic
+Read,ZV45L00,[V]Status following coronary angioplasty NOS,res24: comorbidities,diagnostic
+Read,792z.00,Coronary artery operations NOS,res24: comorbidities,diagnostic
+Read,14AN.00,H/O: atrial fibrillation,res24: comorbidities,diagnostic
+Read,14A5.00,H/O: angina pectoris,res24: comorbidities,diagnostic
+Read,173A.00,Exercise induced asthma,res24: comorbidities,diagnostic
+Read,7929y00,Other therapeutic transluminal op on coronary artery OS,res24: comorbidities,diagnostic
+Read,792..00,Coronary artery operations,res24: comorbidities,diagnostic
+Read,G307100,Acute non-ST segment elevation myocardial infarction,res24: comorbidities,diagnostic
+Read,323..00,ECG: myocardial infarction,res24: comorbidities,diagnostic
+Read,7920y00,Saphenous vein graft replacement of coronary artery OS,res24: comorbidities,diagnostic
+Read,G311100,Unstable angina,res24: comorbidities,diagnostic
+Read,G33z200,Syncope anginosa,res24: comorbidities,diagnostic
+Read,G343.00,Ischaemic cardiomyopathy,res24: comorbidities,diagnostic
+Read,7920100,Saphenous vein graft replacement of two coronary arteries,res24: comorbidities,diagnostic
+Read,7921z00,Other autograft replacement of coronary artery NOS,res24: comorbidities,diagnostic
+Read,7921200,Autograft replacement of three coronary arteries NEC,res24: comorbidities,diagnostic
+Read,7920000,Saphenous vein graft replacement of one coronary artery,res24: comorbidities,diagnostic
+Read,G31y000,Acute coronary insufficiency,res24: comorbidities,diagnostic
+Read,K0C0.00,Analgesic nephropathy,res24: comorbidities,diagnostic
+Read,322..00,ECG: myocardial ischaemia,res24: comorbidities,diagnostic
+Read,7929400,Insertion of coronary artery stent,res24: comorbidities,diagnostic
+Read,G302.00,Acute inferolateral infarction,res24: comorbidities,diagnostic
+Read,G31y.00,Other acute and subacute ischaemic heart disease,res24: comorbidities,diagnostic
+Read,G33z500,Post infarct angina,res24: comorbidities,diagnostic
+Read,G307000,Acute non-Q wave infarction,res24: comorbidities,diagnostic
+Read,7921,Other autograft replacement of coronary artery,res24: comorbidities,diagnostic
+Read,G30yz00,Other acute myocardial infarction NOS,res24: comorbidities,diagnostic
+Read,792B000,Endarterectomy of coronary artery NEC,res24: comorbidities,diagnostic
+Read,G300.00,Acute anterolateral infarction,res24: comorbidities,diagnostic
+Read,K0z..00,Nephritis;  nephrosis and nephrotic syndrome NOS,res24: comorbidities,diagnostic
+Read,G311500,Acute coronary syndrome,res24: comorbidities,diagnostic
+Read,7920300,Saphenous vein graft replacement of four+ coronary arteries,res24: comorbidities,diagnostic
+Read,1O2..00,Asthma confirmed,res24: comorbidities,diagnostic
+Read,G34z.00,Other chronic ischaemic heart disease NOS,res24: comorbidities,diagnostic
+Read,G33z700,Stable angina,res24: comorbidities,diagnostic
+Read,14AB.00,H/O: TIA,res24: comorbidities,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,res24: comorbidities,diagnostic
+Read,662K.00,Angina control,res24: comorbidities,diagnostic
+Read,G331.00,Prinzmetal's angina,res24: comorbidities,diagnostic
+Read,G30z.00,Acute myocardial infarction NOS,res24: comorbidities,diagnostic
+Read,14A6.00,H/O: heart failure,res24: comorbidities,diagnostic
+Read,G305.00,Lateral myocardial infarction NOS,res24: comorbidities,diagnostic
+Read,G301z00,Anterior myocardial infarction NOS,res24: comorbidities,diagnostic
+Read,ZV45800,[V]Presence of coronary angioplasty implant and graft,res24: comorbidities,diagnostic
+Read,G30A.00,Mural thrombosis,res24: comorbidities,diagnostic
+Read,G31y300,Transient myocardial ischaemia,res24: comorbidities,diagnostic
+Read,14B3.00,H/O: chr.obstr. airway disease,res24: comorbidities,diagnostic
+Read,G330000,Nocturnal angina,res24: comorbidities,diagnostic
+Read,G311200,Angina at rest,res24: comorbidities,diagnostic
+Read,G311400,Worsening angina,res24: comorbidities,diagnostic
+Read,G301100,Acute anteroseptal infarction,res24: comorbidities,diagnostic
+Read,G34z000,Asymptomatic coronary heart disease,res24: comorbidities,diagnostic
+Read,14V2.00,H/O: renal dialysis,res24: comorbidities,diagnostic
+Read,G35..00,Subsequent myocardial infarction,res24: comorbidities,diagnostic
+Read,7928000,Percut transluminal balloon angioplasty one coronary artery,res24: comorbidities,diagnostic
+Read,G330.00,Angina decubitus,res24: comorbidities,diagnostic
+Read,7929300,Rotary blade coronary angioplasty,res24: comorbidities,diagnostic
+Read,ZV45700,[V]Presence of aortocoronary bypass graft,res24: comorbidities,diagnostic
+Read,792A000,Percutaneous transluminal angioscopy,res24: comorbidities,diagnostic
+Read,7921100,Autograft replacement of two coronary arteries NEC,res24: comorbidities,diagnostic
+Read,7923,Prosthetic replacement of coronary artery,res24: comorbidities,diagnostic
+Read,G31..00,Other acute and subacute ischaemic heart disease,res24: comorbidities,diagnostic
+Read,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,res24: comorbidities,diagnostic
+Read,G310.00,Postmyocardial infarction syndrome,res24: comorbidities,diagnostic
+Read,G34y100,Chronic myocardial ischaemia,res24: comorbidities,diagnostic
+Read,7929000,Percutaneous transluminal laser coronary angioplasty,res24: comorbidities,diagnostic
+Read,G34y000,Chronic coronary insufficiency,res24: comorbidities,diagnostic
+Read,3233,ECG: antero-septal infarct.,res24: comorbidities,diagnostic
+Read,G63y100,Cerebral infarction due to embolism of precerebral arteries,res24: comorbidities,diagnostic
+Read,G304.00,Posterior myocardial infarction NOS,res24: comorbidities,diagnostic
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,res24: comorbidities,diagnostic
+Read,7929,Other therapeutic transluminal operations on coronary artery,res24: comorbidities,diagnostic
+Read,3222,ECG:shows myocardial ischaemia,res24: comorbidities,diagnostic
+Read,G33z.00,Angina pectoris NOS,res24: comorbidities,diagnostic
+Read,3234,ECG:posterior/inferior infarct,res24: comorbidities,diagnostic
+Read,G33z600,New onset angina,res24: comorbidities,diagnostic
+Read,G34..00,Other chronic ischaemic heart disease,res24: comorbidities,diagnostic
+Read,G303.00,Acute inferoposterior infarction,res24: comorbidities,diagnostic
+Read,G31yz00,Other acute and subacute ischaemic heart disease NOS,res24: comorbidities,diagnostic
+Read,G366.00,Thrombosis atrium; auric append&vent/curr comp foll acute MI,res24: comorbidities,diagnostic
+Read,G33zz00,Angina pectoris NOS,res24: comorbidities,diagnostic
+Read,G344.00,Silent myocardial ischaemia,res24: comorbidities,diagnostic
+Read,G30y000,Acute atrial infarction,res24: comorbidities,diagnostic
+Read,G309.00,Acute Q-wave infarct,res24: comorbidities,diagnostic
+Read,7924,Revision of bypass for coronary artery,res24: comorbidities,diagnostic
+Read,G30B.00,Acute posterolateral myocardial infarction,res24: comorbidities,diagnostic
+Read,G33z400,Ischaemic chest pain,res24: comorbidities,diagnostic
+Read,7922200,Allograft replacement of three coronary arteries,res24: comorbidities,diagnostic
+Read,G330z00,Angina decubitus NOS,res24: comorbidities,diagnostic
+Read,G30X.00,Acute transmural myocardial infarction of unspecif site,res24: comorbidities,diagnostic
+Read,G38..00,Postoperative myocardial infarction,res24: comorbidities,diagnostic
+Read,7924200,Revision of bypass for three coronary arteries,res24: comorbidities,diagnostic
+Read,7925100,Double implant of mammary arteries into coronary arteries,res24: comorbidities,diagnostic
+Read,7922,Allograft replacement of coronary artery,res24: comorbidities,diagnostic
+Read,7929z00,Other therapeutic transluminal op on coronary artery NOS,res24: comorbidities,diagnostic
+Read,792y.00,Other specified operations on coronary artery,res24: comorbidities,diagnostic
+Read,G350.00,Subsequent myocardial infarction of anterior wall,res24: comorbidities,diagnostic
+Read,7925,Connection of mammary artery to coronary artery,res24: comorbidities,diagnostic
+Read,14A7.00,H/O: CVA/stroke,res24: comorbidities,diagnostic
+Read,7928100,Percut translum balloon angioplasty mult coronary arteries,res24: comorbidities,diagnostic
+Read,792B.00,Repair of coronary artery NEC,res24: comorbidities,diagnostic
+Read,792Dz00,Other bypass of coronary artery NOS,res24: comorbidities,diagnostic
+Read,7925000,Double anastomosis of mammary arteries to coronary arteries,res24: comorbidities,diagnostic
+Read,7929100,Percut transluminal coronary thrombolysis with streptokinase,res24: comorbidities,diagnostic
+Read,792A.00,Diagnostic transluminal operations on coronary artery,res24: comorbidities,diagnostic
+Read,G311300,Refractory angina,res24: comorbidities,diagnostic
+Read,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,res24: comorbidities,diagnostic
+Read,G34y.00,Other specified chronic ischaemic heart disease,res24: comorbidities,diagnostic
+Read,792D.00,Other bypass of coronary artery,res24: comorbidities,diagnostic
+Read,G30y.00,Other acute myocardial infarction,res24: comorbidities,diagnostic
+Read,G332.00,Coronary artery spasm,res24: comorbidities,diagnostic
+Read,14A3.00,H/O: myocardial infarct <60,res24: comorbidities,diagnostic
+Read,322Z.00,ECG: myocardial ischaemia NOS,res24: comorbidities,diagnostic
+Read,G34yz00,Other specified chronic ischaemic heart disease NOS,res24: comorbidities,diagnostic
+Read,G342.00,Atherosclerotic cardiovascular disease,res24: comorbidities,diagnostic
+Read,G36..00,Certain current complication follow acute myocardial infarct,res24: comorbidities,diagnostic
+Read,G676000,Cereb infarct due cerebral venous thrombosis;  nonpyogenic,res24: comorbidities,diagnostic
+Read,14AL.00,H/O: Treatment for ischaemic heart disease,res24: comorbidities,diagnostic
+Read,G30y200,Acute septal infarction,res24: comorbidities,diagnostic
+Read,G351.00,Subsequent myocardial infarction of inferior wall,res24: comorbidities,diagnostic
+Read,7925y00,Connection of mammary artery to coronary artery OS,res24: comorbidities,diagnostic
+Read,G301000,Acute anteroapical infarction,res24: comorbidities,diagnostic
+Read,Gyu3000,[X]Other forms of angina pectoris,res24: comorbidities,diagnostic
+Read,G312.00,Coronary thrombosis not resulting in myocardial infarction,res24: comorbidities,diagnostic
+Read,14A4.00,H/O: myocardial infarct >60,res24: comorbidities,diagnostic
+Read,7929500,Insertion of drug-eluting coronary artery stent,res24: comorbidities,diagnostic
+Read,7928y00,Transluminal balloon angioplasty of coronary artery OS,res24: comorbidities,diagnostic
+Read,7922300,Allograft replacement of four or more coronary arteries,res24: comorbidities,diagnostic
+Read,G384.00,Postoperative subendocardial myocardial infarction,res24: comorbidities,diagnostic
+Read,7927z00,Other open operation on coronary artery NOS,res24: comorbidities,diagnostic
+Read,7925200,Single anast mammary art to left ant descend coronary art,res24: comorbidities,diagnostic
+Read,7921300,Autograft replacement of four of more coronary arteries NEC,res24: comorbidities,diagnostic
+Read,7928200,Percut translum balloon angioplasty bypass graft coronary a,res24: comorbidities,diagnostic
+Read,792A100,Intravascular ultrasound of coronary artery,res24: comorbidities,diagnostic
+Read,792Bz00,Repair of coronary artery NOS,res24: comorbidities,diagnostic
+Read,7921000,Autograft replacement of one coronary artery NEC,res24: comorbidities,diagnostic
+Read,G380.00,Postoperative transmural myocardial infarction anterior wall,res24: comorbidities,diagnostic
+Read,G30y100,Acute papillary muscle infarction,res24: comorbidities,diagnostic
+Read,3235,ECG: subendocardial infarct,res24: comorbidities,diagnostic
+Read,Gyu3300,[X]Other forms of chronic ischaemic heart disease,res24: comorbidities,diagnostic
+Read,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,res24: comorbidities,diagnostic
+Read,14AM.00,H/O: Heart failure in last year,res24: comorbidities,diagnostic
+Read,G381.00,Postoperative transmural myocardial infarction inferior wall,res24: comorbidities,diagnostic
+Read,G35X.00,Subsequent myocardial infarction of unspecified site,res24: comorbidities,diagnostic
+Read,7925300,Single anastomosis of mammary artery to coronary artery NEC,res24: comorbidities,diagnostic
+Read,G33z100,Stenocardia,res24: comorbidities,diagnostic
+Read,7927,Other open operations on coronary artery,res24: comorbidities,diagnostic
+Read,14AH.00,H/O: Myocardial infarction in last year,res24: comorbidities,diagnostic
+Read,7922z00,Allograft replacement of coronary artery NOS,res24: comorbidities,diagnostic
+Read,G311z00,Preinfarction syndrome NOS,res24: comorbidities,diagnostic
+Read,7920z00,Saphenous vein graft replacement coronary artery NOS,res24: comorbidities,diagnostic
+Read,3236,ECG: lateral infarction,res24: comorbidities,diagnostic
+Read,Gyu3.00,[X]Ischaemic heart diseases,res24: comorbidities,diagnostic
+Read,7924000,Revision of bypass for one coronary artery,res24: comorbidities,diagnostic
+Read,Gyu6200,[X]Other intracerebral haemorrhage,res24: comorbidities,diagnostic
+Read,Gyu6400,[X]Other cerebral infarction,res24: comorbidities,diagnostic
+Read,7925z00,Connection of mammary artery to coronary artery NOS,res24: comorbidities,diagnostic
+Read,7926000,Double anastom thoracic arteries to coronary arteries NEC,res24: comorbidities,diagnostic
+Read,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,res24: comorbidities,diagnostic
+Read,792Ay00,Diagnostic transluminal operation on coronary artery OS,res24: comorbidities,diagnostic
+Read,792C.00,Other replacement of coronary artery,res24: comorbidities,diagnostic
+Read,323Z.00,ECG: myocardial infarct NOS,res24: comorbidities,diagnostic
+Read,14AJ.00,H/O: Angina in last year,res24: comorbidities,diagnostic
+Read,7924z00,Revision of bypass for coronary artery NOS,res24: comorbidities,diagnostic
+Read,7922100,Allograft replacement of two coronary arteries,res24: comorbidities,diagnostic
+Read,G311000,Myocardial infarction aborted,res24: comorbidities,diagnostic
+Read,7921y00,Other autograft replacement of coronary artery OS,res24: comorbidities,diagnostic
+Read,7922y00,Other specified allograft replacement of coronary artery,res24: comorbidities,diagnostic
+Read,7926300,Single implantation thoracic artery into coronary artery NEC,res24: comorbidities,diagnostic
+Read,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,res24: comorbidities,diagnostic
+Read,792Az00,Diagnostic transluminal operation on coronary artery NOS,res24: comorbidities,diagnostic
+Read,7924500,Revision of implantation of thoracic artery into heart,res24: comorbidities,diagnostic
+Read,7923z00,Prosthetic replacement of coronary artery NOS,res24: comorbidities,diagnostic
+Read,7923200,Prosthetic replacement of three coronary arteries,res24: comorbidities,diagnostic
+Read,G306.00,True posterior myocardial infarction,res24: comorbidities,diagnostic
+Read,7926200,Single anastomosis of thoracic artery to coronary artery NEC,res24: comorbidities,diagnostic
+Read,G33z000,Status anginosus,res24: comorbidities,diagnostic
+Read,7920,Saphenous vein graft replacement of coronary artery,res24: comorbidities,diagnostic
+Read,7925400,Single implantation of mammary artery into coronary artery,res24: comorbidities,diagnostic
+Read,7924100,Revision of bypass for two coronary arteries,res24: comorbidities,diagnostic
+Read,7929200,Percut translum inject therap subst to coronary artery NEC,res24: comorbidities,diagnostic
+Read,7923100,Prosthetic replacement of two coronary arteries,res24: comorbidities,diagnostic
+Read,7923300,Prosthetic replacement of four or more coronary arteries,res24: comorbidities,diagnostic
+Read,Gyu3200,[X]Other forms of acute ischaemic heart disease,res24: comorbidities,diagnostic
+Read,7920200,Saphenous vein graft replacement of three coronary arteries,res24: comorbidities,diagnostic
+Read,G31y100,Microinfarction of heart,res24: comorbidities,diagnostic
+Read,7928z00,Transluminal balloon angioplasty of coronary artery NOS,res24: comorbidities,diagnostic
+Read,G3...00,Ischaemic heart disease,res24: comorbidities,diagnostic
+Read,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res24: comorbidities,diagnostic
+Read,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,res24: comorbidities,diagnostic
+Read,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,res24: comorbidities,diagnostic
+Read,Gyu6500,[X]Occlusion and stenosis of other precerebral arteries,res24: comorbidities,diagnostic
+Read,3232,ECG: old myocardial infarction,res24: comorbidities,diagnostic
+Read,G31y200,Subendocardial ischaemia,res24: comorbidities,diagnostic
+Read,792C000,Replacement of coronary arteries using multiple methods,res24: comorbidities,diagnostic
+Read,792By00,Other specified repair of coronary artery,res24: comorbidities,diagnostic
+Read,G38z.00,Postoperative myocardial infarction;  unspecified,res24: comorbidities,diagnostic
+Read,7926z00,Connection of other thoracic artery to coronary artery NOS,res24: comorbidities,diagnostic
+Read,G353.00,Subsequent myocardial infarction of other sites,res24: comorbidities,diagnostic
+Read,7922000,Allograft replacement of one coronary artery,res24: comorbidities,diagnostic
+Read,792Cy00,Other specified replacement of coronary artery,res24: comorbidities,diagnostic
+Read,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res24: comorbidities,diagnostic
+Read,7929600,Percutaneous transluminal atherectomy of coronary artery,res24: comorbidities,diagnostic
+Read,7923000,Prosthetic replacement of one coronary artery,res24: comorbidities,diagnostic
+Read,Gyu6600,[X]Occlusion and stenosis of other cerebral arteries,res24: comorbidities,diagnostic
+Read,7926,Connection of other thoracic artery to coronary artery,res24: comorbidities,diagnostic
+Read,7927y00,Other specified other open operation on coronary artery,res24: comorbidities,diagnostic
+Read,7924300,Revision of bypass for four or more coronary arteries,res24: comorbidities,diagnostic
+Read,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,res24: comorbidities,diagnostic
+Read,Gyu6F00,[X]Intracerebral haemorrhage in hemisphere;  unspecified,res24: comorbidities,diagnostic
+Read,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site,res24: comorbidities,diagnostic
+Read,Gyu3600,[X]Subsequent myocardial infarction of unspecified site,res24: comorbidities,diagnostic
+Read,7924y00,Other specified revision of bypass for coronary artery,res24: comorbidities,diagnostic
+Read,G311.00,Preinfarction syndrome,res24: comorbidities,diagnostic
+Read,14AK.00,H/O: Stroke in last year,res24: comorbidities,diagnostic

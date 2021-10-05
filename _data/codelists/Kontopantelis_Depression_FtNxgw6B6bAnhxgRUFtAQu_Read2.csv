@@ -1,0 +1,89 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu53011,[X]Postnatal depression NOS,depression,diagnostic
+Read,212S.00,Depression resolved,depression,diagnostic
+Read,E112500,Single major depressive episode; partial or unspec remission,depression,diagnostic
+Read,Eu32400,[X]Mild depression,depression,diagnostic
+Read,9HA1.00,Removed from depression register,depression,diagnostic
+Read,E112200,Single major depressive episode; moderate,depression,diagnostic
+Read,E112.00,Single major depressive episode,depression,diagnostic
+Read,E113600,Recurrent major depressive episodes; in full remission,depression,diagnostic
+Read,E135.00,Agitated depression,depression,diagnostic
+Read,E113500,Recurrent major depressive episodes;partial/unspec remission,depression,diagnostic
+Read,E112600,Single major depressive episode; in full remission,depression,diagnostic
+Read,Eu32y11,[X]Atypical depression,depression,diagnostic
+Read,E113.00,Recurrent major depressive episode,depression,diagnostic
+Read,E118.00,Seasonal affective disorder,depression,diagnostic
+Read,E204.00,Neurotic depression reactive type,depression,diagnostic
+Read,Eu33212,[X]Major depression; recurrent without psychotic symptoms,depression,diagnostic
+Read,E113200,Recurrent major depressive episodes; moderate,depression,diagnostic
+Read,Eu41200,[X]Mixed anxiety and depressive disorder,depression,diagnostic
+Read,Eu33211,[X]Endogenous depression without psychotic symptoms,depression,diagnostic
+Read,Eu32000,[X]Mild depressive episode,depression,diagnostic
+Read,Eu34114,[X]Persistant anxiety depression,depression,diagnostic
+Read,E112100,Single major depressive episode; mild,depression,diagnostic
+Read,1B17.00,Depressed,depression,diagnostic
+Read,E112300,Single major depressive episode; severe; without psychosis,depression,diagnostic
+Read,E290.00,Brief depressive reaction,depression,diagnostic
+Read,E291.00,Prolonged depressive reaction,depression,diagnostic
+Read,Eu33.12,[X]Recurrent episodes of psychogenic depression,depression,diagnostic
+Read,2257,O/E - depressed,depression,diagnostic
+Read,Eu32.12,[X]Single episode of psychogenic depression,depression,diagnostic
+Read,Eu3y111,[X]Recurrent brief depressive episodes,depression,diagnostic
+Read,Eu32z00,[X]Depressive episode; unspecified,depression,diagnostic
+Read,Eu32212,[X]Single episode major depression w'out psychotic symptoms,depression,diagnostic
+Read,Eu33400,[X]Recurrent depressive disorder; currently in remission,depression,diagnostic
+Read,E113300,Recurrent major depressive episodes; severe; no psychosis,depression,diagnostic
+Read,E002100,Senile dementia with depression,depression,diagnostic
+Read,E113z00,Recurrent major depressive episode NOS,depression,diagnostic
+Read,Eu33100,[X]Recurrent depressive disorder; current episode moderate,depression,diagnostic
+Read,E11y200,Atypical depressive disorder,depression,diagnostic
+Read,E204.11,Postnatal depression,depression,diagnostic
+Read,Eu32z13,[X]Prolonged single episode of reactive depression,depression,diagnostic
+Read,E001300,Presenile dementia with depression,depression,diagnostic
+Read,E113100,Recurrent major depressive episodes; mild,depression,diagnostic
+Read,62T1.00,Puerperal depression,depression,diagnostic
+Read,Eu33.14,[X]Seasonal depressive disorder,depression,diagnostic
+Read,E113000,Recurrent major depressive episodes; unspecified,depression,diagnostic
+Read,Eu33000,[X]Recurrent depressive disorder; current episode mild,depression,diagnostic
+Read,E2B0.00,Postviral depression,depression,diagnostic
+Read,Eu32213,[X]Single episode vital depression w'out psychotic symptoms,depression,diagnostic
+Read,E112000,Single major depressive episode; unspecified,depression,diagnostic
+Read,Eu92000,[X]Depressive conduct disorder,depression,diagnostic
+Read,E2B..00,Depressive disorder NEC,depression,diagnostic
+Read,Eu33200,[X]Recurr depress disorder cur epi severe without psyc sympt,depression,diagnostic
+Read,Eu32z12,[X]Depressive disorder NOS,depression,diagnostic
+Read,Eu33.00,[X]Recurrent depressive disorder,depression,diagnostic
+Read,E112.11,Agitated depression,depression,diagnostic
+Read,E004300,Arteriosclerotic dementia with depression,depression,diagnostic
+Read,E290z00,Brief depressive reaction NOS,depression,diagnostic
+Read,E2B1.00,Chronic depression,depression,diagnostic
+Read,Eu33z11,[X]Monopolar depression NOS,depression,diagnostic
+Read,Eu32211,[X]Single episode agitated depressn w'out psychotic symptoms,depression,diagnostic
+Read,Eu33y00,[X]Other recurrent depressive disorders,depression,diagnostic
+Read,Eu33z00,[X]Recurrent depressive disorder; unspecified,depression,diagnostic
+Read,Eu32.00,[X]Depressive episode,depression,diagnostic
+Read,Eu32y12,[X]Single episode of masked depression NOS,depression,diagnostic
+Read,Eu32z11,[X]Depression NOS,depression,diagnostic
+Read,Eu53012,[X]Postpartum depression NOS,depression,diagnostic
+Read,Eu32.13,[X]Single episode of reactive depression,depression,diagnostic
+Read,E112.12,Endogenous depression first episode,depression,diagnostic
+Read,E113700,Recurrent depression,depression,diagnostic
+Read,E112.14,Endogenous depression,depression,diagnostic
+Read,Eu32z14,[X] Reactive depression NOS,depression,diagnostic
+Read,Eu33214,[X]Vital depression; recurrent without psychotic symptoms,depression,diagnostic
+Read,Eu32y00,[X]Other depressive episodes,depression,diagnostic
+Read,E200300,Anxiety with depression,depression,diagnostic
+Read,E112z00,Single major depressive episode NOS,depression,diagnostic
+Read,E113.11,Endogenous depression - recurrent,depression,diagnostic
+Read,E112.13,Endogenous depression first episode,depression,diagnostic
+Read,Eu33.15,[X]SAD - Seasonal affective disorder,depression,diagnostic
+Read,Eu34113,[X]Neurotic depression,depression,diagnostic
+Read,Eu34111,[X]Depressive neurosis,depression,diagnostic
+Read,Eu41211,[X]Mild anxiety depression,depression,diagnostic
+Read,Eu34100,[X]Dysthymia,depression,diagnostic
+Read,Eu32200,[X]Severe depressive episode without psychotic symptoms,depression,diagnostic
+Read,Eu33.13,[X]Recurrent episodes of reactive depression,depression,diagnostic
+Read,Eu33.11,[X]Recurrent episodes of depressive reaction,depression,diagnostic
+Read,Eu32100,[X]Moderate depressive episode,depression,diagnostic
+Read,Eu32.11,[X]Single episode of depressive reaction,depression,diagnostic
+Read,E11z200,Masked depression,depression,diagnostic

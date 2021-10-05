@@ -1,0 +1,335 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,H352100,Pigeon-fanciers' lung,res50: chronic pulmonary disease,diagnostic
+Read,H352z00,Bird-fancier's lung NOS,res50: chronic pulmonary disease,diagnostic
+Read,H56z.00,Alveolar and parietoalveolar disease NOS,res50: chronic pulmonary disease,diagnostic
+Read,663w.00,Asthma limits walking up hills or stairs,res50: chronic pulmonary disease,diagnostic
+Read,1780,Aspirin induced asthma,res50: chronic pulmonary disease,diagnostic
+Read,663u.00,Asthma causes daytime symptoms 1 to 2 times per week,res50: chronic pulmonary disease,diagnostic
+Read,173d.00,Work aggravated asthma,res50: chronic pulmonary disease,diagnostic
+Read,14B3.11,H/O: bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,173c.00,Occupational asthma,res50: chronic pulmonary disease,diagnostic
+Read,173A.00,Exercise induced asthma,res50: chronic pulmonary disease,diagnostic
+Read,14B4.00,H/O: asthma,res50: chronic pulmonary disease,diagnostic
+Read,14H5.00,H/O: cong. dislocation - hip,res50: chronic pulmonary disease,diagnostic
+Read,663t.00,Asthma causes daytime symptoms 1 to 2 times per month,res50: chronic pulmonary disease,diagnostic
+Read,663V200,Moderate asthma,res50: chronic pulmonary disease,diagnostic
+Read,663P000,Asthma limits activities 1 to 2 times per month,res50: chronic pulmonary disease,diagnostic
+Read,663N000,Asthma causing night waking,res50: chronic pulmonary disease,diagnostic
+Read,1O2..00,Asthma confirmed,res50: chronic pulmonary disease,diagnostic
+Read,663N.00,Asthma disturbing sleep,res50: chronic pulmonary disease,diagnostic
+Read,663P.00,Asthma limiting activities,res50: chronic pulmonary disease,diagnostic
+Read,663N200,Asthma disturbs sleep frequently,res50: chronic pulmonary disease,diagnostic
+Read,663O000,Asthma never disturbs sleep,res50: chronic pulmonary disease,diagnostic
+Read,663V100,Mild asthma,res50: chronic pulmonary disease,diagnostic
+Read,663P200,Asthma limits activities most days,res50: chronic pulmonary disease,diagnostic
+Read,663P100,Asthma limits activities 1 to 2 times per week,res50: chronic pulmonary disease,diagnostic
+Read,663O.00,Asthma not disturbing sleep,res50: chronic pulmonary disease,diagnostic
+Read,663V000,Occasional asthma,res50: chronic pulmonary disease,diagnostic
+Read,663U.00,Asthma management plan given,res50: chronic pulmonary disease,diagnostic
+Read,663V.00,Asthma severity,res50: chronic pulmonary disease,diagnostic
+Read,663q.00,Asthma daytime symptoms,res50: chronic pulmonary disease,diagnostic
+Read,6.63E+102,Asthma severely restricts exercise,res50: chronic pulmonary disease,diagnostic
+Read,663Q.00,Asthma not limiting activities,res50: chronic pulmonary disease,diagnostic
+Read,663V300,Severe asthma,res50: chronic pulmonary disease,diagnostic
+Read,663W.00,Asthma prophylactic medication used,res50: chronic pulmonary disease,diagnostic
+Read,6.63E+02,Asthma sometimes restricts exercise,res50: chronic pulmonary disease,diagnostic
+Read,663d.00,Emergency asthma admission since last appointment,res50: chronic pulmonary disease,diagnostic
+Read,663e.00,Asthma restricts exercise,res50: chronic pulmonary disease,diagnostic
+Read,663s.00,Asthma never causes daytime symptoms,res50: chronic pulmonary disease,diagnostic
+Read,663n.00,Asthma treatment compliance satisfactory,res50: chronic pulmonary disease,diagnostic
+Read,663h.00,Asthma - currently dormant,res50: chronic pulmonary disease,diagnostic
+Read,663m.00,Asthma accident and emergency attendance since last visit,res50: chronic pulmonary disease,diagnostic
+Read,663r.00,Asthma causes night symptoms 1 to 2 times per month,res50: chronic pulmonary disease,diagnostic
+Read,663j.00,Asthma - currently active,res50: chronic pulmonary disease,diagnostic
+Read,663p.00,Asthma treatment compliance unsatisfactory,res50: chronic pulmonary disease,diagnostic
+Read,H46..00,Respiratory disease due to chemical fumes and vapours,res50: chronic pulmonary disease,diagnostic
+Read,H33z011,Severe asthma attack,res50: chronic pulmonary disease,diagnostic
+Read,H320100,Zonal bullous emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H30z.00,Bronchitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,66Yu.00,Number days absent from school due to asthma in past 6 month,res50: chronic pulmonary disease,diagnostic
+Read,66YP.00,Asthma night-time symptoms,res50: chronic pulmonary disease,diagnostic
+Read,663y.00,Number of asthma exacerbations in past year,res50: chronic pulmonary disease,diagnostic
+Read,66YC.00,Absent from work or school due to asthma,res50: chronic pulmonary disease,diagnostic
+Read,66Ys.00,Asthma never causes night symptoms,res50: chronic pulmonary disease,diagnostic
+Read,66Yq.00,Asthma causes night time symptoms 1 to 2 times per week,res50: chronic pulmonary disease,diagnostic
+Read,66Yr.00,Asthma causes symptoms most nights,res50: chronic pulmonary disease,diagnostic
+Read,H301.00,Laryngotracheobronchitis,res50: chronic pulmonary disease,diagnostic
+Read,AB63600,Aspergillus bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,663x.00,Asthma limits walking on the flat,res50: chronic pulmonary disease,diagnostic
+Read,A115.00,Tuberculous bronchiectasis,res50: chronic pulmonary disease,diagnostic
+Read,H30..12,Recurrent wheezy bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H06..00,Acute bronchitis and bronchiolitis,res50: chronic pulmonary disease,diagnostic
+Read,H30..11,Chest infection - unspecified bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H320.00,Chronic bullous emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H311100,Fetid chronic bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H310100,Smokers' cough,res50: chronic pulmonary disease,diagnostic
+Read,H310.00,Simple chronic bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H310000,Chronic catarrhal bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H311z00,Mucopurulent chronic bronchitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H310z00,Simple chronic bronchitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H311000,Purulent chronic bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H31z.00,Chronic bronchitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H312100,Emphysematous bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H312000,Chronic asthmatic bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H312011,Chronic wheezy bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H31yz00,Other chronic bronchitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H313.00,Mixed simple and mucopurulent chronic bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H31y.00,Other chronic bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H33z000,Status asthmaticus NOS,res50: chronic pulmonary disease,diagnostic
+Read,H330100,Extrinsic asthma with status asthmaticus,res50: chronic pulmonary disease,diagnostic
+Read,H32yz00,Other emphysema NOS,res50: chronic pulmonary disease,diagnostic
+Read,H320z00,Chronic bullous emphysema NOS,res50: chronic pulmonary disease,diagnostic
+Read,H320200,Giant bullous emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H320300,Bullous emphysema with collapse,res50: chronic pulmonary disease,diagnostic
+Read,H32y200,MacLeod's unilateral emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H322.00,Centrilobular emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H32y.00,Other emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H330011,Hay fever with asthma,res50: chronic pulmonary disease,diagnostic
+Read,H330.00,Extrinsic (atopic) asthma,res50: chronic pulmonary disease,diagnostic
+Read,H33..00,Asthma,res50: chronic pulmonary disease,diagnostic
+Read,H33..11,Bronchial asthma,res50: chronic pulmonary disease,diagnostic
+Read,H330000,Extrinsic asthma without status asthmaticus,res50: chronic pulmonary disease,diagnostic
+Read,H330.12,Childhood asthma,res50: chronic pulmonary disease,diagnostic
+Read,H330.14,Pollen asthma,res50: chronic pulmonary disease,diagnostic
+Read,H334.00,Brittle asthma,res50: chronic pulmonary disease,diagnostic
+Read,H331.00,Intrinsic asthma,res50: chronic pulmonary disease,diagnostic
+Read,H330.11,Allergic asthma,res50: chronic pulmonary disease,diagnostic
+Read,H330.13,Hay fever with asthma,res50: chronic pulmonary disease,diagnostic
+Read,H330111,Extrinsic asthma with asthma attack,res50: chronic pulmonary disease,diagnostic
+Read,H331000,Intrinsic asthma without status asthmaticus,res50: chronic pulmonary disease,diagnostic
+Read,H330z00,Extrinsic asthma NOS,res50: chronic pulmonary disease,diagnostic
+Read,H331.11,Late onset asthma,res50: chronic pulmonary disease,diagnostic
+Read,H335.00,Chronic asthma with fixed airflow obstruction,res50: chronic pulmonary disease,diagnostic
+Read,H32z.00,Emphysema NOS,res50: chronic pulmonary disease,diagnostic
+Read,H331100,Intrinsic asthma with status asthmaticus,res50: chronic pulmonary disease,diagnostic
+Read,H331111,Intrinsic asthma with asthma attack,res50: chronic pulmonary disease,diagnostic
+Read,H333.00,Acute exacerbation of asthma,res50: chronic pulmonary disease,diagnostic
+Read,H331z00,Intrinsic asthma NOS,res50: chronic pulmonary disease,diagnostic
+Read,H332.00,Mixed asthma,res50: chronic pulmonary disease,diagnostic
+Read,H34z.00,Bronchiectasis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H35z000,Allergic extrinsic alveolitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H353.00,Suberosis ( cork-handlers' lung ),res50: chronic pulmonary disease,diagnostic
+Read,H34..00,Bronchiectasis,res50: chronic pulmonary disease,diagnostic
+Read,H33zz00,Asthma NOS,res50: chronic pulmonary disease,diagnostic
+Read,H33z100,Asthma attack,res50: chronic pulmonary disease,diagnostic
+Read,H33z200,Late-onset asthma,res50: chronic pulmonary disease,diagnostic
+Read,H33zz13,Allergic bronchitis NEC,res50: chronic pulmonary disease,diagnostic
+Read,H33zz11,Exercise induced asthma,res50: chronic pulmonary disease,diagnostic
+Read,H33zz12,Allergic asthma NEC,res50: chronic pulmonary disease,diagnostic
+Read,H352000,Budgerigar-fanciers' lung,res50: chronic pulmonary disease,diagnostic
+Read,H35..00,Extrinsic allergic alveolitis,res50: chronic pulmonary disease,diagnostic
+Read,H340.00,Recurrent bronchiectasis,res50: chronic pulmonary disease,diagnostic
+Read,H341.00,Post-infective bronchiectasis,res50: chronic pulmonary disease,diagnostic
+Read,H351.00,Bagassosis,res50: chronic pulmonary disease,diagnostic
+Read,H35..11,Hypersensitivity pneumonitis,res50: chronic pulmonary disease,diagnostic
+Read,H350.00,Farmers' lung,res50: chronic pulmonary disease,diagnostic
+Read,H35zz00,Allergic alveolitis and pneumonitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H35y200,Fish-meal workers' lung,res50: chronic pulmonary disease,diagnostic
+Read,H357.00,'Ventilation' pneumonitis,res50: chronic pulmonary disease,diagnostic
+Read,H355.00,Mushroom workers' lung,res50: chronic pulmonary disease,diagnostic
+Read,H356.00,Maple bark strippers' lung,res50: chronic pulmonary disease,diagnostic
+Read,H35y100,Coffee-workers' lung,res50: chronic pulmonary disease,diagnostic
+Read,H35y.00,Other allergic alveolitis,res50: chronic pulmonary disease,diagnostic
+Read,H35y000,Cheese-washers' lung,res50: chronic pulmonary disease,diagnostic
+Read,H35z100,Hypersensitivity pneumonitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H35y700,Wood asthma,res50: chronic pulmonary disease,diagnostic
+Read,H35y500,Pituitary snuff-takers' disease,res50: chronic pulmonary disease,diagnostic
+Read,H35y600,Sequoiosis (red-cedar asthma),res50: chronic pulmonary disease,diagnostic
+Read,H35z.00,Allergic alveolitis and pneumonitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H35y800,Air-conditioner and humidifier lung,res50: chronic pulmonary disease,diagnostic
+Read,H35yz00,Other allergic alveolitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H450.00,Pneumoconiosis associated with tuberculosis,res50: chronic pulmonary disease,diagnostic
+Read,H43..00,Pneumoconiosis due to other inorganic dust,res50: chronic pulmonary disease,diagnostic
+Read,H410.11,Asbestos-induced pleural plaque,res50: chronic pulmonary disease,diagnostic
+Read,H4...11,Pneumoconioses,res50: chronic pulmonary disease,diagnostic
+Read,H4...00,Lung disease due to external agents,res50: chronic pulmonary disease,diagnostic
+Read,H354.00,Malt workers' lung,res50: chronic pulmonary disease,diagnostic
+Read,H410.00,Pleural plaque disease due to asbestosis,res50: chronic pulmonary disease,diagnostic
+Read,H4...12,Occupational lung disease,res50: chronic pulmonary disease,diagnostic
+Read,H41..00,Asbestosis,res50: chronic pulmonary disease,diagnostic
+Read,H42z.00,Silica pneumoconiosis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H420.00,Talc pneumoconiosis,res50: chronic pulmonary disease,diagnostic
+Read,H41z.00,Asbestosis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H42..00,Silica and silicate pneumoconiosis,res50: chronic pulmonary disease,diagnostic
+Read,H423.00,Massive silicotic fibrosis,res50: chronic pulmonary disease,diagnostic
+Read,H421.00,Simple silicosis,res50: chronic pulmonary disease,diagnostic
+Read,H422.00,Complicated silicosis,res50: chronic pulmonary disease,diagnostic
+Read,H45..00,Pneumoconiosis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H43z.00,Pneumoconiosis due to inorganic dust NOS,res50: chronic pulmonary disease,diagnostic
+Read,H433.00,Graphite fibrosis of lung,res50: chronic pulmonary disease,diagnostic
+Read,H431.00,Bauxite fibrosis of lung,res50: chronic pulmonary disease,diagnostic
+Read,H432.00,Berylliosis,res50: chronic pulmonary disease,diagnostic
+Read,H435.00,Stannosis,res50: chronic pulmonary disease,diagnostic
+Read,H434.00,Siderosis,res50: chronic pulmonary disease,diagnostic
+Read,H352.00,Bird-fancier's lung,res50: chronic pulmonary disease,diagnostic
+Read,H440.00,Byssinosis,res50: chronic pulmonary disease,diagnostic
+Read,H44..00,Pneumopathy due to inhalation of other dust,res50: chronic pulmonary disease,diagnostic
+Read,H40..00,Coal workers' pneumoconiosis,res50: chronic pulmonary disease,diagnostic
+Read,H44z.00,Pneumopathy due to inhalation of other dust NOS,res50: chronic pulmonary disease,diagnostic
+Read,H441.00,Cannabinosis,res50: chronic pulmonary disease,diagnostic
+Read,H52y100,Chronic pneumothorax,res50: chronic pulmonary disease,diagnostic
+Read,H31..00,Chronic bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H464z00,Chronic respiratory conditions due to chemical fumes NOS,res50: chronic pulmonary disease,diagnostic
+Read,H464.00,Chronic respiratory conditions due to chemical fumes,res50: chronic pulmonary disease,diagnostic
+Read,H33z.00,Asthma unspecified,res50: chronic pulmonary disease,diagnostic
+Read,H33z111,Asthma attack NOS,res50: chronic pulmonary disease,diagnostic
+Read,H460.00,Bronchitis and pneumonitis due to chemical fumes,res50: chronic pulmonary disease,diagnostic
+Read,H32y100,Atrophic (senile) emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H460z00,Bronchitis and pneumonitis due to chemical fumes NOS,res50: chronic pulmonary disease,diagnostic
+Read,H464200,Chronic pulmonary fibrosis due to chemical fumes,res50: chronic pulmonary disease,diagnostic
+Read,H320000,Segmental bullous emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H321.00,Panlobular emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H464000,Chronic emphysema due to chemical fumes,res50: chronic pulmonary disease,diagnostic
+Read,H32..00,Emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H464100,Obliterative bronchiolitis due to chemical fumes,res50: chronic pulmonary disease,diagnostic
+Read,H4y1z00,Chronic pulmonary radiation disease NOS,res50: chronic pulmonary disease,diagnostic
+Read,H312.00,Obstructive chronic bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H46z.00,Respiratory conditions due to chemical fumes NOS,res50: chronic pulmonary disease,diagnostic
+Read,H31y100,Chronic tracheobronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H465.00,Chemical-induced pulmonary oedema,res50: chronic pulmonary disease,diagnostic
+Read,H46zz00,Respiratory conditions due to chemical fumes NOS,res50: chronic pulmonary disease,diagnostic
+Read,H312z00,Obstructive chronic bronchitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H4y1000,Chronic pulmonary fibrosis following radiation,res50: chronic pulmonary disease,diagnostic
+Read,H4y..00,Other specified lung diseases due to external agent,res50: chronic pulmonary disease,diagnostic
+Read,H47..00,Pneumonitis due to inhalation of solids or liquids,res50: chronic pulmonary disease,diagnostic
+Read,H48..00,Progressive massive fibrosis,res50: chronic pulmonary disease,diagnostic
+Read,H4y1.00,Chronic pulmonary radiation disease,res50: chronic pulmonary disease,diagnostic
+Read,H311.00,Mucopurulent chronic bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H50z.00,Empyema NOS,res50: chronic pulmonary disease,diagnostic
+Read,H500000,Empyema with bronchocutaneous fistula,res50: chronic pulmonary disease,diagnostic
+Read,H4yz.00,External agent causing respiratory conditions NOS,res50: chronic pulmonary disease,diagnostic
+Read,H4y2100,Chronic drug-induced interstitial lung disorders,res50: chronic pulmonary disease,diagnostic
+Read,H4y2.00,Drug-induced interstitial lung disorders,res50: chronic pulmonary disease,diagnostic
+Read,H302.00,Wheezy bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H30..00,Bronchitis unspecified,res50: chronic pulmonary disease,diagnostic
+Read,H300.00,Tracheobronchitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H4yy.00,Other external agent causing respiratory condition,res50: chronic pulmonary disease,diagnostic
+Read,H500.00,Empyema with fistula,res50: chronic pulmonary disease,diagnostic
+Read,663f.00,Asthma never restricts exercise,res50: chronic pulmonary disease,diagnostic
+Read,G581.11,Asthma - cardiac,res50: chronic pulmonary disease,diagnostic
+Read,H4z..00,Lung disease due to external agents NOS,res50: chronic pulmonary disease,diagnostic
+Read,H50..00,Empyema,res50: chronic pulmonary disease,diagnostic
+Read,H5...00,Other respiratory system diseases,res50: chronic pulmonary disease,diagnostic
+Read,H501600,Pyothorax,res50: chronic pulmonary disease,diagnostic
+Read,H501000,Pleural abscess,res50: chronic pulmonary disease,diagnostic
+Read,H500100,Empyema with bronchopleural fistula,res50: chronic pulmonary disease,diagnostic
+Read,663N100,Asthma disturbs sleep weekly,res50: chronic pulmonary disease,diagnostic
+Read,H501.00,Empyema with no fistula,res50: chronic pulmonary disease,diagnostic
+Read,H500400,Empyema with pleural fistula NOS,res50: chronic pulmonary disease,diagnostic
+Read,H501500,Pyopneumothorax,res50: chronic pulmonary disease,diagnostic
+Read,H501300,Lung empyema NOS,res50: chronic pulmonary disease,diagnostic
+Read,H501100,Thorax abscess NOS,res50: chronic pulmonary disease,diagnostic
+Read,H501200,Pleural empyema,res50: chronic pulmonary disease,diagnostic
+Read,H501400,Purulent pleurisy,res50: chronic pulmonary disease,diagnostic
+Read,H56yz00,Other alveolar and parietoalveolar disease NOS,res50: chronic pulmonary disease,diagnostic
+Read,H53z.00,Abscess of lung and mediastinum NOS,res50: chronic pulmonary disease,diagnostic
+Read,H530.00,Abscess of lung,res50: chronic pulmonary disease,diagnostic
+Read,H53..00,Abscess of lung and mediastinum,res50: chronic pulmonary disease,diagnostic
+Read,H52yz11,Spontaneous pneumothorax NOS,res50: chronic pulmonary disease,diagnostic
+Read,H52z.00,Pneumothorax NOS,res50: chronic pulmonary disease,diagnostic
+Read,H531.00,Abscess of mediastinum,res50: chronic pulmonary disease,diagnostic
+Read,H530100,Multiple lung abscess,res50: chronic pulmonary disease,diagnostic
+Read,H530000,Single lung abscess,res50: chronic pulmonary disease,diagnostic
+Read,H530z00,Abscess of lung NOS,res50: chronic pulmonary disease,diagnostic
+Read,H530200,Gangrenous pneumonia,res50: chronic pulmonary disease,diagnostic
+Read,H530300,Abscess of lung with pneumonia,res50: chronic pulmonary disease,diagnostic
+Read,H56y100,Interstitial pneumonia,res50: chronic pulmonary disease,diagnostic
+Read,H55..00,Postinflammatory pulmonary fibrosis,res50: chronic pulmonary disease,diagnostic
+Read,H540100,Hypostatic bronchopneumonia,res50: chronic pulmonary disease,diagnostic
+Read,14H4.00,H/O: urinary anomaly,res50: chronic pulmonary disease,diagnostic
+Read,H54..00,Pulmonary congestion and hypostasis,res50: chronic pulmonary disease,diagnostic
+Read,H540000,Hypostatic pneumonia,res50: chronic pulmonary disease,diagnostic
+Read,H540.00,Pulmonary hypostasis,res50: chronic pulmonary disease,diagnostic
+Read,H56y000,Endogenous lipoid pneumonia,res50: chronic pulmonary disease,diagnostic
+Read,H541000,Chronic pulmonary oedema,res50: chronic pulmonary disease,diagnostic
+Read,H540z00,Pulmonary hypostasis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H541.00,Pulmonary congestion,res50: chronic pulmonary disease,diagnostic
+Read,H54z.00,Pulmonary congestion and hypostasis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H541z00,Pulmonary oedema NOS,res50: chronic pulmonary disease,diagnostic
+Read,H56..00,Other alveolar and parietoalveolar disease,res50: chronic pulmonary disease,diagnostic
+Read,H55..11,Cirrhosis of lung,res50: chronic pulmonary disease,diagnostic
+Read,H563100,Diffuse pulmonary fibrosis,res50: chronic pulmonary disease,diagnostic
+Read,H561.00,Idiopathic pulmonary haemosiderosis,res50: chronic pulmonary disease,diagnostic
+Read,H560.00,Pulmonary alveolar proteinosis,res50: chronic pulmonary disease,diagnostic
+Read,H563000,Alveolar capillary block,res50: chronic pulmonary disease,diagnostic
+Read,H563.00,Idiopathic fibrosing alveolitis,res50: chronic pulmonary disease,diagnostic
+Read,H562.00,Pulmonary alveolar microlithiasis,res50: chronic pulmonary disease,diagnostic
+Read,H563.13,Idiopathic pulmonary fibrosis,res50: chronic pulmonary disease,diagnostic
+Read,H563.11,Hamman - Rich syndrome,res50: chronic pulmonary disease,diagnostic
+Read,H563.12,Cryptogenic fibrosing alveolitis,res50: chronic pulmonary disease,diagnostic
+Read,H56y.00,Other alveolar and parietoalveolar disease,res50: chronic pulmonary disease,diagnostic
+Read,H563300,Usual interstitial pneumonitis,res50: chronic pulmonary disease,diagnostic
+Read,H563200,Pulmonary fibrosis,res50: chronic pulmonary disease,diagnostic
+Read,H563z00,Idiopathic fibrosing alveolitis NOS,res50: chronic pulmonary disease,diagnostic
+Read,H564.11,Cryptogenic organising pneumonia,res50: chronic pulmonary disease,diagnostic
+Read,H564.00,Bronchiolitis obliterans organising pneumonia,res50: chronic pulmonary disease,diagnostic
+Read,TJF7300,Adverse reaction to theophylline (asthma),res50: chronic pulmonary disease,diagnostic
+Read,H583100,Tropical eosinophilia,res50: chronic pulmonary disease,diagnostic
+Read,H57..00,Lung involvement in diseases EC,res50: chronic pulmonary disease,diagnostic
+Read,H57y.00,Lung disease with diseases EC,res50: chronic pulmonary disease,diagnostic
+Read,H571.00,Rheumatic pneumonia,res50: chronic pulmonary disease,diagnostic
+Read,H570.00,Rheumatoid lung,res50: chronic pulmonary disease,diagnostic
+Read,H572.00,Lung disease with systemic sclerosis,res50: chronic pulmonary disease,diagnostic
+Read,H5B..00,Sleep apnoea,res50: chronic pulmonary disease,diagnostic
+Read,H57y300,Lung disease with Sjogren's disease,res50: chronic pulmonary disease,diagnostic
+Read,H57y200,Pulmonary sarcoidosis,res50: chronic pulmonary disease,diagnostic
+Read,H57y000,Pulmonary amyloidosis,res50: chronic pulmonary disease,diagnostic
+Read,H57y100,Lung disease with polymyositis,res50: chronic pulmonary disease,diagnostic
+Read,H583000,Loeffler's syndrome,res50: chronic pulmonary disease,diagnostic
+Read,H583.00,Pulmonary eosinophilia,res50: chronic pulmonary disease,diagnostic
+Read,H57y500,Lung disease with syphilis,res50: chronic pulmonary disease,diagnostic
+Read,H57y400,Lung disease with systemic lupus erythematosus,res50: chronic pulmonary disease,diagnostic
+Read,H58..00,Other diseases of lung,res50: chronic pulmonary disease,diagnostic
+Read,H57yz00,Lung disease with diseases EC NOS,res50: chronic pulmonary disease,diagnostic
+Read,H58y200,Pulmolithiasis,res50: chronic pulmonary disease,diagnostic
+Read,H583200,Eosinophilic bronchitis,res50: chronic pulmonary disease,diagnostic
+Read,H58y100,Calcification of lung,res50: chronic pulmonary disease,diagnostic
+Read,H58y.00,Other lung disease NEC,res50: chronic pulmonary disease,diagnostic
+Read,H583z00,Pulmonary eosinophilia NOS,res50: chronic pulmonary disease,diagnostic
+Read,H58y000,Broncholithiasis,res50: chronic pulmonary disease,diagnostic
+Read,H593.00,Chronic type 2 respiratory failure,res50: chronic pulmonary disease,diagnostic
+Read,H58y400,Squamous metaplasia of lung,res50: chronic pulmonary disease,diagnostic
+Read,H58y300,Interstitial lung disease NEC,res50: chronic pulmonary disease,diagnostic
+Read,H592.00,Chronic type 1 respiratory failure,res50: chronic pulmonary disease,diagnostic
+Read,H58y500,Respiratory bronchiolitis associated interstitial lung dis,res50: chronic pulmonary disease,diagnostic
+Read,H58y700,Interstitial lung disease due to connective tissue disease,res50: chronic pulmonary disease,diagnostic
+Read,H591.00,Chronic respiratory failure,res50: chronic pulmonary disease,diagnostic
+Read,H58z.00,Lung disease NOS,res50: chronic pulmonary disease,diagnostic
+Read,H58yz00,Other lung disease NEC NOS,res50: chronic pulmonary disease,diagnostic
+Read,H59..00,Respiratory failure,res50: chronic pulmonary disease,diagnostic
+Read,H5y1.11,Other bronchus disease,res50: chronic pulmonary disease,diagnostic
+Read,H5y..00,Other specified diseases of respiratory system,res50: chronic pulmonary disease,diagnostic
+Read,H5B0.00,Obstructive sleep apnoea,res50: chronic pulmonary disease,diagnostic
+Read,H5X..00,"Pleural condition, unspecified",res50: chronic pulmonary disease,diagnostic
+Read,H5y0.00,Tracheostomy complication,res50: chronic pulmonary disease,diagnostic
+Read,H5y0300,Tracheostomy obstruction,res50: chronic pulmonary disease,diagnostic
+Read,H5y0200,Tracheostomy stenosis,res50: chronic pulmonary disease,diagnostic
+Read,H5y0000,Tracheostomy haemorrhage,res50: chronic pulmonary disease,diagnostic
+Read,H5y0100,Tracheostomy sepsis,res50: chronic pulmonary disease,diagnostic
+Read,TJF7.00,Adverse reaction to antiasthmatics,res50: chronic pulmonary disease,diagnostic
+Read,H5y1.00,Other diseases of trachea and bronchus NEC,res50: chronic pulmonary disease,diagnostic
+Read,H5y0400,Tracheo-oesophageal fistula following tracheostomy,res50: chronic pulmonary disease,diagnostic
+Read,H5y0z00,Tracheostomy complication NOS,res50: chronic pulmonary disease,diagnostic
+Read,SP2y000,Surgical emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H5y1100,Calcification of bronchus,res50: chronic pulmonary disease,diagnostic
+Read,H5y1200,Stenosis of trachea,res50: chronic pulmonary disease,diagnostic
+Read,H5y1000,Calcification of trachea,res50: chronic pulmonary disease,diagnostic
+Read,H5y1.12,Other trachea disease,res50: chronic pulmonary disease,diagnostic
+Read,H5yy.00,Other diseases of respiratory system NEC,res50: chronic pulmonary disease,diagnostic
+Read,H5y1500,Ulcer of bronchus,res50: chronic pulmonary disease,diagnostic
+Read,H5y1300,Stenosis of bronchus,res50: chronic pulmonary disease,diagnostic
+Read,H5y1400,Ulcer of trachea,res50: chronic pulmonary disease,diagnostic
+Read,H5y1600,Bronchospasm,res50: chronic pulmonary disease,diagnostic
+Read,H5y1z00,Diseases of trachea and bronchus NEC NOS,res50: chronic pulmonary disease,diagnostic
+Read,SLF7z00,Antiasthmatic poisoning NOS,res50: chronic pulmonary disease,diagnostic
+Read,H5yz.00,Other diseases of respiratory system NOS,res50: chronic pulmonary disease,diagnostic
+Read,SK07.11,Traumatic subcutaneous emphysema,res50: chronic pulmonary disease,diagnostic
+Read,H5z..00,Respiratory system diseases NOS,res50: chronic pulmonary disease,diagnostic
+Read,SK07.00,Subcutaneous emphysema,res50: chronic pulmonary disease,diagnostic
+Read,P861.00,Congenital bronchiectasis,res50: chronic pulmonary disease,diagnostic
+Read,TJF7z00,Adverse reaction to antiasthmatic NOS,res50: chronic pulmonary disease,diagnostic
+Read,U60F615,[X] Adverse reaction to theophylline - asthma,res50: chronic pulmonary disease,diagnostic
+Read,U60F600,"[X]Antiasthmats caus adverse effects in therapeut use, NEC",res50: chronic pulmonary disease,diagnostic
+Read,U60F611,[X] Adverse reaction to antiasthmatics,res50: chronic pulmonary disease,diagnostic
+Read,U60F61A,[X] Adverse reaction to antiasthmatic NOS,res50: chronic pulmonary disease,diagnostic
+Read,663v.00,Asthma causes daytime symptoms most days,res50: chronic pulmonary disease,diagnostic

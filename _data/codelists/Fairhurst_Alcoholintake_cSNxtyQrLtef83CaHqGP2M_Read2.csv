@@ -1,0 +1,37 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,136e.00,Declines to state current alcohol consumption,res47: Alcohol intake,test
+Read,136M.00,Current non drinker,res47: Alcohol intake,test
+Read,136L.00,Alcohol intake within recommended sensible limits,res47: Alcohol intake,test
+Read,136E.00,Ex-very heavy drinker-(>9u/d),res47: Alcohol intake,test
+Read,136K.00,Alcohol intake above recommended sensible limits,res47: Alcohol intake,test
+Read,136J.00,Social drinker,res47: Alcohol intake,test
+Read,136D.00,Ex-heavy drinker - (7-9u/day),res47: Alcohol intake,test
+Read,136I.00,Drinks wine,res47: Alcohol intake,test
+Read,136H.00,Drinks beer and spirits,res47: Alcohol intake,test
+Read,136G.00,Beer drinker,res47: Alcohol intake,test
+Read,136F.00,Spirit drinker,res47: Alcohol intake,test
+Read,136d.00,Lower risk drinking,res47: Alcohol intake,test
+Read,136V.00,Alcohol units per week,res47: Alcohol intake,test
+Read,136P.00,Heavy drinker,res47: Alcohol intake,test
+Read,136O.00,Moderate drinker,res47: Alcohol intake,test
+Read,136N.00,Light drinker,res47: Alcohol intake,test
+Read,136R.00,Binge drinker,res47: Alcohol intake,test
+Read,136T.00,Harmful alcohol use,res47: Alcohol intake,test
+Read,136Q.00,Very heavy drinker,res47: Alcohol intake,test
+Read,136S.00,Hazardous alcohol use,res47: Alcohol intake,test
+Read,136X.00,Alcohol units consumed on heaviest drinking day,res47: Alcohol intake,test
+Read,136c.00,Higher risk drinking,res47: Alcohol intake,test
+Read,136W.00,Alcohol misuse,res47: Alcohol intake,test
+Read,136b.00,Feels should cut down drinking,res47: Alcohol intake,test
+Read,136Z.00,Alcohol consumption NOS,res47: Alcohol intake,test
+Read,136a.00,Increasing risk drinking,res47: Alcohol intake,test
+Read,136Y.00,Drinks in morning to get rid of hangover,res47: Alcohol intake,test
+Read,E23..12,Alcohol problem drinking,res47: Alcohol intake,test
+Read,136..00,Alcohol consumption,res47: Alcohol intake,test
+Read,136C.00,Ex-moderate drinker - (3-6u/d),res47: Alcohol intake,test
+Read,1362.11,Drinks rarely,res47: Alcohol intake,test
+Read,1361.11,Non drinker alcohol,res47: Alcohol intake,test
+Read,136B.00,Ex-light drinker - (1-2u/day),res47: Alcohol intake,test
+Read,1361.12,Non-drinker alcohol,res47: Alcohol intake,test
+Read,136A.00,Ex-trivial drinker (<1u/day),res47: Alcohol intake,test
+Read,1362.12,Drinks occasionally,res47: Alcohol intake,test

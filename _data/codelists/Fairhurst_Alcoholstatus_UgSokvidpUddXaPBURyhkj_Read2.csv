@@ -1,0 +1,60 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,1364,Moderate drinker - 3-6u/day,res17: Alcohol status,test
+Read,1362-2,Drinks occasionally,res17: Alcohol status,test
+Read,1362-1,Drinks rarely,res17: Alcohol status,test
+Read,1362,Trivial drinker - <1u/day,res17: Alcohol status,test
+Read,1361-1,Non drinker alcohol,res17: Alcohol status,test
+Read,136,Alcohol consumption,res17: Alcohol status,test
+Read,EGTONGR6,Grade A none drinker or rare,res17: Alcohol status,test
+Read,136d,Lower risk drinking,res17: Alcohol status,test
+Read,136A,Ex-trivial drinker (<1u/day),res17: Alcohol status,test
+Read,1369,Suspect alcohol abuse - denied,res17: Alcohol status,test
+Read,1366,Very heavy drinker - >9u/day,res17: Alcohol status,test
+Read,1367,Stopped drinking alcohol,res17: Alcohol status,test
+Read,136c,Higher risk drinking,res17: Alcohol status,test
+Read,136b,Feels should cut down drinking,res17: Alcohol status,test
+Read,136N,Light drinker,res17: Alcohol status,test
+Read,E23-2,Alcohol problem drinking,res17: Alcohol status,test
+Read,136G,Beer drinker,res17: Alcohol status,test
+Read,136F,Spirit drinker,res17: Alcohol status,test
+Read,136L,Alcohol intake within recommended sensible limits,res17: Alcohol status,test
+Read,136J,Social drinker,res17: Alcohol status,test
+Read,136I,Drinks wine,res17: Alcohol status,test
+Read,136Y,Drinks in morning to get rid of hangover,res17: Alcohol status,test
+Read,136R,Binge drinker,res17: Alcohol status,test
+Read,136P,Heavy drinker,res17: Alcohol status,test
+Read,136S,Hazardous alcohol use,res17: Alcohol status,test
+Read,136X,Alcohol units consumed on heaviest drinking day,res17: Alcohol status,test
+Read,136V,Alcohol units per week,res17: Alcohol status,test
+Read,EMISQOT3,Other alcohol related information,res17: Alcohol status,test
+Read,EGTONGR8,Grade C 21-49 units/week,res17: Alcohol status,test
+Read,EGTONGR7,Grade B 0-20 units/week,res17: Alcohol status,test
+Read,EMISQAU3,AUDIT score >5 alcohol problem drinker,res17: Alcohol status,test
+Read,EMISQAU1,AUDIT score <4 no drinking problem,res17: Alcohol status,test
+Read,EGTONGR9,Grade D 50 or more units/week,res17: Alcohol status,test
+Read,EMISQAL2,Alcohol reduction-maintain abstinence,res17: Alcohol status,test
+Read,EMISQTH4,Thinking about reducing alcohol,res17: Alcohol status,test
+Read,136E,Ex-very heavy drinker-(>9u/d),res17: Alcohol status,test
+Read,1361,Teetotaller,res17: Alcohol status,test
+Read,1361-2,Non-drinker alcohol,res17: Alcohol status,test
+Read,1363,Light drinker - 1-2u/day,res17: Alcohol status,test
+Read,1365,Heavy drinker - 7-9u/day,res17: Alcohol status,test
+Read,1368,Alcohol consumption unknown,res17: Alcohol status,test
+Read,136a,Increasing risk drinking,res17: Alcohol status,test
+Read,136B,Ex-light drinker - (1-2u/day),res17: Alcohol status,test
+Read,136D,Ex-heavy drinker - (7-9u/day),res17: Alcohol status,test
+Read,136e,Declines to state current alcohol consumption,res17: Alcohol status,test
+Read,136H,Drinks beer and spirits,res17: Alcohol status,test
+Read,136K,Alcohol intake above recommended sensible limits,res17: Alcohol status,test
+Read,136M,Current non drinker,res17: Alcohol status,test
+Read,136O,Moderate drinker,res17: Alcohol status,test
+Read,136Q,Very heavy drinker,res17: Alcohol status,test
+Read,136T,Harmful alcohol use,res17: Alcohol status,test
+Read,136Z,Alcohol consumption NOS,res17: Alcohol status,test
+Read,EGTON418,Alcohol intake,res17: Alcohol status,test
+Read,EMISQAL1,Alcohol AUDIT score,res17: Alcohol status,test
+Read,EMISQAU2,AUDIT score >5 alcohol dependence syndrome,res17: Alcohol status,test
+Read,EMISQNO6,Not interested in reducing alcohol,res17: Alcohol status,test
+Read,EMISQRE13,Ready to start reducing alcohol,res17: Alcohol status,test
+Read,136C,Ex-moderate drinker - (3-6u/d),res17: Alcohol status,test
+Read,EMISNQUN23,Unsuccessful attempts to reduce alcohol consumption,res17: Alcohol status,test

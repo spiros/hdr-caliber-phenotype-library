@@ -1,0 +1,791 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,46951,Captopril 12.5mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,28820,Captomex 25mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,196,Enalapril 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,23478,Tensopril 50mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,24482,Captomex 50mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,21943,Kaplon 12.5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43566,Lisinopril 2.5mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57801,Perindopril erbumine 4mg tablets (Glenmark Generics (Europe) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,26995,Kaplon 25mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,28486,Captopril 6.25mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,25998,Captomex 12.5mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,30039,Tensopril 25mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46851,Captopril 5mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45228,Captopril capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35302,Captopril 12.5mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,33646,Captopril 12.5mg Tablet (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32048,Kaplon 50mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,33336,Captopril 5mg/5ml Oral suspension (Eldon Laboratories),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32514,Ecopace 25mg tablets (AMCo),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34937,Captopril 50mg Tablet (IVAX Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34562,Captopril 25mg Tablet (IVAX Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34544,Captopril 12.5mg Tablet (IVAX Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34936,Captopril 25mg Tablet (Lagap),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34719,Captopril 50mg Tablet (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,44527,Captopril 5mg/ml oral solution sugar free,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41617,Captopril 25mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39512,Captopril 25mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,36742,Captopril 2mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37655,Captopril 25mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43649,Captopril 25mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41743,Captopril 50mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41633,Captopril 12.5mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43507,Captopril 25mg Tablet (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43432,Captopril 6.25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60349,Noyada 25mg/5ml oral solution (Martindale Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52293,Captopril 2mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54544,Captopril 25mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,21053,Vascace 500microgram tablets (Roche Products Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46957,Captopril 12.5mg tablets (Tillomed Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52499,Captopril 25mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59915,Captopril 25mg/5ml oral solution sugar free,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56509,Capoten 12.5mg tablets (Dowelhurst Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58195,Captopril 12.5mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56850,Ecopace 12.5mg tablets (AMCo),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16197,Vascace 2.5mg tablets (Roche Products Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,23642,Vascace 0.25mg Tablet (Roche Products Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12412,Cilazapril 2.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,15605,Cilazapril 250micrograms tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12411,Cilazapril 500microgram tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16196,Vascace 5mg tablets (Roche Products Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,13026,Cilazapril 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12574,Cilazapril 1mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43418,Lisinopril 5mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53719,Enalapril 20mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,22439,Ednyt 20mg Tablet (Dominion Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35794,Enalapril 5mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,20188,Enalapril 2.5mg wafer,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,8800,Innovace 5mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1299,Enalapril 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,448,Enalapril 2.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,8106,Innovace 2.5mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1904,Enalapril 20mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,8105,Innovace 20mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,19208,Enalapril 10mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11197,Innovace melt 5mg Wafer (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,8830,Innovace 10mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16708,Enalapril titration pack,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,13755,Enalapril 10mg wafer,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,15085,Innovace Titration pack (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34953,Enalapril 20mg tablets (Zentiva),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32241,Enalapril 10mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,24041,Enalapril 20mg wafer,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,23252,Pralenal 10 tablets (Opus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,22708,Enalapril 5mg wafer,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,31716,Enalapril 20mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,28127,Enalapril 2.5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,27871,Innovace melt 10mg Wafer (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,31587,Innovace melt 20mg Wafer (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,29530,Innovace melt 2.5mg Wafer (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34952,Enalapril 10mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34400,Enalapril 5mg Tablet (Dowelhurst Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,33078,Enalapril 20mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,33057,Ednyt 5mg Tablet (Dominion Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34798,Enalapril 20mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34453,Enalapril 20mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34768,Enalapril 20mg tablets (IVAX Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34712,Enalapril 20mg tablets (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,42723,Pralenal 5 tablets (Opus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,36753,Ednyt 10mg Tablet (Dominion Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,42902,Enalapril 20mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52882,Enalapril 5mg/5ml oral suspension sugar free,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41746,Enalapril 10mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37080,Enalapril 5mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41694,Enalapril 2.5mg tablets (IVAX Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37087,Enalapril 5mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41417,Enalapril 2.5mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,42901,Enalapril 5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,42894,Enalapril 10mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43411,Enalapril 5mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,42908,Enalapril 5mg tablets (IVAX Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52010,Enalapril 10mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45217,Enalapril 5mg tablets (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,44657,Ednyt 2.5mg Tablet (Dominion Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43563,Enalapril 2.5mg tablets (Zentiva),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,50863,Enalapril 5mg/5ml oral solution (Drug Tariff Special Order),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46974,Enalapril 5mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,50780,Enalapril 2mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,50334,Enalapril 4mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43416,Lisinopril 10mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,65,Lisinopril 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,13589,Staril 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5861,Fosinopril 20mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53915,Enalapril 5mg tablets (Dexcel-Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57378,Enalapril 2mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55903,Enalapril 10mg tablets (Dexcel-Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4571,Staril 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58751,Enalapril 1.25mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57882,Enalapril 2.5mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,633,Fosinopril 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59996,Enalapril 20mg tablets (Milpharm Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60143,Enalapril 5mg tablets (Medreich Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18263,Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11351,Co-zidocapt 25mg/50mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1520,Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11561,Co-zidocapt 12.5mg/25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32560,Tanatril 20mg tablets (Chiesi Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18219,Imidapril 20mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,15108,Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,15031,Accuretic 12.5mg/10mg tablets (Pfizer Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39227,Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6408,Tanatril 5mg tablets (Chiesi Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16924,Imidapril 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12858,Imidapril 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12815,Tanatril 10mg tablets (Chiesi Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6806,Zestril 10mg tablets (AstraZeneca UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43413,Lisinopril 20mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,19198,Lisinopril 20mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,3720,Zestril 2.5mg tablets (AstraZeneca UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,277,Lisinopril 2.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,69,Lisinopril 20mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,78,Lisinopril 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16701,Carace 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,10882,Carace 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6807,Zestril 5mg tablets (AstraZeneca UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,8268,Zestril 20mg tablets (AstraZeneca UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14387,Carace 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12313,Carace 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11987,Lisinopril 5mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43412,Lisinopril 2.5mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32597,Lisinopril 10mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,30921,Lisinopril 2.5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,20975,Lisinopril 7.5mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,19204,Lisinopril 5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,19223,Lisinopril 10mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41573,Lisopress 10mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34696,Lisinopril 20mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34471,Lisinopril 5mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,33977,Lisinopril 10mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41532,Lisopress 5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34799,Lisinopril 20mg tablets (Zentiva),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41522,Lisopress 20mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37778,Lisinopril 5mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45305,Bumetanide 1mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57701,Perindopril erbumine 8mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,33095,Perindopril erbumine 4mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58258,Lisinopril 2.5mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51433,Lisinopril 20mg tablets (Tillomed Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45300,Lisinopril 10mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38395,Valsartan 80mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,47159,Lisinopril 10mg tablets (Almus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57048,Lisinopril 10mg tablets (Zentiva),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46979,Lisinopril 20mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45324,Lisinopril 20mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46975,Lisinopril 5mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45337,Lisinopril 5mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45816,Lisinopril 5mg tablets (Almus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56510,Zestril 20mg tablets (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54283,Lisinopril 5mg/5ml oral suspension (Drug Tariff Special Order),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52088,Lisinopril 5mg tablets (Phoenix Healthcare Distribution Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54037,Lisinopril 10mg tablets (Relonchem Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53820,Lisinopril 5mg tablets (Arrow Generics Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53271,Lisinopril 10mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56279,Lisinopril 2.5mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54512,Lisinopril Oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54288,Lisinopril 10mg tablets (Arrow Generics Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55896,Lisinopril 2.5mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54928,Lisinopril 10mg tablets (Bristol Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55639,Lisinopril 10mg tablets (Accord Healthcare Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55002,Lisinopril 20mg tablets (Accord Healthcare Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55456,Lisinopril 5mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57588,Zestril 2.5mg tablets (Mawdsley-Brooks & Company Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54735,Losartan 50mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55296,Losartan 50mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,48398,Losartan 25mg tablets (Dexcel-Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59770,Perindopril erbumine 4mg tablets (Aurobindo Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60065,Perindopril erbumine 4mg tablets (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54404,Losartan 100mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51601,Losartan 50mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,49588,Losartan 100mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51186,Losartan 25mg tablets (Arrow Generics Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,50971,Losartan 25mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54057,Losartan 50mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52427,Cozaar 100mg tablets (Necessity Supplies Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54049,Losartan 50mg tablets (Accord Healthcare Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52659,Losartan 50mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52886,Losartan 12.5mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54843,Losartan 50mg tablets (Dexcel-Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54740,Losartan 25mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37573,Valsartan 320mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14960,Coversyl 8mg tablets (Servier Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56970,Losartan 100mg tablets (Pfizer Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,17120,Moexipril 15mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55446,Losartan 100mg tablets (Bristol Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58461,Lisinopril 2.5mg tablets (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58451,Lisinopril 2.5mg tablets (Almus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58294,Lisinopril 5mg tablets (Accord Healthcare Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56104,Losartan 50mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,15121,Moexipril 7.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59109,Lisinopril 5mg tablets (Tillomed Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58863,Lisinopril 10mg tablets (Phoenix Healthcare Distribution Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58682,Lisinopril 2.5mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39242,Carace 10 Plus tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60097,Lisinopril 2.5mg tablets (Zentiva),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55718,Losartan 25mg tablets (Phoenix Healthcare Distribution Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60010,Lisinopril 10mg tablets (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,21231,Caralpha 20mg/12.5mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60309,Lisinopril 5mg tablets (Relonchem Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60232,Lisinopril 5mg tablets (Zentiva),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,24359,Diovan 40mg tablets (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14983,Olmetec 10mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37971,Perindopril arginine 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,28724,Perdix 7.5mg tablets (UCB Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59086,Losartan 25mg tablets (Wockhardt UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58967,Losartan 12.5mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57028,Losartan 100mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11983,Perindopril erbumine 4mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58649,Losartan 25mg tablets (Bristol Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58274,Losartan 25mg tablets (Accord Healthcare Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6351,Olmesartan medoxomil 40mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59351,Losartan 50mg tablets (Pfizer Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,28725,Perdix 15mg tablets (UCB Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59340,Losartan 12.5mg tablets (Dexcel-Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37965,Coversyl Arginine 5mg tablets (Servier Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59271,Losartan 25mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6285,Olmesartan medoxomil 20mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59750,Losartan 50mg tablets (Aptil Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37964,Perindopril arginine 2.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6217,Olmesartan medoxomil 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37930,Perindopril arginine 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60506,Losartan 100mg tablets (Dexcel-Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14943,Valsartan 40mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18910,Olmetec 20mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38034,Coversyl Arginine 2.5mg tablets (Servier Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,13821,Micardis 40mg tablets (Boehringer Ingelheim Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6078,Perindopril erbumine 8mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12874,Telmisartan 80mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,20117,Olmetec 40mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38026,Coversyl Arginine 10mg tablets (Servier Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6243,Telmisartan 20mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39786,Olmesartan medoxomil 10mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5988,Telmisartan 40mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11252,Diovan 80mg capsules (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,17686,Micardis 20mg tablets (Boehringer Ingelheim Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51807,Coversyl Arginine 5mg tablets (DE Pharmaceuticals),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,17545,Micardis 80mg tablets (Boehringer Ingelheim Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,50347,Coversyl Arginine 5mg tablets (Waymade Healthcare Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5800,Coversyl 4mg tablets (Servier Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11251,Diovan 40mg capsules (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5612,Coversyl 2mg tablets (Servier Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,97,Perindopril erbumine 4mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6518,Diovan 160mg capsules (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,593,Perindopril erbumine 2mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,575,Valsartan 40mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38285,Perindopril erbumine 4mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46948,Furosemide 40mg tablets (Arrow Generics Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59029,Valsartan 3mg/1ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58910,Valsartan 80mg capsules (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54733,Perindopril erbumine 8mg tablets (Consilient Health Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35731,Perindopril erbumine 8mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,49491,Perindopril erbumine 2mg tablets (Consilient Health Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58669,Valsartan 40mg capsules (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,44778,Valsartan 160mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56516,Perindopril erbumine 2mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39199,Diovan 320mg tablets (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55187,Valsartan 160mg capsules (Arrow Generics Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45600,Diovan 160mg Tablet (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53833,Valsartan 160mg capsules (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,10323,Losartan 100mg / Hydrochlorothiazide 25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,48214,Perindopril erbumine 4mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60007,Generic Sevikar HCT 40mg/10mg/12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43813,Perindopril erbumine 2mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59903,Losartan 50mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59448,Valsartan 80mg capsules (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43012,Perindopril erbumine oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52658,Losartan 100mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38510,Perindopril erbumine 4mg tablets (Apotex UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60076,Valsartan 160mg capsules (Waymade Healthcare Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6437,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45319,Perindopril erbumine 2mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38889,MicardisPlus 80mg/25mg tablets (Boehringer Ingelheim Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38459,Telmisartan 80mg / Hydrochlorothiazide 25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,48180,Perindopril erbumine 4mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37650,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4540,Cozaar-Comp 50mg/12.5mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,764,Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,48049,Perindopril erbumine 2mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52858,Co-Diovan 80mg/12.5mg tablets (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45938,Perindopril erbumine 8mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16060,Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35697,Exforge 5mg/160mg tablets (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35343,Amlodipine 5mg / Valsartan 160mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,48039,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11864,Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37747,Cozaar-Comp 100mg/12.5mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,21423,Cozaar-Comp 100mg/25mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,50402,Perindopril 2mg Tablet (Servier Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53058,Perindopril erbumine 8mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56204,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6877,Co-Diovan 160mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55160,Cozaar-Comp 50mg/12.5mg tablets (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52189,Losartan 100mg / Hydrochlorothiazide 25mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18202,MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57796,Cozaar-Comp 50mg/12.5mg tablets (DE Pharmaceuticals),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56975,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,17689,MicardisPlus 80mg/12.5mg tablets (Boehringer Ingelheim Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16161,Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39984,Sevikar 20mg/5mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35329,Amlodipine 5mg / Valsartan 80mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,27447,Furosemide 40mg tablets (Wockhardt UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35304,Valsartan 160mg with amlodipine 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,25382,Co-Diovan 160mg/25mg tablets (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14283,Valsartan 160mg / Hydrochlorothiazide 25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35174,Valsartan 80mg with amlodipine 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35173,Valsartan 160mg with amlodipine 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35189,Amlodipine 10mg / Valsartan 160mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,40668,Olmesartan medoxomil 40mg / Amlodipine 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,40639,Olmesartan medoxomil 40mg / Amlodipine 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,40316,Olmesartan medoxomil 20mg / Amlodipine 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35096,Exforge 10mg/160mg tablets (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41203,Sevikar 40mg/10mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35317,Exforge 5mg/80mg tablets (Novartis Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41205,Sevikar 40mg/5mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,25334,Furosemide 500mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32002,Etacrynic 50mg/vial injection,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,7806,Bumetanide 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56508,Coversyl 4mg tablets (Dowelhurst Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54899,Perindopril erbumine 2mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5218,Bumetanide 1mg/5ml oral solution sugar free,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,17006,Triapin 5mg/5mg modified-release tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,10781,Lasix with k Tablet (Hoechst Marion Roussel),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,7734,Diumide-K Continus tablets (Teofarma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,8102,Furosemide 40mg / Potassium chloride 600mg (potassium 8mmol) modified-release tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,26292,Diuresal 40mg Tablet (Lagap),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,2788,Burinex 1mg tablets (LEO Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,28438,Triapin 2.5mg/2.5mg modified-release tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,17474,Felodipine 5mg modified-release / Ramipril 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,21162,Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18650,Edecrin 50mg Tablet (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32091,Bumetanide 1mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12226,Burinex 1mg/5ml Oral solution (LEO Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,31932,Bumetanide 1mg tablets (C P Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12294,Burinex 5mg tablets (LEO Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,30913,Betinex 1mg Tablet (Berk Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,15341,Burinex 0.5mg/ml Injection (LEO Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,19300,Bumetanide 2mg/4ml solution for injection ampoules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12354,Etacrynic 50mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,36767,Bumetanide 1mg tablets (IVAX Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34613,Bumetanide 5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55548,Bumetanide 1mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39602,Bumetanide 1mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,21849,Dryptal 40mg Tablet (Berk Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,7606,Lasix 40mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,3287,Furosemide 1mg/ml Oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54942,Perindopril erbumine 8mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,3248,Furosemide 500mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56506,Coversyl 2mg tablets (Dowelhurst Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,562,Furosemide 10mg/ml Injection,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6,Furosemide 40mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55,Furosemide 20mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,24835,Min-i-jet furosemide 10mg/ml Injection (Celltech Pharma Europe Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6118,Furosemide 20mg/5ml oral solution sugar free,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4182,Lasix 5mg/5ml oral solution (Borg Medicare),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4258,Lasix 20mg/2ml solution for injection ampoules (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5868,Frusol 20mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4705,Furosemide 20mg/2ml Injection,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5728,Furosemide 40mg/5ml oral solution sugar free,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5249,Furosemide 50mg/5ml oral solution sugar free,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,10422,Lasix 50mg/5ml Injection (Hoechst UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,19258,Furosemide 50mg/5ml solution for injection ampoules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,10392,Lasix 500mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,9680,Frusol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56473,Perindopril erbumine 2mg tablets (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,7799,Lasix 20mg tablets (Borg Medicare),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,19194,Furosemide 20mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14837,Frusol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12318,Lasix 250mg/25ml Injection (Hoechst Marion Roussel),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,19192,Furosemide 40mg Tablet (M & A Pharmachem Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16206,Froop 40mg tablets (Ashbourne Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56472,Perindopril erbumine 4mg tablets (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,19056,Furosemide 50mg/5ml sugar free Oral solution (Rosemont Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56162,Perindopril erbumine 4mg tablets (Consilient Health Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18716,Dryptal 10mg/ml Injection (Berk Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,2961,Frusene 50mg/40mg tablets (Orion Pharma (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,40247,Furosemide 10mg/ml Injection (Martindale Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,36190,Furosemide 5mg/5ml oral solution sugar free,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,27926,Furosemide 20mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,27696,Furosemide 40mg tablets (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58874,Perindopril erbumine 2mg tablets (Somex Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,27690,Furosemide 40mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35162,Furosemide 20mg/2ml solution for injection ampoules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32277,Furosemide 80mg/8ml solution for injection pre-filled syringes,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,29780,Furosemide 20mg Tablet (C P Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,31548,Furosemide 20mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,30625,Furosemide 20mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,30875,Furosemide 250mg/25ml solution for injection ampoules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34557,Furosemide 40mg tablets (IVAX Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34374,Furosemide 40mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32896,Furosemide 40mg tablets (Ranbaxy (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34006,Furosemide 40mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11268,Torem 2.5mg tablets (Meda Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56051,Furosemide 20mg tablets (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46116,Furosemide 10mg/ml Injection (Antigen Pharmaceuticals),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,10066,Torem 5mg tablets (Meda Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,42488,Furosemide 40mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41292,Furosemide 20mg tablets (Wockhardt UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,42388,Furosemide 40mg/5ml oral solution sugar free (Focus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41405,Furosemide 500mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41828,Furosemide 500mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55738,Furosemide 50mg/5ml solution for injection ampoules (Hameln Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,47815,Furosemide 20mg Tablet (Celltech Pharma Europe Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46699,Furosemide 40mg tablets (Almus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54825,Furosemide 20mg tablets (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52887,Furosemide 20mg/2ml solution for injection ampoules (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53967,Furosemide 20mg tablets (Bristol Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52900,Furosemide 80mg/8ml solution for injection Minijet pre-filled syringes (UCB Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,8052,Torasemide 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58224,Furosemide 10mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58078,Furosemide 8mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56375,Furosemide 40mg tablets (Accord Healthcare Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57610,Furosemide 20mg/5ml oral solution sugar free (Focus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57600,Furosemide 20mg/2ml solution for injection ampoules (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59911,Furosemide 40mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59884,Furosemide 20mg tablets (Phoenix Healthcare Distribution Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59030,Furosemide 20mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59290,Furosemide 20mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12367,Piretanide 6mg capsule,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,7709,Arelix 6mg Capsule (Hoechst Marion Roussel),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60291,Furosemide 40mg tablets (AMCo),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60465,Furosemide 5mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18096,Torasemide 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,7441,Lasilactone 20mg/50mg capsules (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18497,Amiloride 10mg / furosemide 80mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11487,Torasemide 2.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59939,Furosemide 20mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,40738,Torem iv 10mg/2ml Intravenous injection (Boehringer Mannheim UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52045,Furosemide 250mg/5ml solution for injection vials,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,40190,Torasemide iv 20mg/4ml Intravenous injection,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,22658,Torem 10mg tablets (Meda Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51983,Furosemide 5mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,40898,Torasemide 5mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,49268,Furosemide 50mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46525,Torasemide 5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,15874,Amiloride 2.5mg / furosemide 20mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18332,Aridil 20mg+2.5mg Tablet (C P Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,24832,Lasipressin Tablet (Hoechst UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,9431,Frusemek 40mg+5mg Tablet (Approved Prescription Services Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,47647,Co-amilofruse oral liquid,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1301,Frumil ls 20mg+2.5mg Tablet (Helios Healthcare Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,211,Frumil 40mg+5mg Tablet (Helios Healthcare Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,9456,Amiloride 5mg / furosemide 40mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,2495,Bumetanide with Amiloride tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,30773,Co-amilofruse 5mg+40mg Tablet (Berk Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5220,Furosemide with amiloride 80mg+10mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4211,Furosemide with amiloride 20mg+2.5mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1369,Furosemide with amiloride 40mg+5mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,2772,Lasoride 5mg/40mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,3050,Furosemide with triamterene 40mgwith50mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4661,Spironolactone 50mg / Furosemide 20mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,28129,Co-amilofruse 5mg/40mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,193,Co-amilofruse 2.5mg/20mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56,Co-amilofruse 5mg/40mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,3793,Co-amilofruse 10mg/80mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,25965,Co-amilofruse 2.5mg/20mg tablets (Wockhardt UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4873,Fru-Co 5mg/40mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,21938,Froop Co 5mg/40mg tablets (Ashbourne Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,13435,Frumil Forte 10mg/80mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14587,Amiloride 5mg / Bumetanide 1mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39807,Frumil 40mg/5mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,33527,Co-amilofruse 5mg/40mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,31773,Co-amilofruse 5mg/40mg tablets (Wockhardt UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38901,Frumil LS 20mg/2.5mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,33658,Co-amilofruse 5mg/40mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34622,Co-amilofruse 10mg/80mg tablets (Wockhardt UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34280,Co-amilofruse 2.5mg/20mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,2493,Burinex A 5mg/1mg tablets (LEO Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43508,Co-amilofruse 5mg/40mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41719,Co-amilofruse 5mg/40mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41533,Co-amilofruse 2.5mg/20mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60258,Co-amilofruse 2.5mg/20mg tablets (Aurobindo Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59412,Co-amilofruse 5mg/40mg tablets (Waymade Healthcare Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57908,Co-amilofruse 5mg/40mg tablets (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37978,Perindopril arginine 5mg / Indapamide 1.25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,15135,Hydrochlorothiazide with captopril 12.5mg with 25mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32166,Capto-co 25mg+50mg Tablet (IVAX Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5189,Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11641,Captopril 25mg with Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1021,Innozide 20mg/12.5mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11133,Hydrochlorothiazide with captopril 25mg with 50mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,10902,Captopril 50mg with Hydrochlorothiazide 25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11265,Triamterene 50mg / Furosemide 40mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,48098,Perindopril arginine 4mg with Indapamide 1.25mg tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6359,Zestoretic 10- 10mg+12.5mg Tablet (AstraZeneca UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37710,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6786,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,33353,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,9764,Carace 20 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57539,Zestoretic 10 tablets (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38995,Zestoretic 20 tablets (AstraZeneca UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56244,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Tillomed Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54201,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (Almus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39137,Zestoretic 10 tablets (AstraZeneca UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39147,Carace 20 Plus tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6200,Tritace titration pack capsules (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,27520,Olmetec Plus 20mg/25mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55358,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 25mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46687,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 20mg + 5mg + 12.5mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46792,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 12.5mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46715,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 10mg + 12.5mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18200,Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35380,Hydrochlorothiazide with olmesartan medoxomil 12.5mg with 20mg tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18903,Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39021,Hydrochlorothiazide with olmesartan medoxomil 25mg with 20mg tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38367,Hydrochlorothiazide with losartan 12.5mg with 100mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43915,Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,43322,Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,24632,Hydrochlorothiazide with losartan 25mg with 100mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14738,Hydrochlorothiazide with losartan 12.5mg with 50mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,29634,Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,17960,Furosemide 20mg / Potassium chloride 750mg (potassium 10mmol) modified-release tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11448,Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,24268,Hydrochlorothiazide with valsartan 12.5mg with 80mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,23456,Hydrochlorothiazide with valsartan 25mg with 160mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,10316,CoAprovel 150mg/12.5mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,24484,Hydrochlorothiazide with valsartan 12.5mg with 160mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11526,CoAprovel 300mg/12.5mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,7582,Lasikal modified-release tablets (Borg Medicare),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11469,Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35196,CoAprovel 300mg/25mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35481,Irbesartan 300mg / Hydrochlorothiazide 25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14228,Coversyl Plus tablets (Servier Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,37908,Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58843,Perindopril erbumine 2mg tablets (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59972,Perindopril erbumine 2mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59790,Perindopril erbumine 8mg tablets (Accord Healthcare Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,20849,Tensopril 12.5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,3929,Quinapril 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,7314,Accupro 5mg tablets (Pfizer Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57333,Perindopril tosilate 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,3222,Valsartan 80mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6765,Quinapril 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1121,Captopril 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16212,Vascace 1mg tablets (Roche Products Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41538,Lisopress 2.5mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53551,Lisinopril 20mg tablets (Phoenix Healthcare Distribution Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55588,Lisinopril 20mg tablets (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56505,Zestril 5mg tablets (Lexon (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58871,Lisinopril 10mg tablets (Waymade Healthcare Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59111,Lisinopril 20mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4818,Candesartan 8mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52208,Candesartan 16mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57026,Candesartan 8mg tablets (Waymade Healthcare Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16285,Teveten 400mg tablets (Abbott Healthcare Products Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53220,Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,49492,Losartan 25mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14870,Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,814,Bumetanide 1mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34934,Bumetanide 1mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14761,Frusid 40mg tablets (Dr Reddy's Laboratories (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,20538,Frumax 40mg Tablet (Ashbourne Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,25717,Furosemide 40mg tablets (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32918,Furosemide 20mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,26529,Furosemide with penbutolol Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,3203,Capozide LS Tablet (E R Squibb and Sons Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,2982,Zestoretic 20- 20mg+12.5mg Tablet (AstraZeneca UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6468,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,17655,Carace 10 Tablet (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55399,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,50607,Perindopril arginine 2mg with Indapamide 625 micrograms tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56157,Perindopril tosilate 5mg / Indapamide 1.25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,47467,Olmesartan medoxomil with amlodipine and hydrochlorothiazide 40mg + 5mg + 25mg Tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6794,Perindopril erbumine 4mg / Indapamide 1.25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1776,Burinex K modified-release tablets (LEO Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6160,Bumetanide 500microgram / Potassium chloride 573mg (potassium 7.7mmol) modified-release tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5159,Quinapril 20mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,47006,Losartan 100mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54941,Ramipril 5mg capsules (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14477,Accupro 10mg tablets (Pfizer Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6364,Tritace 2.5mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,529,Candesartan 2mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,9731,Quinapril 40mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38854,Quinapril 20mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6362,Tritace 5mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,15096,Accupro 40mg tablets (Pfizer Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14478,Accupro 20mg tablets (Pfizer Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,147,Ramipril 1.25mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38899,Quinil 10mg tablets (Tillomed Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6314,Ramipril 2.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,40355,Quinil 5mg tablets (Tillomed Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,82,Ramipril 10mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,80,Ramipril 5mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,42285,Quinil 40mg tablets (Tillomed Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46365,Quinil 20mg tablets (Tillomed Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6288,Ramipril 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,756,Ramipril 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,709,Ramipril 2.5mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,654,Ramipril 2.5/5mg/10mg capsule,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,761,Ramipril 1.25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6261,Tritace 1.25mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5735,Tritace 5mg capsules (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5275,Tritace 2.5mg capsules (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,28586,Lopace 5mg capsules (Discovery Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,9646,Tritace 1.25mg capsules (Aventis Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34589,Ramipril 5mg Capsule (Dexcel-Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,9693,Tritace 10mg capsules (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11937,Ramipril 2.5mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34357,Ramipril 10mg capsules (Genus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,9915,Tritace 10mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54620,Ramipril 2.5mg capsules (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32934,Lopace 10mg capsules (Discovery Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,33894,Ramipril 10mg capsules (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,32857,Ramipril 1.25mg capsules (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,29627,Lopace 2.5mg capsules (Discovery Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,33811,Ramipril 2.5mg capsules (Ranbaxy (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34431,Ramipril 2.5mg capsules (Zentiva),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34583,Ramipril 10mg Capsule (Dexcel-Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34429,Ramipril 5mg capsules (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34382,Ramipril 5mg capsules (Zentiva),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34412,Ramipril 5mg capsules (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34390,Ramipril 5mg capsules (Genus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34505,Ramipril 2.5mg capsules (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34490,Ramipril 2.5mg capsules (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34432,Ramipril 2.5mg capsules (Genus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34528,Ramipril 2.5mg capsules (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34567,Ramipril 2.5mg capsules (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34540,Ramipril 5mg capsules (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34539,Ramipril 5mg capsules (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,40384,Ramipril 10mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34698,Ramipril 1.25mg capsules (Zentiva),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34657,Ramipril 10mg capsules (Zentiva),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54298,Ramipril 2.5mg capsules (Arrow Generics Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34652,Ramipril 5mg Capsule (Sovereign Medical Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34651,Ramipril 10mg capsules (Generics (UK) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39355,Tritace 10mg Tablet (Sterwin Medicines),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34877,Ramipril 10mg Capsule (Sovereign Medical Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34732,Ramipril 2.5mg Capsule (Dexcel-Pharma Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34710,Ramipril 10mg capsules (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34893,Ramipril 10mg Capsule (IVAX Pharmaceuticals UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,38308,Ramipril 2.5/5mg/10mg tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,35007,Ramipril 10mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,34943,Ramipril 10mg capsules (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53621,Ramipril 2.5mg capsules (Bristol Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,42081,Tritace 1.25mg Tablet (Sterwin Medicines),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,47021,Ramipril 2.5mg/5ml oral solution sugar free,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45264,Ramipril 1.25mg capsules (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46890,Ramipril 5mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45554,Ramipril 5mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,45340,Ramipril 10mg Capsule (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53612,Ramipril 10mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,47998,Ramipril 2.5mg capsules (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,50509,Ramipril 10mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,49164,Ramipril 10mg capsules (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,48008,Ramipril 5mg capsules (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,48053,Ramipril 2.5mg capsules (Almus Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52407,Ramipril 10mg capsules (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51714,Ramipril 2.5mg capsules (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51701,Ramipril 5mg capsules (Bristol Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52399,Ramipril 1.25mg capsules (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52197,Ramipril 5mg capsules (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55299,Ramipril 1.25mg capsules (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57346,Ramipril 10mg capsules (Waymade Healthcare Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56704,Ramipril 1.25mg capsules (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4103,Trandolapril 1mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56013,Ramipril 2.5mg capsules (Waymade Healthcare Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56356,Ramipril 10mg capsules (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55798,Ramipril 5mg capsules (Waymade Healthcare Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56606,Azilsartan medoxomil 40mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56038,Ramipril 10mg tablets (Pfizer Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56169,Ramipril 10mg capsules (Arrow Generics Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56148,Ramipril 1.25mg tablets (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56129,Ramipril 5mg capsules (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56763,Ramipril 10mg capsules (Phoenix Healthcare Distribution Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57235,Ramipril 1.25mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56855,Ramipril 10mg capsules (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57073,Ramipril 1.25mg capsules (Waymade Healthcare Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59557,Ramipril 2.5mg capsules (Kent Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57658,Ramipril 1.25mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59788,Ramipril 10mg capsules (Bristol Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57864,Ramipril 5mg tablets (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59603,Ramipril 2.5mg capsules (Phoenix Healthcare Distribution Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51897,Edarbi 20mg tablets (Takeda UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,9948,Trandolapril 4mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,7419,Trandolapril 500microgram capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5047,Trandolapril 2mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,8026,Gopten 2mg capsules (Abbott Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,8025,Gopten 1mg capsules (Abbott Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54345,Trandolapril 4mg capsules (Arrow Generics Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16710,Gopten 500microgram capsules (Abbott Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51368,Azilsartan medoxomil 80mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,31810,Odrik 1mg capsules (Aventis Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,28902,Odrik 2mg capsules (Aventis Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,31307,Odrik 500microgram capsules (Aventis Pharma),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,29130,Gopten 4mg capsules (Abbott Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57944,Perindopril tosilate 2.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,47573,Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,56079,Perindopril tosilate 10mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54986,Perindopril erbumine 8mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39421,Tritace titration pack tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11965,Ramipril 2.5mg with felodipine 2.5mg modified-release tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,20579,Tarka modified-release capsules (Abbott Laboratories Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11567,Ramipril 5mg with felodipine 5mg modified-release tablet,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59699,Captopril 5mg/5ml oral solution sugar free,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,19690,Verapamil 180mg modified-release / Trandolapril 2mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18223,Trandolapril with verapamil 2mg + 180mg Modified-release capsule,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60067,Perindopril erbumine 4mg / Amlodipine 5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,531,Candesartan 4mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18325,Acepril 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,41232,Cozaar 2.5mg/ml oral suspension (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,40711,Losartan 2.5mg/ml oral suspension sugar free,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4685,Amias 4mg tablets (Takeda UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4645,Valsartan 160mg capsules,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4155,Amias 2mg tablets (Takeda UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57266,Candesartan 2mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,18269,Acepril 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5723,Cozaar 50mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,40571,Cozaar 12.5mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54414,Candesartan 16mg tablets (Consilient Health Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5013,Amias 8mg tablets (Takeda UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4741,Candesartan 16mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,54326,Candesartan 32mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,31072,Amias 32mg tablets (Takeda UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,7043,Candesartan 32mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,5117,Amias 16mg tablets (Takeda UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53755,Candesartan 4mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51519,Candesartan 8mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,50185,Candesartan 8mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51117,Candesartan 8mg tablets (DE Pharmaceuticals),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,53680,Candesartan 16mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,51647,Candesartan 4mg tablets (Mawdsley-Brooks & Company Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52559,Candesartan 8mg tablets (Zentiva),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,4226,Cozaar 25mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58646,Candesartan 4mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57977,Candesartan 16mg tablets (Alliance Healthcare (Distribution) Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,7338,Aprovel 75mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,57273,Candesartan 8mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,2971,Irbesartan 300mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,13123,Eprosartan 400mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59802,Candesartan 2mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59690,Candesartan 8mg tablets (Consilient Health Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,12836,Eprosartan 600mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,6939,Eprosartan 300mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,9745,Teveten 300mg tablets (Abbott Healthcare Products Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1293,Irbesartan 150mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,46355,Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,16371,Teveten 600mg tablets (Abbott Healthcare Products Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,828,Irbesartan 75mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,47616,Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,47727,Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1780,Losartan 50mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,520,Losartan 25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,11348,Aprovel 300mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,9196,Aprovel 150mg tablets (Sanofi),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,60597,Irbesartan 150mg tablets (Teva UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,55017,Irbesartan 300mg tablets (Accord Healthcare Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,36939,Irbesartan 300mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,52972,Irbesartan 300mg tablets (Sigma Pharmaceuticals Plc),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,59393,Irbesartan 300mg tablets (Sandoz Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58108,Irbesartan 150mg tablets (A A H Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,58201,Irbesartan 150mg tablets (Actavis UK Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,624,Losartan 100mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,39944,Losartan 12.5mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,17633,Captopril 3mg/5ml oral solution,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,14965,Cozaar 100mg tablets (Merck Sharp & Dohme Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,17624,Captopril 5mg/5ml oral suspension,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,15958,Captopril 2mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,3839,Capoten 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,3310,Capoten 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1143,Captopril 25mg tablets,res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,3069,Acepril 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1144,Capoten 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),res25: M1_ACEI_loopdiuretic,drug
+CPRD_product_code,1807,Captopril 50mg tablets,res25: M1_ACEI_loopdiuretic,drug

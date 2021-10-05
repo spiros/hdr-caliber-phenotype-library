@@ -1,0 +1,56 @@
+Coding System (GPRD_product_code),Codes,Description,Entity type,Category
+GPRD_product_code,02902001,malix tabs 2.5mg,sulphonylureas,drug
+GPRD_product_code,00331002,euglucon tabs 5mg,sulphonylureas,drug
+GPRD_product_code,00331001,euglucon tabs 2.5mg,sulphonylureas,drug
+GPRD_product_code,00212001,daonil tabs 5mg,sulphonylureas,drug
+GPRD_product_code,00235002,diabinese tabs 250mg,sulphonylureas,drug
+GPRD_product_code,00235001,diabinese tabs 100mg,sulphonylureas,drug
+GPRD_product_code,02416002,libanil tabs 5mg,sulphonylureas,drug
+GPRD_product_code,01335009,glibenclamide tabs 5mg [aps],sulphonylureas,drug
+GPRD_product_code,00417009,glibenclamide tabs 5mg [cp pharm],sulphonylureas,drug
+GPRD_product_code,00417010,glibenclamide tabs 2.5mg [cp pharm],sulphonylureas,drug
+GPRD_product_code,00418010,glibenclamide tabs 5mg [celltech],sulphonylureas,drug
+GPRD_product_code,00418009,glibenclamide tabs 2.5mg [celltech],sulphonylureas,drug
+GPRD_product_code,00752010,chlorpropamide tabs 250mg [cp pharm],sulphonylureas,drug
+GPRD_product_code,00419010,glibenclamide tabs 2.5mg [hillcross],sulphonylureas,drug
+GPRD_product_code,00419009,glibenclamide tabs 5mg [hillcross],sulphonylureas,drug
+GPRD_product_code,00752009,chlorpropamide tabs 100mg [cp pharm],sulphonylureas,drug
+GPRD_product_code,00854001,semi-daonil tabs 2.5mg,sulphonylureas,drug
+GPRD_product_code,00753009,chlorpropamide tabs 100mg [celltech],sulphonylureas,drug
+GPRD_product_code,00753010,chlorpropamide tabs 250mg [celltech],sulphonylureas,drug
+GPRD_product_code,01335010,glibenclamide tabs 2.5mg [aps],sulphonylureas,drug
+GPRD_product_code,01581010,glibenclamide tabs 5mg [lagap],sulphonylureas,drug
+GPRD_product_code,01356009,glibenclamide tabs 5mg [berk],sulphonylureas,drug
+GPRD_product_code,01356010,glibenclamide tabs 2.5mg [berk],sulphonylureas,drug
+GPRD_product_code,01451009,glibenclamide tabs 5mg [numark],sulphonylureas,drug
+GPRD_product_code,01581009,glibenclamide tabs 2.5mg [lagap],sulphonylureas,drug
+GPRD_product_code,02224009,chlorpropamide tabs 100mg [alphar/cox],sulphonylureas,drug
+GPRD_product_code,02416001,libanil tabs 2.5mg,sulphonylureas,drug
+GPRD_product_code,01811009,chlorpropamide tabs 100mg [aps],sulphonylureas,drug
+GPRD_product_code,01811010,chlorpropamide tabs 250mg [aps],sulphonylureas,drug
+GPRD_product_code,02248010,glibenclamide tabs 5mg [alphar/cox],sulphonylureas,drug
+GPRD_product_code,02224010,chlorpropamide tabs 250mg [alphar/cox],sulphonylureas,drug
+GPRD_product_code,02248009,glibenclamide tabs 2.5mg [alphar/cox],sulphonylureas,drug
+GPRD_product_code,02872001,glibenclamide tabs 2.5mg,sulphonylureas,drug
+GPRD_product_code,02447009,glibenclamide tabs 2.5mg [ivax],sulphonylureas,drug
+GPRD_product_code,02462001,diabetamide tabs 2.5mg,sulphonylureas,drug
+GPRD_product_code,02447010,glibenclamide tabs 5mg [ivax],sulphonylureas,drug
+GPRD_product_code,02462002,diabetamide tabs 5mg,sulphonylureas,drug
+GPRD_product_code,03312001,glymese tabs 250mg,sulphonylureas,drug
+GPRD_product_code,02942001,calabren tabs 5mg,sulphonylureas,drug
+GPRD_product_code,02872002,glibenclamide tabs 5mg,sulphonylureas,drug
+GPRD_product_code,02902002,malix tabs 5mg,sulphonylureas,drug
+GPRD_product_code,02942002,calabren tabs 2.5mg,sulphonylureas,drug
+GPRD_product_code,03244002,chlorpropamide tabs 250mg,sulphonylureas,drug
+GPRD_product_code,03244001,chlorpropamide tabs 100mg,sulphonylureas,drug
+GPRD_product_code,03384009,chlorpropamide tabs 100mg [sussex],sulphonylureas,drug
+GPRD_product_code,03384010,chlorpropamide tabs 250mg [sussex],sulphonylureas,drug
+GPRD_product_code,03440009,glibenclamide tabs 2.5mg [kent],sulphonylureas,drug
+GPRD_product_code,04398009,glibenclamide tabs 5mg [kent],sulphonylureas,drug
+GPRD_product_code,03778009,glibenclamide tabs 2.5mg [gen (uk)],sulphonylureas,drug
+GPRD_product_code,03779009,glibenclamide tabs 5mg [gen (uk)],sulphonylureas,drug
+GPRD_product_code,07481002,grenamide tabs 5mg,sulphonylureas,drug
+GPRD_product_code,07481001,grenamide tabs 2.5mg,sulphonylureas,drug
+GPRD_product_code,14098001,glibenclamide oral susp 5mg/5ml,sulphonylureas,drug
+GPRD_product_code,14734001,glibenclamide oral liq,sulphonylureas,drug
+GPRD_product_code,02866007,chloropropamide 500 mg tab,sulphonylureas,drug

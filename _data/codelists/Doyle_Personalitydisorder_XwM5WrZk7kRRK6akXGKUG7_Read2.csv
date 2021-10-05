@@ -1,0 +1,78 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu60311,[x]aggressive personality disorder,res32: Personality Disorder,diagnostic
+Read,E21y100,avoidant personality disorder,res32: Personality Disorder,diagnostic
+Read,E211000,unspecified affective personality disorder,res32: Personality Disorder,diagnostic
+Read,E02y400,drug-induced personality disorder,res32: Personality Disorder,diagnostic
+Read,E21y000,narcissistic personality disorder,res32: Personality Disorder,diagnostic
+Read,E211.00,affective personality disorder,res32: Personality Disorder,diagnostic
+Read,E21..11,neurotic personality disorder,res32: Personality Disorder,diagnostic
+Read,E21..00,personality disorders,res32: Personality Disorder,diagnostic
+Read,E210.00,paranoid personality disorder,res32: Personality Disorder,diagnostic
+Read,E21y.00,other personality disorders,res32: Personality Disorder,diagnostic
+Read,E212z00,schizoid personality disorder nos,res32: Personality Disorder,diagnostic
+Read,E211100,hypomanic personality disorder,res32: Personality Disorder,diagnostic
+Read,E211200,depressive personality disorder,res32: Personality Disorder,diagnostic
+Read,E212000,unspecified schizoid personality disorder,res32: Personality Disorder,diagnostic
+Read,E212.00,schizoid personality disorder,res32: Personality Disorder,diagnostic
+Read,E211300,cyclothymic personality disorder,res32: Personality Disorder,diagnostic
+Read,E211z00,affective personality disorder nos,res32: Personality Disorder,diagnostic
+Read,E217.00,antisocial or sociopathic personality disorder,res32: Personality Disorder,diagnostic
+Read,E215.00,histrionic personality disorders,res32: Personality Disorder,diagnostic
+Read,E213.00,explosive personality disorder,res32: Personality Disorder,diagnostic
+Read,E214z00,compulsive personality disorder nos,res32: Personality Disorder,diagnostic
+Read,E214.00,compulsive personality disorders,res32: Personality Disorder,diagnostic
+Read,E215.11,hysterical personality disorders,res32: Personality Disorder,diagnostic
+Read,E216.00,inadequate personality disorder,res32: Personality Disorder,diagnostic
+Read,E215z00,histrionic personality disorder nos,res32: Personality Disorder,diagnostic
+Read,E215000,unspecified histrionic personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu06000,[x]organic personality disorder,res32: Personality Disorder,diagnostic
+Read,E21y400,eccentric personality disorder,res32: Personality Disorder,diagnostic
+Read,E21y300,passive-aggressive personality disorder,res32: Personality Disorder,diagnostic
+Read,E21y200,borderline personality disorder,res32: Personality Disorder,diagnostic
+Read,E21z.11,psychopathic personality,res32: Personality Disorder,diagnostic
+Read,E21y500,immature personality disorder,res32: Personality Disorder,diagnostic
+Read,E21yz00,other personality disorder nos,res32: Personality Disorder,diagnostic
+Read,E21y700,psychoneurotic personality disorder,res32: Personality Disorder,diagnostic
+Read,E21y600,masochistic personality disorder,res32: Personality Disorder,diagnostic
+Read,E21z.00,personality disorder nos,res32: Personality Disorder,diagnostic
+Read,Eu60.00,[x]specific personality disorders,res32: Personality Disorder,diagnostic
+Read,Eu60215,[x]sociopathic personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu34112,[x]depressive personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu06011,[x]organic pseudopsychopathic personality,res32: Personality Disorder,diagnostic
+Read,Eu21.17,[x]pseudopsychopathic schizophrenia,res32: Personality Disorder,diagnostic
+Read,Eu34011,[x]affective personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu21.18,[x]schizotypal personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60013,[x]querulant personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60213,[x]asocial personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60000,[x]paranoid personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60214,[x]psychopathic personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60014,[x]sensitive paranoid personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60212,[x]antisocial personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60200,[x]dissocial personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60100,[x]schizoid personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60712,[x]inadequate personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60411,[x]hysterical personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60400,[x]histrionic personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60313,[x]explosive personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60300,[x]emotionally unstable personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60312,[x]borderline personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60511,[x]compulsive personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60711,[x]asthenic personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60500,[x]anankastic personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60412,[x]psychoinfantile personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60512,[x]obsessional personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60700,[x]dependent personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60600,[x]anxious [avoidant] personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60513,[x]obsessive-compulsive personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60y12,[x]haltlose type personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60713,[x]passive personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60y11,[x]eccentric personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60y00,[x]other specific personality disorders,res32: Personality Disorder,diagnostic
+Read,Eu60714,[x]self defeating personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60y13,[x]immature personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu61.00,[x]mixed and other personality disorders,res32: Personality Disorder,diagnostic
+Read,Eu60z00,"[x]personality disorder, unspecified",res32: Personality Disorder,diagnostic
+Read,Eu60y14,[x]narcissistic personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu60y16,[x]psychoneurotic personality disorder,res32: Personality Disorder,diagnostic
+Read,Eu94211,[x]affectionless psychopathy,res32: Personality Disorder,diagnostic
+Read,Eu84511,[x]autistic psychopathy,res32: Personality Disorder,diagnostic

@@ -1,0 +1,35 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,244 AC,HYPOTHYROIDISM ACQUIRED,res26: Hypothyroidism,diagnostic
+OXMIS,244 AG,HYPOTHYROIDISM COMPENSATED,res26: Hypothyroidism,diagnostic
+OXMIS,243,HYPOTHYROIDISM CONGENITAL,res26: Hypothyroidism,diagnostic
+Read,C04y.00,Other acquired hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C04z.12,Thyroid insufficiency,res26: Hypothyroidism,diagnostic
+Read,C04z.11,Pretibial myxoedema - hypothyroid,res26: Hypothyroidism,diagnostic
+Read,C04z.13,"Hypothyroid goitre, acquired",res26: Hypothyroidism,diagnostic
+Read,C03..00,Congenital hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C04z.00,Hypothyroidism NOS,res26: Hypothyroidism,diagnostic
+Read,C043000,Hypothyroidism resulting from para-aminosalicylic acid,res26: Hypothyroidism,diagnostic
+Read,C041000,Irradiation hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C04..12,Thyroid deficiency,res26: Hypothyroidism,diagnostic
+Read,C044.00,Postinfectious hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C03y000,Congenital hypothyroidism with diffuse goitre,res26: Hypothyroidism,diagnostic
+Read,C040.00,Postsurgical hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C043.00,Other iatrogenic hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C041.00,Other postablative hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C042.00,Iodine hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C046.00,Autoimmune myxoedema,res26: Hypothyroidism,diagnostic
+Read,C040.11,Post ablative hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C043z00,Iatrogenic hypothyroidism NOS,res26: Hypothyroidism,diagnostic
+Read,C045.00,Acquired atrophy of thyroid,res26: Hypothyroidism,diagnostic
+Read,Cyu1100,[X]Other sp cified hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C041z00,Postablative hypothyroidism NOS,res26: Hypothyroidism,diagnostic
+Read,C03z.00,Congenital hypothyroidism NOS,res26: Hypothyroidism,diagnostic
+Read,C03y.00,Other specified congenital hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C04z000,Premature puberty due to hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C04z100,Myxoedema coma,res26: Hypothyroidism,diagnostic
+Read,C03y100,Congenital hypothyroidism without goitre,res26: Hypothyroidism,diagnostic
+Read,C043200,Hypothyroidism resulting from resorcinol,res26: Hypothyroidism,diagnostic
+Read,C043100,Hypothyroidism resulting from phenylbutazone,res26: Hypothyroidism,diagnostic
+Read,C04..13,Hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C04..00,Acquired hypothyroidism,res26: Hypothyroidism,diagnostic
+Read,C04..11,Myxoedema,res26: Hypothyroidism,diagnostic

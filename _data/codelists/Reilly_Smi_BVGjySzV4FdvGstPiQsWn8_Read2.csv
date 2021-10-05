@@ -1,0 +1,269 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E101000,Unspecified hebephrenic schizophrenia,res26: SMI,diagnostic
+Read,E106.00,Residual schizophrenia,res26: SMI,diagnostic
+Read,E107.11,Cyclic schizophrenia,res26: SMI,diagnostic
+Read,E101.00,Hebephrenic schizophrenia,res26: SMI,diagnostic
+Read,E100000,Unspecified schizophrenia,res26: SMI,diagnostic
+Read,E100z00,Simple schizophrenia NOS,res26: SMI,diagnostic
+Read,E100.11,Schizophrenia simplex,res26: SMI,diagnostic
+Read,E100.00,Simple schizophrenia,res26: SMI,diagnostic
+Read,E100500,Schizophrenia in remission,res26: SMI,diagnostic
+Read,E100200,Chronic schizophrenic,res26: SMI,diagnostic
+Read,E100100,Subchronic schizophrenia,res26: SMI,diagnostic
+Read,E100400,Acute exacerbation of chronic schizophrenia,res26: SMI,diagnostic
+Read,E100300,Acute exacerbation of subchronic schizophrenia,res26: SMI,diagnostic
+Read,E105500,Latent schizophrenia in remission,res26: SMI,diagnostic
+Read,E101400,Acute exacerbation of chronic hebephrenic schizophrenia,res26: SMI,diagnostic
+Read,E102z00,Catatonic schizophrenia NOS,res26: SMI,diagnostic
+Read,E105200,Chronic latent schizophrenia,res26: SMI,diagnostic
+Read,E102500,Catatonic schizophrenia in remission,res26: SMI,diagnostic
+Read,E101z00,Hebephrenic schizophrenia NOS,res26: SMI,diagnostic
+Read,E101500,Hebephrenic schizophrenia in remission,res26: SMI,diagnostic
+Read,E102100,Subchronic catatonic schizophrenia,res26: SMI,diagnostic
+Read,E102.00,Catatonic schizophrenia,res26: SMI,diagnostic
+Read,E102000,Unspecified catatonic schizophrenia,res26: SMI,diagnostic
+Read,E103300,Acute exacerbation of subchronic paranoid schizophrenia,res26: SMI,diagnostic
+Read,E105000,Unspecified latent schizophrenia,res26: SMI,diagnostic
+Read,E103200,Chronic paranoid schizophrenia,res26: SMI,diagnostic
+Read,E103.00,Paranoid schizophrenia,res26: SMI,diagnostic
+Read,E103000,Unspecified paranoid schizophrenia,res26: SMI,diagnostic
+Read,E105.00,Latent schizophrenia,res26: SMI,diagnostic
+Read,E103500,Paranoid schizophrenia in remission,res26: SMI,diagnostic
+Read,E103400,Acute exacerbation of chronic paranoid schizophrenia,res26: SMI,diagnostic
+Read,E104.00,Acute schizophrenic episode,res26: SMI,diagnostic
+Read,E103z00,Paranoid schizophrenia NOS,res26: SMI,diagnostic
+Read,E105z00,Latent schizophrenia NOS,res26: SMI,diagnostic
+Read,E111600,Recurrent manic episodes; in full remission,res26: SMI,diagnostic
+Read,E11..00,Affective psychoses,res26: SMI,diagnostic
+Read,E107.00,Schizo-affective schizophrenia,res26: SMI,diagnostic
+Read,E107000,Unspecified schizo-affective schizophrenia,res26: SMI,diagnostic
+Read,E10z.00,Schizophrenia NOS,res26: SMI,diagnostic
+Read,E107200,Chronic schizo-affective schizophrenia,res26: SMI,diagnostic
+Read,E107300,Acute exacerbation subchronic schizo-affective schizophrenia,res26: SMI,diagnostic
+Read,E107100,Subchronic schizo-affective schizophrenia,res26: SMI,diagnostic
+Read,E10yz00,Other schizophrenia NOS,res26: SMI,diagnostic
+Read,E107400,Acute exacerbation of chronic schizo-affective schizophrenia,res26: SMI,diagnostic
+Read,E107500,Schizo-affective schizophrenia in remission,res26: SMI,diagnostic
+Read,E10y100,Coenesthopathic schizophrenia,res26: SMI,diagnostic
+Read,E10y000,Atypical schizophrenia,res26: SMI,diagnostic
+Read,E10y.11,Cenesthopathic schizophrenia,res26: SMI,diagnostic
+Read,E107z00,Schizo-affective schizophrenia NOS,res26: SMI,diagnostic
+Read,E10y.00,Other schizophrenia,res26: SMI,diagnostic
+Read,E110.00,Manic disorder; single episode,res26: SMI,diagnostic
+Read,E111500,Recurrent manic episodes; partial or unspecified remission,res26: SMI,diagnostic
+Read,E11..12,Depressive psychoses,res26: SMI,diagnostic
+Read,E110.11,Hypomanic psychoses,res26: SMI,diagnostic
+Read,E110000,Single manic episode; unspecified,res26: SMI,diagnostic
+Read,E111400,Recurrent manic episodes; severe; with psychosis,res26: SMI,diagnostic
+Read,E110100,Single manic episode; mild,res26: SMI,diagnostic
+Read,E110200,Single manic episode; moderate,res26: SMI,diagnostic
+Read,E12yz00,Other paranoid states NOS,res26: SMI,diagnostic
+Read,E111300,Recurrent manic episodes; severe without mention psychosis,res26: SMI,diagnostic
+Read,E110300,Single manic episode; severe without mention of psychosis,res26: SMI,diagnostic
+Read,E111200,Recurrent manic episodes; moderate,res26: SMI,diagnostic
+Read,E110600,Single manic episode in full remission,res26: SMI,diagnostic
+Read,E110400,Single manic episode; severe; with psychosis,res26: SMI,diagnostic
+Read,E111100,Recurrent manic episodes; mild,res26: SMI,diagnostic
+Read,E111000,Recurrent manic episodes; unspecified,res26: SMI,diagnostic
+Read,E111.00,Recurrent manic episodes,res26: SMI,diagnostic
+Read,E110z00,Manic disorder; single episode NOS,res26: SMI,diagnostic
+Read,Eu25000,[X]Schizoaffective disorder; manic type,res26: SMI,diagnostic
+Read,E116100,Mixed bipolar affective disorder; mild,res26: SMI,diagnostic
+Read,E114100,Bipolar affective disorder; currently manic; mild,res26: SMI,diagnostic
+Read,E131.00,Acute hysterical psychosis,res26: SMI,diagnostic
+Read,E111z00,Recurrent manic episode NOS,res26: SMI,diagnostic
+Read,E114.11,Manic-depressive - now manic,res26: SMI,diagnostic
+Read,E114000,Bipolar affective disorder; currently manic; unspecified,res26: SMI,diagnostic
+Read,E112400,Single major depressive episode; severe; with psychosis,res26: SMI,diagnostic
+Read,E113400,Recurrent major depressive episodes; severe; with psychosis,res26: SMI,diagnostic
+Read,E114.00,Bipolar affective disorder; currently manic,res26: SMI,diagnostic
+Read,E115.00,Bipolar affective disorder; currently depressed,res26: SMI,diagnostic
+Read,E114200,Bipolar affective disorder; currently manic; moderate,res26: SMI,diagnostic
+Read,E116000,Mixed bipolar affective disorder; unspecified,res26: SMI,diagnostic
+Read,E114400,Bipolar affect disord; currently manic;severe with psychosis,res26: SMI,diagnostic
+Read,E114300,Bipolar affect disord; currently manic; severe; no psychosis,res26: SMI,diagnostic
+Read,E114z00,Bipolar affective disorder; currently manic; NOS,res26: SMI,diagnostic
+Read,E114600,Bipolar affective disorder; currently manic; full remission,res26: SMI,diagnostic
+Read,E114500,Bipolar affect disord;currently manic; part/unspec remission,res26: SMI,diagnostic
+Read,E115.11,Manic-depressive - now depressed,res26: SMI,diagnostic
+Read,E115400,Bipolar affect disord; now depressed; severe with psychosis,res26: SMI,diagnostic
+Read,E115300,Bipolar affect disord; now depressed; severe; no psychosis,res26: SMI,diagnostic
+Read,E115000,Bipolar affective disorder; currently depressed; unspecified,res26: SMI,diagnostic
+Read,E115100,Bipolar affective disorder; currently depressed; mild,res26: SMI,diagnostic
+Read,E115200,Bipolar affective disorder; currently depressed; moderate,res26: SMI,diagnostic
+Read,E116.00,Mixed bipolar affective disorder,res26: SMI,diagnostic
+Read,E115500,Bipolar affect disord; now depressed; part/unspec remission,res26: SMI,diagnostic
+Read,E115z00,Bipolar affective disorder; currently depressed; NOS,res26: SMI,diagnostic
+Read,E115600,Bipolar affective disorder; now depressed; in full remission,res26: SMI,diagnostic
+Read,E130.11,Psychotic reactive depression,res26: SMI,diagnostic
+Read,E116500,Mixed bipolar affective disorder; partial/unspec remission,res26: SMI,diagnostic
+Read,E116400,Mixed bipolar affective disorder; severe; with psychosis,res26: SMI,diagnostic
+Read,E116300,Mixed bipolar affective disorder; severe; without psychosis,res26: SMI,diagnostic
+Read,E116200,Mixed bipolar affective disorder; moderate,res26: SMI,diagnostic
+Read,E11y.00,Other and unspecified manic-depressive psychoses,res26: SMI,diagnostic
+Read,E117z00,Unspecified bipolar affective disorder; NOS,res26: SMI,diagnostic
+Read,E116600,Mixed bipolar affective disorder; in full remission,res26: SMI,diagnostic
+Read,E117100,Unspecified bipolar affective disorder; mild,res26: SMI,diagnostic
+Read,E117200,Unspecified bipolar affective disorder; moderate,res26: SMI,diagnostic
+Read,E117000,Unspecified bipolar affective disorder; unspecified,res26: SMI,diagnostic
+Read,E116z00,Mixed bipolar affective disorder; NOS,res26: SMI,diagnostic
+Read,E117.00,Unspecified bipolar affective disorder,res26: SMI,diagnostic
+Read,E117600,Unspecified bipolar affective disorder; in full remission,res26: SMI,diagnostic
+Read,E117300,Unspecified bipolar affective disorder; severe; no psychosis,res26: SMI,diagnostic
+Read,E117500,Unspecified bipolar affect disord; partial/unspec remission,res26: SMI,diagnostic
+Read,E117400,Unspecified bipolar affective disorder;severe with psychosis,res26: SMI,diagnostic
+Read,E11y100,Atypical manic disorder,res26: SMI,diagnostic
+Read,E11y000,Unspecified manic-depressive psychoses,res26: SMI,diagnostic
+Read,E11zz00,Other affective psychosis NOS,res26: SMI,diagnostic
+Read,E11y300,Other mixed manic-depressive psychoses,res26: SMI,diagnostic
+Read,E130.00,Reactive depressive psychosis,res26: SMI,diagnostic
+Read,E11yz00,Other and unspecified manic-depressive psychoses NOS,res26: SMI,diagnostic
+Read,E11z000,Unspecified affective psychoses NOS,res26: SMI,diagnostic
+Read,E11z.00,Other and unspecified affective psychoses,res26: SMI,diagnostic
+Read,E122.00,Paraphrenia,res26: SMI,diagnostic
+Read,E120.00,Simple paranoid state,res26: SMI,diagnostic
+Read,E121.00,Chronic paranoid psychosis,res26: SMI,diagnostic
+Read,E123.00,Shared paranoid disorder,res26: SMI,diagnostic
+Read,E13..00,Other nonorganic psychoses,res26: SMI,diagnostic
+Read,E12z.00,Paranoid psychosis NOS,res26: SMI,diagnostic
+Read,E13..11,Reactive psychoses,res26: SMI,diagnostic
+Read,E12y000,Paranoia querulans,res26: SMI,diagnostic
+Read,E123.11,Folie a deux,res26: SMI,diagnostic
+Read,E12y.00,Other paranoid states,res26: SMI,diagnostic
+Read,Eu21.13,[X]Latent schizophrenia,res26: SMI,diagnostic
+Read,Eu20.00,[X]Schizophrenia,res26: SMI,diagnostic
+Read,E133.00,Acute paranoid reaction,res26: SMI,diagnostic
+Read,E132.00,Reactive confusion,res26: SMI,diagnostic
+Read,E212200,Schizotypal personality,res26: SMI,diagnostic
+Read,E13y000,Psychogenic stupor,res26: SMI,diagnostic
+Read,E133.11,Bouffee delirante,res26: SMI,diagnostic
+Read,E13y.00,Other reactive psychoses,res26: SMI,diagnostic
+Read,E134.00,Psychogenic paranoid psychosis,res26: SMI,diagnostic
+Read,Eu25.00,[X]Schizoaffective disorders,res26: SMI,diagnostic
+Read,E1z..00,Non-organic psychosis NOS,res26: SMI,diagnostic
+Read,E13z.11,Psychotic episode NOS,res26: SMI,diagnostic
+Read,E13y100,Brief reactive psychosis,res26: SMI,diagnostic
+Read,E13yz00,Other reactive psychoses NOS,res26: SMI,diagnostic
+Read,E13z.00,Nonorganic psychosis NOS,res26: SMI,diagnostic
+Read,Eu20211,[X]Catatonic stupor,res26: SMI,diagnostic
+Read,Eu20011,[X]Paraphrenic schizophrenia,res26: SMI,diagnostic
+Read,Eu20000,[X]Paranoid schizophrenia,res26: SMI,diagnostic
+Read,Eu20111,[X]Disorganised schizophrenia,res26: SMI,diagnostic
+Read,Eu21.12,[X]Borderline schizophrenia,res26: SMI,diagnostic
+Read,Eu20100,[X]Hebephrenic schizophrenia,res26: SMI,diagnostic
+Read,Eu20200,[X]Catatonic schizophrenia,res26: SMI,diagnostic
+Read,Eu20511,[X]Chronic undifferentiated schizophrenia,res26: SMI,diagnostic
+Read,Eu20212,[X]Schizophrenic catalepsy,res26: SMI,diagnostic
+Read,Eu21.11,[X]Latent schizophrenic reaction,res26: SMI,diagnostic
+Read,Eu20500,[X]Residual schizophrenia,res26: SMI,diagnostic
+Read,Eu20214,[X]Schizophrenic flexibilatis cerea,res26: SMI,diagnostic
+Read,Eu20213,[X]Schizophrenic catatonia,res26: SMI,diagnostic
+Read,Eu20400,[X]Post-schizophrenic depression,res26: SMI,diagnostic
+Read,Eu20300,[X]Undifferentiated schizophrenia,res26: SMI,diagnostic
+Read,Eu20311,[X]Atypical schizophrenia,res26: SMI,diagnostic
+Read,Eu21.00,[X]Schizotypal disorder,res26: SMI,diagnostic
+Read,Eu20y00,[X]Other schizophrenia,res26: SMI,diagnostic
+Read,Eu20600,[X]Simple schizophrenia,res26: SMI,diagnostic
+Read,Eu20y12,[X]Schizophreniform disord NOS,res26: SMI,diagnostic
+Read,Eu20z00,[X]Schizophrenia; unspecified,res26: SMI,diagnostic
+Read,Eu20y13,[X]Schizophrenifrm psychos NOS,res26: SMI,diagnostic
+Read,Eu21.14,[X]Prepsychotic schizophrenia,res26: SMI,diagnostic
+Read,Eu22y12,[X]Involutional paranoid state,res26: SMI,diagnostic
+Read,Eu24.13,[X]Induced psychotic disorder,res26: SMI,diagnostic
+Read,Eu22.00,[X]Persistent delusional disorders,res26: SMI,diagnostic
+Read,Eu21.18,[X]Schizotypal personality disorder,res26: SMI,diagnostic
+Read,Eu21.15,[X]Prodromal schizophrenia,res26: SMI,diagnostic
+Read,Eu21.17,[X]Pseudopsychopathic schizophrenia,res26: SMI,diagnostic
+Read,Eu21.16,[X]Pseudoneurotic schizophrenia,res26: SMI,diagnostic
+Read,Eu22014,[X]Sensitiver Beziehungswahn,res26: SMI,diagnostic
+Read,Eu22000,[X]Delusional disorder,res26: SMI,diagnostic
+Read,Eu22y11,[X]Delusional dysmorphophobia,res26: SMI,diagnostic
+Read,Eu22011,[X]Paranoid psychosis,res26: SMI,diagnostic
+Read,Eu22013,[X]Paraphrenia - late,res26: SMI,diagnostic
+Read,Eu22012,[X]Paranoid state,res26: SMI,diagnostic
+Read,Eu22y00,[X]Other persistent delusional disorders,res26: SMI,diagnostic
+Read,Eu22015,[X]Paranoia,res26: SMI,diagnostic
+Read,Eu22100,[X]Delusional misidentification syndrome,res26: SMI,diagnostic
+Read,Eu22111,[X]Capgras syndrome,res26: SMI,diagnostic
+Read,Eu22300,[X]Paranoid state in remission,res26: SMI,diagnostic
+Read,Eu22200,[X]Cotard syndrome,res26: SMI,diagnostic
+Read,Eu22z00,[X]Persistent delusional disorder; unspecified,res26: SMI,diagnostic
+Read,Eu24.12,[X]Induced paranoid disorder,res26: SMI,diagnostic
+Read,Eu22y13,[X]Paranoia querulans,res26: SMI,diagnostic
+Read,Eu23112,[X]Cycloid psychosis with symptoms of schizophrenia,res26: SMI,diagnostic
+Read,Eu23100,[X]Acute polymorphic psychot disord with symp of schizophren,res26: SMI,diagnostic
+Read,Eu23.00,[X]Acute and transient psychotic disorders,res26: SMI,diagnostic
+Read,Eu23000,[X]Acute polymorphic psychot disord without symp of schizoph,res26: SMI,diagnostic
+Read,Eu23012,[X]Cycloid psychosis,res26: SMI,diagnostic
+Read,Eu23011,[X]Bouffee delirante,res26: SMI,diagnostic
+Read,Eu24.00,[X]Induced delusional disorder,res26: SMI,diagnostic
+Read,Eu23200,[X]Acute schizophrenia-like psychotic disorder,res26: SMI,diagnostic
+Read,Eu23214,[X]Schizophrenic reaction,res26: SMI,diagnostic
+Read,Eu23212,[X]Brief schizophrenifrm psych,res26: SMI,diagnostic
+Read,Eu23211,[X]Brief schizophreniform disorder,res26: SMI,diagnostic
+Read,Eu23z12,[X]Reactive psychosis,res26: SMI,diagnostic
+Read,Eu23312,[X]Psychogenic paranoid psychosis,res26: SMI,diagnostic
+Read,Eu23300,[X]Other acute predominantly delusional psychotic disorders,res26: SMI,diagnostic
+Read,Eu23y00,[X]Other acute and transient psychotic disorders,res26: SMI,diagnostic
+Read,Eu23z11,[X]Brief reactive psychosis NOS,res26: SMI,diagnostic
+Read,Eu23z00,[X]Acute and transient psychotic disorder; unspecified,res26: SMI,diagnostic
+Read,Eu25111,[X]Schizoaffective psychosis; depressive type,res26: SMI,diagnostic
+Read,Eu25100,[X]Schizoaffective disorder; depressive type,res26: SMI,diagnostic
+Read,Eu31100,[X]Bipolar affect disorder cur epi manic wout psychotic symp,res26: SMI,diagnostic
+Read,Eu25012,[X]Schizophreniform psychosis; manic type,res26: SMI,diagnostic
+Read,Eu30.11,[X]Bipolar disorder; single manic episode,res26: SMI,diagnostic
+Read,Eu25011,[X]Schizoaffective psychosis; manic type,res26: SMI,diagnostic
+Read,Eu25212,[X]Mixed schizophrenic and affective psychosis,res26: SMI,diagnostic
+Read,Eu2z.11,[X]Psychosis NOS,res26: SMI,diagnostic
+Read,Eu25200,[X]Schizoaffective disorder; mixed type,res26: SMI,diagnostic
+Read,Eu25112,[X]Schizophreniform psychosis; depressive type,res26: SMI,diagnostic
+Read,Eu2z.00,[X]Unspecified nonorganic psychosis,res26: SMI,diagnostic
+Read,Eu25z00,[X]Schizoaffective disorder; unspecified,res26: SMI,diagnostic
+Read,Eu2y.11,[X]Chronic hallucinatory psychosis,res26: SMI,diagnostic
+Read,Eu25y00,[X]Other schizoaffective disorders,res26: SMI,diagnostic
+Read,Eu25z11,[X]Schizoaffective psychosis NOS,res26: SMI,diagnostic
+Read,Eu2y.00,[X]Other nonorganic psychotic disorders,res26: SMI,diagnostic
+Read,Eu26.00,[X]Nonorganic psychosis in remission,res26: SMI,diagnostic
+Read,Eu30.00,[X]Manic episode,res26: SMI,diagnostic
+Read,Eu31.13,[X]Manic-depressive reaction,res26: SMI,diagnostic
+Read,Eu31000,[X]Bipolar affective disorder; current episode hypomanic,res26: SMI,diagnostic
+Read,Eu30100,[X]Mania without psychotic symptoms,res26: SMI,diagnostic
+Read,Eu30212,[X]Mania with mood-incongruent psychotic symptoms,res26: SMI,diagnostic
+Read,Eu30000,[X]Hypomania,res26: SMI,diagnostic
+Read,Eu30211,[X]Mania with mood-congruent psychotic symptoms,res26: SMI,diagnostic
+Read,Eu30200,[X]Mania with psychotic symptoms,res26: SMI,diagnostic
+Read,Eu30y00,[X]Other manic episodes,res26: SMI,diagnostic
+Read,Eu31.12,[X]Manic-depressive psychosis,res26: SMI,diagnostic
+Read,Eu30z11,[X]Mania NOS,res26: SMI,diagnostic
+Read,Eu30z00,[X]Manic episode; unspecified,res26: SMI,diagnostic
+Read,Eu31.11,[X]Manic-depressive illness,res26: SMI,diagnostic
+Read,Eu31.00,[X]Bipolar affective disorder,res26: SMI,diagnostic
+Read,Eu31600,[X]Bipolar affective disorder; current episode mixed,res26: SMI,diagnostic
+Read,Eu31200,[X]Bipolar affect disorder cur epi manic with psychotic symp,res26: SMI,diagnostic
+Read,Eu31500,[X]Bipolar affect dis cur epi severe depres with psyc symp,res26: SMI,diagnostic
+Read,Eu31300,[X]Bipolar affect disorder cur epi mild or moderate depressn,res26: SMI,diagnostic
+Read,Eu31400,[X]Bipol aff disord; curr epis sev depress; no psychot symp,res26: SMI,diagnostic
+Read,Eu31911,,res26: SMI,diagnostic
+Read,Eu31y00,[X]Other bipolar affective disorders,res26: SMI,diagnostic
+Read,Eu32311,[X]Single episode of major depression and psychotic symptoms,res26: SMI,diagnostic
+Read,Eu31900,,res26: SMI,diagnostic
+Read,Eu31800,,res26: SMI,diagnostic
+Read,Eu31700,[X]Bipolar affective disorder; currently in remission,res26: SMI,diagnostic
+Read,Eu32300,[X]Severe depressive episode with psychotic symptoms,res26: SMI,diagnostic
+Read,Eu31y11,[X]Bipolar II disorder,res26: SMI,diagnostic
+Read,Eu31z00,[X]Bipolar affective disorder; unspecified,res26: SMI,diagnostic
+Read,Eu31y12,[X]Recurrent manic episodes,res26: SMI,diagnostic
+Read,Eu33311,[X]Endogenous depression with psychotic symptoms,res26: SMI,diagnostic
+Read,Eu32314,[X]Single episode of reactive depressive psychosis,res26: SMI,diagnostic
+Read,Eu32312,[X]Single episode of psychogenic depressive psychosis,res26: SMI,diagnostic
+Read,Eu32313,[X]Single episode of psychotic depression,res26: SMI,diagnostic
+Read,Eu32800,[X]Major depression; severe with psychotic symptoms,res26: SMI,diagnostic
+Read,Eu33213,[X]Manic-depress psychosis;depressd;no psychotic symptoms,res26: SMI,diagnostic
+Read,Eu33300,[X]Recurrent depress disorder cur epi severe with psyc symp,res26: SMI,diagnostic
+Read,Eu33315,[X]Recurrent severe episodes of psychotic depression,res26: SMI,diagnostic
+Read,Eu33313,[X]Recurr severe episodes/major depression+psychotic symptom,res26: SMI,diagnostic
+Read,Eu33312,[X]Manic-depress psychosis;depressed type+psychotic symptoms,res26: SMI,diagnostic
+Read,Eu33314,[X]Recurr severe episodes/psychogenic depressive psychosis,res26: SMI,diagnostic
+Read,Eu33316,[X]Recurrent severe episodes/reactive depressive psychosis,res26: SMI,diagnostic
+Read,Eu44.14,[X]Hysterical psychosis,res26: SMI,diagnostic
+Read,Eu3z.11,[X]Affective psychosis NOS,res26: SMI,diagnostic

@@ -1,0 +1,511 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,19016,Roxiam 150mg Capsule (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,18453,Zyprexa 2.5mg tablets (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,43914,Olanzapine embonate 210mg powder and solvent for suspension for injection vials,res25: P13_antipsychotics,drug
+CPRD_product_code,16103,Olanzapine 20mg Orodispersible tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,4442,Nozinan 25mg/1ml solution for injection ampoules (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,12386,Haldol decanoate 100mg/1ml solution for injection ampoules (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,42816,Thioridazine 50mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,6838,Olanzapine 15mg Orodispersible tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,10565,Haloperidol decanoate 50mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,2094,Haldol decanoate 50mg/1ml solution for injection ampoules (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,6023,Olanzapine 10mg Orodispersible tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,28231,Levinan 6mg Tablet (Link Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,47093,Olanzapine 20mg orodispersible tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,6064,Levomepromazine 25mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,21339,Veractil 25mg Tablet (Rhone-Poulenc Rorer Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,5014,Levomepromazine 25mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,52846,Nozinan 25mg/1ml solution for injection ampoules (Lexon (UK) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,4232,Nozinan 25mg tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,60250,Levomepromazine 3mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,3281,Olanzapine 5mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,53951,Levomepromazine 6.25mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,49606,Levinan 6mg tablets (Archimedes Pharma UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,2656,Olanzapine 2.5mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,62517,Lurasidone 74mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,62463,Latuda 37mg tablets (Sunovion Pharmaceuticals Europe Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,1249,Olanzapine 10mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,64210,Latuda 74mg tablets (Sunovion Pharmaceuticals Europe Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,6412,Olanzapine 5mg Orodispersible tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,30088,Zoleptil 25 tablets (Movianto UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,47167,Asenapine 10mg sublingual tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,21709,Seroquel 300mg tablets (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,14717,Zyprexa 5mg Velotabs (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,16006,Risperdal Quicklet 2mg orodispersible tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,6850,Olanzapine 15mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,13888,Zyprexa 10mg Velotabs (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,7039,Quetiapine 300mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,35929,Chlorpromazine 50mg/2ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,18024,Zyprexa 5mg tablets (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,16407,Zyprexa 15mg Velotabs (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,14839,Flupentixol 200mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,34927,Amisulpride 200mg tablets (Zentiva),res25: P13_antipsychotics,drug
+CPRD_product_code,16768,Solian 50 tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,26544,Solian 100 tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,15418,Largactil forte 100mg/5ml Oral suspension (Hawgreen Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,29540,Olanzapine 20mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,55625,Amisulpride 50mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,19976,Zyprexa 15mg tablets (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,41714,Amisulpride 50mg tablets (Zentiva),res25: P13_antipsychotics,drug
+CPRD_product_code,47063,Olanzapine 10mg orodispersible tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,58703,Largactil 50mg tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,21964,Zyprexa 7.5mg tablets (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,23431,Olanzapine 10mg powder for solution for injection vials,res25: P13_antipsychotics,drug
+CPRD_product_code,33883,Zyprexa 20mg Velotabs (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,47055,Olanzapine 5mg orodispersible tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,55620,Flupentixol Liquid,res25: P13_antipsychotics,drug
+CPRD_product_code,47049,Olanzapine 10mg orodispersible tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,36163,Zyprexa 20mg tablets (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,46969,Amisulpride 200mg tablets (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,47280,Asenapine 5mg sublingual tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,47103,Olanzapine 15mg orodispersible tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,3348,Chlorpromazine 50mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,46889,Amisulpride 25mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,1857,Trifluoperazine 1mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,29948,Stelazine Forte 1mg/ml oral solution (Mercury Pharma Group Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,52076,Amisulpride 12.5mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,47256,Olanzapine 5mg oral lyophilisates sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,29879,Abilify 30mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,4876,Amisulpride 50mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,21064,Neulactil 25mg Tablet (JHC Healthcare Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,7493,Largactil 100mg Tablet (Hawgreen Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,50214,Olanzapine 5mg orodispersible tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,588,Chlorpromazine 25mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,37606,Abilify 10mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,51558,Amisulpride 12.5mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,31098,Aripiprazole 15mg orodispersible tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,38375,Aripiprazole 9.75mg/1.3ml solution for injection vials,res25: P13_antipsychotics,drug
+CPRD_product_code,35488,Piportil Depot 100mg/2ml solution for injection ampoules (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,32076,Aripiprazole 10mg orodispersible tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,47498,Olanzapine 20mg oral lyophilisates sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,4992,Solian 200 tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,14344,Aripiprazole 5mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,6573,Aripiprazole 15mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,44326,Seroquel XL 150mg tablets (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,47304,Olanzapine 10mg oral lyophilisates sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,16561,Aripiprazole 30mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,56143,Olanzapine 15mg orodispersible tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,6524,Amisulpride 100mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,52001,Olanzapine 2.5mg tablets (Aspire Pharma Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,16575,Aripiprazole 1mg/ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,58854,Olanzapine 10mg tablets (Actavis UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,7514,Largactil 50mg/2ml solution for injection ampoules (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,53848,Zalasta 5mg orodispersible tablets (Consilient Health Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,56072,Olanzapine 20mg orodispersible tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,58147,Olanzapine 10mg tablets (Zentiva),res25: P13_antipsychotics,drug
+CPRD_product_code,57270,Olanzapine 2.5mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,31796,Benquil 250microgram tablets (Concord Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,57160,Olanzapine 5mg oral lyophilisates sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,56265,Olanzapine 20mg oral lyophilisates sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,5927,Amisulpride 400mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,18668,Trifluoperazine 10mg/ml concentrate,res25: P13_antipsychotics,drug
+CPRD_product_code,19900,Sertindole 16mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,17399,Thioridazine 50mg/5ml Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,36954,Invega 6mg modified-release tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,55268,Zypadhera 300mg powder and solvent for suspension for injection vials (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,34905,Thioridazine 25mg Tablet (IVAX Pharmaceuticals UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,46422,Olanzapine embonate 300mg powder and solvent for suspension for injection vials,res25: P13_antipsychotics,drug
+CPRD_product_code,52050,Haloperidol 1.5mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,18132,Abilify 5mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,15598,Thioridazine 100mg/5ml sugar free Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,51240,Risperidone 125micrograms/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,36116,Paliperidone 6mg modified-release tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,27211,Integrin 40mg Tablet (Sanofi-Synthelabo Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,17050,Sertindole 20mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,46351,Paliperidone 150mg/1.5ml suspension for injection pre-filled syringes,res25: P13_antipsychotics,drug
+CPRD_product_code,46677,Risperidone 500microgram tablets (Actavis UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,37501,Paliperidone 9mg modified-release tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,35953,Risperdal Quicklet 4mg orodispersible tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,3197,Promazine 100mg tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,16998,Sertindole 12mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,57217,Risperidone 1mg tablets (Generics (UK) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,51444,Risperdal Consta 50mg powder and solvent for suspension for injection vials (Waymade Healthcare Plc),res25: P13_antipsychotics,drug
+CPRD_product_code,56387,Risperidone 1mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,55661,Risperidone 1mg tablets (Kent Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,12666,Sertindole 4mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,58822,Risperidone 4mg tablets (Almus Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,59829,Risperidone 3mg tablets (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,59548,Risperidone 2mg tablets (Alliance Healthcare (Distribution) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,43522,Sulpiride 200mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,31063,Serdolect 12mg tablets (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,18289,Stelazine 10mg/ml Concentrate (Goldshield Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,35787,Thioridazine 50mg Tablet (IVAX Pharmaceuticals UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,10405,Thioridazine 25mg/5ml sugar free Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,25966,Serdolect 4mg tablets (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,23162,Serdolect 16mg tablets (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,43423,Sulpiride 200mg tablets (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,18352,Sulpitil 200mg tablets (Pfizer Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,2135,Sulpiride 200mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,18181,Sulpor 200mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,10666,Dolmatil 200mg tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,41675,Sulpiride 200mg tablets (IVAX Pharmaceuticals UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,24053,Sulparex 200mg Tablet (E R Squibb and Sons Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,34810,Sulpiride 200mg tablets (Wockhardt UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,24069,Dolmatil 400mg tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,45860,Thioridazine 100mg Tablet (IVAX Pharmaceuticals UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,3021,Thioridazine 100mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,2801,Thioridazine 10mg/5ml Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,3605,Thioridazine 25mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,1192,Thioridazine 10mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,1314,Thioridazine 50mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,1218,Thioridazine 25mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,1316,Stelazine 5mg tablets (Mercury Pharma Group Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,11531,Trifluoperazine 5mg/5ml oral solution sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,13145,Trifluoperazine 1mg/5ml oral solution sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,47361,Thioridazine 10mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,1318,Stelazine 1mg tablets (Mercury Pharma Group Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,8985,Stelazine 1mg/5ml syrup (Mercury Pharma Group Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,3356,Parstelin Tablet (GlaxoSmithKline Consumer Healthcare),res25: P13_antipsychotics,drug
+CPRD_product_code,8537,Trifluoperazine 1mg/ml Injection,res25: P13_antipsychotics,drug
+CPRD_product_code,7479,Stelazine 1mg/ml Injection (Goldshield Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,5762,Clopixol acuphase 50mg/ml Oily injection (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,28759,Zotepine 100mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,46224,Paliperidone 50mg/0.5ml suspension for injection pre-filled syringes,res25: P13_antipsychotics,drug
+CPRD_product_code,3772,Largactil 50mg Tablet (Hawgreen Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,38080,Abilify 1mg/ml oral solution (Otsuka Pharmaceuticals (U.K.) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,21047,Triperidol 0.5mg Tablet (Lagap),res25: P13_antipsychotics,drug
+CPRD_product_code,8506,Chlorpromazine 100mg suppository,res25: P13_antipsychotics,drug
+CPRD_product_code,25336,Zotepine 50mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,24890,Trifluoperazine with tranylcypromine 1mg + 10mg Tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,41663,Trifluoperazine 5mg tablets (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,40162,Trifluoperazine 1mg tablets (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,17504,Zotepine 25mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,22814,Trifluperidol 1mg Tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,9515,Zoleptil 50 tablets (Movianto UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,23659,Trifluperidol 0.5mg Tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,31538,Clopixol Acuphase 100mg/2ml solution for injection ampoules (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,31537,Zuclopenthixol acetate 100mg/2ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,35589,Risperidone 4mg orodispersible tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,24270,Zuclopenthixol acetate 50mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,14576,Zuclopenthixol acetate 50mg/ml oily injection,res25: P13_antipsychotics,drug
+CPRD_product_code,2814,Largactil 25mg Tablet (Hawgreen Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,28355,Zuclopenthixol decanoate 200mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,22049,Clopixol 200mg/1ml solution for injection ampoules (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,3774,Clopixol 200mg/ml Oily injection (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,12224,Zuclopenthixol decanoate 500mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,13600,Zuclopenthixol 25mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,1319,Clopixol 10mg tablets (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,9347,Clopixol 25mg tablets (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,9686,Zuclopenthixol 10mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,13368,Clopixol 2mg tablets (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,12707,Zuclopenthixol 2mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,37717,Paliperidone 3mg modified-release tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,3955,Tranylcypromine with trifluoperazine Tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,11938,Amisulpride 25mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,47832,Risperidone 500microgram tablets (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,14112,Clozaril 100mg tablets (Novartis Pharmaceuticals UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,47365,Anquil 250microgram tablets (Archimedes Pharma UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,17087,Perphenazine 5mg/ml injection,res25: P13_antipsychotics,drug
+CPRD_product_code,38913,Seroquel XL 50mg tablets (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,35684,Pipotiazine 50mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,12340,Piportil 50mg/ml Depot injection (JHC Healthcare Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,10944,Pipotiazine palmitate 50mg/ml depot injection,res25: P13_antipsychotics,drug
+CPRD_product_code,38914,Seroquel XL 200mg tablets (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,38937,Seroquel XL 300mg tablets (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,38912,Quetiapine 200mg modified-release tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,38906,Quetiapine 300mg modified-release tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,8637,Pimozide 10mg tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,18013,Seroquel 100mg tablets (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,27148,Orap 10mg Tablet (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,58425,Seroquel XL 50mg tablets (DE Pharmaceuticals),res25: P13_antipsychotics,drug
+CPRD_product_code,15047,Orap 4mg tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,2787,Risperidone 4mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,5821,Pimozide 4mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,2786,Risperidone 6mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,1321,Risperidone 2mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,4820,Risperdal 1mg tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,25909,Perphenazine 4mg/5ml Oral solution sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,35235,Piportil Depot 50mg/1ml solution for injection ampoules (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,6373,Risperidone 1mg orodispersible tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,45839,Quetiapine 25mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,49696,Quetiapine 25mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,46871,Quetiapine 12.5mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,36394,Pipotiazine 100mg/2ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,55871,Haloperidol 2mg/ml Liquid (Hillcross Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,38885,Quetiapine 50mg modified-release tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,12073,Clopixol Conc 500mg/1ml solution for injection ampoules (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,3775,Zuclopenthixol decanoate 200mg/ml oily injection,res25: P13_antipsychotics,drug
+CPRD_product_code,36101,Clopixol Acuphase 50mg/1ml solution for injection ampoules (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,8903,Sulpiride 200mg/5ml oral solution sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,9247,Sulpiride 400mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,54346,Risperidone 1mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,46447,Paliperidone 100mg/1ml suspension for injection pre-filled syringes,res25: P13_antipsychotics,drug
+CPRD_product_code,59215,Quetiapine 150mg tablets (Ranbaxy (UK) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,55890,Promazine 50mg/5ml Liquid (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,60450,Promazine 25mg tablets (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,46945,Promazine 25mg Tablet (Biorex Laboratories Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,10107,Quetiapine Starter Pack,res25: P13_antipsychotics,drug
+CPRD_product_code,5039,Quetiapine 100mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,15161,Promazine 50mg/ml injection,res25: P13_antipsychotics,drug
+CPRD_product_code,14859,Seroquel 25mg tablets (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,43654,Promazine 50mg/ml injection,res25: P13_antipsychotics,drug
+CPRD_product_code,14610,Promazine 50mg/5ml oral solution sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,17634,Promazine 50mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,33493,Sparine 100mg Tablet (Wyeth Pharmaceuticals),res25: P13_antipsychotics,drug
+CPRD_product_code,40390,Promazine 25mg/5ml syrup (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,15395,Promazine 12.5mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,38840,Quetiapine 400mg modified-release tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,41732,Promazine 50mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,35548,Risperdal Quicklet 3mg orodispersible tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,53649,Haloperidol 2mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,47013,Haloperidol 1mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,12193,Sparine 25mg Tablet (Wyeth Pharmaceuticals),res25: P13_antipsychotics,drug
+CPRD_product_code,41995,Promazine 50mg/ml Injection (Genus Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,44024,Quetiapine 150mg modified-release tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,3952,Chlorpromazine 25mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,47808,Haloperidol 10mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,49207,Haloperidol 2mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,47149,Haloperidol 1mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,7382,Risperidone 500microgram orodispersible tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,10780,Promazine 50mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,6864,Seroquel 200mg tablets (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,3226,Sparine 50mg Tablet (Wyeth Pharmaceuticals),res25: P13_antipsychotics,drug
+CPRD_product_code,2157,Perphenazine 4mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,9794,Quetiapine 200mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,13311,Sparine 50mg/ml Injection (Wyeth Pharmaceuticals),res25: P13_antipsychotics,drug
+CPRD_product_code,40881,Neulactil 10mg tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,13902,Neulactil Forte syrup (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,15472,Pericyazine 25mg tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,43020,Haloperidol Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,43520,Haloperidol 1.5mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,38262,Haloperidol 5mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,46556,Paliperidone 75mg/0.75ml suspension for injection pre-filled syringes,res25: P13_antipsychotics,drug
+CPRD_product_code,14813,Seroquel 150mg tablets (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,5219,Risperidone 3mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,15814,Haloperidol decanoate 100mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,8031,Neulactil 10mg Tablet (JHC Healthcare Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,36771,Haloperidol 250micrograms/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,47162,Xeplion 50mg/0.5ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,38540,Haldol 5mg/1ml solution for injection ampoules (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,7834,Pericyazine 2.5mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,41546,Haloperidol 1mg/ml Liquid (Hillcross Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,34339,Haloperidol 1.5mg tablets (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,5283,Quetiapine 25mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,34272,Haloperidol 5mg/ml Injection (Antigen Pharmaceuticals),res25: P13_antipsychotics,drug
+CPRD_product_code,8032,Pericyazine 10mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,42000,Haloperidol 2mg/ml Liquid (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,34903,Haloperidol 5mg tablets (IVAX Pharmaceuticals UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,6561,Aripiprazole 10mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,12387,Haloperidol 20mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,6482,Amisulpride 100mg/ml oral solution sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,7919,Fentazin 4mg tablets (AMCo),res25: P13_antipsychotics,drug
+CPRD_product_code,34039,Haloperidol 1mg/ml Liquid (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,46436,Xeplion 75mg/0.75ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,24494,Haldol 10mg/ml Liquid (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,23034,Remoxipride 75mg capsule,res25: P13_antipsychotics,drug
+CPRD_product_code,28679,Dozic 2mg/ml Oral solution (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,23678,Haldol 10mg tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,32051,Haloperidol 5mg Tablet (Generics (UK) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,17379,Haloperidol 1.5mg/5ml sugar free Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,39237,Seroquel XL 400mg tablets (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,11213,Haloperidol 2mg/5ml sugar free Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,22660,Haldol 5mg tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,13483,Serenace 20mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,42807,Haloperidol 500microgram Tablet (Lagap),res25: P13_antipsychotics,drug
+CPRD_product_code,32838,Haloperidol 1.5mg tablets (IVAX Pharmaceuticals UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,13484,Serenace 10mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,10435,Haloperidol 10mg/ml Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,8979,Serenace 1.5mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,12195,Pericyazine 10mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,228,Fentazin 5mg/ml Injection (Goldshield Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,12921,Haldol 2mg/ml oral solution (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,9975,Haloperidol 1mg/ml sugar free Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,7436,Serenace 5mg/1ml solution for injection ampoules (IVAX Pharmaceuticals UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,6523,Haldol 5mg/ml Injection (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,6134,Dozic 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,13105,Haloperidol 2mg/ml Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,8153,Serenace 2mg/ml liquid (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,31576,Solian 100mg/ml oral solution (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,3227,Sparine 50mg/5ml Liquid (Wyeth Pharmaceuticals),res25: P13_antipsychotics,drug
+CPRD_product_code,13338,Serenace 5mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,42895,Haloperidol 5mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,16323,Perphenazine 2mg with Amitriptyline 10mg tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,59938,Levomepromazine 25mg/1ml solution for injection ampoules (Wockhardt UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,45810,Haloperidol 10mg/5ml oral solution sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,5545,Serenace 500microgram capsules (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,6894,Perphenazine 2mg with Amitriptyline 25mg tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,475,Haloperidol 10mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,302,Risperidone 1mg/ml oral solution sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,2620,Haloperidol 1mg/ml Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,2419,Haloperidol 500microgram capsules,res25: P13_antipsychotics,drug
+CPRD_product_code,8311,Chlorpromazine 25mg/ml injection,res25: P13_antipsychotics,drug
+CPRD_product_code,329,Haloperidol 1.5mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,17190,Fluphenazine enanthate 25mg/ml Injection,res25: P13_antipsychotics,drug
+CPRD_product_code,5212,Fluphenazine 1mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,25835,Moditen enanthate 25mg/ml Injection (Sanofi-Synthelabo Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,48077,Roxiam ir 75mg Capsule (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,5597,Moditen 1mg tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,2621,Haloperidol 5mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,35455,Modecate Concentrate 100mg/1ml solution for injection ampoules (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,41971,Fluphenazine decanoate 25mg/ml Injection (Antigen Pharmaceuticals),res25: P13_antipsychotics,drug
+CPRD_product_code,9190,Chlorpromazine 25mg/5ml oral solution sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,19002,Largactil 100mg Suppository (Rhone-Poulenc Rorer Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,35487,Modecate Concentrate 50mg/0.5ml solution for injection ampoules (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,10434,Largactil 25mg/5ml Oral solution (Hawgreen Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,17227,Chloractil 25mg Tablet (DDSA Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,25653,Chloractil 50mg Tablet (DDSA Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,35723,Fluphenazine decanoate 50mg/2ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,631,Risperdal 500microgram tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,46434,Xeplion 100mg/1ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,35530,Fluphenazine decanoate 12.5mg/0.5ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,31172,Chlorpromazine 50mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,34736,Chlorpromazine 100mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,37705,Chlorpromazine 100mg/5ml suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,4234,Haloperidol 5mg/ml Injection,res25: P13_antipsychotics,drug
+CPRD_product_code,35391,Fluphenazine decanoate 50mg/0.5ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,35176,Fluphenazine decanoate 100mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,57114,Abilify 5mg tablets (Mawdsley-Brooks & Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,8771,Largactil 10mg Tablet (Hawgreen Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,3233,Haloperidol 2mg/ml sugar free Liquid,res25: P13_antipsychotics,drug
+CPRD_product_code,41970,Fluphenazine decanoate 25mg/1ml solution for injection ampoules (Hospira UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,4434,Chlorpromazine 50mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,5071,Amisulpride 200mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,10514,Fluphenazine decanoate 100mg/ml Injection,res25: P13_antipsychotics,drug
+CPRD_product_code,35445,Modecate 50mg/2ml solution for injection ampoules (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,28862,Chloractil 100mg Tablet (DDSA Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,31171,Chlorpromazine 50mg tablets (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,49699,Abilify 5mg tablets (Sigma Pharmaceuticals Plc),res25: P13_antipsychotics,drug
+CPRD_product_code,8881,Remoxipride 150mg capsule,res25: P13_antipsychotics,drug
+CPRD_product_code,33780,Modecate 25mg/1ml solution for injection ampoules (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,3926,Modecate 25mg/ml Injection (Sanofi-Synthelabo Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,12128,Modecate concentrate 100mg/ml Injection (Sanofi-Synthelabo Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,9022,Fluphenazine decanoate 25mg/ml Injection,res25: P13_antipsychotics,drug
+CPRD_product_code,58935,Tenprolide XL 400mg tablets (Actavis UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,5707,Flupentixol 3mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,5712,Depixol 3mg tablets (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,39830,Neulactil 2.5mg tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,35065,Fluphenazine decanoate 25mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,59816,Psytixol 50mg/0.5ml solution for injection ampoules (Generics (UK) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,35122,Modecate 12.5mg/0.5ml solution for injection ampoules (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,28147,Taractan 15mg Tablet (Roche Products Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,30111,Chlorprothixene 50mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,8046,Clozapine 25mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,12445,Remoxipride 300mg capsule,res25: P13_antipsychotics,drug
+CPRD_product_code,16223,Roxiam 300mg Capsule (AstraZeneca UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,8047,Clozapine 100mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,58936,Tenprolide XL 50mg tablets (Actavis UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,31175,Chlorpromazine 25mg tablets (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,8519,Chlorpromazine 100mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,34693,Chlorpromazine 25mg tablets (Thornton & Ross Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,14858,Abilify 15mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,5262,Risperdal 1mg/ml liquid (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,667,Risperidone 500microgram tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,31184,Chlorpromazine 25mg tablets (IVAX Pharmaceuticals UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,52940,Sondate XL 50mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,46705,Abilify 9.75mg/1.3ml solution for injection vials (Otsuka Pharmaceuticals (U.K.) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,57762,Psytixol 40mg/2ml solution for injection ampoules (Generics (UK) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,22606,Chlorpromazine 25mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,34668,Chlorpromazine 25mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,34630,Chlorpromazine 50mg tablets (Thornton & Ross Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,41645,Chlorpromazine 25mg/ml Injection (Antigen Pharmaceuticals),res25: P13_antipsychotics,drug
+CPRD_product_code,58821,Quetiapine 25mg tablets (Dr Reddy's Laboratories (UK) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,9475,Risperdal 4mg tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,58702,Largactil 100mg tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,19283,Depixol 20mg/1ml solution for injection ampoules (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,57170,Psytixol 100mg/1ml solution for injection ampoules (Generics (UK) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,45281,Chlorpromazine 100mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,6443,Promazine 25mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,14987,Perphenazine 2mg/5ml oral solution sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,56215,Quetiapine 50mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,24358,Abilify 10mg tablets (Otsuka Pharmaceuticals (U.K.) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,57613,Seroquel XL 50mg tablets (Sigma Pharmaceuticals Plc),res25: P13_antipsychotics,drug
+CPRD_product_code,45880,Haloperidol 5mg/5ml oral solution sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,2972,Promazine 25mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,37871,Chlorpromazine 25mg/5ml Oral solution (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,46435,Xeplion 150mg/1.5ml suspension for injection pre-filled syringes (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,57412,Sondate XL 400mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,609,Perphenazine 2mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,55848,Haloperidol 5mg/1ml solution for injection ampoules (AMCo),res25: P13_antipsychotics,drug
+CPRD_product_code,1453,Triptafen m 2mg+10mg Tablet (Goldshield Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,46764,Quetiapine 12.5mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,54483,Sondate XL 300mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,16908,Risperdal Consta 25mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,55870,Quetiapine oral liquid,res25: P13_antipsychotics,drug
+CPRD_product_code,41428,Denzapine 200mg tablets (Britannia Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,17958,Clozaril 25mg tablets (Novartis Pharmaceuticals UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,5192,Haloperidol 1mg/5ml sugar free Oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,3228,Promazine 50mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,44186,Chlorpromazine 25mg/5ml oral solution (A A H Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,2155,Depixol -conc 100mg/ml Injection (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,21199,Denzapine 100mg tablets (Britannia Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,35141,Risperidone 3mg orodispersible tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,41070,Denzapine 50mg tablets (Britannia Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,5040,Quetiapine 150mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,40587,Clozapine 200mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,30487,Denzapine 25mg tablets (Britannia Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,40586,Clozapine 50mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,45444,Denzapine 50mg/ml oral suspension (Britannia Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,2136,Depixol 20mg/ml Injection (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,42242,Clozapine 50mg/ml oral suspension sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,15171,Droleptan 10mg Tablet (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,56647,Quetiapine 300mg tablets (Arrow Generics Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,15128,Droperidol 1mg/ml liquid,res25: P13_antipsychotics,drug
+CPRD_product_code,47233,Zaponex 25mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,840,Fentazin 2mg tablets (AMCo),res25: P13_antipsychotics,drug
+CPRD_product_code,40779,Quetiapine 100mg/5ml oral solution,res25: P13_antipsychotics,drug
+CPRD_product_code,13369,Droleptan 1mg/ml Oral solution (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,47302,Zaponex 100mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,3773,Droperidol 10mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,2156,Depixol 40mg/2ml solution for injection ampoules (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,1733,Flupentixol decanoate 20mg/ml Injection,res25: P13_antipsychotics,drug
+CPRD_product_code,21744,Anquil 250microgram Tablet (Concord Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,21125,Droleptan 5mg/ml Injection (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,53634,Droperidol capsules,res25: P13_antipsychotics,drug
+CPRD_product_code,42229,Droperidol oral liquid,res25: P13_antipsychotics,drug
+CPRD_product_code,1320,Risperidone 1mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,22609,Droperidol 5mg/ml injection,res25: P13_antipsychotics,drug
+CPRD_product_code,7390,Levomepromazine 6mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,58492,Chlorpromazine 100mg tablets (Waymade Healthcare Plc),res25: P13_antipsychotics,drug
+CPRD_product_code,14789,Risperdal Consta 37.5mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,53552,Quetiapine 25mg tablets (Zentiva),res25: P13_antipsychotics,drug
+CPRD_product_code,2540,Benperidol 250microgram tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,18197,Depixol Conc 50mg/0.5ml solution for injection ampoules (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,16489,Risperidone 50mg powder and solvent for suspension for injection vials,res25: P13_antipsychotics,drug
+CPRD_product_code,18175,Flupentixol 100mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,41702,Amisulpride 100mg tablets (Zentiva),res25: P13_antipsychotics,drug
+CPRD_product_code,2276,Flupentixol 40mg/2ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,18155,Flupentixol 50mg/0.5ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,8712,Flupentixol decanoate 100mg/ml Injection,res25: P13_antipsychotics,drug
+CPRD_product_code,14130,Depixol Low Volume 200mg/1ml solution for injection ampoules (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,9340,Risperdal 3mg tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,57034,Sondate XL 200mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,14889,Depixol Conc 100mg/1ml solution for injection ampoules (Lundbeck Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,14966,Flupentixol 20mg/1ml solution for injection ampoules,res25: P13_antipsychotics,drug
+CPRD_product_code,14767,Risperdal Consta 50mg powder and solvent for suspension for injection vials (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,58067,Quetiapine 125mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,57550,Largactil 25mg/5ml syrup (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,51178,Quetiapine 50mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,11828,Risperidone 2mg orodispersible tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,9659,Risperdal 2mg tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,56862,Chlorpromazine 25mg/5ml syrup (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,21027,Triperidol 1mg Tablet (Lagap),res25: P13_antipsychotics,drug
+CPRD_product_code,16986,Risperdal Quicklet 1mg orodispersible tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,1245,Trifluoperazine 5mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,8921,Integrin 10mg Capsule (Sanofi-Synthelabo Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,55011,Largactil 25mg tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,11821,Risperdal Quicklet 500microgram orodispersible tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,46960,Chlorpromazine 100mg tablets (IVAX Pharmaceuticals UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,16434,Risperidone 25mg powder and solvent for suspension for injection vials,res25: P13_antipsychotics,drug
+CPRD_product_code,57612,Seroquel XL 400mg tablets (Lexon (UK) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,7833,Neulactil 2.5mg Tablet (JHC Healthcare Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,40932,Quetiapine 100mg/5ml oral suspension,res25: P13_antipsychotics,drug
+CPRD_product_code,38089,Promazine 50mg/5ml syrup (Rosemont Pharmaceuticals Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,6109,Solian 400 tablets (Sanofi),res25: P13_antipsychotics,drug
+CPRD_product_code,11799,Risperdal 6mg tablets (Janssen-Cilag Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,16425,Risperidone 37.5mg powder and solvent for suspension for injection vials,res25: P13_antipsychotics,drug
+CPRD_product_code,47394,Olanzapine 15mg oral lyophilisates sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,2154,Chlorpromazine 100mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,55622,Olanzapine 10mg orodispersible tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,38010,Abilify 15mg orodispersible tablets (Otsuka Pharmaceuticals (U.K.) Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,59143,Olanzapine 2.5mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,57616,Olanzapine 20mg tablets (Teva UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,55667,Olanzapine 15mg tablets (Actavis UK Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,53556,Olanzapine 10mg oral lyophilisates sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,40782,Levomepromazine 6mg Tablet,res25: P13_antipsychotics,drug
+CPRD_product_code,47152,Olanzapine 15mg orodispersible tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,47098,Olanzapine 5mg orodispersible tablets sugar free,res25: P13_antipsychotics,drug
+CPRD_product_code,45953,Zyprexa 10mg powder for solution for injection vials (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,5653,Olanzapine 7.5mg tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,47083,Olanzapine 20mg orodispersible tablets,res25: P13_antipsychotics,drug
+CPRD_product_code,13820,Zyprexa 10mg tablets (Eli Lilly and Company Ltd),res25: P13_antipsychotics,drug
+CPRD_product_code,62387,Lurasidone 37mg tablets,res25: P13_antipsychotics,drug

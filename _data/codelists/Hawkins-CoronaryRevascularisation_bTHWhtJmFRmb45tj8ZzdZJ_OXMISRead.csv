@@ -1,0 +1,125 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,7920,Saphenous vein graft replacement of coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7920000,Saphenous vein graft replacement of one coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7920100,Saphenous vein graft replacement of two coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7920.11,Saphenous vein graft bypass of coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7920200,Saphenous vein graft replacement of three coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7920300,Saphenous vein graft replacement of four+ coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7921,Other autograft replacement of coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7921000,Autograft replacement of one coronary artery NEC,res15: Coronary revascularisation,diagnostic
+OXMIS,7921100,Autograft replacement of two coronary arteries NEC,res15: Coronary revascularisation,diagnostic
+OXMIS,7921.11,Other autograft bypass of coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7921200,Autograft replacement of three coronary arteries NEC,res15: Coronary revascularisation,diagnostic
+OXMIS,7921300,Autograft replacement of four of more coronary arteries NEC,res15: Coronary revascularisation,diagnostic
+OXMIS,7922,Allograft replacement of coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7922000,Allograft replacement of one coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7922100,Allograft replacement of two coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7922.11,Allograft bypass of coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7922200,Allograft replacement of three coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7922300,Allograft replacement of four or more coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7923,Prosthetic replacement of coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7923000,Prosthetic replacement of one coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7923100,Prosthetic replacement of two coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7923.11,Prosthetic bypass of coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7923200,Prosthetic replacement of three coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7923300,Prosthetic replacement of four or more coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7924,Revision of bypass for coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7924000,Revision of bypass for one coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7924100,Revision of bypass for two coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7924200,Revision of bypass for three coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7924300,Revision of bypass for four or more coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7924400,Revision of connection of thoracic artery to coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7924500,Revision of implantation of thoracic artery into heart,res15: Coronary revascularisation,diagnostic
+OXMIS,7925,Connection of mammary artery to coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7925000,Double anastomosis of mammary arteries to coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7925011,LIMA sequential anastomosis,res15: Coronary revascularisation,diagnostic
+OXMIS,7925012,RIMA sequential anastomosis,res15: Coronary revascularisation,diagnostic
+OXMIS,7925100,Double implant of mammary arteries into coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7925.11,Creation of bypass from mammary artery to coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7925200,Single anast mammary art to left ant descend coronary art,res15: Coronary revascularisation,diagnostic
+OXMIS,7925300,Single anastomosis of mammary artery to coronary artery NEC,res15: Coronary revascularisation,diagnostic
+OXMIS,7925311,LIMA single anastomosis,res15: Coronary revascularisation,diagnostic
+OXMIS,7925312,RIMA single anastomosis,res15: Coronary revascularisation,diagnostic
+OXMIS,7925400,Single implantation of mammary artery into coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7926,Connection of other thoracic artery to coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7926000,Double anastom thoracic arteries to coronary arteries NEC,res15: Coronary revascularisation,diagnostic
+OXMIS,7926100,Double implant thoracic arteries into coronary arteries NEC,res15: Coronary revascularisation,diagnostic
+OXMIS,7926200,Single anastomosis of thoracic artery to coronary artery NEC,res15: Coronary revascularisation,diagnostic
+OXMIS,7926300,Single implantation thoracic artery into coronary artery NEC,res15: Coronary revascularisation,diagnostic
+OXMIS,7927,Other open operations on coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7927300,Transposition of coronary artery NEC,res15: Coronary revascularisation,diagnostic
+OXMIS,7927400,Exploration of coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7927500,Open angioplasty of coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7928,Transluminal balloon angioplasty of coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7928000,Percut transluminal balloon angioplasty one coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7928100,Percut translum balloon angioplasty mult coronary arteries,res15: Coronary revascularisation,diagnostic
+OXMIS,7928.11,Percutaneous balloon coronary angioplasty,res15: Coronary revascularisation,diagnostic
+OXMIS,7928200,Percut translum balloon angioplasty bypass graft coronary a,res15: Coronary revascularisation,diagnostic
+OXMIS,7928300,Percut translum cutting balloon angioplasty coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7929,Other therapeutic transluminal operations on coronary artery,res15: Coronary revascularisation,diagnostic
+OXMIS,7929000,Percutaneous transluminal laser coronary angioplasty,res15: Coronary revascularisation,diagnostic
+OXMIS,7929100,Percut transluminal coronary thrombolysis with streptokinase,res15: Coronary revascularisation,diagnostic
+OXMIS,7929111,Percut translum coronary thrombolytic therapy- streptokinase,res15: Coronary revascularisation,diagnostic
+OXMIS,7929200,Percut translum inject therap subst to coronary artery NEC,res15: Coronary revascularisation,diagnostic
+OXMIS,7929300,Rotary blade coronary angioplasty,res15: Coronary revascularisation,diagnostic
+OXMIS,7929400,Insertion of coronary artery stent,res15: Coronary revascularisation,diagnostic
+OXMIS,7929500,Insertion of drug-eluting coronary artery stent,res15: Coronary revascularisation,diagnostic
+OXMIS,7929600,Percutaneous transluminal atherectomy of coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792..00,Coronary artery operations,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7920y00,Saphenous vein graft replacement of coronary artery OS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7920z00,Saphenous vein graft replacement coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792..11,Coronary artery bypass graft operations,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7921y00,Other autograft replacement of coronary artery OS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7921z00,Other autograft replacement of coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7922y00,Other specified allograft replacement of coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7922z00,Allograft replacement of coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7923y00,Other specified prosthetic replacement of coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7923z00,Prosthetic replacement of coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7924y00,Other specified revision of bypass for coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7924z00,Revision of bypass for coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7925y00,Connection of mammary artery to coronary artery OS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7925z00,Connection of mammary artery to coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7926y00,Connection of other thoracic artery to coronary artery OS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7926z00,Connection of other thoracic artery to coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7927y00,Other specified other open operation on coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7927z00,Other open operation on coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7928y00,Transluminal balloon angioplasty of coronary artery OS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7928z00,Transluminal balloon angioplasty of coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7929y00,Other therapeutic transluminal op on coronary artery OS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7929z00,Other therapeutic transluminal op on coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792A.00,Diagnostic transluminal operations on coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792Ay00,Diagnostic transluminal operation on coronary artery OS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792Az00,Diagnostic transluminal operation on coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792B.00,Repair of coronary artery NEC,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792B000,Endarterectomy of coronary artery NEC,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792By00,Other specified repair of coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792Bz00,Repair of coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792C.00,Other replacement of coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792C000,Replacement of coronary arteries using multiple methods,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792Cy00,Other specified replacement of coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792Cz00,Replacement of coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792D.00,Other bypass of coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792Dy00,Other specified other bypass of coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792Dz00,Other bypass of coronary artery NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792y.00,Other specified operations on coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,792z.00,Coronary artery operations NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,793G.00,Perc translumin balloon angioplasty stenting coronary artery,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,793G000,Perc translum ball angio insert 1-2 drug elut stents cor art,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,793G100,Perc tran ball angio ins 3 or more drug elut stents cor art,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,793G200,Perc translum balloon angioplasty insert 1-2 stents cor art,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,793G300,Percutaneous cor balloon angiop 3 more stents cor art NEC,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,793Gz00,Perc translum balloon angioplasty stenting coronary art NOS,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,793H000,Percutaneous transluminal balloon dilation cardiac conduit,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7A54500,Rotary blade angioplasty,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7A6G100,Peroperative angioplasty,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7A6H300,Prosthetic graft patch angioplasty,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,7A6H400,Percutaneous transluminal angioplasty of vascular graft,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,K3043,Bypass graft aortocoronary,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,K3043C,Coronary artery bypass,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,K3043T,Coronary artery bypass grafts triple,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,K306 A,Coronary angioplasty,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,ZV45700,[V]Presence of aortocoronary bypass graft,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,ZV45800,[V]Presence of coronary angioplasty implant and graft,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,ZV45K00,[V]Presence of coronary artery bypass graft,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,ZV45K11,[V]Presence of coronary artery bypass graft - CABG,res15: Coronary revascularisation,diagnostic
+Read/OXMIS,ZV45L00,[V]Status following coronary angioplasty NOS,res15: Coronary revascularisation,diagnostic

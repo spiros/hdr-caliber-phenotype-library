@@ -1,0 +1,112 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E115200,"Bipolar affective disorder, currently depressed, moderate",res36: Bipolar disorder,diagnostic
+Read,6657.12,Started lithium,res36: Bipolar disorder,diagnostic
+Read,6657.11,Lithium monitoring,res36: Bipolar disorder,diagnostic
+Read,6657.00,On lithium,res36: Bipolar disorder,diagnostic
+Read,1S42.00,Manic mood,res36: Bipolar disorder,diagnostic
+Read,146D.00,H/O: manic depressive disorder,res36: Bipolar disorder,diagnostic
+Read,E110200,"Single manic episode, moderate",res36: Bipolar disorder,diagnostic
+Read,E111500,"Recurrent manic episodes, partial or unspecified remission",res36: Bipolar disorder,diagnostic
+Read,E11..13,Manic psychoses,res36: Bipolar disorder,diagnostic
+Read,E115100,"Bipolar affective disorder, currently depressed, mild",res36: Bipolar disorder,diagnostic
+Read,E11..11,Bipolar psychoses,res36: Bipolar disorder,diagnostic
+Read,E11..00,Affective psychoses,res36: Bipolar disorder,diagnostic
+Read,E110100,"Single manic episode, mild",res36: Bipolar disorder,diagnostic
+Read,E110.00,"Manic disorder, single episode",res36: Bipolar disorder,diagnostic
+Read,E110000,"Single manic episode, unspecified",res36: Bipolar disorder,diagnostic
+Read,E110.11,Hypomanic psychoses,res36: Bipolar disorder,diagnostic
+Read,E111400,"Recurrent manic episodes, severe, with psychosis",res36: Bipolar disorder,diagnostic
+Read,E111.00,Recurrent manic episodes,res36: Bipolar disorder,diagnostic
+Read,E110400,"Single manic episode, severe, with psychosis",res36: Bipolar disorder,diagnostic
+Read,E110300,"Single manic episode, severe without mention of psychosis",res36: Bipolar disorder,diagnostic
+Read,E110z00,"Manic disorder, single episode NOS",res36: Bipolar disorder,diagnostic
+Read,E110600,Single manic episode in full remission,res36: Bipolar disorder,diagnostic
+Read,E111300,"Recurrent manic episodes, severe without mention psychosis",res36: Bipolar disorder,diagnostic
+Read,E111200,"Recurrent manic episodes, moderate",res36: Bipolar disorder,diagnostic
+Read,E111100,"Recurrent manic episodes, mild",res36: Bipolar disorder,diagnostic
+Read,E111000,"Recurrent manic episodes, unspecified",res36: Bipolar disorder,diagnostic
+Read,E115000,"Bipolar affective disorder, currently depressed, unspecified",res36: Bipolar disorder,diagnostic
+Read,E114000,"Bipolar affective disorder, currently manic, unspecified",res36: Bipolar disorder,diagnostic
+Read,E111600,"Recurrent manic episodes, in full remission",res36: Bipolar disorder,diagnostic
+Read,Eu34000,[X]Cyclothymia,res36: Bipolar disorder,diagnostic
+Read,E114.11,Manic-depressive - now manic,res36: Bipolar disorder,diagnostic
+Read,E111z00,Recurrent manic episode NOS,res36: Bipolar disorder,diagnostic
+Read,E114.00,"Bipolar affective disorder, currently manic",res36: Bipolar disorder,diagnostic
+Read,E115.11,Manic-depressive - now depressed,res36: Bipolar disorder,diagnostic
+Read,E114300,"Bipolar affect disord, currently manic, severe, no psychosis",res36: Bipolar disorder,diagnostic
+Read,E114100,"Bipolar affective disorder, currently manic, mild",res36: Bipolar disorder,diagnostic
+Read,E114200,"Bipolar affective disorder, currently manic, moderate",res36: Bipolar disorder,diagnostic
+Read,E114600,"Bipolar affective disorder, currently manic, full remission",res36: Bipolar disorder,diagnostic
+Read,E114400,"Bipolar affect disord, currently manic,severe with psychosis",res36: Bipolar disorder,diagnostic
+Read,E115.00,"Bipolar affective disorder, currently depressed",res36: Bipolar disorder,diagnostic
+Read,E114500,"Bipolar affect disord,currently manic, part/unspec remission",res36: Bipolar disorder,diagnostic
+Read,E114z00,"Bipolar affective disorder, currently manic, NOS",res36: Bipolar disorder,diagnostic
+Read,E115300,"Bipolar affect disord, now depressed, severe, no psychosis",res36: Bipolar disorder,diagnostic
+Read,E115400,"Bipolar affect disord, now depressed, severe with psychosis",res36: Bipolar disorder,diagnostic
+Read,E116000,"Mixed bipolar affective disorder, unspecified",res36: Bipolar disorder,diagnostic
+Read,E117500,"Unspecified bipolar affect disord, partial/unspec remission",res36: Bipolar disorder,diagnostic
+Read,E116.00,Mixed bipolar affective disorder,res36: Bipolar disorder,diagnostic
+Read,E115z00,"Bipolar affective disorder, currently depressed, NOS",res36: Bipolar disorder,diagnostic
+Read,E115500,"Bipolar affect disord, now depressed, part/unspec remission",res36: Bipolar disorder,diagnostic
+Read,E115600,"Bipolar affective disorder, now depressed, in full remission",res36: Bipolar disorder,diagnostic
+Read,E116500,"Mixed bipolar affective disorder, partial/unspec remission",res36: Bipolar disorder,diagnostic
+Read,E116200,"Mixed bipolar affective disorder, moderate",res36: Bipolar disorder,diagnostic
+Read,E117400,"Unspecified bipolar affective disorder,severe with psychosis",res36: Bipolar disorder,diagnostic
+Read,E116100,"Mixed bipolar affective disorder, mild",res36: Bipolar disorder,diagnostic
+Read,E116400,"Mixed bipolar affective disorder, severe, with psychosis",res36: Bipolar disorder,diagnostic
+Read,E116300,"Mixed bipolar affective disorder, severe, without psychosis",res36: Bipolar disorder,diagnostic
+Read,E117.00,Unspecified bipolar affective disorder,res36: Bipolar disorder,diagnostic
+Read,E116z00,"Mixed bipolar affective disorder, NOS",res36: Bipolar disorder,diagnostic
+Read,E116600,"Mixed bipolar affective disorder, in full remission",res36: Bipolar disorder,diagnostic
+Read,E117000,"Unspecified bipolar affective disorder, unspecified",res36: Bipolar disorder,diagnostic
+Read,E117300,"Unspecified bipolar affective disorder, severe, no psychosis",res36: Bipolar disorder,diagnostic
+Read,E117200,"Unspecified bipolar affective disorder, moderate",res36: Bipolar disorder,diagnostic
+Read,E117100,"Unspecified bipolar affective disorder, mild",res36: Bipolar disorder,diagnostic
+Read,E11y000,Unspecified manic-depressive psychoses,res36: Bipolar disorder,diagnostic
+Read,E117600,"Unspecified bipolar affective disorder, in full remission",res36: Bipolar disorder,diagnostic
+Read,Eu30.00,[X]Manic episode,res36: Bipolar disorder,diagnostic
+Read,E117z00,"Unspecified bipolar affective disorder, NOS",res36: Bipolar disorder,diagnostic
+Read,E11y.00,Other and unspecified manic-depressive psychoses,res36: Bipolar disorder,diagnostic
+Read,E11y300,Other mixed manic-depressive psychoses,res36: Bipolar disorder,diagnostic
+Read,Eu3..00,[X]Mood - affective disorders,res36: Bipolar disorder,diagnostic
+Read,E11y100,Atypical manic disorder,res36: Bipolar disorder,diagnostic
+Read,Eu31.00,[X]Bipolar affective disorder,res36: Bipolar disorder,diagnostic
+Read,E11yz00,Other and unspecified manic-depressive psychoses NOS,res36: Bipolar disorder,diagnostic
+Read,Eu30z11,[X]Mania NOS,res36: Bipolar disorder,diagnostic
+Read,Eu30100,[X]Mania without psychotic symptoms,res36: Bipolar disorder,diagnostic
+Read,Eu30.11,"[X]Bipolar disorder, single manic episode",res36: Bipolar disorder,diagnostic
+Read,Eu30000,[X]Hypomania,res36: Bipolar disorder,diagnostic
+Read,Eu30z00,"[X]Manic episode, unspecified",res36: Bipolar disorder,diagnostic
+Read,Eu30200,[X]Mania with psychotic symptoms,res36: Bipolar disorder,diagnostic
+Read,Eu30y00,[X]Other manic episodes,res36: Bipolar disorder,diagnostic
+Read,Eu30212,[X]Mania with mood-incongruent psychotic symptoms,res36: Bipolar disorder,diagnostic
+Read,Eu30211,[X]Mania with mood-congruent psychotic symptoms,res36: Bipolar disorder,diagnostic
+Read,Eu33312,"[X]Manic-depress psychosis,depressed type+psychotic symptoms",res36: Bipolar disorder,diagnostic
+Read,Eu31.13,[X]Manic-depressive reaction,res36: Bipolar disorder,diagnostic
+Read,Eu34.00,[X]Persistent mood affective disorders,res36: Bipolar disorder,diagnostic
+Read,Eu31.12,[X]Manic-depressive psychosis,res36: Bipolar disorder,diagnostic
+Read,Eu31.11,[X]Manic-depressive illness,res36: Bipolar disorder,diagnostic
+Read,Eu31400,"[X]Bipol aff disord, curr epis sev depress, no psychot symp",res36: Bipolar disorder,diagnostic
+Read,Eu31300,[X]Bipolar affect disorder cur epi mild or moderate depressn,res36: Bipolar disorder,diagnostic
+Read,Eu31200,[X]Bipolar affect disorder cur epi manic with psychotic symp,res36: Bipolar disorder,diagnostic
+Read,Eu31100,[X]Bipolar affect disorder cur epi manic wout psychotic symp,res36: Bipolar disorder,diagnostic
+Read,Eu31000,"[X]Bipolar affective disorder, current episode hypomanic",res36: Bipolar disorder,diagnostic
+Read,Eu31y00,[X]Other bipolar affective disorders,res36: Bipolar disorder,diagnostic
+Read,Eu31500,[X]Bipolar affect dis cur epi severe depres with psyc symp,res36: Bipolar disorder,diagnostic
+Read,Eu31600,"[X]Bipolar affective disorder, current episode mixed",res36: Bipolar disorder,diagnostic
+Read,Eu31700,"[X]Bipolar affective disorder, currently in remission",res36: Bipolar disorder,diagnostic
+Read,Eu33213,"[X]Manic-depress psychosis,depressd,no psychotic symptoms",res36: Bipolar disorder,diagnostic
+Read,Eu31z00,"[X]Bipolar affective disorder, unspecified",res36: Bipolar disorder,diagnostic
+Read,Eu31y11,[X]Bipolar II disorder,res36: Bipolar disorder,diagnostic
+Read,Eu31y12,[X]Recurrent manic episodes,res36: Bipolar disorder,diagnostic
+Read,Eu3y011,[X]Mixed affective episode,res36: Bipolar disorder,diagnostic
+Read,Eu3y000,[X]Other single mood affective disorders,res36: Bipolar disorder,diagnostic
+Read,Eu34y00,[X]Other persistent mood affective disorders,res36: Bipolar disorder,diagnostic
+Read,Eu3y.00,[X]Other mood affective disorders,res36: Bipolar disorder,diagnostic
+Read,Eu34z00,"[X]Persistent mood affective disorder, unspecified",res36: Bipolar disorder,diagnostic
+Read,Eu3yy00,[X]Other specified mood affective disorders,res36: Bipolar disorder,diagnostic
+Read,ZV11112,[V]Personal history of manic-depressive psychosis,res36: Bipolar disorder,diagnostic
+Read,Eu3y100,[X]Other recurrent mood affective disorders,res36: Bipolar disorder,diagnostic
+Read,Eu3z.00,[X]Unspecified mood affective disorder,res36: Bipolar disorder,diagnostic
+Read,ZV11111,[V]Personal history of manic-depressive psychosis,res36: Bipolar disorder,diagnostic
+Read,Eu3z.11,[X]Affective psychosis NOS,res36: Bipolar disorder,diagnostic

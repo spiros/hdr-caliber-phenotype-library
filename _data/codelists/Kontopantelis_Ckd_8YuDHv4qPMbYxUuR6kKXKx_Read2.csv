@@ -1,0 +1,75 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,K050.00,End stage renal failure,res21: CKD,diagnostic
+Read,K023.00,Chronic rapidly progressive glomerulonephritis,res21: CKD,diagnostic
+Read,K01w.00,Congenital nephrotic syndrome,res21: CKD,diagnostic
+Read,K02yz00,Other chronic glomerulonephritis NOS,res21: CKD,diagnostic
+Read,K022.00,Chronic membranoproliferative glomerulonephritis,res21: CKD,diagnostic
+Read,K02y000,Chronic glomerulonephritis + diseases EC,res21: CKD,diagnostic
+Read,K100000,Chronic pyelonephritis without medullary necrosis,res21: CKD,diagnostic
+Read,1Z15.00,Chronic kidney disease stage 3A,res21: CKD,diagnostic
+Read,1Z1K.00,Chronic kidney disease stage 5 with proteinuria,res21: CKD,diagnostic
+Read,K01x200,Nephrotic syndrome in malaria,res21: CKD,diagnostic
+Read,K02y300,Chronic diffuse glomerulonephritis,res21: CKD,diagnostic
+Read,1Z1B.00,Chronic kidney disease stage 3 with proteinuria,res21: CKD,diagnostic
+Read,K01y.00,Nephrotic syndrome with other pathological kidney lesions,res21: CKD,diagnostic
+Read,K01w000,Finnish nephrosis syndrome,res21: CKD,diagnostic
+Read,1Z1D.00,Chronic kidney disease stage 3A with proteinuria,res21: CKD,diagnostic
+Read,1Z1H.00,Chronic kidney disease stage 4 with proteinuria,res21: CKD,diagnostic
+Read,1Z1G.00,Chronic kidney disease stage 3B without proteinuria,res21: CKD,diagnostic
+Read,1Z1E.00,Chronic kidney disease stage 3A without proteinuria,res21: CKD,diagnostic
+Read,1Z1C.00,Chronic kidney disease stage 3 without proteinuria,res21: CKD,diagnostic
+Read,1Z1F.00,Chronic kidney disease stage 3B with proteinuria,res21: CKD,diagnostic
+Read,1Z1J.00,Chronic kidney disease stage 4 without proteinuria,res21: CKD,diagnostic
+Read,1Z1L.00,Chronic kidney disease stage 5 without proteinuria,res21: CKD,diagnostic
+Read,1Z16.00,Chronic kidney disease stage 3B,res21: CKD,diagnostic
+Read,K012.00,Nephrotic syndrome+membranoproliferative glomerulonephritis,res21: CKD,diagnostic
+Read,K02y.00,Other chronic glomerulonephritis,res21: CKD,diagnostic
+Read,1Z13.00,Chronic kidney disease stage 4,res21: CKD,diagnostic
+Read,K0D..00,End-stage renal disease,res21: CKD,diagnostic
+Read,K02..12,Nephropathy - chronic,res21: CKD,diagnostic
+Read,K01x100,Nephrotic syndrome in diabetes mellitus,res21: CKD,diagnostic
+Read,K02..00,Chronic glomerulonephritis,res21: CKD,diagnostic
+Read,K05..00,Chronic renal failure,res21: CKD,diagnostic
+Read,K011.00,Nephrotic syndrome with membranous glomerulonephritis,res21: CKD,diagnostic
+Read,K01..00,Nephrotic syndrome,res21: CKD,diagnostic
+Read,K100600,Calculous pyelonephritis,res21: CKD,diagnostic
+Read,ZV42000,[V]Kidney transplanted,res21: CKD,diagnostic
+Read,K100.00,Chronic pyelonephritis,res21: CKD,diagnostic
+Read,K02y200,Chronic focal glomerulonephritis,res21: CKD,diagnostic
+Read,K010.00,Nephrotic syndrome with proliferative glomerulonephritis,res21: CKD,diagnostic
+Read,SP08300,Kidney transplant failure and rejection,res21: CKD,diagnostic
+Read,K021.00,Chronic membranous glomerulonephritis,res21: CKD,diagnostic
+Read,K02..11,Nephritis - chronic,res21: CKD,diagnostic
+Read,K05..11,Chronic uraemia,res21: CKD,diagnostic
+Read,K01x000,Nephrotic syndrome in amyloidosis,res21: CKD,diagnostic
+Read,K01x300,Nephrotic syndrome in polyarteritis nodosa,res21: CKD,diagnostic
+Read,K016.00,"Nephrotic syndrome, diffuse membranous glomerulonephritis",res21: CKD,diagnostic
+Read,1Z12.00,Chronic kidney disease stage 3,res21: CKD,diagnostic
+Read,K01x400,Nephrotic syndrome in systemic lupus erythematosus,res21: CKD,diagnostic
+Read,1Z14.00,Chronic kidney disease stage 5,res21: CKD,diagnostic
+Read,TB00111,"Renal transplant with complication, without blame",res21: CKD,diagnostic
+Read,K02z.00,Chronic glomerulonephritis NOS,res21: CKD,diagnostic
+Read,K01B.00,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",res21: CKD,diagnostic
+Read,8L50.00,Renal transplant planned,res21: CKD,diagnostic
+Read,K01z.00,Nephrotic syndrome NOS,res21: CKD,diagnostic
+Read,K019.00,"Nephrotic syn,diffuse mesangiocapillary glomerulonephritis",res21: CKD,diagnostic
+Read,K01x111,Kimmelstiel - Wilson disease,res21: CKD,diagnostic
+Read,K017.00,Nephrotic syn difus mesangial prolifertiv glomerulonephritis,res21: CKD,diagnostic
+Read,K100200,Chronic pyelitis,res21: CKD,diagnostic
+Read,K01x411,Lupus nephritis,res21: CKD,diagnostic
+Read,7B06300,Exploration of renal transplant,res21: CKD,diagnostic
+Read,K015.00,"Nephrotic syndrome, focal and segmental glomerular lesions",res21: CKD,diagnostic
+Read,K100300,Chronic pyonephrosis,res21: CKD,diagnostic
+Read,K014.00,"Nephrotic syndrome, minor glomerular abnormality",res21: CKD,diagnostic
+Read,K013.11,Lipoid nephrosis,res21: CKD,diagnostic
+Read,K100400,Nonobstructive reflux-associated chronic pyelonephritis,res21: CKD,diagnostic
+Read,K020.00,Chronic proliferative glomerulonephritis,res21: CKD,diagnostic
+Read,K013.00,Nephrotic syndrome with minimal change glomerulonephritis,res21: CKD,diagnostic
+Read,K100500,Chronic obstructive pyelonephritis,res21: CKD,diagnostic
+Read,K100z00,Chronic pyelonephritis NOS,res21: CKD,diagnostic
+Read,TB00100,"Kidney transplant with complication, without blame",res21: CKD,diagnostic
+Read,K01A.00,"Nephrotic syndrome, dense deposit disease",res21: CKD,diagnostic
+Read,K018.00,"Nephrotic syn,difus endocapilary proliftv glomerulonephritis",res21: CKD,diagnostic
+Read,K05..12,End stage renal failure,res21: CKD,diagnostic
+Read,K013.12,Steroid sensitive nephrotic syndrome,res21: CKD,diagnostic
+Read,K100100,Chronic pyelonephritis with medullary necrosis,res21: CKD,diagnostic

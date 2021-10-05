@@ -1,0 +1,2254 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,BBc4.00,[M]Neuroepithelioma NOS,res50: cancer,diagnostic
+Read,BBcA.00,[M]Olfactory neurogenic tumour,res50: cancer,diagnostic
+Read,BBcD.11,[M]Olfactory neuroepithelioma,res50: cancer,diagnostic
+Read,BBcz.00,[M]Neuroepitheliomatous neoplasm NOS,res50: cancer,diagnostic
+Read,BBd2.11,[M]Leptomeningeal sarcoma,res50: cancer,diagnostic
+Read,BBd2.12,[M]Meningothelial sarcoma,res50: cancer,diagnostic
+Read,BBdB.00,[M]Meningeal sarcomatosis,res50: cancer,diagnostic
+Read,BBe..00,[M]Nerve sheath tumour,res50: cancer,diagnostic
+Read,BBe2.00,[M]Neurofibrosarcoma,res50: cancer,diagnostic
+Read,BBe9.00,"[M]Triton tumour, malignant",res50: cancer,diagnostic
+Read,BBez.00,[M]Nerve sheath tumour NOS,res50: cancer,diagnostic
+Read,BBf..00,[M]Granular cell tumours and alveolar soft part sarcoma,res50: cancer,diagnostic
+Read,BBc8.00,[M]Pacinian tumour,res50: cancer,diagnostic
+Read,BBf2.00,[M]Alveolar soft part sarcoma,res50: cancer,diagnostic
+Read,BBg..00,"[M]Lymphomas, NOS or diffuse",res50: cancer,diagnostic
+Read,BBg0.00,"[M]Lymphomatous tumour, benign",res50: cancer,diagnostic
+Read,BBg1.00,[M]Malignant lymphoma NOS,res50: cancer,diagnostic
+Read,BBg1.11,[M]Lymphoma NOS,res50: cancer,diagnostic
+Read,BBg1000,"[M]Malignant lymphoma, diffuse NOS",res50: cancer,diagnostic
+Read,BBg2.00,"[M]Malignant lymphoma, non Hodgkin's type",res50: cancer,diagnostic
+Read,BBg2.11,[M]Non Hodgkins lymphoma,res50: cancer,diagnostic
+Read,BBg3.00,"[M]Malignant lymphoma, undifferentiated cell type NOS",res50: cancer,diagnostic
+Read,BBf0.00,[M]Granular cell tumour NOS,res50: cancer,diagnostic
+Read,BBg5.00,"[M]Malignant lymphoma, convoluted cell type NOS",res50: cancer,diagnostic
+Read,BBg6.00,[M]Lymphosarcoma NOS,res50: cancer,diagnostic
+Read,BBg7.00,"[M]Malignant lymphoma, lymphoplasmacytoid type",res50: cancer,diagnostic
+Read,BBg8.00,"[M]Malignant lymphoma, immunoblastic type",res50: cancer,diagnostic
+Read,BBgA.00,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse",res50: cancer,diagnostic
+Read,BBg4.00,"[M]Malignant lymphoma, stem cell type",res50: cancer,diagnostic
+Read,BBgC.00,"[M]Malignant lymphoma, lymphocytic, well differentiated NOS",res50: cancer,diagnostic
+Read,BBgB.00,"[M]Malignant lymphoma, follicular centre cell NOS",res50: cancer,diagnostic
+Read,BBgC.12,[M]Lymphocytic lymphosarcoma NOS,res50: cancer,diagnostic
+Read,BBgD.00,"[M]Malig lymphoma, lymphocytic, intermediate different NOS",res50: cancer,diagnostic
+Read,BBgC.11,[M]Lymphocytic lymphoma NOS,res50: cancer,diagnostic
+Read,BBgG.00,"[M]Malignant lymphoma, lymphocytic, poorly different NOS",res50: cancer,diagnostic
+Read,BBgE.00,"[M]Malignant lymphoma, centrocytic",res50: cancer,diagnostic
+Read,BBgG.12,[M]Lymphoblastic lymphoma NOS,res50: cancer,diagnostic
+Read,BBgH.00,[M]Prolymphocytic lymphosarcoma,res50: cancer,diagnostic
+Read,BBgJ.00,"[M]Malignant lymphoma, centroblastic type NOS",res50: cancer,diagnostic
+Read,BBgJ.11,[M]Germinoblastic sarcoma NOS,res50: cancer,diagnostic
+Read,BBgK.00,"[M]Malig lymphoma, follicular centre cell, non-cleaved NOS",res50: cancer,diagnostic
+Read,BBgG.11,[M]Lymphoblastic lymphosarcoma NOS,res50: cancer,diagnostic
+Read,BBgM.00,"[M]Malignant lymphoma, small cleaved cell, diffuse",res50: cancer,diagnostic
+Read,BBgN.00,"[M]Malign lymphoma,lymphocytic,intermediate differn, diffuse",res50: cancer,diagnostic
+Read,BBgL.00,"[M]Malignant lymphoma, small lymphocytic NOS",res50: cancer,diagnostic
+Read,BBgP.00,"[M]Malignant lymphoma, mixed small and large cell, diffuse",res50: cancer,diagnostic
+Read,BBgQ.00,[M]Malignant lymphomatous polyposis,res50: cancer,diagnostic
+Read,BBgS.00,"[M]Malignant lymphoma, large cell, cleaved, diffuse",res50: cancer,diagnostic
+Read,BBgR.00,"[M]Malignant lymphoma, large cell, diffuse NOS",res50: cancer,diagnostic
+Read,BBgT.00,"[M]Malignant lymphoma, large cell, noncleaved, diffuse",res50: cancer,diagnostic
+Read,BBgV.00,"[M]Malignant lymphoma, small cell, noncleaved, diffuse",res50: cancer,diagnostic
+Read,BBgz.00,"[M]Lymphoma, diffuse or NOS",res50: cancer,diagnostic
+Read,BBh0.00,[M]Reticulosarcoma NOS,res50: cancer,diagnostic
+Read,BBh0.11,[M]Reticulum cell sarcoma NOS,res50: cancer,diagnostic
+Read,BBh2.00,"[M]Reticulosarcoma, nodular",res50: cancer,diagnostic
+Read,BBj..00,[M]Hodgkin's disease,res50: cancer,diagnostic
+Read,BBj0.00,[M]Hodgkin's disease NOS,res50: cancer,diagnostic
+Read,BBj1.00,"[M]Hodgkin's disease, lymphocytic predominance",res50: cancer,diagnostic
+Read,BBj2.00,"[M]Hodgkin's disease, mixed cellularity",res50: cancer,diagnostic
+Read,BBj4.00,"[M]Hodgkin's disease,lymphocytic depletion,diffuse fibrosis",res50: cancer,diagnostic
+Read,BBh..00,[M]Reticulosarcomas,res50: cancer,diagnostic
+Read,BBj7.00,"[M]Hodgkin's disease, nodular sclerosis, cellular phase",res50: cancer,diagnostic
+Read,BBj6.00,"[M]Hodgkin's disease, nodular sclerosis NOS",res50: cancer,diagnostic
+Read,BBjz.00,[M]Hodgkin's disease NOS,res50: cancer,diagnostic
+Read,BBk..00,"[M]Lymphomas, nodular or follicular",res50: cancer,diagnostic
+Read,BBk0.00,"[M]Malignant lymphoma, nodular NOS",res50: cancer,diagnostic
+Read,BBk0.12,[M]Follicular lymphosarcoma NOS,res50: cancer,diagnostic
+Read,BBk0.13,[M]Giant follicular lymphoma,res50: cancer,diagnostic
+Read,BBk2.00,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular",res50: cancer,diagnostic
+Read,BBj9.00,[M]Hodgkin's granuloma,res50: cancer,diagnostic
+Read,BBk3.00,"[M]Malig lymphoma, lymphocytic, well differentiated,nodular",res50: cancer,diagnostic
+Read,BBk7.00,"[M]Malignant lymphoma, centroblastic type, follicular",res50: cancer,diagnostic
+Read,BBkz.00,"[M]Lymphoma, nodular or follicular NOS",res50: cancer,diagnostic
+Read,BBl0.00,[M]Mycosis fungoides,res50: cancer,diagnostic
+Read,BBl1.00,[M]Sezary's disease,res50: cancer,diagnostic
+Read,BBlz.00,[M]Mycosis fungoides NOS,res50: cancer,diagnostic
+Read,BBm..00,[M]Miscellaneous reticuloendothelial neoplasms,res50: cancer,diagnostic
+Read,BBm1.00,[M]Malignant histiocytosis,res50: cancer,diagnostic
+Read,BBm1.11,[M]Malignant reticulosis,res50: cancer,diagnostic
+Read,BBm4.00,[M]True histiocytic lymphoma,res50: cancer,diagnostic
+Read,BBm5.00,[M] Peripheral T-cell lymphoma NOS,res50: cancer,diagnostic
+Read,BBm9.00,[M] Monocytoid B-cell lymphoma,res50: cancer,diagnostic
+Read,BBmD.00,[M] Cutaneous lymphoma,res50: cancer,diagnostic
+Read,BBmH.00,[M] Large cell lymphoma,res50: cancer,diagnostic
+Read,BBn..00,[M]Plasma cell tumours,res50: cancer,diagnostic
+Read,BBn0.00,[M]Plasma cell myeloma,res50: cancer,diagnostic
+Read,BBn0.11,[M]Multiple myeloma,res50: cancer,diagnostic
+Read,BBn0.13,[M]Myelomatosis,res50: cancer,diagnostic
+Read,BBn0.14,[M]Plasmacytic myeloma,res50: cancer,diagnostic
+Read,BBn1.00,"[M]Plasma cell tumour, benign",res50: cancer,diagnostic
+Read,BBn1.11,"[M]Plasmacytoma, benign",res50: cancer,diagnostic
+Read,BBn2.00,[M]Plasmacytoma NOS,res50: cancer,diagnostic
+Read,BBn2.11,[M]Monostotic myeloma,res50: cancer,diagnostic
+Read,BBn2.12,[M]Solitary myeloma,res50: cancer,diagnostic
+Read,BBn3.00,"[M]Plasma cell tumour, malignant",res50: cancer,diagnostic
+Read,BBnz.00,[M]Plasma cell tumour NOS,res50: cancer,diagnostic
+Read,BBp..00,[M]Mast cell tumours,res50: cancer,diagnostic
+Read,BBp1.00,[M]Mast cell sarcoma,res50: cancer,diagnostic
+Read,BBpz.00,[M]Mast cell tumour NOS,res50: cancer,diagnostic
+Read,BBr..00,[M]Leukaemias,res50: cancer,diagnostic
+Read,BBr0.00,[M]Leukaemias unspecified,res50: cancer,diagnostic
+Read,BBr0000,[M]Leukaemia NOS,res50: cancer,diagnostic
+Read,BBr0100,[M]Acute leukaemia NOS,res50: cancer,diagnostic
+Read,BBr0111,[M]Blast cell leukaemia,res50: cancer,diagnostic
+Read,BBr0112,[M]Blastic leukaemia,res50: cancer,diagnostic
+Read,BBr0113,[M]Stem cell leukaemia,res50: cancer,diagnostic
+Read,BBr0200,[M]Subacute leukaemia NOS,res50: cancer,diagnostic
+Read,BBr0300,[M]Chronic leukaemia NOS,res50: cancer,diagnostic
+Read,BBr0400,[M]Aleukaemic leukaemia NOS,res50: cancer,diagnostic
+Read,BBr0z00,"[M]Leukaemia unspecified, NOS",res50: cancer,diagnostic
+Read,BBr2.00,[M]Lymphoid leukaemias,res50: cancer,diagnostic
+Read,BBr2000,[M]Lymphoid leukaemia NOS,res50: cancer,diagnostic
+Read,BBr2011,[M]Lymphatic leukaemia,res50: cancer,diagnostic
+Read,BBr2100,[M]Acute lymphoid leukaemia,res50: cancer,diagnostic
+Read,BBr2300,[M]Chronic lymphoid leukaemia,res50: cancer,diagnostic
+Read,BBr2500,[M]Prolymphocytic leukaemia,res50: cancer,diagnostic
+Read,BBr2600,[M]Burkitt's cell leukaemia,res50: cancer,diagnostic
+Read,BBr2700,[M]Adult T-cell leukaemia/lymphoma,res50: cancer,diagnostic
+Read,BBr3.00,[M]Plasma cell leukaemias,res50: cancer,diagnostic
+Read,BBr4.00,[M]Erythroleukaemias,res50: cancer,diagnostic
+Read,BBr4000,[M]Erythroleukaemia,res50: cancer,diagnostic
+Read,BBr4z00,[M]Erythroleukaemia NOS,res50: cancer,diagnostic
+Read,BBr6.00,[M]Myeloid leukaemias,res50: cancer,diagnostic
+Read,BBr6000,[M]Myeloid leukaemia NOS,res50: cancer,diagnostic
+Read,BBr6011,[M]Granulocytic leukaemia NOS,res50: cancer,diagnostic
+Read,BBr6100,[M]Acute myeloid leukaemia,res50: cancer,diagnostic
+Read,BBr6200,[M]Subacute myeloid leukaemia,res50: cancer,diagnostic
+Read,BBr6300,[M]Chronic myeloid leukaemia,res50: cancer,diagnostic
+Read,BBr6311,[M]Naegeli-type monocytic leukaemia,res50: cancer,diagnostic
+Read,BBr6600,[M]Acute promyelocytic leukaemia,res50: cancer,diagnostic
+Read,BBr6700,[M]Acute myelomonocytic leukaemia,res50: cancer,diagnostic
+Read,BBr6800,[M]Chronic myelomonocytic leukaemia,res50: cancer,diagnostic
+Read,BBr6900,[M]Juvenile myelomonocytic leukaemia,res50: cancer,diagnostic
+Read,BBr6z00,[M]Other myeloid leukaemia NOS,res50: cancer,diagnostic
+Read,BBr7000,[M]Basophilic leukaemia,res50: cancer,diagnostic
+Read,BBr8.00,[M]Eosinophilic leukaemias,res50: cancer,diagnostic
+Read,BBr8000,[M]Eosinophilic leukaemia,res50: cancer,diagnostic
+Read,BBr8z00,[M]Eosinophilic leukaemia NOS,res50: cancer,diagnostic
+Read,BBr9000,[M]Monocytic leukaemia NOS,res50: cancer,diagnostic
+Read,BBrA.00,[M]Miscellaneous leukaemias,res50: cancer,diagnostic
+Read,BBrA100,[M]Megakaryocytic leukaemia,res50: cancer,diagnostic
+Read,BBrA111,[M]Thrombocytic leukaemia,res50: cancer,diagnostic
+Read,BBrA300,[M]Myeloid sarcoma,res50: cancer,diagnostic
+Read,BBrA311,[M]Chloroma,res50: cancer,diagnostic
+Read,BBrA312,[M]Granulocytic sarcoma,res50: cancer,diagnostic
+Read,BBrA400,[M]Hairy cell leukaemia,res50: cancer,diagnostic
+Read,BBrA500,[M]Acute megakaryoblastic leukaemia,res50: cancer,diagnostic
+Read,BBrA600,[M]Acute panmyelosis,res50: cancer,diagnostic
+Read,BBrA700,[M]Acute myelofibrosis,res50: cancer,diagnostic
+Read,BBrAz00,[M]Miscellaneous leukaemia NOS,res50: cancer,diagnostic
+Read,BBrz.00,[M]Leukaemia NOS,res50: cancer,diagnostic
+Read,BBs..00,[M]Misc myeloproliferative and lymphoproliferative disorders,res50: cancer,diagnostic
+Read,BBl..00,[M]Mycosis fungoides,res50: cancer,diagnostic
+Read,BBs2.00,[M]Chronic myeloproliferative disease,res50: cancer,diagnostic
+Read,BBsz.00,[M]Misc myeloproliferative or lymphoproliferative dis NOS,res50: cancer,diagnostic
+Read,BBs1.00,[M]Acute panmyelosis,res50: cancer,diagnostic
+Read,BBv2.00,[M]AngiocentricT-cell lymphoma,res50: cancer,diagnostic
+Read,BBy..00,[M]No microscopic confirmation of tumour,res50: cancer,diagnostic
+Read,BBy0.00,"[M]No microscopic confirmation of tumour, clinically benign",res50: cancer,diagnostic
+Read,BBv0.00,[M]Monocytoid B-cell lymphoma,res50: cancer,diagnostic
+Read,BBy2.00,"[M]No microscopic confirmation tumour, clinically metastatic",res50: cancer,diagnostic
+Read,BByz.00,"[M]No microscopic confirmation of tumour, clinically NOS",res50: cancer,diagnostic
+Read,BBz0.00,[M]Neuroendocrine neoplasm,res50: cancer,diagnostic
+Read,Byu..00,[X]Additional neoplasm classification terms,res50: cancer,diagnostic
+Read,Byu0.00,"[X]Malignant neoplasm of lip, oral cavity and pharynx",res50: cancer,diagnostic
+Read,By...00,Neoplasms otherwise specified,res50: cancer,diagnostic
+Read,Byu1100,[X]Other specified carcinomas of liver,res50: cancer,diagnostic
+Read,Byu1200,"[X]Malignant neoplasm of intestinal tract, part unspecified",res50: cancer,diagnostic
+Read,Byu1.00,[X]Malignant neoplasm of digestive organs,res50: cancer,diagnostic
+Read,Byu2.00,[X]Malignant neoplasm of respiratory and intrathoracic orga,res50: cancer,diagnostic
+Read,Byu2000,"[X]Malignant neoplasm of bronchus or lung, unspecified",res50: cancer,diagnostic
+Read,Byu2100,"[X]Malignant neoplasm/overlap lesion/heart,mediastinm+pleura",res50: cancer,diagnostic
+Read,Byu2400,[X]Malignant neoplasm/ill-defined sites within resp system,res50: cancer,diagnostic
+Read,Byu2500,"[X]Malignant neoplasm of mediastinum, part unspecified",res50: cancer,diagnostic
+Read,Byu3.00,[X]Malignant neoplasm of bone and articular cartilage,res50: cancer,diagnostic
+Read,Byu3100,"[X]Malignant neoplasm/bones+articular cartilage/limb,unspfd",res50: cancer,diagnostic
+Read,Byu3200,[X]Malignant neoplasm/overlap lesion/bone+articulr cartilage,res50: cancer,diagnostic
+Read,Byu3300,"[X]Malignant neoplasm/bone+articular cartilage, unspecified",res50: cancer,diagnostic
+Read,Byu4.00,[X]Melanoma and other malignant neoplasms of skin,res50: cancer,diagnostic
+Read,Byu4200,[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face,res50: cancer,diagnostic
+Read,Byu4300,"[X]Malignant neoplasm of skin, unspecified",res50: cancer,diagnostic
+Read,Byu5.00,[X]Malignant neoplasm of mesothelial and soft tissue,res50: cancer,diagnostic
+Read,Byu5000,[X]Mesothelioma of other sites,res50: cancer,diagnostic
+Read,Byu5100,"[X]Mesothelioma, unspecified",res50: cancer,diagnostic
+Read,Byu5300,"[X]Kaposi's sarcoma, unspecified",res50: cancer,diagnostic
+Read,BBZP.00,[M]Calcifying epithelial odontogenic tumour,res50: cancer,diagnostic
+Read,Byu5400,"[X]Malignant neoplasm/peripheral nerves of trunk,unspecified",res50: cancer,diagnostic
+Read,Byu5011,[X]Mesothelioma of lung,res50: cancer,diagnostic
+Read,Byu5500,[X]Mal neoplasm/overlap les/periph nerv+autonomic nerv systm,res50: cancer,diagnostic
+Read,Byu5700,"[X]Malignant neoplasm of peritoneum, unspecified",res50: cancer,diagnostic
+Read,Byu5800,"[X]Mal neoplasm/connective+soft tissue of trunk,unspecified",res50: cancer,diagnostic
+Read,BBV3.00,[M]Fibroblastic osteosarcoma,res50: cancer,diagnostic
+Read,Byu5900,"[X]Malignant neoplasm/connective + soft tissue,unspecified",res50: cancer,diagnostic
+Read,Byu5A00,[X]Malignant neoplasm overlapping lesion of skin,res50: cancer,diagnostic
+Read,Byu6.00,[X]Malignant neoplasm of breast,res50: cancer,diagnostic
+Read,Byu7.00,[X]Malignant neoplasm of female genital organs,res50: cancer,diagnostic
+Read,Byu7000,"[X]Malignant neoplasm of uterine adnexa, unspecified",res50: cancer,diagnostic
+Read,Byu5B00,[X]Kaposi's sarcoma of other sites,res50: cancer,diagnostic
+Read,Byu7100,[X]Malignant neoplasm/other specified female genital organs,res50: cancer,diagnostic
+Read,Byu7300,"[X]Malignant neoplasm of female genital organ, unspecified",res50: cancer,diagnostic
+Read,Byu8.00,[X]Malignant neoplasm of male genital organs,res50: cancer,diagnostic
+Read,Byu8000,[X]Malignant neoplasm/other specified male genital organs,res50: cancer,diagnostic
+Read,Byu8200,"[X]Malignant neoplasm of male genital organ, unspecified",res50: cancer,diagnostic
+Read,Byu9.00,[X]Malignant neoplasm of urinary tract,res50: cancer,diagnostic
+Read,Byu9000,"[X]Malignant neoplasm of urinary organ, unspecified",res50: cancer,diagnostic
+Read,ByuA.00,"[X]Malignant neoplasm of eye, brain and other parts of cent",res50: cancer,diagnostic
+Read,ByuA000,[X]Malignant neoplasm/other and unspecified cranial nerves,res50: cancer,diagnostic
+Read,ByuA100,"[X]Malignant neoplasm/central nervous system, unspecified",res50: cancer,diagnostic
+Read,ByuA200,"[X]Malignant neoplasm of meninges, unspecified",res50: cancer,diagnostic
+Read,ByuA300,"[X]Malig neopl, overlap lesion brain & other part of CNS",res50: cancer,diagnostic
+Read,ByuB.00,[X]Malignant neoplasm of thyroid and other endocrine glands,res50: cancer,diagnostic
+Read,ByuB100,"[X]Malignant neoplasm of endocrine gland, unspecified",res50: cancer,diagnostic
+Read,ByuC.00,"[X]Malignant neoplasm of ill-defined, secondary and unspeci",res50: cancer,diagnostic
+Read,ByuC000,[X]Malignant neoplasm of other specified sites,res50: cancer,diagnostic
+Read,ByuC100,[X]Malignant neoplasm/overlap lesion/other+ill-defined sites,res50: cancer,diagnostic
+Read,ByuC200,[X]2ndry+unspcf malignant neoplasm lymph nodes/multi regions,res50: cancer,diagnostic
+Read,ByuC300,[X]Secondary malignant neoplasm/oth+unspc respiratory organs,res50: cancer,diagnostic
+Read,ByuC400,[X]Secondary malignant neoplasm/oth+unspcfd digestive organs,res50: cancer,diagnostic
+Read,ByuC500,[X]2ndry malignant neoplasm/bladder+oth+unsp urinary organs,res50: cancer,diagnostic
+Read,ByuC600,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system,res50: cancer,diagnostic
+Read,ByuC700,[X]Secondary malignant neoplasm of other specified sites,res50: cancer,diagnostic
+Read,ByuC800,[X]Malignant neoplasm without specification of site,res50: cancer,diagnostic
+Read,ByuD.00,"[X]Malignant neoplasms of lymphoid, haematopoietic and rela",res50: cancer,diagnostic
+Read,ByuD000,[X]Other Hodgkin's disease,res50: cancer,diagnostic
+Read,ByuD100,[X]Other types of follicular non-Hodgkin's lymphoma,res50: cancer,diagnostic
+Read,ByuD200,[X]Other types of diffuse non-Hodgkin's lymphoma,res50: cancer,diagnostic
+Read,ByuD500,[X]Other lymphoid leukaemia,res50: cancer,diagnostic
+Read,ByuD600,[X]Other myeloid leukaemia,res50: cancer,diagnostic
+Read,ByuD700,[X]Other monocytic leukaemia,res50: cancer,diagnostic
+Read,ByuD800,[X]Other specified leukaemias,res50: cancer,diagnostic
+Read,ByuD900,[X]Other leukaemia of unspecified cell type,res50: cancer,diagnostic
+Read,ByuDB00,"[X]Mal neoplasm/lymphoid,haematopoietic+related tissu,unspcf",res50: cancer,diagnostic
+Read,ByuD300,[X]Other specified types of non-Hodgkin's lymphoma,res50: cancer,diagnostic
+Read,ByuDE00,[X]Unspecified B-cell non-Hodgkin's lymphoma,res50: cancer,diagnostic
+Read,ByuDF00,"[X]Non-Hodgkin's lymphoma, unspecified type",res50: cancer,diagnostic
+Read,ByuDF11,[X]Non-Hodgkin's lymphoma NOS,res50: cancer,diagnostic
+Read,ByuE.00,[X]Malignant neoplasms/independent (primary) multiple sites,res50: cancer,diagnostic
+Read,ByuDC00,"[X]Diffuse non-Hodgkin's lymphoma, unspecified",res50: cancer,diagnostic
+Read,ByuE000,[X]Malignant neoplasms/independent(primary)multiple sites,res50: cancer,diagnostic
+Read,ByuF.00,[X]In situ neoplasms,res50: cancer,diagnostic
+Read,ByuF100,[X]Carcinoma in situ of other specified digestive organs,res50: cancer,diagnostic
+Read,ByuF300,[X]Carcinoma in situ of other parts of respiratory system,res50: cancer,diagnostic
+Read,ByuF900,"[X]Carcinoma in situ of skin, unspecified",res50: cancer,diagnostic
+Read,ByuFC00,[X]Carcinoma in situ of oth+unspecified male genital organs,res50: cancer,diagnostic
+Read,ByuFA00,[X]Carcinoma in situ of other parts of cervix,res50: cancer,diagnostic
+Read,ByuG.00,[X]Benign neoplasms,res50: cancer,diagnostic
+Read,ByuG000,[X]Benign neoplasm of other and unspecified parts of mouth,res50: cancer,diagnostic
+Read,ByuFG00,[X]Other carcinoma in situ of breast,res50: cancer,diagnostic
+Read,ByuG700,[X]Benign lipomatous neoplasm of other sites,res50: cancer,diagnostic
+Read,ByuGA00,[X]Benign neoplasm/skin of other+unspecified parts of face,res50: cancer,diagnostic
+Read,ByuG100,[X]Benign neoplasm of other parts of oropharynx,res50: cancer,diagnostic
+Read,ByuGC00,[X]Benign neoplasm of other specified female genital organs,res50: cancer,diagnostic
+Read,ByuGB00,[X]Benign neoplasm of other parts of uterus,res50: cancer,diagnostic
+Read,ByuGH00,[X]Benign neoplasm of other specified sites,res50: cancer,diagnostic
+Read,ByuGJ00,"[X]Benign neoplasm of pharynx, unspecified",res50: cancer,diagnostic
+Read,ByuH.00,[X]Neoplasms of uncertain and unknown behaviour,res50: cancer,diagnostic
+Read,Bz...00,Neoplasms NOS,res50: cancer,diagnostic
+Read,C13y300,Diencephalic syndrome secondary to tumour,res50: cancer,diagnostic
+Read,C28..11,Osteomalacia,res50: cancer,diagnostic
+Read,C282.00,Osteomalacia unspecified,res50: cancer,diagnostic
+Read,C284.00,Senile osteomalacia,res50: cancer,diagnostic
+Read,C285.00,Adult osteomalacia due to malabsorption,res50: cancer,diagnostic
+Read,C286.00,Adult osteomalacia due to malnutrition,res50: cancer,diagnostic
+Read,C37yD00,Tumour lysis syndrome,res50: cancer,diagnostic
+Read,D212000,Anaemia in ovarian carcinoma,res50: cancer,diagnostic
+Read,E202B00,Cancer phobia,res50: cancer,diagnostic
+Read,F282.11,Pseudotumour cerebri,res50: cancer,diagnostic
+Read,F456400,Glaucoma due to ocular tumour or cyst,res50: cancer,diagnostic
+Read,F4G1111,Pseudotumour of orbit,res50: cancer,diagnostic
+Read,F4H5100,Disorder of optic chiasm due to non-pituitary neoplasm,res50: cancer,diagnostic
+Read,ByuGD00,[X]Benign neoplasm of other male genital organs,res50: cancer,diagnostic
+Read,K01w112,Wilms' tumour + nephrotic syndrome + pseudohermaphroditism,res50: cancer,diagnostic
+Read,L241.00,Tumour of uterine body in pregnancy/childbirth/puerperium,res50: cancer,diagnostic
+Read,L241000,Tumour of uterine body affecting obstetric care,res50: cancer,diagnostic
+Read,L241200,Tumour of uterine body - baby delivered + p/n complication,res50: cancer,diagnostic
+Read,L241100,Tumour of uterine body - baby delivered,res50: cancer,diagnostic
+Read,L241300,"Tumour of uterine body complicating a/n care, baby not deliv",res50: cancer,diagnostic
+Read,L241z00,Uterine body tumour in pregnancy/childbirth/puerperium NOS,res50: cancer,diagnostic
+Read,M162800,Lymphomatoid papulosis,res50: cancer,diagnostic
+Read,N098.00,Synovial osteochondromatosis,res50: cancer,diagnostic
+Read,N098000,Synovial osteochondromatosis of shoulder,res50: cancer,diagnostic
+Read,N098200,Synovial osteochondromatosis of acromioclavicular joint,res50: cancer,diagnostic
+Read,N074.00,Chondromalacia patellae,res50: cancer,diagnostic
+Read,N098500,Synovial osteochondromatosis of wrist,res50: cancer,diagnostic
+Read,N098600,Synovial osteochondromatosis of MCP joint,res50: cancer,diagnostic
+Read,N098700,Synovial osteochondromatosis of PIP joint of finger,res50: cancer,diagnostic
+Read,N098300,Synovial osteochondromatosis of elbow,res50: cancer,diagnostic
+Read,N098B00,Synovial osteochondromatosis of knee,res50: cancer,diagnostic
+Read,N098D00,Synovial osteochondromatosis of ankle,res50: cancer,diagnostic
+Read,N098F00,Synovial osteochondromatosis of talonavicular joint,res50: cancer,diagnostic
+Read,N098900,Synovial osteochondromatosis of hip,res50: cancer,diagnostic
+Read,N098J00,Synovial osteochondromatosis of lesser MTP joint,res50: cancer,diagnostic
+Read,N237300,Pseudosarcomatous fibromatosis,res50: cancer,diagnostic
+Read,N330900,Osteoporosis in multiple myelomatosis,res50: cancer,diagnostic
+Read,N332500,Brown tumour of hyperparathyroidism,res50: cancer,diagnostic
+Read,N33z200,Chondromalacia NOS,res50: cancer,diagnostic
+Read,NyuB900,"[X]Adult osteomalacia, unspecified",res50: cancer,diagnostic
+Read,PE1..12,Sternomastoid tumour,res50: cancer,diagnostic
+Read,PG42.00,Multiple enchondromata,res50: cancer,diagnostic
+Read,PG42.11,Enchondromatosis,res50: cancer,diagnostic
+Read,PG42000,Multiple enchondromata with haemangioma,res50: cancer,diagnostic
+Read,PG4A.00,Metachondromatosis,res50: cancer,diagnostic
+Read,Z4B3.00,Cancer counselling,res50: cancer,diagnostic
+Read,ZG42.00,Advice on cancer,res50: cancer,diagnostic
+Read,ZG42200,Advice on testicular cancer,res50: cancer,diagnostic
+Read,ZG42300,Advice for other tumours affecting genital function,res50: cancer,diagnostic
+Read,N098G00,Synovial osteochondromatosis of other tarsal joint,res50: cancer,diagnostic
+Read,ZR38.11,CAI - Cancer attitude inventory,res50: cancer,diagnostic
+Read,ZRVy.00,Mental adjustment to cancer scale,res50: cancer,diagnostic
+Read,ZV10.00,[V]Personal history of malignant neoplasm,res50: cancer,diagnostic
+Read,ZV10000,[V]Personal history of malig neop of gastrointestinal tract,res50: cancer,diagnostic
+Read,ZR38.00,Cancer attitude inventory,res50: cancer,diagnostic
+Read,ZV10012,[V]Personal history of malig neop of gastrointestinal tract,res50: cancer,diagnostic
+Read,ZV10011,[V]Personal history of malignant neoplasm of anus,res50: cancer,diagnostic
+Read,ZV10014,[V]Personal history of malignant neoplasm of large intestine,res50: cancer,diagnostic
+Read,ZV10015,[V]Personal history of malignant neoplasm of liver,res50: cancer,diagnostic
+Read,ZV10016,[V]Personal history of malignant neoplasm of oesophagus,res50: cancer,diagnostic
+Read,ZV10017,[V]Personal history of malignant neoplasm of rectum,res50: cancer,diagnostic
+Read,ZV10018,[V]Personal history of malignant neoplasm of stomach,res50: cancer,diagnostic
+Read,ZV10019,[V]Personal history of malignant neoplasm of tongue,res50: cancer,diagnostic
+Read,ZV10100,[V]Personal history of malig neop of trachea/bronchus/lung,res50: cancer,diagnostic
+Read,ZV10111,[V]Personal history of malignant neoplasm of bronchus,res50: cancer,diagnostic
+Read,ZV10112,[V]Personal history of malignant neoplasm of lung,res50: cancer,diagnostic
+Read,ZV10200,[V]Personal history of malig neop other intrathoracic organ,res50: cancer,diagnostic
+Read,ZV10211,[V]Personal history of malignant neoplasm - accessory sinus,res50: cancer,diagnostic
+Read,ZV10212,[V]Personal history of malignant neoplasm of larynx,res50: cancer,diagnostic
+Read,ZV10214,[V]Personal history of malignant neoplasm of nose,res50: cancer,diagnostic
+Read,ZV10300,[V]Personal history of malignant neoplasm of breast,res50: cancer,diagnostic
+Read,ZV10400,[V]Personal history of malignant neoplasm of genital organ,res50: cancer,diagnostic
+Read,ZV10411,[V]Personal history of malignant neoplasm of cervix uteri,res50: cancer,diagnostic
+Read,ZV10414,[V]Personal history of malignant neoplasm of ovary,res50: cancer,diagnostic
+Read,ZV10415,[V]Personal history of malignant neoplasm of prostate,res50: cancer,diagnostic
+Read,ZV10416,[V]Personal history of malignant neoplasm of testis,res50: cancer,diagnostic
+Read,ZV10417,[V]Personal history of malignant neoplasm of uterine body,res50: cancer,diagnostic
+Read,ZV10500,[V]Personal history of malignant neoplasm of urinary organ,res50: cancer,diagnostic
+Read,ZV10511,[V]Personal history of malignant neoplasm of bladder,res50: cancer,diagnostic
+Read,ZV10512,[V]Personal history of malignant neoplasm of kidney,res50: cancer,diagnostic
+Read,ZV10513,[V]Personal history of malignant neoplasm of kidney,res50: cancer,diagnostic
+Read,ZV10600,[V]Personal history of leukaemia,res50: cancer,diagnostic
+Read,ZV10700,[V]Personal history other lymphatic/haematopoietic neoplasm,res50: cancer,diagnostic
+Read,ZV10611,[V]Personal history of lymphoid leukaemia,res50: cancer,diagnostic
+Read,ZV10y00,[V]Personal history of other specified malignant neoplasm,res50: cancer,diagnostic
+Read,ZV10711,[V]Personal history of Hodgkin's disease,res50: cancer,diagnostic
+Read,ZV10y12,[V]Personal history of malignant neoplasm of brain,res50: cancer,diagnostic
+Read,ZV10y13,[V]Personal history of malignant neoplasm of eye,res50: cancer,diagnostic
+Read,ZV10y14,[V]Personal history of malignant neoplasm of skin,res50: cancer,diagnostic
+Read,ZV10y15,[V]Personal history of malignant neoplasm of thyroid,res50: cancer,diagnostic
+Read,ZV10y11,[V]Personal history of malignant neoplasm of bone,res50: cancer,diagnostic
+Read,ZV10y16,[V]Personal history of malignant neoplasm of tongue,res50: cancer,diagnostic
+Read,ZV10z00,[V]Personal history of unspecified malignant neoplasm,res50: cancer,diagnostic
+Read,ZV58800,[V]Chemotherapy session for neoplasm,res50: cancer,diagnostic
+Read,ZV5A000,[V]Prophyl surgery for risk-factors related to mal neoplasms,res50: cancer,diagnostic
+Read,ZV67600,[V]Follow-up examination aft surgery for malignant neoplasm,res50: cancer,diagnostic
+Read,ZV67700,[V]Follow-up exam after radiotherapy for malignant neoplasm,res50: cancer,diagnostic
+Read,ZV67800,[V]Follow-up examin after chemotherapy for malign neoplasm,res50: cancer,diagnostic
+Read,ZV67811,[V]Follow-up examination after chemotherapy for leukaemia,res50: cancer,diagnostic
+Read,ZV67900,[V]Follow-up exam aft combined treatment for malig neoplasm,res50: cancer,diagnostic
+Read,ZV67A00,[V]Folow-up exam aft other treatment for malignant neoplasm,res50: cancer,diagnostic
+Read,ZV67B00,[V]Folow-up exam aft unspec treatment for malignant neoplasm,res50: cancer,diagnostic
+Read,ZVu6J00,[X]Personal history of other neoplasms,res50: cancer,diagnostic
+Read,B823300,Carcinoma in situ of skin of cheek,res50: cancer,diagnostic
+Read,B800800,Carcinoma in situ of oropharynx,res50: cancer,diagnostic
+Read,BBc3.00,[M]Teratoid medulloepithelioma,res50: cancer,diagnostic
+Read,B62..00,Other malignant neoplasm of lymphoid and histiocytic tissue,res50: cancer,diagnostic
+Read,BBc0.00,[M]Ganglioneuromatous neoplasms,res50: cancer,diagnostic
+Read,B510400,Malignant neoplasm of hypothalamus,res50: cancer,diagnostic
+Read,B46..00,Malignant neoplasm of prostate,res50: cancer,diagnostic
+Read,BBba000,[M]Peripheral neuroectodermal tumour,res50: cancer,diagnostic
+Read,B431z00,Malignant neoplasm of isthmus of uterine body NOS,res50: cancer,diagnostic
+Read,BBbW.00,[M]Cerebellar sarcoma NOS,res50: cancer,diagnostic
+Read,B41yz00,Malignant neoplasm of other site of cervix NOS,res50: cancer,diagnostic
+Read,B410.00,Malignant neoplasm of endocervix,res50: cancer,diagnostic
+Read,BBa4.13,[M]Retinal angle tumour,res50: cancer,diagnostic
+Read,B41..00,Malignant neoplasm of cervix uteri,res50: cancer,diagnostic
+Read,BBa0.11,[M]Rathke's pouch tumour,res50: cancer,diagnostic
+Read,B4...11,Carcinoma of genitourinary organ,res50: cancer,diagnostic
+Read,BBZz.00,[M]Odontogenic tumour NOS,res50: cancer,diagnostic
+Read,B40..00,"Malignant neoplasm of uterus, part unspecified",res50: cancer,diagnostic
+Read,BBZN.11,[M]Odontogenic fibrosarcoma,res50: cancer,diagnostic
+Read,B41..11,Cervical carcinoma (uterus),res50: cancer,diagnostic
+Read,BBZJ.00,[M]Squamous odontogenic tumour,res50: cancer,diagnostic
+Read,B410z00,Malignant neoplasm of endocervix NOS,res50: cancer,diagnostic
+Read,BBZC.00,[M]Ameloblastic odontosarcoma,res50: cancer,diagnostic
+Read,B410000,Malignant neoplasm of endocervical canal,res50: cancer,diagnostic
+Read,BBZ2.00,"[M]Odontogenic tumour, malignant",res50: cancer,diagnostic
+Read,B410100,Malignant neoplasm of endocervical gland,res50: cancer,diagnostic
+Read,BBZ0.00,"[M]Odontogenic tumour, benign",res50: cancer,diagnostic
+Read,B41y100,Malignant neoplasm of squamocolumnar junction of cervix,res50: cancer,diagnostic
+Read,BBY0.11,[M]Endothelial bone sarcoma,res50: cancer,diagnostic
+Read,B412.00,"Malignant neoplasm, overlapping lesion of cervix uteri",res50: cancer,diagnostic
+Read,B411.00,Malignant neoplasm of exocervix,res50: cancer,diagnostic
+Read,B41y000,Malignant neoplasm of cervical stump,res50: cancer,diagnostic
+Read,B431000,Malignant neoplasm of lower uterine segment,res50: cancer,diagnostic
+Read,BBY..00,[M]Miscellaneous bone tumours,res50: cancer,diagnostic
+Read,B420.00,Choriocarcinoma,res50: cancer,diagnostic
+Read,BBX3.00,[M]Malignant giant cell tumour of soft parts,res50: cancer,diagnostic
+Read,B41z.00,Malignant neoplasm of cervix uteri NOS,res50: cancer,diagnostic
+Read,BBX1.11,[M]Giant cell bone sarcoma,res50: cancer,diagnostic
+Read,B42..00,Malignant neoplasm of placenta,res50: cancer,diagnostic
+Read,BBX..00,[M]Giant cell tumours,res50: cancer,diagnostic
+Read,B430.00,"Malignant neoplasm of corpus uteri, excluding isthmus",res50: cancer,diagnostic
+Read,BBW9.00,[M]Mesenchymal chondrosarcoma,res50: cancer,diagnostic
+Read,B43..00,Malignant neoplasm of body of uterus,res50: cancer,diagnostic
+Read,B431.00,Malignant neoplasm of isthmus of uterine body,res50: cancer,diagnostic
+Read,B430z00,Malignant neoplasm of corpus uteri NOS,res50: cancer,diagnostic
+Read,B430300,Malignant neoplasm of myometrium of corpus uteri,res50: cancer,diagnostic
+Read,BBW6.00,[M]Juxtacortical chondrosarcoma,res50: cancer,diagnostic
+Read,B45z.00,Malignant neoplasm of female genital organ NOS,res50: cancer,diagnostic
+Read,BBW5.00,[M]Juxtacortical chondroma,res50: cancer,diagnostic
+Read,B440.11,Cancer of ovary,res50: cancer,diagnostic
+Read,BBW4.00,[M]Chondrosarcoma NOS,res50: cancer,diagnostic
+Read,B43y.00,Malignant neoplasm of other site of uterine body,res50: cancer,diagnostic
+Read,BBW2.00,[M]Chondroma NOS,res50: cancer,diagnostic
+Read,B432.00,Malignant neoplasm of overlapping lesion of corpus uteri,res50: cancer,diagnostic
+Read,B600z00,Reticulosarcoma NOS,res50: cancer,diagnostic
+Read,B43z.00,Malignant neoplasm of body of uterus NOS,res50: cancer,diagnostic
+Read,BBW0.12,[M]Ecchondroma,res50: cancer,diagnostic
+Read,B44..00,Malignant neoplasm of ovary and other uterine adnexa,res50: cancer,diagnostic
+Read,BBW..00,[M]Chondromatous neoplasms,res50: cancer,diagnostic
+Read,B45y000,Malignant neoplasm of overlapping lesion of vulva,res50: cancer,diagnostic
+Read,B450z00,Malignant neoplasm of vagina NOS,res50: cancer,diagnostic
+Read,BBVA.00,[M] Small cell osteosarcoma,res50: cancer,diagnostic
+Read,B44z.00,Malignant neoplasm of uterine adnexa NOS,res50: cancer,diagnostic
+Read,BBV8.11,[M]Giant osteoid osteoma,res50: cancer,diagnostic
+Read,B442.00,Malignant neoplasm of broad ligament,res50: cancer,diagnostic
+Read,BBV1.13,[M]Osteogenic sarcoma NOS,res50: cancer,diagnostic
+Read,B441.00,Malignant neoplasm of fallopian tube,res50: cancer,diagnostic
+Read,BBV1.11,[M]Osteoblastic sarcoma,res50: cancer,diagnostic
+Read,B44y.00,Malignant neoplasm of other site of uterine adnexa,res50: cancer,diagnostic
+Read,BBV0.00,[M]Osteoma NOS,res50: cancer,diagnostic
+Read,B443.00,Malignant neoplasm of parametrium,res50: cancer,diagnostic
+Read,BBUz.00,[M]Lymphatic vessel tumour NOS,res50: cancer,diagnostic
+Read,B450100,Malignant neoplasm of vaginal vault,res50: cancer,diagnostic
+Read,BBU..11,[M]Lymphangiomatous tumours,res50: cancer,diagnostic
+Read,B45..00,Malig neop of other and unspecified female genital organs,res50: cancer,diagnostic
+Read,BBTz.00,[M]Blood vessel tumour NOS,res50: cancer,diagnostic
+Read,B450.00,Malignant neoplasm of vagina,res50: cancer,diagnostic
+Read,B453.00,Malignant neoplasm of clitoris,res50: cancer,diagnostic
+Read,BBT..11,[M]Haemangiomatous tumours,res50: cancer,diagnostic
+Read,B451000,Malignant neoplasm of greater vestibular (Bartholin's) gland,res50: cancer,diagnostic
+Read,BBRz.00,[M]Trophoblastic neoplasm NOS,res50: cancer,diagnostic
+Read,B451.00,Malignant neoplasm of labia majora,res50: cancer,diagnostic
+Read,B45y.00,Malignant neoplasm of other specified female genital organ,res50: cancer,diagnostic
+Read,BBR..00,[M]Trophoblastic neoplasms,res50: cancer,diagnostic
+Read,B454.00,Malignant neoplasm of vulva unspecified,res50: cancer,diagnostic
+Read,BBGJ.11,[M]Fibroxanthosarcoma,res50: cancer,diagnostic
+Read,BBQB.00,[M]Mixed germ cell tumour,res50: cancer,diagnostic
+Read,B45X.00,Malignant neoplasm/overlapping lesion/feml genital organs,res50: cancer,diagnostic
+Read,B454.11,Primary vulval cancer,res50: cancer,diagnostic
+Read,B545100,Malignant neoplasm of aortic body,res50: cancer,diagnostic
+Read,BBQ7400,"[M]Malignant teratoma, undifferentiated type",res50: cancer,diagnostic
+Read,B510300,Malignant neoplasm of globus pallidus,res50: cancer,diagnostic
+Read,BBQ7211,[M]Embryonal teratoma,res50: cancer,diagnostic
+Read,B4A1100,Malignant neoplasm of ureteropelvic junction,res50: cancer,diagnostic
+Read,BBQ7100,[M]Teratoma NOS,res50: cancer,diagnostic
+Read,B471.00,Malignant neoplasm of descended testis,res50: cancer,diagnostic
+Read,BBQ7000,"[M]Teratoma, benign",res50: cancer,diagnostic
+Read,B470200,Seminoma of undescended testis,res50: cancer,diagnostic
+Read,BBQ4.11,[M]Infantile embryonal carcinoma,res50: cancer,diagnostic
+Read,B47..00,Malignant neoplasm of testis,res50: cancer,diagnostic
+Read,BBQ1100,[M]Spermatocytic seminoma,res50: cancer,diagnostic
+Read,B470.00,Malignant neoplasm of undescended testis,res50: cancer,diagnostic
+Read,BBQ..00,[M]Germ cell neoplasms,res50: cancer,diagnostic
+Read,B470z00,Malignant neoplasm of undescended testis NOS,res50: cancer,diagnostic
+Read,BBP9.00,[M]Cystic mesothelioma,res50: cancer,diagnostic
+Read,B470300,Teratoma of undescended testis,res50: cancer,diagnostic
+Read,BBP7.00,"[M]Mesothelioma, biphasic type, malignant",res50: cancer,diagnostic
+Read,B48..00,Malignant neoplasm of penis and other male genital organs,res50: cancer,diagnostic
+Read,BBP2.00,"[M]Fibrous mesothelioma, benign",res50: cancer,diagnostic
+Read,B471100,Teratoma of descended testis,res50: cancer,diagnostic
+Read,B471000,Seminoma of descended testis,res50: cancer,diagnostic
+Read,BBP0.00,"[M]Mesothelioma, benign",res50: cancer,diagnostic
+Read,B47z.11,Seminoma of testis,res50: cancer,diagnostic
+Read,BBNz.00,[M]Synovial neoplasm NOS,res50: cancer,diagnostic
+Read,B471z00,Malignant neoplasm of descended testis NOS,res50: cancer,diagnostic
+Read,BBN2.00,"[M]Synovial sarcoma, spindle cell type",res50: cancer,diagnostic
+Read,B47z.00,Malignant neoplasm of testis NOS,res50: cancer,diagnostic
+Read,BBN..00,[M]Synovial neoplasms,res50: cancer,diagnostic
+Read,B48y200,"Malignant neoplasm, overlapping lesion male genital orgs",res50: cancer,diagnostic
+Read,BBM9.00,"[M]Cystosarcoma phyllodes, malignant",res50: cancer,diagnostic
+Read,B483.00,"Malignant neoplasm of penis, part unspecified",res50: cancer,diagnostic
+Read,B482.00,Malignant neoplasm of body of penis,res50: cancer,diagnostic
+Read,BBM7.11,"[M]Cystosarcoma phyllodes, benign",res50: cancer,diagnostic
+Read,B481.00,Malignant neoplasm of glans penis,res50: cancer,diagnostic
+Read,BBM0100,"[M]Brenner tumour, malignant",res50: cancer,diagnostic
+Read,B48y100,Malignant neoplasm of tunica vaginalis,res50: cancer,diagnostic
+Read,BBM0.00,[M]Brenner tumours,res50: cancer,diagnostic
+Read,B486.00,Malignant neoplasm of scrotum,res50: cancer,diagnostic
+Read,BBLz.00,[M]Complex mixed or stromal neoplasm NOS,res50: cancer,diagnostic
+Read,B484.00,Malignant neoplasm of epididymis,res50: cancer,diagnostic
+Read,BBLH.00,[M]Rhabdoid sarcoma,res50: cancer,diagnostic
+Read,B485.00,Malignant neoplasm of spermatic cord,res50: cancer,diagnostic
+Read,BBLE.00,[M]Adenosarcoma,res50: cancer,diagnostic
+Read,B48y000,Malignant neoplasm of seminal vesicle,res50: cancer,diagnostic
+Read,BBLB.00,[M]Myoepithelioma,res50: cancer,diagnostic
+Read,B487.00,"Malignant neoplasm, overlapping lesion of penis",res50: cancer,diagnostic
+Read,BBL9.00,[M]Carcinosarcoma NOS,res50: cancer,diagnostic
+Read,B48y.00,Malignant neoplasm of other male genital organ,res50: cancer,diagnostic
+Read,BBL7111,[M]Adenosarcoma,res50: cancer,diagnostic
+Read,B4A1000,Malignant neoplasm of renal calyces,res50: cancer,diagnostic
+Read,BBL6.00,[M]Mesodermal mixed tumour,res50: cancer,diagnostic
+Read,B495.00,Malignant neoplasm of bladder neck,res50: cancer,diagnostic
+Read,BBL4.00,"[M]Mixed tumour, malignant, NOS",res50: cancer,diagnostic
+Read,B48z.00,Malignant neoplasm of penis and other male genital organ NOS,res50: cancer,diagnostic
+Read,BBL0.00,[M]Endometrial stromal sarcoma,res50: cancer,diagnostic
+Read,B48yz00,Malignant neoplasm of other male genital organ NOS,res50: cancer,diagnostic
+Read,B492.00,Malignant neoplasm of lateral wall of urinary bladder,res50: cancer,diagnostic
+Read,BBKz.00,[M]Myomatous neoplasm NOS,res50: cancer,diagnostic
+Read,B493.00,Malignant neoplasm of anterior wall of urinary bladder,res50: cancer,diagnostic
+Read,B4A1.00,Malignant neoplasm of renal pelvis,res50: cancer,diagnostic
+Read,B498.00,Local recurrence of malignant tumour of urinary bladder,res50: cancer,diagnostic
+Read,BBK3800,[M]Smooth muscle tumour NOS,res50: cancer,diagnostic
+Read,B496.00,Malignant neoplasm of ureteric orifice,res50: cancer,diagnostic
+Read,B497.00,Malignant neoplasm of urachus,res50: cancer,diagnostic
+Read,BBK3611,[M]Sarcoma botryoides,res50: cancer,diagnostic
+Read,B4A0000,Hypernephroma,res50: cancer,diagnostic
+Read,BBK3300,[M]Mixed cell rhabdomyosarcoma,res50: cancer,diagnostic
+Read,B4A..00,Malig neop of kidney and other unspecified urinary organs,res50: cancer,diagnostic
+Read,BBK3100,[M]Rhabdomyosarcoma NOS,res50: cancer,diagnostic
+Read,B49z.00,Malignant neoplasm of urinary bladder NOS,res50: cancer,diagnostic
+Read,B4A0.00,Malignant neoplasm of kidney parenchyma,res50: cancer,diagnostic
+Read,B510100,Malignant neoplasm of cerebral cortex,res50: cancer,diagnostic
+Read,BBK2100,[M]Myosarcoma,res50: cancer,diagnostic
+Read,B4Ay000,Malignant neoplasm of overlapping lesion of urinary organs,res50: cancer,diagnostic
+Read,BBK1z00,[M]Angiomyomatous neoplasm NOS,res50: cancer,diagnostic
+Read,B4A2.00,Malignant neoplasm of ureter,res50: cancer,diagnostic
+Read,B4A1z00,Malignant neoplasm of renal pelvis NOS,res50: cancer,diagnostic
+Read,BBK1.00,[M]Angiomyomatous neoplasms,res50: cancer,diagnostic
+Read,B4Ay.00,Malignant neoplasm of other urinary organs,res50: cancer,diagnostic
+Read,BBK0700,[M]Myxoid leiomyosarcoma,res50: cancer,diagnostic
+Read,B4A3.00,Malignant neoplasm of urethra,res50: cancer,diagnostic
+Read,BBK0200,[M]Leiomyosarcoma NOS,res50: cancer,diagnostic
+Read,B4A4.00,Malignant neoplasm of paraurethral glands,res50: cancer,diagnostic
+Read,BBJH.00,[M]Dedifferentiated liposarcoma,res50: cancer,diagnostic
+Read,B4y..00,Malignant neoplasm of genitourinary organ OS,res50: cancer,diagnostic
+Read,BBJBz00,[M]Angiolipomatous neoplasm NOS,res50: cancer,diagnostic
+Read,B4Az.00,Malignant neoplasm of kidney or urinary organs NOS,res50: cancer,diagnostic
+Read,BBJ8.00,[M]Mixed type liposarcoma,res50: cancer,diagnostic
+Read,B5...11,Carcinoma of other and unspecified sites,res50: cancer,diagnostic
+Read,BBJ6.00,[M]Round cell liposarcoma,res50: cancer,diagnostic
+Read,B4z..00,Malignant neoplasm of genitourinary organ NOS,res50: cancer,diagnostic
+Read,BBJ5.00,[M]Myxoid liposarcoma,res50: cancer,diagnostic
+Read,B5...00,Malignant neoplasm of other and unspecified sites,res50: cancer,diagnostic
+Read,BBJ1.11,[M]Fibroliposarcoma,res50: cancer,diagnostic
+Read,B500.00,"Malig neop eyeball excl conjunctiva, cornea, retina, choroid",res50: cancer,diagnostic
+Read,BBHz.00,[M]Myxomatous neoplasm NOS,res50: cancer,diagnostic
+Read,B50..00,Malignant neoplasm of eye,res50: cancer,diagnostic
+Read,B507.00,Malignant neoplasm of lacrimal duct,res50: cancer,diagnostic
+Read,BBGz.00,[M]Fibromatous neoplasm NOS,res50: cancer,diagnostic
+Read,B501z00,Malignant neoplasm of orbit NOS,res50: cancer,diagnostic
+Read,BBG8.00,[M]Infantile fibrosarcoma,res50: cancer,diagnostic
+Read,B501000,Malignant neoplasm of connective tissue of orbit,res50: cancer,diagnostic
+Read,BBG1.00,[M]Fibrosarcoma NOS,res50: cancer,diagnostic
+Read,B501.00,Malignant neoplasm of orbit,res50: cancer,diagnostic
+Read,BBFz.00,[M]Soft tissue tumour or sarcoma NOS,res50: cancer,diagnostic
+Read,B506.00,Malignant neoplasm of choroid,res50: cancer,diagnostic
+Read,BBF4.11,[M]Pleomorphic cell sarcoma,res50: cancer,diagnostic
+Read,B503.00,Malignant neoplasm of conjunctiva,res50: cancer,diagnostic
+Read,BBF2.00,[M]Sarcomatosis NOS,res50: cancer,diagnostic
+Read,B502.00,Malignant neoplasm of lacrimal gland,res50: cancer,diagnostic
+Read,BBF0.00,"[M]Soft tissue tumour, benign",res50: cancer,diagnostic
+Read,B505.00,Malignant neoplasm of retina,res50: cancer,diagnostic
+Read,B504.00,Malignant neoplasm of cornea,res50: cancer,diagnostic
+Read,BBED.00,[M]Precancerous melanosis NOS,res50: cancer,diagnostic
+Read,B50y.00,Malignant neoplasm of other specified site of eye,res50: cancer,diagnostic
+Read,BBE1.13,[M]Melanosarcoma NOS,res50: cancer,diagnostic
+Read,B507100,Malignant neoplasm of nasolacrimal duct,res50: cancer,diagnostic
+Read,BBDz.00,[M]Paraganglioma or glomus tumour NOS,res50: cancer,diagnostic
+Read,B507000,Malignant neoplasm of lacrimal sac,res50: cancer,diagnostic
+Read,BBDB.11,[M]Glomoid sarcoma,res50: cancer,diagnostic
+Read,B508.00,"Malignant neoplasm, overlapping lesion of eye and adnexa",res50: cancer,diagnostic
+Read,BBD6.00,[M]Carotid body tumour,res50: cancer,diagnostic
+Read,B510.00,Malignant neoplasm cerebrum (excluding lobes and ventricles),res50: cancer,diagnostic
+Read,B51..11,Cerebral tumour - malignant,res50: cancer,diagnostic
+Read,B50z.00,Malignant neoplasm of eye NOS,res50: cancer,diagnostic
+Read,BBD4.00,[M]Glomus jugulare tumour,res50: cancer,diagnostic
+Read,B51..00,Malignant neoplasm of brain,res50: cancer,diagnostic
+Read,BBCF.00,[M]Adrenal rest tumour,res50: cancer,diagnostic
+Read,B545000,Malignant neoplasm of glomus jugulare,res50: cancer,diagnostic
+Read,BBCD.00,[M]Hilar cell tumour,res50: cancer,diagnostic
+Read,B51y000,Malignant neoplasm of corpus callosum,res50: cancer,diagnostic
+Read,BBCCz00,[M]Leydig cell tumour NOS,res50: cancer,diagnostic
+Read,B517000,Malignant neoplasm of cerebral peduncle,res50: cancer,diagnostic
+Read,BBCC011,"[M]Interstitial cell tumour, benign",res50: cancer,diagnostic
+Read,B513.00,Malignant neoplasm of parietal lobe,res50: cancer,diagnostic
+Read,BBCA.00,[M]Sertoli cell carcinoma,res50: cancer,diagnostic
+Read,B511.00,Malignant neoplasm of frontal lobe,res50: cancer,diagnostic
+Read,BBC7.00,[M]Sertoli-Leydig cell tumour,res50: cancer,diagnostic
+Read,B510500,Malignant neoplasm of thalamus,res50: cancer,diagnostic
+Read,BBC3.00,[M]Granulosa cell tumour NOS,res50: cancer,diagnostic
+Read,B510z00,Malignant neoplasm of cerebrum NOS,res50: cancer,diagnostic
+Read,B512z00,Malignant neoplasm of temporal lobe NOS,res50: cancer,diagnostic
+Read,BBC0.12,[M]Ovarian stromal tumour,res50: cancer,diagnostic
+Read,B512000,Malignant neoplasm of hippocampus,res50: cancer,diagnostic
+Read,BBBz.00,[M]Complex epithelial neoplasm NOS,res50: cancer,diagnostic
+Read,B512.00,Malignant neoplasm of temporal lobe,res50: cancer,diagnostic
+Read,BBB5.00,[M]Adenocarcinoma with apocrine metaplasia,res50: cancer,diagnostic
+Read,B517.00,Malignant neoplasm of brain stem,res50: cancer,diagnostic
+Read,BBB2.00,[M]Adenocarcinoma with squamous metaplasia,res50: cancer,diagnostic
+Read,B515000,Malignant neoplasm of choroid plexus,res50: cancer,diagnostic
+Read,BBB..00,[M]Complex epithelial neoplasms,res50: cancer,diagnostic
+Read,B514.00,Malignant neoplasm of occipital lobe,res50: cancer,diagnostic
+Read,BBA2.00,[M]Acinar cell carcinoma,res50: cancer,diagnostic
+Read,B515.00,Malignant neoplasm of cerebral ventricles,res50: cancer,diagnostic
+Read,BBA..00,[M]Acinar cell neoplasms,res50: cancer,diagnostic
+Read,B516.00,Malignant neoplasm of cerebellum,res50: cancer,diagnostic
+Read,BB9M.00,[M]Intracystic carcinoma NOS,res50: cancer,diagnostic
+Read,B51y.00,Malignant neoplasm of other parts of brain,res50: cancer,diagnostic
+Read,BB9F.00,[M]Lobular carcinoma NOS,res50: cancer,diagnostic
+Read,B517100,Malignant neoplasm of medulla oblongata,res50: cancer,diagnostic
+Read,BB9D.00,[M]Medullary carcinoma with lymphoid stroma,res50: cancer,diagnostic
+Read,B517z00,Malignant neoplasm of brain stem NOS,res50: cancer,diagnostic
+Read,BB9B.11,[M]C cell carcinoma,res50: cancer,diagnostic
+Read,B517300,Malignant neoplasm of pons,res50: cancer,diagnostic
+Read,BB94.11,[M]Secretory breast carcinoma,res50: cancer,diagnostic
+Read,B517200,Malignant neoplasm of midbrain,res50: cancer,diagnostic
+Read,BB93.00,[M]Comedocarcinoma NOS,res50: cancer,diagnostic
+Read,B520100,Malignant neoplasm of optic nerve,res50: cancer,diagnostic
+Read,BB91100,[M]Infiltrating duct and lobular carcinoma,res50: cancer,diagnostic
+Read,B52..00,Malig neop of other and unspecified parts of nervous system,res50: cancer,diagnostic
+Read,BB91.00,[M]Infiltrating duct carcinoma,res50: cancer,diagnostic
+Read,B51z.00,Malignant neoplasm of brain NOS,res50: cancer,diagnostic
+Read,B51yz00,Malignant neoplasm of other part of brain NOS,res50: cancer,diagnostic
+Read,BB8z.00,"[M]Cystic, mucinous or serous neoplasm NOS",res50: cancer,diagnostic
+Read,B51y200,"Malignant neoplasm, overlapping lesion of brain",res50: cancer,diagnostic
+Read,BB85111,[M]Krukenberg tumour,res50: cancer,diagnostic
+Read,B520000,Malignant neoplasm of olfactory bulb,res50: cancer,diagnostic
+Read,BB85.00,[M]Signet ring carcinoma,res50: cancer,diagnostic
+Read,B520.00,Malignant neoplasm of cranial nerves,res50: cancer,diagnostic
+Read,BB81H00,[M]Papillary mucinous cystadenocarcinoma,res50: cancer,diagnostic
+Read,B521z00,Malignant neoplasm of cerebral meninges NOS,res50: cancer,diagnostic
+Read,BB81E00,[M]Mucinous cystadenocarcinoma NOS,res50: cancer,diagnostic
+Read,B520z00,Malignant neoplasm of cranial nerves NOS,res50: cancer,diagnostic
+Read,BB81800,[M]Papillary serous cystadenocarcinoma,res50: cancer,diagnostic
+Read,B520200,Malignant neoplasm of acoustic nerve,res50: cancer,diagnostic
+Read,BB81.14,[M]Ovarian serous tumour,res50: cancer,diagnostic
+Read,B220z00,Malignant neoplasm of trachea NOS,res50: cancer,diagnostic
+Read,BB81.00,"[M]Ovarian cystic, mucinous and serous neoplasms",res50: cancer,diagnostic
+Read,B521.00,Malignant neoplasm of cerebral meninges,res50: cancer,diagnostic
+Read,BB71.00,[M]Mucoepidermoid carcinoma,res50: cancer,diagnostic
+Read,B523z00,Malignant neoplasm of spinal meninges NOS,res50: cancer,diagnostic
+Read,BB6z.00,[M]Adnexal and skin appendage neoplasm NOS,res50: cancer,diagnostic
+Read,B523.00,Malignant neoplasm of spinal meninges,res50: cancer,diagnostic
+Read,BB69z00,[M]Sebaceous adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,B522.00,Malignant neoplasm of spinal cord,res50: cancer,diagnostic
+Read,BB69.00,[M]Sebaceous adenoma and adenocarcinoma,res50: cancer,diagnostic
+Read,B524.00,Malig neopl peripheral nerves and autonomic nervous system,res50: cancer,diagnostic
+Read,BB62100,[M]Apocrine adenocarcinoma,res50: cancer,diagnostic
+Read,B52z.00,Malignant neoplasm of nervous system NOS,res50: cancer,diagnostic
+Read,B524400,Malignant neoplasm of peripheral nerve of abdomen,res50: cancer,diagnostic
+Read,BB61.00,[M]Sweat gland adenoma and adenocarcinomas,res50: cancer,diagnostic
+Read,B524300,Malignant neoplasm of peripheral nerve of thorax,res50: cancer,diagnostic
+Read,BB60.00,[M]Skin appendage adenoma and carcinoma,res50: cancer,diagnostic
+Read,B524600,"Malignant neoplasm,overlap lesion periph nerve & auton ns",res50: cancer,diagnostic
+Read,BB5j200,[M]Endometrioid carcinoma,res50: cancer,diagnostic
+Read,B524500,Malignant neoplasm of peripheral nerve of pelvis,res50: cancer,diagnostic
+Read,B52y.00,Malignant neoplasm of other specified part of nervous system,res50: cancer,diagnostic
+Read,BB5h100,[M]Adrenal cortical carcinoma,res50: cancer,diagnostic
+Read,B545.00,Malignant neoplasm of aortic body and other paraganglia,res50: cancer,diagnostic
+Read,B540z00,Malignant neoplasm of adrenal gland NOS,res50: cancer,diagnostic
+Read,B540100,Malignant neoplasm of adrenal medulla,res50: cancer,diagnostic
+Read,B54..00,Malig neop of other endocrine glands and related structures,res50: cancer,diagnostic
+Read,BB5f700,[M]Nonencapsulated sclerosing carcinoma,res50: cancer,diagnostic
+Read,B53..00,Malignant neoplasm of thyroid gland,res50: cancer,diagnostic
+Read,B544.00,Malignant neoplasm of carotid body,res50: cancer,diagnostic
+Read,BB5f300,"[M]Follicular adenocarcinoma, trabecular type",res50: cancer,diagnostic
+Read,B542000,Malignant neoplasm of pituitary gland,res50: cancer,diagnostic
+Read,BB5f100,[M]Follicular adenocarcinoma NOS,res50: cancer,diagnostic
+Read,B542.00,Malignant neoplasm pituitary gland and craniopharyngeal duct,res50: cancer,diagnostic
+Read,BB5c.00,[M]Parathyroid adenomas and adenocarcinomas,res50: cancer,diagnostic
+Read,B541.00,Malignant neoplasm of parathyroid gland,res50: cancer,diagnostic
+Read,B542100,Malignant neoplasm of craniopharyngeal duct,res50: cancer,diagnostic
+Read,BB5az00,[M]Renal adenoma or carcinoma NOS,res50: cancer,diagnostic
+Read,B542z00,Malig neop pituitary gland or craniopharyngeal duct NOS,res50: cancer,diagnostic
+Read,BB5a011,[M]Grawitz tumour,res50: cancer,diagnostic
+Read,B612400,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,res50: cancer,diagnostic
+Read,B6...11,Malignant neoplasm of histiocytic tissue,res50: cancer,diagnostic
+Read,B553200,Malignant neoplasm of sacrococcygeal region,res50: cancer,diagnostic
+Read,BB5a.00,[M]Renal adenoma and carcinoma,res50: cancer,diagnostic
+Read,B550300,Malignant neoplasm of jaw NOS,res50: cancer,diagnostic
+Read,BB5X100,[M]Clear cell adenocarcinoma NOS,res50: cancer,diagnostic
+Read,B545200,Malignant neoplasm of coccygeal body,res50: cancer,diagnostic
+Read,BB5W112,[M]Oncytic adenocarcinoma,res50: cancer,diagnostic
+Read,B545z00,Malignant neoplasm of aortic body or paraganglia NOS,res50: cancer,diagnostic
+Read,BB5W100,[M]Oxyphilic adenocarcinoma,res50: cancer,diagnostic
+Read,B550200,Malignant neoplasm of nose NOS,res50: cancer,diagnostic
+Read,B550000,Malignant neoplasm of head NOS,res50: cancer,diagnostic
+Read,B550.00,"Malignant neoplasm of head, neck and face",res50: cancer,diagnostic
+Read,B550100,Malignant neoplasm of cheek NOS,res50: cancer,diagnostic
+Read,B553100,Malignant neoplasm of presacral region,res50: cancer,diagnostic
+Read,B551200,Malignant neoplasm of intrathoracic site NOS,res50: cancer,diagnostic
+Read,BB5Vz00,[M]Pituitary adenoma or carcinoma NOS,res50: cancer,diagnostic
+Read,B551.00,Malignant neoplasm of thorax,res50: cancer,diagnostic
+Read,B550400,Malignant neoplasm of neck NOS,res50: cancer,diagnostic
+Read,B550z00,"Malignant neoplasm of head, neck and face NOS",res50: cancer,diagnostic
+Read,B550500,Malignant neoplasm of supraclavicular fossa NOS,res50: cancer,diagnostic
+Read,B551100,Malignant neoplasm of chest wall NOS,res50: cancer,diagnostic
+Read,B551000,Malignant neoplasm of axilla NOS,res50: cancer,diagnostic
+Read,BB5V311,[M]Eosinophil carcinoma,res50: cancer,diagnostic
+Read,B553000,Malignant neoplasm of inguinal region NOS,res50: cancer,diagnostic
+Read,B552.00,Malignant neoplasm of abdomen,res50: cancer,diagnostic
+Read,B551z00,Malignant neoplasm of thorax NOS,res50: cancer,diagnostic
+Read,B553.00,Malignant neoplasm of pelvis,res50: cancer,diagnostic
+Read,BB5V.00,[M]Pituitary adenomas and carcinomas,res50: cancer,diagnostic
+Read,B592.00,Malignant neoplasms of independent (primary) multiple sites,res50: cancer,diagnostic
+Read,BB5U200,[M]Villous adenocarcinoma,res50: cancer,diagnostic
+Read,B55y100,Malignant neoplasm of trunk NOS,res50: cancer,diagnostic
+Read,B55y.00,Malignant neoplasm of other specified sites,res50: cancer,diagnostic
+Read,B553z00,Malignant neoplasm of pelvis NOS,res50: cancer,diagnostic
+Read,B555.00,Malignant neoplasm of lower limb NOS,res50: cancer,diagnostic
+Read,B554.00,Malignant neoplasm of upper limb NOS,res50: cancer,diagnostic
+Read,B55y000,Malignant neoplasm of back NOS,res50: cancer,diagnostic
+Read,B591.00,Other malignant neoplasm NOS,res50: cancer,diagnostic
+Read,B55z.00,Malignant neoplasm of other and ill defined site NOS,res50: cancer,diagnostic
+Read,B55yz00,Malignant neoplasm of specified site NOS,res50: cancer,diagnostic
+Read,B55y200,Malignant neoplasm of flank NOS,res50: cancer,diagnostic
+Read,B59zX00,"Kaposi's sarcoma, unspecified",res50: cancer,diagnostic
+Read,B593.00,Primary malignant neoplasm of unknown site,res50: cancer,diagnostic
+Read,B592X00,Kaposi's sarcoma of multiple organs,res50: cancer,diagnostic
+Read,B59z.00,Malignant neoplasm of unspecified site NOS,res50: cancer,diagnostic
+Read,B595.00,Malignant tumour of unknown origin,res50: cancer,diagnostic
+Read,B594.00,Secondary malignant neoplasm of unknown site,res50: cancer,diagnostic
+Read,B5y..00,Malignant neoplasm of other and unspecified site OS,res50: cancer,diagnostic
+Read,B5z..00,Malignant neoplasm of other and unspecified site NOS,res50: cancer,diagnostic
+Read,B612.00,Hodgkin's sarcoma,res50: cancer,diagnostic
+Read,B602300,Burkitt's lymphoma of intra-abdominal lymph nodes,res50: cancer,diagnostic
+Read,B601100,"Lymphosarcoma of lymph nodes of head, face and neck",res50: cancer,diagnostic
+Read,B600000,Reticulosarcoma of unspecified site,res50: cancer,diagnostic
+Read,B60..00,Lymphosarcoma and reticulosarcoma,res50: cancer,diagnostic
+Read,B221.00,Malignant neoplasm of main bronchus,res50: cancer,diagnostic
+Read,B600.00,Reticulosarcoma,res50: cancer,diagnostic
+Read,B601000,Lymphosarcoma of unspecified site,res50: cancer,diagnostic
+Read,B600100,"Reticulosarcoma of lymph nodes of head, face and neck",res50: cancer,diagnostic
+Read,B602200,Burkitt's lymphoma of intrathoracic lymph nodes,res50: cancer,diagnostic
+Read,B601200,Lymphosarcoma of intrathoracic lymph nodes,res50: cancer,diagnostic
+Read,B601500,Lymphosarcoma of lymph nodes of inguinal region and leg,res50: cancer,diagnostic
+Read,B601300,Lymphosarcoma of intra-abdominal lymph nodes,res50: cancer,diagnostic
+Read,B601800,Lymphosarcoma of lymph nodes of multiple sites,res50: cancer,diagnostic
+Read,B602100,"Burkitt's lymphoma of lymph nodes of head, face and neck",res50: cancer,diagnostic
+Read,B601z00,Lymphosarcoma NOS,res50: cancer,diagnostic
+Read,B602.00,Burkitt's lymphoma,res50: cancer,diagnostic
+Read,B610.00,Hodgkin's paragranuloma,res50: cancer,diagnostic
+Read,B60z.00,Reticulosarcoma or lymphosarcoma NOS,res50: cancer,diagnostic
+Read,B602500,Burkitt's lymphoma of lymph nodes of inguinal region and leg,res50: cancer,diagnostic
+Read,B61..11,Hodgkin lymphoma,res50: cancer,diagnostic
+Read,B61..00,Hodgkin's disease,res50: cancer,diagnostic
+Read,B611100,"Hodgkin's granuloma of lymph nodes of head, face and neck",res50: cancer,diagnostic
+Read,B610300,Hodgkin's paragranuloma of intra-abdominal lymph nodes,res50: cancer,diagnostic
+Read,B610100,"Hodgkin's paragranuloma of lymph nodes of head, face, neck",res50: cancer,diagnostic
+Read,B615000,"Hodgkin's disease, mixed cellularity of unspecified site",res50: cancer,diagnostic
+Read,B613700,"Hodgkin's, lymphocytic-histiocytic predominance of spleen",res50: cancer,diagnostic
+Read,B615.00,"Hodgkin's disease, mixed cellularity",res50: cancer,diagnostic
+Read,B614100,"Hodgkin's nodular sclerosis of head, face and neck",res50: cancer,diagnostic
+Read,B47z.12,Teratoma of testis,res50: cancer,diagnostic
+Read,B614000,"Hodgkin's disease, nodular sclerosis of unspecified site",res50: cancer,diagnostic
+Read,B614z00,"Hodgkin's disease, nodular sclerosis NOS",res50: cancer,diagnostic
+Read,B614200,Hodgkin's nodular sclerosis of intrathoracic lymph nodes,res50: cancer,diagnostic
+Read,B614800,Hodgkin's nodular sclerosis of lymph nodes of multiple sites,res50: cancer,diagnostic
+Read,B61z800,Hodgkin's disease NOS of lymph nodes of multiple sites,res50: cancer,diagnostic
+Read,B61z.00,Hodgkin's disease NOS,res50: cancer,diagnostic
+Read,B616000,Hodgkin's lymphocytic depletion of unspecified site,res50: cancer,diagnostic
+Read,B616.00,"Hodgkin's disease, lymphocytic depletion",res50: cancer,diagnostic
+Read,B61C.00,Other classical Hodgkin lymphoma,res50: cancer,diagnostic
+Read,B61B.00,Lymphocyte-rich classical Hodgkin lymphoma,res50: cancer,diagnostic
+Read,B616800,Hodgkin's lymphocytic depletion lymph nodes multiple sites,res50: cancer,diagnostic
+Read,B619.00,Mixed cellularity classical Hodgkin lymphoma,res50: cancer,diagnostic
+Read,B616z00,"Hodgkin's disease, lymphocytic depletion NOS",res50: cancer,diagnostic
+Read,B618.00,Nodular sclerosis classical Hodgkin lymphoma,res50: cancer,diagnostic
+Read,B617.00,Nodular lymphocyte predominant Hodgkin lymphoma,res50: cancer,diagnostic
+Read,B61z000,"Hodgkin's disease NOS, unspecified site",res50: cancer,diagnostic
+Read,B61z.11,Hodgkin lymphoma NOS,res50: cancer,diagnostic
+Read,B61z100,"Hodgkin's disease NOS of lymph nodes of head, face and neck",res50: cancer,diagnostic
+Read,B61z400,Hodgkin's disease NOS of lymph nodes of axilla and arm,res50: cancer,diagnostic
+Read,B61z300,Hodgkin's disease NOS of intra-abdominal lymph nodes,res50: cancer,diagnostic
+Read,B62y500,Malignant lymphoma NOS of lymph node inguinal region and leg,res50: cancer,diagnostic
+Read,BBV2.00,[M]Chondroblastic osteosarcoma,res50: cancer,diagnostic
+Read,BBP..00,[M]Mesothelial neoplasms,res50: cancer,diagnostic
+Read,B800600,Carcinoma in situ of palate,res50: cancer,diagnostic
+Read,B624.11,Leukaemic reticuloendotheliosis,res50: cancer,diagnostic
+Read,B620800,Nodular lymphoma of lymph nodes of multiple sites,res50: cancer,diagnostic
+Read,B620100,"Nodular lymphoma of lymph nodes of head, face and neck",res50: cancer,diagnostic
+Read,B620000,Nodular lymphoma of unspecified site,res50: cancer,diagnostic
+Read,B620.00,Nodular lymphoma (Brill - Symmers disease),res50: cancer,diagnostic
+Read,B620500,Nodular lymphoma of lymph nodes of inguinal region and leg,res50: cancer,diagnostic
+Read,B621400,Mycosis fungoides of lymph nodes of axilla and upper limb,res50: cancer,diagnostic
+Read,B621300,Mycosis fungoides of intra-abdominal lymph nodes,res50: cancer,diagnostic
+Read,B620z00,Nodular lymphoma NOS,res50: cancer,diagnostic
+Read,B621000,Mycosis fungoides of unspecified site,res50: cancer,diagnostic
+Read,B621.00,Mycosis fungoides,res50: cancer,diagnostic
+Read,BBJz.00,[M]Lipomatous neoplasms NOS,res50: cancer,diagnostic
+Read,B624.00,Leukaemic reticuloendotheliosis,res50: cancer,diagnostic
+Read,B621z00,Mycosis fungoides NOS,res50: cancer,diagnostic
+Read,B621800,Mycosis fungoides of lymph nodes of multiple sites,res50: cancer,diagnostic
+Read,B623z00,Malignant histiocytosis NOS,res50: cancer,diagnostic
+Read,B623000,Malignant histiocytosis of unspecified site,res50: cancer,diagnostic
+Read,B622.00,Sezary's disease,res50: cancer,diagnostic
+Read,B623.00,Malignant histiocytosis,res50: cancer,diagnostic
+Read,B622z00,Sezary's disease NOS,res50: cancer,diagnostic
+Read,B623100,"Malignant histiocytosis of lymph nodes head, face and neck",res50: cancer,diagnostic
+Read,B627C00,Follicular non-Hodgkin's lymphoma,res50: cancer,diagnostic
+Read,B627B00,Other types of follicular non-Hodgkin's lymphoma,res50: cancer,diagnostic
+Read,B627.11,Non-Hodgkin lymphoma,res50: cancer,diagnostic
+Read,B625.00,Letterer-Siwe disease,res50: cancer,diagnostic
+Read,B624.12,Hairy cell leukaemia,res50: cancer,diagnostic
+Read,B624000,Leukaemic reticuloendotheliosis of unspecified sites,res50: cancer,diagnostic
+Read,B624z00,Leukaemic reticuloendotheliosis NOS,res50: cancer,diagnostic
+Read,B625800,Letterer-Siwe disease of lymph nodes of multiple sites,res50: cancer,diagnostic
+Read,B625000,Letterer-Siwe disease of unspecified sites,res50: cancer,diagnostic
+Read,B625200,Letterer-Siwe disease of intrathoracic lymph nodes,res50: cancer,diagnostic
+Read,B627.00,Non - Hodgkin's lymphoma,res50: cancer,diagnostic
+Read,B626000,Mast cell malignancy of unspecified site,res50: cancer,diagnostic
+Read,B626.00,Malignant mast cell tumours,res50: cancer,diagnostic
+Read,B626500,Mast cell malignancy of lymph nodes inguinal region and leg,res50: cancer,diagnostic
+Read,B626800,Mast cell malignancy of lymph nodes of multiple sites,res50: cancer,diagnostic
+Read,B627A00,Diffuse non-Hodgkin's large cell lymphoma,res50: cancer,diagnostic
+Read,B627100,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma,res50: cancer,diagnostic
+Read,B627000,Follicular non-Hodgkin's small cleaved cell lymphoma,res50: cancer,diagnostic
+Read,B627600,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,res50: cancer,diagnostic
+Read,B823000,Carcinoma in situ of skin of forehead skin,res50: cancer,diagnostic
+Read,B800500,Carcinoma in situ of cheek,res50: cancer,diagnostic
+Read,B672.00,Megakaryocytic leukaemia,res50: cancer,diagnostic
+Read,B628700,Other types of follicular lymphoma,res50: cancer,diagnostic
+Read,B628100,Follicular lymphoma grade 2,res50: cancer,diagnostic
+Read,B627W00,Unspecified B-cell non-Hodgkin's lymphoma,res50: cancer,diagnostic
+Read,B627C11,Follicular lymphoma NOS,res50: cancer,diagnostic
+Read,B627G00,Mediastinal (thymic) large B-cell lymphoma,res50: cancer,diagnostic
+Read,B627D00,Diffuse non-Hodgkin's centroblastic lymphoma,res50: cancer,diagnostic
+Read,B627E00,Diffuse large B-cell lymphoma,res50: cancer,diagnostic
+Read,B628000,Follicular lymphoma grade 1,res50: cancer,diagnostic
+Read,B628.00,Follicular lymphoma,res50: cancer,diagnostic
+Read,B627X00,"Diffuse non-Hodgkin's lymphoma, unspecified",res50: cancer,diagnostic
+Read,B628600,Cutaneous follicle centre lymphoma,res50: cancer,diagnostic
+Read,B628200,Follicular lymphoma grade 3,res50: cancer,diagnostic
+Read,B628500,Diffuse follicle centre lymphoma,res50: cancer,diagnostic
+Read,B628400,Follicular lymphoma grade 3b,res50: cancer,diagnostic
+Read,B628300,Follicular lymphoma grade 3a,res50: cancer,diagnostic
+Read,B62Ew00,Other mature T/NK-cell lymphoma,res50: cancer,diagnostic
+Read,B62E900,Angioimmunoblastic T-cell lymphoma,res50: cancer,diagnostic
+Read,B62E.00,T/NK-cell lymphoma,res50: cancer,diagnostic
+Read,B62A.00,Sarcoma of dendritic cells,res50: cancer,diagnostic
+Read,B62D.00,Histiocytic sarcoma,res50: cancer,diagnostic
+Read,B62E800,Blastic NK-cell lymphoma,res50: cancer,diagnostic
+Read,B62E300,Cutaneous T-cell lymphoma,res50: cancer,diagnostic
+Read,B62E100,"Anaplastic large cell lymphoma, ALK-positive",res50: cancer,diagnostic
+Read,B62E200,"Anaplastic large cell lymphoma, ALK-negative",res50: cancer,diagnostic
+Read,B62E700,Subcutaneous panniculitic T-cell lymphoma,res50: cancer,diagnostic
+Read,B62E600,Enteropathy-associated T-cell lymphoma,res50: cancer,diagnostic
+Read,B62E500,Hepatosplenic T-cell lymphoma,res50: cancer,diagnostic
+Read,B671.11,Heilmeyer - Schoner disease,res50: cancer,diagnostic
+Read,B66..00,Monocytic leukaemia,res50: cancer,diagnostic
+Read,B653000,Chloroma,res50: cancer,diagnostic
+Read,B62F000,Small cell B-cell lymphoma,res50: cancer,diagnostic
+Read,B62F.11,Non-follicular lymphoma,res50: cancer,diagnostic
+Read,B62F.00,Nonfollicular lymphoma,res50: cancer,diagnostic
+Read,B653.00,Myeloid sarcoma,res50: cancer,diagnostic
+Read,B651z00,Chronic myeloid leukaemia NOS,res50: cancer,diagnostic
+Read,B652.00,Subacute myeloid leukaemia,res50: cancer,diagnostic
+Read,B65z.00,Myeloid leukaemia NOS,res50: cancer,diagnostic
+Read,B65y100,Acute promyelocytic leukaemia,res50: cancer,diagnostic
+Read,B653100,Granulocytic sarcoma,res50: cancer,diagnostic
+Read,B654.00,Acute myeloblastic leukaemia,res50: cancer,diagnostic
+Read,BB5Tz00,[M]Papillary adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,B65yz00,Other myeloid leukaemia NOS,res50: cancer,diagnostic
+Read,BB5T.00,[M]Papillary adenomas and adenocarcinomas,res50: cancer,diagnostic
+Read,B670.11,Di Guglielmo's disease,res50: cancer,diagnostic
+Read,B662.00,Subacute monocytic leukaemia,res50: cancer,diagnostic
+Read,B66..12,Monoblastic leukaemia,res50: cancer,diagnostic
+Read,BB5S400,[M]Alveolar adenocarcinoma,res50: cancer,diagnostic
+Read,B66..11,Histiocytic leukaemia,res50: cancer,diagnostic
+Read,BB5S211,[M]Alveolar cell carcinoma,res50: cancer,diagnostic
+Read,B661.00,Chronic monocytic leukaemia,res50: cancer,diagnostic
+Read,BB5Rz00,[M]Carcinoid tumours NOS,res50: cancer,diagnostic
+Read,B660.00,Acute monocytic leukaemia,res50: cancer,diagnostic
+Read,BB5R611,[M]Goblet cell tumour,res50: cancer,diagnostic
+Read,B670.00,Acute erythraemia and erythroleukaemia,res50: cancer,diagnostic
+Read,BB5R500,"[M]Carcinoid tumour, nonargentaffin, malignant",res50: cancer,diagnostic
+Read,B66y.00,Other monocytic leukaemia,res50: cancer,diagnostic
+Read,BB5R200,"[M]Carcinoid tumour, argentaffin, NOS",res50: cancer,diagnostic
+Read,B663.00,Acute monoblastic leukaemia,res50: cancer,diagnostic
+Read,B67..00,Other specified leukaemia,res50: cancer,diagnostic
+Read,BB5R000,[M]Carcinoid tumour NOS,res50: cancer,diagnostic
+Read,B66yz00,Other monocytic leukaemia NOS,res50: cancer,diagnostic
+Read,B66z.00,Monocytic leukaemia NOS,res50: cancer,diagnostic
+Read,B800400,Carcinoma in situ of floor of mouth,res50: cancer,diagnostic
+Read,BB5P.00,[M]Solid carcinoma NOS,res50: cancer,diagnostic
+Read,B6y..00,Malignant neoplasm lymphatic or haematopoietic tissue OS,res50: cancer,diagnostic
+Read,B68..00,Leukaemia of unspecified cell type,res50: cancer,diagnostic
+Read,B67y.00,Other and unspecified leukaemia,res50: cancer,diagnostic
+Read,B677.00,Myelodysplastic and myeloproliferative disease,res50: cancer,diagnostic
+Read,B673.00,Mast cell leukaemia,res50: cancer,diagnostic
+Read,B672.11,Thrombocytic leukaemia,res50: cancer,diagnostic
+Read,B675.00,Acute myelofibrosis,res50: cancer,diagnostic
+Read,B674.00,Acute panmyelosis,res50: cancer,diagnostic
+Read,B67z.00,Other specified leukaemia NOS,res50: cancer,diagnostic
+Read,BB5Mz00,[M]Tubular adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,B67y000,Lymphosarcoma cell leukaemia,res50: cancer,diagnostic
+Read,B67yz00,Other and unspecified leukaemia NOS,res50: cancer,diagnostic
+Read,B693.00,Juvenile myelomonocytic leukaemia,res50: cancer,diagnostic
+Read,B68y.00,Other leukaemia of unspecified cell type,res50: cancer,diagnostic
+Read,B680.00,Acute leukaemia NOS,res50: cancer,diagnostic
+Read,B682.00,Subacute leukaemia NOS,res50: cancer,diagnostic
+Read,B681.00,Chronic leukaemia NOS,res50: cancer,diagnostic
+Read,BB5L300,[M]Adenocarcinoma in multiple adenomatous polyps,res50: cancer,diagnostic
+Read,B692.00,Subacute myelomonocytic leukaemia,res50: cancer,diagnostic
+Read,B68z.00,Leukaemia NOS,res50: cancer,diagnostic
+Read,B691.00,Chronic myelomonocytic leukaemia,res50: cancer,diagnostic
+Read,B69..00,Myelomonocytic leukaemia,res50: cancer,diagnostic
+Read,B690.00,Acute myelomonocytic leukaemia,res50: cancer,diagnostic
+Read,B800300,Carcinoma in situ of gums,res50: cancer,diagnostic
+Read,B800.11,Carcinoma in situ of oral cavity,res50: cancer,diagnostic
+Read,B6y0.11,Myeloproliferative disease,res50: cancer,diagnostic
+Read,B6y0.00,Myeloproliferative disorder,res50: cancer,diagnostic
+Read,B800.00,"Carcinoma in situ of lip, oral cavity and pharynx",res50: cancer,diagnostic
+Read,B6y1.00,Myelosclerosis with myeloid metaplasia,res50: cancer,diagnostic
+Read,B6z..00,Malignant neoplasm lymphatic or haematopoietic tissue NOS,res50: cancer,diagnostic
+Read,B80..00,Carcinoma in situ of digestive organs,res50: cancer,diagnostic
+Read,B8...00,Carcinoma in situ,res50: cancer,diagnostic
+Read,B800200,Carcinoma in situ of salivary glands,res50: cancer,diagnostic
+Read,BBGM.00,[M]Dermatofibrosarcoma NOS,res50: cancer,diagnostic
+Read,B800.12,Carcinoma in situ of pharynx,res50: cancer,diagnostic
+Read,BB5L100,[M]Adenocarcinoma in adenomatous polyp,res50: cancer,diagnostic
+Read,B800100,Carcinoma in situ of tongue,res50: cancer,diagnostic
+Read,B800000,Carcinoma in situ of lip,res50: cancer,diagnostic
+Read,BBV1.12,[M]Osteochondrosarcoma,res50: cancer,diagnostic
+Read,BB5K.00,[M]Cribriform carcinoma,res50: cancer,diagnostic
+Read,B823.00,Carcinoma in situ of skin of other parts of face,res50: cancer,diagnostic
+Read,BB5J.00,[M]Adenoid cystic carcinoma,res50: cancer,diagnostic
+Read,B803.00,Carcinoma in situ of colon,res50: cancer,diagnostic
+Read,B64..11,Lymphatic leukaemia,res50: cancer,diagnostic
+Read,B62xX00,Oth and unspecif peripheral & cutaneous T-cell lymphomas,res50: cancer,diagnostic
+Read,BB5F.00,[M]Trabecular adenocarcinoma,res50: cancer,diagnostic
+Read,B62x.00,Malignant lymphoma otherwise specified,res50: cancer,diagnostic
+Read,B62F200,Lymphoblastic (diffuse) lymphoma,res50: cancer,diagnostic
+Read,B62F100,Mantle cell lymphoma,res50: cancer,diagnostic
+Read,B62x600,True histiocytic lymphoma,res50: cancer,diagnostic
+Read,B62x200,Peripheral T-cell lymphoma,res50: cancer,diagnostic
+Read,BB5D513,[M]Liver cell carcinoma,res50: cancer,diagnostic
+Read,B62x000,T-zone lymphoma,res50: cancer,diagnostic
+Read,BB5D300,[M]Bile duct cystadenocarcinoma,res50: cancer,diagnostic
+Read,B62x100,Lymphoepithelioid lymphoma,res50: cancer,diagnostic
+Read,B62x400,Malignant reticulosis,res50: cancer,diagnostic
+Read,BB5D.11,[M]Biliary tract adenomas and adenocarcinomas,res50: cancer,diagnostic
+Read,B62x500,Malignant immunoproliferative small intestinal disease,res50: cancer,diagnostic
+Read,BB5C.00,[M]Gastrinoma and carcinomas,res50: cancer,diagnostic
+Read,B62y400,Malignant lymphoma NOS of lymph nodes of axilla and arm,res50: cancer,diagnostic
+Read,B62y100,"Malignant lymphoma NOS of lymph nodes of head, face and neck",res50: cancer,diagnostic
+Read,B62y000,Malignant lymphoma NOS of unspecified site,res50: cancer,diagnostic
+Read,B62y200,Malignant lymphoma NOS of intrathoracic lymph nodes,res50: cancer,diagnostic
+Read,B62y300,Malignant lymphoma NOS of intra-abdominal lymph nodes,res50: cancer,diagnostic
+Read,B64..00,Lymphoid leukaemia,res50: cancer,diagnostic
+Read,B63..00,Multiple myeloma and immunoproliferative neoplasms,res50: cancer,diagnostic
+Read,B62y700,Malignant lymphoma NOS of spleen,res50: cancer,diagnostic
+Read,B62y600,Malignant lymphoma NOS of intrapelvic lymph nodes,res50: cancer,diagnostic
+Read,B62y800,Malignant lymphoma NOS of lymph nodes of multiple sites,res50: cancer,diagnostic
+Read,B62z100,Unspec malig neop lymphoid/histiocytic lymph node head/neck,res50: cancer,diagnostic
+Read,B62z.00,Malignant neoplasms of lymphoid and histiocytic tissue NOS,res50: cancer,diagnostic
+Read,B62yz00,Malignant lymphoma NOS,res50: cancer,diagnostic
+Read,B62z000,Unspec malig neop lymphoid/histiocytic of unspecified site,res50: cancer,diagnostic
+Read,B62zz11,Immunoproliferative neoplasm,res50: cancer,diagnostic
+Read,B62z300,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes,res50: cancer,diagnostic
+Read,B63z.00,Immunoproliferative neoplasm or myeloma NOS,res50: cancer,diagnostic
+Read,B630000,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",res50: cancer,diagnostic
+Read,B630.00,Multiple myeloma,res50: cancer,diagnostic
+Read,B630.12,Myelomatosis,res50: cancer,diagnostic
+Read,B630.11,Kahler's disease,res50: cancer,diagnostic
+Read,B63y.00,Other immunoproliferative neoplasms,res50: cancer,diagnostic
+Read,B630400,Solitary plasmacytoma,res50: cancer,diagnostic
+Read,B630300,Lambda light chain myeloma,res50: cancer,diagnostic
+Read,B631.00,Plasma cell leukaemia,res50: cancer,diagnostic
+Read,B802400,Carcinoma in situ of pyloric canal,res50: cancer,diagnostic
+Read,B800z00,"Carcinoma in situ of lip, oral cavity and pharynx NOS",res50: cancer,diagnostic
+Read,B651000,Chronic eosinophilic leukaemia,res50: cancer,diagnostic
+Read,B641100,Clinical stage A chronic lymphocytic leukaemia,res50: cancer,diagnostic
+Read,B641.11,Chronic lymphatic leukaemia,res50: cancer,diagnostic
+Read,B641.00,Chronic lymphoid leukaemia,res50: cancer,diagnostic
+Read,B640.00,Acute lymphoid leukaemia,res50: cancer,diagnostic
+Read,B640000,B-cell acute lymphoblastic leukaemia,res50: cancer,diagnostic
+Read,B641011,Chronic lymphocytic leukaemia of B-cell type,res50: cancer,diagnostic
+Read,B641000,B-cell chronic lymphocytic leukaemia,res50: cancer,diagnostic
+Read,B651.11,Chronic granulocytic leukaemia,res50: cancer,diagnostic
+Read,B64y300,B-cell prolymphocytic leukaemia,res50: cancer,diagnostic
+Read,B642.00,Subacute lymphoid leukaemia,res50: cancer,diagnostic
+Read,B641200,Clinical stage B chronic lymphocytic leukaemia,res50: cancer,diagnostic
+Read,B641300,Clinical stage C chronic lymphocytic leukaemia,res50: cancer,diagnostic
+Read,B64y200,Adult T-cell leukaemia,res50: cancer,diagnostic
+Read,B64y.00,Other lymphoid leukaemia,res50: cancer,diagnostic
+Read,B64y100,Prolymphocytic leukaemia,res50: cancer,diagnostic
+Read,B651.00,Chronic myeloid leukaemia,res50: cancer,diagnostic
+Read,B64yz00,Other lymphoid leukaemia NOS,res50: cancer,diagnostic
+Read,B64y400,T-cell prolymphocytic leukaemia,res50: cancer,diagnostic
+Read,B64y500,Adult T-cell lymphoma/leukaemia (HTLV-1-associated),res50: cancer,diagnostic
+Read,B650.00,Acute myeloid leukaemia,res50: cancer,diagnostic
+Read,B64z.00,Lymphoid leukaemia NOS,res50: cancer,diagnostic
+Read,B65..00,Myeloid leukaemia,res50: cancer,diagnostic
+Read,B800900,Carcinoma in situ of hypopharynx,res50: cancer,diagnostic
+Read,B651200,Chronic neutrophilic leukaemia,res50: cancer,diagnostic
+Read,B651100,"Chronic myeloid leukaemia, BCR/ABL positive",res50: cancer,diagnostic
+Read,B630100,Solitary myeloma,res50: cancer,diagnostic
+Read,B651300,"Atypical chronic myeloid leukaemia, BCR/ABL negative",res50: cancer,diagnostic
+Read,B630200,Plasmacytoma NOS,res50: cancer,diagnostic
+Read,B800700,Carcinoma in situ of nasopharynx,res50: cancer,diagnostic
+Read,B802200,Carcinoma in situ of body of stomach,res50: cancer,diagnostic
+Read,B801000,Carcinoma in situ of upper 1/3 oesophagus,res50: cancer,diagnostic
+Read,B802100,Carcinoma in situ of fundus of stomach,res50: cancer,diagnostic
+Read,B801z00,Carcinoma in situ of oesophagus NOS,res50: cancer,diagnostic
+Read,B801200,Carcinoma in situ of lower 1/3 oesophagus,res50: cancer,diagnostic
+Read,B822000,Carcinoma in situ of skin of auricle,res50: cancer,diagnostic
+Read,B80z.00,Carcinoma in situ of other and unspecified digestive organs,res50: cancer,diagnostic
+Read,BB56.00,[M]Superficial spreading adenocarcinoma,res50: cancer,diagnostic
+Read,B803200,Carcinoma in situ of descending colon,res50: cancer,diagnostic
+Read,B803000,Carcinoma in situ of hepatic flexure of colon,res50: cancer,diagnostic
+Read,BB53.00,"[M]Adenocarcinoma, metastatic, NOS",res50: cancer,diagnostic
+Read,B808600,Carcinoma in situ of ampulla of Vater,res50: cancer,diagnostic
+Read,BB52.00,[M]Adenocarcinoma NOS,res50: cancer,diagnostic
+Read,B806.00,Carcinoma in situ of anus NOS,res50: cancer,diagnostic
+Read,BB5..11,[M]Adenocarcinomas,res50: cancer,diagnostic
+Read,B803700,Carcinoma in situ of splenic flexure of colon,res50: cancer,diagnostic
+Read,BB4A.00,[M]Papillary transitional cell carcinoma,res50: cancer,diagnostic
+Read,B803600,Carcinoma in situ of ascending colon,res50: cancer,diagnostic
+Read,B803400,Carcinoma in situ of caecum,res50: cancer,diagnostic
+Read,B803500,Carcinoma in situ of appendix,res50: cancer,diagnostic
+Read,BB47.00,"[M]Transitional cell carcinoma, spindle cell type",res50: cancer,diagnostic
+Read,B805.00,Carcinoma in situ of anal canal,res50: cancer,diagnostic
+Read,BB43.11,[M]Urothelial carcinoma,res50: cancer,diagnostic
+Read,B804z00,Carcinoma in situ of rectum or rectosigmoid junction NOS,res50: cancer,diagnostic
+Read,BB42.00,[M]Transitional cell carcinoma in situ,res50: cancer,diagnostic
+Read,B804000,Carcinoma in situ of rectosigmoid junction,res50: cancer,diagnostic
+Read,B804.00,Carcinoma in situ of rectum and rectosigmoid junction,res50: cancer,diagnostic
+Read,BB3z.00,[M]Basal cell neoplasm NOS,res50: cancer,diagnostic
+Read,B808500,Carcinoma in situ of common bile duct,res50: cancer,diagnostic
+Read,B807z00,Carcinoma in situ other and unspecified small intestine NOS,res50: cancer,diagnostic
+Read,B807.00,Carcinoma in situ of other and unspecified small intestine,res50: cancer,diagnostic
+Read,B807300,Carcinoma in situ of Meckel's diverticulum,res50: cancer,diagnostic
+Read,B807100,Carcinoma in situ of jejunum,res50: cancer,diagnostic
+Read,BB3F.00,"[M]Basal cell carcinoma, infiltrative",res50: cancer,diagnostic
+Read,B807000,Carcinoma in situ of duodenum,res50: cancer,diagnostic
+Read,BB3D.00,"[M]Basal cell carcinoma, nodular",res50: cancer,diagnostic
+Read,B808400,Carcinoma in situ of cystic duct,res50: cancer,diagnostic
+Read,BB3B.11,[M]Malherbe's calcified epithelioma,res50: cancer,diagnostic
+Read,B808000,Carcinoma in situ of liver,res50: cancer,diagnostic
+Read,BB38.00,[M]Trichoepithelioma,res50: cancer,diagnostic
+Read,B808.00,Carcinoma in situ of liver and biliary system,res50: cancer,diagnostic
+Read,BB36.00,[M]Metatypical carcinoma,res50: cancer,diagnostic
+Read,B808200,Carcinoma in situ of hepatic duct,res50: cancer,diagnostic
+Read,BB34.00,"[M]Basal cell carcinoma, fibroepithelial type",res50: cancer,diagnostic
+Read,B307200,Malignant neoplasm of tibia,res50: cancer,diagnostic
+Read,BB32.00,[M]Multicentric basal cell carcinoma,res50: cancer,diagnostic
+Read,B808100,Carcinoma in situ of intrahepatic bile ducts,res50: cancer,diagnostic
+Read,BB3..00,[M]Basal cell neoplasms,res50: cancer,diagnostic
+Read,B822z00,Carcinoma in situ skin of ear/external auricular canal NOS,res50: cancer,diagnostic
+Read,BB2M.00,[M]Lymphoepithelial carcinoma,res50: cancer,diagnostic
+Read,B811.00,Carcinoma in situ of trachea,res50: cancer,diagnostic
+Read,B810600,Carcinoma in situ of aryepiglottic fold,res50: cancer,diagnostic
+Read,B810200,Carcinoma in situ of epiglottis,res50: cancer,diagnostic
+Read,B808z00,Carcinoma in situ of liver or biliary system NOS,res50: cancer,diagnostic
+Read,B810000,Carcinoma in situ of thyroid cartilage,res50: cancer,diagnostic
+Read,BB2F.00,"[M]Squamous cell carcinoma, spindle cell type",res50: cancer,diagnostic
+Read,B80z000,Carcinoma in situ of pancreas,res50: cancer,diagnostic
+Read,B81..00,Carcinoma in situ of respiratory system,res50: cancer,diagnostic
+Read,B810z00,Carcinoma in situ of larynx NOS,res50: cancer,diagnostic
+Read,BB2A.12,[M]Spinous cell carcinoma,res50: cancer,diagnostic
+Read,B810800,Carcinoma in situ of vocal fold - glottis,res50: cancer,diagnostic
+Read,B822.11,Carcinoma in situ of ear,res50: cancer,diagnostic
+Read,B81y400,Carcinoma in situ of Eustachian tube,res50: cancer,diagnostic
+Read,B812000,Carcinoma in situ of carina of bronchus,res50: cancer,diagnostic
+Read,B81y000,Carcinoma in situ of pleura,res50: cancer,diagnostic
+Read,B812200,Carcinoma in situ of upper lobe bronchus and lung,res50: cancer,diagnostic
+Read,BB29.13,[M]Intraepithelial squamous cell carcinoma,res50: cancer,diagnostic
+Read,B812300,Carcinoma in situ of middle lobe bronchus and lung,res50: cancer,diagnostic
+Read,BB29.00,[M]Squamous cell carcinoma in situ NOS,res50: cancer,diagnostic
+Read,B812400,Carcinoma in situ of lower lobe bronchus and lung,res50: cancer,diagnostic
+Read,B81y.00,Carcinoma in situ of other specified part respiratory system,res50: cancer,diagnostic
+Read,BB24.12,[M]Verrucous squamous cell carcinoma,res50: cancer,diagnostic
+Read,B812z00,Carcinoma in situ of bronchus or lung NOS,res50: cancer,diagnostic
+Read,B82..00,Carcinoma in situ of skin,res50: cancer,diagnostic
+Read,B81z.00,Carcinoma in situ of respiratory organ NOS,res50: cancer,diagnostic
+Read,B81y500,Carcinoma in situ of mastoid air cells,res50: cancer,diagnostic
+Read,B81yz00,Carcinoma in situ of specified parts respiratory system NOS,res50: cancer,diagnostic
+Read,B81y600,Carcinoma in situ of maxillary sinus,res50: cancer,diagnostic
+Read,B81y900,Carcinoma in situ of sphenoidal sinus,res50: cancer,diagnostic
+Read,B822.00,Carcinoma in situ skin of ear and external auricular canal,res50: cancer,diagnostic
+Read,B820.00,Carcinoma in situ of skin of lip,res50: cancer,diagnostic
+Read,B821.00,Carcinoma in situ of skin of eyelid including canthus,res50: cancer,diagnostic
+Read,BBZN.00,[M]Ameloblastic fibrosarcoma,res50: cancer,diagnostic
+Read,BB82z00,[M]Mucinous adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,BB5jz00,[M]Endometrioid adenoma or carcinoma NOS,res50: cancer,diagnostic
+Read,BB5Nz00,[M]Adenomatous or adenocarcinomatous polyps of the colon NOS,res50: cancer,diagnostic
+Read,BB33.00,"[M]Basal cell carcinoma, morphoea type",res50: cancer,diagnostic
+Read,BB1F.00,[M]Polygonal cell carcinoma,res50: cancer,diagnostic
+Read,B827.00,Carcinoma in situ of skin of lower limb and hip,res50: cancer,diagnostic
+Read,B826z00,Carcinoma in situ of skin of upper limb or shoulder NOS,res50: cancer,diagnostic
+Read,B825700,Carcinoma in situ of skin of buttock,res50: cancer,diagnostic
+Read,B825500,Carcinoma in situ of skin of groin,res50: cancer,diagnostic
+Read,B824100,Carcinoma in situ of skin of neck,res50: cancer,diagnostic
+Read,B824.00,Carcinoma in situ of scalp and skin of neck,res50: cancer,diagnostic
+Read,B823500,Carcinoma in situ of skin of temple,res50: cancer,diagnostic
+Read,B825400,Carcinoma in situ of skin of abdominal wall,res50: cancer,diagnostic
+Read,B825300,Carcinoma in situ of skin of back,res50: cancer,diagnostic
+Read,B825.00,"Carcinoma in situ of skin of trunk, excluding scrotum",res50: cancer,diagnostic
+Read,B825100,Carcinoma in situ of skin of chest wall NOS,res50: cancer,diagnostic
+Read,B826000,Carcinoma in situ of skin of shoulder,res50: cancer,diagnostic
+Read,B826.00,Carcinoma in situ of skin of upper limb and shoulder,res50: cancer,diagnostic
+Read,B825z00,Carcinoma in situ of skin of trunk NOS,res50: cancer,diagnostic
+Read,BB1E.00,[M]Pseudosarcomatous carcinoma,res50: cancer,diagnostic
+Read,BB17.00,[M]Large cell carcinoma NOS,res50: cancer,diagnostic
+Read,B82y.00,Carcinoma in situ of other specified sites of skin,res50: cancer,diagnostic
+Read,B827200,Carcinoma in situ of skin of knee,res50: cancer,diagnostic
+Read,B827000,Carcinoma in situ of skin of hip,res50: cancer,diagnostic
+Read,B827400,Carcinoma in situ of skin of foot,res50: cancer,diagnostic
+Read,BB16.00,"[M]Epithelioma, malignant",res50: cancer,diagnostic
+Read,BB1D.00,[M]Spindle cell carcinoma,res50: cancer,diagnostic
+Read,BB1A.00,[M]Pleomorphic carcinoma,res50: cancer,diagnostic
+Read,BB18.00,"[M]Carcinoma, undifferentiated type, NOS",res50: cancer,diagnostic
+Read,BB22.00,[M]Papillary carcinoma NOS,res50: cancer,diagnostic
+Read,BB19.00,"[M]Carcinoma, anaplastic type, NOS",res50: cancer,diagnostic
+Read,BB1C.00,[M]Giant cell carcinoma,res50: cancer,diagnostic
+Read,BB1B.00,[M]Giant cell and spindle cell carcinoma,res50: cancer,diagnostic
+Read,BB31.00,[M]Basal cell carcinoma NOS,res50: cancer,diagnostic
+Read,BB2A.11,[M]Epidermoid carcinoma NOS,res50: cancer,diagnostic
+Read,BB1L.00,"[M]Small cell carcinoma, fusiform cell type",res50: cancer,diagnostic
+Read,BB1J.12,[M]Round cell carcinoma,res50: cancer,diagnostic
+Read,BB1H.00,[M]Tumourlet,res50: cancer,diagnostic
+Read,BB1G.00,[M]Spheroidal cell carcinoma,res50: cancer,diagnostic
+Read,BB2A.00,[M]Squamous cell carcinoma NOS,res50: cancer,diagnostic
+Read,BB2..12,[M]Squamous cell neoplasms,res50: cancer,diagnostic
+Read,BB26.00,[M]Papillary squamous cell carcinoma,res50: cancer,diagnostic
+Read,BB24.00,[M]Verrucous carcinoma NOS,res50: cancer,diagnostic
+Read,BB2..00,[M]Papillary and squamous cell neoplasms,res50: cancer,diagnostic
+Read,BB2..11,[M]Papillary neoplasms,res50: cancer,diagnostic
+Read,BB1z.00,[M]Unspecified epithelial neoplasm,res50: cancer,diagnostic
+Read,BB21.00,[M]Papillary carcinoma in situ,res50: cancer,diagnostic
+Read,BB1P.00,[M]Non-small cell carcinoma,res50: cancer,diagnostic
+Read,BB24.11,[M]Verrucous epidermoid carcinoma,res50: cancer,diagnostic
+Read,BB29.12,[M]Intraepidermal carcinoma NOS,res50: cancer,diagnostic
+Read,BB1M.00,"[M]Small cell carcinoma, intermediate cell",res50: cancer,diagnostic
+Read,BB29.11,[M]Epidermoid carcinoma in situ,res50: cancer,diagnostic
+Read,BB1K.00,[M]Oat cell carcinoma,res50: cancer,diagnostic
+Read,BB26.11,[M]Papillary epidermoid carcinoma,res50: cancer,diagnostic
+Read,BB1J.00,[M]Small cell carcinoma NOS,res50: cancer,diagnostic
+Read,BB30.00,[M]Basal cell tumour,res50: cancer,diagnostic
+Read,BB2C.11,"[M]Epidermoid carcinoma, keratinising type",res50: cancer,diagnostic
+Read,BB2A.13,[M]Squamous cell carcinoma of skin NOS,res50: cancer,diagnostic
+Read,BB2C.00,"[M]Squamous cell carcinoma, keratinising type NOS",res50: cancer,diagnostic
+Read,BB2B.00,"[M]Squamous cell carcinoma, metastatic NOS",res50: cancer,diagnostic
+Read,BB2z.00,[M]Papillary or squamous cell neoplasm NOS,res50: cancer,diagnostic
+Read,BB2G.00,[M]Adenoid squamous cell carcinoma,res50: cancer,diagnostic
+Read,BB2D.00,"[M]Squamous cell carcinoma, large cell, non-keratinising",res50: cancer,diagnostic
+Read,BB2E.00,"[M]Squamous cell carcinoma, small cell, non-keratinising",res50: cancer,diagnostic
+Read,BB2J.00,"[M]Squamous cell carcinoma, microinvasive",res50: cancer,diagnostic
+Read,BB5j.00,[M]Endometrioid adenomas and carcinomas,res50: cancer,diagnostic
+Read,BB5N100,[M]Adenocarcinoma in adenomatous polposis coli,res50: cancer,diagnostic
+Read,BB5B.00,[M]Pancreatic adenomas and carcinomas,res50: cancer,diagnostic
+Read,BB43.00,[M]Transitional cell carcinoma NOS,res50: cancer,diagnostic
+Read,BB38.12,[M]Epithelioma adenoides cyst,res50: cancer,diagnostic
+Read,BB37.00,[M]Intraepidermal epithelioma of Jadassohn,res50: cancer,diagnostic
+Read,BB35.00,[M]Basosquamous carcinoma,res50: cancer,diagnostic
+Read,BB4..00,[M]Transitional cell papillomas and carcinomas,res50: cancer,diagnostic
+Read,BB3C.00,[M]Superficial basal cell carcinoma,res50: cancer,diagnostic
+Read,BB3G.00,[M]Pigmented basal cell carcinoma,res50: cancer,diagnostic
+Read,BB3E.00,"[M]Basal cell carcinoma, micronodular",res50: cancer,diagnostic
+Read,BB58.00,"[M]Carcinoma, diffuse type",res50: cancer,diagnostic
+Read,BB48.00,[M]Basaloid carcinoma,res50: cancer,diagnostic
+Read,BB46.00,[M]Schneiderian carcinoma,res50: cancer,diagnostic
+Read,BB57.00,"[M]Adenocarcinoma, intestinal type",res50: cancer,diagnostic
+Read,BB5..00,[M]Adenomas and adenocarcinomas,res50: cancer,diagnostic
+Read,BB49.00,[M]Cloacogenic carcinoma,res50: cancer,diagnostic
+Read,BB4z.00,[M]Transitional cell papilloma or carcinoma NOS,res50: cancer,diagnostic
+Read,BB54.00,[M]Scirrhous adenocarcinoma,res50: cancer,diagnostic
+Read,BB51.00,[M]Adenocarcinoma in situ,res50: cancer,diagnostic
+Read,BB52000,[M]Adenocarcinoma in tubulovillous adenoma,res50: cancer,diagnostic
+Read,BB51100,[M]Adenocarcinoma in situ in tubulovillous adenoma,res50: cancer,diagnostic
+Read,BB12.00,[M]Carcinoma NOS,res50: cancer,diagnostic
+Read,BB51000,[M]Adenocarcinoma in situ in villous adenoma,res50: cancer,diagnostic
+Read,BB11.00,[M]Carcinoma in situ NOS,res50: cancer,diagnostic
+Read,BB5hz00,[M]Adrenal cortical tumours NOS,res50: cancer,diagnostic
+Read,BB1..00,[M]Epithelial neoplasms NOS,res50: cancer,diagnostic
+Read,BB5N.11,[M]Adenoma or or adenocarcinoma in polyposis coli,res50: cancer,diagnostic
+Read,BB0A.00,"[M]Malignant tumour, fusiform cell type",res50: cancer,diagnostic
+Read,BB5Lz00,[M]Adenomatous or adenocarcinomatous polyp NOS,res50: cancer,diagnostic
+Read,BB08.00,"[M]Malignant tumour, small cell type",res50: cancer,diagnostic
+Read,BB5Cz00,[M]Gastrinoma or carcinoma NOS,res50: cancer,diagnostic
+Read,BB5Bz00,[M]Pancreatic adenoma or carcinoma NOS,res50: cancer,diagnostic
+Read,BB5B100,[M]Islet cell carcinoma,res50: cancer,diagnostic
+Read,BB5B600,[M]Mixed islet cell and exocrine adenocarcinoma,res50: cancer,diagnostic
+Read,BB5C011,[M]G cell tumour NOS,res50: cancer,diagnostic
+Read,BB5L200,[M]Adenocarcinoma in situ in adenomatous polyp,res50: cancer,diagnostic
+Read,BB5D100,[M]Cholangiocarcinoma,res50: cancer,diagnostic
+Read,BB5D.00,[M]Hepatobiliary tract adenomas and carcinomas,res50: cancer,diagnostic
+Read,BB5L.00,[M]Adenomatous and adenocarcinomatous polyps,res50: cancer,diagnostic
+Read,BB5D700,[M]Combined hepatocellular carcinoma and cholangiocarcinoma,res50: cancer,diagnostic
+Read,BB03.13,[M]Tumour embolism,res50: cancer,diagnostic
+Read,BB5D111,[M]Bile duct carcinoma,res50: cancer,diagnostic
+Read,BB5D500,[M]Hepatocellular carcinoma NOS,res50: cancer,diagnostic
+Read,BB5J.11,[M]Cylindroid adenocarcinoma,res50: cancer,diagnostic
+Read,BB03.11,[M]Secondary neoplasm,res50: cancer,diagnostic
+Read,BB5Dz00,[M]Hepatobiliary adenoma or carcinoma NOS,res50: cancer,diagnostic
+Read,BB5D800,"[M]Hepatocellular carcinoma, fibrolamellar",res50: cancer,diagnostic
+Read,BB5H.11,[M]Turban tumour,res50: cancer,diagnostic
+Read,BB5Sz00,[M]Respiratory tract adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,BB5N.00,[M]Adenomatous and adenocarcinomatous polyps of colon,res50: cancer,diagnostic
+Read,BB5M100,[M]Tubular adenocarcinoma,res50: cancer,diagnostic
+Read,BB5M.00,[M]Tubular adenomas and adenocarcinomas,res50: cancer,diagnostic
+Read,BB5S212,[M]Bronchiolar carcinoma,res50: cancer,diagnostic
+Read,BBK..00,[M]Myomatous neoplasms,res50: cancer,diagnostic
+Read,BBZD.00,[M]Adenomatoid odontogenic tumour,res50: cancer,diagnostic
+Read,BB82114,[M]Mucous adenocarcinoma,res50: cancer,diagnostic
+Read,BB5y200,[M]Klatskin's tumour,res50: cancer,diagnostic
+Read,BB5S200,[M]Bronchiolo-alveolar adenocarcinoma,res50: cancer,diagnostic
+Read,BB5y000,[M]Basal cell adenocarcinoma,res50: cancer,diagnostic
+Read,BB81.13,[M]Ovarian papillary tumour,res50: cancer,diagnostic
+Read,BB7..00,[M]Mucoepidermoid neoplasms,res50: cancer,diagnostic
+Read,BB6A.00,[M]Ceruminous adenoma and adenocarcinoma,res50: cancer,diagnostic
+Read,BB5z.00,[M]Adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,BB61100,[M]Sweat gland tumour NOS,res50: cancer,diagnostic
+Read,BB69100,[M]Sebaceous adenocarcinoma,res50: cancer,diagnostic
+Read,BB61200,[M]Sweat gland adenocarcinoma,res50: cancer,diagnostic
+Read,BB60100,[M]Skin appendage carcinoma,res50: cancer,diagnostic
+Read,BB6..00,[M]Adnexal and skin appendage neoplasms,res50: cancer,diagnostic
+Read,BB62z00,[M]Apocrine adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,BB62.00,[M]Apocrine adenoma and adenocarcinomas,res50: cancer,diagnostic
+Read,BB81.12,[M]Ovarian mucinous tumour,res50: cancer,diagnostic
+Read,BB8..00,"[M]Cystic, mucinous and serous neoplasms",res50: cancer,diagnostic
+Read,BB7z.00,[M]Mucoepidermoid neoplasm NOS,res50: cancer,diagnostic
+Read,BB70.00,[M]Mucoepidermoid tumour,res50: cancer,diagnostic
+Read,B6z0.00,Kaposi's sarcoma of lymph nodes,res50: cancer,diagnostic
+Read,B801.00,Carcinoma in situ of oesophagus,res50: cancer,diagnostic
+Read,B801100,Carcinoma in situ of middle 1/3 oesophagus,res50: cancer,diagnostic
+Read,BB81.11,[M]Ovarian cystadenoma or carcinoma,res50: cancer,diagnostic
+Read,BB...11,[M]Tumour morphology,res50: cancer,diagnostic
+Read,B627200,Follicular non-Hodgkin's large cell lymphoma,res50: cancer,diagnostic
+Read,BA...00,Unspecified nature neoplasm,res50: cancer,diagnostic
+Read,B627700,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma,res50: cancer,diagnostic
+Read,B91zz00,Uncertain neoplasm of urinary organ NOS,res50: cancer,diagnostic
+Read,B627900,Mucosa-associated lymphoma,res50: cancer,diagnostic
+Read,B802000,Carcinoma in situ of cardia of stomach,res50: cancer,diagnostic
+Read,B802300,Carcinoma in situ of pyloric antrum,res50: cancer,diagnostic
+Read,B627800,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),res50: cancer,diagnostic
+Read,B91z111,Renal neoplasm of uncertain behaviour,res50: cancer,diagnostic
+Read,B802z00,Carcinoma in situ of stomach NOS,res50: cancer,diagnostic
+Read,B803100,Carcinoma in situ of transverse colon,res50: cancer,diagnostic
+Read,B627300,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,res50: cancer,diagnostic
+Read,B627500,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma,res50: cancer,diagnostic
+Read,B803300,Carcinoma in situ of sigmoid colon,res50: cancer,diagnostic
+Read,B803z00,Carcinoma in situ of colon NOS,res50: cancer,diagnostic
+Read,B627400,Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma,res50: cancer,diagnostic
+Read,B804100,Carcinoma in situ of rectum,res50: cancer,diagnostic
+Read,B807200,Carcinoma in situ of ileum,res50: cancer,diagnostic
+Read,BB80z00,[M]Cystadenoma or carcinoma NOS,res50: cancer,diagnostic
+Read,BB80.00,[M]Cystadenoma and carcinoma,res50: cancer,diagnostic
+Read,B626z00,Malignant mast cell tumour NOS,res50: cancer,diagnostic
+Read,B808.11,Carcinoma in situ of biliary system,res50: cancer,diagnostic
+Read,B808300,Carcinoma in situ of gall bladder,res50: cancer,diagnostic
+Read,B625z00,Letterer-Siwe disease NOS,res50: cancer,diagnostic
+Read,B80z100,Carcinoma in situ of spleen,res50: cancer,diagnostic
+Read,B810.00,Carcinoma in situ of larynx,res50: cancer,diagnostic
+Read,BB80100,[M]Cystadenocarcinoma NOS,res50: cancer,diagnostic
+Read,B624300,Leukaemic reticuloend of intra-abdominal lymph nodes,res50: cancer,diagnostic
+Read,B810100,Carcinoma in situ of cricoid cartilage,res50: cancer,diagnostic
+Read,B810300,Carcinoma in situ of arytenoid cartilage,res50: cancer,diagnostic
+Read,B623300,Malignant histiocytosis of intra-abdominal lymph nodes,res50: cancer,diagnostic
+Read,B810700,Carcinoma in situ of vestibular fold,res50: cancer,diagnostic
+Read,B810811,Carcinoma in situ of glottis,res50: cancer,diagnostic
+Read,BB91000,[M]Intraductal papillary adenocarcinoma with invasion,res50: cancer,diagnostic
+Read,BB85000,[M]Signet ring cell carcinoma,res50: cancer,diagnostic
+Read,B613.00,"Hodgkin's disease, lymphocytic-histiocytic predominance",res50: cancer,diagnostic
+Read,B615100,"Hodgkin's mixed cellularity of lymph nodes head, face, neck",res50: cancer,diagnostic
+Read,B61z500,Hodgkin's disease NOS of lymph nodes inguinal region and leg,res50: cancer,diagnostic
+Read,B620200,Nodular lymphoma of intrathoracic lymph nodes,res50: cancer,diagnostic
+Read,B621500,Mycosis fungoides of lymph nodes of inguinal region and leg,res50: cancer,diagnostic
+Read,B812.00,Carcinoma in situ of bronchus and lung,res50: cancer,diagnostic
+Read,B812100,Carcinoma in situ of main bronchus,res50: cancer,diagnostic
+Read,B620300,Nodular lymphoma of intra-abdominal lymph nodes,res50: cancer,diagnostic
+Read,B81y.11,Carcinoma in situ of nasal sinuses,res50: cancer,diagnostic
+Read,B81y100,Carcinoma in situ of nasal cavity,res50: cancer,diagnostic
+Read,B61z700,Hodgkin's disease NOS of spleen,res50: cancer,diagnostic
+Read,B61zz00,Hodgkin's disease NOS,res50: cancer,diagnostic
+Read,B81y700,Carcinoma in situ of ethmoidal sinus,res50: cancer,diagnostic
+Read,B823100,Carcinoma in situ of skin of eyebrow,res50: cancer,diagnostic
+Read,B802.00,Carcinoma in situ of stomach,res50: cancer,diagnostic
+Read,B823400,Carcinoma in situ of skin of nose,res50: cancer,diagnostic
+Read,B823600,Carcinoma in situ of skin of jaw,res50: cancer,diagnostic
+Read,B615200,Hodgkin's mixed cellularity of intrathoracic lymph nodes,res50: cancer,diagnostic
+Read,B616400,Hodgkin's lymphocytic depletion lymph nodes axilla and arm,res50: cancer,diagnostic
+Read,B61z200,Hodgkin's disease NOS of intrathoracic lymph nodes,res50: cancer,diagnostic
+Read,B824000,Carcinoma in situ of scalp,res50: cancer,diagnostic
+Read,B825000,Carcinoma in situ of skin of breast,res50: cancer,diagnostic
+Read,B616700,"Hodgkin's disease, lymphocytic depletion of spleen",res50: cancer,diagnostic
+Read,B825200,Carcinoma in situ of skin of axilla,res50: cancer,diagnostic
+Read,B825600,Carcinoma in situ of skin of perineum,res50: cancer,diagnostic
+Read,B615500,Hodgkin's mixed cellularity of lymph nodes inguinal and leg,res50: cancer,diagnostic
+Read,B615z00,"Hodgkin's disease, mixed cellularity NOS",res50: cancer,diagnostic
+Read,B825800,Carcinoma in situ of perianal skin,res50: cancer,diagnostic
+Read,B826100,Carcinoma in situ of skin of upper arm,res50: cancer,diagnostic
+Read,B826200,Carcinoma in situ of skin of lower arm,res50: cancer,diagnostic
+Read,B826300,Carcinoma in situ of skin of hand,res50: cancer,diagnostic
+Read,B827.11,Carcinoma in situ of skin of leg,res50: cancer,diagnostic
+Read,B613000,"Hodgkin's, lymphocytic-histiocytic predominance unspec site",res50: cancer,diagnostic
+Read,B613800,"Hodgkin's, lymphocytic-histiocytic pred of multiple sites",res50: cancer,diagnostic
+Read,B614300,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes,res50: cancer,diagnostic
+Read,B614700,"Hodgkin's disease, nodular sclerosis of spleen",res50: cancer,diagnostic
+Read,B827100,Carcinoma in situ of skin of thigh,res50: cancer,diagnostic
+Read,B827300,Carcinoma in situ of skin of lower leg,res50: cancer,diagnostic
+Read,B614400,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm,res50: cancer,diagnostic
+Read,B827z00,Carcinoma in situ of skin of lower limb or hip NOS,res50: cancer,diagnostic
+Read,B82z.00,Carcinoma in situ of skin NOS,res50: cancer,diagnostic
+Read,B613z00,"Hodgkin's, lymphocytic-histiocytic predominance NOS",res50: cancer,diagnostic
+Read,B614.00,"Hodgkin's disease, nodular sclerosis",res50: cancer,diagnostic
+Read,B830000,Lobular carcinoma in situ of breast,res50: cancer,diagnostic
+Read,B831100,Carcinoma in situ of exocervix,res50: cancer,diagnostic
+Read,B832.00,Carcinoma in situ of other and unspecified parts of uterus,res50: cancer,diagnostic
+Read,B832000,Carcinoma in situ of endometrium,res50: cancer,diagnostic
+Read,B833200,Carcinoma in situ of vagina,res50: cancer,diagnostic
+Read,B613100,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck",res50: cancer,diagnostic
+Read,B613300,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node",res50: cancer,diagnostic
+Read,B613600,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes",res50: cancer,diagnostic
+Read,B837.00,Carcinoma in situ of bladder,res50: cancer,diagnostic
+Read,B8y..00,Carcinoma in situ of other and unspecified sites,res50: cancer,diagnostic
+Read,B613500,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg",res50: cancer,diagnostic
+Read,B8yy.00,Carcinoma in situ of other specified site,res50: cancer,diagnostic
+Read,B8yy100,Carcinoma in situ of adrenal gland,res50: cancer,diagnostic
+Read,B613200,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes",res50: cancer,diagnostic
+Read,B8yy200,Carcinoma in situ of parathyroid gland,res50: cancer,diagnostic
+Read,B8yy300,Carcinoma in situ of pituitary gland,res50: cancer,diagnostic
+Read,B8z..00,Carcinoma in situ NOS,res50: cancer,diagnostic
+Read,B9...00,Neoplasms of uncertain behaviour,res50: cancer,diagnostic
+Read,B900011,Mixed parotid tumour,res50: cancer,diagnostic
+Read,B911013,Choriocarcinoma,res50: cancer,diagnostic
+Read,BB84.00,[M]Mucin-producing adenocarcinoma,res50: cancer,diagnostic
+Read,B54X.00,"Malignant neoplasm-pluriglandular involvement,unspecified",res50: cancer,diagnostic
+Read,B600300,Reticulosarcoma of intra-abdominal lymph nodes,res50: cancer,diagnostic
+Read,B602z00,Burkitt's lymphoma NOS,res50: cancer,diagnostic
+Read,B611.00,Hodgkin's granuloma,res50: cancer,diagnostic
+Read,B60y.00,Other specified reticulosarcoma or lymphosarcoma,res50: cancer,diagnostic
+Read,B600700,Reticulosarcoma of spleen,res50: cancer,diagnostic
+Read,B601700,Lymphosarcoma of spleen,res50: cancer,diagnostic
+Read,B601.00,Lymphosarcoma,res50: cancer,diagnostic
+Read,B54y.00,Malignant neoplasm of other specified endocrine gland,res50: cancer,diagnostic
+Read,B59..00,Malignant neoplasm of unspecified site,res50: cancer,diagnostic
+Read,B6...00,Malignant neoplasm of lymphatic and haemopoietic tissue,res50: cancer,diagnostic
+Read,B590.11,Carcinomatosis,res50: cancer,diagnostic
+Read,B54z.00,Malig neop of endocrine gland or related structure NOS,res50: cancer,diagnostic
+Read,B55..00,Malignant neoplasm of other and ill-defined sites,res50: cancer,diagnostic
+Read,BB1N.00,[M]Small cell-large cell carcinoma,res50: cancer,diagnostic
+Read,B500000,Malignant neoplasm of ciliary body,res50: cancer,diagnostic
+Read,B524W00,"Mal neoplasm/periph nerves+autonomic nervous system,unspc",res50: cancer,diagnostic
+Read,B540.00,Malignant neoplasm of adrenal gland,res50: cancer,diagnostic
+Read,B543.00,Malignant neoplasm of pineal gland,res50: cancer,diagnostic
+Read,B540000,Malignant neoplasm of adrenal cortex,res50: cancer,diagnostic
+Read,B525.00,Malignant neoplasm of cauda equina,res50: cancer,diagnostic
+Read,B52X.00,"Malignant neoplasm of meninges, unspecified",res50: cancer,diagnostic
+Read,B52W.00,"Malig neopl, overlap lesion brain & other part of CNS",res50: cancer,diagnostic
+Read,B500100,Malignant neoplasm of iris,res50: cancer,diagnostic
+Read,B524000,"Malignant neoplasm of peripheral nerves of head, face & neck",res50: cancer,diagnostic
+Read,B524200,"Malignant neoplasm of peripheral nerve of low limb, incl hip",res50: cancer,diagnostic
+Read,B524100,"Malignant neoplasm of peripheral nerve,upp limb,incl should",res50: cancer,diagnostic
+Read,B500200,Malignant neoplasm of crystalline lens,res50: cancer,diagnostic
+Read,B510000,Malignant neoplasm of basal ganglia,res50: cancer,diagnostic
+Read,B500z00,Malignant neoplasm of eyeball NOS,res50: cancer,diagnostic
+Read,BB91.11,[M]Duct carcinoma NOS,res50: cancer,diagnostic
+Read,BB85100,[M]Metastatic signet ring cell carcinoma,res50: cancer,diagnostic
+Read,B430000,Malignant neoplasm of cornu of corpus uteri,res50: cancer,diagnostic
+Read,B49..00,Malignant neoplasm of urinary bladder,res50: cancer,diagnostic
+Read,B49y.00,Malignant neoplasm of other site of urinary bladder,res50: cancer,diagnostic
+Read,B4A..11,Renal malignant neoplasm,res50: cancer,diagnostic
+Read,B49y000,"Malignant neoplasm, overlapping lesion of bladder",res50: cancer,diagnostic
+Read,B490.00,Malignant neoplasm of trigone of urinary bladder,res50: cancer,diagnostic
+Read,B494.00,Malignant neoplasm of posterior wall of urinary bladder,res50: cancer,diagnostic
+Read,B491.00,Malignant neoplasm of dome of urinary bladder,res50: cancer,diagnostic
+Read,B430100,Malignant neoplasm of fundus of corpus uteri,res50: cancer,diagnostic
+Read,B451z00,Malignant neoplasm of labia majora NOS,res50: cancer,diagnostic
+Read,B480.00,Malignant neoplasm of prepuce (foreskin),res50: cancer,diagnostic
+Read,B452.00,Malignant neoplasm of labia minora,res50: cancer,diagnostic
+Read,B430200,Malignant neoplasm of endometrium of corpus uteri,res50: cancer,diagnostic
+Read,B440.00,Malignant neoplasm of ovary,res50: cancer,diagnostic
+Read,B430211,Malignant neoplasm of endometrium,res50: cancer,diagnostic
+Read,B338.00,Squamous cell carcinoma of skin,res50: cancer,diagnostic
+Read,B347.00,"Malignant neoplasm, overlapping lesion of breast",res50: cancer,diagnostic
+Read,B3z..00,"Malig neop of bone, connective tissue, skin and breast NOS",res50: cancer,diagnostic
+Read,B41y.00,Malignant neoplasm of other site of cervix,res50: cancer,diagnostic
+Read,B4...00,Malignant neoplasm of genitourinary organ,res50: cancer,diagnostic
+Read,B34y.00,Malignant neoplasm of other site of female breast,res50: cancer,diagnostic
+Read,B34z.00,Malignant neoplasm of female breast NOS,res50: cancer,diagnostic
+Read,B34y000,Malignant neoplasm of ectopic site of female breast,res50: cancer,diagnostic
+Read,B339.00,Dermatofibrosarcoma protuberans,res50: cancer,diagnostic
+Read,BBG8.11,[M]Congenital fibrosarcoma,res50: cancer,diagnostic
+Read,B345.00,Malignant neoplasm of lower-outer quadrant of female breast,res50: cancer,diagnostic
+Read,B343.00,Malignant neoplasm of lower-inner quadrant of female breast,res50: cancer,diagnostic
+Read,B33X.00,Malignant neoplasm overlapping lesion of skin,res50: cancer,diagnostic
+Read,B341.00,Malignant neoplasm of central part of female breast,res50: cancer,diagnostic
+Read,B33y.00,Malignant neoplasm of other specified skin sites,res50: cancer,diagnostic
+Read,BB90.00,"[M]Intraductal carcinoma, noninfiltrating NOS",res50: cancer,diagnostic
+Read,BB9..00,"[M]Ductal, lobular and medullary neoplasms",res50: cancer,diagnostic
+Read,B333.00,Malignant neoplasm skin of other and unspecified parts face,res50: cancer,diagnostic
+Read,B335200,Malignant neoplasm of skin of breast,res50: cancer,diagnostic
+Read,B336000,Malignant neoplasm of skin of shoulder,res50: cancer,diagnostic
+Read,B335300,Malignant neoplasm of skin of abdominal wall,res50: cancer,diagnostic
+Read,B333000,"Malignant neoplasm of skin of cheek, external",res50: cancer,diagnostic
+Read,BBB1.11,[M]Warthin's tumour,res50: cancer,diagnostic
+Read,B333100,Malignant neoplasm of skin of chin,res50: cancer,diagnostic
+Read,BB85z00,[M]Signet ring carcinoma NOS,res50: cancer,diagnostic
+Read,B31y.00,Malig neop connective and soft tissue other specified site,res50: cancer,diagnostic
+Read,B332000,Malignant neoplasm of skin of auricle (ear),res50: cancer,diagnostic
+Read,B31z.00,"Malignant neoplasm of connective and soft tissue, site NOS",res50: cancer,diagnostic
+Read,B315100,Malig neop of connective and soft tissue of inguinal region,res50: cancer,diagnostic
+Read,B315z00,Malig neop of connective and soft tissue of pelvis NOS,res50: cancer,diagnostic
+Read,B315200,Malignant neoplasm of connective and soft tissue of perineum,res50: cancer,diagnostic
+Read,B312100,Malig neop of connective and soft tissue thigh and upper leg,res50: cancer,diagnostic
+Read,B313100,Malignant neoplasm of diaphragm,res50: cancer,diagnostic
+Read,B314100,Malig neoplasm of connective and soft tissues of lumb spine,res50: cancer,diagnostic
+Read,B315.00,Malignant neoplasm of connective and soft tissue of pelvis,res50: cancer,diagnostic
+Read,B314z00,Malig neop of connective and soft tissue of abdomen NOS,res50: cancer,diagnostic
+Read,B313200,Malignant neoplasm of great vessels,res50: cancer,diagnostic
+Read,B314.00,Malignant neoplasm of connective and soft tissue of abdomen,res50: cancer,diagnostic
+Read,B313300,Malig neoplasm of connective and soft tissues of thor spine,res50: cancer,diagnostic
+Read,B312200,Malig neop connective and soft tissue of popliteal space,res50: cancer,diagnostic
+Read,B312500,Malignant neoplasm of connective and soft tissue of toe,res50: cancer,diagnostic
+Read,B313.00,Malignant neoplasm of connective and soft tissue of thorax,res50: cancer,diagnostic
+Read,B312z00,Malig neop connective and soft tissue hip and leg NOS,res50: cancer,diagnostic
+Read,B312300,Malig neop of connective and soft tissue of lower leg,res50: cancer,diagnostic
+Read,B312400,Malignant neoplasm of connective and soft tissue of foot,res50: cancer,diagnostic
+Read,BB92.00,"[M]Comedocarcinoma, noninfiltrating",res50: cancer,diagnostic
+Read,BBZ2.11,[M]Intraosseous carcinoma,res50: cancer,diagnostic
+Read,BBX1.00,"[M]Giant cell tumour of bone, malignant",res50: cancer,diagnostic
+Read,BB82112,[M]Gelatinous adenocarcinoma,res50: cancer,diagnostic
+Read,B224.00,"Malignant neoplasm of lower lobe, bronchus or lung",res50: cancer,diagnostic
+Read,B305.00,Malignant neoplasm of hand bones,res50: cancer,diagnostic
+Read,B311100,"Malignant neoplasm of connective and soft tissue, upper arm",res50: cancer,diagnostic
+Read,B311500,Malignant neoplasm of connective and soft tissue of thumb,res50: cancer,diagnostic
+Read,B312.00,Malig neop of connective and soft tissue of hip and leg,res50: cancer,diagnostic
+Read,B311z00,Malig neop connective soft tissue upper limb/shoulder NOS,res50: cancer,diagnostic
+Read,B311200,Malignant neoplasm of connective and soft tissue of fore-arm,res50: cancer,diagnostic
+Read,B311300,Malignant neoplasm of connective and soft tissue of hand,res50: cancer,diagnostic
+Read,BBAz.00,[M]Acinar cell neoplasm NOS,res50: cancer,diagnostic
+Read,B305.11,Malignant neoplasm of carpal bones,res50: cancer,diagnostic
+Read,B30z000,Osteosarcoma,res50: cancer,diagnostic
+Read,B311.00,Malig neop connective and soft tissue upper limb/shoulder,res50: cancer,diagnostic
+Read,B31..00,Malignant neoplasm of connective and other soft tissue,res50: cancer,diagnostic
+Read,B305.12,Malignant neoplasm of metacarpal bones,res50: cancer,diagnostic
+Read,B30X.00,"Malignant neoplasm/bones+articular cartilage/limb,unspfd",res50: cancer,diagnostic
+Read,B305000,Malignant neoplasm of carpal bone - scaphoid,res50: cancer,diagnostic
+Read,B224000,Malignant neoplasm of lower lobe bronchus,res50: cancer,diagnostic
+Read,B2z..00,Malig neop other/ill-defined sites resp/intrathoracic organs,res50: cancer,diagnostic
+Read,B3...11,"Carcinoma of bone, connective tissue, skin and breast",res50: cancer,diagnostic
+Read,B304.00,Malignant neoplasm of scapula and long bones of upper arm,res50: cancer,diagnostic
+Read,B3...12,Sarcoma of bone and connective tissue,res50: cancer,diagnostic
+Read,B2z0.00,"Malig neop of upper respiratory tract, part unspecified",res50: cancer,diagnostic
+Read,B2zy.00,Malignant neoplasm of other site of respiratory tract,res50: cancer,diagnostic
+Read,BBE1.11,[M]Melanocarcinoma,res50: cancer,diagnostic
+Read,B224100,Malignant neoplasm of lower lobe of lung,res50: cancer,diagnostic
+Read,B240.00,Malignant neoplasm of thymus,res50: cancer,diagnostic
+Read,B24z.00,"Malignant neoplasm of heart, thymus and mediastinum NOS",res50: cancer,diagnostic
+Read,B241.00,Malignant neoplasm of heart,res50: cancer,diagnostic
+Read,B224z00,"Malignant neoplasm of lower lobe, bronchus or lung NOS",res50: cancer,diagnostic
+Read,B226.00,Mesothelioma,res50: cancer,diagnostic
+Read,B225.00,Malignant neoplasm of overlapping lesion of bronchus & lung,res50: cancer,diagnostic
+Read,B12z.00,Malignant neoplasm of small intestine NOS,res50: cancer,diagnostic
+Read,B18y100,Malignant neoplasm of mesocaecum,res50: cancer,diagnostic
+Read,B20..00,"Malig neop nasal cavities, middle ear and accessory sinuses",res50: cancer,diagnostic
+Read,B20y.00,"Malig neop other site nasal cavity, middle ear and sinuses",res50: cancer,diagnostic
+Read,B223.00,"Malignant neoplasm of middle lobe, bronchus or lung",res50: cancer,diagnostic
+Read,B20z.00,Malignant neoplasm of accessory sinus NOS,res50: cancer,diagnostic
+Read,B200.00,Malignant neoplasm of nasal cavities,res50: cancer,diagnostic
+Read,B201000,Malignant neoplasm of auditory (Eustachian) tube,res50: cancer,diagnostic
+Read,B200000,Malignant neoplasm of cartilage of nose,res50: cancer,diagnostic
+Read,B18y200,Malignant neoplasm of mesorectum,res50: cancer,diagnostic
+Read,B1z0.11,Cancer of bowel,res50: cancer,diagnostic
+Read,B2...00,Malig neop of respiratory tract and intrathoracic organs,res50: cancer,diagnostic
+Read,B1z1.00,Malignant neoplasm of spleen NEC,res50: cancer,diagnostic
+Read,B18y300,Malignant neoplasm of omentum,res50: cancer,diagnostic
+Read,B1z..00,Malig neop oth/ill-defined sites digestive tract/peritoneum,res50: cancer,diagnostic
+Read,B18y400,Malignant neoplasm of parietal peritoneum,res50: cancer,diagnostic
+Read,B13..00,Malignant neoplasm of colon,res50: cancer,diagnostic
+Read,B160.00,Malignant neoplasm of gallbladder,res50: cancer,diagnostic
+Read,B17y000,Malignant neoplasm of ectopic pancreatic tissue,res50: cancer,diagnostic
+Read,B180.00,Malignant neoplasm of retroperitoneum,res50: cancer,diagnostic
+Read,B17yz00,Malignant neoplasm of specified site of pancreas NOS,res50: cancer,diagnostic
+Read,B160.11,Carcinoma gallbladder,res50: cancer,diagnostic
+Read,B16z.00,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS,res50: cancer,diagnostic
+Read,B161.00,Malignant neoplasm of extrahepatic bile ducts,res50: cancer,diagnostic
+Read,B130.00,Malignant neoplasm of hepatic flexure of colon,res50: cancer,diagnostic
+Read,B15..00,Malignant neoplasm of liver and intrahepatic bile ducts,res50: cancer,diagnostic
+Read,B151400,Malignant neoplasm of intrahepatic gall duct,res50: cancer,diagnostic
+Read,B150.00,Primary malignant neoplasm of liver,res50: cancer,diagnostic
+Read,B131.00,Malignant neoplasm of transverse colon,res50: cancer,diagnostic
+Read,B140.00,Malignant neoplasm of rectosigmoid junction,res50: cancer,diagnostic
+Read,B132.00,Malignant neoplasm of descending colon,res50: cancer,diagnostic
+Read,BBX0.00,[M]Giant cell tumour of bone NOS,res50: cancer,diagnostic
+Read,B015.00,"Malignant neoplasm of tongue, junctional zone",res50: cancer,diagnostic
+Read,B07y.00,Malignant neoplasm of other specified site of nasopharynx,res50: cancer,diagnostic
+Read,B10z.00,Malignant neoplasm of oesophagus NOS,res50: cancer,diagnostic
+Read,B11y000,Malignant neoplasm of anterior wall of stomach NEC,res50: cancer,diagnostic
+Read,B11z.00,Malignant neoplasm of stomach NOS,res50: cancer,diagnostic
+Read,B11y100,Malignant neoplasm of posterior wall of stomach NEC,res50: cancer,diagnostic
+Read,B10z.11,Oesophageal cancer,res50: cancer,diagnostic
+Read,B116.00,Malignant neoplasm of greater curve of stomach unspecified,res50: cancer,diagnostic
+Read,B11..00,Malignant neoplasm of stomach,res50: cancer,diagnostic
+Read,B07z.00,Malignant neoplasm of nasopharynx NOS,res50: cancer,diagnostic
+Read,B0z0.00,Malignant neoplasm of pharynx unspecified,res50: cancer,diagnostic
+Read,B1...11,Carcinoma of digestive organs and peritoneum,res50: cancer,diagnostic
+Read,B0z1.00,Malignant neoplasm of Waldeyer's ring,res50: cancer,diagnostic
+Read,B08..00,Malignant neoplasm of hypopharynx,res50: cancer,diagnostic
+Read,B083.00,Malignant neoplasm of posterior pharynx,res50: cancer,diagnostic
+Read,B080.00,Malignant neoplasm of postcricoid region,res50: cancer,diagnostic
+Read,B016.00,Malignant neoplasm of lingual tonsil,res50: cancer,diagnostic
+Read,B06yz00,Malignant neoplasm of other specified site of oropharynx NOS,res50: cancer,diagnostic
+Read,B073.00,Malignant neoplasm of anterior wall of nasopharynx,res50: cancer,diagnostic
+Read,B073z00,Malignant neoplasm of anterior wall of nasopharynx NOS,res50: cancer,diagnostic
+Read,B073100,Malignant neoplasm of nasopharyngeal soft palate surface,res50: cancer,diagnostic
+Read,B06z.00,Malignant neoplasm of oropharynx NOS,res50: cancer,diagnostic
+Read,B071000,Malignant neoplasm of adenoid,res50: cancer,diagnostic
+Read,B07..00,Malignant neoplasm of nasopharynx,res50: cancer,diagnostic
+Read,B01y.00,Malignant neoplasm of other sites of tongue,res50: cancer,diagnostic
+Read,B04z.00,Malignant neoplasm of floor of mouth NOS,res50: cancer,diagnostic
+Read,B055100,Malignant neoplasm of roof of mouth,res50: cancer,diagnostic
+Read,B05..00,Malignant neoplasm of other and unspecified parts of mouth,res50: cancer,diagnostic
+Read,B01z.00,Malignant neoplasm of tongue NOS,res50: cancer,diagnostic
+Read,B042.00,"Malignant neoplasm, overlapping lesion of floor of mouth",res50: cancer,diagnostic
+Read,B02..00,Malignant neoplasm of major salivary glands,res50: cancer,diagnostic
+Read,BBWz.00,[M]Chondromatous neoplasm NOS,res50: cancer,diagnostic
+Read,BBN4.00,"[M]Synovial sarcoma, biphasic type",res50: cancer,diagnostic
+Read,B001.00,"Malignant neoplasm of lower lip, vermilion border",res50: cancer,diagnostic
+Read,B00zz00,"Malignant neoplasm of lip, vermilion border NOS",res50: cancer,diagnostic
+Read,B013.00,Malignant neoplasm of ventral surface of tongue,res50: cancer,diagnostic
+Read,B01..00,Malignant neoplasm of tongue,res50: cancer,diagnostic
+Read,B001000,"Malignant neoplasm of lower lip, external",res50: cancer,diagnostic
+Read,B004000,"Malignant neoplasm of lip unspecified, buccal aspect",res50: cancer,diagnostic
+Read,B001100,"Malignant neoplasm of lower lip, lipstick area",res50: cancer,diagnostic
+Read,BBN1.00,[M]Synovial sarcoma NOS,res50: cancer,diagnostic
+Read,142..00,H/O: malignant neoplasm (*),res50: cancer,diagnostic
+Read,7L1d.00,Delivery of chemotherapy for neoplasm,res50: cancer,diagnostic
+Read,142..11,H/O: cancer,res50: cancer,diagnostic
+Read,BB96.00,[M]Noninfiltrating intraductal papillary adenocarcinoma,res50: cancer,diagnostic
+Read,BB94.00,[M]Juvenile breast carcinoma,res50: cancer,diagnostic
+Read,BBc2.00,[M]Medulloepithelioma NOS,res50: cancer,diagnostic
+Read,BBW7.11,[M]Chondromatous giant cell tumour,res50: cancer,diagnostic
+Read,BBVz.00,[M]Osteoma or osteosarcoma NOS,res50: cancer,diagnostic
+Read,BBV5.00,[M]Osteosarcoma in Paget's disease of bone,res50: cancer,diagnostic
+Read,BBN5.00,[M]Clear cell sarcoma of tendons and aponeuroses,res50: cancer,diagnostic
+Read,BBV4.00,[M]Telangiectatic osteosarcoma,res50: cancer,diagnostic
+Read,BBV9.00,[M]Myxoid chondrosarcoma,res50: cancer,diagnostic
+Read,BBV7.00,[M]Osteoid osteoma NOS,res50: cancer,diagnostic
+Read,BBW5.11,[M]Periosteal chondroma,res50: cancer,diagnostic
+Read,BBW2.11,[M]Enchondroma,res50: cancer,diagnostic
+Read,BBW0.00,[M]Osteochondroma,res50: cancer,diagnostic
+Read,BBW1.00,[M]Osteochondromatosis NOS,res50: cancer,diagnostic
+Read,BBW4.11,[M]Fibrochondrosarcoma,res50: cancer,diagnostic
+Read,BBW3.00,[M]Chondromatosis NOS,res50: cancer,diagnostic
+Read,BBZ1.00,[M]Odontogenic tumour NOS,res50: cancer,diagnostic
+Read,BBZ..00,[M]Odontogenic tumours,res50: cancer,diagnostic
+Read,BBYz.00,[M]Miscellaneous bone tumour NOS,res50: cancer,diagnostic
+Read,BBY0.00,[M]Ewing's sarcoma,res50: cancer,diagnostic
+Read,BBXz.00,[M]Giant cell tumour NOS,res50: cancer,diagnostic
+Read,BBH..00,[M]Myxomatous neoplasms,res50: cancer,diagnostic
+Read,BB9K.00,[M]Paget's disease and infiltrating breast duct carcinoma,res50: cancer,diagnostic
+Read,BBC1.00,[M]Thecal cell neoplasms,res50: cancer,diagnostic
+Read,BBX2.00,[M]Giant cell tumour of soft parts NOS,res50: cancer,diagnostic
+Read,BBMz.00,[M]Fibroepithelial neoplasm NOS,res50: cancer,diagnostic
+Read,BB9G.00,[M]Infiltrating ductular carcinoma,res50: cancer,diagnostic
+Read,BB9C.00,[M]Medullary carcinoma with amyloid stroma,res50: cancer,diagnostic
+Read,BB82111,[M]Colloid adenocarcinoma,res50: cancer,diagnostic
+Read,BB9B.00,[M]Medullary carcinoma NOS,res50: cancer,diagnostic
+Read,BB9E000,[M]Intraductal carcinoma and lobular carcinoma in situ,res50: cancer,diagnostic
+Read,BB9E.00,[M]Lobular carcinoma in situ,res50: cancer,diagnostic
+Read,BBC0000,[M]Sex cord tumour with annular tubules,res50: cancer,diagnostic
+Read,BBB3.00,[M]Adenocarcinoma with cartilaginous and osseous metaplasia,res50: cancer,diagnostic
+Read,BB9z.00,"[M]Ductal, lobular or medullary neoplasm NOS",res50: cancer,diagnostic
+Read,BB9K000,[M]Paget's disease and intraductal carcinoma of breast,res50: cancer,diagnostic
+Read,BB9H.00,[M]Inflammatory carcinoma,res50: cancer,diagnostic
+Read,BBB0.00,[M]Adenosquamous carcinoma,res50: cancer,diagnostic
+Read,BBA1.00,[M]Acinar cell tumour,res50: cancer,diagnostic
+Read,BBC0.13,[M]Testicular stromal tumour,res50: cancer,diagnostic
+Read,BBC..00,[M]Specialised gonadal neoplasms,res50: cancer,diagnostic
+Read,BBB4.00,[M]Adenocarcinoma with spindle cell metaplasia,res50: cancer,diagnostic
+Read,BBB7.00,[M]Epithelial-myoepithelial carcinoma,res50: cancer,diagnostic
+Read,BBC0.11,[M]Gonadal stromal tumour,res50: cancer,diagnostic
+Read,BBC0.00,[M]Sex cord-stromal tumour,res50: cancer,diagnostic
+Read,BBGP.00,[M]Pigmented dermatofibrosarcoma protuberans,res50: cancer,diagnostic
+Read,BBDC.00,[M]Glomus tumour,res50: cancer,diagnostic
+Read,BBCC100,"[M]Leydig cell tumour, malignant",res50: cancer,diagnostic
+Read,BBC5.00,[M]Granulosa cell-theca cell tumour,res50: cancer,diagnostic
+Read,BBC3000,[M]Juvenile granulosa cell tumour,res50: cancer,diagnostic
+Read,BBC4.00,"[M]Granulosa cell tumour, malignant",res50: cancer,diagnostic
+Read,BBCC000,"[M]Leydig cell tumour, benign",res50: cancer,diagnostic
+Read,BBC9.13,[M]Sertoli cell tumour,res50: cancer,diagnostic
+Read,BBCC.00,[M]Leydig cell tumour,res50: cancer,diagnostic
+Read,BBDB.00,[M]Glomangiosarcoma,res50: cancer,diagnostic
+Read,BBCG.00,[M]Sclerosing stromal tumour,res50: cancer,diagnostic
+Read,BBCCz11,[M]Interstitial cell tumour NOS,res50: cancer,diagnostic
+Read,BBCE.00,[M]Lipid cell tumour of ovary,res50: cancer,diagnostic
+Read,BBD5.00,[M]Aortic body tumour,res50: cancer,diagnostic
+Read,BBD..00,[M]Paragangliomas and glomus tumours,res50: cancer,diagnostic
+Read,BBG3.00,[M]Fibromyxosarcoma,res50: cancer,diagnostic
+Read,BBF4.00,[M]Giant cell sarcoma (except of bone),res50: cancer,diagnostic
+Read,BBF..00,[M]Soft tissue tumours and sarcomas NOS,res50: cancer,diagnostic
+Read,BBE1.14,[M]Naevocarcinoma,res50: cancer,diagnostic
+Read,BBF3.00,[M]Spindle cell sarcoma,res50: cancer,diagnostic
+Read,BBF1.00,[M]Sarcoma NOS,res50: cancer,diagnostic
+Read,BBG..00,[M]Fibromatous neoplasms,res50: cancer,diagnostic
+Read,BBF6.00,[M]Epithelioid cell sarcoma,res50: cancer,diagnostic
+Read,BBF5.00,[M]Small cell sarcoma,res50: cancer,diagnostic
+Read,BBF5.11,[M]Round cell sarcoma,res50: cancer,diagnostic
+Read,BBB1.00,[M]Adenolymphoma,res50: cancer,diagnostic
+Read,BBM8.00,[M]Cystosarcoma phyllodes NOS,res50: cancer,diagnostic
+Read,BBL7112,[M]Wilms' tumour,res50: cancer,diagnostic
+Read,BBK0400,[M]Epithelioid leiomyosarcoma,res50: cancer,diagnostic
+Read,BBJ1.00,[M]Liposarcoma NOS,res50: cancer,diagnostic
+Read,BBJ..00,[M]Lipomatous neoplasms,res50: cancer,diagnostic
+Read,BB82100,[M]Mucinous adenocarcinoma,res50: cancer,diagnostic
+Read,BBH1.00,[M]Myxosarcoma,res50: cancer,diagnostic
+Read,BBK0.00,[M]Leiomyomatous neoplasms,res50: cancer,diagnostic
+Read,BBJ5.12,[M]Myxoliposarcoma,res50: cancer,diagnostic
+Read,BBJ3.00,"[M]Liposarcoma, well differentiated type",res50: cancer,diagnostic
+Read,BBJD.11,[M]Brown fat tumour,res50: cancer,diagnostic
+Read,BBJ7.00,[M]Pleomorphic liposarcoma,res50: cancer,diagnostic
+Read,BBJB.00,[M]Angiolipomatous neoplasms,res50: cancer,diagnostic
+Read,BBL7.00,[M]Mixed and stromal renal neoplasms,res50: cancer,diagnostic
+Read,BBK3200,[M]Pleomorphic rhabdomyosarcoma,res50: cancer,diagnostic
+Read,BBK2.00,[M]Myoma and myosarcoma,res50: cancer,diagnostic
+Read,BBK0z00,[M]Leiomyomatous neoplasm NOS,res50: cancer,diagnostic
+Read,BBK1100,[M]Angiomyosarcoma,res50: cancer,diagnostic
+Read,BBK3.00,[M]Rhabdomyomatous neoplasms,res50: cancer,diagnostic
+Read,BBK2z00,[M]Myoma or myosarcoma NOS,res50: cancer,diagnostic
+Read,BBL5.00,[M]Mullerian mixed tumour,res50: cancer,diagnostic
+Read,BBK3z00,[M]Rhabdomyomatous neoplasm NOS,res50: cancer,diagnostic
+Read,BBK3600,[M]Embryonal rhabdomyosarcoma,res50: cancer,diagnostic
+Read,BBK3700,[M]Alveolar rhabdomyosarcoma,res50: cancer,diagnostic
+Read,BBL3.12,[M]Mixed tumour NOS,res50: cancer,diagnostic
+Read,BBL..00,[M]Complex mixed and stromal neoplasms,res50: cancer,diagnostic
+Read,BBM0z00,[M]Brenner tumour NOS,res50: cancer,diagnostic
+Read,BBM..00,[M]Fibroepithelial neoplasms,res50: cancer,diagnostic
+Read,BBLJ.00,[M]Clear cell sarcoma of kidney,res50: cancer,diagnostic
+Read,BB82.00,[M]Mucinous adenoma and adenocarcinoma,res50: cancer,diagnostic
+Read,BB81B00,[M]Serous surface papillary carcinoma,res50: cancer,diagnostic
+Read,BBLG.00,[M]Carcinoma in pleomorphic adenoma,res50: cancer,diagnostic
+Read,BBLA.00,"[M]Carcinosarcoma, embryonal type",res50: cancer,diagnostic
+Read,BBLD.00,[M]Embryonal sarcoma,res50: cancer,diagnostic
+Read,BB81500,"[M]Papillary cystadenocarcinoma, NOS",res50: cancer,diagnostic
+Read,BB5R900,[M]Neuroendocrine carcinoma,res50: cancer,diagnostic
+Read,BB5R800,[M]Adenocarcinoid tumour,res50: cancer,diagnostic
+Read,BB81200,"[M]Serous cystadenocarcinoma, NOS",res50: cancer,diagnostic
+Read,BB5RA00,[M]Merkel cell carcinoma,res50: cancer,diagnostic
+Read,BB5S.00,[M]Respiratory tract adenomas and adenocarcinomas,res50: cancer,diagnostic
+Read,BBM0000,"[M]Brenner tumour, borderline malignancy",res50: cancer,diagnostic
+Read,BB81z00,"[M]Ovarian cystic, mucinous or serous neoplasm NOS",res50: cancer,diagnostic
+Read,BB81E11,[M]Pseudomucinous adenocarcinoma,res50: cancer,diagnostic
+Read,BB5R600,"[M]Mucocarcinoid tumour, malignant",res50: cancer,diagnostic
+Read,BB81L00,[M]Papillary cystic tumour,res50: cancer,diagnostic
+Read,BB5R400,"[M]Carcinoid tumour, nonargentaffin, NOS",res50: cancer,diagnostic
+Read,BB5R100,"[M]Carcinoid tumour, malignant",res50: cancer,diagnostic
+Read,BB5R.00,[M]Carcinoid tumours,res50: cancer,diagnostic
+Read,BBc..00,[M]Neuroepitheliomatous neoplasms,res50: cancer,diagnostic
+Read,BBba.00,[M]Primitive neuroectodermal tumour,res50: cancer,diagnostic
+Read,BBV..13,[M]Periosteal osteogenic sarcoma,res50: cancer,diagnostic
+Read,BBQ7200,"[M]Teratoma, malignant, NOS",res50: cancer,diagnostic
+Read,BBQ1z00,[M]Seminoma NOS,res50: cancer,diagnostic
+Read,BBP1.00,"[M]Mesothelioma, malignant",res50: cancer,diagnostic
+Read,BB5h.00,[M]Adrenal cortical tumours,res50: cancer,diagnostic
+Read,BB5f.00,[M]Thyroid adenoma and adenocarcinoma,res50: cancer,diagnostic
+Read,BB5V711,[M]Mucoid cell carcinoma,res50: cancer,diagnostic
+Read,BB5fz00,[M]Thyroid adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,BB5f200,"[M]Follicular adenocarcinoma, well differentiated type",res50: cancer,diagnostic
+Read,BB5f111,[M]Follicular carcinoma,res50: cancer,diagnostic
+Read,BB5f600,[M]Papillary and follicular adenocarcinoma,res50: cancer,diagnostic
+Read,BB5V700,[M]Basophil carcinoma,res50: cancer,diagnostic
+Read,BB13.11,[M]Secondary carcinoma,res50: cancer,diagnostic
+Read,BB13.00,"[M]Carcinoma, metastatic, NOS",res50: cancer,diagnostic
+Read,B936.12,Plasmacytoma NOS,res50: cancer,diagnostic
+Read,BB11.11,[M]Intraepithelial carcinoma NOS,res50: cancer,diagnostic
+Read,BB5V100,[M]Chromophobe carcinoma,res50: cancer,diagnostic
+Read,BB5U.00,[M]Villous adenomas and adenocarcinomas,res50: cancer,diagnostic
+Read,BB14.00,[M]Carcinomatosis,res50: cancer,diagnostic
+Read,BB5T100,[M]Papillary adenocarcinoma NOS,res50: cancer,diagnostic
+Read,BB5Uz00,[M]Villous adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,BB5U100,[M]Adenocarcinoma in villous adenoma,res50: cancer,diagnostic
+Read,BBQ1000,"[M]Seminoma, anaplastic type",res50: cancer,diagnostic
+Read,BBP5.00,"[M]Epithelioid mesothelioma, malignant",res50: cancer,diagnostic
+Read,BB5W111,[M]Hurthle cell adenocarcinoma,res50: cancer,diagnostic
+Read,BBP4.00,"[M]Epithelioid mesothelioma, benign",res50: cancer,diagnostic
+Read,BB5cz00,[M]Parathyroid adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,BB5W.00,[M]Oxyphilic adenomas and adenocarcinomas,res50: cancer,diagnostic
+Read,BBP3.11,[M]Sarcomatoid mesothelioma,res50: cancer,diagnostic
+Read,BBQ1.00,[M]Seminomas,res50: cancer,diagnostic
+Read,BBP8.00,[M]Adenomatoid tumour NOS,res50: cancer,diagnostic
+Read,BB5b.00,[M]Granular cell carcinoma,res50: cancer,diagnostic
+Read,BB5Y.00,[M]Hypernephroid tumour,res50: cancer,diagnostic
+Read,BB5Xz00,[M]Clear cell adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,BB5Wz00,[M]Oxyphilic adenoma or adenocarcinoma NOS,res50: cancer,diagnostic
+Read,BB5X.00,[M]Clear cell adenomas and adenocarcinomas,res50: cancer,diagnostic
+Read,BBPz.00,[M]Mesothelial neoplasm NOS,res50: cancer,diagnostic
+Read,BB5a012,[M]Hypernephroma,res50: cancer,diagnostic
+Read,BB5a000,[M]Renal cell carcinoma,res50: cancer,diagnostic
+Read,BBPX.00,"[M]Mesothelioma, unspecified",res50: cancer,diagnostic
+Read,BBQ7012,[M]Mature teratoma,res50: cancer,diagnostic
+Read,BBQ4.00,[M]Endodermal sinus tumour,res50: cancer,diagnostic
+Read,BBQ3.00,[M]Embryonal carcinoma NOS,res50: cancer,diagnostic
+Read,B935.11,Histiocytic tumour NOS,res50: cancer,diagnostic
+Read,B241200,Malignant neoplasm of myocardium,res50: cancer,diagnostic
+Read,B833300,Carcinoma in situ of vulva,res50: cancer,diagnostic
+Read,B062200,Malignant neoplasm of palatoglossal arch,res50: cancer,diagnostic
+Read,B833100,Carcinoma in situ of fallopian tube,res50: cancer,diagnostic
+Read,B831.00,Carcinoma in situ of cervix uteri,res50: cancer,diagnostic
+Read,B830100,Intraductal carcinoma in situ of breast,res50: cancer,diagnostic
+Read,B83..00,Carcinoma in situ of breast and genitourinary system,res50: cancer,diagnostic
+Read,B830.00,Carcinoma in situ of breast,res50: cancer,diagnostic
+Read,B833.00,Carcinoma in situ other and unspecified female genital organ,res50: cancer,diagnostic
+Read,B831000,Carcinoma in situ of endocervix,res50: cancer,diagnostic
+Read,B831.11,CIN III - carcinoma in situ of cervix,res50: cancer,diagnostic
+Read,B832.11,Carcinoma in situ of body of uterus,res50: cancer,diagnostic
+Read,BBQ7011,[M]Adult cystic teratoma,res50: cancer,diagnostic
+Read,BBQ4.14,[M]Yolk sac tumour,res50: cancer,diagnostic
+Read,B836.00,Carcinoma in situ other and unspecified male genital organs,res50: cancer,diagnostic
+Read,B835.00,Carcinoma in situ of penis,res50: cancer,diagnostic
+Read,B833z00,Carcinoma in situ of female genital organs NOS,res50: cancer,diagnostic
+Read,B933.11,Cystosarcoma phyllodes,res50: cancer,diagnostic
+Read,B836000,Carcinoma in situ of testis,res50: cancer,diagnostic
+Read,B834.00,Carcinoma in situ of prostate,res50: cancer,diagnostic
+Read,B8y0.00,Carcinoma in situ of eye,res50: cancer,diagnostic
+Read,B836300,Carcinoma in situ of scrotum,res50: cancer,diagnostic
+Read,B83z.00,Carcinoma in situ of urinary organs NOS,res50: cancer,diagnostic
+Read,BBQ7.00,[M]Teratomas,res50: cancer,diagnostic
+Read,B91z200,Uncertain neoplasm ureter,res50: cancer,diagnostic
+Read,B911100,Epithelioid trophoblastic tumour,res50: cancer,diagnostic
+Read,B8yy000,Carcinoma in situ of thyroid gland,res50: cancer,diagnostic
+Read,B905400,Gastrointestinal stromal tumour,res50: cancer,diagnostic
+Read,B8yyz00,Carcinoma in situ of other specified site NOS,res50: cancer,diagnostic
+Read,BBV..12,[M]Parosteal osteosarcoma,res50: cancer,diagnostic
+Read,BBTL.00,[M]Intravascular bronchial alveolar tumour,res50: cancer,diagnostic
+Read,BBR3.00,[M]Choriocarcinoma combined with teratoma,res50: cancer,diagnostic
+Read,BB0z.00,[M]Unspecified tumour cell NOS,res50: cancer,diagnostic
+Read,BB09.00,"[M]Malignant tumour, giant cell type",res50: cancer,diagnostic
+Read,BB07.00,"[M]Tumour cells, malignant",res50: cancer,diagnostic
+Read,BB03.12,[M]Tumour embolus,res50: cancer,diagnostic
+Read,BB0..00,[M]Neoplasms NOS,res50: cancer,diagnostic
+Read,BB...00,[M]Morphology of neoplasms,res50: cancer,diagnostic
+Read,B62z400,Unspec malig neop lymphoid/histiocytic lymph node axilla/arm,res50: cancer,diagnostic
+Read,B62z800,Unspec malig neop lymphoid/histiocytic of multiple sites,res50: cancer,diagnostic
+Read,B62z500,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg,res50: cancer,diagnostic
+Read,BBR2.00,[M]Choriocarcinoma,res50: cancer,diagnostic
+Read,BBQ7212,[M]Immature teratoma,res50: cancer,diagnostic
+Read,B62z200,Unspec malig neop lymphoid/histiocytic of intrathoracic node,res50: cancer,diagnostic
+Read,BB10.00,"[M]Epithelial tumour, benign",res50: cancer,diagnostic
+Read,BBQz.00,[M]Germ cell neoplasm NOS,res50: cancer,diagnostic
+Read,BBQ7300,[M]Teratocarcinoma,res50: cancer,diagnostic
+Read,B62y.00,Malignant lymphoma NOS,res50: cancer,diagnostic
+Read,BBQA.00,[M]Strumal neoplasms,res50: cancer,diagnostic
+Read,BBQ7500,"[M]Malignant teratoma, intermediate type",res50: cancer,diagnostic
+Read,BBQ7z00,[M]Teratoma NOS,res50: cancer,diagnostic
+Read,BBTDz00,[M]Haemangiopericytic neoplasm NOS,res50: cancer,diagnostic
+Read,BBT1.11,[M]Angiosarcoma,res50: cancer,diagnostic
+Read,BBT..00,[M]Blood vessel tumours,res50: cancer,diagnostic
+Read,BBR6.00,[M]Placental site trophoblastic tumour,res50: cancer,diagnostic
+Read,BBR4.00,"[M]Malignant teratoma, trophoblastic",res50: cancer,diagnostic
+Read,BBT1.00,[M]Haemangiosarcoma,res50: cancer,diagnostic
+Read,BBTA.00,[M]Kaposi's sarcoma,res50: cancer,diagnostic
+Read,BBV..11,[M]Juxtacortical osteogenic sarcoma,res50: cancer,diagnostic
+Read,BBU..00,[M]Lymphatic vessel tumours,res50: cancer,diagnostic
+Read,BBV..00,[M]Osteomas and osteosarcomas,res50: cancer,diagnostic
+Read,BBU1.00,[M]Lymphangiosarcoma,res50: cancer,diagnostic
+Read,BBb0.12,[M]Gliosarcoma,res50: cancer,diagnostic
+Read,BBaz.00,[M]Miscellaneous tumour NOS,res50: cancer,diagnostic
+Read,BBa4.00,[M]Melanotic neuroectodermal tumour,res50: cancer,diagnostic
+Read,BBV1.00,[M]Osteosarcoma NOS,res50: cancer,diagnostic
+Read,B062100,Malignant neoplasm of glossopalatine fold,res50: cancer,diagnostic
+Read,4KJ2.00,Oestrogen receptor negative tumour,res50: cancer,diagnostic
+Read,BBa..00,[M]Miscellaneous tumours,res50: cancer,diagnostic
+Read,4KJ1.00,Progesterone receptor positive tumour,res50: cancer,diagnostic
+Read,4KJ0.00,Oestrogen receptor positive tumour,res50: cancer,diagnostic
+Read,142..12,H/O: carcinoma,res50: cancer,diagnostic
+Read,4K2M.00,Crv smr - hi grade dyskaryosis? invasive squamous carcinoma,res50: cancer,diagnostic
+Read,1429,H/O: * leukaemia,res50: cancer,diagnostic
+Read,142..15,H/O: neoplasm,res50: cancer,diagnostic
+Read,1427000,H/O: prostate cancer,res50: cancer,diagnostic
+Read,4C54.00,Bone marrow: tumour cells,res50: cancer,diagnostic
+Read,1O0..00,Cancer confirmed,res50: cancer,diagnostic
+Read,4C53.00,Bone marrow: myeloma cells,res50: cancer,diagnostic
+Read,B001z00,"Malignant neoplasm of lower lip, vermilion border NOS",res50: cancer,diagnostic
+Read,7L1dy00,Other specified delivery of chemotherapy for neoplasm,res50: cancer,diagnostic
+Read,5A15.00,Bone tumour/metast.irradiat.,res50: cancer,diagnostic
+Read,4M21.00,Lymphoma stage II,res50: cancer,diagnostic
+Read,4M...00,Tumour staging,res50: cancer,diagnostic
+Read,4KJ3.00,Progesterone receptor negative tumour,res50: cancer,diagnostic
+Read,4M20.00,Lymphoma stage I,res50: cancer,diagnostic
+Read,4M0..00,Gleason grading of prostate cancer,res50: cancer,diagnostic
+Read,4M2..00,Lymphoma staging system,res50: cancer,diagnostic
+Read,5A12.00,Thyroid tumour/metast irradiat,res50: cancer,diagnostic
+Read,4M5..00,TNM tumour staging,res50: cancer,diagnostic
+Read,4M22.00,Lymphoma stage III,res50: cancer,diagnostic
+Read,4M23.00,Lymphoma stage IV,res50: cancer,diagnostic
+Read,5149,Radiotherapy-tumour palliation,res50: cancer,diagnostic
+Read,4M6..00,Recurrence of tumour,res50: cancer,diagnostic
+Read,5135,Radiological tumour control,res50: cancer,diagnostic
+Read,7G05D00,Excision biopsy of basal cell carcinoma,res50: cancer,diagnostic
+Read,7932400,Resection of heart tumour,res50: cancer,diagnostic
+Read,7008500,Insertion of carmustine wafers in cerebral neoplasm,res50: cancer,diagnostic
+Read,7G03K00,Excision malignant skin tumour,res50: cancer,diagnostic
+Read,7B27.13,TURBT - transurethral resection of bladder tumour,res50: cancer,diagnostic
+Read,7B27900,Endoscopic destruction of bladder tumour by laser,res50: cancer,diagnostic
+Read,7K13700,Excision of tumour of bone NEC,res50: cancer,diagnostic
+Read,7K13500,Curettage of tumour of bone and graft HFQ,res50: cancer,diagnostic
+Read,7K13600,Curettage of tumour of bone NEC,res50: cancer,diagnostic
+Read,7L1b.00,Procurement drugs for chemotherapy for neoplasm in bands 1-5,res50: cancer,diagnostic
+Read,7K13900,Excision of tumour of bone,res50: cancer,diagnostic
+Read,7L1K300,Debulking of tumour of unspecified organ,res50: cancer,diagnostic
+Read,9Ok7.00,Cancer rehabilitation and readaption,res50: cancer,diagnostic
+Read,8A9..00,Tumour marker monitoring,res50: cancer,diagnostic
+Read,7L1ez00,Delivery of oral chemotherapy for neoplasm NOS,res50: cancer,diagnostic
+Read,7L1dz00,Delivery of chemotherapy for neoplasm NOS,res50: cancer,diagnostic
+Read,7L1e.00,Delivery of oral chemotherapy for neoplasm,res50: cancer,diagnostic
+Read,9Ok6.00,Cancer short term health assessment,res50: cancer,diagnostic
+Read,8BAD000,Cancer chemotherapy,res50: cancer,diagnostic
+Read,8B3p.00,Administration of cancer treatment,res50: cancer,diagnostic
+Read,9Ok5.00,Cancer pain and symptom management,res50: cancer,diagnostic
+Read,8BC6.00,Cancer treatment started,res50: cancer,diagnostic
+Read,9Ok3.00,Date cancer diagnosis received in primary care,res50: cancer,diagnostic
+Read,B00..11,Carcinoma of lip,res50: cancer,diagnostic
+Read,B....11,Cancers,res50: cancer,diagnostic
+Read,9OkC.00,Patient on regional cancer register,res50: cancer,diagnostic
+Read,B....00,Neoplasms,res50: cancer,diagnostic
+Read,B00..00,Malignant neoplasm of lip,res50: cancer,diagnostic
+Read,B0...00,"Malignant neoplasm of lip, oral cavity and pharynx",res50: cancer,diagnostic
+Read,B0...11,"Carcinoma of lip, oral cavity and pharynx",res50: cancer,diagnostic
+Read,B000000,"Malignant neoplasm of upper lip, external",res50: cancer,diagnostic
+Read,B000.00,"Malignant neoplasm of upper lip, vermilion border",res50: cancer,diagnostic
+Read,B000100,"Malignant neoplasm of upper lip, lipstick area",res50: cancer,diagnostic
+Read,B000z00,"Malignant neoplasm of upper lip, vermilion border NOS",res50: cancer,diagnostic
+Read,B062000,Malignant neoplasm of faucial pillar,res50: cancer,diagnostic
+Read,B03y.00,Malignant neoplasm of other sites of gum,res50: cancer,diagnostic
+Read,B010000,Malignant neoplasm of base of tongue dorsal surface,res50: cancer,diagnostic
+Read,B004.00,"Malignant neoplasm of lip unspecified, inner aspect",res50: cancer,diagnostic
+Read,B002300,"Malignant neoplasm of upper lip, oral aspect",res50: cancer,diagnostic
+Read,B002.00,"Malignant neoplasm of upper lip, inner aspect",res50: cancer,diagnostic
+Read,B002200,"Malignant neoplasm of upper lip, mucosa",res50: cancer,diagnostic
+Read,B002100,"Malignant neoplasm of upper lip, frenulum",res50: cancer,diagnostic
+Read,B003z00,"Malignant neoplasm of lower lip, inner aspect NOS",res50: cancer,diagnostic
+Read,B003000,"Malignant neoplasm of lower lip, buccal aspect",res50: cancer,diagnostic
+Read,B002z00,"Malignant neoplasm of upper lip, inner aspect NOS",res50: cancer,diagnostic
+Read,B003.00,"Malignant neoplasm of lower lip, inner aspect",res50: cancer,diagnostic
+Read,B003300,"Malignant neoplasm of lower lip, oral aspect",res50: cancer,diagnostic
+Read,B003100,"Malignant neoplasm of lower lip, frenulum",res50: cancer,diagnostic
+Read,B003200,"Malignant neoplasm of lower lip, mucosa",res50: cancer,diagnostic
+Read,B010.11,Malignant neoplasm of posterior third of tongue,res50: cancer,diagnostic
+Read,B006.00,Malignant neoplasm of overlapping lesion of lip,res50: cancer,diagnostic
+Read,B005.00,Malignant neoplasm of commissure of lip,res50: cancer,diagnostic
+Read,B004200,"Malignant neoplasm of lip unspecified, mucosa",res50: cancer,diagnostic
+Read,B004300,"Malignant neoplasm of lip, oral aspect",res50: cancer,diagnostic
+Read,B010.00,Malignant neoplasm of base of tongue,res50: cancer,diagnostic
+Read,B00z100,"Malignant neoplasm of lip, unspecified, lipstick area",res50: cancer,diagnostic
+Read,B007.00,"Malignant neoplasm of lip, unspecified",res50: cancer,diagnostic
+Read,B00z000,"Malignant neoplasm of lip, unspecified, external",res50: cancer,diagnostic
+Read,B031.00,Malignant neoplasm of lower gum,res50: cancer,diagnostic
+Read,B012.00,"Malignant neoplasm of tongue, tip and lateral border",res50: cancer,diagnostic
+Read,B010z00,Malignant neoplasm of fixed part of tongue NOS,res50: cancer,diagnostic
+Read,B011z00,Malignant neoplasm of dorsum of tongue NOS,res50: cancer,diagnostic
+Read,B011.00,Malignant neoplasm of dorsal surface of tongue,res50: cancer,diagnostic
+Read,B011100,Malignant neoplasm of midline of tongue,res50: cancer,diagnostic
+Read,B014.00,Malignant neoplasm of anterior 2/3 of tongue unspecified,res50: cancer,diagnostic
+Read,B013000,Malignant neoplasm of anterior 2/3 of tongue ventral surface,res50: cancer,diagnostic
+Read,B013z00,Malignant neoplasm of ventral tongue surface NOS,res50: cancer,diagnostic
+Read,B013100,Malignant neoplasm of frenulum linguae,res50: cancer,diagnostic
+Read,B030.00,Malignant neoplasm of upper gum,res50: cancer,diagnostic
+Read,B03..00,Malignant neoplasm of gum,res50: cancer,diagnostic
+Read,B021.00,Malignant neoplasm of submandibular gland,res50: cancer,diagnostic
+Read,B020.00,Malignant neoplasm of parotid gland,res50: cancer,diagnostic
+Read,B02z.00,Malignant neoplasm of major salivary gland NOS,res50: cancer,diagnostic
+Read,B022.00,Malignant neoplasm of sublingual gland,res50: cancer,diagnostic
+Read,B02y.00,Malignant neoplasm of other major salivary glands,res50: cancer,diagnostic
+Read,B062.00,Malignant neoplasm of tonsillar pillar,res50: cancer,diagnostic
+Read,B053.00,Malignant neoplasm of soft palate,res50: cancer,diagnostic
+Read,B040.00,Malignant neoplasm of anterior portion of floor of mouth,res50: cancer,diagnostic
+Read,B04..00,Malignant neoplasm of floor of mouth,res50: cancer,diagnostic
+Read,B03z.00,Malignant neoplasm of gum NOS,res50: cancer,diagnostic
+Read,B041.00,Malignant neoplasm of lateral portion of floor of mouth,res50: cancer,diagnostic
+Read,B052.00,Malignant neoplasm of hard palate,res50: cancer,diagnostic
+Read,B04y.00,Malignant neoplasm of other sites of floor of mouth,res50: cancer,diagnostic
+Read,B051100,Malignant neoplasm of lower buccal sulcus,res50: cancer,diagnostic
+Read,B050.11,Malignant neoplasm of buccal mucosa,res50: cancer,diagnostic
+Read,B050.00,Malignant neoplasm of cheek mucosa,res50: cancer,diagnostic
+Read,B051000,Malignant neoplasm of upper buccal sulcus,res50: cancer,diagnostic
+Read,B051.00,Malignant neoplasm of vestibule of mouth,res50: cancer,diagnostic
+Read,B061.00,Malignant neoplasm of tonsillar fossa,res50: cancer,diagnostic
+Read,B05z000,Kaposi's sarcoma of palate,res50: cancer,diagnostic
+Read,B055z00,Malignant neoplasm of palate NOS,res50: cancer,diagnostic
+Read,B055000,Malignant neoplasm of junction of hard and soft palate,res50: cancer,diagnostic
+Read,B054.00,Malignant neoplasm of uvula,res50: cancer,diagnostic
+Read,B055.00,Malignant neoplasm of palate unspecified,res50: cancer,diagnostic
+Read,B05z.00,Malignant neoplasm of mouth NOS,res50: cancer,diagnostic
+Read,B056.00,Malignant neoplasm of retromolar area,res50: cancer,diagnostic
+Read,B05y.00,Malignant neoplasm of other specified mouth parts,res50: cancer,diagnostic
+Read,B060z00,Malignant neoplasm tonsil NOS,res50: cancer,diagnostic
+Read,B060.00,Malignant neoplasm of tonsil,res50: cancer,diagnostic
+Read,B06..00,Malignant neoplasm of oropharynx,res50: cancer,diagnostic
+Read,B060200,Malignant neoplasm of overlapping lesion of tonsil,res50: cancer,diagnostic
+Read,B060000,Malignant neoplasm of faucial tonsil,res50: cancer,diagnostic
+Read,B060100,Malignant neoplasm of palatine tonsil,res50: cancer,diagnostic
+Read,B241000,Malignant neoplasm of endocardium,res50: cancer,diagnostic
+Read,B171.00,Malignant neoplasm of body of pancreas,res50: cancer,diagnostic
+Read,B112.00,Malignant neoplasm of pyloric antrum of stomach,res50: cancer,diagnostic
+Read,B071z00,Malignant neoplasm of posterior wall of nasopharynx NOS,res50: cancer,diagnostic
+Read,B067.00,Malignant neoplasm of posterior wall of oropharynx,res50: cancer,diagnostic
+Read,B063.00,Malignant neoplasm of vallecula,res50: cancer,diagnostic
+Read,B062300,Malignant neoplasm of palatopharyngeal arch,res50: cancer,diagnostic
+Read,B062z00,Malignant neoplasm of tonsillar fossa NOS,res50: cancer,diagnostic
+Read,B066.00,Malignant neoplasm of lateral wall of oropharynx,res50: cancer,diagnostic
+Read,B064100,Malignant neoplasm of glossoepiglottic fold,res50: cancer,diagnostic
+Read,B064.00,Malignant neoplasm of anterior epiglottis,res50: cancer,diagnostic
+Read,B064000,"Malignant neoplasm of epiglottis, free border",res50: cancer,diagnostic
+Read,B064z00,Malignant neoplasm of anterior epiglottis NOS,res50: cancer,diagnostic
+Read,B065.00,Malignant neoplasm of junctional region of epiglottis,res50: cancer,diagnostic
+Read,B071100,Malignant neoplasm of pharyngeal tonsil,res50: cancer,diagnostic
+Read,B06y.00,"Malignant neoplasm of oropharynx, other specified sites",res50: cancer,diagnostic
+Read,B071.00,Malignant neoplasm of posterior wall of nasopharynx,res50: cancer,diagnostic
+Read,B070.00,Malignant neoplasm of roof of nasopharynx,res50: cancer,diagnostic
+Read,B072z00,Malignant neoplasm of lateral wall of nasopharynx NOS,res50: cancer,diagnostic
+Read,B072000,Malignant neoplasm of pharyngeal recess,res50: cancer,diagnostic
+Read,B072.00,Malignant neoplasm of lateral wall of nasopharynx,res50: cancer,diagnostic
+Read,B074.00,"Malignant neoplasm, overlapping lesion of nasopharynx",res50: cancer,diagnostic
+Read,B073200,Malignant neoplasm posterior margin nasal septum and choanae,res50: cancer,diagnostic
+Read,B111z00,Malignant neoplasm of pylorus of stomach NOS,res50: cancer,diagnostic
+Read,B103.00,Malignant neoplasm of upper third of oesophagus,res50: cancer,diagnostic
+Read,B0z..00,"Malig neop other/ill-defined sites lip, oral cavity, pharynx",res50: cancer,diagnostic
+Read,B08z.00,Malignant neoplasm of hypopharynx NOS,res50: cancer,diagnostic
+Read,B081.00,Malignant neoplasm of pyriform sinus,res50: cancer,diagnostic
+Read,B082.00,"Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect",res50: cancer,diagnostic
+Read,B08y.00,Malignant neoplasm of other specified hypopharyngeal site,res50: cancer,diagnostic
+Read,B102.00,Malignant neoplasm of abdominal oesophagus,res50: cancer,diagnostic
+Read,B0zz.00,"Malignant neoplasm of lip, oral cavity and pharynx NOS",res50: cancer,diagnostic
+Read,B0zy.00,"Malignant neoplasm of other sites lip, oral cavity, pharynx",res50: cancer,diagnostic
+Read,B0z2.00,Malignant neoplasm of laryngopharynx,res50: cancer,diagnostic
+Read,B101.00,Malignant neoplasm of thoracic oesophagus,res50: cancer,diagnostic
+Read,B1...00,Malignant neoplasm of digestive organs and peritoneum,res50: cancer,diagnostic
+Read,B100.00,Malignant neoplasm of cervical oesophagus,res50: cancer,diagnostic
+Read,B10..00,Malignant neoplasm of oesophagus,res50: cancer,diagnostic
+Read,B111100,Malignant neoplasm of pyloric canal of stomach,res50: cancer,diagnostic
+Read,B110.00,Malignant neoplasm of cardia of stomach,res50: cancer,diagnostic
+Read,B833000,Carcinoma in situ of ovary,res50: cancer,diagnostic
+Read,B106.00,"Malignant neoplasm, overlapping lesion of oesophagus",res50: cancer,diagnostic
+Read,B104.00,Malignant neoplasm of middle third of oesophagus,res50: cancer,diagnostic
+Read,B105.00,Malignant neoplasm of lower third of oesophagus,res50: cancer,diagnostic
+Read,B11..11,Gastric neoplasm,res50: cancer,diagnostic
+Read,B107.00,Siewert type I adenocarcinoma,res50: cancer,diagnostic
+Read,B10y.00,Malignant neoplasm of other specified part of oesophagus,res50: cancer,diagnostic
+Read,B111000,Malignant neoplasm of prepylorus of stomach,res50: cancer,diagnostic
+Read,B110000,Malignant neoplasm of cardiac orifice of stomach,res50: cancer,diagnostic
+Read,B111.00,Malignant neoplasm of pylorus of stomach,res50: cancer,diagnostic
+Read,B110100,Malignant neoplasm of cardio-oesophageal junction of stomach,res50: cancer,diagnostic
+Read,B110z00,Malignant neoplasm of cardia of stomach NOS,res50: cancer,diagnostic
+Read,B110111,Malignant neoplasm of gastro-oesophageal junction,res50: cancer,diagnostic
+Read,B170.00,Malignant neoplasm of head of pancreas,res50: cancer,diagnostic
+Read,B141.00,Malignant neoplasm of rectum,res50: cancer,diagnostic
+Read,B12y.00,Malignant neoplasm of other specified site small intestine,res50: cancer,diagnostic
+Read,B117.00,"Malignant neoplasm, overlapping lesion of stomach",res50: cancer,diagnostic
+Read,B115.00,Malignant neoplasm of lesser curve of stomach unspecified,res50: cancer,diagnostic
+Read,B113.00,Malignant neoplasm of fundus of stomach,res50: cancer,diagnostic
+Read,B114.00,Malignant neoplasm of body of stomach,res50: cancer,diagnostic
+Read,B11y.00,Malignant neoplasm of other specified site of stomach,res50: cancer,diagnostic
+Read,B119.00,Siewert type III adenocarcinoma,res50: cancer,diagnostic
+Read,B118.00,Siewert type II adenocarcinoma,res50: cancer,diagnostic
+Read,B11yz00,Malignant neoplasm of other specified site of stomach NOS,res50: cancer,diagnostic
+Read,B124.00,"Malignant neoplasm, overlapping lesion of small intestine",res50: cancer,diagnostic
+Read,B120.00,Malignant neoplasm of duodenum,res50: cancer,diagnostic
+Read,B12..00,Malignant neoplasm of small intestine and duodenum,res50: cancer,diagnostic
+Read,B123.00,Malignant neoplasm of Meckel's diverticulum,res50: cancer,diagnostic
+Read,B121.00,Malignant neoplasm of jejunum,res50: cancer,diagnostic
+Read,B122.00,Malignant neoplasm of ileum,res50: cancer,diagnostic
+Read,B137.00,Malignant neoplasm of splenic flexure of colon,res50: cancer,diagnostic
+Read,B136.00,Malignant neoplasm of ascending colon,res50: cancer,diagnostic
+Read,B133.00,Malignant neoplasm of sigmoid colon,res50: cancer,diagnostic
+Read,B135.00,Malignant neoplasm of appendix,res50: cancer,diagnostic
+Read,B134.00,Malignant neoplasm of caecum,res50: cancer,diagnostic
+Read,B134.11,Carcinoma of caecum,res50: cancer,diagnostic
+Read,B13z.00,Malignant neoplasm of colon NOS,res50: cancer,diagnostic
+Read,B138.00,"Malignant neoplasm, overlapping lesion of colon",res50: cancer,diagnostic
+Read,B139.00,Hereditary nonpolyposis colon cancer,res50: cancer,diagnostic
+Read,B13y.00,Malignant neoplasm of other specified sites of colon,res50: cancer,diagnostic
+Read,B14..00,"Malignant neoplasm of rectum, rectosigmoid junction and anus",res50: cancer,diagnostic
+Read,B13z.11,Colonic cancer,res50: cancer,diagnostic
+Read,B17..00,Malignant neoplasm of pancreas,res50: cancer,diagnostic
+Read,B153.00,Secondary malignant neoplasm of liver,res50: cancer,diagnostic
+Read,B142000,Malignant neoplasm of cloacogenic zone,res50: cancer,diagnostic
+Read,B142.00,Malignant neoplasm of anal canal,res50: cancer,diagnostic
+Read,B141.11,Carcinoma of rectum,res50: cancer,diagnostic
+Read,B141.12,Rectal carcinoma,res50: cancer,diagnostic
+Read,B142.11,Anal carcinoma,res50: cancer,diagnostic
+Read,B143.00,Malignant neoplasm of anus unspecified,res50: cancer,diagnostic
+Read,B14y.00,"Malig neop other site rectum, rectosigmoid junction and anus",res50: cancer,diagnostic
+Read,B14z.00,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",res50: cancer,diagnostic
+Read,B152.00,Malignant neoplasm of liver unspecified,res50: cancer,diagnostic
+Read,B151.00,Malignant neoplasm of intrahepatic bile ducts,res50: cancer,diagnostic
+Read,B150200,Primary angiosarcoma of liver,res50: cancer,diagnostic
+Read,B150000,Primary carcinoma of liver,res50: cancer,diagnostic
+Read,B150z00,Primary malignant neoplasm of liver NOS,res50: cancer,diagnostic
+Read,B150300,Hepatocellular carcinoma,res50: cancer,diagnostic
+Read,B151z00,Malignant neoplasm of intrahepatic bile ducts NOS,res50: cancer,diagnostic
+Read,B151200,Malignant neoplasm of intrahepatic biliary passages,res50: cancer,diagnostic
+Read,B151000,Malignant neoplasm of interlobular bile ducts,res50: cancer,diagnostic
+Read,B161100,Malignant neoplasm of hepatic duct,res50: cancer,diagnostic
+Read,B16..00,Malignant neoplasm gallbladder and extrahepatic bile ducts,res50: cancer,diagnostic
+Read,B15z.00,Malignant neoplasm of liver and intrahepatic bile ducts NOS,res50: cancer,diagnostic
+Read,B161000,Malignant neoplasm of cystic duct,res50: cancer,diagnostic
+Read,B161211,Carcinoma common bile duct,res50: cancer,diagnostic
+Read,B161200,Malignant neoplasm of common bile duct,res50: cancer,diagnostic
+Read,B162.00,Malignant neoplasm of ampulla of Vater,res50: cancer,diagnostic
+Read,B161300,Malignant neoplasm of sphincter of Oddi,res50: cancer,diagnostic
+Read,B161z00,Malignant neoplasm of extrahepatic bile ducts NOS,res50: cancer,diagnostic
+Read,B16y.00,Malignant neoplasm other gallbladder/extrahepatic bile duct,res50: cancer,diagnostic
+Read,B163.00,"Malignant neoplasm, overlapping lesion of biliary tract",res50: cancer,diagnostic
+Read,B17z.00,Malignant neoplasm of pancreas NOS,res50: cancer,diagnostic
+Read,B175.00,"Malignant neoplasm, overlapping lesion of pancreas",res50: cancer,diagnostic
+Read,B172.00,Malignant neoplasm of tail of pancreas,res50: cancer,diagnostic
+Read,B174.00,Malignant neoplasm of Islets of Langerhans,res50: cancer,diagnostic
+Read,B173.00,Malignant neoplasm of pancreatic duct,res50: cancer,diagnostic
+Read,B17y.00,Malignant neoplasm of other specified sites of pancreas,res50: cancer,diagnostic
+Read,B180100,Malignant neoplasm of perinephric tissue,res50: cancer,diagnostic
+Read,B18..00,Malignant neoplasm of retroperitoneum and peritoneum,res50: cancer,diagnostic
+Read,B180z00,Malignant neoplasm of retroperitoneum NOS,res50: cancer,diagnostic
+Read,B180200,Malignant neoplasm of retrocaecal tissue,res50: cancer,diagnostic
+Read,B18y.00,Malignant neoplasm of specified parts of peritoneum,res50: cancer,diagnostic
+Read,B181.00,Mesothelioma of peritoneum,res50: cancer,diagnostic
+Read,B182.00,Overlapping malign lesion of retroperitoneum and peritoneum,res50: cancer,diagnostic
+Read,B18y700,Malignant neoplasm of mesentery,res50: cancer,diagnostic
+Read,B18y500,Malignant neoplasm of pelvic peritoneum,res50: cancer,diagnostic
+Read,B18y600,Malignant neoplasm of the pouch of Douglas,res50: cancer,diagnostic
+Read,B18z.00,Malignant neoplasm of retroperitoneum and peritoneum NOS,res50: cancer,diagnostic
+Read,B18yz00,Malignant neoplasm of specified parts of peritoneum NOS,res50: cancer,diagnostic
+Read,B1z1000,Angiosarcoma of spleen,res50: cancer,diagnostic
+Read,B1z0.00,"Malignant neoplasm of intestinal tract, part unspecified",res50: cancer,diagnostic
+Read,B1z2.00,"Malignant neoplasm, overlapping lesion of digestive system",res50: cancer,diagnostic
+Read,B1z1100,Fibrosarcoma of spleen,res50: cancer,diagnostic
+Read,B1z1z00,Malignant neoplasm of spleen NOS,res50: cancer,diagnostic
+Read,B1zz.00,Malignant neoplasm of digestive tract and peritoneum NOS,res50: cancer,diagnostic
+Read,B1zy.00,Malignant neoplasm other spec digestive tract and peritoneum,res50: cancer,diagnostic
+Read,B200z00,Malignant neoplasm of nasal cavities NOS,res50: cancer,diagnostic
+Read,B2...11,Carcinoma of respiratory tract and intrathoracic organs,res50: cancer,diagnostic
+Read,B200300,Malignant neoplasm of vestibule of nose,res50: cancer,diagnostic
+Read,B200200,Malignant neoplasm of septum of nose,res50: cancer,diagnostic
+Read,B200100,Malignant neoplasm of nasal conchae,res50: cancer,diagnostic
+Read,B206.00,"Malignant neoplasm, overlapping lesion of accessory sinuses",res50: cancer,diagnostic
+Read,B201300,Malignant neoplasm of mastoid air cells,res50: cancer,diagnostic
+Read,B201.00,"Malig neop auditory tube, middle ear and mastoid air cells",res50: cancer,diagnostic
+Read,B201200,Malignant neoplasm of tympanic antrum,res50: cancer,diagnostic
+Read,B201100,Malignant neoplasm of tympanic cavity,res50: cancer,diagnostic
+Read,B205.00,Malignant neoplasm of sphenoidal sinus,res50: cancer,diagnostic
+Read,B201z00,"Malig neop auditory tube, middle ear, mastoid air cells NOS",res50: cancer,diagnostic
+Read,B204.00,Malignant neoplasm of frontal sinus,res50: cancer,diagnostic
+Read,B202.00,Malignant neoplasm of maxillary sinus,res50: cancer,diagnostic
+Read,B203.00,Malignant neoplasm of ethmoid sinus,res50: cancer,diagnostic
+Read,B22..00,"Malignant neoplasm of trachea, bronchus and lung",res50: cancer,diagnostic
+Read,B213100,Malignant neoplasm of cricoid cartilage,res50: cancer,diagnostic
+Read,B210.00,Malignant neoplasm of glottis,res50: cancer,diagnostic
+Read,B21..00,Malignant neoplasm of larynx,res50: cancer,diagnostic
+Read,B213000,Malignant neoplasm of arytenoid cartilage,res50: cancer,diagnostic
+Read,B212.00,Malignant neoplasm of subglottis,res50: cancer,diagnostic
+Read,B211.00,Malignant neoplasm of supraglottis,res50: cancer,diagnostic
+Read,B213.00,Malignant neoplasm of laryngeal cartilage,res50: cancer,diagnostic
+Read,B21z.00,Malignant neoplasm of larynx NOS,res50: cancer,diagnostic
+Read,B213z00,Malignant neoplasm of laryngeal cartilage NOS,res50: cancer,diagnostic
+Read,B213300,Malignant neoplasm of thyroid cartilage,res50: cancer,diagnostic
+Read,B213200,Malignant neoplasm of cuneiform cartilage,res50: cancer,diagnostic
+Read,B21y.00,"Malignant neoplasm of larynx, other specified site",res50: cancer,diagnostic
+Read,B214.00,"Malignant neoplasm, overlapping lesion of larynx",res50: cancer,diagnostic
+Read,B215.00,Malignant neoplasm of epiglottis NOS,res50: cancer,diagnostic
+Read,B222000,Malignant neoplasm of upper lobe bronchus,res50: cancer,diagnostic
+Read,B221100,Malignant neoplasm of hilus of lung,res50: cancer,diagnostic
+Read,B220100,Malignant neoplasm of mucosa of trachea,res50: cancer,diagnostic
+Read,B220.00,Malignant neoplasm of trachea,res50: cancer,diagnostic
+Read,B221000,Malignant neoplasm of carina of bronchus,res50: cancer,diagnostic
+Read,B222.11,Pancoast's syndrome,res50: cancer,diagnostic
+Read,B222.00,"Malignant neoplasm of upper lobe, bronchus or lung",res50: cancer,diagnostic
+Read,B221z00,Malignant neoplasm of main bronchus NOS,res50: cancer,diagnostic
+Read,B222100,Malignant neoplasm of upper lobe of lung,res50: cancer,diagnostic
+Read,B222z00,"Malignant neoplasm of upper lobe, bronchus or lung NOS",res50: cancer,diagnostic
+Read,B223000,Malignant neoplasm of middle lobe bronchus,res50: cancer,diagnostic
+Read,B223100,Malignant neoplasm of middle lobe of lung,res50: cancer,diagnostic
+Read,B223z00,"Malignant neoplasm of middle lobe, bronchus or lung NOS",res50: cancer,diagnostic
+Read,B23..00,Malignant neoplasm of pleura,res50: cancer,diagnostic
+Read,B22y.00,Malignant neoplasm of other sites of bronchus or lung,res50: cancer,diagnostic
+Read,B22z.11,Lung cancer,res50: cancer,diagnostic
+Read,B22z.00,Malignant neoplasm of bronchus or lung NOS,res50: cancer,diagnostic
+Read,B24..00,"Malignant neoplasm of thymus, heart and mediastinum",res50: cancer,diagnostic
+Read,B23y.00,Malignant neoplasm of other specified pleura,res50: cancer,diagnostic
+Read,B231.00,Malignant neoplasm of visceral pleura,res50: cancer,diagnostic
+Read,B230.00,Malignant neoplasm of parietal pleura,res50: cancer,diagnostic
+Read,B232.00,Mesothelioma of pleura,res50: cancer,diagnostic
+Read,B23z.00,Malignant neoplasm of pleura NOS,res50: cancer,diagnostic
+Read,B316.00,Malig neop of connective and soft tissue trunk unspecified,res50: cancer,diagnostic
+Read,B30..11,Chondroma,res50: cancer,diagnostic
+Read,B242.00,Malignant neoplasm of anterior mediastinum,res50: cancer,diagnostic
+Read,B241300,Malignant neoplasm of pericardium,res50: cancer,diagnostic
+Read,B241z00,Malignant neoplasm of heart NOS,res50: cancer,diagnostic
+Read,B241400,Mesothelioma of pericardium,res50: cancer,diagnostic
+Read,B24y.00,"Malig neop of other site of heart, thymus and mediastinum",res50: cancer,diagnostic
+Read,B24X.00,"Malignant neoplasm of mediastinum, part unspecified",res50: cancer,diagnostic
+Read,B243.00,Malignant neoplasm of posterior mediastinum,res50: cancer,diagnostic
+Read,B26..00,"Malignant neoplasm, overlap lesion of resp & intrathor orgs",res50: cancer,diagnostic
+Read,B30..00,Malignant neoplasm of bone and articular cartilage,res50: cancer,diagnostic
+Read,B2zz.00,Malignant neoplasm of respiratory tract NOS,res50: cancer,diagnostic
+Read,B3...00,"Malig neop of bone, connective tissue, skin and breast",res50: cancer,diagnostic
+Read,B300900,Malignant neoplasm of zygomatic bone,res50: cancer,diagnostic
+Read,B300300,Malignant neoplasm of nasal bone,res50: cancer,diagnostic
+Read,B300000,Malignant neoplasm of ethmoid bone,res50: cancer,diagnostic
+Read,B30..12,Osteoma,res50: cancer,diagnostic
+Read,B300.00,Malignant neoplasm of bones of skull and face,res50: cancer,diagnostic
+Read,B300200,Malignant neoplasm of malar bone,res50: cancer,diagnostic
+Read,B300100,Malignant neoplasm of frontal bone,res50: cancer,diagnostic
+Read,B300800,Malignant neoplasm of temporal bone,res50: cancer,diagnostic
+Read,B300600,Malignant neoplasm of parietal bone,res50: cancer,diagnostic
+Read,B300500,Malignant neoplasm of orbital bone,res50: cancer,diagnostic
+Read,B300400,Malignant neoplasm of occipital bone,res50: cancer,diagnostic
+Read,B300700,Malignant neoplasm of sphenoid bone,res50: cancer,diagnostic
+Read,B303z00,"Malignant neoplasm of rib, sternum and clavicle NOS",res50: cancer,diagnostic
+Read,B302100,Malignant neoplasm of thoracic vertebra,res50: cancer,diagnostic
+Read,B300B00,Malignant neoplasm of turbinate,res50: cancer,diagnostic
+Read,B300A00,Malignant neoplasm of maxilla,res50: cancer,diagnostic
+Read,B302000,Malignant neoplasm of cervical vertebra,res50: cancer,diagnostic
+Read,B300C00,Malignant neoplasm of vomer,res50: cancer,diagnostic
+Read,B302.00,Malignant neoplasm of vertebral column,res50: cancer,diagnostic
+Read,B300z00,Malignant neoplasm of bones of skull and face NOS,res50: cancer,diagnostic
+Read,B301.00,Malignant neoplasm of mandible,res50: cancer,diagnostic
+Read,B303500,Malignant neoplasm of xiphoid process,res50: cancer,diagnostic
+Read,B303000,Malignant neoplasm of rib,res50: cancer,diagnostic
+Read,B302200,Malignant neoplasm of lumbar vertebra,res50: cancer,diagnostic
+Read,B303.00,"Malignant neoplasm of ribs, sternum and clavicle",res50: cancer,diagnostic
+Read,B302z00,Malignant neoplasm of vertebral column NOS,res50: cancer,diagnostic
+Read,B303400,Malignant neoplasm of costo-vertebral joint,res50: cancer,diagnostic
+Read,B303100,Malignant neoplasm of sternum,res50: cancer,diagnostic
+Read,B303300,Malignant neoplasm of costal cartilage,res50: cancer,diagnostic
+Read,B303200,Malignant neoplasm of clavicle,res50: cancer,diagnostic
+Read,B311000,Malignant neoplasm of connective and soft tissue of shoulder,res50: cancer,diagnostic
+Read,B308200,Malignant neoplasm of calcaneum,res50: cancer,diagnostic
+Read,B304100,Malignant neoplasm of acromion,res50: cancer,diagnostic
+Read,B304000,Malignant neoplasm of scapula,res50: cancer,diagnostic
+Read,B304z00,Malig neop of scapula and long bones of upper arm NOS,res50: cancer,diagnostic
+Read,B304200,Malignant neoplasm of humerus,res50: cancer,diagnostic
+Read,B304400,Malignant neoplasm of ulna,res50: cancer,diagnostic
+Read,B304300,Malignant neoplasm of radius,res50: cancer,diagnostic
+Read,B306.00,"Malignant neoplasm of pelvic bones, sacrum and coccyx",res50: cancer,diagnostic
+Read,B305100,Malignant neoplasm of carpal bone - lunate,res50: cancer,diagnostic
+Read,B305z00,Malignant neoplasm of hand bones NOS,res50: cancer,diagnostic
+Read,B305C00,Malignant neoplasm of fifth metacarpal bone,res50: cancer,diagnostic
+Read,B305A00,Malignant neoplasm of third metacarpal bone,res50: cancer,diagnostic
+Read,B305D00,Malignant neoplasm of phalanges of hand,res50: cancer,diagnostic
+Read,B308100,Malignant neoplasm of talus,res50: cancer,diagnostic
+Read,B306400,Malignant neoplasm of coccygeal vertebra,res50: cancer,diagnostic
+Read,B306000,Malignant neoplasm of ilium,res50: cancer,diagnostic
+Read,B306300,Malignant neoplasm of sacral vertebra,res50: cancer,diagnostic
+Read,B306200,Malignant neoplasm of pubis,res50: cancer,diagnostic
+Read,B306100,Malignant neoplasm of ischium,res50: cancer,diagnostic
+Read,B308.00,Malignant neoplasm of short bones of leg,res50: cancer,diagnostic
+Read,B306z00,"Malignant neoplasm of pelvis, sacrum or coccyx NOS",res50: cancer,diagnostic
+Read,B306500,Malignant sacral teratoma,res50: cancer,diagnostic
+Read,B307z00,Malignant neoplasm of long bones of leg NOS,res50: cancer,diagnostic
+Read,B307.00,Malignant neoplasm of long bones of leg,res50: cancer,diagnostic
+Read,B307100,Malignant neoplasm of fibula,res50: cancer,diagnostic
+Read,B307000,Malignant neoplasm of femur,res50: cancer,diagnostic
+Read,B310.00,"Malig neop of connective and soft tissue head, face and neck",res50: cancer,diagnostic
+Read,B308B00,Malignant neoplasm of fourth metatarsal bone,res50: cancer,diagnostic
+Read,B308800,Malignant neoplasm of first metatarsal bone,res50: cancer,diagnostic
+Read,B308300,Malignant neoplasm of medial cuneiform,res50: cancer,diagnostic
+Read,B30W.00,Malignant neoplasm/overlap lesion/bone+articulr cartilage,res50: cancer,diagnostic
+Read,B308z00,Malignant neoplasm of short bones of leg NOS,res50: cancer,diagnostic
+Read,B308D00,Malignant neoplasm of phalanges of foot,res50: cancer,diagnostic
+Read,B30z.00,Malignant neoplasm of bone and articular cartilage NOS,res50: cancer,diagnostic
+Read,B310200,Malignant neoplasm of soft tissue of neck,res50: cancer,diagnostic
+Read,B310000,Malignant neoplasm of soft tissue of head,res50: cancer,diagnostic
+Read,B310100,Malignant neoplasm of soft tissue of face,res50: cancer,diagnostic
+Read,B310400,Malignant neoplasm of tarsus of eyelid,res50: cancer,diagnostic
+Read,B310300,Malignant neoplasm of cartilage of ear,res50: cancer,diagnostic
+Read,B310z00,"Malig neop connective and soft tissue head, face, neck NOS",res50: cancer,diagnostic
+Read,B310500,Malignant neoplasm soft tissues of cervical spine,res50: cancer,diagnostic
+Read,B311400,Malignant neoplasm of connective and soft tissue of finger,res50: cancer,diagnostic
+Read,B312000,Malignant neoplasm of connective and soft tissue of hip,res50: cancer,diagnostic
+Read,B313000,Malignant neoplasm of connective and soft tissue of axilla,res50: cancer,diagnostic
+Read,B314000,Malig neop of connective and soft tissue of abdominal wall,res50: cancer,diagnostic
+Read,B313z00,Malig neop of connective and soft tissue of thorax NOS,res50: cancer,diagnostic
+Read,B315000,Malignant neoplasm of connective and soft tissue of buttock,res50: cancer,diagnostic
+Read,B336200,Malignant neoplasm of skin of fore-arm,res50: cancer,diagnostic
+Read,B330.00,Malignant neoplasm of skin of lip,res50: cancer,diagnostic
+Read,B31z000,Kaposi's sarcoma of soft tissue,res50: cancer,diagnostic
+Read,B33..16,Epithelioma basal cell,res50: cancer,diagnostic
+Read,B33..12,Epithelioma,res50: cancer,diagnostic
+Read,B33..00,Other malignant neoplasm of skin,res50: cancer,diagnostic
+Read,B33..11,Basal cell carcinoma,res50: cancer,diagnostic
+Read,B33..15,Malignant neoplasm of sweat gland,res50: cancer,diagnostic
+Read,B33..14,Malignant neoplasm of sebaceous gland,res50: cancer,diagnostic
+Read,B331200,Malignant neoplasm of lower eyelid,res50: cancer,diagnostic
+Read,B331000,Malignant neoplasm of canthus,res50: cancer,diagnostic
+Read,B331.00,Malignant neoplasm of eyelid including canthus,res50: cancer,diagnostic
+Read,B331100,Malignant neoplasm of upper eyelid,res50: cancer,diagnostic
+Read,B332.00,Malignant neoplasm skin of ear and external auricular canal,res50: cancer,diagnostic
+Read,B332100,Malignant neoplasm of skin of external auditory meatus,res50: cancer,diagnostic
+Read,B332z00,Malig neop skin of ear and external auricular canal NOS,res50: cancer,diagnostic
+Read,B332200,Malignant neoplasm of pinna NEC,res50: cancer,diagnostic
+Read,B336100,Malignant neoplasm of skin of upper arm,res50: cancer,diagnostic
+Read,B333z00,Malignant neoplasm skin other and unspec part of face NOS,res50: cancer,diagnostic
+Read,B333300,Malignant neoplasm of skin of forehead,res50: cancer,diagnostic
+Read,B333200,Malignant neoplasm of skin of eyebrow,res50: cancer,diagnostic
+Read,B333500,Malignant neoplasm of skin of temple,res50: cancer,diagnostic
+Read,B333400,Malignant neoplasm of skin of nose (external),res50: cancer,diagnostic
+Read,B335100,"Malignant neoplasm of skin of chest, excluding breast",res50: cancer,diagnostic
+Read,B334000,Malignant neoplasm of scalp,res50: cancer,diagnostic
+Read,B334.00,Malignant neoplasm of scalp and skin of neck,res50: cancer,diagnostic
+Read,B335000,Malignant neoplasm of skin of axillary fold,res50: cancer,diagnostic
+Read,B334100,Malignant neoplasm of skin of neck,res50: cancer,diagnostic
+Read,B334z00,Malignant neoplasm of scalp or skin of neck NOS,res50: cancer,diagnostic
+Read,B335.00,"Malignant neoplasm of skin of trunk, excluding scrotum",res50: cancer,diagnostic
+Read,B335A00,Malignant neoplasm of skin of scapular region,res50: cancer,diagnostic
+Read,B335600,Malignant neoplasm of skin of perineum,res50: cancer,diagnostic
+Read,B335500,Malignant neoplasm of skin of groin,res50: cancer,diagnostic
+Read,B335400,Malignant neoplasm of skin of umbilicus,res50: cancer,diagnostic
+Read,B335900,Malignant neoplasm of perianal skin,res50: cancer,diagnostic
+Read,B335700,Malignant neoplasm of skin of back,res50: cancer,diagnostic
+Read,B335800,Malignant neoplasm of skin of buttock,res50: cancer,diagnostic
+Read,B335z00,"Malignant neoplasm of skin of trunk, excluding scrotum, NOS",res50: cancer,diagnostic
+Read,B336.00,Malignant neoplasm of skin of upper limb and shoulder,res50: cancer,diagnostic
+Read,B337600,Malignant neoplasm of skin of heel,res50: cancer,diagnostic
+Read,B337100,Malignant neoplasm of skin of thigh,res50: cancer,diagnostic
+Read,B337000,Malignant neoplasm of skin of hip,res50: cancer,diagnostic
+Read,B336500,Malignant neoplasm of skin of thumb,res50: cancer,diagnostic
+Read,B336400,Malignant neoplasm of skin of finger,res50: cancer,diagnostic
+Read,B336300,Malignant neoplasm of skin of hand,res50: cancer,diagnostic
+Read,B337.00,Malignant neoplasm of skin of lower limb and hip,res50: cancer,diagnostic
+Read,B336z00,Malignant neoplasm of skin of upper limb or shoulder NOS,res50: cancer,diagnostic
+Read,B337500,Malignant neoplasm of skin of ankle,res50: cancer,diagnostic
+Read,B337300,Malignant neoplasm of skin of popliteal fossa area,res50: cancer,diagnostic
+Read,B337200,Malignant neoplasm of skin of knee,res50: cancer,diagnostic
+Read,B337400,Malignant neoplasm of skin of lower leg,res50: cancer,diagnostic
+Read,B340.00,Malignant neoplasm of nipple and areola of female breast,res50: cancer,diagnostic
+Read,B33z000,Kaposi's sarcoma of skin,res50: cancer,diagnostic
+Read,B337900,Malignant neoplasm of skin of great toe,res50: cancer,diagnostic
+Read,B337700,Malignant neoplasm of skin of foot,res50: cancer,diagnostic
+Read,B337800,Malignant neoplasm of skin of toe,res50: cancer,diagnostic
+Read,B33z.11,Squamous cell carcinoma of skin NOS,res50: cancer,diagnostic
+Read,B337z00,Malignant neoplasm of skin of lower limb or hip NOS,res50: cancer,diagnostic
+Read,B33z.00,Malignant neoplasm of skin NOS,res50: cancer,diagnostic
+Read,B34..11,Ca female breast,res50: cancer,diagnostic
+Read,B33z100,Naevoid basal cell carcinoma syndrome,res50: cancer,diagnostic
+Read,B34..00,Malignant neoplasm of female breast,res50: cancer,diagnostic
+Read,B3y..00,"Malig neop of bone, connective tissue, skin and breast OS",res50: cancer,diagnostic
+Read,B340z00,Malignant neoplasm of nipple or areola of female breast NOS,res50: cancer,diagnostic
+Read,B340000,Malignant neoplasm of nipple of female breast,res50: cancer,diagnostic
+Read,B340100,Malignant neoplasm of areola of female breast,res50: cancer,diagnostic
+Read,B342.00,Malignant neoplasm of upper-inner quadrant of female breast,res50: cancer,diagnostic
+Read,B36..00,Local recurrence of malignant tumour of breast,res50: cancer,diagnostic
+Read,B346.00,Malignant neoplasm of axillary tail of female breast,res50: cancer,diagnostic
+Read,B344.00,Malignant neoplasm of upper-outer quadrant of female breast,res50: cancer,diagnostic
+Read,B35zz00,Malignant neoplasm of male breast NOS,res50: cancer,diagnostic
+Read,B34yz00,Malignant neoplasm of other site of female breast NOS,res50: cancer,diagnostic
+Read,B35z000,Malignant neoplasm of ectopic site of male breast,res50: cancer,diagnostic
+Read,B350000,Malignant neoplasm of nipple of male breast,res50: cancer,diagnostic
+Read,B350.00,Malignant neoplasm of nipple and areola of male breast,res50: cancer,diagnostic
+Read,B35..00,Malignant neoplasm of male breast,res50: cancer,diagnostic
+Read,B35z.00,Malignant neoplasm of other site of male breast,res50: cancer,diagnostic
+Read,B350100,Malignant neoplasm of areola of male breast,res50: cancer,diagnostic

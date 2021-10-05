@@ -1,0 +1,97 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,2901A,PRESENILE DEMENTIA,dementia,diagnostic
+OXMIS,Y0601JS,DEMENTIA CLINIC ATTENDANCE,dementia,diagnostic
+OXMIS,2901D,JACOB- CREUZFELDT DISEASE WITH DEMENTIA,dementia,diagnostic
+OXMIS,2901B,ALZHEIMER'S DISEASE,dementia,diagnostic
+OXMIS,2900,SENILE DEMENTIA,dementia,diagnostic
+OXMIS,2930,DEMENTIA ARTERIOSCLEROTIC,dementia,diagnostic
+OXMIS,2919,DEMENTIA ALCOHOLIC,dementia,diagnostic
+OXMIS,299 B,DEMENTIA,dementia,diagnostic
+OXMIS,299 G,DEMENTIA AGGRESSIVE,dementia,diagnostic
+OXMIS,Y060 JS,DEMENTIA CLINIC,dementia,diagnostic
+Read,ZR1K.00,Alzheimer's disease assessment scale,dementia,diagnostic
+Read,E002100,Senile dementia with depression,dementia,diagnostic
+Read,E002000,Senile dementia with paranoia,dementia,diagnostic
+Read,E00..12,Senile/presenile dementia,dementia,diagnostic
+Read,E002.00,Senile dementia with depressive or paranoid features,dementia,diagnostic
+Read,E00..11,Senile dementia,dementia,diagnostic
+Read,E00..00,Senile and presenile organic psychotic conditions,dementia,diagnostic
+Read,E001z00,Presenile dementia NOS,dementia,diagnostic
+Read,E001.00,Presenile dementia,dementia,diagnostic
+Read,e000.00,Uncomplicated senile dementia,dementia,diagnostic
+Read,E000.00,Uncomplicated senile dementia,dementia,diagnostic
+Read,E001000,Uncomplicated presenile dementia,dementia,diagnostic
+Read,E001300,Presenile dementia with depression,dementia,diagnostic
+Read,E001200,Presenile dementia with paranoia,dementia,diagnostic
+Read,E001100,Presenile dementia with delirium,dementia,diagnostic
+Read,E004000,Uncomplicated arteriosclerotic dementia,dementia,diagnostic
+Read,Eu01000,[X]Vascular dementia of acute onset,dementia,diagnostic
+Read,E012.11,Alcoholic dementia NOS,dementia,diagnostic
+Read,E002z00,Senile dementia with depressive or paranoid features NOS,dementia,diagnostic
+Read,E004.11,Multi infarct dementia,dementia,diagnostic
+Read,E004.00,Arteriosclerotic dementia,dementia,diagnostic
+Read,E003.00,Senile dementia with delirium,dementia,diagnostic
+Read,E012.00,Other alcoholic dementia,dementia,diagnostic
+Read,E004300,Arteriosclerotic dementia with depression,dementia,diagnostic
+Read,E004200,Arteriosclerotic dementia with paranoia,dementia,diagnostic
+Read,E004100,Arteriosclerotic dementia with delirium,dementia,diagnostic
+Read,E004z00,Arteriosclerotic dementia NOS,dementia,diagnostic
+Read,E00z.00,Senile or presenile psychoses NOS,dementia,diagnostic
+Read,E00y.11,Presbyophrenic psychosis,dementia,diagnostic
+Read,E00y.00,Other senile and presenile organic psychoses,dementia,diagnostic
+Read,Eu00013,[X]Alzheimer's disease type 2,dementia,diagnostic
+Read,E041.00,Dementia in conditions EC,dementia,diagnostic
+Read,E012000,Chronic alcoholic brain syndrome,dementia,diagnostic
+Read,Eu01.11,[X]Arteriosclerotic dementia,dementia,diagnostic
+Read,Eu00.00,[X]Dementia in Alzheimer's disease,dementia,diagnostic
+Read,Eu00012,[X]Primary degen dementia; Alzheimer's type; presenile onset,dementia,diagnostic
+Read,Eu00011,[X]Presenile dementia;Alzheimer's type,dementia,diagnostic
+Read,Eu00000,[X]Dementia in Alzheimer's disease with early onset,dementia,diagnostic
+Read,Eu01.00,[X]Vascular dementia,dementia,diagnostic
+Read,Eu00112,[X]Senile dementia;Alzheimer's type,dementia,diagnostic
+Read,Eu00111,[X]Alzheimer's disease type 1,dementia,diagnostic
+Read,Eu00100,[X]Dementia in Alzheimer's disease with late onset,dementia,diagnostic
+Read,Eu00113,[X]Primary degen dementia of Alzheimer's type; senile onset,dementia,diagnostic
+Read,Eu00z11,[X]Alzheimer's dementia unspec,dementia,diagnostic
+Read,Eu00z00,[X]Dementia in Alzheimer's disease; unspecified,dementia,diagnostic
+Read,Eu00200,[X]Dementia in Alzheimer's dis; atypical or mixed type,dementia,diagnostic
+Read,Eu02z00,[X] Unspecified dementia,dementia,diagnostic
+Read,Eu01z00,[X]Vascular dementia; unspecified,dementia,diagnostic
+Read,Eu01100,[X]Multi-infarct dementia,dementia,diagnostic
+Read,6AB..00,Dementia annual review,dementia,diagnostic
+Read,Eu01111,[X]Predominantly cortical dementia,dementia,diagnostic
+Read,Eu01y00,[X]Other vascular dementia,dementia,diagnostic
+Read,Eu01300,[X]Mixed cortical and subcortical vascular dementia,dementia,diagnostic
+Read,Eu01200,[X]Subcortical vascular dementia,dementia,diagnostic
+Read,Eu02y00,[X]Dementia in other specified diseases classif elsewhere,dementia,diagnostic
+Read,Eu02100,[X]Dementia in Creutzfeldt-Jakob disease,dementia,diagnostic
+Read,Eu02000,[X]Dementia in Pick's disease,dementia,diagnostic
+Read,Eu02.00,[X]Dementia in other diseases classified elsewhere,dementia,diagnostic
+Read,Eu02200,[X]Dementia in Huntington's disease,dementia,diagnostic
+Read,Eu02500,[X]Lewy body dementia,dementia,diagnostic
+Read,Eu02400,[X]Dementia in human immunodef virus [HIV] disease,dementia,diagnostic
+Read,Eu02300,[X]Dementia in Parkinson's disease,dementia,diagnostic
+Read,Eu10711,[X]Alcoholic dementia NOS,dementia,diagnostic
+Read,Eu02z12,[X] Presenile psychosis NOS,dementia,diagnostic
+Read,Eu02z11,[X] Presenile dementia NOS,dementia,diagnostic
+Read,66h..00,Dementia monitoring,dementia,diagnostic
+Read,Eu02z13,[X] Primary degenerative dementia NOS,dementia,diagnostic
+Read,Eu02z16,[X] Senile dementia; depressed or paranoid type,dementia,diagnostic
+Read,Eu02z15,[X] Senile psychosis NOS,dementia,diagnostic
+Read,Eu02z14,[X] Senile dementia NOS,dementia,diagnostic
+Read,3AE..00,Global deterioration scale: assessment of prim deg dementia,dementia,diagnostic
+Read,F110100,Alzheimer's disease with late onset,dementia,diagnostic
+Read,F110000,Alzheimer's disease with early onset,dementia,diagnostic
+Read,F110.00,Alzheimer's disease,dementia,diagnostic
+Read,F111.00,Pick's disease,dementia,diagnostic
+Read,Fyu3000,[X]Other Alzheimer's disease,dementia,diagnostic
+Read,F116.00,Lewy body disease,dementia,diagnostic
+Read,F112.00,Senile degeneration of brain,dementia,diagnostic
+Read,ZS7C500,Language disorder of dementia,dementia,diagnostic
+Read,Eu04100,[X]Delirium superimposed on dementia,dementia,diagnostic
+Read,ZR2X.12,BDRS - Blessed dementia rating scale,dementia,diagnostic
+Read,ZR1K.11,ADAS - Alzheimer's disease assessment scale,dementia,diagnostic
+Read,ZR3V.00,Clinical dementia rating scale,dementia,diagnostic
+Read,ZR3V.13,Dementia rating scale,dementia,diagnostic
+Read,ZR3V.12,CDR - Clinical dementia rating scale,dementia,diagnostic
+Read,ZR3V.11,DRS - Clinical dementia rating scale,dementia,diagnostic

@@ -1,0 +1,680 @@
+Coding System (Multilex),Codes,Description,Entity type,Category
+Multilex,18312001,INSUMAN COMB 15 CARTRIDGE injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,18576005,OptiClik grey insulin pen 3ml/1-80 units [SANOFI/AVE],res22: diabetes_meds,drug
+Multilex,18486001,ONGLYZA tablets 2.5mg [BMS],res22: diabetes_meds,drug
+Multilex,2912001,metformin tablets 500mg,res22: diabetes_meds,drug
+Multilex,18840001,TRAJENTA tablets 5mg [BOEH INGL],res22: diabetes_meds,drug
+Multilex,18839001,linagliptin tablets 5mg,res22: diabetes_meds,drug
+Multilex,18835001,NOVORAPID FLEXTOUCH injection solution 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,18694001,BYDUREON powder for prolonged release injection suspension 2mg [LILLY],res22: diabetes_meds,drug
+Multilex,18298001,METABET SR tablets 500mg [MORNINGSID],res22: diabetes_meds,drug
+Multilex,23274005,Humapen Memoir insulin pen 3ml/1-60 units [LILLY],res22: diabetes_meds,drug
+Multilex,245001,DIMELOR tablets 500mg [LILLY],res22: diabetes_meds,drug
+Multilex,!3474903,INSULIN HUMULIN S (NEUTRAL SOLUBLE),res22: diabetes_meds,drug
+Multilex,411001,GLUTRIL tablets 25mg [ROCHE],res22: diabetes_meds,drug
+Multilex,22339005,u100 safety single use insulin syringe with 12mm needle(29G) 1ml,res22: diabetes_meds,drug
+Multilex,!3474502,INSULIN HUMAN ACTRAPID PENFILL,res22: diabetes_meds,drug
+Multilex,!2927101,GLIBENCLAMIDE,res22: diabetes_meds,drug
+Multilex,27576005,ClikStar silver insulin pen 3ml/1-80 units [SANOFI/AVE],res22: diabetes_meds,drug
+Multilex,27569005,ClikStar blue insulin pen 3ml/1-80 units [SANOFI/AVE],res22: diabetes_meds,drug
+Multilex,!3471801,INSULIN HUM/ACTRAPID,res22: diabetes_meds,drug
+Multilex,!3477701,INSULIN HUMULIN M2 VIAL,res22: diabetes_meds,drug
+Multilex,21007,INSULIN ISOPHANE (PURIFIED) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,!4475601,METFORMIN,res22: diabetes_meds,drug
+Multilex,!3510610,INSULIN ZINC ANIMAL SUSPENSION,res22: diabetes_meds,drug
+Multilex,!3522501,INSULIN ZINC LENTE PURIFIED SUSPENSION,res22: diabetes_meds,drug
+Multilex,3707007,INSULIN ISOPHANE (HIGHLY PURIFIED) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,17010001,EDICIL MR tablets 30mg [RATIOPHARM],res22: diabetes_meds,drug
+Multilex,4836007,INSULIN NEUPHANE (ISOPHANE)(PURIFIED) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,18209001,INSUMAN COMB 25 SOLOSTAR injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,1774001,HUMAN INITARD 50/50 injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1474009,INSULIN ZINC SUSPENSION LENTE injection 100 iu/ml [CELLTECH],res22: diabetes_meds,drug
+Multilex,2416001,LIBANIL tablets 2.5mg [APS],res22: diabetes_meds,drug
+Multilex,3205007,INSULIN PUR-IN MIX 15/85 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,2910001,GLYCONON tablets 500mg [DDSA],res22: diabetes_meds,drug
+Multilex,3018001,acetohexamide tablets 500mg,res22: diabetes_meds,drug
+Multilex,16450005,SQ-Pen 3ml vial adaptor pack SQ 003 [MED HOUSE],res22: diabetes_meds,drug
+Multilex,4729007,METFORMIN 800 MG TAB,res22: diabetes_meds,drug
+Multilex,3735001,glymidine sodium tablets 500mg,res22: diabetes_meds,drug
+Multilex,17008005,Exubera chamber [AV/PFIZER],res22: diabetes_meds,drug
+Multilex,4834007,INSULIN MIXTARD 30/70 40 I/U INJ,res22: diabetes_meds,drug
+Multilex,3935007,INSULIN SEMITARD 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,16380001,BOLAMYN SR tablets 500mg [TEVA],res22: diabetes_meds,drug
+Multilex,17007005,Exubera insulin release units [AV/PFIZER],res22: diabetes_meds,drug
+Multilex,16451005,SQ-Pen 10ml vial adaptor pack SQ 005 [MED HOUSE],res22: diabetes_meds,drug
+Multilex,16594001,HUMALOG MIX 50 KWIKPEN injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,16455005,SQ-Pen 3 month 3ml consumable pack SQ 004 [MED HOUSE],res22: diabetes_meds,drug
+Multilex,16457005,SQ-Pen nozzle pack SQ 002 [MED HOUSE],res22: diabetes_meds,drug
+Multilex,16456005,SQ-Pen 3 month 10ml consumable pack SQ 006 [MED HOUSE],res22: diabetes_meds,drug
+Multilex,16596001,HUMALOG KWIKPEN injection solution 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,17005005,Exubera kit [AV/PFIZER],res22: diabetes_meds,drug
+Multilex,16595001,HUMALOG MIX 25 KWIKPEN injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,16598001,sitagliptin with metformin tablets 50mg + 1000mg,res22: diabetes_meds,drug
+Multilex,16968001,GLUCOPHAGE SR tablets 1000mg [MERCK SER],res22: diabetes_meds,drug
+Multilex,16967001,metformin modified release tablet 1000mg,res22: diabetes_meds,drug
+Multilex,18036001,HUMULIN M3 KWIKPEN injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,5702001,PUR-IN MIX 15/85 injection [CP PHARM],res22: diabetes_meds,drug
+Multilex,17080001,metformin oral powder 500mg,res22: diabetes_meds,drug
+Multilex,8440001,glibornuride tablets 25mg,res22: diabetes_meds,drug
+Multilex,17424001,saxagliptin tablets 5mg,res22: diabetes_meds,drug
+Multilex,5522007,INSULIN HYPURIN SOLUBLE 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,17206001,VICTOZA injection 18mg/3ml [NOVO],res22: diabetes_meds,drug
+Multilex,17083001,GLUCOPHAGE sachets 1000mg [MERCK SER],res22: diabetes_meds,drug
+Multilex,18037001,HUMULIN I KWIKPEN injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,17205001,liraglutide injection 18mg/3ml,res22: diabetes_meds,drug
+Multilex,17655005,Comfort Point insulin syringe with 12mm needle(29G) 1ml [EXELINT],res22: diabetes_meds,drug
+Multilex,6283003,syringe for injection 2 ml syringe,res22: diabetes_meds,drug
+Multilex,17426001,ONGLYZA tablets 5mg [BMS],res22: diabetes_meds,drug
+Multilex,17534005,Optipen Pro 1 blue insulin pen 3ml/1-60 units [AVENTIS],res22: diabetes_meds,drug
+Multilex,17541001,insulin biphasic lispro vial injection suspension 25:75; 100 units/ml,res22: diabetes_meds,drug
+Multilex,17535005,Optipen Pro 1 white insulin pen 3ml/1-60 units [AVENTIS],res22: diabetes_meds,drug
+Multilex,5797007,INSULIN NEUSULIN (NEUTRAL)(PURIFIED) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,17695001,DACADIS modified release tablet 30mg [GEN (UK)],res22: diabetes_meds,drug
+Multilex,17863001,ZICRON tablets 40mg [BRISTOL LB],res22: diabetes_meds,drug
+Multilex,17656005,Comfort Point insulin syringe with 12mm needle(29G) 0.5ml [EXELINT],res22: diabetes_meds,drug
+Multilex,8839001,insulin zinc suspension mixed porcine injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,11476003,ROMOZIN tablets 400mg [GLAXO],res22: diabetes_meds,drug
+Multilex,18485001,saxagliptin tablets 2.5mg,res22: diabetes_meds,drug
+Multilex,!3480103,INSULIN PORK INSULATARD,res22: diabetes_meds,drug
+Multilex,!3510609,INSULIN ZINC BOVINE SUSPENSION,res22: diabetes_meds,drug
+Multilex,!8504024,SYRINGE INSULIN U100 S/U+8MM NEEDLE,res22: diabetes_meds,drug
+Multilex,!8505221,INSULIN HUMALOG MIX 25,res22: diabetes_meds,drug
+Multilex,212001,DAONIL tablets 5mg [AVENTIS],res22: diabetes_meds,drug
+Multilex,266005,syringe ordinary purpose spec 16[2a] 1ml,res22: diabetes_meds,drug
+Multilex,331002,EUGLUCON tablets 5mg [AVENTIS],res22: diabetes_meds,drug
+Multilex,409001,GLUCOPHAGE tablets 500mg [MERCK SER],res22: diabetes_meds,drug
+Multilex,410001,GLURENORM tablets 30mg [SANOFI S],res22: diabetes_meds,drug
+Multilex,419009,GLIBENCLAMIDE tablets 5mg [HILLCROSS],res22: diabetes_meds,drug
+Multilex,419010,GLIBENCLAMIDE tablets 2.5mg [HILLCROSS],res22: diabetes_meds,drug
+Multilex,445001,HUMULIN I injection 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,466001,INITARD 50/50 injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,485009,METFORMIN tablets 500mg [ACTAVIS],res22: diabetes_meds,drug
+Multilex,486009,METFORMIN tablets 500mg [HILLCROSS],res22: diabetes_meds,drug
+Multilex,519001,LENTARD MC injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,597001,NOVORAPID VIAL injection solution 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,608005,u100 single use insulin syringe with 12mm needle(26G) 0.3ml,res22: diabetes_meds,drug
+Multilex,652009,TOLBUTAMIDE tablets 500mg [HILLCROSS],res22: diabetes_meds,drug
+Multilex,804001,RASTINON tablets 500mg [HOECHSTMAR],res22: diabetes_meds,drug
+Multilex,951007,SYRINGE INSULIN (BS1619/1) 2ML,res22: diabetes_meds,drug
+Multilex,952007,SYRINGE PRE-SET INSULIN FOR BLIND 2ML,res22: diabetes_meds,drug
+Multilex,1084001,acarbose tablets 50mg,res22: diabetes_meds,drug
+Multilex,1104001,HUMALOG MIX 25 injection 25:75; 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,1182001,HUMULIN ZN injection 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,1335010,GLIBENCLAMIDE tablets 2.5mg [TEVA],res22: diabetes_meds,drug
+Multilex,1345010,METFORMIN tablets 500mg [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,1506010,METFORMIN tablets 500mg [IVAX],res22: diabetes_meds,drug
+Multilex,1518001,HUMAN PROTAPHANE injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1518002,HUMAN PROTAPHANE PENFILL 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1524002,GLUCOBAY tablets 100mg [BAYER],res22: diabetes_meds,drug
+Multilex,1731001,ULTRATARD injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1762005,Hypoguard U100 click/count insulin syringe 1ml [HYPOGUARD],res22: diabetes_meds,drug
+Multilex,1771001,INSULATARD injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1771002,INSULATARD ge injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1772001,VELOSULIN VIAL injection solution 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1773001,MIXTARD 30/70 injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1780005,u100 single use insulin syringe with 12mm needle(26G) 0.5ml,res22: diabetes_meds,drug
+Multilex,1801001,NOVORAPID PENFILL injection solution 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1866009,GLICLAZIDE tablets 80mg [HILLCROSS],res22: diabetes_meds,drug
+Multilex,1874010,METFORMIN tablets 850mg [TEVA],res22: diabetes_meds,drug
+Multilex,1946009,TOLBUTAMIDE tablets 500mg [TEVA],res22: diabetes_meds,drug
+Multilex,1951009,ISOPHANE injection 100 iu/ml [CELLTECH],res22: diabetes_meds,drug
+Multilex,2145001,INSUMAN BASAL injection 100 iu/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,2400007,INSULIN INSULATARD (LEO RETARD) 40 I/U INJ,res22: diabetes_meds,drug
+Multilex,2447009,GLIBENCLAMIDE tablets 2.5mg [IVAX],res22: diabetes_meds,drug
+Multilex,2461009,GLICLAZIDE tablets 80mg [GEN (UK)],res22: diabetes_meds,drug
+Multilex,2462001,DIABETAMIDE tablets 2.5mg [ASHBOURNE],res22: diabetes_meds,drug
+Multilex,2471001,HYPURIN BOVINE PROTAMINE ZINC VIAL injection suspension 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,2473001,HYPURIN BOVINE ISOPHANE injection 100 units/ml [CP PHARM],res22: diabetes_meds,drug
+Multilex,2676001,HUMAN ACTRAPHANE injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,2677002,ACTRAPID NOVOLET 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,2731005,u100 insulin syringe 1ml,res22: diabetes_meds,drug
+Multilex,2763007,DAONIL 10 MG TAB,res22: diabetes_meds,drug
+Multilex,2797009,GLIPIZIDE tablets 5mg [IVAX],res22: diabetes_meds,drug
+Multilex,2872001,glibenclamide tablets 2.5mg,res22: diabetes_meds,drug
+Multilex,2890001,tolbutamide tablets 500mg,res22: diabetes_meds,drug
+Multilex,2912002,metformin tablets 850mg,res22: diabetes_meds,drug
+Multilex,2946001,HUMULIN LENTE injection 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,2947002,HUMULIN M2 injection 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,18655001,METABET SR tablets 1000mg [MORNINGSID],res22: diabetes_meds,drug
+Multilex,2948002,HUMULIN M5 injection 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,3149009,METFORMIN tablets 500mg [GEN (UK)],res22: diabetes_meds,drug
+Multilex,3212007,INSULIN HUMULIN S (NEUTRAL) CARTRIDGE 100 I/U,res22: diabetes_meds,drug
+Multilex,3244001,chlorpropamide tablets 100mg,res22: diabetes_meds,drug
+Multilex,3311007,INSULIN NEUTRAL (HUMAN) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3704007,INSULIN QUICKSOL (SOLUBLE NEUTRAL) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3709007,INSULIN NEUTRAL (PURIFIED) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3712007,INSULIN HUMULIN I (ISOPHANE) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3715007,INSULIN HUMULIN M4 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3716002,gliclazide modified release tablet 30mg,res22: diabetes_meds,drug
+Multilex,3717002,glipizide tablets 5mg,res22: diabetes_meds,drug
+Multilex,3718001,MINODIAB tablets 2.5mg [PHARMACIA],res22: diabetes_meds,drug
+Multilex,3746003,guar gum granules 90%,res22: diabetes_meds,drug
+Multilex,3888009,METFORMIN tablets 500mg [M&A PHARM],res22: diabetes_meds,drug
+Multilex,3923007,INSULIN BOVINE PROTAMINE ZINC 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3937001,insulin biphasic injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,3938001,insulin zinc mixed bovine vial injection suspension 100 units/ml,res22: diabetes_meds,drug
+Multilex,3939001,insulin zinc suspension mixed human pyr injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,3942001,insulin zinc suspension crystalline human prb - intermediate acting injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,3944001,insulin isophane porcine injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,3949001,neutral insulin bovine injection 100 iu/ml,res22: diabetes_meds,drug
+Multilex,3951001,NOVOPEN injection device 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,3953001,insulin zinc lente bovine vial injection suspension 100 units/ml,res22: diabetes_meds,drug
+Multilex,3954001,isophane insulin injection 100 iu/ml,res22: diabetes_meds,drug
+Multilex,4101009,GLICLAZIDE tablets 80mg [NEOLAB],res22: diabetes_meds,drug
+Multilex,4153007,INSULIN LENTARD INJ,res22: diabetes_meds,drug
+Multilex,4837007,INSULIN NOVO ACTRAPID MC 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,4841007,INSULIN HUMAN ACTRAPID (NEUTRAL) 40 I/U INJ,res22: diabetes_meds,drug
+Multilex,4850001,TOLANASE tablets 100mg [PHARMACIA],res22: diabetes_meds,drug
+Multilex,5051001,insulin soluble porcine injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,5586001,PENMIX 40/60 PENFILL injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,5662001,PENMIX 30/70 injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,5677001,insulin isophane human crb injection 100 iu/ml,res22: diabetes_meds,drug
+Multilex,5764007,METFORMIN HCl 500 MG TAB,res22: diabetes_meds,drug
+Multilex,6283001,syringe for injection 0.5 ml syringe,res22: diabetes_meds,drug
+Multilex,6284001,syringe for injection pre-set 1 ml syringe,res22: diabetes_meds,drug
+Multilex,6285002,insulin disposable 0.5 ml syringe,res22: diabetes_meds,drug
+Multilex,6286001,insulin disposable 1 ml syringe,res22: diabetes_meds,drug
+Multilex,6286003,insulin pre-set 1 ml syringe,res22: diabetes_meds,drug
+Multilex,6832009,METFORMIN oral solution 500mg/5ml [HILLCROSS],res22: diabetes_meds,drug
+Multilex,6862007,INSULIN ISOPHANE (HUMAN) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,7049005,B-D U-100 single use insulin syringe 0.3ml 29g [BECTON],res22: diabetes_meds,drug
+Multilex,7058005,B-D U-100 single use insulin syringe 0.5ml 30g [BECTON],res22: diabetes_meds,drug
+Multilex,7067001,PENMIX 30/70 PENFILL injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,7075005,Monoject U100 single use insulin syringe with 12mm needle(28G) 1ml [COVIDIEN],res22: diabetes_meds,drug
+Multilex,7091001,PENMIX 20/80 pen [NOVO],res22: diabetes_meds,drug
+Multilex,7444001,LANTUS injection 100 iu/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,7676001,HUMALOG MIX 50 DISPOSABLE PEN injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,7761002,ACTOS tablets 30mg [TAKEDA],res22: diabetes_meds,drug
+Multilex,8056005,u100 single use insulin syringe with 8mm needle(30G) 0.3ml,res22: diabetes_meds,drug
+Multilex,8066005,NovoPen injection device [NOVO],res22: diabetes_meds,drug
+Multilex,8075001,repaglinide tablets 500 micrograms,res22: diabetes_meds,drug
+Multilex,8075002,repaglinide tablets 1mg,res22: diabetes_meds,drug
+Multilex,8076002,NOVONORM tablets 1mg [NOVO],res22: diabetes_meds,drug
+Multilex,8222005,NovoPen CLASSIC injection device [NOVO],res22: diabetes_meds,drug
+Multilex,8241001,insulin glargine injection 100 iu/ml,res22: diabetes_meds,drug
+Multilex,8298001,INSUMAN COMB 25 injection 100 iu/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,8299001,INSUMAN COMB 50 injection 100 iu/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,8387001,NOVORAPID NOVOLET injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8490001,NOVORAPID FLEXPEN injection solution 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8592001,DIAMICRON MR tablets 30mg [SERVIER],res22: diabetes_meds,drug
+Multilex,8705001,MIXTARD 10 PENFILL 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8706002,MIXTARD 20 NOVOLET 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8707002,MIXTARD 30 NOVOLET 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8708001,MIXTARD 40 PENFILL 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8709001,MIXTARD 50 PENFILL 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8709003,MIXTARD 50 injection 50:50; 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8724001,HUMAJECT M1 pen 100 iu/ml [LILLY],res22: diabetes_meds,drug
+Multilex,8725001,HUMAJECT S DISPOSABLE PEN injection solution 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,8752001,DUCLAZIDE tablets 80mg [DUMEX],res22: diabetes_meds,drug
+Multilex,8778002,GLUCAMET tablets 850mg [OPUS],res22: diabetes_meds,drug
+Multilex,9170005,Novopen 3 fun - red insulin pen 3ml/2-70 units [NOVO],res22: diabetes_meds,drug
+Multilex,9178005,Autopen insulin pen 1.5ml/1-16 units [OWEN],res22: diabetes_meds,drug
+Multilex,9180005,Autopen Classic insulin pen 3ml/2-42 units [OWEN],res22: diabetes_meds,drug
+Multilex,9182005,BD Ultra Pen insulin pen 1.5ml [BECTON],res22: diabetes_meds,drug
+Multilex,9302001,insulin biphasic isophane human prb injection 10:90; 100 units/ml,res22: diabetes_meds,drug
+Multilex,9302003,insulin biphasic isophane human prb injection 30:70; 100 units/ml,res22: diabetes_meds,drug
+Multilex,9310001,insulin soluble human prb injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,9311001,insulin isophane human pyr injection 100 iu/ml,res22: diabetes_meds,drug
+Multilex,9312001,insulin isophane human prb injection 100 iu/ml,res22: diabetes_meds,drug
+Multilex,9314001,insulin zinc suspension mixed human prb injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,9315001,insulin biphasic isophane human pyr injection 10:90; 100 units/ml,res22: diabetes_meds,drug
+Multilex,9315002,insulin biphasic isophane human pyr injection 20:80; 100 units/ml,res22: diabetes_meds,drug
+Multilex,9316001,insulin biphasic isophane human pyr injection 40:60; 100 units/ml,res22: diabetes_meds,drug
+Multilex,9317001,insulin biphasic isophane human prb injection 40:60; 100 units/ml,res22: diabetes_meds,drug
+Multilex,9555005,u100 single use insulin syringe with 12mm needle(27G) 0.3ml,res22: diabetes_meds,drug
+Multilex,9566005,u100 single use insulin syringe with 12mm needle(27G) 0.5ml,res22: diabetes_meds,drug
+Multilex,9568005,u100 single use insulin syringe with 12mm needle(29G) 0.5ml,res22: diabetes_meds,drug
+Multilex,9569005,u100 single use insulin syringe with 12mm needle(27G) 1ml,res22: diabetes_meds,drug
+Multilex,9570005,u100 single use insulin syringe with 12mm needle(28G) 1ml,res22: diabetes_meds,drug
+Multilex,9725005,BD Micro-Fine Plus single use insulin syringe with 8mm needle(30G) 0.3ml [BECTON],res22: diabetes_meds,drug
+Multilex,9727005,BD Micro-Fine Plus single use insulin syringe with 8mm needle(30G) 0.5ml [BECTON],res22: diabetes_meds,drug
+Multilex,9729005,BD Micro-Fine Plus single use insulin syringe with 12mm needle(29G) 1ml [BECTON],res22: diabetes_meds,drug
+Multilex,9831001,INSULATARD INNOLET injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,9832005,Omnican 100 insulin syringe with 12mm needle(30G) 1ml/U100 [B BRAUN],res22: diabetes_meds,drug
+Multilex,9835005,Myjector single use insulin syringe with 12mm needle(27G) 1ml/U100 [TERUMO],res22: diabetes_meds,drug
+Multilex,9851005,Unifine single use insulin syringe with 12mm needle(29G) 0.3ml [OWEN],res22: diabetes_meds,drug
+Multilex,9901005,Autopen Classic insulin pen 3ml/1-21 units [OWEN],res22: diabetes_meds,drug
+Multilex,9984001,HUMALOG injection 100 iu/ml [LILLY],res22: diabetes_meds,drug
+Multilex,10009001,insulin biphasic lispro human prb injection 25:75; 100 units/ml,res22: diabetes_meds,drug
+Multilex,10236001,rosiglitazone tablets 2mg,res22: diabetes_meds,drug
+Multilex,10236003,rosiglitazone tablets 8mg,res22: diabetes_meds,drug
+Multilex,10240005,u100 single use insulin syringe with 8mm needle(29G) 0.5ml,res22: diabetes_meds,drug
+Multilex,10444001,insulin biphasic aspart human pyr injection 30:70; 100 units/ml,res22: diabetes_meds,drug
+Multilex,10917005,Novopen Junior green insulin pen 3ml/1-35 units [NOVO],res22: diabetes_meds,drug
+Multilex,11000001,HYPURIN PORCINE NEUTRAL injection 100 units/ml [CP PHARM],res22: diabetes_meds,drug
+Multilex,11021001,HYPURIN PORCINE 30/70 MIX injection 100 iu/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,11026005,Autopen Junior insulin pen 3ml/1-21 units [OWEN],res22: diabetes_meds,drug
+Multilex,11525005,Unifine single use insulin syringe with 8mm needle(30G) 0.3ml [OWEN],res22: diabetes_meds,drug
+Multilex,11550001,glimepiride tablets 2mg,res22: diabetes_meds,drug
+Multilex,11550003,glimepiride tablets 3mg,res22: diabetes_meds,drug
+Multilex,11552001,AMARYL tablets 2mg [AVENTIS],res22: diabetes_meds,drug
+Multilex,11552002,AMARYL tablets 1mg [AVENTIS],res22: diabetes_meds,drug
+Multilex,11644001,glimepiride tablets 4mg,res22: diabetes_meds,drug
+Multilex,11788005,Autopen Special Edition insulin pen 3ml/1-21 units [OWEN],res22: diabetes_meds,drug
+Multilex,11864001,DIAGLYK tablets 80mg [ASHBOURNE],res22: diabetes_meds,drug
+Multilex,11867002,nateglinide tablets 120mg,res22: diabetes_meds,drug
+Multilex,11868002,STARLIX tablets 120mg [NOVARTIS],res22: diabetes_meds,drug
+Multilex,11996001,insulin soluble human crb injection 100 iu/ml,res22: diabetes_meds,drug
+Multilex,12114001,pioglitazone tablets 45mg,res22: diabetes_meds,drug
+Multilex,12115001,ACTOS tablets 45mg [TAKEDA],res22: diabetes_meds,drug
+Multilex,12224001,rosiglitazone with metformin tablets 1mg + 500mg,res22: diabetes_meds,drug
+Multilex,12226001,rosiglitazone with metformin tablets 2mg + 500mg,res22: diabetes_meds,drug
+Multilex,12228001,AVANDAMET tablets 1mg + 500mg [GLAXSK PHA],res22: diabetes_meds,drug
+Multilex,12526001,insulin detemir injection solution 100 iu/ml,res22: diabetes_meds,drug
+Multilex,12528001,LEVEMIR FLEXPEN injection solution 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,12587005,mhi-500 needle free starter kit 10ml vial adaptor MH79002-01 [MED HOUSE],res22: diabetes_meds,drug
+Multilex,12589005,"mhi-500 3 month consumable kit size 6 nozzle, 10ml vial adaptor MH79002-07 [MED HOUSE]",res22: diabetes_meds,drug
+Multilex,12663001,duloxetine gastro-resistant capsules 40mg,res22: diabetes_meds,drug
+Multilex,12665001,YENTREVE gastro-resistant capsules 40mg [LILLY],res22: diabetes_meds,drug
+Multilex,12680005,Autopen 24 insulin pen 3ml/1-21 units [OWEN],res22: diabetes_meds,drug
+Multilex,12819001,AVANDAMET tablets 2mg + 1000mg [GLAXSK PHA],res22: diabetes_meds,drug
+Multilex,12834001,metformin with rosiglitazone tablets 1000mg + 4mg,res22: diabetes_meds,drug
+Multilex,12946001,GLUCOPHAGE SR tablets 500mg [MERCK SER],res22: diabetes_meds,drug
+Multilex,12991005,Optipen Pro 1 green insulin pen 3ml/1-60 units [AVENTIS],res22: diabetes_meds,drug
+Multilex,13000001,duloxetine gastro-resistant capsules 30mg,res22: diabetes_meds,drug
+Multilex,13002001,CYMBALTA gastro-resistant capsules 30mg [LILLY],res22: diabetes_meds,drug
+Multilex,13003001,CYMBALTA gastro-resistant capsules 60mg [LILLY],res22: diabetes_meds,drug
+Multilex,13026005,Injex 4 month refill pack 60504 [J&K MED],res22: diabetes_meds,drug
+Multilex,13030005,Injex 10ml vial adaptor 60502 [J&K MED],res22: diabetes_meds,drug
+Multilex,13446001,insulin glulisine injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13680001,insulin soluble human vial injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13683001,HUMULIN S VIAL injection solution 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13685001,INSUMAN RAPID CARTRIDGE injection solution 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13688001,insulin biphasic isophane human cartridge injection suspension 10:90; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13690001,insulin biphasic isophane human cartridge injection suspension 20:80; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13699001,HUMULIN M3 VIAL injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13701001,HUMULIN M3 DISPOSABLE PEN injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13704001,insulin biphasic isophane human cartridge injection suspension 40:60; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13708001,insulin biphasic isophane human cartridge injection suspension 50:50; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13712001,INSUMAN COMB 50 CARTRIDGE injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13715001,INSUMAN COMB 15 OPTISET injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13717001,insulin biphasic isophane human cartridge injection suspension 25:75; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13720001,INSUMAN COMB 25 CARTRIDGE injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13724001,insulin isophane human cartridge injection suspension 100 units/ml,res22: diabetes_meds,drug
+Multilex,13727001,LANTUS OPTICLIK injection solution 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13732001,INSUMAN BASAL VIAL injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13734001,insulin aspart vial injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13736001,insulin aspart disposable pen injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13738001,insulin biphasic aspart disposable pen injection suspension 30:70; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13744001,insulin lispro cartridge injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13747001,HUMALOG CARTRIDGE injection solution 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13748001,HUMALOG DISPOSABLE PEN injection solution 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13750001,insulin biphasic lispro disposable pen injection suspension 25:75; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13752001,HUMALOG MIX 25 DISPOSABLE PEN injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13754001,insulin detemir disposable pen injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13757001,insulin glargine disposable pen injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13760001,LANTUS OPTISET injection solution 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13762001,insulin glulisine vial injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13784001,APIDRA OPTISET injection solution 100 units/ml [SANOFI/AVE],res22: diabetes_meds,drug
+Multilex,13805001,insulin isophane porcine vial injection suspension 100 units/ml,res22: diabetes_meds,drug
+Multilex,13808001,HYPURIN PORCINE ISOPHANE VIAL injection suspension 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,13811001,insulin biphasic isophane porcine cartridge injection suspension 30:70; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13813001,HYPURIN PORCINE 30/70 MIX CARTRIDGE injection suspension 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,13815001,insulin soluble porcine cartridge injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13817001,HYPURIN PORCINE NEUTRAL CARTRIDGE injection solution 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,13820001,insulin isophane bovine cartridge injection suspension 100 units/ml,res22: diabetes_meds,drug
+Multilex,13822001,HYPURIN BOVINE ISOPHANE CARTRIDGE injection suspension 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,13824001,insulin soluble bovine cartridge injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13830001,MIXTARD 50 PENFILL injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,13918001,INSULATARD VIAL injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,13952001,insulin human powder for inhalation 1mg,res22: diabetes_meds,drug
+Multilex,13955001,EXUBERA powder for inhalation 3mg [PFIZER],res22: diabetes_meds,drug
+Multilex,13971001,HUMALOG MIX 50 CARTRIDGE injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,14098001,glibenclamide oral suspension 5mg/5ml,res22: diabetes_meds,drug
+Multilex,14325001,metformin oral solution 500mg/5ml,res22: diabetes_meds,drug
+Multilex,14326001,METSOL oral solution 500mg/5ml [ORBIS],res22: diabetes_meds,drug
+Multilex,14374001,pioglitazone with metformin tablets 15mg + 850mg,res22: diabetes_meds,drug
+Multilex,14377001,COMPETACT film coated tablets [TAKEDA],res22: diabetes_meds,drug
+Multilex,14439005,mhi-500 needle free starter kit 3ml vial adaptor MH79002-01A [MED HOUSE],res22: diabetes_meds,drug
+Multilex,14441005,"mhi-500 3 month consumable kit size 6 nozzle, 3ml vial adaptor MH79002-12 [MED HOUSE]",res22: diabetes_meds,drug
+Multilex,18531005,OptiClik blue insulin pen 3ml/1-80 units [SANOFI/AVE],res22: diabetes_meds,drug
+Multilex,14502005,u100 single use insulin syringe with 12mm needle(30G) 0.5ml,res22: diabetes_meds,drug
+Multilex,14731001,PRANDIN tablets 500 micrograms [NOVO],res22: diabetes_meds,drug
+Multilex,14733001,PRANDIN tablets 2mg [NOVO],res22: diabetes_meds,drug
+Multilex,15280005,BD Micro-Fine Plus single use insulin syringe with 8mm needle(30G) 1ml [BECTON],res22: diabetes_meds,drug
+Multilex,15303001,exenatide injection 10micrograms,res22: diabetes_meds,drug
+Multilex,15306001,BYETTA injection 10micrograms [LILLY],res22: diabetes_meds,drug
+Multilex,15360001,JANUVIA tablets 100mg [M S D],res22: diabetes_meds,drug
+Multilex,15577001,LANTUS SOLOSTAR injection solution 100 units/ml [SANOFI/AVE],res22: diabetes_meds,drug
+Multilex,15578001,APIDRA SOLOSTAR injection solution 100 units/ml [SANOFI/AVE],res22: diabetes_meds,drug
+Multilex,15661001,GALVUS tablets 50mg [NOVARTIS],res22: diabetes_meds,drug
+Multilex,23007,INSULIN SOLUBLE 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,15989001,vildagliptin with metformin tablets 50mg + 1000mg,res22: diabetes_meds,drug
+Multilex,16006005,Humapen Luxura insulin pen 3ml/1-60 units [LILLY],res22: diabetes_meds,drug
+Multilex,16160001,NIDDARYL tablets 1mg [DEE],res22: diabetes_meds,drug
+Multilex,16267001,GLUCOPHAGE SR tablets 750mg [MERCK SER],res22: diabetes_meds,drug
+Multilex,16448005,SQ-Pen starter pack SQ 001 [MED HOUSE],res22: diabetes_meds,drug
+Multilex,17081001,metformin oral powder 1000mg,res22: diabetes_meds,drug
+Multilex,17082001,GLUCOPHAGE sachets 500mg [MERCK SER],res22: diabetes_meds,drug
+Multilex,17536005,Optipen Pro 1 yellow insulin pen 3ml/1-60 units [AVENTIS],res22: diabetes_meds,drug
+Multilex,17542001,HUMALOG MIX 25 VIAL injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,17862001,gliclazide tablets 40mg,res22: diabetes_meds,drug
+Multilex,17931001,JANUMET tablets 50mg + 1000mg [M S D],res22: diabetes_meds,drug
+Multilex,18573001,INSUMAN BASAL SOLOSTAR injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,19914005,Humapen Luxura HD insulin pen 3ml/1-30 units [LILLY],res22: diabetes_meds,drug
+Multilex,21185005,NovoPen 4 blue insulin pen 3ml/1-60 units [NOVO],res22: diabetes_meds,drug
+Multilex,21186005,NovoPen 4 silver insulin pen 3ml/1-60 units [NOVO],res22: diabetes_meds,drug
+Multilex,!3473801,INSULIN HUM/ACTRAPHANE,res22: diabetes_meds,drug
+Multilex,!3474503,INSULIN HUMAN ACTRAPID (NEUTRAL),res22: diabetes_meds,drug
+Multilex,!3477601,INSULIN HUMULIN M1 VIAL,res22: diabetes_meds,drug
+Multilex,!3498103,INSULIN NOVO MONOTARD MC,res22: diabetes_meds,drug
+Multilex,!3510611,INSULIN ZINC HUMAN SUSPENSION,res22: diabetes_meds,drug
+Multilex,!9131380,SYRINGE INSULIN DISPOSABLE,res22: diabetes_meds,drug
+Multilex,855001,SEMITARD MC injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1494001,TEMPULIN injection 100 units/ml [KNOLL],res22: diabetes_meds,drug
+Multilex,2397007,INSULIN SOLUBLE 40 I/U INJ,res22: diabetes_meds,drug
+Multilex,2398007,INSULIN ZINC SEMILENTE SUSP BP 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,2401007,INSULIN ISOPHANE (NPH) 40 I/U,res22: diabetes_meds,drug
+Multilex,2416002,LIBANIL tablets 5mg [APS],res22: diabetes_meds,drug
+Multilex,!8504807,INSULIN PORK ACTRAPID,res22: diabetes_meds,drug
+Multilex,2902001,MALIX tablets 2.5mg [LAGAP],res22: diabetes_meds,drug
+Multilex,2902002,MALIX tablets 5mg [LAGAP],res22: diabetes_meds,drug
+Multilex,2942002,CALABREN tablets 2.5mg [BERK],res22: diabetes_meds,drug
+Multilex,22007,INSULIN ISOPHANE 50%/NEUTRAL 50% 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3204007,INSULIN PUR-IN ISOPHANE 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3207007,INSULIN PUR-IN MIX 50/50 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,9309001,insulin soluble human emp injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,3310007,INSULIN ZINC CRYSTALLINE susp 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3312001,GLYMESE tablets 250mg [DDSA],res22: diabetes_meds,drug
+Multilex,3708007,INSULIN MONOPHANE (ISOPHANE) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,!8504025,SYRINGE INSULIN U100 S/U+8MM NEEDLE,res22: diabetes_meds,drug
+Multilex,3747001,GUARINA sachets [NORGINE],res22: diabetes_meds,drug
+Multilex,4325007,TOLBUTAMIDE 250 MG TAB,res22: diabetes_meds,drug
+Multilex,4327007,TOLBUTAMIDE 1 GM TAB,res22: diabetes_meds,drug
+Multilex,4727007,METFORMIN 250 MG TAB,res22: diabetes_meds,drug
+Multilex,4831007,INSULIN SEMITARD 40 I/U INJ,res22: diabetes_meds,drug
+Multilex,235002,DIABINESE tablets 250mg [PFIZER],res22: diabetes_meds,drug
+Multilex,4835007,INSULIN NEULENTE (ZINC SUSP)(PURIFIED) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,4851001,tolbutamide injection 50mg/ml,res22: diabetes_meds,drug
+Multilex,5701001,PUR-IN MIX 25/75 injection [CP PHARM],res22: diabetes_meds,drug
+Multilex,5707001,PUR-IN NEUTRAL injection 100 units/ml [CP PHARM],res22: diabetes_meds,drug
+Multilex,235001,DIABINESE tablets 100mg [PFIZER],res22: diabetes_meds,drug
+Multilex,6532007,INSULIN SOLUBLE INJ I/U^2,res22: diabetes_meds,drug
+Multilex,18739001,gliclazide oral suspension 80mg/5ml,res22: diabetes_meds,drug
+Multilex,417010,GLIBENCLAMIDE tablets 2.5mg [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,408001,GLIBENESE tablets 5mg [PFIZER],res22: diabetes_meds,drug
+Multilex,331001,EUGLUCON tablets 2.5mg [AVENTIS],res22: diabetes_meds,drug
+Multilex,486010,METFORMIN tablets 850mg [HILLCROSS],res22: diabetes_meds,drug
+Multilex,417009,GLIBENCLAMIDE tablets 5mg [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,409002,GLUCOPHAGE tablets 850mg [MERCK SER],res22: diabetes_meds,drug
+Multilex,467001,PORK INSULATARD VIAL injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,485010,METFORMIN tablets 850mg [ACTAVIS],res22: diabetes_meds,drug
+Multilex,442001,ACTRAPID injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,446001,HUMULIN S injection 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,443001,MONOTARD injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,650009,TOLBUTAMIDE tablets 500mg [ACTAVIS],res22: diabetes_meds,drug
+Multilex,598001,MONOTARD MC injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,584001,PORK MIXTARD 30 VIAL injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,580001,MINODIAB tablets 5mg [PHARMACIA],res22: diabetes_meds,drug
+Multilex,1196001,GUAREM sachets [SHIRE],res22: diabetes_meds,drug
+Multilex,1335009,GLIBENCLAMIDE tablets 5mg [TEVA],res22: diabetes_meds,drug
+Multilex,854001,SEMI-DAONIL tablets 2.5mg [AVENTIS],res22: diabetes_meds,drug
+Multilex,803001,RAPITARD MC injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,2409009,GLICLAZIDE tablets 80mg [MERCK-GEN],res22: diabetes_meds,drug
+Multilex,1138007,MONOJECT INSULIN NEEDLES,res22: diabetes_meds,drug
+Multilex,1084002,acarbose tablets 100mg,res22: diabetes_meds,drug
+Multilex,1017001,PORK VELOSULIN injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1506009,METFORMIN tablets 850mg [IVAX],res22: diabetes_meds,drug
+Multilex,1345009,METFORMIN tablets 850mg [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,1771003,INSULATARD PENFILL 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,1760005,u100 insulin syringe 0.5ml,res22: diabetes_meds,drug
+Multilex,1525009,NEUTRAL INSULIN injection 100 units/ml [CELLTECH],res22: diabetes_meds,drug
+Multilex,1524001,GLUCOBAY tablets 50mg [BAYER],res22: diabetes_meds,drug
+Multilex,1519001,ACTRAPID MC injection 100 units/ml [ARUN],res22: diabetes_meds,drug
+Multilex,1761005,u100 pre-set insulin syringe 1ml Sp.36 [2A],res22: diabetes_meds,drug
+Multilex,1810005,syringe ordinary purpose spec 16[2a] 2ml,res22: diabetes_meds,drug
+Multilex,1781005,u100 single use insulin syringe with 12mm needle(26G) 1ml,res22: diabetes_meds,drug
+Multilex,1874009,METFORMIN tablets 500mg [TEVA],res22: diabetes_meds,drug
+Multilex,2399007,INSULIN BOVINE PROTAMINE ZINC 40 I/U INJ,res22: diabetes_meds,drug
+Multilex,2061009,GLICLAZIDE tablets 80mg [IVAX],res22: diabetes_meds,drug
+Multilex,2165009,GLIPIZIDE tablets 5mg [GEN (UK)],res22: diabetes_meds,drug
+Multilex,2110009,GLICLAZIDE tablets 80mg [ACTAVIS],res22: diabetes_meds,drug
+Multilex,16266001,metformin modified release tablet 750mg,res22: diabetes_meds,drug
+Multilex,2472001,HYPURIN BOVINE LENTE VIAL injection suspension 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,2677001,ACTRAPID PENFILL 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,5563001,PENMIX 50/50 PENFILL injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,2462002,DIABETAMIDE tablets 5mg [ASHBOURNE],res22: diabetes_meds,drug
+Multilex,2474001,HYPURIN BOVINE NEUTRAL injection 100 units/ml [CP PHARM],res22: diabetes_meds,drug
+Multilex,2696001,DIAMICRON tablets 80mg [SERVIER],res22: diabetes_meds,drug
+Multilex,3713007,INSULIN HUMAN VELOSULIN 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,2947001,HUMULIN M1 injection 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,3705007,INSULIN ZINC BOVINE susp 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,18692001,exenatide powder for prolonged release injection suspension 2mg,res22: diabetes_meds,drug
+Multilex,2866007,CHLORPROPAMIDE 500 MG TAB,res22: diabetes_meds,drug
+Multilex,2833009,GLICLAZIDE tablets 80mg [SANDOZ],res22: diabetes_meds,drug
+Multilex,3710007,INSULIN NOVO ULTRATARD MC 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,2942001,CALABREN tablets 5mg [BERK],res22: diabetes_meds,drug
+Multilex,2872002,glibenclamide tablets 5mg,res22: diabetes_meds,drug
+Multilex,2973009,GLICLAZIDE tablets 80mg [GENUS],res22: diabetes_meds,drug
+Multilex,2948001,HUMULIN M4 injection 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,2947003,HUMULIN M3 injection 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,3504009,GLICLAZIDE tablets 80mg [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,3451007,INSULIN HUMULIN M CARTRIDGE 100 I/U,res22: diabetes_meds,drug
+Multilex,3244002,chlorpropamide tablets 250mg,res22: diabetes_meds,drug
+Multilex,3717007,INSULIN ISOPHANE 70%/NEUTRAL 30% 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3946002,insulin biphasic isophane porcine injection 30:70; 100 units/ml,res22: diabetes_meds,drug
+Multilex,4850002,TOLANASE tablets 250mg [PHARMACIA],res22: diabetes_meds,drug
+Multilex,3714007,INSULIN HYPURIN PROTAMINE ZINC 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3717001,glipizide tablets 2.5mg,res22: diabetes_meds,drug
+Multilex,3952001,PENJECT injection device 100 units/ml [HYPOGUARD],res22: diabetes_meds,drug
+Multilex,3716007,INSULIN ISOPHANE (NPH) 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,3716001,gliclazide tablets 80mg,res22: diabetes_meds,drug
+Multilex,3943001,insulin isophane bovine injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,3746002,guar gum sachets 5g/sachet,res22: diabetes_meds,drug
+Multilex,3719001,gliquidone tablets 30mg,res22: diabetes_meds,drug
+Multilex,3934001,insulin soluble bovine injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,3941001,insulin zinc suspension crystalline human pyr - long acting injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,3950001,VELOSULIN CARTRIDGE injection 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,3948001,insulin protamine zinc bovine vial injection suspension 100 units/ml,res22: diabetes_meds,drug
+Multilex,4849002,tolazamide tablets 250mg,res22: diabetes_meds,drug
+Multilex,3955007,INSULIN BP 100 I/U,res22: diabetes_meds,drug
+Multilex,3953007,INSULIN HUMULIN M4 CARTRIDGE 100 I/U,res22: diabetes_meds,drug
+Multilex,4849001,tolazamide tablets 100mg,res22: diabetes_meds,drug
+Multilex,4119001,ORABET tablets 500mg [LAGAP],res22: diabetes_meds,drug
+Multilex,4728007,METFORMIN HCl 850 MG TAB,res22: diabetes_meds,drug
+Multilex,6283002,syringe for injection 1 ml syringe,res22: diabetes_meds,drug
+Multilex,8704001,INSULATARD NOVOLET 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,9308001,insulin soluble human pyr injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,9302002,insulin biphasic isophane human prb injection 20:80; 100 units/ml,res22: diabetes_meds,drug
+Multilex,5628007,TOLBUTAMIDE 100 MG TAB,res22: diabetes_meds,drug
+Multilex,5671001,PENMIX 20/80 PENFILL PENFILL [NOVO],res22: diabetes_meds,drug
+Multilex,5798007,INSULIN NOVO MONOTARD MC 100 I/U INJ,res22: diabetes_meds,drug
+Multilex,5680001,PENMIX 10/90 PENFILL PENFILL [NOVO],res22: diabetes_meds,drug
+Multilex,6285003,insulin 1 ml syringe,res22: diabetes_meds,drug
+Multilex,7074005,Monoject U100 single use insulin syringe with 12mm needle(28G) 0.5ml [COVIDIEN],res22: diabetes_meds,drug
+Multilex,6285001,insulin 0.5 ml syringe,res22: diabetes_meds,drug
+Multilex,6435009,GLIMEPIRIDE tablets 1mg [ACTAVIS],res22: diabetes_meds,drug
+Multilex,6286002,insulin 2 ml syringe,res22: diabetes_meds,drug
+Multilex,7059005,B-D U-100 single use insulin syringe 1ml 29g [BECTON],res22: diabetes_meds,drug
+Multilex,7051005,B-D U-100 single use insulin syringe 0.5ml 29g [BECTON],res22: diabetes_meds,drug
+Multilex,6860007,INSULIN ISOPHANE 100 I/U,res22: diabetes_meds,drug
+Multilex,7050005,B-D U-100 single use insulin syringe 0.3ml 30g [BECTON],res22: diabetes_meds,drug
+Multilex,7016009,METFORMIN sugar free oral solution 500mg/5ml [ROSEMONT],res22: diabetes_meds,drug
+Multilex,8057005,u100 single use insulin syringe with 8mm needle(30G) 0.5ml,res22: diabetes_meds,drug
+Multilex,7623002,insulin biphasic isophane human crb injection 25:75; 100 units/ml,res22: diabetes_meds,drug
+Multilex,7092001,PENMIX 40/60 injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,7090001,PENMIX 10/90 pen [NOVO],res22: diabetes_meds,drug
+Multilex,7093001,PENMIX 50/50 injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8494001,INSULATARD FLEXPEN injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,7762002,pioglitazone tablets 30mg,res22: diabetes_meds,drug
+Multilex,7623003,insulin biphasic isophane human crb injection 50:50; 100 units/ml,res22: diabetes_meds,drug
+Multilex,7761001,ACTOS tablets 15mg [TAKEDA],res22: diabetes_meds,drug
+Multilex,7762001,pioglitazone tablets 15mg,res22: diabetes_meds,drug
+Multilex,8076003,NOVONORM tablets 2mg [NOVO],res22: diabetes_meds,drug
+Multilex,8076001,NOVONORM tablets 500 micrograms [NOVO],res22: diabetes_meds,drug
+Multilex,8075003,repaglinide tablets 2mg,res22: diabetes_meds,drug
+Multilex,8358005,Humapen injection device [LILLY],res22: diabetes_meds,drug
+Multilex,8232005,NovoPen fun injection device [NOVO],res22: diabetes_meds,drug
+Multilex,8726001,HUMAJECT M4 pen 100 iu/ml [LILLY],res22: diabetes_meds,drug
+Multilex,8707001,MIXTARD 30 PENFILL 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,9301001,insulin zinc suspension mixed bovine and porcine injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,8706001,MIXTARD 20 PENFILL 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8705002,MIXTARD 10 NOVOLET 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8710001,INSUMAN COMB 15 injection 100 iu/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,8707003,MIXTARD 30 ge injection 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8724003,HUMAJECT M3 pen 100 iu/ml [LILLY],res22: diabetes_meds,drug
+Multilex,8709002,MIXTARD 50 NOVOLET 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8708002,MIXTARD 40 NOVOLET 100 iu/ml [NOVO],res22: diabetes_meds,drug
+Multilex,8724002,HUMAJECT M2 pen 100 iu/ml [LILLY],res22: diabetes_meds,drug
+Multilex,8723001,HUMAJECT I pen 100 iu/ml [LILLY],res22: diabetes_meds,drug
+Multilex,9181005,BD Ultra Pen insulin pen 3.0ml [BECTON],res22: diabetes_meds,drug
+Multilex,8778001,GLUCAMET tablets 500mg [OPUS],res22: diabetes_meds,drug
+Multilex,8726002,HUMAJECT M5 pen 100 iu/ml [LILLY],res22: diabetes_meds,drug
+Multilex,9179005,Autopen insulin pen 1.5ml/2-32 units [OWEN],res22: diabetes_meds,drug
+Multilex,9171005,Novopen 3 fun - blue insulin pen 3ml/2-70 units [NOVO],res22: diabetes_meds,drug
+Multilex,9169005,Novopen 3 CLASSIC insulin pen 3ml/2-70 units [NOVO],res22: diabetes_meds,drug
+Multilex,9317002,insulin biphasic isophane human prb injection 50:50; 100 units/ml,res22: diabetes_meds,drug
+Multilex,9620001,insulin aspart human pyr injection 100 iu/ml,res22: diabetes_meds,drug
+Multilex,9316002,insulin biphasic isophane human pyr injection 50:50; 100 units/ml,res22: diabetes_meds,drug
+Multilex,9315003,insulin biphasic isophane human pyr injection 30:70; 100 units/ml,res22: diabetes_meds,drug
+Multilex,9313001,insulin isophane human emp injection 100 units/ml,res22: diabetes_meds,drug
+Multilex,9728005,BD Micro-Fine Plus single use insulin syringe with 12mm needle(29G) 0.5ml [BECTON],res22: diabetes_meds,drug
+Multilex,9571005,u100 single use insulin syringe with 12mm needle(29G) 1ml,res22: diabetes_meds,drug
+Multilex,9564005,u100 single use insulin syringe with 12mm needle(28G) 0.3ml,res22: diabetes_meds,drug
+Multilex,9491005,Novopen 3 demi insulin pen 3ml/1-35 units [NOVO],res22: diabetes_meds,drug
+Multilex,9833005,Omnican 50 insulin syringe with 12mm needle(30G) 0.5ml/U100 [B BRAUN],res22: diabetes_meds,drug
+Multilex,9565005,u100 single use insulin syringe with 12mm needle(29G) 0.3ml,res22: diabetes_meds,drug
+Multilex,9567005,u100 single use insulin syringe with 12mm needle(28G) 0.5ml,res22: diabetes_meds,drug
+Multilex,9853005,Unifine single use insulin syringe with 12mm needle(29G) 1ml [OWEN],res22: diabetes_meds,drug
+Multilex,9726005,BD Micro-Fine Plus single use insulin syringe with 12mm needle(29G) 0.3ml [BECTON],res22: diabetes_meds,drug
+Multilex,9831005,Clinipak U100 single use insulin syringe with 12mm needle(28G) 1ml [RAND],res22: diabetes_meds,drug
+Multilex,9830005,Clinipak U100 single use insulin syringe with 12mm needle(28G) 0.5ml [RAND],res22: diabetes_meds,drug
+Multilex,9830001,MIXTARD 30 INNOLET injection suspension 30:70; 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,9852005,Unifine single use insulin syringe with 12mm needle(29G) 0.5ml [OWEN],res22: diabetes_meds,drug
+Multilex,9834005,Myjector single use insulin syringe with 12mm needle(27G) 0.5ml/U100 [TERUMO],res22: diabetes_meds,drug
+Multilex,9836005,Myjector single use insulin syringe with 12mm needle(29G) 1ml/U100 [TERUMO],res22: diabetes_meds,drug
+Multilex,10314005,Abcare U100 glass insulin syringe 0.5ml [RAND],res22: diabetes_meds,drug
+Multilex,9951002,AVANDIA tablets 4mg [GLAXSK PHA],res22: diabetes_meds,drug
+Multilex,11867001,nateglinide tablets 60mg,res22: diabetes_meds,drug
+Multilex,13689001,MIXTARD 10 PENFILL injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,9951003,AVANDIA tablets 8mg [GLAXSK PHA],res22: diabetes_meds,drug
+Multilex,10239005,u100 single use insulin syringe with 8mm needle(29G) 0.3ml,res22: diabetes_meds,drug
+Multilex,10236002,rosiglitazone tablets 4mg,res22: diabetes_meds,drug
+Multilex,9987001,insulin lispro human prb injection 100 iu/ml,res22: diabetes_meds,drug
+Multilex,10009002,insulin biphasic lispro human prb injection 50:50; 100 units/ml,res22: diabetes_meds,drug
+Multilex,10315005,Abcare U100 glass insulin syringe 1ml [RAND],res22: diabetes_meds,drug
+Multilex,11025005,Autopen Junior insulin pen 3ml/2-42 units [OWEN],res22: diabetes_meds,drug
+Multilex,11789005,Autopen Special Edition insulin pen 3ml/2-42 units [OWEN],res22: diabetes_meds,drug
+Multilex,11004001,HYPURIN PORCINE ISOPHANE injection 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,10336005,Innovo green insulin pen 3ml/1-70 units [NOVO],res22: diabetes_meds,drug
+Multilex,10918005,Novopen Junior yellow insulin pen 3ml/1-35 units [NOVO],res22: diabetes_meds,drug
+Multilex,10445001,NOVOMIX 30 injection 30:70; 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,10337005,Innovo orange insulin pen 3ml/1-70 units [NOVO],res22: diabetes_meds,drug
+Multilex,11665001,AMARYL tablets 4mg [AVENTIS],res22: diabetes_meds,drug
+Multilex,11526005,Unifine single use insulin syringe with 8mm needle(30G) 0.5ml [OWEN],res22: diabetes_meds,drug
+Multilex,11148001,INSUMAN RAPID injection 100 iu/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,11629005,Abcare ordinary purpose syringe 2ml [RAND],res22: diabetes_meds,drug
+Multilex,11550002,glimepiride tablets 1mg,res22: diabetes_meds,drug
+Multilex,11552003,AMARYL tablets 3mg [AVENTIS],res22: diabetes_meds,drug
+Multilex,11628005,Abcare ordinary purpose syringe 1ml [RAND],res22: diabetes_meds,drug
+Multilex,11586001,PORK ACTRAPID VIAL injection solution 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,13686001,INSUMAN RAPID OPTISET injection solution 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,12229001,AVANDAMET tablets 2mg + 500mg [GLAXSK PHA],res22: diabetes_meds,drug
+Multilex,11868003,STARLIX tablets 180mg [NOVARTIS],res22: diabetes_meds,drug
+Multilex,11867003,nateglinide tablets 180mg,res22: diabetes_meds,drug
+Multilex,11868001,STARLIX tablets 60mg [NOVARTIS],res22: diabetes_meds,drug
+Multilex,13687001,ACTRAPID VIAL injection solution 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,12114005,Omnican 30 syringe 12mm(29G)0.3ml [B BRAUN],res22: diabetes_meds,drug
+Multilex,12032001,insulin biphasic isophane human prb injection 25:75; 100 units/ml,res22: diabetes_meds,drug
+Multilex,12227001,metformin with rosiglitazone tablets 500mg + 2mg,res22: diabetes_meds,drug
+Multilex,12116001,ORABET tablets 500mg [SANDOZ],res22: diabetes_meds,drug
+Multilex,12225001,metformin with rosiglitazone tablets 500mg + 1mg,res22: diabetes_meds,drug
+Multilex,12818001,rosiglitazone with metformin tablets 4mg + 1000mg,res22: diabetes_meds,drug
+Multilex,12817001,rosiglitazone with metformin tablets 2mg + 1000mg,res22: diabetes_meds,drug
+Multilex,12527001,LEVEMIR PENFILL injection solution 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,12463001,metformin oral suspension 100mg/ml,res22: diabetes_meds,drug
+Multilex,12588005,"mhi-500 3 month consumable kit size 7 nozzle, 10ml vial adaptor MH79002-08 [MED HOUSE]",res22: diabetes_meds,drug
+Multilex,12584005,Humapen Ergo burgundy insulin pen 3ml/1-60 units [LILLY],res22: diabetes_meds,drug
+Multilex,12583005,Humapen Ergo teal insulin pen 3ml/1-60 units [LILLY],res22: diabetes_meds,drug
+Multilex,12682005,Autopen 24 insulin pen 3ml/2-42 units [OWEN],res22: diabetes_meds,drug
+Multilex,12662001,duloxetine gastro-resistant capsules 20mg,res22: diabetes_meds,drug
+Multilex,12679005,mhi-500 nozzle size 7 MH79002-11 [MED HOUSE],res22: diabetes_meds,drug
+Multilex,12677005,mhi-500 10ml vial adaptor MH79002-09 [MED HOUSE],res22: diabetes_meds,drug
+Multilex,12664001,YENTREVE gastro-resistant capsules 20mg [LILLY],res22: diabetes_meds,drug
+Multilex,12678005,mhi-500 nozzle size 6 MH79002-10 [MED HOUSE],res22: diabetes_meds,drug
+Multilex,12820001,AVANDAMET tablets 4mg + 1000mg [GLAXSK PHA],res22: diabetes_meds,drug
+Multilex,12945001,metformin modified release tablet 500mg,res22: diabetes_meds,drug
+Multilex,13684001,HUMULIN S CARTRIDGE injection solution 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,12833001,metformin with rosiglitazone tablets 1000mg + 2mg,res22: diabetes_meds,drug
+Multilex,13001001,duloxetine gastro-resistant capsules 60mg,res22: diabetes_meds,drug
+Multilex,13682001,insulin soluble human cartridge injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13025005,Injex needle free starter kit 60500 [J&K MED],res22: diabetes_meds,drug
+Multilex,13425005,Monoject U100 insulin syringe 12mm(29G)0.5ml [COVIDIEN],res22: diabetes_meds,drug
+Multilex,13028005,Injex ampoule pack 60501 [J&K MED],res22: diabetes_meds,drug
+Multilex,13681001,insulin soluble human disposable pen injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13448001,APIDRA VIAL injection solution 100 units/ml [SANOFI/AVE],res22: diabetes_meds,drug
+Multilex,13450001,APIDRA CARTRIDGE injection solution 100 units/ml [SANOFI/AVE],res22: diabetes_meds,drug
+Multilex,15991001,EUCREAS tablets 50mg + 1000mg [NOVARTIS],res22: diabetes_meds,drug
+Multilex,13719001,INSUMAN COMB 25 VIAL injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13693001,insulin biphasic isophane human cartridge injection suspension 30:70; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13691001,MIXTARD 20 PENFILL injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,13785001,insulin glulisine disposable pen injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13696001,MIXTARD 30 PENFILL injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,13718001,insulin biphasic isophane human disposable pen injection suspension 25:75; 100 units/ml,res22: diabetes_meds,drug
+Multilex,16050001,NAZDOL MR tablets 30mg [TEVA],res22: diabetes_meds,drug
+Multilex,13695001,insulin biphasic isophane human disposable pen injection suspension 30:70; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13694001,insulin biphasic isophane human vial injection suspension 30:70; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13716001,insulin biphasic isophane human vial injection suspension 25:75; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13698001,HUMULIN M3 CARTRIDGE injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13713001,INSUMAN COMB 50 OPTISET injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13711001,insulin biphasic isophane human disposable pen injection suspension 50:50; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13705001,MIXTARD 40 PENFILL injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,13763001,insulin glulisine cartridge injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13740001,NOVOMIX 30 FLEXPEN injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,13723001,insulin isophane human vial injection suspension 100 units/ml,res22: diabetes_meds,drug
+Multilex,13729001,HUMULIN I CARTRIDGE injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13721001,INSUMAN COMB 25 OPTISET injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13725001,insulin isophane human disposable pen injection suspension 100 units/ml,res22: diabetes_meds,drug
+Multilex,13728001,HUMULIN I VIAL injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13731001,INSUMAN BASAL CARTRIDGE injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13730001,HUMULIN I DISPOSABLE PEN injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13739001,NOVOMIX 30 PENFILL injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,13737001,insulin biphasic aspart cartridge injection suspension 30:70; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13735001,insulin aspart cartridge injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13733001,INSUMAN BASAL OPTISET injection suspension 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13745001,insulin lispro disposable pen injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13761001,LANTUS CARTRIDGE injection solution 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13743001,insulin lispro vial injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13759001,LANTUS VIAL injection solution 100 units/ml [AVENTIS],res22: diabetes_meds,drug
+Multilex,13751001,HUMALOG MIX 25 CARTRIDGE injection suspension 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13746001,HUMALOG VIAL injection solution 100 units/ml [LILLY],res22: diabetes_meds,drug
+Multilex,13749001,insulin biphasic lispro cartridge injection suspension 25:75; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13758001,insulin glargine cartridge injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13753001,insulin detemir cartridge injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13756001,insulin glargine vial injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,14110005,u100 single use insulin syringe with 8mm needle(29G) 1ml,res22: diabetes_meds,drug
+Multilex,13823001,insulin soluble bovine vial injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13810001,insulin biphasic isophane porcine vial injection suspension 30:70; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13806001,insulin isophane porcine cartridge injection suspension 100 units/ml,res22: diabetes_meds,drug
+Multilex,13809001,HYPURIN PORCINE ISOPHANE CARTRIDGE injection suspension 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,15990001,EUCREAS tablets 50mg + 850mg [NOVARTIS],res22: diabetes_meds,drug
+Multilex,13821001,HYPURIN BOVINE ISOPHANE VIAL injection suspension 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,13816001,HYPURIN PORCINE NEUTRAL VIAL injection solution 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,13814001,insulin soluble porcine vial injection solution 100 units/ml,res22: diabetes_meds,drug
+Multilex,13812001,HYPURIN PORCINE 30/70 MIX VIAL injection suspension 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,13819001,insulin isophane bovine vial injection suspension 100 units/ml,res22: diabetes_meds,drug
+Multilex,13981001,gliclazide oral suspension 40mg/5ml,res22: diabetes_meds,drug
+Multilex,13826001,HYPURIN BOVINE NEUTRAL VIAL injection solution 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,13825001,HYPURIN BOVINE NEUTRAL CARTRIDGE injection solution 100 units/ml [WOCKHARDT],res22: diabetes_meds,drug
+Multilex,13921001,MIXTARD 30 VIAL injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,13919001,INSULATARD INNOLET injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,13831001,INSULATARD PENFILL injection suspension 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,13970001,insulin biphasic lispro cartridge injection suspension 50:50; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13953001,insulin human powder for inhalation 3mg,res22: diabetes_meds,drug
+Multilex,13922001,insulin biphasic lispro disposable pen injection suspension 50:50; 100 units/ml,res22: diabetes_meds,drug
+Multilex,13954001,EXUBERA powder for inhalation 1mg [PFIZER],res22: diabetes_meds,drug
+Multilex,14500005,Omnican 100 insulin syringe with 8mm needle(30G) 1ml/U100 [B BRAUN],res22: diabetes_meds,drug
+Multilex,15988001,vildagliptin with metformin tablets 50mg + 850mg,res22: diabetes_meds,drug
+Multilex,14111005,u100 single use insulin syringe with 8mm needle(30G) 1ml,res22: diabetes_meds,drug
+Multilex,14408001,APIDRA OPTICLIK injection solution 100 units/ml [SANOFI/AVE],res22: diabetes_meds,drug
+Multilex,14442005,"mhi-500 3 month consumable kit size 7 nozzle, 3ml vial adaptor MH79002-13 [MED HOUSE]",res22: diabetes_meds,drug
+Multilex,14375001,metformin with pioglitazone tablets 850mg + 15mg,res22: diabetes_meds,drug
+Multilex,14440005,mhi-500 3ml vial adaptor MH79002-14 [MED HOUSE],res22: diabetes_meds,drug
+Multilex,15658001,vildagliptin tablets 50mg,res22: diabetes_meds,drug
+Multilex,14732001,PRANDIN tablets 1mg [NOVO],res22: diabetes_meds,drug
+Multilex,14503005,u100 single use insulin syringe with 12mm needle(30G) 1ml,res22: diabetes_meds,drug
+Multilex,14501005,Omnican 50 insulin syringe with 8mm needle(30G) 0.5ml/U100 [B BRAUN],res22: diabetes_meds,drug
+Multilex,15302001,exenatide injection 5 micrograms,res22: diabetes_meds,drug
+Multilex,15220001,LEVEMIR INNOLET injection solution 100 units/ml [NOVO],res22: diabetes_meds,drug
+Multilex,15359001,sitagliptin tablets 100mg,res22: diabetes_meds,drug
+Multilex,15305001,BYETTA injection 5 micrograms [LILLY],res22: diabetes_meds,drug

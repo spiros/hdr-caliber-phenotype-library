@@ -1,0 +1,122 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,T510 SE,SMOKING EXCESSIVE,smoking_status,observation
+OXMIS,T5112,SMOKER (20 PER DAY),smoking_status,observation
+OXMIS,T510 HS,HEAVY SMOKER  (20-PLUS PER DAY),smoking_status,observation
+OXMIS,T511,SMOKER MODERATE (LESS THAN 20 PER DAY),smoking_status,observation
+OXMIS,T510 SH,SMOKER HEAVY (20-PLUS PER DAY),smoking_status,observation
+OXMIS,T510,EXCESSIVE SMOKING,smoking_status,observation
+OXMIS,T5092,SMOKING ADVISED TO STOP,smoking_status,observation
+OXMIS,T5091,STOPPED SMOKING,smoking_status,observation
+OXMIS,T5090XC,SMOKER CIGARETTES,smoking_status,observation
+OXMIS,T5091HS,EX HEAVY SMOKER,smoking_status,observation
+OXMIS,L5091S,SMOKING STARTED,smoking_status,observation
+OXMIS,T5090OR,SMOKER OWN ROLLED,smoking_status,observation
+OXMIS,T5091ES,FORMER SMOKER,smoking_status,observation
+OXMIS,T509 SR,SMOKING RESTARTED,smoking_status,observation
+OXMIS,T509,SMOKER,smoking_status,observation
+OXMIS,T5117,SMOKER (30 PER DAY),smoking_status,observation
+OXMIS,T5113,SMOKER (15 PER DAY),smoking_status,observation
+OXMIS,T5092S,SMOKING WISHES TO STOP,smoking_status,observation
+OXMIS,T5115M,SMOKER MILD (5 OR LESS PER DAY),smoking_status,observation
+OXMIS,T5092SA,SMOKING WANTS TO STOP,smoking_status,observation
+OXMIS,T5093,SMOKER NON,smoking_status,observation
+OXMIS,T5115,SMOKER (LESS THAN 10 PER DAY),smoking_status,observation
+OXMIS,T5114,SMOKER (10 PER DAY),smoking_status,observation
+OXMIS,T5093N,SMOKED NEVER,smoking_status,observation
+OXMIS,T5116,SMOKER(OCCASIONAL),smoking_status,observation
+OXMIS,T512,SMOKER PIPE,smoking_status,observation
+OXMIS,Y060 J1,STOP SMOKING GROUP,smoking_status,observation
+OXMIS,T513,SMOKER CIGARS,smoking_status,observation
+OXMIS,Y0601JJ,CLINIC ANTI-SMOKING ATTENDANCE,smoking_status,observation
+OXMIS,Y060 KA,SMOKING CLINIC,smoking_status,observation
+OXMIS,Y060 JJ,CLINIC ANTI-SMOKING,smoking_status,observation
+OXMIS,Y0601KA,SMOKING CLINIC ATTENDANCE,smoking_status,observation
+Read,1373.00,Light smoker - 1-9 cigs/day,smoking_status,observation
+Read,1372.11,Occasional smoker,smoking_status,observation
+Read,8B2B.00,Nicotine replacement therapy,smoking_status,observation
+Read,1372.00,Trivial smoker - < 1 cig/day,smoking_status,observation
+Read,1371.11,Non-smoker,smoking_status,observation
+Read,1371.00,Never smoked tobacco,smoking_status,observation
+Read,137..11,Smoker - amount smoked,smoking_status,observation
+Read,137..00,Tobacco consumption,smoking_status,observation
+Read,137U.00,Not a passive smoker,smoking_status,observation
+Read,1379.00,Ex-moderate smoker (10-19/day),smoking_status,observation
+Read,137A.00,Ex-heavy smoker (20-39/day),smoking_status,observation
+Read,137T.00,Date ceased smoking,smoking_status,observation
+Read,137f.00,Reason for restarting smoking,smoking_status,observation
+Read,137F.00,Ex-smoker - amount unknown,smoking_status,observation
+Read,137C.00,Keeps trying to stop smoking,smoking_status,observation
+Read,137b.00,Ready to stop smoking,smoking_status,observation
+Read,137a.00,Pipe tobacco consumption,smoking_status,observation
+Read,137B.00,Ex-very heavy smoker (40+/day),smoking_status,observation
+Read,137c.00,Thinking about stopping smoking,smoking_status,observation
+Read,137e.00,Smoking restarted,smoking_status,observation
+Read,137d.00,Not interested in stopping smoking,smoking_status,observation
+Read,137D.00,Admitted tobacco cons untrue ?,smoking_status,observation
+Read,137L.00,Current non-smoker,smoking_status,observation
+Read,137H.00,Pipe smoker,smoking_status,observation
+Read,137S.00,Ex smoker,smoking_status,observation
+Read,137g.00,Cigarette pack-years,smoking_status,observation
+Read,137G.00,Trying to give up smoking,smoking_status,observation
+Read,137h.00,Minutes from waking to first tobacco consumption,smoking_status,observation
+Read,137L.0,,smoking_status,observation
+Read,137K.00,Stopped smoking,smoking_status,observation
+Read,137J.00,Cigar smoker,smoking_status,observation
+Read,137O.00,Ex cigar smoker,smoking_status,observation
+Read,137R.00,Current smoker,smoking_status,observation
+Read,137N.00,Ex pipe smoker,smoking_status,observation
+Read,137M.00,Rolls own cigarettes,smoking_status,observation
+Read,137P.00,Cigarette smoker,smoking_status,observation
+Read,137Q.11,Smoking restarted,smoking_status,observation
+Read,137Q.00,Smoking started,smoking_status,observation
+Read,137P.11,Smoker,smoking_status,observation
+Read,137Y.00,Cigar consumption,smoking_status,observation
+Read,9OO..11,Stop smoking clinic admin.,smoking_status,observation
+Read,67A3.00,Pregnancy smoking advice,smoking_status,observation
+Read,137X.00,Cigarette consumption,smoking_status,observation
+Read,137V.00,Smoking reduced,smoking_status,observation
+Read,1378.00,Ex-light smoker (1-9/day),smoking_status,observation
+Read,13p5.00,Smoking cessation programme start date,smoking_status,observation
+Read,6791.00,Health ed. - smoking,smoking_status,observation
+Read,13p0.00,Negotiated date for cessation of smoking,smoking_status,observation
+Read,13p..00,Smoking cessation milestones,smoking_status,observation
+Read,137Z.00,Tobacco consumption NOS,smoking_status,observation
+Read,13p1.00,Smoking status at 4 weeks,smoking_status,observation
+Read,13p4.00,Smoking free weeks,smoking_status,observation
+Read,13p3.00,Smoking status at 52 weeks,smoking_status,observation
+Read,13p2.00,Smoking status between 4 and 52 weeks,smoking_status,observation
+Read,9OO..00,Anti-smoking monitoring admin.,smoking_status,observation
+Read,745H.00,Smoking cessation therapy,smoking_status,observation
+Read,8B3f.00,Nicotine replacement therapy provided free,smoking_status,observation
+Read,67H1.00,Lifestyle advice regarding smoking,smoking_status,observation
+Read,745H000,Nicotine replacement therapy using nicotine patches,smoking_status,observation
+Read,745H300,Nicotine replacement therapy using nicotine lozenges,smoking_status,observation
+Read,745H200,Nicotine replacement therapy using nicotine inhalator,smoking_status,observation
+Read,745H100,Nicotine replacement therapy using nicotine gum,smoking_status,observation
+Read,8CAg.00,Smoking cessation advice provided by community pharmacist,smoking_status,observation
+Read,9N4M.00,DNA - Did not attend smoking cessation clinic,smoking_status,observation
+Read,8BP3.00,Nicotine replacement therapy provided by community pharmacis,smoking_status,observation
+Read,8B3Y.00,Over the counter nicotine replacement therapy,smoking_status,observation
+Read,8CAL.00,Smoking cessation advice,smoking_status,observation
+Read,9N2k.00,Seen by smoking cessation advisor,smoking_status,observation
+Read,8HTK.00,Referral to stop-smoking clinic,smoking_status,observation
+Read,8H7i.00,Referral to smoking cessation advisor,smoking_status,observation
+Read,9OO3.00,Stop smoking monitor default,smoking_status,observation
+Read,9OO1.00,Attends stop smoking monitor.,smoking_status,observation
+Read,1376.00,Very heavy smoker - 40+cigs/d,smoking_status,observation
+Read,1377.00,Ex-trivial smoker (<1/day),smoking_status,observation
+Read,9OO..12,Stop smoking monitoring admin.,smoking_status,observation
+Read,9OO2.00,Refuses stop smoking monitor,smoking_status,observation
+Read,1375.00,Heavy smoker - 20-39 cigs/day,smoking_status,observation
+Read,1374.00,Moderate smoker - 10-19 cigs/d,smoking_status,observation
+Read,9OO9.00,Stop smoking monitoring delete,smoking_status,observation
+Read,9OO4.00,Stop smoking monitor 1st lettr,smoking_status,observation
+Read,9OO5.00,Stop smoking monitor 2nd lettr,smoking_status,observation
+Read,9OO8.00,Stop smoking monitor phone inv,smoking_status,observation
+Read,9OO7.00,Stop smoking monitor verb.inv.,smoking_status,observation
+Read,9OO6.00,Stop smoking monitor 3rd lettr,smoking_status,observation
+Read,9OOA.00,Stop smoking monitor.chck done,smoking_status,observation
+Read,ZRh4.00,Reasons for smoking scale,smoking_status,observation
+Read,ZRaM.00,Motives for smoking scale,smoking_status,observation
+Read,ZRh4.11,RFS - Reasons for smoking scale,smoking_status,observation
+Read,ZG23300,Advice on smoking,smoking_status,observation

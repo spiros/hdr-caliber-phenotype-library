@@ -1,0 +1,291 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,L4359O,,res25: P16_thrombosis,diagnostic
+Read,L096400,Pulmonary embolism following abortive pregnancy,res25: P16_thrombosis,diagnostic
+Read,L433.12,Septic obstetric embolism,res25: P16_thrombosis,diagnostic
+Read,L431200,Amniotic fluid pulm embolism - delivered + p/n complication,res25: P16_thrombosis,diagnostic
+Read,K138000,Renal artery embolism,res25: P16_thrombosis,diagnostic
+Read,J420.16,Mesenteric thrombus and/or embolus,res25: P16_thrombosis,diagnostic
+Read,F050100,Embolism superior longitudinal sinus,res25: P16_thrombosis,diagnostic
+Read,J420z00,Acute intestinal vascular insufficiency NOS,res25: P16_thrombosis,diagnostic
+Read,J420000,Embolus of the superior mesenteric artery,res25: P16_thrombosis,diagnostic
+Read,J420.18,Mesenteric thrombosis,res25: P16_thrombosis,diagnostic
+Read,J420.17,Mesenteric embolism,res25: P16_thrombosis,diagnostic
+Read,J420y00,Mesenteric thrombus NOS,res25: P16_thrombosis,diagnostic
+Read,J420200,Thrombus of the superior mesenteric veins,res25: P16_thrombosis,diagnostic
+Read,J420100,Thrombus of the superior mesenteric artery,res25: P16_thrombosis,diagnostic
+Read,J420x00,Mesenteric embolus NOS,res25: P16_thrombosis,diagnostic
+Read,J420300,Acute ischaemic colitis,res25: P16_thrombosis,diagnostic
+Read,L431100,Amniotic fluid pulmonary embolism - delivered,res25: P16_thrombosis,diagnostic
+Read,L431.00,Amniotic fluid pulmonary embolism,res25: P16_thrombosis,diagnostic
+Read,L414.11,"DVT - deep venous thrombosis, postnatal",res25: P16_thrombosis,diagnostic
+Read,L413.00,Antenatal deep vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,L414.00,Postnatal deep vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,L413000,Antenatal deep vein thrombosis unspecified,res25: P16_thrombosis,diagnostic
+Read,L413.11,"DVT - deep venous thrombosis, antenatal",res25: P16_thrombosis,diagnostic
+Read,L413z00,Antenatal deep vein thrombosis NOS,res25: P16_thrombosis,diagnostic
+Read,L413100,Antenatal deep vein thrombosis - delivered,res25: P16_thrombosis,diagnostic
+Read,L413200,Antenatal deep vein thrombosis with antenatal complication,res25: P16_thrombosis,diagnostic
+Read,L4300NM,,res25: P16_thrombosis,diagnostic
+Read,L417.00,Obstetric cerebral venous thrombosis,res25: P16_thrombosis,diagnostic
+Read,L414000,Postnatal deep vein thrombosis unspecified,res25: P16_thrombosis,diagnostic
+Read,L414z00,Postnatal deep vein thrombosis NOS,res25: P16_thrombosis,diagnostic
+Read,L414200,Postnatal deep vein thrombosis with postnatal complication,res25: P16_thrombosis,diagnostic
+Read,L43..11,Obstetric pulmonary embolus,res25: P16_thrombosis,diagnostic
+Read,L4170G,,res25: P16_thrombosis,diagnostic
+Read,L417000,Cerebral venous thrombosis in pregnancy,res25: P16_thrombosis,diagnostic
+Read,L43..00,Obstetric pulmonary embolism,res25: P16_thrombosis,diagnostic
+Read,L417100,Cerebral venous thrombosis in the puerperium,res25: P16_thrombosis,diagnostic
+Read,L432.00,Obstetric blood-clot pulmonary embolism,res25: P16_thrombosis,diagnostic
+Read,L4331,,res25: P16_thrombosis,diagnostic
+Read,L43z100,Obstetric pulmonary embolism NOS - delivered,res25: P16_thrombosis,diagnostic
+Read,L43z000,"Obstetric pulmonary embolism NOS, unspecified",res25: P16_thrombosis,diagnostic
+Read,L4379F,,res25: P16_thrombosis,diagnostic
+Read,ZV12900,[V] Personal history of pulmonary embolism,res25: P16_thrombosis,diagnostic
+Read,L43z.00,Obstetric pulmonary embolism NOS,res25: P16_thrombosis,diagnostic
+Read,ZV12811,[V] Personal history DVT- deep vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,L43z400,Obstetric pulmonary embolism NOS with postnatal complication,res25: P16_thrombosis,diagnostic
+Read,ZV12800,[V] Personal history deep vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,SP32100,Thromboembolism after infusion,res25: P16_thrombosis,diagnostic
+Read,SP12200,Post operative deep vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,L43zz00,Obstetric pulmonary embolism NOS,res25: P16_thrombosis,diagnostic
+Read,F050000,Embolism cavernous sinus,res25: P16_thrombosis,diagnostic
+Read,F050.00,Embolism of central nervous system venous sinus,res25: P16_thrombosis,diagnostic
+Read,F05..00,Phlebitis and thrombophlebitis of intracranial sinuses,res25: P16_thrombosis,diagnostic
+Read,14AT.00,History of myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,14A8.12,H/O: thrombosis,res25: P16_thrombosis,diagnostic
+Read,14A8.11,H/O: embolism,res25: P16_thrombosis,diagnostic
+Read,14A8.00,H/O: thrombo-embolism,res25: P16_thrombosis,diagnostic
+Read,14A7.00,H/O: CVA/stroke,res25: P16_thrombosis,diagnostic
+Read,14A3.00,H/O: myocardial infarct <60,res25: P16_thrombosis,diagnostic
+Read,14A4.00,H/O: myocardial infarct >60,res25: P16_thrombosis,diagnostic
+Read,14A7.12,H/O: stroke,res25: P16_thrombosis,diagnostic
+Read,14A7.11,H/O: CVA,res25: P16_thrombosis,diagnostic
+Read,14AD.00,H/O ventricular fibrillation,res25: P16_thrombosis,diagnostic
+Read,14AK.00,H/O: Stroke in last year,res25: P16_thrombosis,diagnostic
+Read,14AC.00,H/O: pulmonary embolus,res25: P16_thrombosis,diagnostic
+Read,14A8100,H/O: Deep Vein Thrombosis,res25: P16_thrombosis,diagnostic
+Read,14AB000,H/O amaurosis fugax,res25: P16_thrombosis,diagnostic
+Read,14AB.00,H/O: TIA,res25: P16_thrombosis,diagnostic
+Read,14AH.00,H/O: Myocardial infarction in last year,res25: P16_thrombosis,diagnostic
+Read,F051000,Thrombosis cavernous sinus,res25: P16_thrombosis,diagnostic
+Read,G30..00,Acute myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,F051.00,Thrombosis of central nervous system venous sinuses,res25: P16_thrombosis,diagnostic
+Read,F050300,Embolism transverse sinus,res25: P16_thrombosis,diagnostic
+Read,F423600,Amaurosis fugax,res25: P16_thrombosis,diagnostic
+Read,F161100,Myelopathy due to arterial thrombosis of spinal cord,res25: P16_thrombosis,diagnostic
+Read,J420.00,Acute intestinal vascular insufficiency,res25: P16_thrombosis,diagnostic
+Read,F051300,Thrombosis transverse sinus,res25: P16_thrombosis,diagnostic
+Read,F051200,Thrombosis lateral sinus,res25: P16_thrombosis,diagnostic
+Read,J420.12,Bowel infarction,res25: P16_thrombosis,diagnostic
+Read,J420.14,Mesenteric embolus,res25: P16_thrombosis,diagnostic
+Read,G65z000,Impending cerebral ischaemia,res25: P16_thrombosis,diagnostic
+Read,G30y.00,Other acute myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,Gyu8200,[X]Embolism and thrombosis of other specified veins,res25: P16_thrombosis,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G30..16,Thrombosis - coronary,res25: P16_thrombosis,diagnostic
+Read,G30..15,MI - acute myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G30..13,Cardiac rupture following myocardial infarction (MI),res25: P16_thrombosis,diagnostic
+Read,G30..12,Coronary thrombosis,res25: P16_thrombosis,diagnostic
+Read,G302.00,Acute inferolateral infarction,res25: P16_thrombosis,diagnostic
+Read,G300.00,Acute anterolateral infarction,res25: P16_thrombosis,diagnostic
+Read,G30X.00,Acute transmural myocardial infarction of unspecif site,res25: P16_thrombosis,diagnostic
+Read,G30..17,Silent myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G301z00,Anterior myocardial infarction NOS,res25: P16_thrombosis,diagnostic
+Read,G301.00,Other specified anterior myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G301100,Acute anteroseptal infarction,res25: P16_thrombosis,diagnostic
+Read,G301000,Acute anteroapical infarction,res25: P16_thrombosis,diagnostic
+Read,G30B.00,Acute posterolateral myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G307.00,Acute subendocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G303.00,Acute inferoposterior infarction,res25: P16_thrombosis,diagnostic
+Read,G306.00,True posterior myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G304.00,Posterior myocardial infarction NOS,res25: P16_thrombosis,diagnostic
+Read,G305.00,Lateral myocardial infarction NOS,res25: P16_thrombosis,diagnostic
+Read,G307100,Acute non-ST segment elevation myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G307000,Acute non-Q wave infarction,res25: P16_thrombosis,diagnostic
+Read,G30A.00,Mural thrombosis,res25: P16_thrombosis,diagnostic
+Read,G309.00,Acute Q-wave infarct,res25: P16_thrombosis,diagnostic
+Read,G308.00,Inferior myocardial infarction NOS,res25: P16_thrombosis,diagnostic
+Read,G30y100,Acute papillary muscle infarction,res25: P16_thrombosis,diagnostic
+Read,G30y000,Acute atrial infarction,res25: P16_thrombosis,diagnostic
+Read,G401100,Recurrent pulmonary embolism,res25: P16_thrombosis,diagnostic
+Read,G310.00,Postmyocardial infarction syndrome,res25: P16_thrombosis,diagnostic
+Read,G30yz00,Other acute myocardial infarction NOS,res25: P16_thrombosis,diagnostic
+Read,G30y200,Acute septal infarction,res25: P16_thrombosis,diagnostic
+Read,G310.11,Dressler's syndrome,res25: P16_thrombosis,diagnostic
+Read,G31..00,Other acute and subacute ischaemic heart disease,res25: P16_thrombosis,diagnostic
+Read,G30z.00,Acute myocardial infarction NOS,res25: P16_thrombosis,diagnostic
+Read,G35X.00,Subsequent myocardial infarction of unspecified site,res25: P16_thrombosis,diagnostic
+Read,G32..11,Healed myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G353.00,Subsequent myocardial infarction of other sites,res25: P16_thrombosis,diagnostic
+Read,G32..00,Old myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G312.00,Coronary thrombosis not resulting in myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G32..12,Personal history of myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G351.00,Subsequent myocardial infarction of inferior wall,res25: P16_thrombosis,diagnostic
+Read,G350.00,Subsequent myocardial infarction of anterior wall,res25: P16_thrombosis,diagnostic
+Read,G35..00,Subsequent myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G38..00,Postoperative myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,res25: P16_thrombosis,diagnostic
+Read,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,res25: P16_thrombosis,diagnostic
+Read,G36..00,Certain current complication follow acute myocardial infarct,res25: P16_thrombosis,diagnostic
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,res25: P16_thrombosis,diagnostic
+Read,G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",res25: P16_thrombosis,diagnostic
+Read,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,res25: P16_thrombosis,diagnostic
+Read,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,res25: P16_thrombosis,diagnostic
+Read,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,res25: P16_thrombosis,diagnostic
+Read,G65z.00,Transient cerebral ischaemia NOS,res25: P16_thrombosis,diagnostic
+Read,G383.00,Postoperative transmural myocardial infarction unspec site,res25: P16_thrombosis,diagnostic
+Read,G401.12,Pulmonary embolus,res25: P16_thrombosis,diagnostic
+Read,G381.00,Postoperative transmural myocardial infarction inferior wall,res25: P16_thrombosis,diagnostic
+Read,G380.00,Postoperative transmural myocardial infarction anterior wall,res25: P16_thrombosis,diagnostic
+Read,G401000,Post operative pulmonary embolus,res25: P16_thrombosis,diagnostic
+Read,G401.11,Infarction - pulmonary,res25: P16_thrombosis,diagnostic
+Read,G384.00,Postoperative subendocardial myocardial infarction,res25: P16_thrombosis,diagnostic
+Read,G401.00,Pulmonary embolism,res25: P16_thrombosis,diagnostic
+Read,G38z.00,"Postoperative myocardial infarction, unspecified",res25: P16_thrombosis,diagnostic
+Read,G65y.00,Other transient cerebral ischaemia,res25: P16_thrombosis,diagnostic
+Read,G64z111,Lateral medullary syndrome,res25: P16_thrombosis,diagnostic
+Read,G640.00,Cerebral thrombosis,res25: P16_thrombosis,diagnostic
+Read,G41y100,Thromboembolic pulmonary hypertension,res25: P16_thrombosis,diagnostic
+Read,G63y100,Cerebral infarction due to embolism of precerebral arteries,res25: P16_thrombosis,diagnostic
+Read,G5yy700,Left ventricular thrombosis,res25: P16_thrombosis,diagnostic
+Read,G5yy600,Atrial thrombosis,res25: P16_thrombosis,diagnostic
+Read,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,res25: P16_thrombosis,diagnostic
+Read,G5yy800,Right ventricular thrombosis,res25: P16_thrombosis,diagnostic
+Read,G64z100,Wallenberg syndrome,res25: P16_thrombosis,diagnostic
+Read,G641000,Cerebral infarction due to embolism of cerebral arteries,res25: P16_thrombosis,diagnostic
+Read,G640000,Cerebral infarction due to thrombosis of cerebral arteries,res25: P16_thrombosis,diagnostic
+Read,G641.11,Cerebral embolus,res25: P16_thrombosis,diagnostic
+Read,G641.00,Cerebral embolism,res25: P16_thrombosis,diagnostic
+Read,G64z000,Brainstem infarction,res25: P16_thrombosis,diagnostic
+Read,G64z.00,Cerebral infarction NOS,res25: P16_thrombosis,diagnostic
+Read,G64z.12,Cerebellar infarction,res25: P16_thrombosis,diagnostic
+Read,G64z.11,Brainstem infarction NOS,res25: P16_thrombosis,diagnostic
+Read,G657.00,Carotid territory transient ischaemic attack,res25: P16_thrombosis,diagnostic
+Read,G650.00,Basilar artery syndrome,res25: P16_thrombosis,diagnostic
+Read,G64z300,Right sided cerebral infarction,res25: P16_thrombosis,diagnostic
+Read,G64z200,Left sided cerebral infarction,res25: P16_thrombosis,diagnostic
+Read,G64z400,Infarction of basal ganglia,res25: P16_thrombosis,diagnostic
+Read,G65..13,Vertebro-basilar insufficiency,res25: P16_thrombosis,diagnostic
+Read,G65..12,Transient ischaemic attack,res25: P16_thrombosis,diagnostic
+Read,G65..00,Transient cerebral ischaemia,res25: P16_thrombosis,diagnostic
+Read,G65..11,Drop attack,res25: P16_thrombosis,diagnostic
+Read,G656.00,Vertebrobasilar insufficiency,res25: P16_thrombosis,diagnostic
+Read,G651000,Vertebro-basilar artery syndrome,res25: P16_thrombosis,diagnostic
+Read,G651.00,Vertebral artery syndrome,res25: P16_thrombosis,diagnostic
+Read,G650.11,Insufficiency - basilar artery,res25: P16_thrombosis,diagnostic
+Read,G652.00,Subclavian steal syndrome,res25: P16_thrombosis,diagnostic
+Read,G655.00,Transient global amnesia,res25: P16_thrombosis,diagnostic
+Read,G654.00,Multiple and bilateral precerebral artery syndromes,res25: P16_thrombosis,diagnostic
+Read,G653.00,Carotid artery syndrome hemispheric,res25: P16_thrombosis,diagnostic
+Read,G801E00,Deep vein thrombosis of leg related to intravenous drug use,res25: P16_thrombosis,diagnostic
+Read,G742500,Embolism and thrombosis of the popliteal artery,res25: P16_thrombosis,diagnostic
+Read,G66..12,Stroke unspecified,res25: P16_thrombosis,diagnostic
+Read,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,res25: P16_thrombosis,diagnostic
+Read,G669.00,"Cerebral palsy, not congenital or infantile, acute",res25: P16_thrombosis,diagnostic
+Read,G65z100,Intermittent cerebral ischaemia,res25: P16_thrombosis,diagnostic
+Read,G66..11,CVA unspecified,res25: P16_thrombosis,diagnostic
+Read,G66..00,Stroke and cerebrovascular accident unspecified,res25: P16_thrombosis,diagnostic
+Read,G65zz00,Transient cerebral ischaemia NOS,res25: P16_thrombosis,diagnostic
+Read,G668.00,Right sided CVA,res25: P16_thrombosis,diagnostic
+Read,G66..13,CVA - Cerebrovascular accident unspecified,res25: P16_thrombosis,diagnostic
+Read,G663.00,Brain stem stroke syndrome,res25: P16_thrombosis,diagnostic
+Read,G662.00,Posterior cerebral artery syndrome,res25: P16_thrombosis,diagnostic
+Read,G660.00,Middle cerebral artery syndrome,res25: P16_thrombosis,diagnostic
+Read,G661.00,Anterior cerebral artery syndrome,res25: P16_thrombosis,diagnostic
+Read,G664.00,Cerebellar stroke syndrome,res25: P16_thrombosis,diagnostic
+Read,G667.00,Left sided CVA,res25: P16_thrombosis,diagnostic
+Read,G666.00,Pure sensory lacunar syndrome,res25: P16_thrombosis,diagnostic
+Read,G665.00,Pure motor lacunar syndrome,res25: P16_thrombosis,diagnostic
+Read,G740.00,Embolism and thrombosis of the abdominal aorta,res25: P16_thrombosis,diagnostic
+Read,G67A.00,Cerebral vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,G676000,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",res25: P16_thrombosis,diagnostic
+Read,G676.00,Nonpyogenic venous sinus thrombosis,res25: P16_thrombosis,diagnostic
+Read,G74..00,Arterial embolism and thrombosis,res25: P16_thrombosis,diagnostic
+Read,G742400,Embolism and thrombosis of the femoral artery,res25: P16_thrombosis,diagnostic
+Read,G74..13,Arterial embolic and thrombotic occlusion,res25: P16_thrombosis,diagnostic
+Read,G74..12,Thrombosis - arterial,res25: P16_thrombosis,diagnostic
+Read,G74..11,Arterial embolus and thrombosis,res25: P16_thrombosis,diagnostic
+Read,G740.13,Leriche's syndrome,res25: P16_thrombosis,diagnostic
+Read,G742300,Embolism and thrombosis of an arm artery NOS,res25: P16_thrombosis,diagnostic
+Read,G740.12,Aortoiliac obstruction,res25: P16_thrombosis,diagnostic
+Read,G740.11,Aortic bifurcation syndrome,res25: P16_thrombosis,diagnostic
+Read,G742200,Embolism and thrombosis of the ulnar artery,res25: P16_thrombosis,diagnostic
+Read,G741.00,Embolism and thrombosis of the thoracic aorta,res25: P16_thrombosis,diagnostic
+Read,G740.14,Saddle embolus,res25: P16_thrombosis,diagnostic
+Read,G742100,Embolism and thrombosis of the radial artery,res25: P16_thrombosis,diagnostic
+Read,G742.00,Embolism and thrombosis of an arm or leg artery,res25: P16_thrombosis,diagnostic
+Read,G742000,Embolism and thrombosis of the brachial artery,res25: P16_thrombosis,diagnostic
+Read,G801D00,Deep vein thrombosis of lower limb,res25: P16_thrombosis,diagnostic
+Read,G74y800,Embolism and thrombosis of the coeliac artery,res25: P16_thrombosis,diagnostic
+Read,G742800,Embolism and thrombosis of the posterior tibial artery,res25: P16_thrombosis,diagnostic
+Read,G743.00,Embolism and thrombosis of other and unspec parts aorta,res25: P16_thrombosis,diagnostic
+Read,G742700,Embolism and thrombosis of the dorsalis pedis artery,res25: P16_thrombosis,diagnostic
+Read,G742600,Embolism and thrombosis of the anterior tibial artery,res25: P16_thrombosis,diagnostic
+Read,G742900,Embolism and thrombosis of a leg artery NOS,res25: P16_thrombosis,diagnostic
+Read,G742z00,Peripheral arterial embolism and thrombosis NOS,res25: P16_thrombosis,diagnostic
+Read,G742B00,Post radiological embolism of lower limb artery,res25: P16_thrombosis,diagnostic
+Read,G742A00,Post radiological embolism of upper limb artery,res25: P16_thrombosis,diagnostic
+Read,G74y100,Embolism and/or thrombosis of the internal iliac artery,res25: P16_thrombosis,diagnostic
+Read,G74y700,Embolism and thrombosis of the axillary artery,res25: P16_thrombosis,diagnostic
+Read,G74y000,Embolism and/or thrombosis of the common iliac artery,res25: P16_thrombosis,diagnostic
+Read,G74y.00,Embolism and thrombosis of other specified artery,res25: P16_thrombosis,diagnostic
+Read,G74y200,Embolism and/or thrombosis of the external iliac artery,res25: P16_thrombosis,diagnostic
+Read,G74y600,Embolism and thrombosis of the splenic artery,res25: P16_thrombosis,diagnostic
+Read,G74y500,Embolism and thrombosis of the subclavian artery,res25: P16_thrombosis,diagnostic
+Read,G74y300,Embolism and thrombosis of the iliac artery unspecified,res25: P16_thrombosis,diagnostic
+Read,G801000,Phlebitis of the femoral vein,res25: P16_thrombosis,diagnostic
+Read,G74yz00,Embolism and thrombosis of other arteries NOS,res25: P16_thrombosis,diagnostic
+Read,G74y900,Embolism and thrombosis of the hepatic artery,res25: P16_thrombosis,diagnostic
+Read,G801C00,Deep vein thrombosis of leg related to air travel,res25: P16_thrombosis,diagnostic
+Read,G801.00,Deep vein phlebitis and thrombophlebitis of the leg,res25: P16_thrombosis,diagnostic
+Read,G74z.00,Arterial embolism and thrombosis NOS,res25: P16_thrombosis,diagnostic
+Read,G801.13,DVT - Deep vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,G801.12,"Deep vein thrombosis, leg",res25: P16_thrombosis,diagnostic
+Read,G801.11,Deep vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,G801400,Phlebitis of the posterior tibial vein,res25: P16_thrombosis,diagnostic
+Read,G801B00,Deep vein thrombophlebitis of the leg unspecified,res25: P16_thrombosis,diagnostic
+Read,G801200,Phlebitis of the anterior tibial vein,res25: P16_thrombosis,diagnostic
+Read,G801100,Phlebitis of the popliteal vein,res25: P16_thrombosis,diagnostic
+Read,G801A00,Thrombophlebitis of the posterior tibial vein,res25: P16_thrombosis,diagnostic
+Read,G801600,Thrombophlebitis of the femoral vein,res25: P16_thrombosis,diagnostic
+Read,G801500,Deep vein phlebitis of the leg unspecified,res25: P16_thrombosis,diagnostic
+Read,G801900,Thrombophlebitis of the dorsalis pedis vein,res25: P16_thrombosis,diagnostic
+Read,G801700,Thrombophlebitis of the popliteal vein,res25: P16_thrombosis,diagnostic
+Read,G801800,Thrombophlebitis of the anterior tibial vein,res25: P16_thrombosis,diagnostic
+Read,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res25: P16_thrombosis,diagnostic
+Read,G820.00,Budd - Chiari syndrome (hepatic vein thrombosis),res25: P16_thrombosis,diagnostic
+Read,G801F00,Deep vein thrombosis of peroneal vein,res25: P16_thrombosis,diagnostic
+Read,G827.00,Thrombosis of external jugular vein,res25: P16_thrombosis,diagnostic
+Read,G82..00,Other venous embolism and thrombosis,res25: P16_thrombosis,diagnostic
+Read,G801z00,Deep vein phlebitis and thrombophlebitis of the leg NOS,res25: P16_thrombosis,diagnostic
+Read,G801G00,Recurrent deep vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,G81..00,Portal vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,G802000,Thrombosis of vein of leg,res25: P16_thrombosis,diagnostic
+Read,G822.00,Embolism and thrombosis of the vena cava,res25: P16_thrombosis,diagnostic
+Read,G821.00,Thrombophlebitis migrans,res25: P16_thrombosis,diagnostic
+Read,G820.11,Hepatic vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,G826.00,Thrombosis of internal jugular vein,res25: P16_thrombosis,diagnostic
+Read,G823.00,Embolism and thrombosis of the renal vein,res25: P16_thrombosis,diagnostic
+Read,G822000,Thrombosis of inferior vena cava,res25: P16_thrombosis,diagnostic
+Read,G825.00,Thrombosis of subclavian vein,res25: P16_thrombosis,diagnostic
+Read,G824.00,Axillary vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,G82z011,Embolism of vein NOS,res25: P16_thrombosis,diagnostic
+Read,G82zz00,Embolism and thrombosis NOS,res25: P16_thrombosis,diagnostic
+Read,G82z000,Embolus of vein NOS,res25: P16_thrombosis,diagnostic
+Read,G82y.00,Other embolism and thrombosis,res25: P16_thrombosis,diagnostic
+Read,G82z.00,Embolism and thrombosis NOS,res25: P16_thrombosis,diagnostic
+Read,G82z111,Penis vein thrombosis,res25: P16_thrombosis,diagnostic
+Read,G82z100,Thrombosis of vein NOS,res25: P16_thrombosis,diagnostic
+Read,Gyu6400,[X]Other cerebral infarction,res25: P16_thrombosis,diagnostic
+Read,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site,res25: P16_thrombosis,diagnostic
+Read,G8y4.00,Postthrombotic syndrome,res25: P16_thrombosis,diagnostic
+Read,J420.11,Acute ischaemic colitis and/or enteritis,res25: P16_thrombosis,diagnostic
+Read,F051100,Thrombosis of superior longitudinal sinus,res25: P16_thrombosis,diagnostic
+Read,F051z00,Thrombosis of central nervous system venous sinus NOS,res25: P16_thrombosis,diagnostic
+Read,G30..11,Attack - heart,res25: P16_thrombosis,diagnostic
+Read,G30..14,Heart attack,res25: P16_thrombosis,diagnostic
+Read,K138011,Renal artery embolus,res25: P16_thrombosis,diagnostic
+Read,L414.12,Phlegmasia alba dolens - obstetric,res25: P16_thrombosis,diagnostic
+Read,L430.00,Obstetric air pulmonary embolism,res25: P16_thrombosis,diagnostic
+Read,K138200,Renal artery thrombosis,res25: P16_thrombosis,diagnostic
+Read,J420.13,Gangrene - intestine,res25: P16_thrombosis,diagnostic

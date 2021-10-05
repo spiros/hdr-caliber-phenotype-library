@@ -1,0 +1,182 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E103100,subchronic paranoid schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E130.00,reactive depressive psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,E13z.11,Psychotic episode NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,E101z00,Hebephrenic schizophrenia NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,E101.00,Hebephrenic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E100400,Acute exacerbation of chronic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22011,[X]Paranoid psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,285..11,"psychotic condition, insight present",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25.00,[X]Schizoaffective disorders,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22y11,[X]Delusional dysmorphophobia,res59: Schizophrenia_spectrum,diagnostic
+Read,E10..00,Schizophrenic disorders,res59: Schizophrenia_spectrum,diagnostic
+Read,225F.00,o/e - delusion of persecution,res59: Schizophrenia_spectrum,diagnostic
+Read,E100.00,Simple schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E1...00,Non-organic psychoses,res59: Schizophrenia_spectrum,diagnostic
+Read,E105.00,Latent schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22z00,"[X]Persistent delusional disorder, unspecified",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu33313,[x]recurr severe episodes/major depression+psychotic symptom,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu33315,[x]recurrent severe episodes of psychotic depression,res59: Schizophrenia_spectrum,diagnostic
+Read,E103200,Chronic paranoid schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E14y.00,Other childhood psychoses,res59: Schizophrenia_spectrum,diagnostic
+Read,E141100,Residual disintegrative psychoses,res59: Schizophrenia_spectrum,diagnostic
+Read,E100300,Acute exacerbation of subchronic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu2y.11,[x]chronic hallucinatory psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,E130.11,psychotic reactive depression,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25112,"[x]schizophreniform psychosis, depressive type",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu32300,[x]severe depressive episode with psychotic symptoms,res59: Schizophrenia_spectrum,diagnostic
+Read,E10y.11,cenesthopathic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22000,[X]Delusional disorder,res59: Schizophrenia_spectrum,diagnostic
+Read,1BH..11,delusion,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25111,"[X]Schizoaffective psychosis, depressive type",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25z11,[X]Schizoaffective psychosis NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu32900,"[X]Single major depr ep, severe with psych, psych in remiss",res59: Schizophrenia_spectrum,diagnostic
+Read,E105200,Chronic latent schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25z00,"[X]Schizoaffective disorder, unspecified",res59: Schizophrenia_spectrum,diagnostic
+Read,E103500,Paranoid schizophrenia in remission,res59: Schizophrenia_spectrum,diagnostic
+Read,E102z00,catatonic schizophrenia nos,res59: Schizophrenia_spectrum,diagnostic
+Read,E14z.00,Child psychosis NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,1BH0.00,delusion of persecution,res59: Schizophrenia_spectrum,diagnostic
+Read,E107000,Unspecified schizo-affective schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E133.00,acute paranoid reaction,res59: Schizophrenia_spectrum,diagnostic
+Read,E10z.00,schizophrenia nos,res59: Schizophrenia_spectrum,diagnostic
+Read,E13..11,reactive psychoses,res59: Schizophrenia_spectrum,diagnostic
+Read,E134.00,psychogenic paranoid psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu32313,[x]single episode of psychotic depression,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu0z.12,[X]Symptomatic psychosis NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20y12,[X]Schizophreniform disord NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu21.11,[X]Latent schizophrenic reaction,res59: Schizophrenia_spectrum,diagnostic
+Read,E100z00,Simple schizophrenia NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22014,[X]Sensitiver Beziehungswahn,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20311,[X]Atypical schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E11z.00,Other and unspecified affective psychoses,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23214,[X]Schizophrenic reaction,res59: Schizophrenia_spectrum,diagnostic
+Read,E100000,Unspecified schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu24.00,[x]induced delusional disorder,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu33311,[x]endogenous depression with psychotic symptoms,res59: Schizophrenia_spectrum,diagnostic
+Read,E10yz00,other schizophrenia nos,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu24.12,[x]induced paranoid disorder,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20200,[X]Catatonic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E107300,Acute exacerbation subchronic schizo-affective schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E102.00,catatonic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E101000,Unspecified hebephrenic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E103400,Acute exacerbation of chronic paranoid schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20214,[X]Schizophrenic flexibilatis cerea,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20y13,[X]Schizophrenifrm psychos NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23y00,[X]Other acute and transient psychotic disorders,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23100,[X]Acute polymorphic psychot disord with symp of schizophren,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22012,[X]Paranoid state,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22015,[X]Paranoia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20600,[X]Simple schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E107400,Acute exacerbation of chronic schizo-affective schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,R001300,"[d]hallucinations, tactile",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25212,[X]Mixed schizophrenic and affective psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu33316,[x]recurrent severe episodes/reactive depressive psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23300,[X]Other acute predominantly delusional psychotic disorders,res59: Schizophrenia_spectrum,diagnostic
+Read,R001100,"[d]hallucinations, gustatory",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23212,[X]Brief schizophrenifrm psych,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23211,[X]Brief schizophreniform disorder,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22y12,[X]Involutional paranoid state,res59: Schizophrenia_spectrum,diagnostic
+Read,E12z.00,paranoid psychosis nos,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23312,[X]Psychogenic paranoid psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,E103.00,paranoid schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu84512,[X]Schizoid disorder of childhood,res59: Schizophrenia_spectrum,diagnostic
+Read,ZS7C611,schizophrenic language,res59: Schizophrenia_spectrum,diagnostic
+Read,Ryu5300,[x]other hallucinations,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22111,[X]Capgras syndrome,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23012,[X]Cycloid psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23112,[X]Cycloid psychosis with symptoms of schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu33300,[X]Recurrent depress disorder cur epi severe with psyc symp,res59: Schizophrenia_spectrum,diagnostic
+Read,E102500,Catatonic schizophrenia in remission,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23200,[X]Acute schizophrenia-like psychotic disorder,res59: Schizophrenia_spectrum,diagnostic
+Read,E100200,Chronic schizophrenic,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25011,"[x]schizoaffective psychosis, manic type",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25211,[x]cyclic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E105000,Unspecified latent schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20213,[X]Schizophrenic catatonia,res59: Schizophrenia_spectrum,diagnostic
+Read,E10y100,coenesthopathic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E14..00,Psychoses with origin in childhood,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20500,[X]Residual schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25000,"[x]schizoaffective disorder, manic type",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23z00,"[X]Acute and transient psychotic disorder, unspecified",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23000,[X]Acute polymorphic psychot disord without symp of schizoph,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu23.00,[X]Acute and transient psychotic disorders,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22y00,[X]Other persistent delusional disorders,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22100,[X]Delusional misidentification syndrome,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22013,[X]Paraphrenia - late,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20100,[X]Hebephrenic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20212,[X]Schizophrenic catalepsy,res59: Schizophrenia_spectrum,diagnostic
+Read,E1z..00,Non-organic psychosis NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20000,[X]Paranoid schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20z00,"[X]Schizophrenia, unspecified",res59: Schizophrenia_spectrum,diagnostic
+Read,E107500,Schizo-affective schizophrenia in remission,res59: Schizophrenia_spectrum,diagnostic
+Read,E141.00,Disintegrative psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,E123.00,shared paranoid disorder,res59: Schizophrenia_spectrum,diagnostic
+Read,E13z.00,Nonorganic psychosis NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,E10y000,atypical schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E10y.00,Other schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20y00,[X]Other schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu32314,[x]single episode of reactive depressive psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20111,[X]Disorganised schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E107z00,Schizo-affective schizophrenia NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,E107100,Subchronic schizo-affective schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E100500,Schizophrenia in remission,res59: Schizophrenia_spectrum,diagnostic
+Read,1BH1.00,grandiose delusions,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu32312,[x]single episode of psychogenic depressive psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,1BH..00,delusions,res59: Schizophrenia_spectrum,diagnostic
+Read,225E.00,o/e - paranoid delusions,res59: Schizophrenia_spectrum,diagnostic
+Read,E1y..00,Other specified non-organic psychoses,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20511,[X]Chronic undifferentiated schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25100,"[X]Schizoaffective disorder, depressive type",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20211,[X]Catatonic stupor,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu2z.00,[X]Unspecified nonorganic psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25012,"[x]schizophreniform psychosis, manic type",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20.00,[X]Schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu32311,[x]single episode of major depression and psychotic symptoms,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu21.14,[X]Prepsychotic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E102400,acute exacerbation of chronic catatonic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25y00,[X]Other schizoaffective disorders,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20011,[X]Paraphrenic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu20300,[X]Undifferentiated schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E14z.11,Childhood schizophrenia NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu2..00,"[X]Schizophrenia, schizotypal and delusional disorders",res59: Schizophrenia_spectrum,diagnostic
+Read,E12y000,paranoia querulans,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu21.16,[X]Pseudoneurotic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E11zz00,Other affective psychosis NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,E13..00,Other nonorganic psychoses,res59: Schizophrenia_spectrum,diagnostic
+Read,E121.00,chronic paranoid psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,E122.00,paraphrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E106.00,Residual schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E107200,Chronic schizo-affective schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E107.00,Schizo-affective schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E107.11,cyclic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E11z000,Unspecified affective psychoses NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,E105z00,Latent schizophrenia NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,R001200,"[d]hallucinations, olfactory",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu44.14,[x]hysterical psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,E103z00,Paranoid schizophrenia NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,E105500,Latent schizophrenia in remission,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu2y.00,[X]Other nonorganic psychotic disorders,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu21.17,[X]Pseudopsychopathic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu25200,"[X]Schizoaffective disorder, mixed type",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu84314,[x]symbiotic psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,E14yz00,Other childhood psychoses NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,E103000,unspecified paranoid schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E102100,subchronic catatonic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu21.13,[X]Latent schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E101500,Hebephrenic schizophrenia in remission,res59: Schizophrenia_spectrum,diagnostic
+Read,E102000,unspecified catatonic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu24.13,[x]induced psychotic disorder,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu02z12,[X] Presenile psychosis NOS,res59: Schizophrenia_spectrum,diagnostic
+Read,R001000,"[d]hallucinations, auditory",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu32A00,"[X]Recurr major depr ep, severe with psych, psych in remiss",res59: Schizophrenia_spectrum,diagnostic
+Read,Eu22.00,[X]Persistent delusional disorders,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu21.15,[X]Prodromal schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu2z.11,[x]psychosis nos,res59: Schizophrenia_spectrum,diagnostic
+Read,E104.00,Acute schizophrenic episode,res59: Schizophrenia_spectrum,diagnostic
+Read,Eu33314,[x]recurr severe episodes/psychogenic depressive psychosis,res59: Schizophrenia_spectrum,diagnostic
+Read,R001z00,[d]hallucinations nos,res59: Schizophrenia_spectrum,diagnostic
+Read,E100100,Subchronic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E101400,Acute exacerbation of chronic hebephrenic schizophrenia,res59: Schizophrenia_spectrum,diagnostic
+Read,E100.11,Schizophrenia simplex,res59: Schizophrenia_spectrum,diagnostic
+Read,E103300,Acute exacerbation of subchronic paranoid schizophrenia,res59: Schizophrenia_spectrum,diagnostic

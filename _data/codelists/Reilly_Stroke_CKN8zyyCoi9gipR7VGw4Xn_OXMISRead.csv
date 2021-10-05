@@ -1,0 +1,85 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4369AL,CEREBROVASCULAR ACCIDENT LEFT,res26: Stroke,diagnostic
+OXMIS,4350AT,TRANSIENT ISCHAEMIC ATTACKS WITH HYPERTE,res26: Stroke,diagnostic
+OXMIS,4369AR,CEREBROVASCULAR ACCIDENT RIGHT,res26: Stroke,diagnostic
+OXMIS,4369B,STROKE,res26: Stroke,diagnostic
+OXMIS,4359AT,TRANSIENT ISCHAEMIC ATTACKS,res26: Stroke,diagnostic
+OXMIS,4369A,CVA (CEREBROVASCULAR ACCIDENT),res26: Stroke,diagnostic
+OXMIS,4360A,CEREBROVASCULAR ACCIDENT WITH HYPERTENSI,res26: Stroke,diagnostic
+OXMIS,4369BN,SYNDROME STROKE,res26: Stroke,diagnostic
+OXMIS,4360B,STROKE WITH HYPERTENSION,res26: Stroke,diagnostic
+Read,G650.11,Insufficiency - basilar artery,res26: Stroke,diagnostic
+Read,G64z111,Lateral medullary syndrome,res26: Stroke,diagnostic
+Read,G61..00,Intracerebral haemorrhage,res26: Stroke,diagnostic
+Read,G65..12,Transient ischaemic attack,res26: Stroke,diagnostic
+Read,G66..11,CVA unspecified,res26: Stroke,diagnostic
+Read,G65..00,Transient cerebral ischaemia,res26: Stroke,diagnostic
+Read,G64..12,Infarction - cerebral,res26: Stroke,diagnostic
+Read,G61z.00,Intracerebral haemorrhage NOS,res26: Stroke,diagnostic
+Read,G65z.00,Transient cerebral ischaemia NOS,res26: Stroke,diagnostic
+Read,G66..00,Stroke and cerebrovascular accident unspecified,res26: Stroke,diagnostic
+Read,G64z.00,Cerebral infarction NOS,res26: Stroke,diagnostic
+Read,G65..13,Vertebro-basilar insufficiency,res26: Stroke,diagnostic
+Read,G65..11,Drop attack,res26: Stroke,diagnostic
+Read,G615.00,Bulbar haemorrhage,res26: Stroke,diagnostic
+Read,G651000,Vertebro-basilar artery syndrome,res26: Stroke,diagnostic
+Read,G656.00,Vertebrobasilar insufficiency,res26: Stroke,diagnostic
+Read,G66..12,Stroke unspecified,res26: Stroke,diagnostic
+Read,G64..11,CVA - cerebral artery occlusion,res26: Stroke,diagnostic
+Read,G64..13,Stroke due to cerebral arterial occlusion,res26: Stroke,diagnostic
+Read,G64z.12,Cerebellar infarction,res26: Stroke,diagnostic
+Read,G66..13,CVA - Cerebrovascular accident unspecified,res26: Stroke,diagnostic
+Read,G64z300,Right sided cerebral infarction,res26: Stroke,diagnostic
+Read,G614.00,Pontine haemorrhage,res26: Stroke,diagnostic
+Read,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,res26: Stroke,diagnostic
+Read,G667.00,Left sided CVA,res26: Stroke,diagnostic
+Read,G64z200,Left sided cerebral infarction,res26: Stroke,diagnostic
+Read,G663.00,Brain stem stroke syndrome,res26: Stroke,diagnostic
+Read,G64..00,Cerebral arterial occlusion,res26: Stroke,diagnostic
+Read,G65y.00,Other transient cerebral ischaemia,res26: Stroke,diagnostic
+Read,G640.00,Cerebral thrombosis,res26: Stroke,diagnostic
+Read,G641.00,Cerebral embolism,res26: Stroke,diagnostic
+Read,G668.00,Right sided CVA,res26: Stroke,diagnostic
+Read,G613.00,Cerebellar haemorrhage,res26: Stroke,diagnostic
+Read,G65z100,Intermittent cerebral ischaemia,res26: Stroke,diagnostic
+Read,G64z.11,Brainstem infarction NOS,res26: Stroke,diagnostic
+Read,G65zz00,Transient cerebral ischaemia NOS,res26: Stroke,diagnostic
+Read,G661.00,Anterior cerebral artery syndrome,res26: Stroke,diagnostic
+Read,G61..12,Stroke due to intracerebral haemorrhage,res26: Stroke,diagnostic
+Read,G664.00,Cerebellar stroke syndrome,res26: Stroke,diagnostic
+Read,G662.00,Posterior cerebral artery syndrome,res26: Stroke,diagnostic
+Read,G660.00,Middle cerebral artery syndrome,res26: Stroke,diagnostic
+Read,G61X100,"Right sided intracerebral haemorrhage, unspecified",res26: Stroke,diagnostic
+Read,G618.00,"Intracerebral haemorrhage, multiple localized",res26: Stroke,diagnostic
+Read,G665.00,Pure motor lacunar syndrome,res26: Stroke,diagnostic
+Read,G64z000,Brainstem infarction,res26: Stroke,diagnostic
+Read,G652.00,Subclavian steal syndrome,res26: Stroke,diagnostic
+Read,G63y100,Cerebral infarction due to embolism of precerebral arteries,res26: Stroke,diagnostic
+Read,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,res26: Stroke,diagnostic
+Read,G650.00,Basilar artery syndrome,res26: Stroke,diagnostic
+Read,G651.00,Vertebral artery syndrome,res26: Stroke,diagnostic
+Read,G61X000,"Left sided intracerebral haemorrhage, unspecified",res26: Stroke,diagnostic
+Read,G64z400,Infarction of basal ganglia,res26: Stroke,diagnostic
+Read,G641000,Cerebral infarction due to embolism of cerebral arteries,res26: Stroke,diagnostic
+Read,G610.00,Cortical haemorrhage,res26: Stroke,diagnostic
+Read,G616.00,External capsule haemorrhage,res26: Stroke,diagnostic
+Read,G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified",res26: Stroke,diagnostic
+Read,L440.12,Stroke in the puerperium,res26: Stroke,diagnostic
+Read,G612.00,Basal nucleus haemorrhage,res26: Stroke,diagnostic
+Read,G640000,Cerebral infarction due to thrombosis of cerebral arteries,res26: Stroke,diagnostic
+Read,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res26: Stroke,diagnostic
+Read,G641.11,Cerebral embolus,res26: Stroke,diagnostic
+Read,G653.00,Carotid artery syndrome hemispheric,res26: Stroke,diagnostic
+Read,G611.00,Internal capsule haemorrhage,res26: Stroke,diagnostic
+Read,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,res26: Stroke,diagnostic
+Read,G65z000,Impending cerebral ischaemia,res26: Stroke,diagnostic
+Read,G654.00,Multiple and bilateral precerebral artery syndromes,res26: Stroke,diagnostic
+Read,L440.11,CVA - cerebrovascular accident in the puerperium,res26: Stroke,diagnostic
+Read,G64z100,Wallenberg syndrome,res26: Stroke,diagnostic
+Read,Gyu6200,[X]Other intracerebral haemorrhage,res26: Stroke,diagnostic
+Read,G666.00,Pure sensory lacunar syndrome,res26: Stroke,diagnostic
+Read,Gyu6400,[X]Other cerebral infarction,res26: Stroke,diagnostic
+Read,Gyu6500,[X]Occlusion and stenosis of other precerebral arteries,res26: Stroke,diagnostic
+Read,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res26: Stroke,diagnostic
+Read,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,res26: Stroke,diagnostic
+Read,Gyu6600,[X]Occlusion and stenosis of other cerebral arteries,res26: Stroke,diagnostic

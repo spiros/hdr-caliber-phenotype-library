@@ -1,0 +1,7 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B4A1100,Malig neop ureteropelvic junct,res24: renal cancer,diagnostic
+Read,B4A1000,Malig neop renal calyces,res24: renal cancer,diagnostic
+Read,B4A0.00,Malig neop kidney parenchyma,res24: renal cancer,diagnostic
+Read,B4A1.00,Malig neop renal pelvis,res24: renal cancer,diagnostic
+Read,B4A0000,Hypernephroma,res24: renal cancer,diagnostic
+Read,B4A1z00,Malig neop renal pelvis NOS,res24: renal cancer,diagnostic

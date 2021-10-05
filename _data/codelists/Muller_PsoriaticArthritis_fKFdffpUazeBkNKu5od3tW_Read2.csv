@@ -1,0 +1,8 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,M160.11,Psoriatic arthritis,res34: psoriatic_arthritis,diagnostic
+Read,M160.00,Psoriatic arthropathy,res34: psoriatic_arthritis,diagnostic
+Read,M160z00,Psoriatic arthropathy NOS,res34: psoriatic_arthritis,diagnostic
+Read,M160100,Distal interphalangeal psoriatic arthropathy,res34: psoriatic_arthritis,diagnostic
+Read,M160200,Arthritis mutilans,res34: psoriatic_arthritis,diagnostic
+Read,M160000,Psoriasis spondylitica,res34: psoriatic_arthritis,diagnostic
+Read,Nyu1300,[X]Other psoriatic arthropathies,res34: psoriatic_arthritis,diagnostic

@@ -1,0 +1,613 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G307000,Acute non-Q wave infarction,res46: Cardiovascular Event,diagnostic
+Read,G64z111,Lateral medullary syndrome,res46: Cardiovascular Event,diagnostic
+Read,G618.00,"Intracerebral haemorrhage, multiple localized",res46: Cardiovascular Event,diagnostic
+Read,7A19200,Open embolectomy of bifurcation of aorta,res46: Cardiovascular Event,diagnostic
+Read,7A49z00,Reconstruction of femoral or popliteal artery NOS,res46: Cardiovascular Event,diagnostic
+Read,8B27.00,Antianginal therapy,res46: Cardiovascular Event,diagnostic
+Read,G64z200,Left sided cerebral infarction,res46: Cardiovascular Event,diagnostic
+Read,G330.00,Angina decubitus,res46: Cardiovascular Event,diagnostic
+Read,G64z.00,Cerebral infarction NOS,res46: Cardiovascular Event,diagnostic
+Read,G301z00,Anterior myocardial infarction NOS,res46: Cardiovascular Event,diagnostic
+Read,7A47.00,Other emergency bypass of femoral artery or popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,G73z011,Claudication,res46: Cardiovascular Event,diagnostic
+Read,G73..13,Peripheral ischaemia,res46: Cardiovascular Event,diagnostic
+Read,7A20311,Carotid endarterectomy and patch,res46: Cardiovascular Event,diagnostic
+Read,G64z300,Right sided cerebral infarction,res46: Cardiovascular Event,diagnostic
+Read,7A13.00,Emergency replacement of aneurysmal segment of aorta,res46: Cardiovascular Event,diagnostic
+Read,C315100,"Mitochond encephalopathy, lact acidosis & strokelike episode",res46: Cardiovascular Event,diagnostic
+Read,5562,Abdominal aortogram abnormal,res46: Cardiovascular Event,diagnostic
+Read,G6z..00,Cerebrovascular disease NOS,res46: Cardiovascular Event,diagnostic
+Read,E004200,Arteriosclerotic dementia with paranoia,res46: Cardiovascular Event,diagnostic
+Read,7A14y00,Other replacement of aneurysmal segment of aorta OS,res46: Cardiovascular Event,diagnostic
+Read,7A12y00,Other specified other bypass of bifurcation of aorta,res46: Cardiovascular Event,diagnostic
+Read,7A41B00,Bypass leg artery by aorta/com femoral art anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,7A45000,Emerg replace aneurysm fem art by fem/pop art anast c prosth,res46: Cardiovascular Event,diagnostic
+Read,G677300,Occlusion and stenosis of cerebellar arteries,res46: Cardiovascular Event,diagnostic
+Read,E004100,Arteriosclerotic dementia with delirium,res46: Cardiovascular Event,diagnostic
+Read,G601.00,Subarachnoid haemorrhage from carotid siphon and bifurcation,res46: Cardiovascular Event,diagnostic
+Read,7A47300,Emerg bypass pop art by pop/pop art anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,7A44z00,Transluminal operation on iliac artery NOS,res46: Cardiovascular Event,diagnostic
+Read,7A1B700,Endovascular stenting for aorto-uniiliac aneurysm,res46: Cardiovascular Event,diagnostic
+Read,C107400,NIDDM with peripheral circulatory disorder,res46: Cardiovascular Event,diagnostic
+Read,L440.12,Stroke in the puerperium,res46: Cardiovascular Event,diagnostic
+Read,7A46D00,Replace aneurysm popliteal artery by pop/fem anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,7A42z00,Reconstruction of iliac artery NOS,res46: Cardiovascular Event,diagnostic
+Read,7A11300,Replace aneurysm bifurc aorta by anast aorta to iliac artery,res46: Cardiovascular Event,diagnostic
+Read,8HHM.00,Ref to multidisciplinary stroke function improvement service,res46: Cardiovascular Event,diagnostic
+Read,7A11100,Replace aneurysm bifurc aorta by anast aorta to femoral art,res46: Cardiovascular Event,diagnostic
+Read,G673200,Carotid artery dissection,res46: Cardiovascular Event,diagnostic
+Read,9h22.00,Excepted from stroke quality indicators: Informed dissent,res46: Cardiovascular Event,diagnostic
+Read,G677100,Occlusion and stenosis of anterior cerebral artery,res46: Cardiovascular Event,diagnostic
+Read,14NB.00,H/O: Peripheral vascular disease procedure,res46: Cardiovascular Event,diagnostic
+Read,G63..11,Infarction - precerebral,res46: Cardiovascular Event,diagnostic
+Read,44H3000,Cardiac enzymes abnormal - first set,res46: Cardiovascular Event,diagnostic
+Read,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,res46: Cardiovascular Event,diagnostic
+Read,7A49400,Profundoplasty femoral artery & patch repair deep fem artery,res46: Cardiovascular Event,diagnostic
+Read,G307100,Acute non-ST segment elevation myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,G331.11,Variant angina pectoris,res46: Cardiovascular Event,diagnostic
+Read,662M.00,Stroke monitoring,res46: Cardiovascular Event,diagnostic
+Read,7A44.11,Transluminal operations on common iliac artery,res46: Cardiovascular Event,diagnostic
+Read,9h21.00,Excepted from stroke quality indicators: Patient unsuitable,res46: Cardiovascular Event,diagnostic
+Read,G656.00,Vertebrobasilar insufficiency,res46: Cardiovascular Event,diagnostic
+Read,323Z.00,ECG: myocardial infarct NOS,res46: Cardiovascular Event,diagnostic
+Read,7A44000,Percutaneous transluminal angioplasty of iliac artery,res46: Cardiovascular Event,diagnostic
+Read,9h2..00,Exception reporting: stroke quality indicators,res46: Cardiovascular Event,diagnostic
+Read,7A46100,Replace aneurysm pop art by pop/pop art anastom c prosth NEC,res46: Cardiovascular Event,diagnostic
+Read,7A43z00,Other open operation on iliac artery NOS,res46: Cardiovascular Event,diagnostic
+Read,G671z00,Generalised ischaemic cerebrovascular disease NOS,res46: Cardiovascular Event,diagnostic
+Read,7A40.00,Replacement of aneurysmal iliac artery,res46: Cardiovascular Event,diagnostic
+Read,G715000,"Thoracoabdominal aortic aneurysm, ruptured",res46: Cardiovascular Event,diagnostic
+Read,C108600,Insulin dependent diabetes mellitus with gangrene,res46: Cardiovascular Event,diagnostic
+Read,7A47.16,Other emergency bypass of femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A42012,Iliac endarterectomy and patch,res46: Cardiovascular Event,diagnostic
+Read,7A48500,Bypass popliteal artery by pop/tib a anast c prosthesis NEC,res46: Cardiovascular Event,diagnostic
+Read,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,res46: Cardiovascular Event,diagnostic
+Read,7NB6600,[SO]Internal carotid artery,res46: Cardiovascular Event,diagnostic
+Read,5C10.00,Carotid artery doppler abnormal,res46: Cardiovascular Event,diagnostic
+Read,7A4A.11,Other open operations on common femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A48.15,Other bypass of popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,G300.00,Acute anterolateral infarction,res46: Cardiovascular Event,diagnostic
+Read,7A42000,Endarterectomy and patch repair of iliac artery,res46: Cardiovascular Event,diagnostic
+Read,7A12111,Aorto bifemoral graft,res46: Cardiovascular Event,diagnostic
+Read,C10F500,Type 2 diabetes mellitus with gangrene,res46: Cardiovascular Event,diagnostic
+Read,7A4A212,Open femoral embolectomy,res46: Cardiovascular Event,diagnostic
+Read,7A45.00,Emergency replacement of aneurysmal femoral/popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,G30..11,Attack - heart,res46: Cardiovascular Event,diagnostic
+Read,G33z700,Stable angina,res46: Cardiovascular Event,diagnostic
+Read,7A43000,Repair of iliac artery NEC,res46: Cardiovascular Event,diagnostic
+Read,C109F12,Type 2 diabetes mellitus with peripheral angiopathy,res46: Cardiovascular Event,diagnostic
+Read,C109511,Type II diabetes mellitus with gangrene,res46: Cardiovascular Event,diagnostic
+Read,7A14400,Replace aneurysm abdominal aorta by anast aorta to aorta NEC,res46: Cardiovascular Event,diagnostic
+Read,7A43100,Open embolectomy of iliac artery,res46: Cardiovascular Event,diagnostic
+Read,7A48.11,Other bypass of femoral or popliteal artery by anastomosis,res46: Cardiovascular Event,diagnostic
+Read,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,7A45200,Emerg replace aneurysm fem art by fem/pop anast c vein graft,res46: Cardiovascular Event,diagnostic
+Read,889A.00,Diab mellit insulin-glucose infus acute myocardial infarct,res46: Cardiovascular Event,diagnostic
+Read,G331.00,Prinzmetal's angina,res46: Cardiovascular Event,diagnostic
+Read,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif",res46: Cardiovascular Event,diagnostic
+Read,G613.00,Cerebellar haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,G668.00,Right sided CVA,res46: Cardiovascular Event,diagnostic
+Read,G71z.00,Aortic aneurysm NOS,res46: Cardiovascular Event,diagnostic
+Read,ZV12512,[V]Personal history of cerebrovascular accident (CVA),res46: Cardiovascular Event,diagnostic
+Read,G664.00,Cerebellar stroke syndrome,res46: Cardiovascular Event,diagnostic
+Read,7A44300,Insertion of iliac artery stent,res46: Cardiovascular Event,diagnostic
+Read,662K.00,Angina control,res46: Cardiovascular Event,diagnostic
+Read,G311100,Unstable angina,res46: Cardiovascular Event,diagnostic
+Read,7A4..11,Leg artery operations,res46: Cardiovascular Event,diagnostic
+Read,32B3.00,ECG: Q wave pathological,res46: Cardiovascular Event,diagnostic
+Read,7A47B00,Emerg bypass pop art by pop/peron art anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,G702.00,Extremity artery atheroma,res46: Cardiovascular Event,diagnostic
+Read,7A49200,Endarterectomy of femoral artery NEC,res46: Cardiovascular Event,diagnostic
+Read,G714.11,AAA - Abdominal aortic aneurysm without mention of rupture,res46: Cardiovascular Event,diagnostic
+Read,G30..16,Thrombosis - coronary,res46: Cardiovascular Event,diagnostic
+Read,G622.00,Subdural haematoma - nontraumatic,res46: Cardiovascular Event,diagnostic
+Read,7A2..00,"Carotid, cerebral and subclavian artery operations",res46: Cardiovascular Event,diagnostic
+Read,G30..17,Silent myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,5593,Femoral arteriogram abnormal,res46: Cardiovascular Event,diagnostic
+Read,G660.00,Middle cerebral artery syndrome,res46: Cardiovascular Event,diagnostic
+Read,G301100,Acute anteroseptal infarction,res46: Cardiovascular Event,diagnostic
+Read,G713.00,Abdominal aortic aneurysm which has ruptured,res46: Cardiovascular Event,diagnostic
+Read,G663.00,Brain stem stroke syndrome,res46: Cardiovascular Event,diagnostic
+Read,9N4X.00,DNA - Did not attend stroke clinic,res46: Cardiovascular Event,diagnostic
+Read,7A48.14,Other bypass of femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A50200,Revision of reconstruction involving femoral artery,res46: Cardiovascular Event,diagnostic
+Read,G311400,Worsening angina,res46: Cardiovascular Event,diagnostic
+Read,662e.00,Stroke/CVA annual review,res46: Cardiovascular Event,diagnostic
+Read,G61..12,Stroke due to intracerebral haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,S62A.00,Traumatic extradural haematoma,res46: Cardiovascular Event,diagnostic
+Read,G330000,Nocturnal angina,res46: Cardiovascular Event,diagnostic
+Read,G311.14,Angina at rest,res46: Cardiovascular Event,diagnostic
+Read,662K000,Angina control - good,res46: Cardiovascular Event,diagnostic
+Read,ZV12511,[V]Personal history of stroke,res46: Cardiovascular Event,diagnostic
+Read,662K200,Angina control - improving,res46: Cardiovascular Event,diagnostic
+Read,G67..00,Other cerebrovascular disease,res46: Cardiovascular Event,diagnostic
+Read,7A22y00,Other specified transluminal operation on carotid artery,res46: Cardiovascular Event,diagnostic
+Read,G35..00,Subsequent myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,G661.00,Anterior cerebral artery syndrome,res46: Cardiovascular Event,diagnostic
+Read,G61X100,"Right sided intracerebral haemorrhage, unspecified",res46: Cardiovascular Event,diagnostic
+Read,G623.00,Subdural haemorrhage NOS,res46: Cardiovascular Event,diagnostic
+Read,E004.00,Arteriosclerotic dementia,res46: Cardiovascular Event,diagnostic
+Read,G713.11,Ruptured abdominal aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,G602.00,Subarachnoid haemorrhage from middle cerebral artery,res46: Cardiovascular Event,diagnostic
+Read,G30z.00,Acute myocardial infarction NOS,res46: Cardiovascular Event,diagnostic
+Read,G30y100,Acute papillary muscle infarction,res46: Cardiovascular Event,diagnostic
+Read,7A11y00,Replacement of aneurysmal bifurcation of aorta OS,res46: Cardiovascular Event,diagnostic
+Read,G37..00,Cardiac syndrome X,res46: Cardiovascular Event,diagnostic
+Read,7A4A700,Repair of femoral artery with temporary silastic shunt,res46: Cardiovascular Event,diagnostic
+Read,S622.00,Closed traumatic subdural haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,G715.00,Ruptured aortic aneurysm NOS,res46: Cardiovascular Event,diagnostic
+Read,7A47.13,Other emergency bypass of deep femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A20000,Replacement of carotid artery using graft,res46: Cardiovascular Event,diagnostic
+Read,7A48z00,Other bypass of femoral artery or popliteal artery NOS,res46: Cardiovascular Event,diagnostic
+Read,G302.00,Acute inferolateral infarction,res46: Cardiovascular Event,diagnostic
+Read,G610.00,Cortical haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,G62z.00,Intracranial haemorrhage NOS,res46: Cardiovascular Event,diagnostic
+Read,G33z300,Angina on effort,res46: Cardiovascular Event,diagnostic
+Read,7A20.00,Reconstruction of carotid artery,res46: Cardiovascular Event,diagnostic
+Read,7A47D00,Emerg bypass popliteal artery by pop/fem art anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder",res46: Cardiovascular Event,diagnostic
+Read,7N44000,[SO]Carotid artery,res46: Cardiovascular Event,diagnostic
+Read,G713000,Ruptured suprarenal aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,7A42.11,Reconstruction of common iliac artery,res46: Cardiovascular Event,diagnostic
+Read,G63..12,Stenosis of precerebral arteries,res46: Cardiovascular Event,diagnostic
+Read,G305.00,Lateral myocardial infarction NOS,res46: Cardiovascular Event,diagnostic
+Read,G30..14,Heart attack,res46: Cardiovascular Event,diagnostic
+Read,G30..00,Acute myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,7A13411,Tube graft abdominal Aortic aneurysm (emergency),res46: Cardiovascular Event,diagnostic
+Read,Fyu5700,[X]Other vascular syndroms/brain in cerebrovasculr diseases,res46: Cardiovascular Event,diagnostic
+Read,7A49.13,Reconstruction of femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A4Bz00,Transluminal operation on femoral or popliteal artery NOS,res46: Cardiovascular Event,diagnostic
+Read,G64..12,Infarction - cerebral,res46: Cardiovascular Event,diagnostic
+Read,7A49500,Profundoplasty and patch repair of popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,7A12z00,Other bypass of bifurcation of aorta NOS,res46: Cardiovascular Event,diagnostic
+Read,G33..00,Angina pectoris,res46: Cardiovascular Event,diagnostic
+Read,G714.00,Abdominal aortic aneurysm without mention of rupture,res46: Cardiovascular Event,diagnostic
+Read,G641.00,Cerebral embolism,res46: Cardiovascular Event,diagnostic
+Read,G66..00,Stroke and cerebrovascular accident unspecified,res46: Cardiovascular Event,diagnostic
+Read,7N48200,[SO]Carotid body,res46: Cardiovascular Event,diagnostic
+Read,7A4A800,Repair of popliteal artery with temporary silastic shunt,res46: Cardiovascular Event,diagnostic
+Read,G671000,Acute cerebrovascular insufficiency NOS,res46: Cardiovascular Event,diagnostic
+Read,G742z00,Peripheral arterial embolism and thrombosis NOS,res46: Cardiovascular Event,diagnostic
+Read,G64z.11,Brainstem infarction NOS,res46: Cardiovascular Event,diagnostic
+Read,G73z000,Intermittent claudication,res46: Cardiovascular Event,diagnostic
+Read,7A48100,Bypass popliteal artery by pop/pop a anast c prosthesis NEC,res46: Cardiovascular Event,diagnostic
+Read,C108G00,Insulin dependent diab mell with peripheral angiopathy,res46: Cardiovascular Event,diagnostic
+Read,7A50.00,Revision of reconstruction of artery,res46: Cardiovascular Event,diagnostic
+Read,G311.13,Unstable angina,res46: Cardiovascular Event,diagnostic
+Read,7A49700,Profundoplasty of popliteal artery NEC,res46: Cardiovascular Event,diagnostic
+Read,7A47400,Emerg bypass femoral art by fem/tib art anast c prosth NEC,res46: Cardiovascular Event,diagnostic
+Read,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder,res46: Cardiovascular Event,diagnostic
+Read,7A50300,Revision of reconstruction of popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,7A13300,Emerg replace aneurysm infrarenal aorta by anast aorta/aorta,res46: Cardiovascular Event,diagnostic
+Read,7A41C00,Bypass leg artery by aorta/deep femoral art anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,G677200,Occlusion and stenosis of posterior cerebral artery,res46: Cardiovascular Event,diagnostic
+Read,7A47y00,Other emergency bypass of femoral or popliteal artery OS,res46: Cardiovascular Event,diagnostic
+Read,7A11z00,Replacement of aneurysmal bifurcation of aorta NOS,res46: Cardiovascular Event,diagnostic
+Read,G33z000,Status anginosus,res46: Cardiovascular Event,diagnostic
+Read,7A43011,Repair of common iliac artery NEC,res46: Cardiovascular Event,diagnostic
+Read,G30..15,MI - acute myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,7A47100,Emerg bypass popliteal art by pop/pop art anast c prosth NEC,res46: Cardiovascular Event,diagnostic
+Read,7A47700,Emerg bypass pop art by pop/tib art anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,C107000,"Diabetes mellitus, juvenile +peripheral circulatory disorder",res46: Cardiovascular Event,diagnostic
+Read,G308.00,Inferior myocardial infarction NOS,res46: Cardiovascular Event,diagnostic
+Read,14AK.00,H/O: Stroke in last year,res46: Cardiovascular Event,diagnostic
+Read,G31y100,Microinfarction of heart,res46: Cardiovascular Event,diagnostic
+Read,G73..12,Ischaemia of legs,res46: Cardiovascular Event,diagnostic
+Read,7A49y00,Reconstruction of femoral or popliteal artery OS,res46: Cardiovascular Event,diagnostic
+Read,7A41600,Emerg bypass leg artery by aorta/com fem art anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,7A44100,Percutaneous transluminal embolectomy of iliac artery,res46: Cardiovascular Event,diagnostic
+Read,7A20y00,Other specified reconstruction of carotid artery,res46: Cardiovascular Event,diagnostic
+Read,7A41400,Emerg bypass comm iliac art by aorta/com iliac art anast NEC,res46: Cardiovascular Event,diagnostic
+Read,7A22200,Endovascular repair of carotid artery,res46: Cardiovascular Event,diagnostic
+Read,7A48800,Bypass femoral artery by fem/peron a anast c prosthesis NEC,res46: Cardiovascular Event,diagnostic
+Read,7A47z00,Other emergency bypass of femoral or popliteal artery NOS,res46: Cardiovascular Event,diagnostic
+Read,7A26C00,Endarterectomy of vertebral artery NEC,res46: Cardiovascular Event,diagnostic
+Read,7A1B000,Endovascular stenting infrarenal abdominal aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,7A14.11,Aortic aneurysm repair,res46: Cardiovascular Event,diagnostic
+Read,G71..00,Aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,7A46.11,Other replacement aneurysmal femoral artery by anastomosis,res46: Cardiovascular Event,diagnostic
+Read,7A28500,Percutaneous transluminal embolectomy of vertebral artery,res46: Cardiovascular Event,diagnostic
+Read,7A26.11,Reconstruction of vertebral artery,res46: Cardiovascular Event,diagnostic
+Read,G38z.00,"Postoperative myocardial infarction, unspecified",res46: Cardiovascular Event,diagnostic
+Read,7A48B00,Bypass popliteal art by pop/peron art anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,8B3g.00,Pain to thrombolysis time,res46: Cardiovascular Event,diagnostic
+Read,7A46.00,Other replacement of aneurysmal femoral artery,res46: Cardiovascular Event,diagnostic
+Read,C107300,IDDM with peripheral circulatory disorder,res46: Cardiovascular Event,diagnostic
+Read,7A21z00,Other open operation on carotid artery NOS,res46: Cardiovascular Event,diagnostic
+Read,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,res46: Cardiovascular Event,diagnostic
+Read,C10E600,Type 1 diabetes mellitus with gangrene,res46: Cardiovascular Event,diagnostic
+Read,7A49900,Reconstruction of popliteal artery with vein graft,res46: Cardiovascular Event,diagnostic
+Read,7A11200,Emerg repl aneurysm bifurc aorta by anast aorta to iliac a,res46: Cardiovascular Event,diagnostic
+Read,7A45.15,Emergency replacement aneurysmal superficial femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A12100,Bypass bifurc aorta by anastom aorta to femoral artery NEC,res46: Cardiovascular Event,diagnostic
+Read,G65..13,Vertebro-basilar insufficiency,res46: Cardiovascular Event,diagnostic
+Read,662Kz00,Angina control NOS,res46: Cardiovascular Event,diagnostic
+Read,S625.00,Open traumatic extradural haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,G631.11,"Stenosis, carotid artery",res46: Cardiovascular Event,diagnostic
+Read,7A41.00,Other bypass of iliac artery,res46: Cardiovascular Event,diagnostic
+Read,G6...00,Cerebrovascular disease,res46: Cardiovascular Event,diagnostic
+Read,7A20200,Bypass to carotid artery NEC,res46: Cardiovascular Event,diagnostic
+Read,F14..11,Cerebellar disease,res46: Cardiovascular Event,diagnostic
+Read,G64..00,Cerebral arterial occlusion,res46: Cardiovascular Event,diagnostic
+Read,7A4A.13,Other open operations on popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,Gyu6600,[X]Occlusion and stenosis of other cerebral arteries,res46: Cardiovascular Event,diagnostic
+Read,7A21000,Repair of carotid artery NEC,res46: Cardiovascular Event,diagnostic
+Read,7A4A211,Open thrombectomy of femoral artery,res46: Cardiovascular Event,diagnostic
+Read,G677400,Occlusion+stenosis of multiple and bilat cerebral arteries,res46: Cardiovascular Event,diagnostic
+Read,G64z400,Infarction of basal ganglia,res46: Cardiovascular Event,diagnostic
+Read,7A49.00,Reconstruction of femoral artery or popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,7A46300,Replace aneurysm pop art by pop/pop a anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,G702z00,Extremity artery atheroma NOS,res46: Cardiovascular Event,diagnostic
+Read,7A12300,Bypass bifurcation aorta by anastom aorta to iliac artery,res46: Cardiovascular Event,diagnostic
+Read,662K100,Angina control - poor,res46: Cardiovascular Event,diagnostic
+Read,7A4B400,Percutaneous transluminal embolisation of femoral artery,res46: Cardiovascular Event,diagnostic
+Read,G716.00,Aortic aneurysm without mention of rupture NOS,res46: Cardiovascular Event,diagnostic
+Read,G310.11,Dressler's syndrome,res46: Cardiovascular Event,diagnostic
+Read,G353.00,Subsequent myocardial infarction of other sites,res46: Cardiovascular Event,diagnostic
+Read,G30A.00,Mural thrombosis,res46: Cardiovascular Event,diagnostic
+Read,G640.00,Cerebral thrombosis,res46: Cardiovascular Event,diagnostic
+Read,14AE.00,H/O: aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,7A4..00,Iliac and femoral artery operations,res46: Cardiovascular Event,diagnostic
+Read,7A47.11,Other emerg bypass femoral or popliteal art by anastomosis,res46: Cardiovascular Event,diagnostic
+Read,G63z.00,Precerebral artery occlusion NOS,res46: Cardiovascular Event,diagnostic
+Read,7A13.11,Emergency repair of aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,7A41200,Emerg bypass iliac artery by femoral/femoral art anast NEC,res46: Cardiovascular Event,diagnostic
+Read,9Om4.00,Stroke/transient ischaemic attack monitoring telephone invte,res46: Cardiovascular Event,diagnostic
+Read,Gyu6.00,[X]Cerebrovascular diseases,res46: Cardiovascular Event,diagnostic
+Read,7A1C.00,Translum insert stent graft for aneurysmal segment of aorta,res46: Cardiovascular Event,diagnostic
+Read,7A49.11,Reconstruction of common femoral artery,res46: Cardiovascular Event,diagnostic
+Read,G651000,Vertebro-basilar artery syndrome,res46: Cardiovascular Event,diagnostic
+Read,Gyu7400,[X]Other specified peripheral vascular diseases,res46: Cardiovascular Event,diagnostic
+Read,7A4B900,Percutaneous transluminal insertion of stent femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A45700,Emerg replace aneurysm pop art by pop/tib anast c vein graft,res46: Cardiovascular Event,diagnostic
+Read,7A20600,Byp carot art anastom superfic tempor artery middle cere art,res46: Cardiovascular Event,diagnostic
+Read,7A1C000,Endovas ins stent graft for infrarenal abdom aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res46: Cardiovascular Event,diagnostic
+Read,7A1B400,Endovascular stenting of aortic bifurcation NEC,res46: Cardiovascular Event,diagnostic
+Read,7A20700,Intracranial bypass from carotid artery NEC,res46: Cardiovascular Event,diagnostic
+Read,7NB6500,[SO]Common carotid artery,res46: Cardiovascular Event,diagnostic
+Read,Gyu6500,[X]Occlusion and stenosis of other precerebral arteries,res46: Cardiovascular Event,diagnostic
+Read,7A1Bz00,Transluminal operations on aneurysmal segment of aorta NOS,res46: Cardiovascular Event,diagnostic
+Read,7A48.00,Other bypass of femoral artery or popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,7A1C400,Endovas insertion of stent graft for aortic bifurcation NEC,res46: Cardiovascular Event,diagnostic
+Read,N111.11,Vertebral artery compression syndrome,res46: Cardiovascular Event,diagnostic
+Read,S628.00,Traumatic subdural haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,7A48300,Bypass popliteal artery by pop/pop a anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,7A1Cz00,Translum ins stent graft for aneurysmal segment of aorta NOS,res46: Cardiovascular Event,diagnostic
+Read,G70y011,Carotid artery disease,res46: Cardiovascular Event,diagnostic
+Read,7A14411,Tube graft of Abdominal aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,G650.00,Basilar artery syndrome,res46: Cardiovascular Event,diagnostic
+Read,7N44600,[SO]Internal carotid artery,res46: Cardiovascular Event,diagnostic
+Read,7A48E00,Femoro-femoral prosthetic cross over graft,res46: Cardiovascular Event,diagnostic
+Read,7A11211,Y graft of abdominal Aortic aneurysm (emergency),res46: Cardiovascular Event,diagnostic
+Read,G304.00,Posterior myocardial infarction NOS,res46: Cardiovascular Event,diagnostic
+Read,G68..00,Late effects of cerebrovascular disease,res46: Cardiovascular Event,diagnostic
+Read,7A10100,Bypass aorta by anastomosis axillary to femoral artery NEC,res46: Cardiovascular Event,diagnostic
+Read,G73y100,Peripheral angiopathic disease EC NOS,res46: Cardiovascular Event,diagnostic
+Read,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,res46: Cardiovascular Event,diagnostic
+Read,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,res46: Cardiovascular Event,diagnostic
+Read,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy,res46: Cardiovascular Event,diagnostic
+Read,7A4Ay00,Other open operation on femoral or popliteal artery OS,res46: Cardiovascular Event,diagnostic
+Read,M271000,Ischaemic ulcer diabetic foot,res46: Cardiovascular Event,diagnostic
+Read,7A44400,Percutaneous transluminal insertion of iliac artery stent,res46: Cardiovascular Event,diagnostic
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,res46: Cardiovascular Event,diagnostic
+Read,Fyu5600,[X]Other lacunar syndromes,res46: Cardiovascular Event,diagnostic
+Read,7A20500,High-flow inter extrac intrac byp ext carot art mid cer art,res46: Cardiovascular Event,diagnostic
+Read,G34y000,Chronic coronary insufficiency,res46: Cardiovascular Event,diagnostic
+Read,G63y100,Cerebral infarction due to embolism of precerebral arteries,res46: Cardiovascular Event,diagnostic
+Read,G671100,Chronic cerebral ischaemia,res46: Cardiovascular Event,diagnostic
+Read,7A25600,Percutaneous transluminal insertion of stent cerebral artery,res46: Cardiovascular Event,diagnostic
+Read,G667.00,Left sided CVA,res46: Cardiovascular Event,diagnostic
+Read,7A22.00,Transluminal operations on carotid artery,res46: Cardiovascular Event,diagnostic
+Read,S629.00,Traumatic subdural haematoma,res46: Cardiovascular Event,diagnostic
+Read,G614.00,Pontine haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,7A1B.00,Transluminal operations on aneurysmal segment of aorta,res46: Cardiovascular Event,diagnostic
+Read,G33z200,Syncope anginosa,res46: Cardiovascular Event,diagnostic
+Read,323..00,ECG: myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,G33z.00,Angina pectoris NOS,res46: Cardiovascular Event,diagnostic
+Read,G64z000,Brainstem infarction,res46: Cardiovascular Event,diagnostic
+Read,G33z600,New onset angina,res46: Cardiovascular Event,diagnostic
+Read,32E3.00,ECG: S-T elevation,res46: Cardiovascular Event,diagnostic
+Read,G73zz00,Peripheral vascular disease NOS,res46: Cardiovascular Event,diagnostic
+Read,7A1C100,Endovas insert of stent graft for suprarenal aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,S623.00,Open traumatic subdural haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,9Om..00,Stroke/transient ischaemic attack monitoring administration,res46: Cardiovascular Event,diagnostic
+Read,7A46y00,Other replacement of aneurysmal femoral/popliteal artery OS,res46: Cardiovascular Event,diagnostic
+Read,3234,ECG:posterior/inferior infarct,res46: Cardiovascular Event,diagnostic
+Read,G634.00,Carotid artery stenosis,res46: Cardiovascular Event,diagnostic
+Read,7A20400,Endarterectomy of carotid artery NEC,res46: Cardiovascular Event,diagnostic
+Read,G311200,Angina at rest,res46: Cardiovascular Event,diagnostic
+Read,G30..12,Coronary thrombosis,res46: Cardiovascular Event,diagnostic
+Read,G66..11,CVA unspecified,res46: Cardiovascular Event,diagnostic
+Read,3233,ECG: antero-septal infarct.,res46: Cardiovascular Event,diagnostic
+Read,8B3a.00,Door to needle time,res46: Cardiovascular Event,diagnostic
+Read,R054300,[D]Widespread diabetic foot gangrene,res46: Cardiovascular Event,diagnostic
+Read,7A41100,Bypass iliac artery by iliac/femoral artery anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,S62..14,Traumatic cerebral haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,7A48000,Bypass femoral artery by fem/pop art anast c prosthesis NEC,res46: Cardiovascular Event,diagnostic
+Read,7A48200,Bypass femoral artery by fem/pop art anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,S62..11,Extradural haemorrhage following injury,res46: Cardiovascular Event,diagnostic
+Read,G641000,Cerebral infarction due to embolism of cerebral arteries,res46: Cardiovascular Event,diagnostic
+Read,G33zz00,Angina pectoris NOS,res46: Cardiovascular Event,diagnostic
+Read,7A49.14,Reconstruction of popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,7A4A100,Repair of popliteal artery NEC,res46: Cardiovascular Event,diagnostic
+Read,G61X000,"Left sided intracerebral haemorrhage, unspecified",res46: Cardiovascular Event,diagnostic
+Read,7A12112,Dacron aortofemoral Y graft,res46: Cardiovascular Event,diagnostic
+Read,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,res46: Cardiovascular Event,diagnostic
+Read,7A4B100,Percutaneous transluminal angioplasty of popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,7A4z.00,Iliac and femoral artery operations NOS,res46: Cardiovascular Event,diagnostic
+Read,662o.00,Haemorrhagic stroke monitoring,res46: Cardiovascular Event,diagnostic
+Read,9Om0.00,Stroke/transient ischaemic attack monitoring first letter,res46: Cardiovascular Event,diagnostic
+Read,G30y000,Acute atrial infarction,res46: Cardiovascular Event,diagnostic
+Read,7A44y00,Other specified transluminal operation on iliac artery,res46: Cardiovascular Event,diagnostic
+Read,7A49000,Endarterectomy and patch repair of femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A4A500,Operation on aneurysm of femoral artery NEC,res46: Cardiovascular Event,diagnostic
+Read,G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified",res46: Cardiovascular Event,diagnostic
+Read,G30..13,Cardiac rupture following myocardial infarction (MI),res46: Cardiovascular Event,diagnostic
+Read,G303.00,Acute inferoposterior infarction,res46: Cardiovascular Event,diagnostic
+Read,G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",res46: Cardiovascular Event,diagnostic
+Read,662K300,Angina control - worsening,res46: Cardiovascular Event,diagnostic
+Read,7A41311,Femoro-femoral prosthetic cross over graft,res46: Cardiovascular Event,diagnostic
+Read,G309.00,Acute Q-wave infarct,res46: Cardiovascular Event,diagnostic
+Read,G330z00,Angina decubitus NOS,res46: Cardiovascular Event,diagnostic
+Read,G30X.00,Acute transmural myocardial infarction of unspecif site,res46: Cardiovascular Event,diagnostic
+Read,G617.00,"Intracerebral haemorrhage, intraventricular",res46: Cardiovascular Event,diagnostic
+Read,7A22000,Percutaneous transluminal angioplasty of carotid artery,res46: Cardiovascular Event,diagnostic
+Read,G616.00,External capsule haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,9N0p.00,Seen in stroke clinic,res46: Cardiovascular Event,diagnostic
+Read,G677.00,Occlusion/stenosis cerebral arts not result cerebral infarct,res46: Cardiovascular Event,diagnostic
+Read,G621.00,Subdural haemorrhage - nontraumatic,res46: Cardiovascular Event,diagnostic
+Read,G73z.00,Peripheral vascular disease NOS,res46: Cardiovascular Event,diagnostic
+Read,7032000,Evacuation of extradural haematoma,res46: Cardiovascular Event,diagnostic
+Read,G61..00,Intracerebral haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,7A20300,Endarterectomy and patch repair of carotid artery,res46: Cardiovascular Event,diagnostic
+Read,G30B.00,Acute posterolateral myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,7A15.00,Other emergency bypass of segment of aorta,res46: Cardiovascular Event,diagnostic
+Read,G72y000,Aneurysm of common carotid art,res46: Cardiovascular Event,diagnostic
+Read,G62..00,Other and unspecified intracranial haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,C107.12,Diabetes with gangrene,res46: Cardiovascular Event,diagnostic
+Read,A94y600,Rupture of syphilitic cerebral aneurysm,res46: Cardiovascular Event,diagnostic
+Read,G31y000,Acute coronary insufficiency,res46: Cardiovascular Event,diagnostic
+Read,7A41900,Bypass common iliac artery by aorta/com iliac art anast NEC,res46: Cardiovascular Event,diagnostic
+Read,G38..00,Postoperative myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,G33z400,Ischaemic chest pain,res46: Cardiovascular Event,diagnostic
+Read,C107.11,Diabetes mellitus with gangrene,res46: Cardiovascular Event,diagnostic
+Read,G630.00,Basilar artery occlusion,res46: Cardiovascular Event,diagnostic
+Read,Gyu6F00,"[X]Intracerebral haemorrhage in hemisphere, unspecified",res46: Cardiovascular Event,diagnostic
+Read,7A4A000,Repair of femoral artery NEC,res46: Cardiovascular Event,diagnostic
+Read,7929100,Percut transluminal coronary thrombolysis with streptokinase,res46: Cardiovascular Event,diagnostic
+Read,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res46: Cardiovascular Event,diagnostic
+Read,G665.00,Pure motor lacunar syndrome,res46: Cardiovascular Event,diagnostic
+Read,G651.00,Vertebral artery syndrome,res46: Cardiovascular Event,diagnostic
+Read,7A19400,Operation on aneurysm of aorta NEC,res46: Cardiovascular Event,diagnostic
+Read,7A46000,Replace aneurysm fem art by fem/pop art anastom c prosth NEC,res46: Cardiovascular Event,diagnostic
+Read,C107200,"Diabetes mellitus, adult with gangrene",res46: Cardiovascular Event,diagnostic
+Read,G73y.00,Other specified peripheral vascular disease,res46: Cardiovascular Event,diagnostic
+Read,7A43300,Open insertion of iliac artery stent,res46: Cardiovascular Event,diagnostic
+Read,7A10200,Axillo-bifemoral bypass graft,res46: Cardiovascular Event,diagnostic
+Read,14A7.00,H/O: CVA/stroke,res46: Cardiovascular Event,diagnostic
+Read,G67y.00,Other cerebrovascular disease OS,res46: Cardiovascular Event,diagnostic
+Read,G67z.00,Other cerebrovascular disease NOS,res46: Cardiovascular Event,diagnostic
+Read,G73y000,Diabetic peripheral angiopathy,res46: Cardiovascular Event,diagnostic
+Read,G311300,Refractory angina,res46: Cardiovascular Event,diagnostic
+Read,7A1B100,Endovascular stenting of suprarenal aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,C107.00,Diabetes mellitus with peripheral circulatory disorder,res46: Cardiovascular Event,diagnostic
+Read,9Om1.00,Stroke/transient ischaemic attack monitoring second letter,res46: Cardiovascular Event,diagnostic
+Read,G30y.00,Other acute myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,G501.00,Post infarction pericarditis,res46: Cardiovascular Event,diagnostic
+Read,G641.11,Cerebral embolus,res46: Cardiovascular Event,diagnostic
+Read,9Om2.00,Stroke/transient ischaemic attack monitoring third letter,res46: Cardiovascular Event,diagnostic
+Read,7A12311,Aorto biiliac graft,res46: Cardiovascular Event,diagnostic
+Read,7A42011,Endarterectomy and patch repair of common iliac artery,res46: Cardiovascular Event,diagnostic
+Read,G72y200,Aneurysm of internal carotid artery,res46: Cardiovascular Event,diagnostic
+Read,7A47600,Emerg bypass femoral art by fem/tib a anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,7NB6400,[SO]External carotid artery,res46: Cardiovascular Event,diagnostic
+Read,7A14z00,Other replacement of aneurysmal segment of aorta NOS,res46: Cardiovascular Event,diagnostic
+Read,G620.00,Extradural haemorrhage - nontraumatic,res46: Cardiovascular Event,diagnostic
+Read,7A49300,Endarterectomy of popliteal artery NEC,res46: Cardiovascular Event,diagnostic
+Read,7A1B500,Endovascular stenting of aorto-uniiliac aneurysm,res46: Cardiovascular Event,diagnostic
+Read,7N44500,[SO]Common carotid artery,res46: Cardiovascular Event,diagnostic
+Read,7A41300,Bypass iliac artery by femoral/femoral art anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,G311.00,Preinfarction syndrome,res46: Cardiovascular Event,diagnostic
+Read,G36..00,Certain current complication follow acute myocardial infarct,res46: Cardiovascular Event,diagnostic
+Read,G70y000,Carotid artery atherosclerosis,res46: Cardiovascular Event,diagnostic
+Read,7A10000,Emerg aortic bypass by anastomosis axillary to femoral art,res46: Cardiovascular Event,diagnostic
+Read,7A40z00,Replacement of aneurysmal iliac artery NOS,res46: Cardiovascular Event,diagnostic
+Read,3235,ECG: subendocardial infarct,res46: Cardiovascular Event,diagnostic
+Read,G640000,Cerebral infarction due to thrombosis of cerebral arteries,res46: Cardiovascular Event,diagnostic
+Read,G307.00,Acute subendocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,7A12.00,Other bypass of bifurcation of aorta,res46: Cardiovascular Event,diagnostic
+Read,G332.00,Coronary artery spasm,res46: Cardiovascular Event,diagnostic
+Read,G61z.00,Intracerebral haemorrhage NOS,res46: Cardiovascular Event,diagnostic
+Read,G631.00,Carotid artery occlusion,res46: Cardiovascular Event,diagnostic
+Read,G631.12,"Thrombosis, carotid artery",res46: Cardiovascular Event,diagnostic
+Read,G351.00,Subsequent myocardial infarction of inferior wall,res46: Cardiovascular Event,diagnostic
+Read,7A4y.00,Other specified operations on iliac and femoral artery,res46: Cardiovascular Event,diagnostic
+Read,G30yz00,Other acute myocardial infarction NOS,res46: Cardiovascular Event,diagnostic
+Read,7A45.14,Emergency replacement of aneurysmal popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,7A1..11,Dacron graft operations on aorta,res46: Cardiovascular Event,diagnostic
+Read,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy,res46: Cardiovascular Event,diagnostic
+Read,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,res46: Cardiovascular Event,diagnostic
+Read,7A48.12,Other bypass of common femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A12000,Emerg bypass bifurc aorta by anast aorta to femoral artery,res46: Cardiovascular Event,diagnostic
+Read,G384.00,Postoperative subendocardial myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,G312.00,Coronary thrombosis not resulting in myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,7A41z00,Other bypass of iliac artery NOS,res46: Cardiovascular Event,diagnostic
+Read,7017000,Evacuation of subdural haematoma,res46: Cardiovascular Event,diagnostic
+Read,7A42.00,Reconstruction of iliac artery,res46: Cardiovascular Event,diagnostic
+Read,G73yz00,Other specified peripheral vascular disease NOS,res46: Cardiovascular Event,diagnostic
+Read,7A20z00,Reconstruction of carotid artery NOS,res46: Cardiovascular Event,diagnostic
+Read,G311z00,Preinfarction syndrome NOS,res46: Cardiovascular Event,diagnostic
+Read,7A45D00,Emerg replace aneurysm pop artery by pop/fem art anastomosis,res46: Cardiovascular Event,diagnostic
+Read,7A4A300,Open embolectomy popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,G683.00,Sequelae of cerebral infarction,res46: Cardiovascular Event,diagnostic
+Read,7A4A200,Open embolectomy of femoral artery,res46: Cardiovascular Event,diagnostic
+Read,G676000,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",res46: Cardiovascular Event,diagnostic
+Read,55A2.00,Lower limb arteriogram abnorm.,res46: Cardiovascular Event,diagnostic
+Read,7A4B500,Percutaneous transluminal embolisation of popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,ZLEP.00,Discharge from stroke serv,res46: Cardiovascular Event,diagnostic
+Read,G311.12,Impending infarction,res46: Cardiovascular Event,diagnostic
+Read,7A48700,Bypass popliteal artery by pop/tib a anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,Gyu3000,[X]Other forms of angina pectoris,res46: Cardiovascular Event,diagnostic
+Read,G301000,Acute anteroapical infarction,res46: Cardiovascular Event,diagnostic
+Read,G671.00,Generalised ischaemic cerebrovascular disease NOS,res46: Cardiovascular Event,diagnostic
+Read,7A43200,Operation on aneurysm of iliac artery NEC,res46: Cardiovascular Event,diagnostic
+Read,7A48400,Bypass femoral artery by fem/tib art anast c prosthesis NEC,res46: Cardiovascular Event,diagnostic
+Read,7A47.14,Other emergency bypass of popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,7A21.00,Other open operations on carotid artery,res46: Cardiovascular Event,diagnostic
+Read,38DM.11,ABCD2 stroke risk score,res46: Cardiovascular Event,diagnostic
+Read,7A21200,Open embolectomy of carotid artery,res46: Cardiovascular Event,diagnostic
+Read,1JA1.00,Suspected cerebrovascular disease,res46: Cardiovascular Event,diagnostic
+Read,G611.00,Internal capsule haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,7A10300,Axillo-unifemoral PTFE bypass graft,res46: Cardiovascular Event,diagnostic
+Read,C109500,Non-insulin dependent diabetes mellitus with gangrene,res46: Cardiovascular Event,diagnostic
+Read,7A4A.00,Other open operations on femoral artery or popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,G681.00,Sequelae of intracerebral haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,7A48600,Bypass femoral artery by fem/tib art anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,1477,H/O: cerebrovascular disease,res46: Cardiovascular Event,diagnostic
+Read,7A48.16,Other bypass of superficial femoral artery,res46: Cardiovascular Event,diagnostic
+Read,G30y200,Acute septal infarction,res46: Cardiovascular Event,diagnostic
+Read,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,res46: Cardiovascular Event,diagnostic
+Read,7929111,Percut translum coronary thrombolytic therapy- streptokinase,res46: Cardiovascular Event,diagnostic
+Read,G716000,"Thoracoabdominal aortic aneurysm, without mention of rupture",res46: Cardiovascular Event,diagnostic
+Read,G632.00,Vertebral artery occlusion,res46: Cardiovascular Event,diagnostic
+Read,7A49600,Profundoplasty of femoral artery NEC,res46: Cardiovascular Event,diagnostic
+Read,5513,Carotid A angiogram abnormal,res46: Cardiovascular Event,diagnostic
+Read,7A22z00,Transluminal operation on carotid artery NOS,res46: Cardiovascular Event,diagnostic
+Read,7A4By00,Transluminal operation on femoral or popliteal artery OS,res46: Cardiovascular Event,diagnostic
+Read,7A47000,Emerg bypass femoral art by fem/pop art anast c prosth NEC,res46: Cardiovascular Event,diagnostic
+Read,7A41F00,Ilio-femoral prosthetic cross over graft,res46: Cardiovascular Event,diagnostic
+Read,7A41211,Emergency femoro-femoral prosthetic cross over graft,res46: Cardiovascular Event,diagnostic
+Read,G682.00,Sequelae of other nontraumatic intracranial haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,C109F00,Non-insulin-dependent d m with peripheral angiopath,res46: Cardiovascular Event,diagnostic
+Read,7A4A400,Ligation of aneurysm of popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,G654.00,Multiple and bilateral precerebral artery syndromes,res46: Cardiovascular Event,diagnostic
+Read,7A4A600,Operation on popliteal artery NEC,res46: Cardiovascular Event,diagnostic
+Read,7A48D00,Bypass popliteal artery by pop/fem artery anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,G769.00,Anterior spinal and vertebral artery compression syndromes,res46: Cardiovascular Event,diagnostic
+Read,7A47C00,Emerg bypass femoral artery by fem/fem art anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,7A4A.14,Other open operations on superficial femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A50100,Revision of reconstruction involving iliac artery,res46: Cardiovascular Event,diagnostic
+Read,7A42y00,Other specified reconstruction of iliac artery,res46: Cardiovascular Event,diagnostic
+Read,G72y100,Aneurysm of external carotid artery,res46: Cardiovascular Event,diagnostic
+Read,7N44L00,[SO]Carotid artery NEC,res46: Cardiovascular Event,diagnostic
+Read,7A11311,Y graft abdominal Aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,G68W.00,Sequelae/other + unspecified cerebrovascular diseases,res46: Cardiovascular Event,diagnostic
+Read,7A13400,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC,res46: Cardiovascular Event,diagnostic
+Read,7A27.13,Other open operations on vertebral artery,res46: Cardiovascular Event,diagnostic
+Read,7A43.00,Other open operations on iliac artery,res46: Cardiovascular Event,diagnostic
+Read,G63y.00,Other precerebral artery occlusion,res46: Cardiovascular Event,diagnostic
+Read,7A42100,Endarterectomy of iliac artery NEC,res46: Cardiovascular Event,diagnostic
+Read,G6y..00,Other specified cerebrovascular disease,res46: Cardiovascular Event,diagnostic
+Read,G666.00,Pure sensory lacunar syndrome,res46: Cardiovascular Event,diagnostic
+Read,G677000,Occlusion and stenosis of middle cerebral artery,res46: Cardiovascular Event,diagnostic
+Read,9Om3.00,Stroke/transient ischaemic attack monitoring verbal invitati,res46: Cardiovascular Event,diagnostic
+Read,7A4B.15,Transluminal procedure on superficial femoral artery,res46: Cardiovascular Event,diagnostic
+Read,S626.00,Epidural haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,7A50000,Revision of reconstruction involving aorta,res46: Cardiovascular Event,diagnostic
+Read,Gyu6400,[X]Other cerebral infarction,res46: Cardiovascular Event,diagnostic
+Read,7A4B.13,Transluminal procedure on femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A11.00,Replacement of aneurysmal bifurcation of aorta,res46: Cardiovascular Event,diagnostic
+Read,13YA.00,Stroke group member,res46: Cardiovascular Event,diagnostic
+Read,7A41y00,Other specified other bypass of iliac artery,res46: Cardiovascular Event,diagnostic
+Read,7A4B300,Percutaneous transluminal embolectomy of popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,7A47200,Emerg bypass femoral art by fem/pop a anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,7A48A00,Bypass femoral artery by fem/peron a anast c vein graft NEC,res46: Cardiovascular Event,diagnostic
+Read,7A4B.14,Transluminal procedure on popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,G662.00,Posterior cerebral artery syndrome,res46: Cardiovascular Event,diagnostic
+Read,R054200,[D]Gangrene of toe in diabetic,res46: Cardiovascular Event,diagnostic
+Read,3236,ECG: lateral infarction,res46: Cardiovascular Event,diagnostic
+Read,7A49100,Endarterectomy and patch repair of popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,7A43.11,Other open operations on common iliac artery,res46: Cardiovascular Event,diagnostic
+Read,7A49800,Reconstruction of femoral artery with vein graft,res46: Cardiovascular Event,diagnostic
+Read,S63..00,Other cerebral haemorrhage following injury,res46: Cardiovascular Event,diagnostic
+Read,S629000,Traumatic subdural haematoma without open intracranial wound,res46: Cardiovascular Event,diagnostic
+Read,Gyu6200,[X]Other intracerebral haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,7A48y00,Other bypass of femoral artery or popliteal artery OS,res46: Cardiovascular Event,diagnostic
+Read,44p2.00,Cardiac troponin positive,res46: Cardiovascular Event,diagnostic
+Read,7A20100,Intracranial bypass to carotid artery,res46: Cardiovascular Event,diagnostic
+Read,7A43y00,Other specified other open operation on iliac artery,res46: Cardiovascular Event,diagnostic
+Read,7A11000,Emerg repl aneurysm bifurc aorta by anast aorta to fem art,res46: Cardiovascular Event,diagnostic
+Read,7P24200,Delivery of rehabilitation for stroke,res46: Cardiovascular Event,diagnostic
+Read,G311.11,Crescendo angina,res46: Cardiovascular Event,diagnostic
+Read,7A14200,Replace aneurys suprarenal aorta by anast aorta to aorta NEC,res46: Cardiovascular Event,diagnostic
+Read,7A28200,Percutaneous transluminal angioplasty of vertebral artery,res46: Cardiovascular Event,diagnostic
+Read,7A12312,Dacron aortoiliac Y graft,res46: Cardiovascular Event,diagnostic
+Read,C109F11,Type II diabetes mellitus with peripheral angiopathy,res46: Cardiovascular Event,diagnostic
+Read,G33z100,Stenocardia,res46: Cardiovascular Event,diagnostic
+Read,S63z.00,Other cerebral haemorrhage following injury NOS,res46: Cardiovascular Event,diagnostic
+Read,E004z00,Arteriosclerotic dementia NOS,res46: Cardiovascular Event,diagnostic
+Read,7A46z00,Other replacement of aneurysmal femoral/popliteal artery NOS,res46: Cardiovascular Event,diagnostic
+Read,S624.11,Epidural haematoma following injury,res46: Cardiovascular Event,diagnostic
+Read,E004000,Uncomplicated arteriosclerotic dementia,res46: Cardiovascular Event,diagnostic
+Read,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site,res46: Cardiovascular Event,diagnostic
+Read,7A4A311,Open thrombectomy of popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,E004300,Arteriosclerotic dementia with depression,res46: Cardiovascular Event,diagnostic
+Read,G700.00,Aortic atherosclerosis,res46: Cardiovascular Event,diagnostic
+Read,7A49.15,Reconstruction of superficial femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A40000,Emerg replace aneurysm iliac art by iliac/femoral art anast,res46: Cardiovascular Event,diagnostic
+Read,7A14.00,Other replacement of aneurysmal segment of aorta,res46: Cardiovascular Event,diagnostic
+Read,S629100,Traumatic subdural haematoma with open intracranial wound,res46: Cardiovascular Event,diagnostic
+Read,G679.00,Small vessel cerebrovascular disease,res46: Cardiovascular Event,diagnostic
+Read,G350.00,Subsequent myocardial infarction of anterior wall,res46: Cardiovascular Event,diagnostic
+Read,G653.00,Carotid artery syndrome hemispheric,res46: Cardiovascular Event,diagnostic
+Read,7A44.00,Transluminal operations on iliac artery,res46: Cardiovascular Event,diagnostic
+Read,32B2.00,ECG: Q wave abnormal,res46: Cardiovascular Event,diagnostic
+Read,S62..13,Subdural haemorrhage following injury,res46: Cardiovascular Event,diagnostic
+Read,44H3.00,Cardiac enzymes abnormal,res46: Cardiovascular Event,diagnostic
+Read,7A1BD00,Endovascular insertion of stent for aorto-uniiliac aneurysm,res46: Cardiovascular Event,diagnostic
+Read,7A21y00,Other specified other open operation on carotid artery,res46: Cardiovascular Event,diagnostic
+Read,G64z100,Wallenberg syndrome,res46: Cardiovascular Event,diagnostic
+Read,G733.00,Ischaemic foot,res46: Cardiovascular Event,diagnostic
+Read,7A46C00,Replace aneurysm fem artery by fem/fem art anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,7A47.15,Other emergency bypass of superficial femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A1B800,Endovascul insert stent infrarenal abdominal aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,7A14300,Replace aneurys infrarenal aorta by anast aorta to aorta NEC,res46: Cardiovascular Event,diagnostic
+Read,G73z012,Vascular claudication,res46: Cardiovascular Event,diagnostic
+Read,7NBC.00,[SO]Branch of external carotid artery,res46: Cardiovascular Event,diagnostic
+Read,G633.00,Multiple and bilateral precerebral arterial occlusion,res46: Cardiovascular Event,diagnostic
+Read,7A1Cy00,OS translum ins stent graft for aneurysmal segment of aorta,res46: Cardiovascular Event,diagnostic
+Read,7A46.14,Other replacement of aneurysmal popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,7A41000,Emerg bypass iliac art by iliac/femoral art anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,7A13y00,Emergency replacement of aneurysmal segment of aorta OS,res46: Cardiovascular Event,diagnostic
+Read,7A42111,Endarterectomy of common iliac artery NEC,res46: Cardiovascular Event,diagnostic
+Read,7A48C00,Bypass femoral artery by femoral/femoral art anastomosis NEC,res46: Cardiovascular Event,diagnostic
+Read,G63..00,Precerebral arterial occlusion,res46: Cardiovascular Event,diagnostic
+Read,7A13z00,Emergency replacement of aneurysmal segment of aorta NOS,res46: Cardiovascular Event,diagnostic
+Read,G380.00,Postoperative transmural myocardial infarction anterior wall,res46: Cardiovascular Event,diagnostic
+Read,2G63.00,Ischaemic toe,res46: Cardiovascular Event,diagnostic
+Read,G33z500,Post infarct angina,res46: Cardiovascular Event,diagnostic
+Read,Eu01.11,[X]Arteriosclerotic dementia,res46: Cardiovascular Event,diagnostic
+Read,G35X.00,Subsequent myocardial infarction of unspecified site,res46: Cardiovascular Event,diagnostic
+Read,C109512,Type 2 diabetes mellitus with gangrene,res46: Cardiovascular Event,diagnostic
+Read,G650.11,Insufficiency - basilar artery,res46: Cardiovascular Event,diagnostic
+Read,G612.00,Basal nucleus haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,7A4B000,Percutaneous transluminal angioplasty of femoral artery,res46: Cardiovascular Event,diagnostic
+Read,G64..11,CVA - cerebral artery occlusion,res46: Cardiovascular Event,diagnostic
+Read,L440.11,CVA - cerebrovascular accident in the puerperium,res46: Cardiovascular Event,diagnostic
+Read,G306.00,True posterior myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,G66..13,CVA - Cerebrovascular accident unspecified,res46: Cardiovascular Event,diagnostic
+Read,G714000,Juxtarenal aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,G64z.12,Cerebellar infarction,res46: Cardiovascular Event,diagnostic
+Read,G381.00,Postoperative transmural myocardial infarction inferior wall,res46: Cardiovascular Event,diagnostic
+Read,G73..00,Other peripheral vascular disease,res46: Cardiovascular Event,diagnostic
+Read,G301.00,Other specified anterior myocardial infarction,res46: Cardiovascular Event,diagnostic
+Read,G718.00,Leaking abdominal aortic aneurysm,res46: Cardiovascular Event,diagnostic
+Read,S62..00,Cerebral haemorrhage following injury,res46: Cardiovascular Event,diagnostic
+Read,14A7.12,H/O: stroke,res46: Cardiovascular Event,diagnostic
+Read,G73..11,Peripheral ischaemic vascular disease,res46: Cardiovascular Event,diagnostic
+Read,7A4B.00,Transluminal operations on femoral or popliteal artery,res46: Cardiovascular Event,diagnostic
+Read,G64..13,Stroke due to cerebral arterial occlusion,res46: Cardiovascular Event,diagnostic
+Read,M271.12,Ischaemic leg ulcer,res46: Cardiovascular Event,diagnostic
+Read,7A22300,Percutaneous transluminal insertion stent carotid artery,res46: Cardiovascular Event,diagnostic
+Read,G678.00,Cereb autosom dominant arteriop subcort infarcts leukoenceph,res46: Cardiovascular Event,diagnostic
+Read,S624.00,Closed traumatic extradural haemorrhage,res46: Cardiovascular Event,diagnostic
+Read,G68X.00,"Sequelae of stroke,not specfd as h'morrhage or infarction",res46: Cardiovascular Event,diagnostic
+Read,14A7.11,H/O: CVA,res46: Cardiovascular Event,diagnostic
+Read,7A43111,Open embolectomy of common iliac artery,res46: Cardiovascular Event,diagnostic
+Read,7A4B200,Percutaneous transluminal embolectomy of femoral artery,res46: Cardiovascular Event,diagnostic
+Read,7A4Az00,Other open operation on femoral or popliteal artery NOS,res46: Cardiovascular Event,diagnostic
+Read,S62z.00,Cerebral haemorrhage following injury NOS,res46: Cardiovascular Event,diagnostic
+Read,G66..12,Stroke unspecified,res46: Cardiovascular Event,diagnostic

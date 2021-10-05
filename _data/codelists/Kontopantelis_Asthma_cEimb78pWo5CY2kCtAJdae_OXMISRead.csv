@@ -1,0 +1,64 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,493 AB,ASTHMA ATTACK,res21: Asthma,diagnostic
+OXMIS,493 AD,ASTHMA OCCASIONAL,res21: Asthma,diagnostic
+OXMIS,493 BR,BRONCHIAL ASTHMA,res21: Asthma,diagnostic
+OXMIS,493,ASTHMA,res21: Asthma,diagnostic
+OXMIS,493 EB,ASTHMA EXERCISE INDUCED,res21: Asthma,diagnostic
+OXMIS,L4930LO,LATE ONSET ASTHMA,res21: Asthma,diagnostic
+OXMIS,493 NA,NOCTURNAL ASTHMA,res21: Asthma,diagnostic
+OXMIS,493 EA,ASTHMA EXERCISE INCLUDED,res21: Asthma,diagnostic
+OXMIS,3052AT,PSYCHOGENIC ASTHMA,res21: Asthma,diagnostic
+OXMIS,493 CH,CHILDHOOD ASTHMA,res21: Asthma,diagnostic
+OXMIS,493 AI,ASTHMA SEVERITY MILD,res21: Asthma,diagnostic
+OXMIS,493 BD,ASTHMA AND BRONCHITIS,res21: Asthma,diagnostic
+OXMIS,493 AA,ASTHMA ACUTE,res21: Asthma,diagnostic
+OXMIS,493 GR,ASTHMA ALLERGIC GRASS,res21: Asthma,diagnostic
+OXMIS,493 AE,ASTHMA SEASONAL,res21: Asthma,diagnostic
+OXMIS,493 HT,INTRINSIC ASTHMA,res21: Asthma,diagnostic
+OXMIS,493 JC,CHRONIC ASTHMA,res21: Asthma,diagnostic
+OXMIS,493 AK,ASTHMA SEVERITY SEVERE,res21: Asthma,diagnostic
+OXMIS,493 AJ,ASTHMA SEVERITY MODERATE,res21: Asthma,diagnostic
+OXMIS,691 TM,ECZEMA WITH ASTHMA,res21: Asthma,diagnostic
+OXMIS,493 GS,ASTHMA POLLEN INITIATED,res21: Asthma,diagnostic
+OXMIS,493 EP,ASTHMA EPISODIC,res21: Asthma,diagnostic
+OXMIS,493 C,CROUP ASTHMATIC,res21: Asthma,diagnostic
+Read,H33z200,Late-onset asthma,res21: Asthma,diagnostic
+Read,1O2..00,Asthma confirmed,res21: Asthma,diagnostic
+Read,663V200,Moderate asthma,res21: Asthma,diagnostic
+Read,173d.00,Work aggravated asthma,res21: Asthma,diagnostic
+Read,H33..00,Asthma,res21: Asthma,diagnostic
+Read,663V000,Occasional asthma,res21: Asthma,diagnostic
+Read,H330.12,Childhood asthma,res21: Asthma,diagnostic
+Read,H33..11,Bronchial asthma,res21: Asthma,diagnostic
+Read,663V300,Severe asthma,res21: Asthma,diagnostic
+Read,663V100,Mild asthma,res21: Asthma,diagnostic
+Read,H330.11,Allergic asthma,res21: Asthma,diagnostic
+Read,H330111,Extrinsic asthma with asthma attack,res21: Asthma,diagnostic
+Read,H331.11,Late onset asthma,res21: Asthma,diagnostic
+Read,173A.00,Exercise induced asthma,res21: Asthma,diagnostic
+Read,H33z.00,Asthma unspecified,res21: Asthma,diagnostic
+Read,H331100,Intrinsic asthma with status asthmaticus,res21: Asthma,diagnostic
+Read,H33zz11,Exercise induced asthma,res21: Asthma,diagnostic
+Read,H312000,Chronic asthmatic bronchitis,res21: Asthma,diagnostic
+Read,H330011,Hay fever with asthma,res21: Asthma,diagnostic
+Read,H331.00,Intrinsic asthma,res21: Asthma,diagnostic
+Read,H330.14,Pollen asthma,res21: Asthma,diagnostic
+Read,H330100,Extrinsic asthma with status asthmaticus,res21: Asthma,diagnostic
+Read,H330.00,Extrinsic (atopic) asthma,res21: Asthma,diagnostic
+Read,H330.13,Hay fever with asthma,res21: Asthma,diagnostic
+Read,H330000,Extrinsic asthma without status asthmaticus,res21: Asthma,diagnostic
+Read,663j.00,Asthma - currently active,res21: Asthma,diagnostic
+Read,H331111,Intrinsic asthma with asthma attack,res21: Asthma,diagnostic
+Read,H33zz00,Asthma NOS,res21: Asthma,diagnostic
+Read,H332.00,Mixed asthma,res21: Asthma,diagnostic
+Read,H33zz12,Allergic asthma NEC,res21: Asthma,diagnostic
+Read,173c.00,Occupational asthma,res21: Asthma,diagnostic
+Read,H331000,Intrinsic asthma without status asthmaticus,res21: Asthma,diagnostic
+Read,H47y000,Detergent asthma,res21: Asthma,diagnostic
+Read,H35y700,Wood asthma,res21: Asthma,diagnostic
+Read,H33z.11,Hyperreactive airways disease,res21: Asthma,diagnostic
+Read,H331z00,Intrinsic asthma NOS,res21: Asthma,diagnostic
+Read,H330z00,Extrinsic asthma NOS,res21: Asthma,diagnostic
+Read,1780.00,Aspirin induced asthma,res21: Asthma,diagnostic
+Read,H334.00,Brittle asthma,res21: Asthma,diagnostic
+Read,H35y600,Sequoiosis (red-cedar asthma),res21: Asthma,diagnostic

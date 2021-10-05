@@ -1,0 +1,118 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,353 T,SCIATICA TRAUMATIC,back pain,diagnostic
+OXMIS,353 HP,PALSY SCIATIC HIGH,back pain,diagnostic
+OXMIS,7289CI,TROUBLE BACK,back pain,diagnostic
+OXMIS,7289CE,SYNDROME CAUDA EQUINA,back pain,diagnostic
+OXMIS,7289G,ACHE UPPER SPINE,back pain,diagnostic
+OXMIS,7289CA,VERTEBROGENIC PAIN SYNDROME,back pain,diagnostic
+OXMIS,7289H,ACHE LUMBOSACRAL,back pain,diagnostic
+OXMIS,7251D,SCIATICA POSSIBLE INTERVERTEBRAL DISC LE,back pain,diagnostic
+OXMIS,7288RP,PAIN LUMBAR ROOT NEUROPATHY,back pain,diagnostic
+OXMIS,353 NP,SCIATIC NEUROPATHY,back pain,diagnostic
+OXMIS,5518AT,SCIATIC HERNIA,back pain,diagnostic
+OXMIS,353 NT,SCIATICA NEURITIS,back pain,diagnostic
+OXMIS,7289C,BAD BACK,back pain,diagnostic
+OXMIS,7289CG,ACHE SPINE,back pain,diagnostic
+OXMIS,7289B,PAIN BACK WITH NEURITIS,back pain,diagnostic
+OXMIS,353,SCIATICA,back pain,diagnostic
+OXMIS,353 PP,SCIATIC PARAESTHESIA,back pain,diagnostic
+OXMIS,7289A,SCIATICA WITH BACK PAIN,back pain,diagnostic
+OXMIS,7287B,PAIN LUMBAR REGION,back pain,diagnostic
+OXMIS,7287A,PAIN LOW BACK,back pain,diagnostic
+OXMIS,353 A,SCIATICA ACUTE,back pain,diagnostic
+OXMIS,7289CF,BACKACHE,back pain,diagnostic
+OXMIS,7289CC,PAIN COCCYX,back pain,diagnostic
+OXMIS,7289CH,PAIN BACK,back pain,diagnostic
+OXMIS,7289PL,POSTURAL BACKACHE,back pain,diagnostic
+OXMIS,7289J,PAIN LOIN,back pain,diagnostic
+OXMIS,7289D,PAIN BACK WITHOUT SCIATICA,back pain,diagnostic
+OXMIS,7289CT,ACUTE BACK (PAIN),back pain,diagnostic
+OXMIS,7289CB,CHRONIC BACKACHE,back pain,diagnostic
+OXMIS,353 C,SCIATICA CHRONIC,back pain,diagnostic
+OXMIS,7289E,COCCYDINIA,back pain,diagnostic
+Read,N140700,Idiopathic lumbar spinal stenosis,back pain,diagnostic
+Read,N12C400,Prolapsed lumbar intervertebral disc with sciatica,back pain,diagnostic
+Read,J3Az.00,Sciatic hernia NOS,back pain,diagnostic
+Read,25C..13,O/E - lumbar pain on palpation,back pain,diagnostic
+Read,N142.00,Pain in lumbar spine,back pain,diagnostic
+Read,N142.14,Lumbago,back pain,diagnostic
+Read,N146311,Lumbosacral strain,back pain,diagnostic
+Read,16C6.00,Back pain without radiation NOS,back pain,diagnostic
+Read,16C5.00,C/O - low back pain,back pain,diagnostic
+Read,J3Ay.00,Unspecified sciatic hernia,back pain,diagnostic
+Read,N148300,Cervico-thoracic ankylosis,back pain,diagnostic
+Read,N148C00,Lumbar spine instability,back pain,diagnostic
+Read,J3A1.00,Sciatic hernia with obstruction,back pain,diagnostic
+Read,16C4.00,Back pain worse on sneezing,back pain,diagnostic
+Read,N146600,Sacroiliac disorder,back pain,diagnostic
+Read,N146400,Sacroiliac instability,back pain,diagnostic
+Read,N143.00,Sciatica,back pain,diagnostic
+Read,SJ60000,Closed injury sciatic nerve,back pain,diagnostic
+Read,N144z00,Thoracic and lumbosacral neuritis NOS,back pain,diagnostic
+Read,SJ60100,Open injury sciatic nerve,back pain,diagnostic
+Read,N142000,Lumbago with sciatica,back pain,diagnostic
+Read,N140500,Iatrogenic thoracic spinal stenosis,back pain,diagnostic
+Read,N140400,Degenerative thoracic spinal stenosis,back pain,diagnostic
+Read,J3A..00,Sciatic hernia,back pain,diagnostic
+Read,N142.13,Acute back pain - lumbar,back pain,diagnostic
+Read,N148900,Cervical spine instability,back pain,diagnostic
+Read,N147200,Coccygodynia,back pain,diagnostic
+Read,N146300,Lumbosacral instability,back pain,diagnostic
+Read,N148B00,Thoracic spine instability,back pain,diagnostic
+Read,N141.11,Acute back pain - thoracic,back pain,diagnostic
+Read,N140300,Idiopathic thoracic spinal stenosis,back pain,diagnostic
+Read,N140.11,Spinal stenosis,back pain,diagnostic
+Read,N142.12,Lumbalgia,back pain,diagnostic
+Read,N148200,Cervical spine ankylosis,back pain,diagnostic
+Read,N148100,Atlanto-axial ankylosis,back pain,diagnostic
+Read,N146500,Sacral instability NOS,back pain,diagnostic
+Read,N145.11,Acute back pain - unspecified,back pain,diagnostic
+Read,N141.00,Pain in thoracic spine,back pain,diagnostic
+Read,N14y.11,Facet joint syndrome,back pain,diagnostic
+Read,N148A00,Cervico-thoracic instability,back pain,diagnostic
+Read,8HTH.00,Referral to back pain clinic,back pain,diagnostic
+Read,J3A2.00,Sciatic hernia - irreducible,back pain,diagnostic
+Read,N144.00,Thoracic and lumbosacral neuritis,back pain,diagnostic
+Read,F350.00,Sciatic nerve lesion,back pain,diagnostic
+Read,N144000,Thoracic neuritis; unspecified,back pain,diagnostic
+Read,N14z.11,Ankylosis of spine NOS,back pain,diagnostic
+Read,N140200,Lumbar spinal stenosis,back pain,diagnostic
+Read,25C7.00,O/E - abd. pain - L.lumbar,back pain,diagnostic
+Read,25C5.00,O/E - abd. pain - R.lumbar,back pain,diagnostic
+Read,N140900,Iatrogenic lumbar spinal stenosis,back pain,diagnostic
+Read,N148.00,Ankylosis/instability of cervical;thoracic or lumbar spine,back pain,diagnostic
+Read,N144011,Thoracic nerve root pain,back pain,diagnostic
+Read,N23yE00,Spasm of back muscles,back pain,diagnostic
+Read,N146200,Sacral ankylosis NOS,back pain,diagnostic
+Read,N144100,Lumbosacral neuritis; unspecified,back pain,diagnostic
+Read,N140100,Thoracic spinal stenosis,back pain,diagnostic
+Read,N146100,Sacroiliac ankylosis,back pain,diagnostic
+Read,N148000,Atlanto-occipital ankylosis,back pain,diagnostic
+Read,N140000,Spinal stenosis of unspecified region,back pain,diagnostic
+Read,N149.00,Back stiffness,back pain,diagnostic
+Read,N148800,Atlanto-axial instability,back pain,diagnostic
+Read,N148700,Atlanto-occipital instability,back pain,diagnostic
+Read,1A53.12,C/O - lumbar pain,back pain,diagnostic
+Read,N148600,Lumbar spine ankylosis,back pain,diagnostic
+Read,N148500,Thoraco-lumbar ankylosis,back pain,diagnostic
+Read,N148400,Thoracic spine ankylosis,back pain,diagnostic
+Read,N146z11,Sacroiliac strain,back pain,diagnostic
+Read,N12..13,Acute back pain - disc,back pain,diagnostic
+Read,J3A0.00,Sciatic hernia with gangrene,back pain,diagnostic
+Read,SJ60.00,Sciatic nerve injury,back pain,diagnostic
+Read,N140.00,Spinal stenosis; excluding cervical region,back pain,diagnostic
+Read,N142.11,Low back pain,back pain,diagnostic
+Read,N140A00,Lumbar spinal stenosis secondary to other disease,back pain,diagnostic
+Read,N140800,Degenerative lumbar spinal stenosis,back pain,diagnostic
+Read,N145.12,Back pain; unspecified,back pain,diagnostic
+Read,N140z00,Spinal stenosis NOS,back pain,diagnostic
+Read,N140600,Thoracic spinal stenosis secondary to other disease,back pain,diagnostic
+Read,J3A3.00,Simple sciatic hernia,back pain,diagnostic
+Read,N147100,Hypermobility of the coccyx,back pain,diagnostic
+Read,N146000,Lumbosacral ankylosis,back pain,diagnostic
+Read,N147211,Pain in coccyx,back pain,diagnostic
+Read,16CA.00,Mechanical low back pain,back pain,diagnostic
+Read,n142.00,Pain in lumbar spine,back pain,diagnostic
+Read,16C9.00,Chronic low back pain,back pain,diagnostic
+Read,N143.11,Acute back pain with sciatica,back pain,diagnostic
+Read,N145.00,Backache; unspecified,back pain,diagnostic

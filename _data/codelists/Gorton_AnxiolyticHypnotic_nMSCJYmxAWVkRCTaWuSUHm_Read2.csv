@@ -1,0 +1,38 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,d24..,chlordiazepoxide,res55: anxiolytic_hypnotic,drug
+Read,d23..,bromazepam,res55: anxiolytic_hypnotic,drug
+Read,d1...,hypnotics,res55: anxiolytic_hypnotic,drug
+Read,d12..,clomethiazole ed. [hypnot],res55: anxiolytic_hypnotic,drug
+Read,d22..,alprazolam,res55: anxiolytic_hypnotic,drug
+Read,d21..,diazepam [anxiolytic],res55: anxiolytic_hypnotic,drug
+Read,d14..,*flunitrazepam,res55: anxiolytic_hypnotic,drug
+Read,d2...,anxiolytics,res55: anxiolytic_hypnotic,drug
+Read,d13..,*dichloralphenazone,res55: anxiolytic_hypnotic,drug
+Read,d16..,loprazolam,res55: anxiolytic_hypnotic,drug
+Read,d15..,flurazepam,res55: anxiolytic_hypnotic,drug
+Read,d1g..,zaleplon,res55: anxiolytic_hypnotic,drug
+Read,d1f..,zolpidem,res55: anxiolytic_hypnotic,drug
+Read,d18..,nitrazepam,res55: anxiolytic_hypnotic,drug
+Read,d1a..,temazepam [hypnotic],res55: anxiolytic_hypnotic,drug
+Read,d17..,lormetazepam,res55: anxiolytic_hypnotic,drug
+Read,d1d..,zoplicone,res55: anxiolytic_hypnotic,drug
+Read,d1c..,triclofos sodium,res55: anxiolytic_hypnotic,drug
+Read,d1b..,triazolam,res55: anxiolytic_hypnotic,drug
+Read,dnc..,clobazam [epilepsy only],res55: anxiolytic_hypnotic,drug
+Read,d11..,chloral hydrate,res55: anxiolytic_hypnotic,drug
+Read,d3..,barbiturates/methyprylone,res55: anxiolytic_hypnotic,drug
+Read,d26..,clobazam,res55: anxiolytic_hypnotic,drug
+Read,d25..,chlormezanone,res55: anxiolytic_hypnotic,drug
+Read,d2f..,buspirone hydrochloride,res55: anxiolytic_hypnotic,drug
+Read,d2b..,*medazepam,res55: anxiolytic_hypnotic,drug
+Read,d2a..,lorazepam [anxiolytic],res55: anxiolytic_hypnotic,drug
+Read,d29..,*ketazolam,res55: anxiolytic_hypnotic,drug
+Read,d2e..,*prazepam,res55: anxiolytic_hypnotic,drug
+Read,d2d..,oxazepam,res55: anxiolytic_hypnotic,drug
+Read,d2c..,meprobamate,res55: anxiolytic_hypnotic,drug
+Read,dn6..,methylphenobarbital,res55: anxiolytic_hypnotic,drug
+Read,dC1..,sodium oxybate,res55: anxiolytic_hypnotic,drug
+Read,dn7..,phenobarbital,res55: anxiolytic_hypnotic,drug
+Read,d32..,methyprylone,res55: anxiolytic_hypnotic,drug
+Read,d31..,barbiturates,res55: anxiolytic_hypnotic,drug
+Read,dn4..,clonazepam [epilepsy control],res55: anxiolytic_hypnotic,drug

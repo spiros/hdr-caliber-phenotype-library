@@ -1,0 +1,100 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,J617000,Chronic alcoholic hepatitis,res41: alcohol,diagnostic
+Read,8H35.00,admitted to alcohol detoxification centre,res41: alcohol,diagnostic
+Read,E230200,Episodic acute alcoholic intoxication in alcoholism,res41: alcohol,diagnostic
+Read,8G32.00,Aversion therapy - alcoholism,res41: alcohol,diagnostic
+Read,1366.00,Very heavy drinker - >9u/day,res41: alcohol,diagnostic
+Read,1282.00,fh: alcoholism,res41: alcohol,diagnostic
+Read,136T.00,harmful alcohol use,res41: alcohol,diagnostic
+Read,136Q.00,Very heavy drinker,res41: alcohol,diagnostic
+Read,66e0.00,alcohol abuse monitoring,res41: alcohol,diagnostic
+Read,1B1c.00,Alcohol induced hallucinations,res41: alcohol,diagnostic
+Read,1462.00,H/O: alcoholism,res41: alcohol,diagnostic
+Read,8IAF.00,brief intervention for excessive alcohol consumptn declined,res41: alcohol,diagnostic
+Read,7P22100,Delivery of rehabilitation for alcohol addiction,res41: alcohol,diagnostic
+Read,8CAv.00,advised to contact primary care alcohol worker,res41: alcohol,diagnostic
+Read,8BA8.00,alcohol detoxification,res41: alcohol,diagnostic
+Read,8HkG.00,Referral to specialist alcohol treatment service,res41: alcohol,diagnostic
+Read,8IAt.00,Extended intervention for excessive alcohol consumption declined,res41: alcohol,diagnostic
+Read,8IAJ.00,declined referral to specialist alcohol treatment service,res41: alcohol,diagnostic
+Read,9NN2.00,Under care of community alcohol team,res41: alcohol,diagnostic
+Read,E230100,Continuous acute alcoholic intoxication in alcoholism,res41: alcohol,diagnostic
+Read,C150500,Alcohol-induced pseudo-Cushing's syndrome,res41: alcohol,diagnostic
+Read,E011000,Korsakov's alcoholic psychosis,res41: alcohol,diagnostic
+Read,E230000,"Acute alcoholic intoxication, unspecified, in alcoholism",res41: alcohol,diagnostic
+Read,9k1B.00,Extended intervention for excessive alcohol consumption completed,res41: alcohol,diagnostic
+Read,E012.00,Other alcoholic dementia,res41: alcohol,diagnostic
+Read,E01..00,Alcoholic psychoses,res41: alcohol,diagnostic
+Read,E010.00,Alcohol withdrawal delirium,res41: alcohol,diagnostic
+Read,E011100,Korsakov's alcoholic psychosis with peripheral neuritis,res41: alcohol,diagnostic
+Read,E011z00,Alcohol amnestic syndrome NOS,res41: alcohol,diagnostic
+Read,E011200,Wernicke-Korsakov syndrome,res41: alcohol,diagnostic
+Read,E012000,Chronic alcoholic brain syndrome,res41: alcohol,diagnostic
+Read,E230.11,alcohol dependence with acute alcoholic intoxication,res41: alcohol,diagnostic
+Read,E012.11,alcoholic dementia nos,res41: alcohol,diagnostic
+Read,E01y000,Alcohol withdrawal syndrome,res41: alcohol,diagnostic
+Read,E014.00,pathological alcohol intoxication,res41: alcohol,diagnostic
+Read,E013.00,Alcohol withdrawal hallucinosis,res41: alcohol,diagnostic
+Read,E01y.00,Other alcoholic psychosis,res41: alcohol,diagnostic
+Read,E015.00,Alcoholic paranoia,res41: alcohol,diagnostic
+Read,E230.00,Acute alcoholic intoxication in alcoholism,res41: alcohol,diagnostic
+Read,E01yz00,Other alcoholic psychosis NOS,res41: alcohol,diagnostic
+Read,E23..11,Alcoholism,res41: alcohol,diagnostic
+Read,E23..00,Alcohol dependence syndrome,res41: alcohol,diagnostic
+Read,E01z.00,Alcoholic psychosis NOS,res41: alcohol,diagnostic
+Read,E231.00,Chronic alcoholism,res41: alcohol,diagnostic
+Read,Z191211,alcohol reduction programme,res41: alcohol,diagnostic
+Read,Eu10611,"[x]korsakov's psychosis, alcohol induced",res41: alcohol,diagnostic
+Read,E250300,nondependent alcohol abuse in remission,res41: alcohol,diagnostic
+Read,E230z00,Acute alcoholic intoxication in alcoholism NOS,res41: alcohol,diagnostic
+Read,E230300,"Acute alcoholic intoxication in remission, in alcoholism",res41: alcohol,diagnostic
+Read,E231000,Unspecified chronic alcoholism,res41: alcohol,diagnostic
+Read,E23z.00,Alcohol dependence syndrome NOS,res41: alcohol,diagnostic
+Read,E231100,Continuous chronic alcoholism,res41: alcohol,diagnostic
+Read,E231z00,Chronic alcoholism NOS,res41: alcohol,diagnostic
+Read,E231300,Chronic alcoholism in remission,res41: alcohol,diagnostic
+Read,E231200,Episodic chronic alcoholism,res41: alcohol,diagnostic
+Read,Eu10400,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium,res41: alcohol,diagnostic
+Read,Eu10600,[X]Mental and behavioural disorders due to use of alcohol: amnesic syndrome,res41: alcohol,diagnostic
+Read,Eu10.00,[X]Mental and behavioural disorders due to use of alcohol,res41: alcohol,diagnostic
+Read,Eu10100,[x]mental and behav dis due to use of alcohol: harmful use,res41: alcohol,diagnostic
+Read,Eu10200,[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome,res41: alcohol,diagnostic
+Read,Eu10300,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state,res41: alcohol,diagnostic
+Read,Eu10211,[x]alcohol addiction,res41: alcohol,diagnostic
+Read,Eu10212,[x]chronic alcoholism,res41: alcohol,diagnostic
+Read,Eu10511,[X]Alcoholic hallucinosis,res41: alcohol,diagnostic
+Read,Eu10500,[X]Mental and behavioural disorders due to use of alcohol: psychotic disorder,res41: alcohol,diagnostic
+Read,Eu10411,"[x]delirium tremens, alcohol induced",res41: alcohol,diagnostic
+Read,Eu10514,[X]Alcoholic psychosis NOS,res41: alcohol,diagnostic
+Read,Eu10513,[X]Alcoholic paranoia,res41: alcohol,diagnostic
+Read,Eu10512,[x]alcoholic jealousy,res41: alcohol,diagnostic
+Read,Z191100,alcohol withdrawal regime,res41: alcohol,diagnostic
+Read,Eu10700,[X]Mental and behavioural disorders due to use of alcohol: residual and late-onset psychotic disorde,res41: alcohol,diagnostic
+Read,Eu10711,[X]Alcoholic dementia NOS,res41: alcohol,diagnostic
+Read,F144000,Cerebellar ataxia due to alcoholism,res41: alcohol,diagnostic
+Read,F11x011,Alcoholic encephalopathy,res41: alcohol,diagnostic
+Read,F11x000,Cerebral degeneration due to alcoholism,res41: alcohol,diagnostic
+Read,Eu10800,[X]Alcohol withdrawal-induced seizure,res41: alcohol,diagnostic
+Read,Eu10712,[X]Chronic alcoholic brain syndrome,res41: alcohol,diagnostic
+Read,Eu10z00,[X]Mental and behavioural disorders due to use of alcohol: unspecified mental and behavioural disord,res41: alcohol,diagnostic
+Read,Eu10y00,[X]Mental and behavioural disorders due to use of alcohol: other mental and behavioural disorders,res41: alcohol,diagnostic
+Read,J613.00,Alcoholic liver damage unspecified,res41: alcohol,diagnostic
+Read,J612000,Alcoholic fibrosis and sclerosis of liver,res41: alcohol,diagnostic
+Read,F25B.00,Alcohol-induced epilepsy,res41: alcohol,diagnostic
+Read,F375.00,Alcoholic polyneuropathy,res41: alcohol,diagnostic
+Read,G852300,Oesophageal varices in alcoholic cirrhosis of the liver,res41: alcohol,diagnostic
+Read,G555.00,Alcoholic cardiomyopathy,res41: alcohol,diagnostic
+Read,J612.00,Alcoholic cirrhosis of liver,res41: alcohol,diagnostic
+Read,F394100,Alcoholic myopathy,res41: alcohol,diagnostic
+Read,J611.00,Acute alcoholic hepatitis,res41: alcohol,diagnostic
+Read,J610.00,Alcoholic fatty liver,res41: alcohol,diagnostic
+Read,J613000,Alcoholic hepatic failure,res41: alcohol,diagnostic
+Read,J617.00,Alcoholic hepatitis,res41: alcohol,diagnostic
+Read,U60H300,[X]Alcohol deterrents causing adverse effects in therapeutic use,res41: alcohol,diagnostic
+Read,J671000,Alcohol-induced chronic pancreatitis,res41: alcohol,diagnostic
+Read,Z191.00,alcohol detoxification,res41: alcohol,diagnostic
+Read,SM00100,denatured alcohol causing toxic effect,res41: alcohol,diagnostic
+Read,SLH3.00,Alcohol deterrent poisoning,res41: alcohol,diagnostic
+Read,U60H311,[X] Adverse reaction to alcohol deterrents,res41: alcohol,diagnostic
+Read,ZV11300,[V]Personal history of alcoholism,res41: alcohol,diagnostic
+Read,ZR1E.11,ads - alcohol dependence scale,res41: alcohol,diagnostic

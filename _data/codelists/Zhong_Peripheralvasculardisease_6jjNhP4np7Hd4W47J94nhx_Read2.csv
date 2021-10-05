@@ -1,0 +1,565 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,R054200,[D]Gangrene of toe in diabetic,res50: peripheral vascular disease,diagnostic
+Read,P7yz000,Congenital aneurysm NEC,res50: peripheral vascular disease,diagnostic
+Read,Pyu2B00,[X]Oth specified cong malform of peripheral vascular system,res50: peripheral vascular disease,diagnostic
+Read,Jyu3200,[X]Oth spcfd abdominal hernia without obstructn or gangrene,res50: peripheral vascular disease,diagnostic
+Read,7A6Ly00,Other specified combined operations on varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A58300,Percutaneous transluminal coil embolisation aneurysm giant,res50: peripheral vascular disease,diagnostic
+Read,7A45.00,Emergency replacement of aneurysmal femoral/popliteal artery,res50: peripheral vascular disease,diagnostic
+Read,7A1B900,Endovascular insertion stent for suprarenal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A14000,Replace aneurysm ascend aorta by anast of aorta/aorta NEC,res50: peripheral vascular disease,diagnostic
+Read,7A13.11,Emergency repair of aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A11y00,Replacement of aneurysmal bifurcation of aorta OS,res50: peripheral vascular disease,diagnostic
+Read,7A13.00,Emergency replacement of aneurysmal segment of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A12.00,Other bypass of bifurcation of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A11z00,Replacement of aneurysmal bifurcation of aorta NOS,res50: peripheral vascular disease,diagnostic
+Read,7A12z00,Other bypass of bifurcation of aorta NOS,res50: peripheral vascular disease,diagnostic
+Read,7A12100,Bypass bifurc aorta by anastom aorta to femoral artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A12000,Emerg bypass bifurc aorta by anast aorta to femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A12y00,Other specified other bypass of bifurcation of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A14.11,Aortic aneurysm repair,res50: peripheral vascular disease,diagnostic
+Read,7A13411,Tube graft abdominal Aortic aneurysm (emergency),res50: peripheral vascular disease,diagnostic
+Read,7A13100,Emerg replace aneurysm thor aorta by anastom aorta to aorta,res50: peripheral vascular disease,diagnostic
+Read,7A13000,Emerg replace aneurysm asc aorta by anastom aorta to aorta,res50: peripheral vascular disease,diagnostic
+Read,7A13400,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC,res50: peripheral vascular disease,diagnostic
+Read,7A13300,Emerg replace aneurysm infrarenal aorta by anast aorta/aorta,res50: peripheral vascular disease,diagnostic
+Read,7A14.00,Other replacement of aneurysmal segment of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A13z00,Emergency replacement of aneurysmal segment of aorta NOS,res50: peripheral vascular disease,diagnostic
+Read,7A13y00,Emergency replacement of aneurysmal segment of aorta OS,res50: peripheral vascular disease,diagnostic
+Read,G701.00,Renal artery atherosclerosis,res50: peripheral vascular disease,diagnostic
+Read,7A15.00,Other emergency bypass of segment of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A14400,Replace aneurysm abdominal aorta by anast aorta to aorta NEC,res50: peripheral vascular disease,diagnostic
+Read,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC,res50: peripheral vascular disease,diagnostic
+Read,7A14z00,Other replacement of aneurysmal segment of aorta NOS,res50: peripheral vascular disease,diagnostic
+Read,7A14411,Tube graft of Abdominal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A14y00,Other replacement of aneurysmal segment of aorta OS,res50: peripheral vascular disease,diagnostic
+Read,7A1B700,Endovascular stenting for aorto-uniiliac aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A16z00,Other bypass of segment of aorta NOS,res50: peripheral vascular disease,diagnostic
+Read,7A15z00,Other emergency bypass of segment of aorta NOS,res50: peripheral vascular disease,diagnostic
+Read,7A15y00,Other specified other emergency bypass of segment of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A16y00,Other specified other bypass of segment of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A16.00,Other bypass of segment of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A19400,Operation on aneurysm of aorta NEC,res50: peripheral vascular disease,diagnostic
+Read,7A17100,Revision of prosthesis of bifurcation of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A19200,Open embolectomy of bifurcation of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A1B800,Endovascul insert stent infrarenal abdominal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A1B.00,Transluminal operations on aneurysmal segment of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A1A100,Percutaneous transluminal angioplasty of aorta NEC,res50: peripheral vascular disease,diagnostic
+Read,7A1B600,Endovascular stenting for aortic aneurysm of bifurcation NEC,res50: peripheral vascular disease,diagnostic
+Read,7A1B100,Endovascular stenting of suprarenal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A1B000,Endovascular stenting infrarenal abdominal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A1B500,Endovascular stenting of aorto-uniiliac aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A1B200,Endovascular stenting of thoracic aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A44211,Arteriography of common iliac artery,res50: peripheral vascular disease,diagnostic
+Read,7A34E00,Operation on aneurysm of inferior mesenteric artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A23700,Obliteration of aneurysm of circle of Willis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A21400,Operation on aneurysm of carotid artery,res50: peripheral vascular disease,diagnostic
+Read,7A1C.00,Translum insert stent graft for aneurysmal segment of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A1BC00,Endovas insert stent for aortic aneurysm of bifurcation NEC,res50: peripheral vascular disease,diagnostic
+Read,7A1BA00,Endovascular insertion of stent for thoracic aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A1Bz00,Transluminal operations on aneurysmal segment of aorta NOS,res50: peripheral vascular disease,diagnostic
+Read,7A1BD00,Endovascular insertion of stent for aorto-uniiliac aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A1Cz00,Translum ins stent graft for aneurysmal segment of aorta NOS,res50: peripheral vascular disease,diagnostic
+Read,7A1C100,Endovas insert of stent graft for suprarenal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A1C000,Endovas ins stent graft for infrarenal abdom aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A1Cy00,OS translum ins stent graft for aneurysmal segment of aorta,res50: peripheral vascular disease,diagnostic
+Read,7A1C200,Endov insertion of stent graft for thoracic aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A1C500,Endovas insertion of stent graft for aorto-uniiliac aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A23600,Obliteration of aneurysm of cerebral artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A23.11,Cerebral artery aneurysm operations,res50: peripheral vascular disease,diagnostic
+Read,7A23.00,Cerebral artery and circle of Willis aneurysm operations,res50: peripheral vascular disease,diagnostic
+Read,7A22000,Percutaneous transluminal angioplasty of carotid artery,res50: peripheral vascular disease,diagnostic
+Read,7A23500,Ligation of aneurysm of circle of Willis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A23100,Excision of aneurysm of circle of Willis,res50: peripheral vascular disease,diagnostic
+Read,7A23.12,Circle of Willis aneurysm operations,res50: peripheral vascular disease,diagnostic
+Read,7A23000,Excision of aneurysm of cerebral artery,res50: peripheral vascular disease,diagnostic
+Read,7A23400,Ligation of aneurysm of cerebral artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A23200,Clipping of aneurysm of cerebral artery,res50: peripheral vascular disease,diagnostic
+Read,7A23300,Clipping of aneurysm of circle of Willis,res50: peripheral vascular disease,diagnostic
+Read,7A34D00,Operation on aneurysm of superior mesenteric artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A27D00,Operation on aneurysm of axillary artery,res50: peripheral vascular disease,diagnostic
+Read,7A23y00,Operation on cerebral artery/ circle of Willis aneurysm OS,res50: peripheral vascular disease,diagnostic
+Read,7A23800,Percutaneous coil embolisation of cerebral artery aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A27C00,Operation on aneurysm of subclavian artery,res50: peripheral vascular disease,diagnostic
+Read,7A23z00,Operation on cerebral artery/ circle of Willis aneurysm NOS,res50: peripheral vascular disease,diagnostic
+Read,7A32000,Percutaneous transluminal angioplasty of renal artery,res50: peripheral vascular disease,diagnostic
+Read,7A28000,Percutaneous transluminal angioplasty of subclavian artery,res50: peripheral vascular disease,diagnostic
+Read,7A27F00,Operation on aneurysm of vertebral artery,res50: peripheral vascular disease,diagnostic
+Read,7A27E00,Operation on aneurysm of brachial artery,res50: peripheral vascular disease,diagnostic
+Read,7A31300,Operation on aneurysm of renal artery,res50: peripheral vascular disease,diagnostic
+Read,7A28200,Percutaneous transluminal angioplasty of vertebral artery,res50: peripheral vascular disease,diagnostic
+Read,7A28100,Percutaneous transluminal angioplasty of brachial artery,res50: peripheral vascular disease,diagnostic
+Read,7A28C00,Percutaneous transluminal angioplasty of axillary artery,res50: peripheral vascular disease,diagnostic
+Read,7A44000,Percutaneous transluminal angioplasty of iliac artery,res50: peripheral vascular disease,diagnostic
+Read,7A41.00,Other bypass of iliac artery,res50: peripheral vascular disease,diagnostic
+Read,7A35200,Percutaneous transluminal angioplasty inf mesenteric art NEC,res50: peripheral vascular disease,diagnostic
+Read,7A34F00,Operation on aneurysm of suprarenal artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A35100,Percutaneous transluminal angioplasty sup mesenteric art NEC,res50: peripheral vascular disease,diagnostic
+Read,7A34K00,Operation on aneurysm visceral branch of abdominal aorta NEC,res50: peripheral vascular disease,diagnostic
+Read,7A35000,Percutaneous transluminal angioplasty of coeliac artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A40z00,Replacement of aneurysmal iliac artery NOS,res50: peripheral vascular disease,diagnostic
+Read,7A35300,Percutaneous transluminal angioplasty suprarenal artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A40y00,Other specified replacement of aneurysmal iliac artery,res50: peripheral vascular disease,diagnostic
+Read,7A40.11,Replacement of aneurysmal iliac artery by anastomosis,res50: peripheral vascular disease,diagnostic
+Read,7A40.00,Replacement of aneurysmal iliac artery,res50: peripheral vascular disease,diagnostic
+Read,7A40A00,Replace aneurysm iliac art by aorta/ext iliac art anast NEC,res50: peripheral vascular disease,diagnostic
+Read,7A40000,Emerg replace aneurysm iliac art by iliac/femoral art anast,res50: peripheral vascular disease,diagnostic
+Read,7A44.11,Transluminal operations on common iliac artery,res50: peripheral vascular disease,diagnostic
+Read,7A41y00,Other specified other bypass of iliac artery,res50: peripheral vascular disease,diagnostic
+Read,7A41000,Emerg bypass iliac art by iliac/femoral art anastomosis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A41.11,Other bypass of iliac artery by anastomosis,res50: peripheral vascular disease,diagnostic
+Read,7A41D00,Bypass iliac artery by iliac/iliac artery anastomosis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A41200,Emerg bypass iliac artery by femoral/femoral art anast NEC,res50: peripheral vascular disease,diagnostic
+Read,7A41100,Bypass iliac artery by iliac/femoral artery anastomosis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A41900,Bypass common iliac artery by aorta/com iliac art anast NEC,res50: peripheral vascular disease,diagnostic
+Read,7A41300,Bypass iliac artery by femoral/femoral art anastomosis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A43200,Operation on aneurysm of iliac artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A42011,Endarterectomy and patch repair of common iliac artery,res50: peripheral vascular disease,diagnostic
+Read,7A41z00,Other bypass of iliac artery NOS,res50: peripheral vascular disease,diagnostic
+Read,7A42.11,Reconstruction of common iliac artery,res50: peripheral vascular disease,diagnostic
+Read,7A43111,Open embolectomy of common iliac artery,res50: peripheral vascular disease,diagnostic
+Read,7A43011,Repair of common iliac artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A42111,Endarterectomy of common iliac artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A43.11,Other open operations on common iliac artery,res50: peripheral vascular disease,diagnostic
+Read,7A58100,Percutaneous transluminal coil embolisation aneurysm medium,res50: peripheral vascular disease,diagnostic
+Read,7A48.16,Other bypass of superficial femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A46D00,Replace aneurysm popliteal artery by pop/fem anastomosis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A46.14,Other replacement of aneurysmal popliteal artery,res50: peripheral vascular disease,diagnostic
+Read,7A45200,Emerg replace aneurysm fem art by fem/pop anast c vein graft,res50: peripheral vascular disease,diagnostic
+Read,7A45.14,Emergency replacement of aneurysmal popliteal artery,res50: peripheral vascular disease,diagnostic
+Read,7A45.12,Emergency replacement of aneurysmal common femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A67.00,Ligation of varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A45000,Emerg replace aneurysm fem art by fem/pop art anast c prosth,res50: peripheral vascular disease,diagnostic
+Read,7A45.15,Emergency replacement aneurysmal superficial femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A46.11,Other replacement aneurysmal femoral artery by anastomosis,res50: peripheral vascular disease,diagnostic
+Read,7A45y00,Emergency replacement aneurysmal femoral/popliteal artery OS,res50: peripheral vascular disease,diagnostic
+Read,7A45700,Emerg replace aneurysm pop art by pop/tib anast c vein graft,res50: peripheral vascular disease,diagnostic
+Read,7A45D00,Emerg replace aneurysm pop artery by pop/fem art anastomosis,res50: peripheral vascular disease,diagnostic
+Read,7A46.00,Other replacement of aneurysmal femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A46C00,Replace aneurysm fem artery by fem/fem art anastomosis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A46.15,Other replacement of aneurysmal superficial femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A46300,Replace aneurysm pop art by pop/pop a anast c vein graft NEC,res50: peripheral vascular disease,diagnostic
+Read,7A46100,Replace aneurysm pop art by pop/pop art anastom c prosth NEC,res50: peripheral vascular disease,diagnostic
+Read,7A46000,Replace aneurysm fem art by fem/pop art anastom c prosth NEC,res50: peripheral vascular disease,diagnostic
+Read,7A48.15,Other bypass of popliteal artery,res50: peripheral vascular disease,diagnostic
+Read,7A47.14,Other emergency bypass of popliteal artery,res50: peripheral vascular disease,diagnostic
+Read,7A47.00,Other emergency bypass of femoral artery or popliteal artery,res50: peripheral vascular disease,diagnostic
+Read,7A46z00,Other replacement of aneurysmal femoral/popliteal artery NOS,res50: peripheral vascular disease,diagnostic
+Read,7A46y00,Other replacement of aneurysmal femoral/popliteal artery OS,res50: peripheral vascular disease,diagnostic
+Read,7A47.13,Other emergency bypass of deep femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A47.12,Other emergency bypass of common femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A48.14,Other bypass of femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A47y00,Other emergency bypass of femoral or popliteal artery OS,res50: peripheral vascular disease,diagnostic
+Read,7A47.16,Other emergency bypass of femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A47.15,Other emergency bypass of superficial femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A47C00,Emerg bypass femoral artery by fem/fem art anastomosis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A48.12,Other bypass of common femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A48.00,Other bypass of femoral artery or popliteal artery,res50: peripheral vascular disease,diagnostic
+Read,7A47z00,Other emergency bypass of femoral or popliteal artery NOS,res50: peripheral vascular disease,diagnostic
+Read,7A48.11,Other bypass of femoral or popliteal artery by anastomosis,res50: peripheral vascular disease,diagnostic
+Read,7A58000,Percutaneous transluminal coil embolisation aneurysm small,res50: peripheral vascular disease,diagnostic
+Read,7A48800,Bypass femoral artery by fem/peron a anast c prosthesis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A48400,Bypass femoral artery by fem/tib art anast c prosthesis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A48200,Bypass femoral artery by fem/pop art anast c vein graft NEC,res50: peripheral vascular disease,diagnostic
+Read,7A48000,Bypass femoral artery by fem/pop art anast c prosthesis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A48600,Bypass femoral artery by fem/tib art anast c vein graft NEC,res50: peripheral vascular disease,diagnostic
+Read,7A58.00,Transluminal coil embolisation of aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A48z00,Other bypass of femoral artery or popliteal artery NOS,res50: peripheral vascular disease,diagnostic
+Read,7A48y00,Other bypass of femoral artery or popliteal artery OS,res50: peripheral vascular disease,diagnostic
+Read,7A48C00,Bypass femoral artery by femoral/femoral art anastomosis NEC,res50: peripheral vascular disease,diagnostic
+Read,7A48A00,Bypass femoral artery by fem/peron a anast c vein graft NEC,res50: peripheral vascular disease,diagnostic
+Read,7A54000,Percutaneous transluminal angioplasty of artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A4B000,Percutaneous transluminal angioplasty of femoral artery,res50: peripheral vascular disease,diagnostic
+Read,7A4A500,Operation on aneurysm of femoral artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A4A400,Ligation of aneurysm of popliteal artery,res50: peripheral vascular disease,diagnostic
+Read,7A53400,Operation on aneurysm of artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A4B100,Percutaneous transluminal angioplasty of popliteal artery,res50: peripheral vascular disease,diagnostic
+Read,R054.00,[D]Gangrene,res50: peripheral vascular disease,diagnostic
+Read,R054000,"[D]Gangrene, spreading cutaneous",res50: peripheral vascular disease,diagnostic
+Read,7A6S000,Percutaneous transluminal angioplasty of vein NEC,res50: peripheral vascular disease,diagnostic
+Read,7A59200,Perc translum balloon assist coil embolisat single aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A67200,Ligation of recurrent varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A59.00,Transluminal balloon assisted coil embolisation of aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A58y00,Other specified transluminal coil embolisation of aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A58z00,Transluminal coil embolisation of aneurysm NOS,res50: peripheral vascular disease,diagnostic
+Read,7A6L.00,Combined operations on varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A5B000,Percutaneous translumin liquid polymer embolisation aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A5A200,Perc trans stent assisted coil embolisation single aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A59z00,Transluminal balloon assisted coil embolisation aneurysm NOS,res50: peripheral vascular disease,diagnostic
+Read,7A5A.00,Transluminal stent assisted coil embolisation of aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A5B.00,Other transluminal embolisation of aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A5Az00,Transluminal stent assisted coil embolisation aneurysm NOS,res50: peripheral vascular disease,diagnostic
+Read,7A66112,Subfascial ligation of varicose veins,res50: peripheral vascular disease,diagnostic
+Read,7A5Bz00,Other transluminal embolisation of aneurysm NOS,res50: peripheral vascular disease,diagnostic
+Read,7A5By00,Other specified other transluminal embolisation of aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A66111,Cockett subfascial ligation of perforating varicose vein,res50: peripheral vascular disease,diagnostic
+Read,7A69211,Mayo stripping of varicose vein,res50: peripheral vascular disease,diagnostic
+Read,7A67y00,Other specified ligation of varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A67311,Linton ligation of perforating varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A67300,Ligation of perforating varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A68000,Injection of sclerosing substance into varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A68.00,Injection into varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A69200,Stripping of varicose vein of leg NEC,res50: peripheral vascular disease,diagnostic
+Read,7A68y00,Other specified injection into varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A68400,Injection of sclerosing substance into varicose vein leg NEC,res50: peripheral vascular disease,diagnostic
+Read,7A69.00,Other operations on varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,G713.11,Ruptured abdominal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A69300,Avulsion of varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A69600,Endovascular radiofrequency ablation of varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A69z00,Other operation on varicose vein of leg NOS,res50: peripheral vascular disease,diagnostic
+Read,7A6M100,Radiofrequency ablation of varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A6H400,Percutaneous transluminal angioplasty of vascular graft,res50: peripheral vascular disease,diagnostic
+Read,7A6My00,Other specified transluminal operations on varicose vein leg,res50: peripheral vascular disease,diagnostic
+Read,7A6M300,Perc transluminal laser ablation of varicose vein of leg NEC,res50: peripheral vascular disease,diagnostic
+Read,G713.00,Abdominal aortic aneurysm which has ruptured,res50: peripheral vascular disease,diagnostic
+Read,A3A0100,Gas gangrene caused by clostridium oedematiens,res50: peripheral vascular disease,diagnostic
+Read,7A6T000,Duplex ultrasound guided compression of pseudoaneurysm,res50: peripheral vascular disease,diagnostic
+Read,A3A0000,Gas gangrene caused by clostridium histolyticum,res50: peripheral vascular disease,diagnostic
+Read,G712.00,Thoracic aortic aneurysm without mention of rupture,res50: peripheral vascular disease,diagnostic
+Read,G700.00,Aortic atherosclerosis,res50: peripheral vascular disease,diagnostic
+Read,A3A0B00,Gas gangrene-hand,res50: peripheral vascular disease,diagnostic
+Read,G421.00,Aneurysm of pulmonary artery,res50: peripheral vascular disease,diagnostic
+Read,G401100,Recurrent pulmonary embolism,res50: peripheral vascular disease,diagnostic
+Read,A3A0F00,Gas gangrene-foot,res50: peripheral vascular disease,diagnostic
+Read,G401.00,Pulmonary embolism,res50: peripheral vascular disease,diagnostic
+Read,A930.00,Syphilitic aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,F05..00,Phlebitis and thrombophlebitis of intracranial sinuses,res50: peripheral vascular disease,diagnostic
+Read,A94y600,Rupture of syphilitic cerebral aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G711.11,Ruptured thoracic aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G70y000,Carotid artery atherosclerosis,res50: peripheral vascular disease,diagnostic
+Read,G701011,ARAS - Atherosclerotic renal artery stenosis,res50: peripheral vascular disease,diagnostic
+Read,G711.00,Thoracic aortic aneurysm which has ruptured,res50: peripheral vascular disease,diagnostic
+Read,G71..00,Aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G710.00,Dissecting aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G722z00,Aneurysm of iliac artery NOS,res50: peripheral vascular disease,diagnostic
+Read,G714.00,Abdominal aortic aneurysm without mention of rupture,res50: peripheral vascular disease,diagnostic
+Read,7A6M.00,Transluminal operations on varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,G713000,Ruptured suprarenal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G714200,Infrarenal abdominal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G714100,Inflammatory abdominal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,A3A0E00,Gas gangrene-leg,res50: peripheral vascular disease,diagnostic
+Read,G714000,Juxtarenal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G714.11,AAA - Abdominal aortic aneurysm without mention of rupture,res50: peripheral vascular disease,diagnostic
+Read,A3A0500,Gas gangrene,res50: peripheral vascular disease,diagnostic
+Read,G715.00,Ruptured aortic aneurysm NOS,res50: peripheral vascular disease,diagnostic
+Read,G714300,Aneurysm of suprarenal aorta,res50: peripheral vascular disease,diagnostic
+Read,G716000,"Thoracoabdominal aortic aneurysm, without mention of rupture",res50: peripheral vascular disease,diagnostic
+Read,G715000,"Thoracoabdominal aortic aneurysm, ruptured",res50: peripheral vascular disease,diagnostic
+Read,G723500,Ruptured popliteal artery aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G723100,Aneurysm of popliteal artery,res50: peripheral vascular disease,diagnostic
+Read,G722000,Aneurysm of common iliac artery,res50: peripheral vascular disease,diagnostic
+Read,G720100,Aneurysm of radial artery,res50: peripheral vascular disease,diagnostic
+Read,G71z.00,Aortic aneurysm NOS,res50: peripheral vascular disease,diagnostic
+Read,G718.00,Leaking abdominal aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G720.00,Aneurysm of artery of arm,res50: peripheral vascular disease,diagnostic
+Read,G722.00,Aneurysm of iliac artery,res50: peripheral vascular disease,diagnostic
+Read,G720200,Aneurysm of ulnar artery,res50: peripheral vascular disease,diagnostic
+Read,G721.00,Aneurysm of renal artery,res50: peripheral vascular disease,diagnostic
+Read,G723.00,Aneurysm of leg artery,res50: peripheral vascular disease,diagnostic
+Read,G722100,Aneurysm of external iliac artery,res50: peripheral vascular disease,diagnostic
+Read,G720z00,Aneurysm of arm artery NOS,res50: peripheral vascular disease,diagnostic
+Read,G720000,Aneurysm of brachial artery,res50: peripheral vascular disease,diagnostic
+Read,G722200,Aneurysm of internal iliac artery,res50: peripheral vascular disease,diagnostic
+Read,G723000,Aneurysm of femoral artery,res50: peripheral vascular disease,diagnostic
+Read,G723300,Aneurysm of dorsalis pedis artery,res50: peripheral vascular disease,diagnostic
+Read,G723200,Aneurysm of anterior tibial artery,res50: peripheral vascular disease,diagnostic
+Read,G723400,Aneurysm of posterior tibial artery,res50: peripheral vascular disease,diagnostic
+Read,G74..00,Arterial embolism and thrombosis,res50: peripheral vascular disease,diagnostic
+Read,G73..00,Other peripheral vascular disease,res50: peripheral vascular disease,diagnostic
+Read,G72y200,Aneurysm of internal carotid artery,res50: peripheral vascular disease,diagnostic
+Read,G724.00,Arterial false aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G723z00,Aneurysm of leg artery NOS,res50: peripheral vascular disease,diagnostic
+Read,G723600,Post radiological femoral false aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G72..00,Other aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G72D.00,Aneurysm of dialysis arteriovenous fistula,res50: peripheral vascular disease,diagnostic
+Read,G72C.00,Ruptured aneurysm of dialysis vascular access,res50: peripheral vascular disease,diagnostic
+Read,G724.11,False aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G72y100,Aneurysm of external carotid artery,res50: peripheral vascular disease,diagnostic
+Read,G72D100,Aneurysm of needle site of dialysis arteriovenous fistula,res50: peripheral vascular disease,diagnostic
+Read,G72y000,Aneurysm of common carotid art,res50: peripheral vascular disease,diagnostic
+Read,G72z.00,Aneurysm NOS,res50: peripheral vascular disease,diagnostic
+Read,G72y600,Aneurysm of axillary artery,res50: peripheral vascular disease,diagnostic
+Read,G72y400,Aneurysm of subclavian artery,res50: peripheral vascular disease,diagnostic
+Read,G72y500,Aneurysm of splenic artery,res50: peripheral vascular disease,diagnostic
+Read,G72y900,Aneurysm of inferior mesenteric artery,res50: peripheral vascular disease,diagnostic
+Read,G72y800,Aneurysm of superior mesenteric artery,res50: peripheral vascular disease,diagnostic
+Read,G72y700,Aneurysm of coeliac artery,res50: peripheral vascular disease,diagnostic
+Read,G72yB00,Aneurysm of other visceral artery,res50: peripheral vascular disease,diagnostic
+Read,G72yA00,Aneurysm of hepatic artery,res50: peripheral vascular disease,diagnostic
+Read,G73z012,Vascular claudication,res50: peripheral vascular disease,diagnostic
+Read,G732.00,Peripheral gangrene,res50: peripheral vascular disease,diagnostic
+Read,G730100,Raynaud's phenomenon,res50: peripheral vascular disease,diagnostic
+Read,G73..11,Peripheral ischaemic vascular disease,res50: peripheral vascular disease,diagnostic
+Read,G730000,Raynaud's disease,res50: peripheral vascular disease,diagnostic
+Read,G730.00,Raynaud's syndrome,res50: peripheral vascular disease,diagnostic
+Read,G731z00,Thromboangiitis obliterans NOS,res50: peripheral vascular disease,diagnostic
+Read,G731000,Buerger's disease,res50: peripheral vascular disease,diagnostic
+Read,G730z00,Raynaud's syndrome NOS,res50: peripheral vascular disease,diagnostic
+Read,G731.00,Thromboangiitis obliterans,res50: peripheral vascular disease,diagnostic
+Read,G731100,Presenile gangrene,res50: peripheral vascular disease,diagnostic
+Read,G73zz00,Peripheral vascular disease NOS,res50: peripheral vascular disease,diagnostic
+Read,G734.00,Peripheral arterial disease,res50: peripheral vascular disease,diagnostic
+Read,G732100,Gangrene of foot,res50: peripheral vascular disease,diagnostic
+Read,G732000,Gangrene of toe,res50: peripheral vascular disease,diagnostic
+Read,G732400,Gangrene of hand,res50: peripheral vascular disease,diagnostic
+Read,G732200,Gangrene of finger,res50: peripheral vascular disease,diagnostic
+Read,G73z011,Claudication,res50: peripheral vascular disease,diagnostic
+Read,G732300,Gangrene of thumb,res50: peripheral vascular disease,diagnostic
+Read,G73y.00,Other specified peripheral vascular disease,res50: peripheral vascular disease,diagnostic
+Read,G73z.00,Peripheral vascular disease NOS,res50: peripheral vascular disease,diagnostic
+Read,G73yz00,Other specified peripheral vascular disease NOS,res50: peripheral vascular disease,diagnostic
+Read,G742200,Embolism and thrombosis of the ulnar artery,res50: peripheral vascular disease,diagnostic
+Read,G742100,Embolism and thrombosis of the radial artery,res50: peripheral vascular disease,diagnostic
+Read,G741.00,Embolism and thrombosis of the thoracic aorta,res50: peripheral vascular disease,diagnostic
+Read,G740.00,Embolism and thrombosis of the abdominal aorta,res50: peripheral vascular disease,diagnostic
+Read,G742000,Embolism and thrombosis of the brachial artery,res50: peripheral vascular disease,diagnostic
+Read,G742.00,Embolism and thrombosis of an arm or leg artery,res50: peripheral vascular disease,diagnostic
+Read,G742400,Embolism and thrombosis of the femoral artery,res50: peripheral vascular disease,diagnostic
+Read,G73z000,Intermittent claudication,res50: peripheral vascular disease,diagnostic
+Read,G742300,Embolism and thrombosis of an arm artery NOS,res50: peripheral vascular disease,diagnostic
+Read,G742800,Embolism and thrombosis of the posterior tibial artery,res50: peripheral vascular disease,diagnostic
+Read,G742700,Embolism and thrombosis of the dorsalis pedis artery,res50: peripheral vascular disease,diagnostic
+Read,G742900,Embolism and thrombosis of a leg artery NOS,res50: peripheral vascular disease,diagnostic
+Read,G742z00,Peripheral arterial embolism and thrombosis NOS,res50: peripheral vascular disease,diagnostic
+Read,G74y.00,Embolism and thrombosis of other specified artery,res50: peripheral vascular disease,diagnostic
+Read,G74y600,Embolism and thrombosis of the splenic artery,res50: peripheral vascular disease,diagnostic
+Read,G74y900,Embolism and thrombosis of the hepatic artery,res50: peripheral vascular disease,diagnostic
+Read,G74y800,Embolism and thrombosis of the coeliac artery,res50: peripheral vascular disease,diagnostic
+Read,G820.11,Hepatic vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,G801C00,Deep vein thrombosis of leg related to air travel,res50: peripheral vascular disease,diagnostic
+Read,G801.00,Deep vein phlebitis and thrombophlebitis of the leg,res50: peripheral vascular disease,diagnostic
+Read,G800z00,Superficial phlebitis and thrombophlebitis of the leg NOS,res50: peripheral vascular disease,diagnostic
+Read,G80..00,Phlebitis and thrombophlebitis,res50: peripheral vascular disease,diagnostic
+Read,G800.11,Saphenous vein phlebitis,res50: peripheral vascular disease,diagnostic
+Read,G800.00,Superficial vessel phlebitis and/or thrombophlebitis of leg,res50: peripheral vascular disease,diagnostic
+Read,G800.12,Saphenous vein thrombophlebitis,res50: peripheral vascular disease,diagnostic
+Read,G800500,Thrombophlebitis of a superficial leg vein NOS,res50: peripheral vascular disease,diagnostic
+Read,G800400,Thrombophlebitis of the short saphenous vein,res50: peripheral vascular disease,diagnostic
+Read,G801B00,Deep vein thrombophlebitis of the leg unspecified,res50: peripheral vascular disease,diagnostic
+Read,G801400,Phlebitis of the posterior tibial vein,res50: peripheral vascular disease,diagnostic
+Read,G801.12,"Deep vein thrombosis, leg",res50: peripheral vascular disease,diagnostic
+Read,G801.11,Deep vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,G801200,Phlebitis of the anterior tibial vein,res50: peripheral vascular disease,diagnostic
+Read,G801100,Phlebitis of the popliteal vein,res50: peripheral vascular disease,diagnostic
+Read,G801.13,DVT - Deep vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,G801000,Phlebitis of the femoral vein,res50: peripheral vascular disease,diagnostic
+Read,G801600,Thrombophlebitis of the femoral vein,res50: peripheral vascular disease,diagnostic
+Read,G801900,Thrombophlebitis of the dorsalis pedis vein,res50: peripheral vascular disease,diagnostic
+Read,G820.00,Budd - Chiari syndrome (hepatic vein thrombosis),res50: peripheral vascular disease,diagnostic
+Read,G801z00,Deep vein phlebitis and thrombophlebitis of the leg NOS,res50: peripheral vascular disease,diagnostic
+Read,G801D00,Deep vein thrombosis of lower limb,res50: peripheral vascular disease,diagnostic
+Read,G802.00,Phlebitis and thrombophlebitis of the leg NOS,res50: peripheral vascular disease,diagnostic
+Read,G80y.00,Other phlebitis and thrombophlebitis,res50: peripheral vascular disease,diagnostic
+Read,G80y000,Phlebitis of the common iliac vein,res50: peripheral vascular disease,diagnostic
+Read,G80y500,Thrombophlebitis of the internal iliac vein,res50: peripheral vascular disease,diagnostic
+Read,G81..00,Portal vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,G82..00,Other venous embolism and thrombosis,res50: peripheral vascular disease,diagnostic
+Read,G80zz00,Phlebitis and thrombophlebitis NOS,res50: peripheral vascular disease,diagnostic
+Read,R054300,[D]Widespread diabetic foot gangrene,res50: peripheral vascular disease,diagnostic
+Read,J344.00,Hiatus hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,G821.00,Thrombophlebitis migrans,res50: peripheral vascular disease,diagnostic
+Read,G822.00,Embolism and thrombosis of the vena cava,res50: peripheral vascular disease,diagnostic
+Read,Gyu7400,[X]Other specified peripheral vascular diseases,res50: peripheral vascular disease,diagnostic
+Read,G832.00,Varicose veins of the leg with ulcer and eczema,res50: peripheral vascular disease,diagnostic
+Read,G82z111,Penis vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,G82y.00,Other embolism and thrombosis,res50: peripheral vascular disease,diagnostic
+Read,G823.00,Embolism and thrombosis of the renal vein,res50: peripheral vascular disease,diagnostic
+Read,G824.00,Axillary vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,G831.00,Varicose veins of the leg with eczema,res50: peripheral vascular disease,diagnostic
+Read,G830.00,Varicose veins of the leg with ulcer,res50: peripheral vascular disease,diagnostic
+Read,G83..00,Varicose veins of the legs,res50: peripheral vascular disease,diagnostic
+Read,G82zz00,Embolism and thrombosis NOS,res50: peripheral vascular disease,diagnostic
+Read,Gyu7300,[X]Aneurysm of other specified arteries,res50: peripheral vascular disease,diagnostic
+Read,G836.00,Varicose vein of leg with phlebitis,res50: peripheral vascular disease,diagnostic
+Read,G833.00,Varicose veins of the leg with rupture,res50: peripheral vascular disease,diagnostic
+Read,G834100,Varicose veins of leg with short saphenous vein distribution,res50: peripheral vascular disease,diagnostic
+Read,G834000,Varicose veins of leg with long saphenous vein distribution,res50: peripheral vascular disease,diagnostic
+Read,G834.00,Varicose veins of leg without mention of complications,res50: peripheral vascular disease,diagnostic
+Read,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured",res50: peripheral vascular disease,diagnostic
+Read,G85..00,Other varicose veins,res50: peripheral vascular disease,diagnostic
+Read,G83z.00,Varicose veins of the leg NOS,res50: peripheral vascular disease,diagnostic
+Read,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured",res50: peripheral vascular disease,diagnostic
+Read,G85z.00,Other varicose veins NOS,res50: peripheral vascular disease,diagnostic
+Read,Gyu7000,[X]Atherosclerosis of other arteries,res50: peripheral vascular disease,diagnostic
+Read,Jyu3000,"[X]Other specified abdominal hernia+obstruction,w'o gangrene",res50: peripheral vascular disease,diagnostic
+Read,J300000,Unilateral inguinal hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,Gyu8600,[X]Varicose veins of other specified sites,res50: peripheral vascular disease,diagnostic
+Read,Gyu8200,[X]Embolism and thrombosis of other specified veins,res50: peripheral vascular disease,diagnostic
+Read,Gyu7800,[X]Aneurysm of aorta in diseases classified elsewhere,res50: peripheral vascular disease,diagnostic
+Read,Gyu8100,[X]Phlebitis and thombophlebitis of other sites,res50: peripheral vascular disease,diagnostic
+Read,G85y.00,Other specified varicose veins,res50: peripheral vascular disease,diagnostic
+Read,Gyu8000,[X]Phlebitis+thrombophlebitis/oth deep vessls/low extremites,res50: peripheral vascular disease,diagnostic
+Read,J300.00,Inguinal hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,J062000,Aneurysmal cyst of jaw,res50: peripheral vascular disease,diagnostic
+Read,J621.11,Phlebitis of portal vein,res50: peripheral vascular disease,diagnostic
+Read,J3z0.00,Unspecified abdominal cavity hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,J300300,Bilateral recurrent inguinal hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,J3y0.00,Other specified abdominal cavity hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,J300z00,Inguinal hernia with gangrene NOS,res50: peripheral vascular disease,diagnostic
+Read,J320100,Paraumbilical hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,J310000,Unilateral femoral hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,J310z00,Femoral hernia with gangrene NOS,res50: peripheral vascular disease,diagnostic
+Read,J310.00,Femoral hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,J3C0.00,Spigelian hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,J330200,Epigastric hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,J320z00,Umbilical hernia with gangrene NOS,res50: peripheral vascular disease,diagnostic
+Read,J021000,Pulp gangrene,res50: peripheral vascular disease,diagnostic
+Read,J330.00,Ventral hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,J330100,Incisional hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,G82z.00,Embolism and thrombosis NOS,res50: peripheral vascular disease,diagnostic
+Read,J330z00,Ventral hernia with gangrene NOS,res50: peripheral vascular disease,diagnostic
+Read,J340.00,Diaphragmatic hernia with gangrene,res50: peripheral vascular disease,diagnostic
+Read,P76z.00,Peripheral vascular system anomaly NOS,res50: peripheral vascular disease,diagnostic
+Read,J420.13,Gangrene - intestine,res50: peripheral vascular disease,diagnostic
+Read,L41..11,Varicose veins - obstetric,res50: peripheral vascular disease,diagnostic
+Read,K284600,Fournier's gangrene of scrotum,res50: peripheral vascular disease,diagnostic
+Read,L096400,Pulmonary embolism following abortive pregnancy,res50: peripheral vascular disease,diagnostic
+Read,L410400,Varicose veins of legs in pregnancy/puerperium + p/n comp,res50: peripheral vascular disease,diagnostic
+Read,L410.00,Varicose veins of legs in pregnancy and the puerperium,res50: peripheral vascular disease,diagnostic
+Read,L410000,Varicose veins of legs in pregnancy/puerperium unspecified,res50: peripheral vascular disease,diagnostic
+Read,L410600,Varicose veins of legs in the puerperium,res50: peripheral vascular disease,diagnostic
+Read,L412500,Superficial thrombophlebitis in pregnancy,res50: peripheral vascular disease,diagnostic
+Read,L412.00,Superficial thrombophlebitis in pregnancy and the puerperium,res50: peripheral vascular disease,diagnostic
+Read,L411z00,Varicose veins of perineum/vulva in pregnancy/puerperium NOS,res50: peripheral vascular disease,diagnostic
+Read,L412400,Superficial thrombophlebitis in preg/puerperium + p/n comp,res50: peripheral vascular disease,diagnostic
+Read,L412212,Puerperal phlebitis,res50: peripheral vascular disease,diagnostic
+Read,L415600,Other phlebitis in the puerperium,res50: peripheral vascular disease,diagnostic
+Read,L412611,Thombophlebitis of legs in the puerperium,res50: peripheral vascular disease,diagnostic
+Read,L412600,Superficial thrombophlebitis in the puerperium,res50: peripheral vascular disease,diagnostic
+Read,L412z00,Superficial thrombophlebitis in pregnancy and puerperium NOS,res50: peripheral vascular disease,diagnostic
+Read,L415300,Other phlebitis/thrombosis in preg/puerperium + a/n comp,res50: peripheral vascular disease,diagnostic
+Read,L414.00,Postnatal deep vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,L414000,Postnatal deep vein thrombosis unspecified,res50: peripheral vascular disease,diagnostic
+Read,L415100,Other phlebitis/thrombosis in pregnancy/puerperium - deliv,res50: peripheral vascular disease,diagnostic
+Read,L415.00,Other phlebitis and thrombosis in pregnancy and puerperium,res50: peripheral vascular disease,diagnostic
+Read,L415000,Other phlebitis/thrombosis in pregnancy/puerperium unsp,res50: peripheral vascular disease,diagnostic
+Read,R054z00,[D]Gangrene NOS,res50: peripheral vascular disease,diagnostic
+Read,P736.00,Pulmonary arterio-venous aneurysm,res50: peripheral vascular disease,diagnostic
+Read,L430.00,Obstetric air pulmonary embolism,res50: peripheral vascular disease,diagnostic
+Read,L41z611,Puerperal phlebitis NOS,res50: peripheral vascular disease,diagnostic
+Read,L431100,Amniotic fluid pulmonary embolism - delivered,res50: peripheral vascular disease,diagnostic
+Read,L43..00,Obstetric pulmonary embolism,res50: peripheral vascular disease,diagnostic
+Read,L431.00,Amniotic fluid pulmonary embolism,res50: peripheral vascular disease,diagnostic
+Read,P76yz00,Other congenital anomaly of peripheral vascular system NOS,res50: peripheral vascular disease,diagnostic
+Read,P72z100,Congenital aneurysm of aorta,res50: peripheral vascular disease,diagnostic
+Read,P72z000,Aneurysm of sinus of Valsalva,res50: peripheral vascular disease,diagnostic
+Read,L43zz00,Obstetric pulmonary embolism NOS,res50: peripheral vascular disease,diagnostic
+Read,L43z400,Obstetric pulmonary embolism NOS with postnatal complication,res50: peripheral vascular disease,diagnostic
+Read,ZV12900,[V] Personal history of pulmonary embolism,res50: peripheral vascular disease,diagnostic
+Read,SP32200,Thrombophlebitis after infusion,res50: peripheral vascular disease,diagnostic
+Read,P76y.00,Congenital anomaly of peripheral vascular system OS,res50: peripheral vascular disease,diagnostic
+Read,P767.11,Cirsoid aneurysm,res50: peripheral vascular disease,diagnostic
+Read,SP32000,Phlebitis after infusion,res50: peripheral vascular disease,diagnostic
+Read,P766.00,Peripheral arterio-venous aneurysm,res50: peripheral vascular disease,diagnostic
+Read,SP12.00,Peripheral vascular complications of care,res50: peripheral vascular disease,diagnostic
+Read,Z9K4.00,Deep vein thrombosis prevention,res50: peripheral vascular disease,diagnostic
+Read,L413.00,Antenatal deep vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,SP12000,Phlebitis as a complication of care,res50: peripheral vascular disease,diagnostic
+Read,SP12100,Thrombophlebitis as a complication of care,res50: peripheral vascular disease,diagnostic
+Read,ZV12800,[V] Personal history deep vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,ZV12811,[V] Personal history DVT- deep vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,SP12200,Post operative deep vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,SP12z00,Peripheral vascular complications of care NOS,res50: peripheral vascular disease,diagnostic
+Read,L413000,Antenatal deep vein thrombosis unspecified,res50: peripheral vascular disease,diagnostic
+Read,L432.00,Obstetric blood-clot pulmonary embolism,res50: peripheral vascular disease,diagnostic
+Read,P737.00,Pulmonary artery aneurysm,res50: peripheral vascular disease,diagnostic
+Read,P767.00,Congenital peripheral aneurysm,res50: peripheral vascular disease,diagnostic
+Read,P76..00,Other peripheral vascular system anomalies,res50: peripheral vascular disease,diagnostic
+Read,L43z.00,Obstetric pulmonary embolism NOS,res50: peripheral vascular disease,diagnostic
+Read,L43z100,Obstetric pulmonary embolism NOS - delivered,res50: peripheral vascular disease,diagnostic
+Read,L43z000,"Obstetric pulmonary embolism NOS, unspecified",res50: peripheral vascular disease,diagnostic
+Read,L413100,Antenatal deep vein thrombosis - delivered,res50: peripheral vascular disease,diagnostic
+Read,L414200,Postnatal deep vein thrombosis with postnatal complication,res50: peripheral vascular disease,diagnostic
+Read,L41z511,Gestational phlebitis NOS,res50: peripheral vascular disease,diagnostic
+Read,L414z00,Postnatal deep vein thrombosis NOS,res50: peripheral vascular disease,diagnostic
+Read,L413200,Antenatal deep vein thrombosis with antenatal complication,res50: peripheral vascular disease,diagnostic
+Read,L413z00,Antenatal deep vein thrombosis NOS,res50: peripheral vascular disease,diagnostic
+Read,G80y600,Thrombophlebitis of the external iliac vein,res50: peripheral vascular disease,diagnostic
+Read,L410z00,Varicose veins of legs in pregnancy and puerperium NOS,res50: peripheral vascular disease,diagnostic
+Read,L412000,Superficial thrombophlebitis in pregnancy/puerperium unsp,res50: peripheral vascular disease,diagnostic
+Read,L412511,Thrombophlebitis of legs in pregnancy,res50: peripheral vascular disease,diagnostic
+Read,L412211,Phlebitis - postpartum,res50: peripheral vascular disease,diagnostic
+Read,L411.11,Perineal obstetric varicose veins,res50: peripheral vascular disease,diagnostic
+Read,L411.12,Vulval obstetric varicose veins,res50: peripheral vascular disease,diagnostic
+Read,G80y700,Thrombophlebitis of the iliac vein unspecified,res50: peripheral vascular disease,diagnostic
+Read,G80yz00,Other phlebitis and thrombophlebitis NOS,res50: peripheral vascular disease,diagnostic
+Read,L410500,Varicose veins of legs in pregnancy,res50: peripheral vascular disease,diagnostic
+Read,G80z.00,Phlebitis and thrombophlebitis NOS,res50: peripheral vascular disease,diagnostic
+Read,G80y800,Phlebitis and thrombophlebitis of the iliac vein NOS,res50: peripheral vascular disease,diagnostic
+Read,G80y900,Thrombophlebitis of the breast - Mondor's disease,res50: peripheral vascular disease,diagnostic
+Read,G800000,Phlebitis of the long saphenous vein,res50: peripheral vascular disease,diagnostic
+Read,G801E00,Deep vein thrombosis of leg related to intravenous drug use,res50: peripheral vascular disease,diagnostic
+Read,G80y200,Phlebitis of the external iliac vein,res50: peripheral vascular disease,diagnostic
+Read,G80y400,Thrombophlebitis of the common iliac vein,res50: peripheral vascular disease,diagnostic
+Read,G80y300,Phlebitis of the iliac vein unspecified,res50: peripheral vascular disease,diagnostic
+Read,G801F00,Deep vein thrombosis of peroneal vein,res50: peripheral vascular disease,diagnostic
+Read,G80y.11,Phlebitis and/or thrombophlebitis of iliac vein,res50: peripheral vascular disease,diagnostic
+Read,G801G00,Recurrent deep vein thrombosis,res50: peripheral vascular disease,diagnostic
+Read,G800100,Phlebitis of the short saphenous vein,res50: peripheral vascular disease,diagnostic
+Read,G801700,Thrombophlebitis of the popliteal vein,res50: peripheral vascular disease,diagnostic
+Read,G801A00,Thrombophlebitis of the posterior tibial vein,res50: peripheral vascular disease,diagnostic
+Read,G801800,Thrombophlebitis of the anterior tibial vein,res50: peripheral vascular disease,diagnostic
+Read,G800200,Phlebitis of a superficial leg vein NOS,res50: peripheral vascular disease,diagnostic
+Read,G801500,Deep vein phlebitis of the leg unspecified,res50: peripheral vascular disease,diagnostic
+Read,G800300,Thrombophlebitis of the long saphenous vein,res50: peripheral vascular disease,diagnostic
+Read,G72D200,Aneurysm of anastomotic site of dialysis AV fistula,res50: peripheral vascular disease,diagnostic
+Read,G74y000,Embolism and/or thrombosis of the common iliac artery,res50: peripheral vascular disease,diagnostic
+Read,G74yz00,Embolism and thrombosis of other arteries NOS,res50: peripheral vascular disease,diagnostic
+Read,G76A.00,Arterial insufficiency,res50: peripheral vascular disease,diagnostic
+Read,G74z.00,Arterial embolism and thrombosis NOS,res50: peripheral vascular disease,diagnostic
+Read,G74y300,Embolism and thrombosis of the iliac artery unspecified,res50: peripheral vascular disease,diagnostic
+Read,G74y700,Embolism and thrombosis of the axillary artery,res50: peripheral vascular disease,diagnostic
+Read,G74y500,Embolism and thrombosis of the subclavian artery,res50: peripheral vascular disease,diagnostic
+Read,G72y.00,Aneurysm of other artery,res50: peripheral vascular disease,diagnostic
+Read,G742500,Embolism and thrombosis of the popliteal artery,res50: peripheral vascular disease,diagnostic
+Read,G743.00,Embolism and thrombosis of other and unspec parts aorta,res50: peripheral vascular disease,diagnostic
+Read,G742600,Embolism and thrombosis of the anterior tibial artery,res50: peripheral vascular disease,diagnostic
+Read,G72y300,Aneurysm of neck artery NOS,res50: peripheral vascular disease,diagnostic
+Read,G73..12,Ischaemia of legs,res50: peripheral vascular disease,diagnostic
+Read,G72yz00,Other aneurysm NOS,res50: peripheral vascular disease,diagnostic
+Read,G80z000,Phlebitis NOS,res50: peripheral vascular disease,diagnostic
+Read,G717.00,Aortic aneurysm - syphilitic,res50: peripheral vascular disease,diagnostic
+Read,G716.00,Aortic aneurysm without mention of rupture NOS,res50: peripheral vascular disease,diagnostic
+Read,A3A0200,Gas gangrene caused by clostridium perfringens,res50: peripheral vascular disease,diagnostic
+Read,A3A0.00,Gas gangrene,res50: peripheral vascular disease,diagnostic
+Read,7A6Mz00,Transluminal operations on varicose vein of leg NOS,res50: peripheral vascular disease,diagnostic
+Read,7A6Lz00,Combined operations on varicose vein of leg NOS,res50: peripheral vascular disease,diagnostic
+Read,7A69311,Babcock subcutaneous enucleation of varicose veins,res50: peripheral vascular disease,diagnostic
+Read,7A69700,Endovascular laser ablation of varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A6G800,Thrombin injection for pseudoaneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A69y00,Other specified other operation on varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A69400,Local excision of varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A69500,Incision of varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A68200,Ultrasound guided foam sclerotherapy for varicose vein leg,res50: peripheral vascular disease,diagnostic
+Read,7A68z00,Injection into varicose vein of leg NOS,res50: peripheral vascular disease,diagnostic
+Read,7A68300,Transilluminated powered phlebectomy of varicose vein of leg,res50: peripheral vascular disease,diagnostic
+Read,7A67z00,Ligation of varicose vein of leg NOS,res50: peripheral vascular disease,diagnostic
+Read,7A11311,Y graft abdominal Aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,G80z100,Thrombophlebitis NOS,res50: peripheral vascular disease,diagnostic
+Read,7A11300,Replace aneurysm bifurc aorta by anast aorta to iliac artery,res50: peripheral vascular disease,diagnostic
+Read,14AG.00,H/O: phlebitis,res50: peripheral vascular disease,diagnostic
+Read,14AE.00,H/O: aortic aneurysm,res50: peripheral vascular disease,diagnostic
+Read,14A8100,H/O: Deep Vein Thrombosis,res50: peripheral vascular disease,diagnostic
+Read,14A9.00,H/O: varicose veins,res50: peripheral vascular disease,diagnostic
+Read,790N300,Repair of left ventricular aneurysm,res50: peripheral vascular disease,diagnostic
+Read,2I17.00,O/E - phlebitis,res50: peripheral vascular disease,diagnostic
+Read,14NB.00,H/O: Peripheral vascular disease procedure,res50: peripheral vascular disease,diagnostic
+Read,2456,O/E - arterial wall - aneurysm,res50: peripheral vascular disease,diagnostic
+Read,2I16.00,O/E - gangrene,res50: peripheral vascular disease,diagnostic
+Read,2482,O/E - varicose veins,res50: peripheral vascular disease,diagnostic
+Read,2BB4.00,O/E - retinal microaneurysms,res50: peripheral vascular disease,diagnostic
+Read,16I..00,Claudication distance,res50: peripheral vascular disease,diagnostic
+Read,7808300,Percutaneous transluminal angioplasty of blood vessel liver,res50: peripheral vascular disease,diagnostic
+Read,790N200,Repair of right ventricular aneurysm,res50: peripheral vascular disease,diagnostic
+Read,7A11211,Y graft of abdominal Aortic aneurysm (emergency),res50: peripheral vascular disease,diagnostic
+Read,7927100,Repair of aneurysm of coronary artery,res50: peripheral vascular disease,diagnostic
+Read,791B500,Repair of aortic sinus of Valsalva aneurysm,res50: peripheral vascular disease,diagnostic
+Read,792D.00,Other bypass of coronary artery,res50: peripheral vascular disease,diagnostic
+Read,7A11200,Emerg repl aneurysm bifurc aorta by anast aorta to iliac a,res50: peripheral vascular disease,diagnostic
+Read,792Dy00,Other specified other bypass of coronary artery,res50: peripheral vascular disease,diagnostic
+Read,792Dz00,Other bypass of coronary artery NOS,res50: peripheral vascular disease,diagnostic
+Read,7A11000,Emerg repl aneurysm bifurc aorta by anast aorta to fem art,res50: peripheral vascular disease,diagnostic
+Read,7A10400,Bypass aorta anastomosis axillary artery bi femoral arteries,res50: peripheral vascular disease,diagnostic
+Read,7A10100,Bypass aorta by anastomosis axillary to femoral artery NEC,res50: peripheral vascular disease,diagnostic
+Read,7A11100,Replace aneurysm bifurc aorta by anast aorta to femoral art,res50: peripheral vascular disease,diagnostic
+Read,7A11.00,Replacement of aneurysmal bifurcation of aorta,res50: peripheral vascular disease,diagnostic

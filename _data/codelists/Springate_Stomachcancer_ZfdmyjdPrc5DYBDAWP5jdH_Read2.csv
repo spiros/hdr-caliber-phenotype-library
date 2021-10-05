@@ -1,0 +1,21 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B111000,Malig neop prepylorus stomach,res24: stomach cancer,diagnostic
+Read,B111.00,Malig neop pylorus of stomach,res24: stomach cancer,diagnostic
+Read,B110z00,Malig neop cardia stomach NOS,res24: stomach cancer,diagnostic
+Read,B110100,Malig neop cardio-oesoph junct,res24: stomach cancer,diagnostic
+Read,B11..00,Malig neop of stomach,res24: stomach cancer,diagnostic
+Read,B110000,Malig neop card orific stomach,res24: stomach cancer,diagnostic
+Read,B110.00,Malig neop cardia of stomach,res24: stomach cancer,diagnostic
+Read,B111100,Malig neop pylor canal stomach,res24: stomach cancer,diagnostic
+Read,B116.00,Malig neop great curv stom uns,res24: stomach cancer,diagnostic
+Read,B115.00,Malig neop less curv stom unsp,res24: stomach cancer,diagnostic
+Read,B111z00,Malig neop pylorus stomach NOS,res24: stomach cancer,diagnostic
+Read,B114.00,Malig neop body of stomach,res24: stomach cancer,diagnostic
+Read,B112.00,Malig neop pyloric ant stomach,res24: stomach cancer,diagnostic
+Read,B113.00,Malig neop fundus of stomach,res24: stomach cancer,diagnostic
+Read,B11y100,Malig neop post wall stom NEC,res24: stomach cancer,diagnostic
+Read,B11y000,Malig neop ant wall stom NOS,res24: stomach cancer,diagnostic
+Read,B117.00,Malig neopl overlap lesn stom,res24: stomach cancer,diagnostic
+Read,B11y.00,Malig neop oth spec stomach,res24: stomach cancer,diagnostic
+Read,B11yz00,Malig neop oth spec stom NOS,res24: stomach cancer,diagnostic
+Read,B11z.00,Malignant neoplasm stomach NOS,res24: stomach cancer,diagnostic

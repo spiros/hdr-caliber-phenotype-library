@@ -1,0 +1,7 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,K15..00,Cystitis,res20: Urinary tract infection,diagnostic
+Read,K190500,Urinary tract infection,res20: Urinary tract infection,diagnostic
+Read,K150.00,Acute cystitis,res20: Urinary tract infection,diagnostic
+Read,K190.00,Urinary tract infection site not specified,res20: Urinary tract infection,diagnostic
+Read,K190z00,Urinary tract infection site not specified NOS,res20: Urinary tract infection,diagnostic
+Read,K15z.00,Cystitis NOS,res20: Urinary tract infection,diagnostic

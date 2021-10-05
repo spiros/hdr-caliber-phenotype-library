@@ -1,0 +1,310 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,3811D,OTITIS MEDIA CHRONIC SUPPURATIVE,cold,diagnostic
+OXMIS,3811AT,OTITIS MEDIA CATARRHAL,cold,diagnostic
+OXMIS,3811AR,RECURRENT OTITIS MEDIA,cold,diagnostic
+OXMIS,0340T,TONSILLITIS STREPTOCOCCAL,cold,diagnostic
+OXMIS,0340BT,STREPTOCOCCAL TONSILLITIS PROVEN,cold,diagnostic
+OXMIS,101 TN,VINCENT'S TONSILLITIS,cold,diagnostic
+OXMIS,3811A,OTITIS MEDIA CHRONIC,cold,diagnostic
+OXMIS,3810TP,OTITIS ACUTE SUPPURATIVE,cold,diagnostic
+OXMIS,3810MR,OTITIS MEDIA ACUTE RIGHT,cold,diagnostic
+OXMIS,3810ML,OTITIS MEDIA ACUTE LEFT,cold,diagnostic
+OXMIS,3810,OTITIS MEDIA ACUTE,cold,diagnostic
+OXMIS,3810AE,ABSCESS EAR,cold,diagnostic
+OXMIS,3811E,OTITIS MEDIA BILATERAL SUPPURATIVE,cold,diagnostic
+OXMIS,463 B,FOLLICULAR TONSILLITIS,cold,diagnostic
+OXMIS,3819DC,EAR DISCHARGING,cold,diagnostic
+OXMIS,3819NC,OTITIS CHRONIC SEROUS UNILATERAL,cold,diagnostic
+OXMIS,3819NB,OTITIS CHRONIC SEROUS BILATERAL,cold,diagnostic
+OXMIS,3819,OTITIS MEDIA,cold,diagnostic
+OXMIS,3811TR,SECRETORY OTITIS MEDIA,cold,diagnostic
+OXMIS,3819E,OTITIS MEDIA BILATERAL,cold,diagnostic
+OXMIS,3819N,OTITIS,cold,diagnostic
+OXMIS,3819MR,MYRINGITIS,cold,diagnostic
+OXMIS,3819MP,SUPPURATIVE OTITIS MEDIA,cold,diagnostic
+OXMIS,460 AB,COLD FEBRILE,cold,diagnostic
+OXMIS,460 A,COMMON COLD FEBRILE,cold,diagnostic
+OXMIS,3819TH,HAEMOTYMPANUM,cold,diagnostic
+OXMIS,3819RH,OTORRHOEA,cold,diagnostic
+OXMIS,463 AP,PHARYNGO TONSILLITIS,cold,diagnostic
+OXMIS,3829,OTITIS MEDIA WITH MASTOIDITIS,cold,diagnostic
+OXMIS,3819TM,TYMPANITIS,cold,diagnostic
+OXMIS,460 BA,COLD NONFEBRILE,cold,diagnostic
+OXMIS,460 B,COMMON COLD NONFEBRILE,cold,diagnostic
+OXMIS,463 AL,TONSILLITIS LINGUAL,cold,diagnostic
+OXMIS,463 A,TONSILLITIS,cold,diagnostic
+OXMIS,460 D,COMMON COLD,cold,diagnostic
+OXMIS,463,TONSILLITIS ACUTE,cold,diagnostic
+OXMIS,462 CT,SORE THROAT ACUTE,cold,diagnostic
+OXMIS,466 C,BRONCHITIS ACUTE,cold,diagnostic
+OXMIS,501 PD,PERITONSILLITIS,cold,diagnostic
+OXMIS,463 BC,TONSILLITIS BACTERIAL,cold,diagnostic
+OXMIS,466 BC,BRONCHITIS SUBACUTE,cold,diagnostic
+OXMIS,465,URTI (UPPER RESPIRATORY TRACT INFECTION),cold,diagnostic
+OXMIS,463 MP,TONSILS SYMPTOMS OF,cold,diagnostic
+OXMIS,463 NF,INFLAMMATION TONSIL,cold,diagnostic
+OXMIS,490 WH,WHEEZY BRONCHITIS,cold,diagnostic
+OXMIS,491 AC,BRONCHITIS ACUTE ON CHRONIC,cold,diagnostic
+OXMIS,466 V,VIRAL BRONCHITIS,cold,diagnostic
+OXMIS,466 FB,BRONCHITIS FIBRINOUS ACUTE,cold,diagnostic
+OXMIS,7833A,COUGH,cold,diagnostic
+OXMIS,472 A,INFLUENZAL BRONCHITIS,cold,diagnostic
+OXMIS,490 T,TRACHEOBRONCHITIS,cold,diagnostic
+OXMIS,490 LT,LARYNGOTRACHEOBRONCHITIS,cold,diagnostic
+OXMIS,490 CT,CATARRHAL BRONCHITIS,cold,diagnostic
+OXMIS,500 CH,TONSILLITIS CHRONIC,cold,diagnostic
+OXMIS,500 B,TONSILLITIS RECURRENT,cold,diagnostic
+OXMIS,7833AR,RECURRENT COUGH,cold,diagnostic
+OXMIS,7833AP,SPASMODIC COUGH,cold,diagnostic
+OXMIS,7833AC,COUGH PAROXYSMAL WITH VOMITING,cold,diagnostic
+OXMIS,7833AB,COUGH PAROXYSMAL,cold,diagnostic
+OXMIS,7833PH,PHLEGM COUGHING UP,cold,diagnostic
+OXMIS,7833CH,COUGH CHRONIC,cold,diagnostic
+OXMIS,7833B,COUGH BRONCHIAL,cold,diagnostic
+OXMIS,7833CD,DRY COUGH,cold,diagnostic
+OXMIS,7833BC,COUGH CHESTY,cold,diagnostic
+OXMIS,7833BA,PRODUCTIVE COUGH,cold,diagnostic
+OXMIS,7833PE,COUGH PERSISTANT,cold,diagnostic
+OXMIS,7833E,EVENING COUGH,cold,diagnostic
+OXMIS,7833DF,COUGH AFTER FEEDS,cold,diagnostic
+OXMIS,7833DB,COUGH WORSE SUPINE,cold,diagnostic
+OXMIS,7833G,FEVER WITH COUGH,cold,diagnostic
+OXMIS,7833N,NIGHT COUGH,cold,diagnostic
+OXMIS,7833MN,MORNING COUGH,cold,diagnostic
+OXMIS,7833HP,PAINFUL COUGH,cold,diagnostic
+OXMIS,7833PT,COUGH WITH SPUTUM,cold,diagnostic
+OXMIS,7834AH,SPUTUM COUGHING UP,cold,diagnostic
+OXMIS,7834AC,COUGH WITH SPUTUM CLEAR,cold,diagnostic
+OXMIS,791 CH,HEADACHE COUGH,cold,diagnostic
+OXMIS,7833DP,PAIN DUE COUGHING,cold,diagnostic
+Read,1714.00,Productive cough -green sputum,cold,diagnostic
+Read,1713.00,Productive cough -clear sputum,cold,diagnostic
+Read,1656.00,Feverish cold,cold,diagnostic
+Read,1712.00,Dry cough,cold,diagnostic
+Read,171..11,C/O - cough,cold,diagnostic
+Read,171..00,Cough,cold,diagnostic
+Read,171G.00,Bovine cough,cold,diagnostic
+Read,1719.11,Bronchial cough,cold,diagnostic
+Read,1719.00,Chesty cough,cold,diagnostic
+Read,1716.11,Coughing up phlegm,cold,diagnostic
+Read,1715.00,Productive cough-yellow sputum,cold,diagnostic
+Read,1716.00,Productive cough NOS,cold,diagnostic
+Read,171B.00,Persistent cough,cold,diagnostic
+Read,171F.00,Cough with fever,cold,diagnostic
+Read,171A.00,Chronic cough,cold,diagnostic
+Read,171E.00,Unexplained cough,cold,diagnostic
+Read,171D.00,Evening cough,cold,diagnostic
+Read,171C.00,Morning cough,cold,diagnostic
+Read,1C92.00,Has a sore throat,cold,diagnostic
+Read,1C9..00,Sore throat symptom,cold,diagnostic
+Read,171J.00,Reflux cough,cold,diagnostic
+Read,171H.00,Difficulty in coughing up sputum,cold,diagnostic
+Read,173B.00,Nocturnal cough / wheeze,cold,diagnostic
+Read,2DB6.00,O/E - follicular tonsillitis,cold,diagnostic
+Read,1C9Z.00,Sore throat symptom NOS,cold,diagnostic
+Read,1C93.00,Persistent sore throat,cold,diagnostic
+Read,A793.00,Rhinovirus,cold,diagnostic
+Read,H040600,Acute suppurative laryngitis,cold,diagnostic
+Read,H040w00,Acute viral laryngitis unspecified,cold,diagnostic
+Read,A552.00,Postmeasles otitis media,cold,diagnostic
+Read,A383000,Fusobacterial necrotising tonsillitis,cold,diagnostic
+Read,A340100,Streptococcal laryngitis,cold,diagnostic
+Read,A34z.00,Streptococcal sore throat with scarlatina NOS,cold,diagnostic
+Read,A340.00,Streptococcal sore throat,cold,diagnostic
+Read,A34..00,Streptococcal sore throat and scarlatina,cold,diagnostic
+Read,A341.12,Scarlatina,cold,diagnostic
+Read,A340300,Streptococcal tonsillitis,cold,diagnostic
+Read,A340200,Streptococcal pharyngitis,cold,diagnostic
+Read,A341.11,Scarlet fever,cold,diagnostic
+Read,A341.00,Scarlet fever - scarlatina,cold,diagnostic
+Read,A340z00,Streptococcal sore throat NOS,cold,diagnostic
+Read,F513111,Chronic secretory otitis media; purulent,cold,diagnostic
+Read,F510400,Acute allergic serous otitis media,cold,diagnostic
+Read,FyuP500,[X]Otitis media in other diseases classified elsewhere,cold,diagnostic
+Read,H040500,Acute pneumococcal laryngitis,cold,diagnostic
+Read,F510300,Acute sanguinous otitis media,cold,diagnostic
+Read,F51..00,Nonsuppurative otitis media + eustachian tube disorders,cold,diagnostic
+Read,AA1z.12,Vincent's tonsillitis,cold,diagnostic
+Read,F510200,Acute mucoid otitis media,cold,diagnostic
+Read,F510000,Acute otitis media with effusion,cold,diagnostic
+Read,F510.00,Acute non suppurative otitis media,cold,diagnostic
+Read,F510100,Acute serous otitis media,cold,diagnostic
+Read,F510011,Acute secretory otitis media,cold,diagnostic
+Read,F513100,Chronic otitis media with effusion; purulent,cold,diagnostic
+Read,F511.11,Chronic secretory otitis media; serous,cold,diagnostic
+Read,F510500,Acute allergic mucoid otitis media,cold,diagnostic
+Read,F511.00,Chronic otitis media with effusion; serous,cold,diagnostic
+Read,F510z00,Acute nonsuppurative otitis media NOS,cold,diagnostic
+Read,F510600,Acute allergic sanguinous otitis media,cold,diagnostic
+Read,F513000,Chronic allergic otitis media,cold,diagnostic
+Read,F512.00,Chronic otitis media with effusion; mucoid,cold,diagnostic
+Read,F511z00,Chronic serous otitis media NOS,cold,diagnostic
+Read,F511100,Serosanguinous chronic otitis media,cold,diagnostic
+Read,F512.12,Chronic secretory otitis media; mucoid,cold,diagnostic
+Read,F513.00,Chronic otitis media with effusion; other,cold,diagnostic
+Read,F512z00,Chronic mucoid otitis media NOS,cold,diagnostic
+Read,F512100,Mucosanguinous chronic otitis media,cold,diagnostic
+Read,F514300,Mucoid otitis media NOS,cold,diagnostic
+Read,FyuP400,[X]Otitis media in viral diseases classified elsewhere,cold,diagnostic
+Read,F520z00,Acute suppurative otitis media NOS,cold,diagnostic
+Read,F513z00,Other chronic nonsuppurative otitis media NOS,cold,diagnostic
+Read,F514200,Catarrhal otitis media NOS,cold,diagnostic
+Read,F514100,Serous otitis media NOS,cold,diagnostic
+Read,F514.00,Unspecified nonsuppurative otitis media,cold,diagnostic
+Read,F514000,Allergic otitis media NOS,cold,diagnostic
+Read,F520300,Acute suppurative otitis media due to disease EC,cold,diagnostic
+Read,F518.00,Chronic otitis media with effusion; unspecified,cold,diagnostic
+Read,F514z00,Nonsuppurative otitis media NOS,cold,diagnostic
+Read,F52..00,Suppurative and unspecified otitis media,cold,diagnostic
+Read,F520100,Acute suppurative otitis media tympanic membrane ruptured,cold,diagnostic
+Read,F520000,Acute suppurative otitis media tympanic membrane intact,cold,diagnostic
+Read,F520.00,Acute suppurative otitis media,cold,diagnostic
+Read,FyuP300,[X]Otitis media in bacterial diseases classified elsewhere,cold,diagnostic
+Read,F525.00,Recurrent acute otitis media,cold,diagnostic
+Read,F524000,Bilateral suppurative otitis media,cold,diagnostic
+Read,F522.00,Chronic suppurative otitis media; atticoantral,cold,diagnostic
+Read,F521.00,Chronic suppurative otitis media; tubotympanic,cold,diagnostic
+Read,F524.00,Purulent otitis media NOS,cold,diagnostic
+Read,F523.00,Chronic suppurative otitis media NOS,cold,diagnostic
+Read,FyuP200,[X]Other chronic suppurative otitis media,cold,diagnostic
+Read,F528.00,Acute bilateral otitis media,cold,diagnostic
+Read,F527.00,Acute right otitis media,cold,diagnostic
+Read,F526.00,Acute left otitis media,cold,diagnostic
+Read,f528.00,Acute bilateral otitis media,cold,diagnostic
+Read,FyuP100,[X]Other chronic nonsuppurative otitis media,cold,diagnostic
+Read,FyuP000,[X]Other acute nonsuppurative otitis media,cold,diagnostic
+Read,F52z.00,Otitis media NOS,cold,diagnostic
+Read,H023.00,Acute bacterial pharyngitis,cold,diagnostic
+Read,H00..13,Febrile cold,cold,diagnostic
+Read,H011.00,Acute frontal sinusitis,cold,diagnostic
+Read,H00..12,Coryza - acute,cold,diagnostic
+Read,H00..11,Common cold,cold,diagnostic
+Read,H00..00,Acute nasopharyngitis,cold,diagnostic
+Read,H010.11,Antritis - acute,cold,diagnostic
+Read,H00..16,Rhinitis - acute,cold,diagnostic
+Read,H00..15,Pyrexial cold,cold,diagnostic
+Read,H00..14,Nasal catarrh - acute,cold,diagnostic
+Read,H010.00,Acute maxillary sinusitis,cold,diagnostic
+Read,H01..11,Sinusitis,cold,diagnostic
+Read,H01..00,Acute sinusitis,cold,diagnostic
+Read,H02..00,Acute pharyngitis,cold,diagnostic
+Read,H012.00,Acute ethmoidal sinusitis,cold,diagnostic
+Read,H022.00,Acute ulcerative pharyngitis,cold,diagnostic
+Read,H01z.00,Acute sinusitis NOS,cold,diagnostic
+Read,H01y.00,Other acute sinusitis,cold,diagnostic
+Read,H013.00,Acute sphenoidal sinusitis,cold,diagnostic
+Read,H01yz00,Other acute sinusitis NOS,cold,diagnostic
+Read,H01y000,Acute pansinusitis,cold,diagnostic
+Read,H021.00,Acute phlegmonous pharyngitis,cold,diagnostic
+Read,H02..12,Viral sore throat NOS,cold,diagnostic
+Read,H02..11,Sore throat NOS,cold,diagnostic
+Read,H020.00,Acute gangrenous pharyngitis,cold,diagnostic
+Read,H02..13,Throat infection - pharyngitis,cold,diagnostic
+Read,H025.00,Allergic pharyngitis,cold,diagnostic
+Read,H040400,Acute haemophilus influenzae laryngitis,cold,diagnostic
+Read,H040300,Acute phlegmonous laryngitis,cold,diagnostic
+Read,H032.00,Acute ulcerative tonsillitis,cold,diagnostic
+Read,H023000,Acute pneumococcal pharyngitis,cold,diagnostic
+Read,H024.00,Acute viral pharyngitis,cold,diagnostic
+Read,H023z00,Acute bacterial pharyngitis NOS,cold,diagnostic
+Read,H023100,Acute staphylococcal pharyngitis,cold,diagnostic
+Read,h03..00,Acute tonsillitis,cold,diagnostic
+Read,H031.00,Acute follicular tonsillitis,cold,diagnostic
+Read,H03..00,Acute tonsillitis,cold,diagnostic
+Read,H02z.00,Acute pharyngitis NOS,cold,diagnostic
+Read,H030.00,Acute erythematous tonsillitis,cold,diagnostic
+Read,H03..12,Tonsillitis,cold,diagnostic
+Read,H03..11,Throat infection - tonsillitis,cold,diagnostic
+Read,H035z00,Acute bacterial tonsillitis NOS,cold,diagnostic
+Read,H033.00,Acute catarrhal tonsillitis,cold,diagnostic
+Read,H040200,Acute catarrhal laryngitis,cold,diagnostic
+Read,H034.00,Acute gangrenous tonsillitis,cold,diagnostic
+Read,H035100,Acute staphylococcal tonsillitis,cold,diagnostic
+Read,H035000,Acute pneumococcal tonsillitis,cold,diagnostic
+Read,H035.00,Acute bacterial tonsillitis,cold,diagnostic
+Read,H040100,Acute ulcerative laryngitis,cold,diagnostic
+Read,H037.00,Recurrent acute tonsillitis,cold,diagnostic
+Read,H036.00,Acute viral tonsillitis,cold,diagnostic
+Read,H03z.00,Acute tonsillitis NOS,cold,diagnostic
+Read,H040000,Acute oedematous laryngitis,cold,diagnostic
+Read,H040.00,Acute laryngitis,cold,diagnostic
+Read,H04..00,Acute laryngitis and tracheitis,cold,diagnostic
+Read,H041000,Acute tracheitis without obstruction,cold,diagnostic
+Read,H043z00,Acute epiglottitis NOS,cold,diagnostic
+Read,H041.00,Acute tracheitis,cold,diagnostic
+Read,H040z00,Acute laryngitis NOS,cold,diagnostic
+Read,H040x00,Acute bacterial laryngitis unspecified,cold,diagnostic
+Read,H042000,Acute laryngotracheitis without obstruction,cold,diagnostic
+Read,H041100,Acute tracheitis with obstruction,cold,diagnostic
+Read,H041z00,Acute tracheitis NOS,cold,diagnostic
+Read,H042.11,Laryngotracheitis,cold,diagnostic
+Read,H042.00,Acute laryngotracheitis,cold,diagnostic
+Read,H043211,Croup,cold,diagnostic
+Read,H043.00,Acute epiglottitis (non strep),cold,diagnostic
+Read,H043200,Acute obstructive laryngitis,cold,diagnostic
+Read,H042z00,Acute laryngotracheitis NOS,cold,diagnostic
+Read,H042100,Acute laryngotracheitis with obstruction,cold,diagnostic
+Read,H043100,Acute epiglottitis with obstruction,cold,diagnostic
+Read,H043000,Acute epiglottitis without obstruction,cold,diagnostic
+Read,H043.11,Viral epiglottitis,cold,diagnostic
+Read,H060A00,Acute bronchitis due to mycoplasma pneumoniae,cold,diagnostic
+Read,H051.00,Acute upper respiratory tract infection,cold,diagnostic
+Read,H060900,Acute neisseria catarrhalis bronchitis,cold,diagnostic
+Read,H05z.12,Viral upper respiratory tract infection NOS,cold,diagnostic
+Read,H050.00,Acute laryngopharyngitis,cold,diagnostic
+Read,H05..00,Other acute upper respiratory infections,cold,diagnostic
+Read,H044.00,Croup,cold,diagnostic
+Read,H04z.00,Acute laryngitis and tracheitis NOS,cold,diagnostic
+Read,H05z.11,Upper respiratory tract infection NOS,cold,diagnostic
+Read,H054.00,Recurrent upper respiratory tract infection,cold,diagnostic
+Read,H053.00,Tracheopharyngitis,cold,diagnostic
+Read,H052.00,Pharyngotracheitis,cold,diagnostic
+Read,H055.00,Pharyngolaryngitis,cold,diagnostic
+Read,H05z.00,Upper respiratory infection NOS,cold,diagnostic
+Read,H05y.00,Other upper respiratory infections of multiple sites,cold,diagnostic
+Read,H060.11,Acute wheezy bronchitis,cold,diagnostic
+Read,H060800,Acute haemophilus influenzae bronchitis,cold,diagnostic
+Read,h060.00,Acute bronchitis,cold,diagnostic
+Read,H060.00,Acute bronchitis,cold,diagnostic
+Read,H06..00,Acute bronchitis and bronchiolitis,cold,diagnostic
+Read,H060700,Acute streptococcal bronchitis,cold,diagnostic
+Read,H060300,Acute purulent bronchitis,cold,diagnostic
+Read,H060200,Acute pseudomembranous bronchitis,cold,diagnostic
+Read,H060000,Acute fibrinous bronchitis,cold,diagnostic
+Read,H060100,Acute membranous bronchitis,cold,diagnostic
+Read,H060600,Acute pneumococcal bronchitis,cold,diagnostic
+Read,H060500,Acute tracheobronchitis,cold,diagnostic
+Read,H060400,Acute croupous bronchitis,cold,diagnostic
+Read,H060C00,Acute bronchitis due to parainfluenza virus,cold,diagnostic
+Read,171Z.00,Cough symptom NOS,cold,diagnostic
+Read,H060B00,Acute bronchitis due to coxsackievirus,cold,diagnostic
+Read,H06z.00,Acute bronchitis or bronchiolitis NOS,cold,diagnostic
+Read,H060z00,Acute bronchitis NOS,cold,diagnostic
+Read,H060D00,Acute bronchitis due to respiratory syncytial virus,cold,diagnostic
+Read,H060E00,Acute bronchitis due to rhinovirus,cold,diagnostic
+Read,H060F00,Acute bronchitis due to echovirus,cold,diagnostic
+Read,H060x00,Acute bacterial bronchitis unspecified,cold,diagnostic
+Read,H060w00,Acute viral bronchitis unspecified,cold,diagnostic
+Read,H060v00,Subacute bronchitis unspecified,cold,diagnostic
+Read,H300.00,Tracheobronchitis NOS,cold,diagnostic
+Read,H07..00,Chest cold,cold,diagnostic
+Read,1717.00,Night cough present,cold,diagnostic
+Read,H140.00,Chronic tonsillitis,cold,diagnostic
+Read,H14y600,Lingular tonsillitis,cold,diagnostic
+Read,H14y500,Caseous tonsillitis,cold,diagnostic
+Read,H143.00,Chronic adenotonsillitis,cold,diagnostic
+Read,R062000,[D]Cough syncope,cold,diagnostic
+Read,H302.00,Wheezy bronchitis,cold,diagnostic
+Read,H301.00,Laryngotracheobronchitis,cold,diagnostic
+Read,R062.00,[D]Cough,cold,diagnostic
+Read,Hyu1000,[X]Acute bronchitis due to other specified organisms,cold,diagnostic
+Read,Hyu0200,[X]Acute tonsillitis due to other specified organisms,cold,diagnostic
+Read,R064200,[D]Sputum abnormal - odour,cold,diagnostic
+Read,R064100,[D]Sputum abnormal - colour,cold,diagnostic
+Read,R064000,[D]Sputum abnormal - amount,cold,diagnostic
+Read,R064.00,[D]Abnormal sputum,cold,diagnostic
+Read,R064300,[D]Abnormal sputum - tenacious,cold,diagnostic
+Read,R064z00,[D]Abnormal sputum NOS,cold,diagnostic
+Read,S127100,Cough fracture of ribs,cold,diagnostic
+Read,S120A00,Cough fracture,cold,diagnostic
+Read,A340000,Streptococcal angina,cold,diagnostic

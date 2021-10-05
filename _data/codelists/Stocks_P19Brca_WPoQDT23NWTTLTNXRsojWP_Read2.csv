@@ -1,0 +1,27 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,BB9J.11,"[M]Paget's disease, breast",res25: P19_brca,diagnostic
+Read,B830100,Intraductal carcinoma in situ of breast,res25: P19_brca,diagnostic
+Read,B34..00,Malignant neoplasm of female breast,res25: P19_brca,diagnostic
+Read,B830000,Lobular carcinoma in situ of breast,res25: P19_brca,diagnostic
+Read,BB9J.00,"[M]Paget's disease, mammary",res25: P19_brca,diagnostic
+Read,B341.00,Malignant neoplasm of central part of female breast,res25: P19_brca,diagnostic
+Read,B340z00,Malignant neoplasm of nipple or areola of female breast NOS,res25: P19_brca,diagnostic
+Read,B34..11,Ca female breast,res25: P19_brca,diagnostic
+Read,B340100,Malignant neoplasm of areola of female breast,res25: P19_brca,diagnostic
+Read,B340.00,Malignant neoplasm of nipple and areola of female breast,res25: P19_brca,diagnostic
+Read,B340000,Malignant neoplasm of nipple of female breast,res25: P19_brca,diagnostic
+Read,B346.00,Malignant neoplasm of axillary tail of female breast,res25: P19_brca,diagnostic
+Read,B342.00,Malignant neoplasm of upper-inner quadrant of female breast,res25: P19_brca,diagnostic
+Read,B345.00,Malignant neoplasm of lower-outer quadrant of female breast,res25: P19_brca,diagnostic
+Read,B343.00,Malignant neoplasm of lower-inner quadrant of female breast,res25: P19_brca,diagnostic
+Read,B344.00,Malignant neoplasm of upper-outer quadrant of female breast,res25: P19_brca,diagnostic
+Read,B830.00,Carcinoma in situ of breast,res25: P19_brca,diagnostic
+Read,B83..00,Carcinoma in situ of breast and genitourinary system,res25: P19_brca,diagnostic
+Read,B34y.00,Malignant neoplasm of other site of female breast,res25: P19_brca,diagnostic
+Read,B347.00,"Malignant neoplasm, overlapping lesion of breast",res25: P19_brca,diagnostic
+Read,B34z.00,Malignant neoplasm of female breast NOS,res25: P19_brca,diagnostic
+Read,B34y000,Malignant neoplasm of ectopic site of female breast,res25: P19_brca,diagnostic
+Read,B34yz00,Malignant neoplasm of other site of female breast NOS,res25: P19_brca,diagnostic
+Read,Byu6.00,[X]Malignant neoplasm of breast,res25: P19_brca,diagnostic
+Read,BB9K000,[M]Paget's disease and intraductal carcinoma of breast,res25: P19_brca,diagnostic
+Read,BB9K.00,[M]Paget's disease and infiltrating breast duct carcinoma,res25: P19_brca,diagnostic

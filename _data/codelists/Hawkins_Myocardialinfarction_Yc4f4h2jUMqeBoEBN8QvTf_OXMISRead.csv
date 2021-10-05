@@ -1,0 +1,87 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4100NA,MI acute with hypertension,res15: Myocardial Infarction,diagnostic
+OXMIS,4100T,Thrombosis coronary with hypertension,res15: Myocardial Infarction,diagnostic
+OXMIS,4109CA,Attack coronary,res15: Myocardial Infarction,diagnostic
+OXMIS,4109CR,Accident coronary,res15: Myocardial Infarction,diagnostic
+OXMIS,4109HE,Myocardial infarct healed,res15: Myocardial Infarction,diagnostic
+OXMIS,4109NA,Myocardial infarct acute,res15: Myocardial Infarction,diagnostic
+OXMIS,4109NH,Infarct heart,res15: Myocardial Infarction,diagnostic
+OXMIS,4109TE,Thrombosis endocardial,res15: Myocardial Infarction,diagnostic
+OXMIS,4109TM,Myocardial thrombosis,res15: Myocardial Infarction,diagnostic
+OXMIS,4129T,Status post MI,res15: Myocardial Infarction,diagnostic
+OXMIS,429 AH,Heart attack,res15: Myocardial Infarction,diagnostic
+OXMIS,4109TL,Thrombosis mural,res15: Myocardial Infarction,diagnostic
+OXMIS,4109TC,Thrombosis coronary,res15: Myocardial Infarction,diagnostic
+OXMIS,4109CL,Occlusion coronary,res15: Myocardial Infarction,diagnostic
+OXMIS,4100N,MI with hypertension,res15: Myocardial Infarction,diagnostic
+OXMIS,4109N,Myocardial infarct,res15: Myocardial Infarction,diagnostic
+OXMIS,4109NC,Coronary infarction,res15: Myocardial Infarction,diagnostic
+OXMIS,4109H,Myocardial infarct old,res15: Myocardial Infarction,diagnostic
+OXMIS,4119N,Subendocardial infarction,res15: Myocardial Infarction,diagnostic
+OXMIS,4129B,Syndrome post MI,res15: Myocardial Infarction,diagnostic
+OXMIS,4129TH,Coronary infarction healed,res15: Myocardial Infarction,diagnostic
+Read,G30..11,Attack - heart,res15: Myocardial Infarction,diagnostic
+Read,G30..13,Cardiac rupture following MI,res15: Myocardial Infarction,diagnostic
+Read,G30..15,MI - acute MI,res15: Myocardial Infarction,diagnostic
+Read,G30..17,Silent MI,res15: Myocardial Infarction,diagnostic
+Read,G301.00,Other specified anterior MI,res15: Myocardial Infarction,diagnostic
+Read,G302.00,Acute inferolateral infarction,res15: Myocardial Infarction,diagnostic
+Read,G304.00,Posterior MI NOS,res15: Myocardial Infarction,diagnostic
+Read,G306.00,True posterior MI,res15: Myocardial Infarction,diagnostic
+Read,G307000,Acute non-Q wave infarction,res15: Myocardial Infarction,diagnostic
+Read,G308.00,Inferior MI NOS,res15: Myocardial Infarction,diagnostic
+Read,G30B.00,Acute posterolateral MI,res15: Myocardial Infarction,diagnostic
+Read,G30X000,Acute ST segment elevation MI,res15: Myocardial Infarction,diagnostic
+Read,G30y000,Acute atrial infarction,res15: Myocardial Infarction,diagnostic
+Read,G30y200,Acute septal infarction,res15: Myocardial Infarction,diagnostic
+Read,G30z.00,Acute MI NOS,res15: Myocardial Infarction,diagnostic
+Read,G32..00,Old MI,res15: Myocardial Infarction,diagnostic
+Read,G33z500,Post infarct angina,res15: Myocardial Infarction,diagnostic
+Read,G351.00,Subsequent MI of inferior wall,res15: Myocardial Infarction,diagnostic
+Read,G35X.00,Subsequent MI of unspecified site,res15: Myocardial Infarction,diagnostic
+Read,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,res15: Myocardial Infarction,diagnostic
+Read,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,res15: Myocardial Infarction,diagnostic
+Read,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,res15: Myocardial Infarction,diagnostic
+Read,G38..00,Postoperative MI,res15: Myocardial Infarction,diagnostic
+Read,G381.00,Postoperative transmural MI inferior wall,res15: Myocardial Infarction,diagnostic
+Read,G383.00,Postoperative transmural MI unspec site,res15: Myocardial Infarction,diagnostic
+Read,14A4.00,H/O: myocardial infarct >60,res15: Myocardial Infarction,diagnostic
+Read,G30..00,Acute MI,res15: Myocardial Infarction,diagnostic
+Read,Gyu3400,[X]Acute transmural MI of unspecif site,res15: Myocardial Infarction,diagnostic
+Read,Gyu3600,[X]Subsequent MI of unspecified site,res15: Myocardial Infarction,diagnostic
+Read,14A3.00,H/O: myocardial infarct <60,res15: Myocardial Infarction,diagnostic
+Read,G350.00,Subsequent MI of anterior wall,res15: Myocardial Infarction,diagnostic
+Read,G501.00,Post infarction pericarditis,res15: Myocardial Infarction,diagnostic
+Read,G36..00,Certain current complication follow acute myocardial infarct,res15: Myocardial Infarction,diagnostic
+Read,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,res15: Myocardial Infarction,diagnostic
+Read,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,res15: Myocardial Infarction,diagnostic
+Read,G30X.00,Acute transmural MI of unspecif site,res15: Myocardial Infarction,diagnostic
+Read,G300.00,Acute anterolateral infarction,res15: Myocardial Infarction,diagnostic
+Read,G30..16,Thrombosis - coronary,res15: Myocardial Infarction,diagnostic
+Read,G30..12,Coronary thrombosis,res15: Myocardial Infarction,diagnostic
+Read,G30..14,Heart attack,res15: Myocardial Infarction,diagnostic
+Read,G309.00,Acute Q-wave infarct,res15: Myocardial Infarction,diagnostic
+Read,G307100,Acute non-ST segment elevation MI,res15: Myocardial Infarction,diagnostic
+Read,G301z00,Anterior MI NOS,res15: Myocardial Infarction,diagnostic
+Read,G301100,Acute anteroseptal infarction,res15: Myocardial Infarction,diagnostic
+Read,G307.00,Acute subendocardial infarction,res15: Myocardial Infarction,diagnostic
+Read,G303.00,Acute inferoposterior infarction,res15: Myocardial Infarction,diagnostic
+Read,G305.00,Lateral MI NOS,res15: Myocardial Infarction,diagnostic
+Read,G30yz00,Other acute MI NOS,res15: Myocardial Infarction,diagnostic
+Read,G30y.00,Other acute MI,res15: Myocardial Infarction,diagnostic
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,res15: Myocardial Infarction,diagnostic
+Read,G30y100,Acute papillary muscle infarction,res15: Myocardial Infarction,diagnostic
+Read,G310.00,PostMI syndrome,res15: Myocardial Infarction,diagnostic
+Read,G353.00,Subsequent MI of other sites,res15: Myocardial Infarction,diagnostic
+Read,G35..00,Subsequent MI,res15: Myocardial Infarction,diagnostic
+Read,G32..11,Healed MI,res15: Myocardial Infarction,diagnostic
+Read,G382.00,Postoperative transmural MI other sites,res15: Myocardial Infarction,diagnostic
+Read,G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",res15: Myocardial Infarction,diagnostic
+Read,G380.00,Postoperative transmural MI anterior wall,res15: Myocardial Infarction,diagnostic
+Read,G37..00,Cardiac syndrome X,res15: Myocardial Infarction,diagnostic
+Read,Gyu3500,[X]Subsequent MI of other sites,res15: Myocardial Infarction,diagnostic
+Read,G384.00,Postoperative subendocardial MI,res15: Myocardial Infarction,diagnostic
+Read,14AH.00,H/O: MI in last year,res15: Myocardial Infarction,diagnostic
+Read,G301000,Acute anteroapical infarction,res15: Myocardial Infarction,diagnostic
+Read,Gyu3100,[X]Other current complications following acute myocard infarct,res15: Myocardial Infarction,diagnostic
+Read,G38z.00,"Postoperative MI, unspecified",res15: Myocardial Infarction,diagnostic

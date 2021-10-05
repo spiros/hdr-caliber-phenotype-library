@@ -1,0 +1,81 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,I47,paroxysmal tachycardia,res30: Arrhythmia,diagnostic
+ICD-10,I45.6,pre-excitation syndrome,res30: Arrhythmia,diagnostic
+ICD-10,R00.0,"tachycardia, unspecified",res30: Arrhythmia,diagnostic
+ICD-10,I49.5,sick sinus syndrome,res30: Arrhythmia,diagnostic
+ICD-10,I48,atrial fibrillation and flutter,res30: Arrhythmia,diagnostic
+ICD-10,I47.0,re-entry ventricular arrhythmia,res30: Arrhythmia,diagnostic
+ICD-10,I47.9,"paroxysmal tachycardia, unspecified",res30: Arrhythmia,diagnostic
+ICD-10,I47.1,supraventricular tachycardia,res30: Arrhythmia,diagnostic
+ICD-10,I47.2,ventricular tachycardia,res30: Arrhythmia,diagnostic
+ICD-10,I49.4,other and unspecified premature depolarization,res30: Arrhythmia,diagnostic
+ICD-10,I49.0,ventricular fibrillation and flutter,res30: Arrhythmia,diagnostic
+ICD-10,I49,other cardiac arrhythmias,res30: Arrhythmia,diagnostic
+ICD-10,I49.3,ventricular premature depolarization,res30: Arrhythmia,diagnostic
+ICD-10,I49.1,atrial premature depolarization,res30: Arrhythmia,diagnostic
+ICD-10,I49.2,junctional premature depolarization,res30: Arrhythmia,diagnostic
+Read,G57z.00,cardiac dysrhythmia nos,res30: Arrhythmia,diagnostic
+Read,G570000,paroxysmal atrial tachycardia,res30: Arrhythmia,diagnostic
+Read,G572.00,paroxysmal tachycardia unspecified,res30: Arrhythmia,diagnostic
+Read,327..00,ecg: supraventricular arrhythmia,res30: Arrhythmia,diagnostic
+Read,3272,ecg: atrial fibrillation,res30: Arrhythmia,diagnostic
+Read,G572z00,paroxysmal tachycardia nos,res30: Arrhythmia,diagnostic
+Read,G57y.00,other cardiac dysrhythmias,res30: Arrhythmia,diagnostic
+Read,G571.11,ventricular tachycardia,res30: Arrhythmia,diagnostic
+Read,212R.00,atrial fibrillation resolved,res30: Arrhythmia,diagnostic
+Read,8CMW200,atrial fibrillation care pathway,res30: Arrhythmia,diagnostic
+Read,G573500,persistent atrial fibrillation,res30: Arrhythmia,diagnostic
+Read,9Os0.00,atrial fibrillation monitoring first letter,res30: Arrhythmia,diagnostic
+Read,9hF1.00,excepted from atrial fibrillation qual indic: inform dissent,res30: Arrhythmia,diagnostic
+Read,G570300,paroxysmal nodal tachycardia,res30: Arrhythmia,diagnostic
+Read,G573300,non-rheumatic atrial fibrillation,res30: Arrhythmia,diagnostic
+Read,G57yz00,other cardiac dysrhythmia nos,res30: Arrhythmia,diagnostic
+Read,G56y000,lown-ganong-levine syndrome,res30: Arrhythmia,diagnostic
+Read,G573200,paroxysmal atrial fibrillation,res30: Arrhythmia,diagnostic
+Read,G57y900,supraventricular tachycardia nos,res30: Arrhythmia,diagnostic
+Read,3282,ecg: ventricular tachycardia,res30: Arrhythmia,diagnostic
+Read,G576300,atrial premature depolarization,res30: Arrhythmia,diagnostic
+Read,G573z00,atrial fibrillation and flutter nos,res30: Arrhythmia,diagnostic
+Read,9Os..00,atrial fibrillation monitoring administration,res30: Arrhythmia,diagnostic
+Read,8HTy.00,referral to atrial fibrillation clinic,res30: Arrhythmia,diagnostic
+Read,3273,ecg: atrial flutter,res30: Arrhythmia,diagnostic
+Read,G57..00,cardiac dysrhythmias,res30: Arrhythmia,diagnostic
+Read,G57..11,cardiac arrhythmias,res30: Arrhythmia,diagnostic
+Read,G571.00,paroxysmal ventricular tachycardia,res30: Arrhythmia,diagnostic
+Read,G573000,atrial fibrillation,res30: Arrhythmia,diagnostic
+Read,G573.00,atrial fibrillation and flutter,res30: Arrhythmia,diagnostic
+Read,G573100,atrial flutter,res30: Arrhythmia,diagnostic
+Read,G574100,ventricular flutter,res30: Arrhythmia,diagnostic
+Read,G570.00,paroxysmal supraventricular tachycardia,res30: Arrhythmia,diagnostic
+Read,G576500,ventricular premature depolarization,res30: Arrhythmia,diagnostic
+Read,G574.00,ventricular fibrillation and flutter,res30: Arrhythmia,diagnostic
+Read,9Os2.00,atrial fibrillation monitoring third letter,res30: Arrhythmia,diagnostic
+Read,G574z00,ventricular fibrillation and flutter nos,res30: Arrhythmia,diagnostic
+Read,7936A00,implant intravenous pacemaker for atrial fibrillation,res30: Arrhythmia,diagnostic
+Read,G57y600,nodal rhythm disorder,res30: Arrhythmia,diagnostic
+Read,G567400,wolff-parkinson-white syndrome,res30: Arrhythmia,diagnostic
+Read,G56y.00,other conduction disorders,res30: Arrhythmia,diagnostic
+Read,662S.00,atrial fibrillation monitoring,res30: Arrhythmia,diagnostic
+Read,G56zz00,conduction disorders nos,res30: Arrhythmia,diagnostic
+Read,G570100,paroxysmal atrioventricular tachycardia,res30: Arrhythmia,diagnostic
+Read,328..00,ecg: ventricular arrhythmia,res30: Arrhythmia,diagnostic
+Read,G56..11,conduction disorders of heart,res30: Arrhythmia,diagnostic
+Read,G570z00,paroxysmal supraventricular tachycardia nos,res30: Arrhythmia,diagnostic
+Read,G56..00,conduction disorders,res30: Arrhythmia,diagnostic
+Read,328Z.00,ecg: ventricular arrhythmia nos,res30: Arrhythmia,diagnostic
+Read,G57yA00,re-entry ventricular arrhythmia,res30: Arrhythmia,diagnostic
+Read,G576400,junctional premature depolarization,res30: Arrhythmia,diagnostic
+Read,G572000,essential paroxysmal tachycardia,res30: Arrhythmia,diagnostic
+Read,G573600,paroxysmal atrial flutter,res30: Arrhythmia,diagnostic
+Read,6A9..00,atrial fibrillation annual review,res30: Arrhythmia,diagnostic
+Read,Gyu5a00,[x]other specified cardiac arrhythmias,res30: Arrhythmia,diagnostic
+Read,G570200,paroxysmal junctional tachycardia,res30: Arrhythmia,diagnostic
+Read,G55A.11,tachycardia-induced cardiomyopathy,res30: Arrhythmia,diagnostic
+Read,9Os4.00,atrial fibrillation monitoring telephone invite,res30: Arrhythmia,diagnostic
+Read,9Os3.00,atrial fibrillation monitoring verbal invite,res30: Arrhythmia,diagnostic
+Read,9Os1.00,atrial fibrillation monitoring second letter,res30: Arrhythmia,diagnostic
+Read,9hF..00,exception reporting: atrial fibrillation quality indicators,res30: Arrhythmia,diagnostic
+Read,G573400,permanent atrial fibrillation,res30: Arrhythmia,diagnostic
+Read,14AR.00,history of atrial flutter,res30: Arrhythmia,diagnostic
+Read,G559.00,arrhythmogenic right ventricular cardiomyopathy,res30: Arrhythmia,diagnostic
+Read,14AN.00,h/o: atrial fibrillation,res30: Arrhythmia,diagnostic

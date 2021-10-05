@@ -1,0 +1,582 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,48182,Lamotrigine,res47: Drugs,drug
+Read,28824,Lidocaine hydrochloride,res47: Drugs,drug
+Read,14855,Lidocaine,res47: Drugs,drug
+Read,4502,Sodium valproate,res47: Drugs,drug
+Read,2357,Chlorhexidine gluconate/Lidocaine hydrochloride,res47: Drugs,drug
+Read,1291,Quinidine Bisulphate,res47: Drugs,drug
+Read,584,Sodium valproate,res47: Drugs,drug
+Read,432,Carbamazepine,res47: Drugs,drug
+Read,188,Amiodarone hydrochloride,res47: Drugs,drug
+Read,107,Phenytoin Sodium,res47: Drugs,drug
+Read,118,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,263,Lidocaine/Prilocaine,res47: Drugs,drug
+Read,502,Lidocaine hydrochloride,res47: Drugs,drug
+Read,1158,Carbamazepine,res47: Drugs,drug
+Read,652,Carbamazepine,res47: Drugs,drug
+Read,596,Carbamazepine,res47: Drugs,drug
+Read,608,Mexiletine hydrochloride,res47: Drugs,drug
+Read,1119,Flecainide acetate,res47: Drugs,drug
+Read,795,Topiramate,res47: Drugs,drug
+Read,763,Amiodarone hydrochloride,res47: Drugs,drug
+Read,1069,Adrenaline acid tartrate/Lidocaine hydrochloride,res47: Drugs,drug
+Read,805,Flecainide acetate,res47: Drugs,drug
+Read,979,Lidocaine hydrochloride/Adrenaline acid tartrate,res47: Drugs,drug
+Read,2305,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,2079,Lamotrigine,res47: Drugs,drug
+Read,1550,Sodium valproate,res47: Drugs,drug
+Read,1370,Phenytoin Sodium,res47: Drugs,drug
+Read,1398,Phenytoin sodium,res47: Drugs,drug
+Read,2065,Lidocaine hydrochloride/Adrenaline acid tartrate,res47: Drugs,drug
+Read,2062,Phenytoin sodium,res47: Drugs,drug
+Read,1573,Propafenone hydrochloride,res47: Drugs,drug
+Read,39615,Lacosamide,res47: Drugs,drug
+Read,2128,Phenytoin Sodium,res47: Drugs,drug
+Read,2085,Carbamazepine,res47: Drugs,drug
+Read,2080,Lamotrigine,res47: Drugs,drug
+Read,2082,Sodium valproate,res47: Drugs,drug
+Read,2081,Lamotrigine,res47: Drugs,drug
+Read,4495,Sodium valproate,res47: Drugs,drug
+Read,2859,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,2716,Disopyramide phosphate,res47: Drugs,drug
+Read,2388,Carbamazepine,res47: Drugs,drug
+Read,2520,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,2824,Carbamazepine,res47: Drugs,drug
+Read,2782,Phenytoin sodium,res47: Drugs,drug
+Read,2717,Disopyramide,res47: Drugs,drug
+Read,2823,Carbamazepine,res47: Drugs,drug
+Read,2822,Sodium valproate,res47: Drugs,drug
+Read,4490,Phenytoin,res47: Drugs,drug
+Read,3731,Sodium valproate,res47: Drugs,drug
+Read,3134,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,3058,Quinidine bisulphate,res47: Drugs,drug
+Read,3030,Lidocaine hydrochloride,res47: Drugs,drug
+Read,3107,Sodium valproate,res47: Drugs,drug
+Read,3068,Phenytoin Sodium,res47: Drugs,drug
+Read,3667,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,3569,Carbamazepine,res47: Drugs,drug
+Read,3350,Sodium valproate,res47: Drugs,drug
+Read,3576,Chlorhexidine gluconate/Lidocaine hydrochloride,res47: Drugs,drug
+Read,4366,Lidocaine hydrochloride,res47: Drugs,drug
+Read,3975,Riluzole,res47: Drugs,drug
+Read,3734,Sodium valproate,res47: Drugs,drug
+Read,3733,Sodium valproate,res47: Drugs,drug
+Read,3886,Lamotrigine,res47: Drugs,drug
+Read,3845,Sodium valproate,res47: Drugs,drug
+Read,3881,Phenytoin sodium,res47: Drugs,drug
+Read,4195,Sodium valproate,res47: Drugs,drug
+Read,4026,Disopyramide phosphate,res47: Drugs,drug
+Read,3987,Chlorhexidine gluconate/Lidocaine hydrochloride,res47: Drugs,drug
+Read,4175,Phenytoin,res47: Drugs,drug
+Read,4066,Carbamazepine,res47: Drugs,drug
+Read,14510,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,9454,Adrenaline acid tartrate/Lidocaine hydrochloride,res47: Drugs,drug
+Read,6552,Oxcarbazepine,res47: Drugs,drug
+Read,5722,Lamotrigine,res47: Drugs,drug
+Read,5076,Lamotrigine,res47: Drugs,drug
+Read,4893,Lidocaine hydrochloride,res47: Drugs,drug
+Read,4586,Lamotrigine,res47: Drugs,drug
+Read,4786,Lidocaine/Prilocaine,res47: Drugs,drug
+Read,4982,Carbamazepine,res47: Drugs,drug
+Read,4913,Carbamazepine,res47: Drugs,drug
+Read,5658,Lamotrigine,res47: Drugs,drug
+Read,5441,Propafenone hydrochloride,res47: Drugs,drug
+Read,5225,Lidocaine,res47: Drugs,drug
+Read,5617,Valproic acid,res47: Drugs,drug
+Read,5449,Oxcarbazepine,res47: Drugs,drug
+Read,5587,Phenytoin sodium,res47: Drugs,drug
+Read,6504,Phenytoin sodium,res47: Drugs,drug
+Read,5848,Valproate semisodium,res47: Drugs,drug
+Read,5796,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,5831,Lidocaine hydrochloride,res47: Drugs,drug
+Read,5830,Topiramate,res47: Drugs,drug
+Read,6436,Oxcarbazepine,res47: Drugs,drug
+Read,5977,Carbamazepine,res47: Drugs,drug
+Read,5874,Topiramate,res47: Drugs,drug
+Read,5907,Lamotrigine,res47: Drugs,drug
+Read,6409,Lamotrigine,res47: Drugs,drug
+Read,5997,Valproic acid,res47: Drugs,drug
+Read,6305,Valproate semisodium,res47: Drugs,drug
+Read,9281,Sodium Valproate,res47: Drugs,drug
+Read,7108,Topiramate,res47: Drugs,drug
+Read,6820,Topiramate,res47: Drugs,drug
+Read,6594,Phenytoin sodium,res47: Drugs,drug
+Read,6560,Sodium valproate,res47: Drugs,drug
+Read,6711,Sodium valproate,res47: Drugs,drug
+Read,6624,Phenytoin sodium,res47: Drugs,drug
+Read,7073,Topiramate,res47: Drugs,drug
+Read,7021,Oxcarbazepine,res47: Drugs,drug
+Read,7011,Sodium Valproate,res47: Drugs,drug
+Read,7020,Oxcarbazepine,res47: Drugs,drug
+Read,7064,Valproate semisodium,res47: Drugs,drug
+Read,7022,Lamotrigine,res47: Drugs,drug
+Read,7023,Lamotrigine,res47: Drugs,drug
+Read,9188,Propafenone hydrochloride,res47: Drugs,drug
+Read,7727,Disopyramide,res47: Drugs,drug
+Read,7482,Disopyramide,res47: Drugs,drug
+Read,7445,Amiodarone Hydrochloride,res47: Drugs,drug
+Read,7465,Flecainide acetate,res47: Drugs,drug
+Read,7635,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,7498,Phenytoin sodium,res47: Drugs,drug
+Read,8885,Sodium valproate,res47: Drugs,drug
+Read,8632,Disopyramide phosphate,res47: Drugs,drug
+Read,8060,Quinidine Bisulphate,res47: Drugs,drug
+Read,8152,Adrenaline acid tartrate/Lidocaine hydrochloride,res47: Drugs,drug
+Read,8832,Amiodarone hydrochloride,res47: Drugs,drug
+Read,8749,Quinidine Bisulphate,res47: Drugs,drug
+Read,8760,Disopyramide,res47: Drugs,drug
+Read,14451,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,11960,Mexiletine hydrochloride,res47: Drugs,drug
+Read,10263,Phenytoin sodium,res47: Drugs,drug
+Read,9713,Disopyramide phosphate,res47: Drugs,drug
+Read,9678,Phenytoin,res47: Drugs,drug
+Read,10111,Lamotrigine,res47: Drugs,drug
+Read,9759,Valproate semisodium,res47: Drugs,drug
+Read,9823,Topiramate,res47: Drugs,drug
+Read,11873,Zonisamide,res47: Drugs,drug
+Read,10687,Quinidine bisulphate,res47: Drugs,drug
+Read,10553,Disopyramide phosphate,res47: Drugs,drug
+Read,10400,Mexiletine hydrochloride,res47: Drugs,drug
+Read,11809,Lidocaine hydrochloride,res47: Drugs,drug
+Read,11237,Topiramate,res47: Drugs,drug
+Read,10871,Flecainide acetate,res47: Drugs,drug
+Read,11075,Sodium Valproate,res47: Drugs,drug
+Read,11696,Carbamazepine,res47: Drugs,drug
+Read,11445,Lamotrigine,res47: Drugs,drug
+Read,14418,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,13140,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,12880,Carbamazepine,res47: Drugs,drug
+Read,12280,Mexiletine hydrochloride,res47: Drugs,drug
+Read,12821,Topiramate,res47: Drugs,drug
+Read,12322,Amiodarone hydrochloride,res47: Drugs,drug
+Read,12469,Phenytoin sodium,res47: Drugs,drug
+Read,13112,Carbamazepine,res47: Drugs,drug
+Read,12932,Carbamazepine,res47: Drugs,drug
+Read,12931,Carbamazepine,res47: Drugs,drug
+Read,12982,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,12971,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,14199,Oxcarbazepine,res47: Drugs,drug
+Read,13549,Flecainide acetate,res47: Drugs,drug
+Read,13326,Procainamide hydrochloride,res47: Drugs,drug
+Read,13152,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,13524,Carbamazepine,res47: Drugs,drug
+Read,13434,Quinidine Bisulphate,res47: Drugs,drug
+Read,14157,Lidocaine hydrochloride,res47: Drugs,drug
+Read,13922,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,13608,Topiramate,res47: Drugs,drug
+Read,13890,Topiramate,res47: Drugs,drug
+Read,28345,Carbamazepine,res47: Drugs,drug
+Read,19500,Zonisamide,res47: Drugs,drug
+Read,17152,Sodium valproate,res47: Drugs,drug
+Read,16149,Lamotrigine,res47: Drugs,drug
+Read,15338,Zonisamide,res47: Drugs,drug
+Read,15082,Carbamazepine,res47: Drugs,drug
+Read,14856,Flecainide acetate,res47: Drugs,drug
+Read,14857,Phenytoin,res47: Drugs,drug
+Read,15320,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,15313,Propafenone hydrochloride,res47: Drugs,drug
+Read,15126,Lamotrigine,res47: Drugs,drug
+Read,16021,Valproic acid,res47: Drugs,drug
+Read,15650,Valproic acid,res47: Drugs,drug
+Read,15369,Lidocaine hydrochloride/Adrenaline acid tartrate,res47: Drugs,drug
+Read,15459,Mexiletine hydrochloride,res47: Drugs,drug
+Read,15851,Topiramate,res47: Drugs,drug
+Read,16609,Sodium valproate,res47: Drugs,drug
+Read,16262,Topiramate,res47: Drugs,drug
+Read,17119,Amiodarone hydrochloride,res47: Drugs,drug
+Read,17047,Lidocaine,res47: Drugs,drug
+Read,16927,Lidocaine hydrochloride,res47: Drugs,drug
+Read,19296,Lamotrigine,res47: Drugs,drug
+Read,18077,Topiramate,res47: Drugs,drug
+Read,17429,Carbamazepine,res47: Drugs,drug
+Read,17428,Carbamazepine,res47: Drugs,drug
+Read,17251,Lidocaine hydrochloride,res47: Drugs,drug
+Read,17177,Phenytoin,res47: Drugs,drug
+Read,18043,Lidocaine,res47: Drugs,drug
+Read,18011,Carbamazepine,res47: Drugs,drug
+Read,17978,Carbamazepine,res47: Drugs,drug
+Read,18886,Valproic acid,res47: Drugs,drug
+Read,18614,Valproic acid,res47: Drugs,drug
+Read,18385,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,18277,Procainamide hydrochloride,res47: Drugs,drug
+Read,18567,Oxcarbazepine,res47: Drugs,drug
+Read,18838,Riluzole,res47: Drugs,drug
+Read,18763,Carbamazepine,res47: Drugs,drug
+Read,18762,Carbamazepine,res47: Drugs,drug
+Read,18616,Lidocaine hydrochloride/Adrenaline acid tartrate,res47: Drugs,drug
+Read,18781,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,18764,Procainamide Hydrochloride,res47: Drugs,drug
+Read,28315,Procainamide Hydrochloride,res47: Drugs,drug
+Read,24963,Lidocaine hydrochloride/Adrenaline acid tartrate,res47: Drugs,drug
+Read,24177,Zonisamide,res47: Drugs,drug
+Read,21854,Phenytoin sodium,res47: Drugs,drug
+Read,20600,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,19822,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,20539,Tocainide Hydrochloride,res47: Drugs,drug
+Read,20004,Sodium valproate,res47: Drugs,drug
+Read,21441,Carbamazepine,res47: Drugs,drug
+Read,20882,Lidocaine hydrochloride,res47: Drugs,drug
+Read,24176,Zonisamide,res47: Drugs,drug
+Read,24153,Sodium valproate,res47: Drugs,drug
+Read,23508,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,24901,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,24709,Moracizine Hydrochloride,res47: Drugs,drug
+Read,24708,Moracizine Hydrochloride,res47: Drugs,drug
+Read,24637,Phenytoin sodium,res47: Drugs,drug
+Read,28155,Tocainide Hydrochloride,res47: Drugs,drug
+Read,26500,Lidocaine hydrochloride/Phenylephrine hydrochloride,res47: Drugs,drug
+Read,26012,Carbamazepine,res47: Drugs,drug
+Read,25536,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,25482,Disopyramide phosphate,res47: Drugs,drug
+Read,25969,Mexiletine hydrochloride,res47: Drugs,drug
+Read,25903,Fosphenytoin sodium,res47: Drugs,drug
+Read,25838,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,27967,Fosphenytoin sodium,res47: Drugs,drug
+Read,27161,Amiodarone hydrochloride,res47: Drugs,drug
+Read,26902,Oxcarbazepine,res47: Drugs,drug
+Read,26894,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,27113,Phenytoin sodium,res47: Drugs,drug
+Read,27760,Zonisamide,res47: Drugs,drug
+Read,27193,Amiodarone hydrochloride,res47: Drugs,drug
+Read,27692,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,27321,Disopyramide phosphate,res47: Drugs,drug
+Read,48164,Lamotrigine,res47: Drugs,drug
+Read,39712,Ranolazine,res47: Drugs,drug
+Read,35043,Lidocaine,res47: Drugs,drug
+Read,32931,Carbamazepine,res47: Drugs,drug
+Read,30990,Flecainide acetate,res47: Drugs,drug
+Read,30433,Disopyramide phosphate,res47: Drugs,drug
+Read,29620,Lamotrigine,res47: Drugs,drug
+Read,29024,Quinidine Bisulphate,res47: Drugs,drug
+Read,29619,Lamotrigine,res47: Drugs,drug
+Read,29456,Amiodarone hydrochloride,res47: Drugs,drug
+Read,29608,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,30392,Phenytoin sodium,res47: Drugs,drug
+Read,30047,Flecainide acetate,res47: Drugs,drug
+Read,30149,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,30081,Sodium Valproate,res47: Drugs,drug
+Read,30763,Carbamazepine,res47: Drugs,drug
+Read,40658,Lacosamide,res47: Drugs,drug
+Read,30497,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,30509,Carbamazepine,res47: Drugs,drug
+Read,32920,Lamotrigine,res47: Drugs,drug
+Read,32351,Mexiletine hydrochloride,res47: Drugs,drug
+Read,32109,Flecainide acetate,res47: Drugs,drug
+Read,31079,Flecainide acetate,res47: Drugs,drug
+Read,31331,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,31209,Amiodarone hydrochloride,res47: Drugs,drug
+Read,32304,Lidocaine hydrochloride,res47: Drugs,drug
+Read,32164,Amiodarone hydrochloride,res47: Drugs,drug
+Read,32900,Carbamazepine,res47: Drugs,drug
+Read,32591,Prilocaine,res47: Drugs,drug
+Read,32553,Amiodarone hydrochloride,res47: Drugs,drug
+Read,32613,Moracizine Hydrochloride,res47: Drugs,drug
+Read,35024,Sodium valproate,res47: Drugs,drug
+Read,34592,Phenytoin sodium,res47: Drugs,drug
+Read,34144,Phenytoin sodium,res47: Drugs,drug
+Read,33391,Quinidine Bisulphate,res47: Drugs,drug
+Read,33058,Sodium valproate,res47: Drugs,drug
+Read,33119,Amiodarone hydrochloride,res47: Drugs,drug
+Read,33106,Sodium valproate,res47: Drugs,drug
+Read,34120,Sodium valproate,res47: Drugs,drug
+Read,34574,Flecainide acetate,res47: Drugs,drug
+Read,34178,Sodium valproate,res47: Drugs,drug
+Read,34151,Sodium valproate,res47: Drugs,drug
+Read,34150,Sodium valproate,res47: Drugs,drug
+Read,34515,Amiodarone hydrochloride,res47: Drugs,drug
+Read,34414,Sodium valproate,res47: Drugs,drug
+Read,34370,Carbamazepine,res47: Drugs,drug
+Read,34958,Carbamazepine,res47: Drugs,drug
+Read,34759,Flecainide acetate,res47: Drugs,drug
+Read,34632,Sodium valproate,res47: Drugs,drug
+Read,34626,Sodium valproate,res47: Drugs,drug
+Read,34751,Amiodarone hydrochloride,res47: Drugs,drug
+Read,34707,Sodium valproate,res47: Drugs,drug
+Read,34699,Phenytoin,res47: Drugs,drug
+Read,34904,Carbamazepine,res47: Drugs,drug
+Read,34851,Amiodarone hydrochloride,res47: Drugs,drug
+Read,34830,Lidocaine hydrochloride/Adrenaline acid tartrate,res47: Drugs,drug
+Read,34883,Sodium valproate,res47: Drugs,drug
+Read,39550,Sodium Valproate,res47: Drugs,drug
+Read,38508,Sodium Valproate,res47: Drugs,drug
+Read,36633,Sodium valproate,res47: Drugs,drug
+Read,35520,Flecainide Acetate,res47: Drugs,drug
+Read,35471,Sodium valproate,res47: Drugs,drug
+Read,35517,Amiodarone hydrochloride,res47: Drugs,drug
+Read,36415,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,35747,Sodium valproate,res47: Drugs,drug
+Read,35732,Lamotrigine,res47: Drugs,drug
+Read,36318,Sodium Valproate,res47: Drugs,drug
+Read,55845,Amiodarone Hydrochloride,res47: Drugs,drug
+Read,35755,Sodium Valproate,res47: Drugs,drug
+Read,38507,Sodium Valproate,res47: Drugs,drug
+Read,37515,Rufinamide,res47: Drugs,drug
+Read,37058,Carbamazepine,res47: Drugs,drug
+Read,36634,Sodium valproate,res47: Drugs,drug
+Read,37512,Rufinamide,res47: Drugs,drug
+Read,37416,Rufinamide,res47: Drugs,drug
+Read,37306,Sodium valproate,res47: Drugs,drug
+Read,37895,Rufinamide,res47: Drugs,drug
+Read,37584,Sodium valproate,res47: Drugs,drug
+Read,37800,Carbamazepine,res47: Drugs,drug
+Read,37593,Lidocaine hydrochloride,res47: Drugs,drug
+Read,37611,Sodium valproate,res47: Drugs,drug
+Read,39506,Lamotrigine,res47: Drugs,drug
+Read,39276,Sodium Valproate,res47: Drugs,drug
+Read,39097,Lidocaine,res47: Drugs,drug
+Read,38939,Sodium valproate,res47: Drugs,drug
+Read,38789,Lacosamide,res47: Drugs,drug
+Read,39039,Sodium valproate,res47: Drugs,drug
+Read,38949,Sodium valproate,res47: Drugs,drug
+Read,39259,Lacosamide,res47: Drugs,drug
+Read,39126,Lacosamide,res47: Drugs,drug
+Read,39453,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,39385,Lacosamide,res47: Drugs,drug
+Read,39356,Lacosamide,res47: Drugs,drug
+Read,39279,Sodium Valproate,res47: Drugs,drug
+Read,39452,Sodium Valproate,res47: Drugs,drug
+Read,39427,Sodium Valproate,res47: Drugs,drug
+Read,47963,Lamotrigine,res47: Drugs,drug
+Read,42789,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,40404,Carbamazepine,res47: Drugs,drug
+Read,40332,Lidocaine,res47: Drugs,drug
+Read,40055,Flecainide Acetate,res47: Drugs,drug
+Read,39930,Sodium valproate,res47: Drugs,drug
+Read,39714,Lamotrigine,res47: Drugs,drug
+Read,39713,Ranolazine,res47: Drugs,drug
+Read,39715,Lamotrigine,res47: Drugs,drug
+Read,39990,Ranolazine,res47: Drugs,drug
+Read,39952,Lacosamide,res47: Drugs,drug
+Read,39971,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,40291,Lacosamide,res47: Drugs,drug
+Read,40070,Sodium valproate,res47: Drugs,drug
+Read,40403,Carbamazepine,res47: Drugs,drug
+Read,40395,Sodium valproate,res47: Drugs,drug
+Read,40372,Lacosamide,res47: Drugs,drug
+Read,40400,Sodium valproate,res47: Drugs,drug
+Read,42145,Eslicarbazepine Acetate,res47: Drugs,drug
+Read,41162,Lacosamide,res47: Drugs,drug
+Read,41037,Ranolazine,res47: Drugs,drug
+Read,40521,Rufinamide,res47: Drugs,drug
+Read,40451,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,40969,Lidocaine hydrochloride,res47: Drugs,drug
+Read,40910,Mexiletine Hydrochloride,res47: Drugs,drug
+Read,41137,Sodium Valproate,res47: Drugs,drug
+Read,41073,Ranolazine,res47: Drugs,drug
+Read,41043,Lidocaine hydrochloride,res47: Drugs,drug
+Read,42090,Sodium valproate,res47: Drugs,drug
+Read,41551,Amiodarone hydrochloride,res47: Drugs,drug
+Read,41378,Ranolazine,res47: Drugs,drug
+Read,41530,Amiodarone hydrochloride,res47: Drugs,drug
+Read,42038,Sodium valproate,res47: Drugs,drug
+Read,41614,Disopyramide,res47: Drugs,drug
+Read,41972,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,41726,Carbamazepine,res47: Drugs,drug
+Read,41758,Eslicarbazepine Acetate,res47: Drugs,drug
+Read,41735,Flecainide acetate,res47: Drugs,drug
+Read,47817,Lamotrigine,res47: Drugs,drug
+Read,45572,Lamotrigine,res47: Drugs,drug
+Read,43742,Sodium valproate,res47: Drugs,drug
+Read,43501,Flecainide acetate,res47: Drugs,drug
+Read,43178,Sodium Valproate,res47: Drugs,drug
+Read,43112,Dronedarone hydrochloride,res47: Drugs,drug
+Read,43451,Carbamazepine,res47: Drugs,drug
+Read,43387,Sodium Valproate,res47: Drugs,drug
+Read,43417,Carbamazepine,res47: Drugs,drug
+Read,43648,Sodium Valproate,res47: Drugs,drug
+Read,43502,Flecainide acetate,res47: Drugs,drug
+Read,43571,Lidocaine Hydrochloride,res47: Drugs,drug
+Read,43540,Flecainide acetate,res47: Drugs,drug
+Read,45419,Sodium valproate,res47: Drugs,drug
+Read,44259,Disopyramide,res47: Drugs,drug
+Read,43919,Rufinamide,res47: Drugs,drug
+Read,45344,Sodium valproate,res47: Drugs,drug
+Read,44472,Sodium Valproate,res47: Drugs,drug
+Read,44437,Dronedarone hydrochloride,res47: Drugs,drug
+Read,45106,Sodium Valproate,res47: Drugs,drug
+Read,44718,Sodium Valproate,res47: Drugs,drug
+Read,44903,Sodium valproate,res47: Drugs,drug
+Read,44719,Topiramate,res47: Drugs,drug
+Read,47670,Phenytoin sodium,res47: Drugs,drug
+Read,46775,Lamotrigine,res47: Drugs,drug
+Read,45941,Carbamazepine,res47: Drugs,drug
+Read,45903,Carbamazepine,res47: Drugs,drug
+Read,46774,Sodium valproate,res47: Drugs,drug
+Read,46572,Topiramate,res47: Drugs,drug
+Read,47658,Lidocaine hydrochloride,res47: Drugs,drug
+Read,47014,Phenytoin,res47: Drugs,drug
+Read,46972,Carbamazepine,res47: Drugs,drug
+Read,46888,Carbamazepine,res47: Drugs,drug
+Read,46938,Amiodarone hydrochloride,res47: Drugs,drug
+Read,47294,Carbamazepine,res47: Drugs,drug
+Read,47143,Zonisamide,res47: Drugs,drug
+Read,54245,Topiramate,res47: Drugs,drug
+Read,50452,Chlorhexidine gluconate/Lidocaine hydrochloride,res47: Drugs,drug
+Read,49435,Flecainide acetate,res47: Drugs,drug
+Read,48897,Lidocaine hydrochloride,res47: Drugs,drug
+Read,48453,Lidocaine hydrochloride,res47: Drugs,drug
+Read,48395,Lidocaine hydrochloride,res47: Drugs,drug
+Read,48391,Lidocaine hydrochloride,res47: Drugs,drug
+Read,48390,Lidocaine hydrochloride,res47: Drugs,drug
+Read,48450,Lidocaine hydrochloride,res47: Drugs,drug
+Read,48397,Carbamazepine,res47: Drugs,drug
+Read,48865,Lidocaine,res47: Drugs,drug
+Read,48694,Lidocaine hydrochloride,res47: Drugs,drug
+Read,48466,Lidocaine hydrochloride,res47: Drugs,drug
+Read,48512,Lidocaine hydrochloride,res47: Drugs,drug
+Read,48714,Lidocaine hydrochloride,res47: Drugs,drug
+Read,49434,Flecainide acetate,res47: Drugs,drug
+Read,49311,Chlorhexidine gluconate/Lidocaine hydrochloride,res47: Drugs,drug
+Read,48925,Lidocaine hydrochloride,res47: Drugs,drug
+Read,49084,Lacosamide,res47: Drugs,drug
+Read,48954,Lidocaine hydrochloride,res47: Drugs,drug
+Read,49376,Amiodarone hydrochloride,res47: Drugs,drug
+Read,50241,Amiodarone hydrochloride,res47: Drugs,drug
+Read,49754,Lidocaine hydrochloride/Adrenaline acid tartrate,res47: Drugs,drug
+Read,49532,Lamotrigine,res47: Drugs,drug
+Read,49496,Lidocaine hydrochloride,res47: Drugs,drug
+Read,49713,Lidocaine/Prilocaine,res47: Drugs,drug
+Read,50235,Lamotrigine,res47: Drugs,drug
+Read,49845,Lidocaine hydrochloride,res47: Drugs,drug
+Read,49789,Phenytoin sodium,res47: Drugs,drug
+Read,49833,Carbamazepine,res47: Drugs,drug
+Read,49795,Flecainide acetate,res47: Drugs,drug
+Read,50159,Phenytoin sodium,res47: Drugs,drug
+Read,49923,Sodium valproate,res47: Drugs,drug
+Read,50148,Phenytoin sodium,res47: Drugs,drug
+Read,50147,Phenytoin sodium,res47: Drugs,drug
+Read,54224,Amiodarone hydrochloride,res47: Drugs,drug
+Read,52840,Carbamazepine,res47: Drugs,drug
+Read,51416,Rufinamide,res47: Drugs,drug
+Read,55769,Mexiletine hydrochloride,res47: Drugs,drug
+Read,51150,Adrenaline,res47: Drugs,drug
+Read,50517,Mexiletine hydrochloride,res47: Drugs,drug
+Read,51035,Lidocaine hydrochloride,res47: Drugs,drug
+Read,51330,Lidocaine hydrochloride,res47: Drugs,drug
+Read,51309,Lamotrigine,res47: Drugs,drug
+Read,51329,Lidocaine hydrochloride,res47: Drugs,drug
+Read,51336,Lidocaine hydrochloride,res47: Drugs,drug
+Read,51331,Lidocaine hydrochloride,res47: Drugs,drug
+Read,52751,Topiramate,res47: Drugs,drug
+Read,51733,Lidocaine hydrochloride,res47: Drugs,drug
+Read,51442,Lidocaine hydrochloride,res47: Drugs,drug
+Read,51664,Flecainide acetate,res47: Drugs,drug
+Read,51501,Lamotrigine,res47: Drugs,drug
+Read,52473,Lacosamide,res47: Drugs,drug
+Read,51751,Sodium valproate,res47: Drugs,drug
+Read,51734,Lidocaine hydrochloride,res47: Drugs,drug
+Read,51839,Topiramate,res47: Drugs,drug
+Read,51760,Carbamazepine,res47: Drugs,drug
+Read,53914,Lidocaine hydrochloride,res47: Drugs,drug
+Read,53501,Sodium valproate,res47: Drugs,drug
+Read,53188,Carbamazepine,res47: Drugs,drug
+Read,53014,Lidocaine hydrochloride,res47: Drugs,drug
+Read,52883,Disopyramide phosphate,res47: Drugs,drug
+Read,53492,Carbamazepine,res47: Drugs,drug
+Read,53197,Sodium valproate,res47: Drugs,drug
+Read,53195,Sodium valproate,res47: Drugs,drug
+Read,53211,Valproate semisodium,res47: Drugs,drug
+Read,53893,Carbamazepine,res47: Drugs,drug
+Read,53666,Amiodarone hydrochloride,res47: Drugs,drug
+Read,53644,Quinidine sulphate,res47: Drugs,drug
+Read,53524,Sodium valproate,res47: Drugs,drug
+Read,53658,Amiodarone hydrochloride,res47: Drugs,drug
+Read,53846,Phenytoin sodium,res47: Drugs,drug
+Read,53750,Phenytoin sodium,res47: Drugs,drug
+Read,53749,Phenytoin sodium,res47: Drugs,drug
+Read,53779,Topiramate,res47: Drugs,drug
+Read,53780,Topiramate,res47: Drugs,drug
+Read,59429,Carbamazepine,res47: Drugs,drug
+Read,57643,,res47: Drugs,drug
+Read,56034,Amiodarone hydrochloride,res47: Drugs,drug
+Read,55196,Lidocaine hydrochloride,res47: Drugs,drug
+Read,54873,Zonisamide,res47: Drugs,drug
+Read,54445,Carbamazepine,res47: Drugs,drug
+Read,54276,Lamotrigine,res47: Drugs,drug
+Read,54854,Lidocaine hydrochloride,res47: Drugs,drug
+Read,54608,Amiodarone hydrochloride,res47: Drugs,drug
+Read,54828,,res47: Drugs,drug
+Read,55182,Lidocaine hydrochloride,res47: Drugs,drug
+Read,55006,Sodium valproate,res47: Drugs,drug
+Read,54984,,res47: Drugs,drug
+Read,55904,Carbamazepine,res47: Drugs,drug
+Read,55542,Lidocaine hydrochloride,res47: Drugs,drug
+Read,55649,Topiramate,res47: Drugs,drug
+Read,55644,Lamotrigine,res47: Drugs,drug
+Read,55553,Mexiletine hydrochloride,res47: Drugs,drug
+Read,57244,Lidocaine hydrochloride,res47: Drugs,drug
+Read,56316,Flecainide acetate,res47: Drugs,drug
+Read,56076,Sodium valproate,res47: Drugs,drug
+Read,56136,Sodium valproate,res47: Drugs,drug
+Read,57141,Lidocaine hydrochloride,res47: Drugs,drug
+Read,56504,Lamotrigine,res47: Drugs,drug
+Read,56373,Lidocaine hydrochloride,res47: Drugs,drug
+Read,56408,Lidocaine hydrochloride,res47: Drugs,drug
+Read,56786,Phenytoin sodium,res47: Drugs,drug
+Read,56780,Flecainide acetate,res47: Drugs,drug
+Read,56734,Carbamazepine,res47: Drugs,drug
+Read,59428,Carbamazepine,res47: Drugs,drug
+Read,59051,Topiramate,res47: Drugs,drug
+Read,58033,Amiodarone hydrochloride,res47: Drugs,drug
+Read,57863,Lamotrigine,res47: Drugs,drug
+Read,57726,Carbamazepine,res47: Drugs,drug
+Read,57670,Topiramate,res47: Drugs,drug
+Read,58019,Topiramate,res47: Drugs,drug
+Read,57874,,res47: Drugs,drug
+Read,57898,,res47: Drugs,drug
+Read,59038,Carbamazepine,res47: Drugs,drug
+Read,58539,Phenytoin,res47: Drugs,drug
+Read,58137,Topiramate,res47: Drugs,drug
+Read,58515,Carbamazepine,res47: Drugs,drug
+Read,58653,,res47: Drugs,drug
+Read,59378,Phenytoin sodium,res47: Drugs,drug
+Read,59211,Carbamazepine,res47: Drugs,drug
+Read,59082,Phenytoin sodium,res47: Drugs,drug
+Read,59058,Topiramate,res47: Drugs,drug
+Read,59125,Lamotrigine,res47: Drugs,drug
+Read,59120,Lamotrigine,res47: Drugs,drug
+Read,59377,Phenytoin sodium,res47: Drugs,drug
+Read,59242,Lamotrigine,res47: Drugs,drug
+Read,59241,Lamotrigine,res47: Drugs,drug
+Read,59318,Lamotrigine,res47: Drugs,drug
+Read,59273,Lamotrigine,res47: Drugs,drug
+Read,59293,Phenytoin sodium,res47: Drugs,drug
+Read,60578,Lamotrigine,res47: Drugs,drug
+Read,60133,Carbamazepine,res47: Drugs,drug
+Read,59745,Carbamazepine,res47: Drugs,drug
+Read,59430,Carbamazepine,res47: Drugs,drug
+Read,59697,Carbamazepine,res47: Drugs,drug
+Read,59504,Phenytoin sodium,res47: Drugs,drug
+Read,59467,Phenytoin sodium,res47: Drugs,drug
+Read,59696,Carbamazepine,res47: Drugs,drug
+Read,59609,Lamotrigine,res47: Drugs,drug
+Read,60102,Sodium valproate,res47: Drugs,drug
+Read,59746,Carbamazepine,res47: Drugs,drug
+Read,59887,Carbamazepine,res47: Drugs,drug
+Read,60573,Phenytoin sodium,res47: Drugs,drug
+Read,60245,Phenytoin,res47: Drugs,drug
+Read,60156,Topiramate,res47: Drugs,drug
+Read,60187,Carbamazepine,res47: Drugs,drug
+Read,60181,Carbamazepine,res47: Drugs,drug
+Read,60432,,res47: Drugs,drug
+Read,60268,Lamotrigine,res47: Drugs,drug
+Read,60424,Lamotrigine,res47: Drugs,drug
+Read,60332,Sodium valproate,res47: Drugs,drug
+Read,60405,Carbamazepine,res47: Drugs,drug
+Read,61624,Lamotrigine,res47: Drugs,drug
+Read,60878,Topiramate,res47: Drugs,drug
+Read,60797,,res47: Drugs,drug
+Read,60657,Lidocaine/Prilocaine,res47: Drugs,drug
+Read,60804,Lamotrigine,res47: Drugs,drug
+Read,61623,Lamotrigine,res47: Drugs,drug
+Read,61309,,res47: Drugs,drug
+Read,61143,Carbamazepine,res47: Drugs,drug
+Read,61198,Topiramate,res47: Drugs,drug
+Read,61179,Lidocaine hydrochloride,res47: Drugs,drug
+Read,61455,Lidocaine hydrochloride,res47: Drugs,drug
+Read,61377,Carbamazepine,res47: Drugs,drug
+Read,61769,Phenytoin sodium,res47: Drugs,drug
+Read,61630,Topiramate,res47: Drugs,drug
+Read,61625,Lamotrigine,res47: Drugs,drug
+Read,61805,Lidocaine hydrochloride,res47: Drugs,drug
+Read,61770,Topiramate,res47: Drugs,drug

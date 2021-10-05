@@ -1,0 +1,67 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,5199GE,EXACERBATION COAD,res43: copd_kontopantelis_bmjqs2012,symptom
+OXMIS,5199GP,COPD (CHRONIC OBSTRUCTIVE PULMONARY DISE,res43: copd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,5199G,OBSTRUCTIVE AIRWAYS DISEASE CHRONIC,res43: copd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,492,EMPHYSEMA PULMONARY,res43: copd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,491 E,CHRONIC BRONCHITIS WITH EMPHYSEMA,res43: copd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,492 AC,EMPHYSEMA APICAL BULLAE,res43: copd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,491,CHRONIC BRONCHITIS,res43: copd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,5199GL,COLD (CHRONIC OBSTRUCTIVE LUNG DISEASE),res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H32yz00,Other emphysema NOS,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H31z.00,Chronic bronchitis NOS,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H310000,Chronic catarrhal bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H313.00,Mixed simple and mucopurulent chronic bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H311000,Purulent chronic bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H32y100,Atrophic (senile) emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H311z00,Mucopurulent chronic bronchitis NOS,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,66YI.00,COPD self-management plan given,res43: copd_kontopantelis_bmjqs2012,test
+Read,H312011,Chronic wheezy bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H31y.00,Other chronic bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H31y100,Chronic tracheobronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H31..00,Chronic bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H32y200,MacLeod's unilateral emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H3y..11,Other specified chronic obstructive pulmonary disease,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H312100,Emphysematous bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H320000,Segmental bullous emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H312z00,Obstructive chronic bronchitis NOS,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H32z.00,Emphysema NOS,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H320200,Giant bullous emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H32..00,Emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H320300,Bullous emphysema with collapse,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H312200,Acute exacerbation of chronic obstructive airways disease,res43: copd_kontopantelis_bmjqs2012,symptom
+Read,H32y.00,Other emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H3z..11,Chronic obstructive pulmonary disease NOS,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H311100,Fetid chronic bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H320100,Zonal bullous emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H3...00,Chronic obstructive pulmonary disease,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H311.00,Mucopurulent chronic bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H310.00,Simple chronic bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H312300,Bronchiolitis obliterans,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H310z00,Simple chronic bronchitis NOS,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H36..00,Mild chronic obstructive pulmonary disease,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H32y000,Acute vesicular emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H37..00,Moderate chronic obstructive pulmonary disease,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H322.00,Centrilobular emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,66YB.00,Chronic obstructive pulmonary disease monitoring,res43: copd_kontopantelis_bmjqs2012,test
+Read,66YM.00,Chronic obstructive pulmonary disease annual review,res43: copd_kontopantelis_bmjqs2012,test
+Read,66Yd.00,COPD accident and emergency attendance since last visit,res43: copd_kontopantelis_bmjqs2012,test
+Read,66YL.00,Chronic obstructive pulmonary disease follow-up,res43: copd_kontopantelis_bmjqs2012,test
+Read,66YL.11,COPD follow-up,res43: copd_kontopantelis_bmjqs2012,test
+Read,66Yf.00,Number of COPD exacerbations in past year,res43: copd_kontopantelis_bmjqs2012,test
+Read,66Ye.00,Emergency COPD admission since last appointment,res43: copd_kontopantelis_bmjqs2012,test
+Read,66YL.12,COAD follow-up,res43: copd_kontopantelis_bmjqs2012,test
+Read,8H2R.00,Admit COPD emergency,res43: copd_kontopantelis_bmjqs2012,test
+Read,66YS.00,Chronic obstructive pulmonary disease monitoring by nurse,res43: copd_kontopantelis_bmjqs2012,test
+Read,66Yh.00,Chronic obstructive pulmonary disease does not disturb sleep,res43: copd_kontopantelis_bmjqs2012,test
+Read,66Yg.00,Chronic obstructive pulmonary disease disturbs sleep,res43: copd_kontopantelis_bmjqs2012,test
+Read,66YT.00,Chronic obstructive pulmonary disease monitoring by doctor,res43: copd_kontopantelis_bmjqs2012,test
+Read,66Yi.00,Multiple COPD emergency hospital admissions,res43: copd_kontopantelis_bmjqs2012,test
+Read,H38..00,Severe chronic obstructive pulmonary disease,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H31yz00,Other chronic bronchitis NOS,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H320.00,Chronic bullous emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,66YD.00,Chronic obstructive pulmonary disease monitoring due,res43: copd_kontopantelis_bmjqs2012,test
+Read,H312.00,Obstructive chronic bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H32y111,Acute interstitial emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H320z00,Chronic bullous emphysema NOS,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H312000,Chronic asthmatic bronchitis,res43: copd_kontopantelis_bmjqs2012,diagnostic
+Read,H321.00,Panlobular emphysema,res43: copd_kontopantelis_bmjqs2012,diagnostic

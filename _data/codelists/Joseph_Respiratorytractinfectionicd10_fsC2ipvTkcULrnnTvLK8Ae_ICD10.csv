@@ -1,0 +1,86 @@
+Coding System (ICD-10),Codes,Description,Entity type,Category
+ICD-10,J21.8,Acute bronchiolitis due to other specified organisms,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J20.4,Acute bronchitis due to parainfluenza virus,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J20.5,Acute bronchitis due to respiratory syncytial virus,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J20.6,Acute bronchitis due to rhinovirus,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J86.9,Pyothorax without fistula,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J20.8,Acute bronchitis due to other specified organisms,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J20.9,"Acute bronchitis, unspecified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A48.1,Legionnaires disease,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J12.0,Adenoviral pneumonia,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J12.3,Human metapneumovirus pneumonia,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J12.9,"Viral pneumonia, unspecified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J14,Pneumonia due to Haemophilus influenzae,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J15.0,Pneumonia due to Klebsiella pneumoniae,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J15.3,"Pneumonia due to streptococcus, group B",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J15.5,Pneumonia due to Escherichia coli,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J15.7,Pneumonia due to Mycoplasma pneumoniae,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J15.9,"Bacterial pneumonia, unspecified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J17,Pneumonia in diseases classified elsewhere,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J17.1,Pneumonia in viral diseases classified elsewhere,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J17.3,Pneumonia in parasitic diseases,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J18,"Pneumonia, organism unspecified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J18.1,"Lobar pneumonia, unspecified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J18.8,"Other pneumonia, organism unspecified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J20.0,Acute bronchitis due to Mycoplasma pneumoniae,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J20.2,Acute bronchitis due to streptococcus,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A15.4,"Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically and histologically",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J22,Unspecified acute lower respiratory infection,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A15.9,"Respiratory tuberculosis unspecified, confirmed bacteriologically and histologically",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A15.2,"Tuberculosis of lung, confirmed histologically",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A15.1,"Tuberculosis of lung, confirmed by culture only",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A15.0,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A15.3,"Tuberculosis of lung, confirmed by unspecified means",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J85.0,Gangrene and necrosis of lung,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J86,Pyothorax,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J85.2,Abscess of lung without pneumonia,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J16.8,Pneumonia due to other specified infectious organisms,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A15.7,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A15.6,"Tuberculous pleurisy, confirmed bacteriologically and histologically",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A15.5,"Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A16.9,"Respiratory tuberculosis unspecified, without mention of bacteriological or histological confirmatio",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A15.8,"Other respiratory tuberculosis, confirmed bacteriologically and histologically",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A16.2,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A16.1,"Tuberculosis of lung, bacteriological and histological examination not done",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A16.0,"Tuberculosis of lung, bacteriologically and histologically negative",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A16.8,"Other respiratory tuberculosis, without mention of bacteriological or histological confirmation",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A16.3,"Tuberculosis of intrathoracic lymph nodes, without mention of bacteriological or histological confir",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A16.7,Primary respiratory tuberculosis without mention of bacteriological or histological confirmation,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A16.4,"Tuberculosis of larynx, trachea and bronchus, without mention of bacteriological or histological con",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,A16.5,"Tuberculous pleurisy, without mention of bacteriological or histological confirmation",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J16.0,Chlamydial pneumonia,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J20.7,Acute bronchitis due to echovirus,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J12.8,Other viral pneumonia,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J12.2,Parainfluenza virus pneumonia,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J12.1,Respiratory syncytial virus pneumonia,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J12,"Viral pneumonia, not elsewhere classified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J16,"Pneumonia due to other infectious organisms, not elsewhere classified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J15.4,Pneumonia due to other streptococci,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J13,Pneumonia due to Streptococcus pneumoniae,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J15.2,Pneumonia due to staphylococcus,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J15,"Bacterial pneumonia, not elsewhere classified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J15.1,Pneumonia due to Pseudomonas,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J15.8,Other bacterial pneumonia,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J15.6,Pneumonia due to other aerobic Gram-negative bacteria,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J18.9,"Pneumonia, unspecified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J17.2,Pneumonia in mycoses,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J17.0,Pneumonia in bacterial diseases classified elsewhere,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J18.2,"Hypostatic pneumonia, unspecified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J17.8,Pneumonia in other diseases classified elsewhere,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J18.0,"Bronchopneumonia, unspecified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J20.3,Acute bronchitis due to coxsackievirus,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J20,Acute bronchitis,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J20.1,Acute bronchitis due to Haemophilus influenzae,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J21.1,Acute bronchiolitis due to human metapneumovirus,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J21.0,Acute bronchiolitis due to respiratory syncytial virus,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J44.0,Chronic obstructive pulmonary disease with acute lower respiratory infection,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J40,"Bronchitis, not specified as acute or chronic",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J21.9,"Acute bronchiolitis, unspecified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J85.3,Abscess of mediastinum,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J85,Abscess of lung and mediastinum,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J44.1,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J85.1,Abscess of lung with pneumonia,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J86.0,Pyothorax with fistula,res52: respiratory tract infection ICD-10,diagnostic
+ICD-10,J21,Acute bronchiolitis,res52: respiratory tract infection ICD-10,diagnostic

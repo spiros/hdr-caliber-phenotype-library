@@ -1,0 +1,85 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,F366.00,Polyneuropathy,microvascular_complications,diagnostic
+Read,F372.11,Diabetic polyneuropathy,microvascular_complications,diagnostic
+Read,F372.12,Diabetic neuropathy,microvascular_complications,diagnostic
+Read,C109H00,Non-insulin dependent d m with neuropathic arthropathy,microvascular_complications,diagnostic
+Read,2BBQ.00,O/E - left eye background diabetic retinopathy,microvascular_complications,diagnostic
+Read,F420600,Non proliferative diabetic retinopathy,microvascular_complications,diagnostic
+Read,F3y0.00,Diabetic mononeuropathy,microvascular_complications,diagnostic
+Read,F420000,Background diabetic retinopathy,microvascular_complications,diagnostic
+Read,F420.00,Diabetic retinopathy,microvascular_complications,diagnostic
+Read,F420100,Proliferative diabetic retinopathy,microvascular_complications,diagnostic
+Read,F420200,Preproliferative diabetic retinopathy,microvascular_complications,diagnostic
+Read,F420z00,Diabetic retinopathy NOS,microvascular_complications,diagnostic
+Read,2BBT.00,O/E - right eye proliferative diabetic retinopathy,microvascular_complications,diagnostic
+Read,2BBP.00,O/E - right eye background diabetic retinopathy,microvascular_complications,diagnostic
+Read,F420700,High risk proliferative diabetic retinopathy,microvascular_complications,diagnostic
+Read,C109600,Non-insulin-dependent diabetes mellitus with retinopathy,microvascular_complications,diagnostic
+Read,2BBR.00,O/E - right eye preproliferative diabetic retinopathy,microvascular_complications,diagnostic
+Read,F372100,Chronic painful diabetic neuropathy,microvascular_complications,diagnostic
+Read,2BBS.00,O/E - left eye preproliferative diabetic retinopathy,microvascular_complications,diagnostic
+Read,2BBV.00,O/E - left eye proliferative diabetic retinopathy,microvascular_complications,diagnostic
+Read,2BBa.00,O/E- non-referable retinopathy,microvascular_complications,diagnostic
+Read,2BBY.00,O/E - referable retinopathy,microvascular_complications,diagnostic
+Read,C10F600,Type 2 diabetes mellitus with retinopathy,microvascular_complications,diagnostic
+Read,Fyu7C00,"[X] Polyneuropathy, unspecified",microvascular_complications,diagnostic
+Read,F422z00,Proliferative retinopathy NOS,microvascular_complications,diagnostic
+Read,2BBo.00,O/E - sight threatening diabetic retinopathy,microvascular_complications,diagnostic
+Read,2BBl.00,O/E - left eye stable treated prolif diabetic retinopathy,microvascular_complications,diagnostic
+Read,C109612,Type 2 diabetes mellitus with retinopathy,microvascular_complications,diagnostic
+Read,C10F611,Type II diabetes mellitus with retinopathy,microvascular_complications,diagnostic
+Read,2BBk.00,O/E - right eye stable treated prolif diabetic retinopathy,microvascular_complications,diagnostic
+Read,C106.13,Diabetes mellitus with polyneuropathy,microvascular_complications,diagnostic
+Read,F420800,High risk non proliferative diabetic retinopathy,microvascular_complications,diagnostic
+Read,C109611,Type II diabetes mellitus with retinopathy,microvascular_complications,diagnostic
+Read,N242300,Neuropathic pain,microvascular_complications,diagnostic
+Read,2BBr.00,Impaired vision due to diabetic retinopathy,microvascular_complications,diagnostic
+Read,C106.12,Diabetes mellitus with neuropathy,microvascular_complications,diagnostic
+Read,F372.00,Polyneuropathy in diabetes,microvascular_complications,diagnostic
+Read,F171100,Autonomic neuropathy due to diabetes,microvascular_complications,diagnostic
+Read,C10FB00,Type 2 diabetes mellitus with polyneuropathy,microvascular_complications,diagnostic
+Read,C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy,microvascular_complications,diagnostic
+Read,F372200,Asymptomatic diabetic neuropathy,microvascular_complications,diagnostic
+Read,F37z.11,Polyneuropathy unspecified,microvascular_complications,diagnostic
+Read,N035.00,Neuropathic arthropathy,microvascular_complications,diagnostic
+Read,FyuAC00,[X]Autonomic neuropathy/endocrine+metabolic diseases CE,microvascular_complications,diagnostic
+Read,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy,microvascular_complications,diagnostic
+Read,F372000,Acute painful diabetic neuropathy,microvascular_complications,diagnostic
+Read,C109B11,Type II diabetes mellitus with polyneuropathy,microvascular_complications,diagnostic
+Read,C109H11,Type II diabetes mellitus with neuropathic arthropathy,microvascular_complications,diagnostic
+Read,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy,microvascular_complications,diagnostic
+Read,C109A11,Type II diabetes mellitus with mononeuropathy,microvascular_complications,diagnostic
+Read,C10FB11,Type II diabetes mellitus with polyneuropathy,microvascular_complications,diagnostic
+Read,F171z00,Peripheral autonomic neuropathy due to disease NOS,microvascular_complications,diagnostic
+Read,C109H12,Type 2 diabetes mellitus with neuropathic arthropathy,microvascular_complications,diagnostic
+Read,F374z00,Polyneuropathy in disease NOS,microvascular_complications,diagnostic
+Read,C10FA00,Type 2 diabetes mellitus with mononeuropathy,microvascular_complications,diagnostic
+Read,C10FC11,Type II diabetes mellitus with nephropathy,microvascular_complications,diagnostic
+Read,C10FA11,Type II diabetes mellitus with mononeuropathy,microvascular_complications,diagnostic
+Read,Fyu6B00,[X]Other mononeuropathies of lower limb,microvascular_complications,diagnostic
+Read,C104.11,Diabetic nephropathy,microvascular_complications,diagnostic
+Read,F37y100,Axonal sensorimotor neuropathy,microvascular_complications,diagnostic
+Read,C109C12,Type 2 diabetes mellitus with nephropathy,microvascular_complications,diagnostic
+Read,C10FC00,Type 2 diabetes mellitus with nephropathy,microvascular_complications,diagnostic
+Read,K03..00,Nephritis and nephropathy unspecified,microvascular_complications,diagnostic
+Read,K02..12,Nephropathy - chronic,microvascular_complications,diagnostic
+Read,K03..12,"Nephropathy, unspecified",microvascular_complications,diagnostic
+Read,C108D00,Insulin dependent diabetes mellitus with nephropathy,microvascular_complications,diagnostic
+Read,C104z00,Diabetes mellitus with nephropathy NOS,microvascular_complications,diagnostic
+Read,C109C00,Non-insulin dependent diabetes mellitus with nephropathy,microvascular_complications,diagnostic
+Read,K08yA00,Proteinuric diabetic nephropathy,microvascular_complications,diagnostic
+Read,K03..11,Nephritis and nephropathy unspecified,microvascular_complications,diagnostic
+Read,C109C11,Type II diabetes mellitus with nephropathy,microvascular_complications,diagnostic
+Read,1Z1J.00,Chronic kidney disease stage 4 without proteinuria,microvascular_complications,diagnostic
+Read,1Z13.00,Chronic kidney disease stage 4,microvascular_complications,diagnostic
+Read,1Z1L.00,Chronic kidney disease stage 5 without proteinuria,microvascular_complications,diagnostic
+Read,1Z1H.00,Chronic kidney disease stage 4 with proteinuria,microvascular_complications,diagnostic
+Read,1Z14.00,Chronic kidney disease stage 5,microvascular_complications,diagnostic
+Read,1Z1K.00,Chronic kidney disease stage 5 with proteinuria,microvascular_complications,diagnostic
+Read,1Z1L.11,CKD stage 5 without proteinuria,microvascular_complications,diagnostic
+Read,1Z1J.11,CKD stage 4 without proteinuria,microvascular_complications,diagnostic
+Read,K055.00,Chronic kidney disease stage 5,microvascular_complications,diagnostic
+Read,K054.00,Chronic kidney disease stage 4,microvascular_complications,diagnostic
+Read,1Z1K.11,CKD stage 5 with proteinuria,microvascular_complications,diagnostic
+Read,1Z1H.11,CKD stage 4 with proteinuria,microvascular_complications,diagnostic
+Read,F367.00,Peripheral neuropathy,microvascular_complications,diagnostic

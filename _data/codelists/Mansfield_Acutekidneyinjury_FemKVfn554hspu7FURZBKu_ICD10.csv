@@ -1,0 +1,14 @@
+Coding System (ICD-10),Codes,Description,Entity type,Category
+ICD-10,N17.0,Acute renal failure with tubular necrosis,res30: Acute kidney injury,diagnostic
+ICD-10,N17.1,Acute renal failure with acute cortical necrosis,res30: Acute kidney injury,diagnostic
+ICD-10,N17,Acute renal failure,res30: Acute kidney injury,diagnostic
+ICD-10,N19,Unspecified kidney failure,res30: Acute kidney injury,diagnostic
+ICD-10,N17.9,"Acute renal failure, unspecified",res30: Acute kidney injury,diagnostic
+ICD-10,N17.8,Other acute renal failure,res30: Acute kidney injury,diagnostic
+ICD-10,N17.2,Acute renal failure with medullary necrosis,res30: Acute kidney injury,diagnostic
+ICD-10,N99.0,Postprocedural renal failure,res30: Acute kidney injury,diagnostic
+ICD-10,R94.4,Abnormal results of kidney function studies,res30: Acute kidney injury,diagnostic
+ICD-10,R34,Anuria and oliguria,res30: Acute kidney injury,diagnostic
+ICD-10,N14.1,"Nephropathy induced by other drugs, medicaments and biological substances",res30: Acute kidney injury,diagnostic
+ICD-10,N14.2,"Nephropathy induced by unspecified drug, medicament or biological substance",res30: Acute kidney injury,diagnostic
+ICD-10,N14,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions,res30: Acute kidney injury,diagnostic

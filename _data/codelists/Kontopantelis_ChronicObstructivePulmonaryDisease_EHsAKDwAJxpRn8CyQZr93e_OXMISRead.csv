@@ -1,0 +1,49 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,5199GP,COPD (CHRONIC OBSTRUCTIVE PULMONARY DISE,Chronic_obstructive_pulmonary_disease,diagnostic
+OXMIS,5199GL,COLD (CHRONIC OBSTRUCTIVE LUNG DISEASE),Chronic_obstructive_pulmonary_disease,diagnostic
+OXMIS,5199G,OBSTRUCTIVE AIRWAYS DISEASE CHRONIC,Chronic_obstructive_pulmonary_disease,diagnostic
+OXMIS,492 AC,EMPHYSEMA APICAL BULLAE,Chronic_obstructive_pulmonary_disease,diagnostic
+OXMIS,492,EMPHYSEMA PULMONARY,Chronic_obstructive_pulmonary_disease,diagnostic
+OXMIS,491 E,CHRONIC BRONCHITIS WITH EMPHYSEMA,Chronic_obstructive_pulmonary_disease,diagnostic
+OXMIS,491,CHRONIC BRONCHITIS,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H312000,Chronic asthmatic bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H312.00,Obstructive chronic bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H311z00,Mucopurulent chronic bronchitis NOS,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H31..00,Chronic bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H3...00,Chronic obstructive pulmonary disease,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H310.00,Simple chronic bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H311100,Fetid chronic bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H310000,Chronic catarrhal bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H311000,Purulent chronic bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H311.00,Mucopurulent chronic bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H310z00,Simple chronic bronchitis NOS,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H312011,Chronic wheezy bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H321.00,Panlobular emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H31y100,Chronic tracheobronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H312100,Emphysematous bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H313.00,Mixed simple and mucopurulent chronic bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H31y.00,Other chronic bronchitis,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H312z00,Obstructive chronic bronchitis NOS,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H312300,Bronchiolitis obliterans,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H320z00,Chronic bullous emphysema NOS,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H32..00,Emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H31z.00,Chronic bronchitis NOS,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H31yz00,Other chronic bronchitis NOS,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H320000,Segmental bullous emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H320.00,Chronic bullous emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H320300,Bullous emphysema with collapse,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H320200,Giant bullous emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H320100,Zonal bullous emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H322.00,Centrilobular emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H32y200,MacLeod's unilateral emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H32y.00,Other emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H32y111,Acute interstitial emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H32y100,Atrophic (senile) emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H32y000,Acute vesicular emphysema,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H36..00,Mild chronic obstructive pulmonary disease,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H32z.00,Emphysema NOS,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H32yz00,Other emphysema NOS,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H37..00,Moderate chronic obstructive pulmonary disease,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H38..00,Severe chronic obstructive pulmonary disease,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H3z..11,Chronic obstructive pulmonary disease NOS,Chronic_obstructive_pulmonary_disease,diagnostic
+Read,H3y..11,Other specified chronic obstructive pulmonary disease,Chronic_obstructive_pulmonary_disease,diagnostic

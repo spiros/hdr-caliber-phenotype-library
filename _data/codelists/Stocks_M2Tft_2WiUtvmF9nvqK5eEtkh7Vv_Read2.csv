@@ -1,0 +1,59 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,442c.00,Plasma free T4 level,res25: M2_TFT,test
+Read,442C.00,Thyroid horm tests borderline,res25: M2_TFT,test
+Read,4427,Free T4 level,res25: M2_TFT,test
+Read,4426,Serum T4 level,res25: M2_TFT,test
+Read,4421,Thyroid hormone tests normal,res25: M2_TFT,test
+Read,4425,Free T3 level,res25: M2_TFT,test
+Read,4421.11,Euthyroid,res25: M2_TFT,test
+Read,4424,Serum T3 level,res25: M2_TFT,test
+Read,4423,Thyroid hormone tests low,res25: M2_TFT,test
+Read,4426100,Serum T4 level abnormal,res25: M2_TFT,test
+Read,4426000,Serum T4 level normal,res25: M2_TFT,test
+Read,4429,Thyroxine binding globulin-TBG,res25: M2_TFT,test
+Read,4428,Free thyroxine index,res25: M2_TFT,test
+Read,4424200,Serum T3 level low,res25: M2_TFT,test
+Read,4424000,Serum T3 level normal,res25: M2_TFT,test
+Read,4424100,Serum T3 level high,res25: M2_TFT,test
+Read,442b.00,Serum total T4 level,res25: M2_TFT,test
+Read,442B.00,TRH - thyroid release. hormone,res25: M2_TFT,test
+Read,442..13,Thyroid function tests,res25: M2_TFT,test
+Read,442..12,TSH level,res25: M2_TFT,test
+Read,442..00,Thyroid hormone tests,res25: M2_TFT,test
+Read,442..11,TRH level,res25: M2_TFT,test
+Read,442A100,Serum TSH level abnormal,res25: M2_TFT,test
+Read,442..14,Thyroxine binding globulin,res25: M2_TFT,test
+Read,442A000,Serum TSH level normal,res25: M2_TFT,test
+Read,442A.00,TSH - thyroid stim. hormone,res25: M2_TFT,test
+Read,442a.00,Plasma total T4 level,res25: M2_TFT,test
+Read,442D.00,T3 uptake test,res25: M2_TFT,test
+Read,442d.00,Serum thyroglobulin level,res25: M2_TFT,test
+Read,442P.00,30 minute serum TSH level,res25: M2_TFT,test
+Read,442h.00,Thyrotropin releasing hormone (TRH) stimulation test,res25: M2_TFT,test
+Read,442H.00,Thyroid function tests normal,res25: M2_TFT,test
+Read,442F.00,T3 suppression test,res25: M2_TFT,test
+Read,442O.00,150 minute plasma TSH level,res25: M2_TFT,test
+Read,442e.00,Blood spot TSH level,res25: M2_TFT,test
+Read,442E.00,PBI - protein bound iodine estimation,res25: M2_TFT,test
+Read,442D000,T3 uptake test normal,res25: M2_TFT,test
+Read,442D100,T3 uptake test abnormal,res25: M2_TFT,test
+Read,442g.00,Serum thyroglobulin recovery level,res25: M2_TFT,test
+Read,442G.00,Thyroid hormone tests abnormal,res25: M2_TFT,test
+Read,442f.00,Serum total T3 level,res25: M2_TFT,test
+Read,442N.00,120 minute plasma TSH level,res25: M2_TFT,test
+Read,442M.00,90 minute plasma TSH level,res25: M2_TFT,test
+Read,442J.00,Thyroid function test,res25: M2_TFT,test
+Read,442L.00,60 minute plasma TSH level,res25: M2_TFT,test
+Read,442K.00,30 minute plasma TSH level,res25: M2_TFT,test
+Read,442V.00,Serum free T4 level,res25: M2_TFT,test
+Read,442U.00,Serum free triiodothyronine level,res25: M2_TFT,test
+Read,442I.00,Thyroid function tests abnormal,res25: M2_TFT,test
+Read,442T.00,150 minute serum TSH level,res25: M2_TFT,test
+Read,442Q.00,60 minute serum TSH level,res25: M2_TFT,test
+Read,442S.00,120 minute serum TSH level,res25: M2_TFT,test
+Read,442Y.00,Plasma free triiodothyronine level,res25: M2_TFT,test
+Read,442X.00,Plasma TSH level,res25: M2_TFT,test
+Read,442W.00,Serum TSH level,res25: M2_TFT,test
+Read,442Z.00,Thyroid hormone tests NOS,res25: M2_TFT,test
+Read,C134300,TSH - thyroid-stimulating hormone deficiency,res25: M2_TFT,test
+Read,4422,Thyroid hormone tests high,res25: M2_TFT,test

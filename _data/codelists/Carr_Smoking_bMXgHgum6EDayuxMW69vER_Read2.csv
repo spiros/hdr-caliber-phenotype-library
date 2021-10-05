@@ -1,0 +1,63 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,137e.00,Smoking restarted,res41: smoking,diagnostic
+Read,1376.00,Very heavy smoker - 40+cigs/d,res41: smoking,diagnostic
+Read,137W.00,Chews tobacco,res41: smoking,diagnostic
+Read,137K.00,Stopped smoking,res41: smoking,diagnostic
+Read,137P.00,Cigarette smoker,res41: smoking,diagnostic
+Read,137S.00,Ex smoker,res41: smoking,diagnostic
+Read,137..00,Tobacco consumption,res41: smoking,diagnostic
+Read,137L.00,Current non-smoker,res41: smoking,diagnostic
+Read,137b.00,Ready to stop smoking,res41: smoking,diagnostic
+Read,137G.00,Trying to give up smoking,res41: smoking,diagnostic
+Read,137P.11,Smoker,res41: smoking,diagnostic
+Read,1374.00,Moderate smoker - 10-19 cigs/d,res41: smoking,diagnostic
+Read,8CAL.00,Smoking cessation advice,res41: smoking,diagnostic
+Read,1378.00,Ex-light smoker (1-9/day),res41: smoking,diagnostic
+Read,1375.00,Heavy smoker - 20-39 cigs/day,res41: smoking,diagnostic
+Read,1371.11,Non-smoker,res41: smoking,diagnostic
+Read,137R.00,Current smoker,res41: smoking,diagnostic
+Read,8HTK.00,Referral to stop-smoking clinic,res41: smoking,diagnostic
+Read,137J.00,Cigar smoker,res41: smoking,diagnostic
+Read,137T.00,Date ceased smoking,res41: smoking,diagnostic
+Read,137A.00,Ex-heavy smoker (20-39/day),res41: smoking,diagnostic
+Read,1372.11,Occasional smoker,res41: smoking,diagnostic
+Read,137..11,Smoker - amount smoked,res41: smoking,diagnostic
+Read,137F.00,Ex-smoker - amount unknown,res41: smoking,diagnostic
+Read,137M.00,Rolls own cigarettes,res41: smoking,diagnostic
+Read,1373.00,Light smoker - 1-9 cigs/day,res41: smoking,diagnostic
+Read,1379.00,Ex-moderate smoker (10-19/day),res41: smoking,diagnostic
+Read,137H.00,Pipe smoker,res41: smoking,diagnostic
+Read,1372.00,Trivial smoker - < 1 cig/day,res41: smoking,diagnostic
+Read,137B.00,Ex-very heavy smoker (40+/day),res41: smoking,diagnostic
+Read,1377.00,Ex-trivial smoker (<1/day),res41: smoking,diagnostic
+Read,137X.00,Cigarette consumption,res41: smoking,diagnostic
+Read,137Z.00,Tobacco consumption NOS,res41: smoking,diagnostic
+Read,137Y.00,Cigar consumption,res41: smoking,diagnostic
+Read,137C.00,Keeps trying to stop smoking,res41: smoking,diagnostic
+Read,137E.00,Tobacco consumption unknown,res41: smoking,diagnostic
+Read,137c.00,Thinking about stopping smoking,res41: smoking,diagnostic
+Read,137a.00,Pipe tobacco consumption,res41: smoking,diagnostic
+Read,137V.00,Smoking reduced,res41: smoking,diagnostic
+Read,137d.00,Not interested in stopping smoking,res41: smoking,diagnostic
+Read,137N.00,Ex pipe smoker,res41: smoking,diagnostic
+Read,137I.00,Passive smoker,res41: smoking,diagnostic
+Read,8H7i.00,Referral to smoking cessation advisor,res41: smoking,diagnostic
+Read,137U.00,Not a passive smoker,res41: smoking,diagnostic
+Read,137O.00,Ex cigar smoker,res41: smoking,diagnostic
+Read,9ko..00,Current smoker annual review - enhanced services admin,res41: smoking,diagnostic
+Read,9kn..00,Non-smoker annual review - enhanced services administration,res41: smoking,diagnostic
+Read,8HkQ.00,Referral to NHS stop smoking service,res41: smoking,diagnostic
+Read,137j.00,Ex-cigarette smoker,res41: smoking,diagnostic
+Read,137D.00,Admitted tobacco cons untrue ?,res41: smoking,diagnostic
+Read,137l.00,Ex roll-up cigarette smoker,res41: smoking,diagnostic
+Read,9km..00,Ex-smoker annual review - enhanced services administration,res41: smoking,diagnostic
+Read,137K000,Recently stopped smoking,res41: smoking,diagnostic
+Read,8IAj.00,Smoking cessation advice declined,res41: smoking,diagnostic
+Read,137m.00,Failed attempt to stop smoking,res41: smoking,diagnostic
+Read,9ko..11,Current smoker annual review,res41: smoking,diagnostic
+Read,9km..11,Ex-smoker annual review,res41: smoking,diagnostic
+Read,9NS0200,Referral for smoking cessation service offered,res41: smoking,diagnostic
+Read,9kn..11,Non-smoker annual review,res41: smoking,diagnostic
+Read,137Q.11,Smoking restarted,res41: smoking,diagnostic
+Read,1371.00,Never smoked tobacco,res41: smoking,diagnostic
+Read,137Q.00,Smoking started,res41: smoking,diagnostic

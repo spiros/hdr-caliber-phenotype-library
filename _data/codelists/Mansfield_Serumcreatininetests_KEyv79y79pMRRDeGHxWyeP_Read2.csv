@@ -1,0 +1,52 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,4519,deteriorating renal function,res30: Serum creatinine tests,test
+Read,9N1Q.00,seen in diabetic clinic,res30: Serum creatinine tests,test
+Read,451..00,renal function tests,res30: Serum creatinine tests,test
+Read,4....12,test - laboratory,res30: Serum creatinine tests,test
+Read,K08y300,renal function impairment with growth failure,res30: Serum creatinine tests,test
+Read,4Z...00,laboratory procedure nos,res30: Serum creatinine tests,test
+Read,44J3300,serum creatinine raised,res30: Serum creatinine tests,test
+Read,4512,renal function tests abnormal,res30: Serum creatinine tests,test
+Read,K08..00,impaired renal function disorder,res30: Serum creatinine tests,test
+Read,412..00,laboratory procedure performed,res30: Serum creatinine tests,test
+Read,4....11,investigation-laboratory,res30: Serum creatinine tests,test
+Read,4511,renal function tests normal,res30: Serum creatinine tests,test
+Read,8A6..00,renal function monitoring,res30: Serum creatinine tests,test
+Read,K060.11,impaired renal function,res30: Serum creatinine tests,test
+Read,44J..00,blood urea/renal function,res30: Serum creatinine tests,test
+Read,R144.00,[d]renal function test abnormal,res30: Serum creatinine tests,test
+Read,4....00,laboratory procedures,res30: Serum creatinine tests,test
+Read,8HP..00,referral for laboratory tests,res30: Serum creatinine tests,test
+Read,K08z.00,impaired renal function disorder nos,res30: Serum creatinine tests,test
+Read,44JF.00,plasma creatinine level,res30: Serum creatinine tests,test
+Read,C345.00,gout due to impairment of renal function,res30: Serum creatinine tests,test
+Read,4516,renal function tests borderline,res30: Serum creatinine tests,test
+Read,413..00,laboratory test requested,res30: Serum creatinine tests,test
+Read,41B..00,laboratory test due,res30: Serum creatinine tests,test
+Read,8H7P.11,refer to pathology laboratory,res30: Serum creatinine tests,test
+Read,41...00,laboratory procedures -general,res30: Serum creatinine tests,test
+Read,44J3200,serum creatinine normal,res30: Serum creatinine tests,test
+Read,K08y.00,other impaired renal function disorder,res30: Serum creatinine tests,test
+Read,451Z.00,renal function test nos,res30: Serum creatinine tests,test
+Read,41BZ.00,laboratory test nos due,res30: Serum creatinine tests,test
+Read,44JZ.00,blood urea/renal function nos,res30: Serum creatinine tests,test
+Read,4Q40.00,creatinine level,res30: Serum creatinine tests,test
+Read,44J3100,serum creatinine low,res30: Serum creatinine tests,test
+Read,44J3000,serum creatinine abnormal,res30: Serum creatinine tests,test
+Read,ZV72600,[v]laboratory examination,res30: Serum creatinine tests,test
+Read,41G3.00,specimen received in laboratory,res30: Serum creatinine tests,test
+Read,44JC.00,corrected plasma creatinine level,res30: Serum creatinine tests,test
+Read,44JD.00,corrected serum creatinine level,res30: Serum creatinine tests,test
+Read,44J3z00,serum creatinine nos,res30: Serum creatinine tests,test
+Read,R1yz.11,[d]unexplained laboratory result,res30: Serum creatinine tests,test
+Read,4515,differential renal function,res30: Serum creatinine tests,test
+Read,9b0Q.00,laboratory result,res30: Serum creatinine tests,test
+Read,K08yz00,other impaired renal function disorder nos,res30: Serum creatinine tests,test
+Read,9mG0.00,renal function monitoring invitation first letter,res30: Serum creatinine tests,test
+Read,9b0P.00,laboratory request,res30: Serum creatinine tests,test
+Read,41G..00,laboratory administration procedures,res30: Serum creatinine tests,test
+Read,41H..00,review of patient laboratory test report,res30: Serum creatinine tests,test
+Read,98F..00,reason for repeat laboratory test,res30: Serum creatinine tests,test
+Read,451H.00,recovery of renal function,res30: Serum creatinine tests,test
+Read,9mG..00,renal function monitoring invitation,res30: Serum creatinine tests,test
+Read,44J3.00,serum creatinine,res30: Serum creatinine tests,test

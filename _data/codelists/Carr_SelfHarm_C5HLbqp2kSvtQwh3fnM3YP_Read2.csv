@@ -1,0 +1,262 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,U209z00,[X]Intent self poison alcohol unspecif place,res33: Self-harm,diagnostic
+Read,ZX1H.00,Self-asphyxiation,res33: Self-harm,diagnostic
+Read,U208400,[X]Intent self pois oth/unsp drug/medic in street/highway,res33: Self-harm,diagnostic
+Read,ZX1H100,Self-strangulation,res33: Self-harm,diagnostic
+Read,ZX1L100,Self-mutilation of hands,res33: Self-harm,diagnostic
+Read,ZX1I.00,Self-scalding,res33: Self-harm,diagnostic
+Read,U20A.11,[X]Self poisoning from glue solvent,res33: Self-harm,diagnostic
+Read,ZX1H200,Self-suffocation,res33: Self-harm,diagnostic
+Read,U208000,[X]Int self poison/exposure to oth/unsp drug/medicam home,res33: Self-harm,diagnostic
+Read,ZX1J.00,Self-electrocution,res33: Self-harm,diagnostic
+Read,U202000,[X]Int self poison/exposure to sedative hypnotic at home,res33: Self-harm,diagnostic
+Read,U208.00,[X]Int self poison/exposure to other/unspec drug/medicament,res33: Self-harm,diagnostic
+Read,U204.00,[X]Intent self poison/exposure to psychotropic drug,res33: Self-harm,diagnostic
+Read,U204y00,[X]Int self poison psychotropic drug other spec place,res33: Self-harm,diagnostic
+Read,U202z00,[X]Intent self poison sedative hypnotic unspecif place,res33: Self-harm,diagnostic
+Read,U202400,[X]Intent self pois sedative hypnotic in street/highway,res33: Self-harm,diagnostic
+Read,U202y00,[X]Int self poison sedative hypnotic other spec place,res33: Self-harm,diagnostic
+Read,U204100,[X]Intent self poison psychotropic drug at res institut,res33: Self-harm,diagnostic
+Read,U204.12,[X]Overdose - amitriptyline,res33: Self-harm,diagnostic
+Read,U204.11,[X]Overdose - antidepressant,res33: Self-harm,diagnostic
+Read,U204000,[X]Int self poison/exposure to psychotropic drug at home,res33: Self-harm,diagnostic
+Read,U204.13,[X]Overdose - SSRI,res33: Self-harm,diagnostic
+Read,U205y00,[X]Int self poison narcotic drug other spec place,res33: Self-harm,diagnostic
+Read,U207z00,[X]Intent self poison oth autonomic drug unspecif place,res33: Self-harm,diagnostic
+Read,U205000,[X]Int self poison/exposure to narcotic drug at home,res33: Self-harm,diagnostic
+Read,U204z00,[X]Intent self poison psychotropic drug unspecif place,res33: Self-harm,diagnostic
+Read,U205.00,[X]Intent self poison/exposure to narcotic drug,res33: Self-harm,diagnostic
+Read,U207000,[X]Int self poison/exposure to oth autonomic drug at home,res33: Self-harm,diagnostic
+Read,U206.00,[X]Intent self poison/exposure to hallucinogen,res33: Self-harm,diagnostic
+Read,U205z00,[X]Intent self poison narcotic drug unspecif place,res33: Self-harm,diagnostic
+Read,U207.00,[X]Intent self poison/exposure to oth autonomic drug,res33: Self-harm,diagnostic
+Read,U206400,[X]Intent self pois hallucinogen in street/highway,res33: Self-harm,diagnostic
+Read,U208z00,[X]Intent self poison oth/unsp drug/medic unspecif place,res33: Self-harm,diagnostic
+Read,U20A.00,"[X]Intentional self poison organ solvent,halogen hydrocarb",res33: Self-harm,diagnostic
+Read,U2C4.00,[X]Int self harm jump/lying befr mov obje occ street/highway,res33: Self-harm,diagnostic
+Read,U208y00,[X]Int self poison oth/unsp drug/medic other spec place,res33: Self-harm,diagnostic
+Read,U209y00,[X]Int self poison alcohol other spec place,res33: Self-harm,diagnostic
+Read,U2C1.00,[X]Int self harm jump/lying befr mov obje occ resid instit'n,res33: Self-harm,diagnostic
+Read,U209.00,[X]Intent self poison/exposure to alcohol,res33: Self-harm,diagnostic
+Read,U20A000,"[X]Intent self pois organ solvent,halogen hydrocarb, home",res33: Self-harm,diagnostic
+Read,U2D..00,[X]Intentional self harm by crashing of motor vehicle,res33: Self-harm,diagnostic
+Read,U2C..00,[X]Intent self harm by jumping / lying before moving object,res33: Self-harm,diagnostic
+Read,U2B0.00,[X]Intent self harm by jumping from high place occ at home,res33: Self-harm,diagnostic
+Read,ZX1K.12,Setting self alight,res33: Self-harm,diagnostic
+Read,ZX1K.00,Self-incineration,res33: Self-harm,diagnostic
+Read,U2B..00,[X]Intentional self harm by jumping from a high place,res33: Self-harm,diagnostic
+Read,U2Cy.00,[X]Int self harm jump/lying bef mov obje occ oth specif plce,res33: Self-harm,diagnostic
+Read,U25..00,[X]Intent self harm by other/unspecified firearm discharge,res33: Self-harm,diagnostic
+Read,U20C.11,[X]Self poisoning with weedkiller,res33: Self-harm,diagnostic
+Read,U250.00,[X]Intent self harm oth/unspecif firearm disch occ at home,res33: Self-harm,diagnostic
+Read,U20Az00,"[X]Int self pois org solv,halogen hydrocarb, unspec place",res33: Self-harm,diagnostic
+Read,U20C.00,[X]Intent self poison/exposure to pesticide,res33: Self-harm,diagnostic
+Read,U20A400,"[X]Int self poison org solvent,halogen hydrocarb,in highway",res33: Self-harm,diagnostic
+Read,U20Bz00,[X]Intent self poison other gas/vapour unspecif place,res33: Self-harm,diagnostic
+Read,U20B.11,[X]Self carbon monoxide poisoning,res33: Self-harm,diagnostic
+Read,U20B.00,[X]Intent self poison/exposure to other gas/vapour,res33: Self-harm,diagnostic
+Read,U20B200,[X]Int self poison other gas/vapour school/pub admin area,res33: Self-harm,diagnostic
+Read,U20By00,[X]Int self poison other gas/vapour other spec place,res33: Self-harm,diagnostic
+Read,U20B000,[X]Int self poison/exposure to other gas/vapour at home,res33: Self-harm,diagnostic
+Read,U242.00,[X]Int slf hrm rifl s'gun/lrg frarm dis sch/ins/pub adm area,res33: Self-harm,diagnostic
+Read,U241.00,[X]Int self harm rifl s'gun/lrg frarm disch occ resid instit,res33: Self-harm,diagnostic
+Read,U22y.00,[X]Intent self harm by drown/submersn occ oth specif place,res33: Self-harm,diagnostic
+Read,U20y000,[X]Int self poison/exposure to unspecif chemical at home,res33: Self-harm,diagnostic
+Read,U20C.12,[X]Self poisoning with paraquat,res33: Self-harm,diagnostic
+Read,U20C000,[X]Int self poison/exposure to pesticide at home,res33: Self-harm,diagnostic
+Read,U20y.00,[X]Intent self poison/exposure to unspecif chemical,res33: Self-harm,diagnostic
+Read,U20Cy00,[X]Int self poison pesticide other spec place,res33: Self-harm,diagnostic
+Read,U211.00,[X]Intent self harm by hangng strangult/suffoct resid instit,res33: Self-harm,diagnostic
+Read,U20y200,[X]Int self poison unspecif chemical school/pub admin area,res33: Self-harm,diagnostic
+Read,U221.00,[X]Intent self harm by drowning/submersn occ resid instit'n,res33: Self-harm,diagnostic
+Read,U20yz00,[X]Intent self poison unspecif chemical unspecif place,res33: Self-harm,diagnostic
+Read,U210.00,[X]Intent self harm by hanging strangulat/suffocat occ home,res33: Self-harm,diagnostic
+Read,U21..00,[X]Intent self harm by hanging strangulation / suffocation,res33: Self-harm,diagnostic
+Read,U220.00,[X]Intent self harm by drowning/submersion occurrn at home,res33: Self-harm,diagnostic
+Read,U212.00,[X]Inten slf harm hang strang/suffc sch oth ins/pub adm area,res33: Self-harm,diagnostic
+Read,U216.00,[X]Intent self harm by hang strangl/suffc indust/constr area,res33: Self-harm,diagnostic
+Read,U21y.00,[X]Intent self harm by hangng strangul/suffoct oth spec plce,res33: Self-harm,diagnostic
+Read,U22..00,[X]Intentional self harm by drowning and submersion,res33: Self-harm,diagnostic
+Read,U21z.00,[X]Intent self harm by hangng strangul/suffoct unspecif plce,res33: Self-harm,diagnostic
+Read,U24..00,[X]Intent self harm by rifle shotgun/larger firearm disch,res33: Self-harm,diagnostic
+Read,U22z.00,[X]Intent self harm by drown/submersn occ unspecified place,res33: Self-harm,diagnostic
+Read,U291.00,[X]Intent self harm by sharp object occ resident instit'n,res33: Self-harm,diagnostic
+Read,U2A3.00,[X]Intent self harm by blunt object occ sports/athlet area,res33: Self-harm,diagnostic
+Read,U28z.00,[X]Intent self harm by steam hot vapour/obj occ unspec place,res33: Self-harm,diagnostic
+Read,U27..00,"[X]Intentional self harm by smoke, fire and flames",res33: Self-harm,diagnostic
+Read,U26..00,[X]Intentional self harm by explosive material,res33: Self-harm,diagnostic
+Read,U280.00,[X]Intent self harm by steam hot vapour/hot obj occ at home,res33: Self-harm,diagnostic
+Read,U28..00,[X]Intentional self harm by steam hot vapours / hot objects,res33: Self-harm,diagnostic
+Read,U270.00,[X]Intention self harm by smoke fire/flames occurrn at home,res33: Self-harm,diagnostic
+Read,U27z.00,[X]Intent self harm by smoke fire/flames occ unspecif place,res33: Self-harm,diagnostic
+Read,U274.00,[X]Intent self harm by smoke fire/flame occ street/highway,res33: Self-harm,diagnostic
+Read,U290.00,[X]Intentional self harm by sharp object occurrence at home,res33: Self-harm,diagnostic
+Read,U29..00,[X]Intentional self harm by sharp object,res33: Self-harm,diagnostic
+Read,ZX1L.00,Self-mutilation,res33: Self-harm,diagnostic
+Read,U2A1.00,[X]Intent self harm by blunt object occ resident instit'n,res33: Self-harm,diagnostic
+Read,U2A0.00,[X]Intentional self harm by blunt object occurrence at home,res33: Self-harm,diagnostic
+Read,U2A..00,[X]Intentional self harm by blunt object,res33: Self-harm,diagnostic
+Read,U294.00,[X]Intention self harm by sharp object occ street/highway,res33: Self-harm,diagnostic
+Read,U29z.00,[X]Intentional self harm by sharp object occ unspecif place,res33: Self-harm,diagnostic
+Read,U29y.00,[X]Intention self harm by sharp object occ oth specif place,res33: Self-harm,diagnostic
+Read,U202.15,[X]Overdose - nitrazepam,res33: Self-harm,diagnostic
+Read,U4Bz.00,[X]Fall jump/push frm high plce undt intnt occ unspecif plce,res33: Self-harm,diagnostic
+Read,U202.17,[X]Overdose - barbiturate,res33: Self-harm,diagnostic
+Read,U720.00,[X]Sequelae of intentional self-harm,res33: Self-harm,diagnostic
+Read,U2D0.00,[X]Intent self harm by crash of motor vehicl occurrn at home,res33: Self-harm,diagnostic
+Read,U2B4.00,[X]Intent self harm by jump from high place occ street/h'way,res33: Self-harm,diagnostic
+Read,U202.16,[X]Overdose - benzodiazepine,res33: Self-harm,diagnostic
+Read,U2Bz.00,[X]Int self harm by jump from high place occ unspecif place,res33: Self-harm,diagnostic
+Read,U2B6.00,[X]Int self harm by jump from high place indust/constr area,res33: Self-harm,diagnostic
+Read,U45..00,[X]Other+unspecified firearm discharge undetermined intent,res33: Self-harm,diagnostic
+Read,U2y0.00,[X]Intentionl self harm by oth specif means occurrn at home,res33: Self-harm,diagnostic
+Read,U4B..00,[X]Falling jumping/pushed from high place undeterm intent,res33: Self-harm,diagnostic
+Read,U2y..00,[X]Intentional self harm by other specified means,res33: Self-harm,diagnostic
+Read,U2E..00,[X]Self mutilation,res33: Self-harm,diagnostic
+Read,U2D4.00,[X]Intent self harm by crash motor vehicl occ street/highway,res33: Self-harm,diagnostic
+Read,U2D6.00,[X]Intent self harm crash motor vehic occ indust/constr area,res33: Self-harm,diagnostic
+Read,U2z0.00,[X]Intentional self harm by unspecif means occurrn at home,res33: Self-harm,diagnostic
+Read,U44..00,[X]Rifle shotgun+larger firearm discharge undetermin intent,res33: Self-harm,diagnostic
+Read,U2z..00,[X]Intentional self harm by unspecified means,res33: Self-harm,diagnostic
+Read,U2y1.00,[X]Intent self harm by oth specif means occ resid instit'n,res33: Self-harm,diagnostic
+Read,U2yz.00,[X]Intent self harm by oth specif means occ unspecif place,res33: Self-harm,diagnostic
+Read,U2z2.00,[X]Intent self harm by unspec mean occ sch/ins/pub adm area,res33: Self-harm,diagnostic
+Read,U41..00,[X]Hanging strangulation + suffocation undetermined intent,res33: Self-harm,diagnostic
+Read,U30..11,[X]Deliberate drug poisoning,res33: Self-harm,diagnostic
+Read,U2zy.00,[X]Intent self harm by unspecif means occ oth specif place,res33: Self-harm,diagnostic
+Read,U2zz.00,[X]Intent self harm by unspecif means occ at unspecif place,res33: Self-harm,diagnostic
+Read,U72..00,[X]Sequel intentn self-harm assault+event of undeterm intent,res33: Self-harm,diagnostic
+Read,ZX18.00,Hanging self,res33: Self-harm,diagnostic
+Read,ZX...00,Self-harm,res33: Self-harm,diagnostic
+Read,ZX19.00,Hitting self,res33: Self-harm,diagnostic
+Read,ZRn3.00,Suicide intent score subscale - attempt circumstances,res33: Self-harm,diagnostic
+Read,U202.13,[X]Overdose - temazepam,res33: Self-harm,diagnostic
+Read,ZRLfC12,HoNOS item 2 - non-accidental self injury,res33: Self-harm,diagnostic
+Read,ZX11.00,Biting self,res33: Self-harm,diagnostic
+Read,ZX1..00,Self-injurious behaviour,res33: Self-harm,diagnostic
+Read,ZX...11,Self-damage,res33: Self-harm,diagnostic
+Read,ZX15.00,Drowning self,res33: Self-harm,diagnostic
+Read,ZX1..13,Deliberate self-harm,res33: Self-harm,diagnostic
+Read,ZX1..12,SIB - Self-injurious behaviour,res33: Self-harm,diagnostic
+Read,ZX12.00,Burning self,res33: Self-harm,diagnostic
+Read,ZX13100,Cutting own wrists,res33: Self-harm,diagnostic
+Read,ZX11.11,Bites self,res33: Self-harm,diagnostic
+Read,ZX13.11,Cuts self,res33: Self-harm,diagnostic
+Read,ZX13.00,Cutting self,res33: Self-harm,diagnostic
+Read,ZX1G.00,Scratches self,res33: Self-harm,diagnostic
+Read,ZX19200,Slapping self,res33: Self-harm,diagnostic
+Read,ZX1E.00,Pinching self,res33: Self-harm,diagnostic
+Read,ZX19100,Punching self,res33: Self-harm,diagnostic
+Read,ZX1B100,Jumping from building,res33: Self-harm,diagnostic
+Read,ZX1B.00,Jumping from height,res33: Self-harm,diagnostic
+Read,ZX1B300,Jumping from cliff,res33: Self-harm,diagnostic
+Read,ZX1B200,Jumping from bridge,res33: Self-harm,diagnostic
+Read,ZX1C.00,Nipping self,res33: Self-harm,diagnostic
+Read,ZX1N.00,Stabbing self,res33: Self-harm,diagnostic
+Read,ZX1M.00,Shooting self,res33: Self-harm,diagnostic
+Read,ZX1L200,Self-mutilation of genitalia,res33: Self-harm,diagnostic
+Read,ZX1LD00,[X]Self mutilation,res33: Self-harm,diagnostic
+Read,ZX1L300,Self-mutilation of penis,res33: Self-harm,diagnostic
+Read,ZX1L600,Self-mutilation of ears,res33: Self-harm,diagnostic
+Read,ZX1Q.11,Jumping under train,res33: Self-harm,diagnostic
+Read,ZX1Q.00,Throwing self in front of train,res33: Self-harm,diagnostic
+Read,ZX1R.00,Throwing self in front of vehicle,res33: Self-harm,diagnostic
+Read,ZX1S.00,Throwing self onto floor,res33: Self-harm,diagnostic
+Read,U202.18,[X]Overdose - amobarbital,res33: Self-harm,diagnostic
+Read,U202.12,[X]Overdose - diazepam,res33: Self-harm,diagnostic
+Read,TKx0000,Suicide + selfinflicted injury-jumping before moving object,res33: Self-harm,diagnostic
+Read,U2By.00,[X]Int self harm by jump from high place occ oth specif plce,res33: Self-harm,diagnostic
+Read,U202.11,[X]Overdose - sleeping tabs,res33: Self-harm,diagnostic
+Read,TK2..00,Suicide + selfinflicted poisoning by other gases and vapours,res33: Self-harm,diagnostic
+Read,SL...15,Overdose of drug,res33: Self-harm,diagnostic
+Read,SL...14,Overdose of biological substance,res33: Self-harm,diagnostic
+Read,TK01000,Suicide and self inflicted injury by Amylobarbitone,res33: Self-harm,diagnostic
+Read,14K1.00,Intentional overdose of prescription only medication,res33: Self-harm,diagnostic
+Read,TK01.00,Suicide + selfinflicted poisoning by barbiturates,res33: Self-harm,diagnostic
+Read,TK...12,Injury - self-inflicted,res33: Self-harm,diagnostic
+Read,SL90z00,Anti-depressant poisoning NOS,res33: Self-harm,diagnostic
+Read,SL90.00,Antidepressant poisoning,res33: Self-harm,diagnostic
+Read,TK...11,Cause of overdose - deliberate,res33: Self-harm,diagnostic
+Read,SLHz.00,Drug and medicament poisoning NOS,res33: Self-harm,diagnostic
+Read,TK...00,Suicide and selfinflicted injury,res33: Self-harm,diagnostic
+Read,TK00.00,Suicide + selfinflicted poisoning by analgesic/antipyretic,res33: Self-harm,diagnostic
+Read,TK...14,Suicide and self harm,res33: Self-harm,diagnostic
+Read,TK...13,Poisoning - self-inflicted,res33: Self-harm,diagnostic
+Read,TK0..00,Suicide + selfinflicted poisoning by solid/liquid substances,res33: Self-harm,diagnostic
+Read,TK...15,Attempted suicide,res33: Self-harm,diagnostic
+Read,TK...17,Para-suicide,res33: Self-harm,diagnostic
+Read,TK1z.00,Suicide + selfinflicted poisoning by domestic gases NOS,res33: Self-harm,diagnostic
+Read,TK0z.00,Suicide + selfinflicted poisoning by solid/liquid subst NOS,res33: Self-harm,diagnostic
+Read,TK1y.00,Suicide and selfinflicted poisoning by other utility gas,res33: Self-harm,diagnostic
+Read,TK01100,Suicide and self inflicted injury by Barbitone,res33: Self-harm,diagnostic
+Read,TK07.00,Suicide + selfinflicted poisoning by corrosive/caustic subst,res33: Self-harm,diagnostic
+Read,TK03.00,Suicide + selfinflicted poisoning tranquilliser/psychotropic,res33: Self-harm,diagnostic
+Read,TK01400,Suicide and self inflicted injury by Phenobarbitone,res33: Self-harm,diagnostic
+Read,TK02.00,Suicide + selfinflicted poisoning by oth sedatives/hypnotics,res33: Self-harm,diagnostic
+Read,TK06.00,Suicide + selfinflicted poisoning by agricultural chemical,res33: Self-harm,diagnostic
+Read,TK04.00,Suicide + selfinflicted poisoning by other drugs/medicines,res33: Self-harm,diagnostic
+Read,TK05.00,Suicide + selfinflicted poisoning by drug or medicine NOS,res33: Self-harm,diagnostic
+Read,TK11.00,Suicide + selfinflicted poisoning by liquified petrol gas,res33: Self-harm,diagnostic
+Read,TK1..00,Suicide + selfinflicted poisoning by gases in domestic use,res33: Self-harm,diagnostic
+Read,TK10.00,Suicide + selfinflicted poisoning by gas via pipeline,res33: Self-harm,diagnostic
+Read,U202.00,[X]Intent self poison/exposure to sedative hypnotic,res33: Self-harm,diagnostic
+Read,TK54.00,Suicide and selfinflicted injury by other firearm,res33: Self-harm,diagnostic
+Read,TK2z.00,Suicide + selfinflicted poisoning by gases and vapours NOS,res33: Self-harm,diagnostic
+Read,U201z00,[X]Intent self poison antiepileptic unspecif place,res33: Self-harm,diagnostic
+Read,ZX1K.11,Setting fire to self,res33: Self-harm,diagnostic
+Read,TK20.00,Suicide + selfinflicted poisoning by motor veh exhaust gas,res33: Self-harm,diagnostic
+Read,TK21.00,Suicide and selfinflicted poisoning by other carbon monoxide,res33: Self-harm,diagnostic
+Read,TK31.00,Suicide + selfinflicted injury by suffocation by plastic bag,res33: Self-harm,diagnostic
+Read,TK3..00,Suicide + selfinflicted injury by hang/strangulate/suffocate,res33: Self-harm,diagnostic
+Read,TK52.00,Suicide and selfinflicted injury by hunting rifle,res33: Self-harm,diagnostic
+Read,TK30.00,Suicide and selfinflicted injury by hanging,res33: Self-harm,diagnostic
+Read,TK51.00,Suicide and selfinflicted injury by shotgun,res33: Self-harm,diagnostic
+Read,TK3y.00,Suicide + selfinflicted inj oth mean hang/strangle/suffocate,res33: Self-harm,diagnostic
+Read,TK3z.00,Suicide + selfinflicted inj by hang/strangle/suffocate NOS,res33: Self-harm,diagnostic
+Read,TK5..00,Suicide and selfinflicted injury by firearms and explosives,res33: Self-harm,diagnostic
+Read,TK4..00,Suicide and selfinflicted injury by drowning,res33: Self-harm,diagnostic
+Read,TKxy.00,Suicide and selfinflicted injury by other specified means,res33: Self-harm,diagnostic
+Read,TK5z.00,Suicide and selfinflicted injury by firearms/explosives NOS,res33: Self-harm,diagnostic
+Read,TK70.00,Suicide+selfinflicted injury-jump from residential premises,res33: Self-harm,diagnostic
+Read,TK7..00,Suicide and selfinflicted injury by jumping from high place,res33: Self-harm,diagnostic
+Read,TK60100,Self inflicted lacerations to wrist,res33: Self-harm,diagnostic
+Read,TK6..00,Suicide and selfinflicted injury by cutting and stabbing,res33: Self-harm,diagnostic
+Read,TK60.00,Suicide and selfinflicted injury by cutting,res33: Self-harm,diagnostic
+Read,TK6z.00,Suicide and selfinflicted injury by cutting and stabbing NOS,res33: Self-harm,diagnostic
+Read,TK60111,Slashed wrists self inflicted,res33: Self-harm,diagnostic
+Read,TK61.00,Suicide and selfinflicted injury by stabbing,res33: Self-harm,diagnostic
+Read,TKx7.00,"Suicide and selfinflicted injury caustic subst, excl poison",res33: Self-harm,diagnostic
+Read,TK71.00,Suicide+selfinflicted injury-jump from oth manmade structure,res33: Self-harm,diagnostic
+Read,TKx0.00,Suicide + selfinflicted injury-jump/lie before moving object,res33: Self-harm,diagnostic
+Read,TKx..00,Suicide and selfinflicted injury by other means,res33: Self-harm,diagnostic
+Read,TK72.00,Suicide+selfinflicted injury-jump from natural sites,res33: Self-harm,diagnostic
+Read,TK7z.00,Suicide+selfinflicted injury-jump from high place NOS,res33: Self-harm,diagnostic
+Read,TKx6.00,Suicide and selfinflicted injury by crashing of aircraft,res33: Self-harm,diagnostic
+Read,TKx2.00,Suicide and selfinflicted injury by scald,res33: Self-harm,diagnostic
+Read,TKx1.00,Suicide and selfinflicted injury by burns or fire,res33: Self-harm,diagnostic
+Read,TKx5.00,Suicide and selfinflicted injury by crashing motor vehicle,res33: Self-harm,diagnostic
+Read,TKx3.00,Suicide and selfinflicted injury by extremes of cold,res33: Self-harm,diagnostic
+Read,TKx4.00,Suicide and selfinflicted injury by electrocution,res33: Self-harm,diagnostic
+Read,U201.00,[X]Intent self poison/exposure to antiepileptic,res33: Self-harm,diagnostic
+Read,TKy..00,Late effects of selfinflicted injury,res33: Self-harm,diagnostic
+Read,U20..00,[X]Intentional self poisoning/exposure to noxious substances,res33: Self-harm,diagnostic
+Read,TKxz.00,Suicide and selfinflicted injury by other means NOS,res33: Self-harm,diagnostic
+Read,U201000,[X]Int self poison/exposure to antiepileptic at home,res33: Self-harm,diagnostic
+Read,U2...15,[X]Para-suicide,res33: Self-harm,diagnostic
+Read,U2...11,[X]Self inflicted injury,res33: Self-harm,diagnostic
+Read,TKz..00,Suicide and selfinflicted injury NOS,res33: Self-harm,diagnostic
+Read,U2...00,[X]Intentional self-harm,res33: Self-harm,diagnostic
+Read,U2...14,[X]Attempted suicide,res33: Self-harm,diagnostic
+Read,U2...12,[X]Injury - self-inflicted,res33: Self-harm,diagnostic
+Read,U2...13,[X]Suicide,res33: Self-harm,diagnostic
+Read,U200.12,[X]Overdose - ibuprofen,res33: Self-harm,diagnostic
+Read,U200z00,[X]Intent self poison nonopioid analgesic unspecif place,res33: Self-harm,diagnostic
+Read,U200.11,[X]Overdose - paracetamol,res33: Self-harm,diagnostic
+Read,U20..11,[X]Deliberate drug overdose / other poisoning,res33: Self-harm,diagnostic
+Read,U200.00,[X]Intent self poison/exposure to nonopioid analgesic,res33: Self-harm,diagnostic
+Read,U200y00,[X]Int self poison nonopioid analgesic other spec place,res33: Self-harm,diagnostic
+Read,U200000,[X]Int self poison/exposure to nonopioid analgesic at home,res33: Self-harm,diagnostic
+Read,U200.13,[X]Overdose - aspirin,res33: Self-harm,diagnostic
+Read,U200500,[X]Intent self pois nonopioid analgesic trade/service area,res33: Self-harm,diagnostic
+Read,U200100,[X]Intent self poison nonopioid analgesic at res institut,res33: Self-harm,diagnostic
+Read,U200400,[X]Intent self pois nonopioid analgesic in street/highway,res33: Self-harm,diagnostic

@@ -1,0 +1,40 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu10712,[X]Chronic alcoholic brain syndrome,res58: case definition for alcohol dependence,diagnostic
+Read,E231.00,Chronic alcoholism,res58: case definition for alcohol dependence,diagnostic
+Read,Eu10212,[X]Chronic alcoholism,res58: case definition for alcohol dependence,diagnostic
+Read,J617000,Chronic alcoholic hepatitis,res58: case definition for alcohol dependence,diagnostic
+Read,E012000,Chronic alcoholic brain syndrome,res58: case definition for alcohol dependence,diagnostic
+Read,F11x000,Cerebral degeneration due to alcoholism,res58: case definition for alcohol dependence,diagnostic
+Read,E23..11,Alcoholism,res58: case definition for alcohol dependence,diagnostic
+Read,G555.00,Alcoholic cardiomyopathy,res58: case definition for alcohol dependence,diagnostic
+Read,E23z.00,Alcohol dependence syndrome NOS,res58: case definition for alcohol dependence,diagnostic
+Read,Eu10300,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state,res58: case definition for alcohol dependence,diagnostic
+Read,Eu10213,[X]Dipsomania,res58: case definition for alcohol dependence,diagnostic
+Read,Eu10411,"[X]Delirium tremens, alcohol induced",res58: case definition for alcohol dependence,diagnostic
+Read,E23..00,Alcohol dependence syndrome,res58: case definition for alcohol dependence,diagnostic
+Read,E230z00,Acute alcoholic intoxication in alcoholism NOS,res58: case definition for alcohol dependence,diagnostic
+Read,Eu10400,[X]Mental and behavioural disorders due to use of alcohol: withdrawal state with delirium,res58: case definition for alcohol dependence,diagnostic
+Read,E230.00,Acute alcoholic intoxication in alcoholism,res58: case definition for alcohol dependence,diagnostic
+Read,E230000,"Acute alcoholic intoxication, unspecified, in alcoholism",res58: case definition for alcohol dependence,diagnostic
+Read,E230300,"Acute alcoholic intoxication in remission, in alcoholism",res58: case definition for alcohol dependence,diagnostic
+Read,E01y000,Alcohol withdrawal syndrome,res58: case definition for alcohol dependence,diagnostic
+Read,Eu10211,[X]Alcohol addiction,res58: case definition for alcohol dependence,diagnostic
+Read,8H35.00,admitted to alcohol detoxification centre,res58: case definition for alcohol dependence,diagnostic
+Read,E230.11,Alcohol dependence with acute alcoholic intoxication,res58: case definition for alcohol dependence,diagnostic
+Read,Z191.00,alcohol detoxification,res58: case definition for alcohol dependence,diagnostic
+Read,Eu10800,[X]Alcohol withdrawal-induced seizure,res58: case definition for alcohol dependence,diagnostic
+Read,8BA8.00,alcohol detoxification,res58: case definition for alcohol dependence,diagnostic
+Read,E013.00,Alcohol withdrawal hallucinosis,res58: case definition for alcohol dependence,diagnostic
+Read,Eu10200,[X]Mental and behavioural disorders due to use of alcohol: dependence syndrome,res58: case definition for alcohol dependence,diagnostic
+Read,E010.00,Alcohol withdrawal delirium,res58: case definition for alcohol dependence,diagnostic
+Read,J671000,Alcohol-induced chronic pancreatitis,res58: case definition for alcohol dependence,diagnostic
+Read,F394100,Alcoholic myopathy,res58: case definition for alcohol dependence,diagnostic
+Read,F11x011,Alcoholic encephalopathy,res58: case definition for alcohol dependence,diagnostic
+Read,J612.00,Alcoholic cirrhosis of liver,res58: case definition for alcohol dependence,diagnostic
+Read,F375.00,Alcoholic polyneuropathy,res58: case definition for alcohol dependence,diagnostic
+Read,E231300,Chronic alcoholism in remission,res58: case definition for alcohol dependence,diagnostic
+Read,E231z00,Chronic alcoholism NOS,res58: case definition for alcohol dependence,diagnostic
+Read,E231.11,Dipsomania,res58: case definition for alcohol dependence,diagnostic
+Read,E010.12,Delirium tremens,res58: case definition for alcohol dependence,diagnostic
+Read,E230100,Continuous acute alcoholic intoxication in alcoholism,res58: case definition for alcohol dependence,diagnostic
+Read,E231100,Continuous chronic alcoholism,res58: case definition for alcohol dependence,diagnostic

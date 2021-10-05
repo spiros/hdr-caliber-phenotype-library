@@ -1,0 +1,29 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,2D96.00,O/E - tympanic membrane bulging,res20: Otitis media,diagnostic
+Read,2D95.00,O/E - tympanic membrane red,res20: Otitis media,diagnostic
+Read,2D94.00,O/E - tympanic membrane pink,res20: Otitis media,diagnostic
+Read,F510100,Acute serous otitis media,res20: Otitis media,diagnostic
+Read,F51..00,Nonsuppurative otitis media + eustachian tube disorders,res20: Otitis media,diagnostic
+Read,F52..00,Suppurative and unspecified otitis media,res20: Otitis media,diagnostic
+Read,F510011,Acute secretory otitis media,res20: Otitis media,diagnostic
+Read,F510000,Acute otitis media with effusion,res20: Otitis media,diagnostic
+Read,F510.00,Acute non suppurative otitis media,res20: Otitis media,diagnostic
+Read,F514z00,Nonsuppurative otitis media NOS,res20: Otitis media,diagnostic
+Read,F510200,Acute mucoid otitis media,res20: Otitis media,diagnostic
+Read,F510z00,Acute nonsuppurative otitis media NOS,res20: Otitis media,diagnostic
+Read,F514.00,Unspecified nonsuppurative otitis media,res20: Otitis media,diagnostic
+Read,F514300,Mucoid otitis media NOS,res20: Otitis media,diagnostic
+Read,F514200,Catarrhal otitis media NOS,res20: Otitis media,diagnostic
+Read,F520000,Acute suppurative otitis media tympanic membrane intact,res20: Otitis media,diagnostic
+Read,F520100,Acute suppurative otitis media tympanic membrane ruptured,res20: Otitis media,diagnostic
+Read,F520.00,Acute suppurative otitis media,res20: Otitis media,diagnostic
+Read,F524.00,Purulent otitis media NOS,res20: Otitis media,diagnostic
+Read,F527.00,Acute right otitis media,res20: Otitis media,diagnostic
+Read,F520z00,Acute suppurative otitis media NOS,res20: Otitis media,diagnostic
+Read,F520300,Acute suppurative otitis media due to disease EC,res20: Otitis media,diagnostic
+Read,F526.00,Acute left otitis media,res20: Otitis media,diagnostic
+Read,F524000,Bilateral suppurative otitis media,res20: Otitis media,diagnostic
+Read,F528.00,Acute bilateral otitis media,res20: Otitis media,diagnostic
+Read,F52z.11,Infection ear,res20: Otitis media,diagnostic
+Read,F52z.00,Otitis media NOS,res20: Otitis media,diagnostic
+Read,F514100,Serous otitis media NOS,res20: Otitis media,diagnostic

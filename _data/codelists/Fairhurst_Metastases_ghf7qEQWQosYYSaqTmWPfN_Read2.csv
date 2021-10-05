@@ -1,0 +1,118 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B153,Secondary malignant neoplasm of liver,res17: Metastases,symptom
+Read,B583z,Secondary malignant neoplasm of brain or spinal cord NOS,res17: Metastases,symptom
+Read,B5631,Secondary and unspec malig neop supratrochlear lymph nodes,res17: Metastases,symptom
+Read,B5605,Secondary and unspec malig neop submandibular lymph nodes,res17: Metastases,symptom
+Read,B5603,Secondary and unspec malignant neoplasm occipital lymph node,res17: Metastases,symptom
+Read,B56,Secondary and unspecified malignant neoplasm of lymph nodes,res17: Metastases,symptom
+Read,B5601,Secondary and unspec malignant neoplasm mastoid lymph nodes,res17: Metastases,symptom
+Read,B560-99,Secondary nodes - head/neck,res17: Metastases,symptom
+Read,B56-1,Lymph node metastases,res17: Metastases,symptom
+Read,B561z,Secondary and unspec malig neop intrathoracic LN NOS,res17: Metastases,symptom
+Read,B561-99,Secondary nodes -intrathoracic,res17: Metastases,symptom
+Read,B5607,Secondary and unspec malig neop submental lymph nodes,res17: Metastases,symptom
+Read,B563-99,Secondary nodes - axilla/arm,res17: Metastases,symptom
+Read,B5608,Secondary and unspec malig neop anterior cervical LN,res17: Metastases,symptom
+Read,B560z,Secondary unspec malig neop lymph nodes head/face/neck NOS,res17: Metastases,symptom
+Read,B5618,Secondary and unspec malig neop bronchopulmonary lymph nodes,res17: Metastases,symptom
+Read,B5613,Secondary and unspec malig neop ant mediastinal lymph nodes,res17: Metastases,symptom
+Read,B5611,Secondary and unspec malig neop intercostal lymph nodes,res17: Metastases,symptom
+Read,B5616,Secondary and unspec malig neop superfic tracheobronchial LN,res17: Metastases,symptom
+Read,B5615,Secondary and unspec malig neop paratracheal lymph nodes,res17: Metastases,symptom
+Read,B5623,Secondary and unspec malig neop common iliac lymph nodes,res17: Metastases,symptom
+Read,B562,Secondary and unspec malig neop intra-abdominal lymph nodes,res17: Metastases,symptom
+Read,B562z,Secondary and unspec malig neop intra-abdominal LN NOS,res17: Metastases,symptom
+Read,B5622,Secondary and unspec malig neop inferior mesenteric LN,res17: Metastases,symptom
+Read,B5620,Secondary and unspec malig neop coeliac lymph nodes,res17: Metastases,symptom
+Read,B56z-99,Secondary nodes NOS,res17: Metastases,symptom
+Read,B565,Secondary and unspec malig neop intrapelvic lymph nodes,res17: Metastases,symptom
+Read,B5642,Secondary and unspec malig neop popliteal lymph nodes,res17: Metastases,symptom
+Read,B564,Secondary and unspec malig neop inguinal and lower limb LN,res17: Metastases,symptom
+Read,B5640,Secondary and unspec malig neop superficial inguinal LN,res17: Metastases,symptom
+Read,B5633,Secondary and unspec malig neop pectoral lymph nodes,res17: Metastases,symptom
+Read,B56z,Secondary and unspec malig neop lymph nodes NOS,res17: Metastases,symptom
+Read,B5650,Secondary and unspec malig neop internal iliac lymph nodes,res17: Metastases,symptom
+Read,B5654,Secondary and unspec malig neop obturator lymph nodes,res17: Metastases,symptom
+Read,B5652,Secondary and unspec malig neop circumflex iliac LN,res17: Metastases,symptom
+Read,B577-1,Liver metastases,res17: Metastases,symptom
+Read,B574,Secondary malignant neoplasm of small intestine and duodenum,res17: Metastases,symptom
+Read,B583-99,Secondary Ca brain/spinal cord,res17: Metastases,symptom
+Read,B572,Secondary malignant neoplasm of pleura,res17: Metastases,symptom
+Read,B5741,Secondary malignant neoplasm of jejunum,res17: Metastases,symptom
+Read,B5761,Secondary malignant neoplasm of peritoneum,res17: Metastases,symptom
+Read,B575z,Secondary malig neop of large intestine or rectum NOS,res17: Metastases,symptom
+Read,B574z,Secondary malig neop of small intestine or duodenum NOS,res17: Metastases,symptom
+Read,B5750,Secondary malignant neoplasm of colon,res17: Metastases,symptom
+Read,B583,Secondary malignant neoplasm of brain and spinal cord,res17: Metastases,symptom
+Read,B58,Secondary malignant neoplasm of other specified sites,res17: Metastases,symptom
+Read,B58y0,Secondary malignant neoplasm of breast,res17: Metastases,symptom
+Read,B587,Secondary malignant neoplasm of adrenal gland,res17: Metastases,symptom
+Read,B5850,Pathological fracture due to metastatic bone disease,res17: Metastases,symptom
+Read,ByuC3,[X]Secondary malignant neoplasm/oth+unspc respiratory organs,res17: Metastases,symptom
+Read,B58z,Secondary malignant neoplasm of other specified site NOS,res17: Metastases,symptom
+Read,EMISNQME42,Metastasis stage M1,res17: Metastases,symptom
+Read,EMISNQME46,Metastasis stage M1a,res17: Metastases,symptom
+Read,EMISNQME47,Metastasis stage M1b,res17: Metastases,symptom
+Read,1D18,Pain from metastases,res17: Metastases,symptom
+Read,B560,Secondary and unspec malig neop lymph nodes head/face/neck,res17: Metastases,symptom
+Read,B5600,Secondary and unspec malig neop of superficial parotid LN,res17: Metastases,symptom
+Read,B5602,Secondary and unspec malig neop superficial cervical LN,res17: Metastases,symptom
+Read,B5604,Secondary and unspec malig neop deep parotid lymph nodes,res17: Metastases,symptom
+Read,B5606,Secondary and unspec malig neop of facial lymph nodes,res17: Metastases,symptom
+Read,B5609,Secondary and unspec malig neop deep cervical LN,res17: Metastases,symptom
+Read,B561,Secondary and unspec malig neop intrathoracic lymph nodes,res17: Metastases,symptom
+Read,B5610,Secondary and unspec malig neop internal mammary lymph nodes,res17: Metastases,symptom
+Read,B5612,Secondary and unspec malig neop diaphragmatic lymph nodes,res17: Metastases,symptom
+Read,B5614,Secondary and unspec malig neop post mediastinal lymph nodes,res17: Metastases,symptom
+Read,B5617,Secondary and unspec malig neop inferior tracheobronchial LN,res17: Metastases,symptom
+Read,B5619,Secondary and unspec malig neop pulmonary lymph nodes,res17: Metastases,symptom
+Read,B562-99,Secondary nodes - intra.abdom.,res17: Metastases,symptom
+Read,B5621,Secondary and unspec malig neop superficial mesenteric LN,res17: Metastases,symptom
+Read,B5624,Secondary and unspec malig neop external iliac lymph nodes,res17: Metastases,symptom
+Read,B563,Secondary and unspec malig neop axilla and upper limb LN,res17: Metastases,symptom
+Read,B5630,Secondary and unspec malig neop axillary lymph nodes,res17: Metastases,symptom
+Read,B5632,Secondary and unspec malig neop infraclavicular lymph nodes,res17: Metastases,symptom
+Read,B563z,Secondary and unspec malig neop axilla and upper limb LN NOS,res17: Metastases,symptom
+Read,B564-99,Secondary nodes - inguinal/leg,res17: Metastases,symptom
+Read,B5641,Secondary and unspec malig neop deep inguinal lymph nodes,res17: Metastases,symptom
+Read,B564z,Secondary and unspec malig neop of inguinal and leg LN NOS,res17: Metastases,symptom
+Read,B565-99,Secondary nodes - intrapelvic,res17: Metastases,symptom
+Read,B5651,Secondary and unspec malig neop inferior epigastric LN,res17: Metastases,symptom
+Read,B5653,Secondary and unspec malig neop sacral lymph nodes,res17: Metastases,symptom
+Read,B565z,Secondary and unspec malig neop intrapelvic LN NOS,res17: Metastases,symptom
+Read,B56y,Secondary and unspec malig neop lymph nodes multiple sites,res17: Metastases,symptom
+Read,B56y-99,Secondary nodes - multiple,res17: Metastases,symptom
+Read,B57-1,Metastases of respiratory and/or digestive systems,res17: Metastases,symptom
+Read,B570,Secondary malignant neoplasm of lung,res17: Metastases,symptom
+Read,B571,Secondary malignant neoplasm of mediastinum,res17: Metastases,symptom
+Read,B573,Secondary malignant neoplasm of other respiratory organs,res17: Metastases,symptom
+Read,B5740,Secondary malignant neoplasm of duodenum,res17: Metastases,symptom
+Read,B5742,Secondary malignant neoplasm of ileum,res17: Metastases,symptom
+Read,B575,Secondary malignant neoplasm of large intestine and rectum,res17: Metastases,symptom
+Read,B5751,Secondary malignant neoplasm of rectum,res17: Metastases,symptom
+Read,B5760,Secondary malignant neoplasm of retroperitoneum,res17: Metastases,symptom
+Read,B577,Secondary malignant neoplasm of liver,res17: Metastases,symptom
+Read,B57y,Secondary malignant neoplasm of other digestive organ,res17: Metastases,symptom
+Read,B580,Secondary malignant neoplasm of kidney,res17: Metastases,symptom
+Read,B5823,Secondary malignant neoplasm of skin of trunk,res17: Metastases,symptom
+Read,B5826,Secondary malignant neoplasm of skin of breast,res17: Metastases,symptom
+Read,B5830,Secondary malignant neoplasm of brain,res17: Metastases,symptom
+Read,B5831,Secondary malignant neoplasm of spinal cord,res17: Metastases,symptom
+Read,B5832,Cerebral metastasis,res17: Metastases,symptom
+Read,B584,Secondary malignant neoplasm of other part of nervous system,res17: Metastases,symptom
+Read,B585,Secondary malignant neoplasm of bone and bone marrow,res17: Metastases,symptom
+Read,B585-99,Secondary Ca bone/bone marrow,res17: Metastases,symptom
+Read,B586,Secondary malignant neoplasm of ovary,res17: Metastases,symptom
+Read,B58y,Secondary malignant neoplasm of other specified sites,res17: Metastases,symptom
+Read,B58y5,Secondary malignant neoplasm of prostate,res17: Metastases,symptom
+Read,B58yz,Secondary malignant neoplasm of other specified site NOS,res17: Metastases,symptom
+Read,B58z-99,Secondary Ca NOS,res17: Metastases,symptom
+Read,B594,Secondary malignant neoplasm of unknown site,res17: Metastases,symptom
+Read,ByuC,"[X]Malignant neoplasm of ill-defined, secondary and unspeci",res17: Metastases,symptom
+Read,ByuC4,[X]Secondary malignant neoplasm/oth+unspcfd digestive organs,res17: Metastases,symptom
+Read,ByuC7,[X]Secondary malignant neoplasm of other specified sites,res17: Metastases,symptom
+Read,EMISNQME41,Metastasis stage M0,res17: Metastases,symptom
+Read,EMISNQME43,Metastasis stage M2,res17: Metastases,symptom
+Read,EMISNQME44,Metastasis stage M3,res17: Metastases,symptom
+Read,EMISNQME45,Metastasis stage M4,res17: Metastases,symptom
+Read,EMISNQME48,Metastasis stage M1c,res17: Metastases,symptom

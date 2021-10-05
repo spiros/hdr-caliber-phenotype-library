@@ -1,0 +1,68 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,X962 NM,FUNDOSCOPY NORMAL,Retinal_screening,test
+OXMIS,X962 AB,FUNDOSCOPY ABNORMAL,Retinal_screening,test
+OXMIS,X962,FUNDOSCOPY,Retinal_screening,test
+Read,2BBI.00,O/E - no retinopathy,Retinal_screening,test
+Read,2BBi.00,O/E - right eye no maculopathy,Retinal_screening,test
+Read,2BB1.00,O/E - retina normal,Retinal_screening,test
+Read,2BB7.00,O/E - retinal vascular prolif.,Retinal_screening,test
+Read,2BB..11,O/E - retina,Retinal_screening,test
+Read,2BB..00,O/E - retinal inspection,Retinal_screening,test
+Read,2BB2.00,O/E - retinal vessel narrowing,Retinal_screening,test
+Read,2BB6.00,O/E - retinal exudates,Retinal_screening,test
+Read,2BB4.00,O/E - retinal microaneurysms,Retinal_screening,test
+Read,2BB5.00,O/E - retinal haemorrhages,Retinal_screening,test
+Read,2BB3.00,O/E - retinal A-V nipping,Retinal_screening,test
+Read,2BB9.00,O/E - retinal pigmentation,Retinal_screening,test
+Read,2BBH.00,Retinal drusen,Retinal_screening,test
+Read,2BB8.00,O/E - vitreous haemorrhages,Retinal_screening,test
+Read,2BBB.00,O/E - Right retina not seen,Retinal_screening,test
+Read,2BBa.00,O/E- non-referable retinopathy,Retinal_screening,test
+Read,2BBc.00,O/E - No retinal laser photocoagulation scars,Retinal_screening,test
+Read,2BBb.00,O/E - fundus not adequately seen,Retinal_screening,test
+Read,2BBA.00,Examination of retina,Retinal_screening,test
+Read,2BBG.00,Retinal abnormality - non-diabetes,Retinal_screening,test
+Read,2BBD.00,O/E - Right retina normal,Retinal_screening,test
+Read,2BBd.00,O/E - Red reflex absent,Retinal_screening,test
+Read,2BBC.00,O/E - Left retina not seen,Retinal_screening,test
+Read,2BBe.00,O/E - right retina partially assessable,Retinal_screening,test
+Read,2BBg.00,O/E - right retina fully assessable,Retinal_screening,test
+Read,2BBF.00,Retinal abnormality - diabetes related,Retinal_screening,test
+Read,2BBE.00,O/E - Left retina normal,Retinal_screening,test
+Read,2BBK.00,O/E - no left diabetic retinopathy,Retinal_screening,test
+Read,2BBP.00,O/E - right eye background diabetic retinopathy,Retinal_screening,test
+Read,3128400,Indirect fundoscopy following mydriatic,Retinal_screening,test
+Read,2BBk.00,O/E - right eye stable treated prolif diabetic retinopathy,Retinal_screening,test
+Read,2BBJ.00,O/E - no right diabetic retinopathy,Retinal_screening,test
+Read,2BBj.00,O/E - left eye no maculopathy,Retinal_screening,test
+Read,2BBm.00,O/E - right eye clinically significant macular oedema,Retinal_screening,test
+Read,2BBO.00,O/E - Laser photocoagulation scars,Retinal_screening,test
+Read,2BBL.00,O/E - diabetic maculopathy present both eyes,Retinal_screening,test
+Read,2BBl.00,O/E - left eye stable treated prolif diabetic retinopathy,Retinal_screening,test
+Read,2BBo.00,O/E - sight threatening diabetic retinopathy,Retinal_screening,test
+Read,2BBM.00,O/E - diabetic maculopathy absent both eyes,Retinal_screening,test
+Read,2BBN.00,Myelinated retinal nerve fibres,Retinal_screening,test
+Read,2BBn.00,O/E - left eye clinically significant macular oedema,Retinal_screening,test
+Read,2BBR.00,O/E - right eye preproliferative diabetic retinopathy,Retinal_screening,test
+Read,2BBW.00,O/E - right eye diabetic maculopathy,Retinal_screening,test
+Read,3128300,Camera fundoscopy,Retinal_screening,test
+Read,2BBQ.00,O/E - left eye background diabetic retinopathy,Retinal_screening,test
+Read,2BBV.00,O/E - left eye proliferative diabetic retinopathy,Retinal_screening,test
+Read,2BBT.00,O/E - right eye proliferative diabetic retinopathy,Retinal_screening,test
+Read,2BBS.00,O/E - left eye preproliferative diabetic retinopathy,Retinal_screening,test
+Read,2BBZ.00,O/E - retinal inspection NOS,Retinal_screening,test
+Read,3128200,Dilated fundoscopy normal,Retinal_screening,test
+Read,2BBY.00,O/E - referable retinopathy,Retinal_screening,test
+Read,2BBX.00,O/E - left eye diabetic maculopathy,Retinal_screening,test
+Read,3128.00,Fundoscopy,Retinal_screening,test
+Read,3128100,Fundoscopy abnormal,Retinal_screening,test
+Read,3128000,Fundoscopy normal,Retinal_screening,test
+Read,3128.11,Retinoscopy,Retinal_screening,test
+Read,58C1.00,Retinal photography,Retinal_screening,test
+Read,3128Z00,Fundoscopy NOS,Retinal_screening,test
+Read,312G.00,Indirect fundoscopy following mydriatic,Retinal_screening,test
+Read,312E.00,Direct fundoscopy following mydriatic,Retinal_screening,test
+Read,3129.00,Eye fundus photography,Retinal_screening,test
+Read,68A8.00,Digital retinal screening,Retinal_screening,test
+Read,68A7.00,Diabetic retinopathy screening,Retinal_screening,test
+Read,66AD.00,Fundoscopy - diabetic check,Retinal_screening,test

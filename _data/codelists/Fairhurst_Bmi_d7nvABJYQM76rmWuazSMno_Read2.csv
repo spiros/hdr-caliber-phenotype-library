@@ -1,0 +1,19 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,JHCBO5,Body mass index 18.5-24.9,res17: BMI,test
+Read,EMISNQBO29,Body mass index less than 18.5,res17: BMI,test
+Read,22KB,Baseline body mass index,res17: BMI,test
+Read,22K,Body Mass Index,res17: BMI,test
+Read,22K9,Body mass index centile,res17: BMI,test
+Read,22K4,Body mass index index 25-29 - overweight,res17: BMI,test
+Read,22K2,Body Mass Index high K/M2,res17: BMI,test
+Read,22K8,Body mass index 20-24 - normal,res17: BMI,test
+Read,22K6,Body mass index less than 20,res17: BMI,test
+Read,22K1,Body Mass Index normal K/M2,res17: BMI,test
+Read,22K3,Body Mass Index low K/M2,res17: BMI,test
+Read,22K5,Body mass index 30+ - obesity,res17: BMI,test
+Read,22K7,Body mass index 40+ - severely obese,res17: BMI,test
+Read,22K90,Baseline body mass index centile,res17: BMI,test
+Read,22KA,Target body mass index,res17: BMI,test
+Read,EMISNQBM1,BMI centile,res17: BMI,test
+Read,EMISNQTA9,Target body mass index,res17: BMI,test
+Read,PCNQBO1,Body mass index,res17: BMI,test

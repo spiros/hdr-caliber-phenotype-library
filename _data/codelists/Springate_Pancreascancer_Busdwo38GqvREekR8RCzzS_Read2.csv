@@ -1,0 +1,12 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B17..00,Malignant neoplasm of pancreas,res24: pancreas cancer,diagnostic
+Read,B170.00,Malig neop head of pancreas,res24: pancreas cancer,diagnostic
+Read,B174.00,Malig neop Islets Langerhans,res24: pancreas cancer,diagnostic
+Read,B173.00,Malig neop pancreatic duct,res24: pancreas cancer,diagnostic
+Read,B171.00,Malig neop body of pancreas,res24: pancreas cancer,diagnostic
+Read,B172.00,Malig neop tail of pancreas,res24: pancreas cancer,diagnostic
+Read,B17y.00,Malig neop oth spec pancreas,res24: pancreas cancer,diagnostic
+Read,B175.00,Malig neopl overlap lesn pancr,res24: pancreas cancer,diagnostic
+Read,B17z.00,Malig neop of pancreas NOS,res24: pancreas cancer,diagnostic
+Read,B17y000,Malig neop ectop pancreat tiss,res24: pancreas cancer,diagnostic
+Read,B17yz00,Malig neop spec site panc NOS,res24: pancreas cancer,diagnostic

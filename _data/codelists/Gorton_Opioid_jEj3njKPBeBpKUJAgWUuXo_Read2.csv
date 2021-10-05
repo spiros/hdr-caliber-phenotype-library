@@ -1,0 +1,90 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,djf..,pentazocine,res55: opioid,drug
+Read,dibR.,solpadeine max tablets,res55: opioid,drug
+Read,dibK.,*remedeine eff tabs,res55: opioid,drug
+Read,dicK.,solpadeine headache sol tabs,res55: opioid,drug
+Read,dje..,*papaveretum [cns narcotic],res55: opioid,drug
+Read,dicJ.,solpadeine headache tablets,res55: opioid,drug
+Read,dibv.,remedeine tablets,res55: opioid,drug
+Read,dibn.,solpadeine soluble eff tabs,res55: opioid,drug
+Read,dibS.,solpadol capsules,res55: opioid,drug
+Read,dic4.,zapain capsules,res55: opioid,drug
+Read,dibu.,solpadol effervescent tablets,res55: opioid,drug
+Read,dibt.,tylex 500mg capsules,res55: opioid,drug
+Read,dibo.,*solpadeine forte disp tabs,res55: opioid,drug
+Read,dic3.,zapain caplets,res55: opioid,drug
+Read,dibw.,remedeine forte tablets,res55: opioid,drug
+Read,dibz.,solpadol caplets,res55: opioid,drug
+Read,dj6..,dextropropoxyphene hcl,res55: opioid,drug
+Read,dica.,codipar 15mg/500mg eff tabs,res55: opioid,drug
+Read,dicN.,*kapake 30/500 eff tablets,res55: opioid,drug
+Read,dicY.,tramacet 325mg/37.5mg eff tabs,res55: opioid,drug
+Read,dicO.,tramacet 325mg/37.5mg tablets,res55: opioid,drug
+Read,djb..,meptazinol [analgesic],res55: opioid,drug
+Read,dj3..,buprenorphine,res55: opioid,drug
+Read,dj2..,morphine analgesic elixirs,res55: opioid,drug
+Read,dj1..,morphine salts(1) [cns],res55: opioid,drug
+Read,dj5..,dextromoramide,res55: opioid,drug
+Read,dj4..,codeine phosphate [analgesic],res55: opioid,drug
+Read,dja..,*levorphanol tartrate [cns],res55: opioid,drug
+Read,dj7..,diamorphine hcl [analgesic],res55: opioid,drug
+Read,dj8..,dihydrocodeine tartrate,res55: opioid,drug
+Read,djB..,tapentadol,res55: opioid,drug
+Read,djA..,tramadol (2),res55: opioid,drug
+Read,dj9..,dipipanone hydrochloride,res55: opioid,drug
+Read,djd..,nalbuphine hydrochlor [cns],res55: opioid,drug
+Read,djc..,methadone hcl [analgesic],res55: opioid,drug
+Read,djj..,hydromorphone hydrochloride,res55: opioid,drug
+Read,dji..,tramadol,res55: opioid,drug
+Read,djg..,pethidine hydrochlor [analg],res55: opioid,drug
+Read,djh..,phenazocine hydrobromide,res55: opioid,drug
+Read,j28z.,*ibupr+codein 300/20mg m/r tab,res55: opioid,drug
+Read,djz..,morphine salts(2) [cns],res55: opioid,drug
+Read,djy..,morphine salts(3) [cns],res55: opioid,drug
+Read,djm..,oxycodone hydrochloride (2),res55: opioid,drug
+Read,djk..,oxycodone hydrochloride,res55: opioid,drug
+Read,dl15.,*migravess forte tablets,res55: opioid,drug
+Read,dl11.,migraleve duo-pack tablets,res55: opioid,drug
+Read,dl14.,*migravess dispersible tablets,res55: opioid,drug
+Read,dl12.,migraleve pink tablets,res55: opioid,drug
+Read,dl13.,migraleve yellow tablets,res55: opioid,drug
+Read,j28V.,ibupro+codeine 200/12.8mg tabs,res55: opioid,drug
+Read,j28O.,ibupro+codeine 200/12.5mg tabs,res55: opioid,drug
+Read,dl18.,migraleve duo-pack tablets x48,res55: opioid,drug
+Read,dl1a.,*migraleve yellow tablets x48,res55: opioid,drug
+Read,dl19.,migraleve pink tablets x48,res55: opioid,drug
+Read,o49..,phenoperidine hydrochloride,res55: opioid,drug
+Read,o44..,meptazinol [anaesthesia],res55: opioid,drug
+Read,o42..,fentanyl,res55: opioid,drug
+Read,j2pT.,solpadeine migraine ibu+cod,res55: opioid,drug
+Read,o41..,alfentanil,res55: opioid,drug
+Read,o45..,morphine salts [anaesthesia],res55: opioid,drug
+Read,o48..,pethidine hydrochlor [anaesth],res55: opioid,drug
+Read,o47..,papaveretum [anaesthesia],res55: opioid,drug
+Read,o46..,nalbuphine hydrochl [anaesth],res55: opioid,drug
+Read,o4c..,remifentanil,res55: opioid,drug
+Read,o4d..,fentanyl (2),res55: opioid,drug
+Read,o4e..,fentanyl (3),res55: opioid,drug
+Read,dibJ.,*remedeine forte eff tabs,res55: opioid,drug
+Read,a81..,codeine phosphate [git],res55: opioid,drug
+Read,a812.,codeine phosphate 30mg tablets,res55: opioid,drug
+Read,a811.,codeine phosphate 15mg tablets,res55: opioid,drug
+Read,dia7.,*co-proxamol tablets,res55: opioid,drug
+Read,a813.,codeine phosphate 60mg tablets,res55: opioid,drug
+Read,dibG.,tylex effervescent sol.tabs,res55: opioid,drug
+Read,dia6.,co-dydramol tablets,res55: opioid,drug
+Read,dia3.,co-codamol 8mg/500mg disp tabs,res55: opioid,drug
+Read,dia1.,*aspirin/paracet/codeine tabs,res55: opioid,drug
+Read,dia2.,co-codamol 8mg/500mg tablets,res55: opioid,drug
+Read,diaq.,co-codamol 8mg/500mg capsules,res55: opioid,drug
+Read,diaT.,codipar caplets,res55: opioid,drug
+Read,diaJ.,*kapake insts 500mg/30mg/sach,res55: opioid,drug
+Read,dibD.,paracet+codeine 500/30mg caps,res55: opioid,drug
+Read,diaI.,*paracet+codeine 500/30mg/sach,res55: opioid,drug
+Read,diaL.,*kapake insts 1000mg/60mg pdr,res55: opioid,drug
+Read,diam.,kapake tablets,res55: opioid,drug
+Read,diaU.,paracet+codeine 500/15mg tabs,res55: opioid,drug
+Read,diap.,co-codamol 8mg/500mg eff tabs,res55: opioid,drug
+Read,diao.,kapake capsules,res55: opioid,drug
+Read,dian.,paracet+codeine 500/30mg tabs,res55: opioid,drug
+Read,dib3.,*medocodeine tablets,res55: opioid,drug

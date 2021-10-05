@@ -1,0 +1,42 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E275000,Unspecified non-organic eating disorder,res59: Eating_disorder,diagnostic
+Read,U1B3.11,[X]Starvation,res59: Eating_disorder,diagnostic
+Read,E275z00,Non-organic eating disorder NOS,res59: Eating_disorder,diagnostic
+Read,Fy05.00,Nocturnal sleep-related eating disorder,res59: Eating_disorder,diagnostic
+Read,R030z00,[D]Anorexia NOS,res59: Eating_disorder,diagnostic
+Read,E275.00,Other and unspecified non-organic eating disorders,res59: Eating_disorder,diagnostic
+Read,E275y00,Other specified non-organic eating disorder,res59: Eating_disorder,diagnostic
+Read,E275400,Psychogenic vomiting NOS,res59: Eating_disorder,diagnostic
+Read,E275111,Compulsive eating disorder,res59: Eating_disorder,diagnostic
+Read,Eu50400,[X]Overeating associated with other psychological disturbncs,res59: Eating_disorder,diagnostic
+Read,Eu50211,[X]Bulimia NOS,res59: Eating_disorder,diagnostic
+Read,Eu50200,[X]Bulimia nervosa,res59: Eating_disorder,diagnostic
+Read,Eu50y00,[X]Other eating disorders,res59: Eating_disorder,diagnostic
+Read,Eu50100,[X]Atypical anorexia nervosa,res59: Eating_disorder,diagnostic
+Read,Eu50000,[X]Anorexia nervosa,res59: Eating_disorder,diagnostic
+Read,Eu50511,[X]Psychogenic vomiting,res59: Eating_disorder,diagnostic
+Read,Eu50500,[X]Vomiting associated with other psychological disturbances,res59: Eating_disorder,diagnostic
+Read,Eu50z00,[X]Eating disorder; unspecified,res59: Eating_disorder,diagnostic
+Read,R036011,[D]Bulimia NOS,res59: Eating_disorder,diagnostic
+Read,R036100,[D]Hyperalimentation,res59: Eating_disorder,diagnostic
+Read,ZC2CD00,Dietary advice for eating disorder,res59: Eating_disorder,diagnostic
+Read,R036z00,[D]Polyphagia NOS,res59: Eating_disorder,diagnostic
+Read,E271.00,Anorexia nervosa,res59: Eating_disorder,diagnostic
+Read,R036.00,[D]Polyphagia,res59: Eating_disorder,diagnostic
+Read,R030.00,[D]Anorexia,res59: Eating_disorder,diagnostic
+Read,Eu50411,[X]Psychogenic overeating,res59: Eating_disorder,diagnostic
+Read,Eu50212,[X]Hyperorexia nervosa,res59: Eating_disorder,diagnostic
+Read,R036000,[D]Excessive eating,res59: Eating_disorder,diagnostic
+Read,Eu50.00,[X]Eating disorders,res59: Eating_disorder,diagnostic
+Read,E275100,Bulimia (non-organic overeating),res59: Eating_disorder,diagnostic
+Read,Z4B5.00,Eating disorder counselling,res59: Eating_disorder,diagnostic
+Read,E275300,Psychogenic rumination,res59: Eating_disorder,diagnostic
+Read,9Nk9.00,Seen in eating disorder clinic,res59: Eating_disorder,diagnostic
+Read,1614.11,Hyperalimentation - symptom,res59: Eating_disorder,diagnostic
+Read,1614.00,Excessive eating - polyphagia,res59: Eating_disorder,diagnostic
+Read,1612.11,Anorexia symptom,res59: Eating_disorder,diagnostic
+Read,1612.00,Appetite loss - anorexia,res59: Eating_disorder,diagnostic
+Read,SN42100,Starvation,res59: Eating_disorder,diagnostic
+Read,1614.12,Polyphagia symptom,res59: Eating_disorder,diagnostic
+Read,8HTN.00,Referral to eating disorders clinic,res59: Eating_disorder,diagnostic
+Read,Eu50300,[X]Atypical bulimia nervosa,res59: Eating_disorder,diagnostic

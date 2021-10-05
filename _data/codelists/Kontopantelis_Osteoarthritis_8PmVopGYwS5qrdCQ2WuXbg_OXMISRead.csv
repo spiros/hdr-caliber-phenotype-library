@@ -1,0 +1,129 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,7130MD,TEMPOROMANDIBULAR OSTEOARTHROSIS,res21: Osteoarthritis,diagnostic
+OXMIS,7130EA,STERNOCLAVICULAR JOINT OSTEOARTHROSIS,res21: Osteoarthritis,diagnostic
+OXMIS,7130D,OSTEOARTHROSIS HIP,res21: Osteoarthritis,diagnostic
+OXMIS,7130DA,OSTEOARTHRITIS HIP,res21: Osteoarthritis,diagnostic
+OXMIS,7130B,OSTEOARTHROSIS KNEE(S),res21: Osteoarthritis,diagnostic
+OXMIS,7131C,OSTEOARTHROSIS SPINE,res21: Osteoarthritis,diagnostic
+OXMIS,7130A,OSTEOARTHRITIS,res21: Osteoarthritis,diagnostic
+OXMIS,7130AB,OSTEOARTHROSIS,res21: Osteoarthritis,diagnostic
+OXMIS,7130N,OSTEOARTHROSIS HANDS,res21: Osteoarthritis,diagnostic
+OXMIS,7130E,OSTEOARTHROSIS SHOULDER,res21: Osteoarthritis,diagnostic
+OXMIS,7131A,OSTEOARTHROSIS NECK,res21: Osteoarthritis,diagnostic
+OXMIS,7130FT,OSTEOARTHROSIS FOOT,res21: Osteoarthritis,diagnostic
+OXMIS,7130H,OSTEOARTHROSIS TOE,res21: Osteoarthritis,diagnostic
+OXMIS,7130AW,OSTEOARTHROSIS WRIST,res21: Osteoarthritis,diagnostic
+OXMIS,7130CT,THUMB OSTEOARTHROSIS,res21: Osteoarthritis,diagnostic
+OXMIS,7130C,OSTEOARTHROSIS FINGERS,res21: Osteoarthritis,diagnostic
+OXMIS,7130AA,OSTEOARTHROSIS ANKLE,res21: Osteoarthritis,diagnostic
+OXMIS,7130AG,OSTEOARTHROSIS GENERAL,res21: Osteoarthritis,diagnostic
+OXMIS,7130PA,OSTEOARTHRITIC PROTRUSION ACETABULUM,res21: Osteoarthritis,diagnostic
+OXMIS,7130EL,OSTEOARTHROSIS ELBOW,res21: Osteoarthritis,diagnostic
+OXMIS,7130AC,OSTEOARTHROSIS ACROMIO CLAVICULAR JOINT,res21: Osteoarthritis,diagnostic
+OXMIS,7131DL,LUMBAR OSTEOARTHRITIS,res21: Osteoarthritis,diagnostic
+OXMIS,7131BR,SPONDYLITIS OSTEOARTHRITIC,res21: Osteoarthritis,diagnostic
+Read,N11D100,Osteoarthritis of thoracic spine,res21: Osteoarthritis,diagnostic
+Read,N05z412,Thumb osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N05z712,Foot osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N053611,Patellofemoral osteoarthritis,res21: Osteoarthritis,diagnostic
+Read,N11z.11,Osteoarthritis spine,res21: Osteoarthritis,diagnostic
+Read,N05z211,Elbow osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N05z611,Knee osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N05..11,Osteoarthritis,res21: Osteoarthritis,diagnostic
+Read,N05z400,"Osteoarthritis NOS, of the hand",res21: Osteoarthritis,diagnostic
+Read,N050.00,Generalised osteoarthritis - OA,res21: Osteoarthritis,diagnostic
+Read,N05z511,Hip osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N052800,"Localised, secondary osteoarthritis of other specified site",res21: Osteoarthritis,diagnostic
+Read,N05zA00,"Osteoarthritis NOS, of sternoclavicular joint",res21: Osteoarthritis,diagnostic
+Read,N05zB00,"Osteoarthritis NOS, of acromioclavicular joint",res21: Osteoarthritis,diagnostic
+Read,N051.00,"Localised, primary osteoarthritis",res21: Osteoarthritis,diagnostic
+Read,N051z00,"Localised, primary osteoarthritis NOS",res21: Osteoarthritis,diagnostic
+Read,N05zL00,"Osteoarthritis NOS, of knee",res21: Osteoarthritis,diagnostic
+Read,N05zT00,"Osteoarthritis NOS, of lesser MTP joint",res21: Osteoarthritis,diagnostic
+Read,N05z100,"Osteoarthritis NOS, of shoulder region",res21: Osteoarthritis,diagnostic
+Read,N05..00,Osteoarthritis and allied disorders,res21: Osteoarthritis,diagnostic
+Read,N05zN00,"Osteoarthritis NOS, of ankle",res21: Osteoarthritis,diagnostic
+Read,N05z411,Finger osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N05z.00,Osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N053700,"Localised osteoarthritis, unspecified, of the ankle and foot",res21: Osteoarthritis,diagnostic
+Read,N05z500,"Osteoarthritis NOS, pelvic region/thigh",res21: Osteoarthritis,diagnostic
+Read,N05z713,Toe osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N05zF00,"Osteoarthritis NOS, of MCP joint",res21: Osteoarthritis,diagnostic
+Read,N05zS00,"Osteoarthritis NOS, of 1st MTP joint",res21: Osteoarthritis,diagnostic
+Read,N05z900,"Osteoarthritis NOS, of shoulder",res21: Osteoarthritis,diagnostic
+Read,N05zJ00,"Osteoarthritis NOS, of hip",res21: Osteoarthritis,diagnostic
+Read,N11..12,Osteoarthritis of spine,res21: Osteoarthritis,diagnostic
+Read,N05z600,"Osteoarthritis NOS, of the lower leg",res21: Osteoarthritis,diagnostic
+Read,N053500,"Localised osteoarthritis, unspecified, pelvic region/thigh",res21: Osteoarthritis,diagnostic
+Read,N053800,"Localised osteoarthritis, unspecified, of other spec site",res21: Osteoarthritis,diagnostic
+Read,N05zE00,"Osteoarthritis NOS, of wrist",res21: Osteoarthritis,diagnostic
+Read,N05z800,"Osteoarthritis NOS, other specified site",res21: Osteoarthritis,diagnostic
+Read,N05zG00,"Osteoarthritis NOS, of PIP joint of finger",res21: Osteoarthritis,diagnostic
+Read,N05zH00,"Osteoarthritis NOS, of DIP joint of finger",res21: Osteoarthritis,diagnostic
+Read,N05z700,"Osteoarthritis NOS, of ankle and foot",res21: Osteoarthritis,diagnostic
+Read,N110.12,Osteoarthritis cervical spine,res21: Osteoarthritis,diagnostic
+Read,N053100,"Localised osteoarthritis, unspecified, of shoulder region",res21: Osteoarthritis,diagnostic
+Read,N05z311,Wrist osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N053400,"Localised osteoarthritis, unspecified, of the hand",res21: Osteoarthritis,diagnostic
+Read,N051500,"Localised, primary osteoarthritis of the pelvic region/thigh",res21: Osteoarthritis,diagnostic
+Read,N11D.00,Osteoarthritis of spine,res21: Osteoarthritis,diagnostic
+Read,N051F00,"Localised, primary osteoarthritis of elbow",res21: Osteoarthritis,diagnostic
+Read,N051800,"Localised, primary osteoarthritis of other specified site",res21: Osteoarthritis,diagnostic
+Read,N05zC00,"Osteoarthritis NOS, of elbow",res21: Osteoarthritis,diagnostic
+Read,N051600,"Localised, primary osteoarthritis of the lower leg",res21: Osteoarthritis,diagnostic
+Read,N054.00,"Oligoarticular osteoarthritis, unspecified",res21: Osteoarthritis,diagnostic
+Read,N050200,Generalised osteoarthritis of multiple sites,res21: Osteoarthritis,diagnostic
+Read,N051400,"Localised, primary osteoarthritis of the hand",res21: Osteoarthritis,diagnostic
+Read,N053z00,"Localised osteoarthritis, unspecified, NOS",res21: Osteoarthritis,diagnostic
+Read,N11D200,Osteoarthritis of lumbar spine,res21: Osteoarthritis,diagnostic
+Read,N050400,Primary generalized osteoarthrosis,res21: Osteoarthritis,diagnostic
+Read,N052400,"Localised, secondary osteoarthritis of the hand",res21: Osteoarthritis,diagnostic
+Read,N051D00,"Localised, primary osteoarthritis of the wrist",res21: Osteoarthritis,diagnostic
+Read,N051E00,"Localised, primary osteoarthritis of toe",res21: Osteoarthritis,diagnostic
+Read,N051100,"Localised, primary osteoarthritis of the shoulder region",res21: Osteoarthritis,diagnostic
+Read,N05z300,"Osteoarthritis NOS, of the forearm",res21: Osteoarthritis,diagnostic
+Read,N051200,"Localised, primary osteoarthritis of the upper arm",res21: Osteoarthritis,diagnostic
+Read,N05zz00,Osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N051700,"Localised, primary osteoarthritis of the ankle and foot",res21: Osteoarthritis,diagnostic
+Read,N05zU00,"Osteoarthritis NOS, of IP joint of toe",res21: Osteoarthritis,diagnostic
+Read,N052600,"Localised, secondary osteoarthritis of the lower leg",res21: Osteoarthritis,diagnostic
+Read,N054800,"Oligoarticular osteoarthritis, unspecified, other spec sites",res21: Osteoarthritis,diagnostic
+Read,N053.00,"Localised osteoarthritis, unspecified",res21: Osteoarthritis,diagnostic
+Read,N052100,"Localised, secondary osteoarthritis of the shoulder region",res21: Osteoarthritis,diagnostic
+Read,N05zK00,"Osteoarthritis NOS, of sacro-iliac joint",res21: Osteoarthritis,diagnostic
+Read,N052700,"Localised, secondary osteoarthritis of the ankle and foot",res21: Osteoarthritis,diagnostic
+Read,N11D000,Osteoarthritis of cervical spine,res21: Osteoarthritis,diagnostic
+Read,N050z00,Generalised osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N05z000,"Osteoarthritis NOS, of unspecified site",res21: Osteoarthritis,diagnostic
+Read,N053600,"Localised osteoarthritis, unspecified, of the lower leg",res21: Osteoarthritis,diagnostic
+Read,N051300,"Localised, primary osteoarthritis of the forearm",res21: Osteoarthritis,diagnostic
+Read,N050100,Generalised osteoarthritis of the hand,res21: Osteoarthritis,diagnostic
+Read,N054600,"Oligoarticular osteoarthritis, unspecified, of lower leg",res21: Osteoarthritis,diagnostic
+Read,N050600,Erosive osteoarthrosis,res21: Osteoarthritis,diagnostic
+Read,N052200,"Localised, secondary osteoarthritis of the upper arm",res21: Osteoarthritis,diagnostic
+Read,N050000,Generalised osteoarthritis of unspecified site,res21: Osteoarthritis,diagnostic
+Read,N05zP00,"Osteoarthritis NOS, of subtalar joint",res21: Osteoarthritis,diagnostic
+Read,N054900,"Oligoarticular osteoarthritis, unspecified, multiple sites",res21: Osteoarthritis,diagnostic
+Read,N054000,"Oligoarticular osteoarthritis, unspec, of unspecified sites",res21: Osteoarthritis,diagnostic
+Read,N052300,"Localised, secondary osteoarthritis of the forearm",res21: Osteoarthritis,diagnostic
+Read,N052500,"Localised, secondary osteoarthritis of pelvic region/thigh",res21: Osteoarthritis,diagnostic
+Read,N052.00,"Localised, secondary osteoarthritis",res21: Osteoarthritis,diagnostic
+Read,N05z200,"Osteoarthritis NOS, of the upper arm",res21: Osteoarthritis,diagnostic
+Read,N05zQ00,"Osteoarthritis NOS, of talonavicular joint",res21: Osteoarthritis,diagnostic
+Read,N053000,"Localised osteoarthritis, unspecified, of unspecified site",res21: Osteoarthritis,diagnostic
+Read,N05z711,Ankle osteoarthritis NOS,res21: Osteoarthritis,diagnostic
+Read,N05zR00,"Osteoarthritis NOS, of other tarsal joint",res21: Osteoarthritis,diagnostic
+Read,N054100,"Oligoarticular osteoarthritis, unspecified, of shoulder",res21: Osteoarthritis,diagnostic
+Read,N11D300,Osteoarthritis of spine NOS,res21: Osteoarthritis,diagnostic
+Read,N051000,"Localised, primary osteoarthritis of unspecified site",res21: Osteoarthritis,diagnostic
+Read,N054z00,"Osteoarthritis of more than one site, unspecified, NOS",res21: Osteoarthritis,diagnostic
+Read,N053300,"Localised osteoarthritis, unspecified, of the forearm",res21: Osteoarthritis,diagnostic
+Read,N052z00,"Localised, secondary osteoarthritis NOS",res21: Osteoarthritis,diagnostic
+Read,N053200,"Localised osteoarthritis, unspecified, of the upper arm",res21: Osteoarthritis,diagnostic
+Read,N054400,"Oligoarticular osteoarthritis, unspecified, of hand",res21: Osteoarthritis,diagnostic
+Read,N054500,"Oligoarticular osteoarthritis, unspecified, of pelvis/thigh",res21: Osteoarthritis,diagnostic
+Read,N05zD00,"Osteoarthritis NOS, of distal radio-ulnar joint",res21: Osteoarthritis,diagnostic
+Read,N052000,"Localised, secondary osteoarthritis of unspecified site",res21: Osteoarthritis,diagnostic
+Read,N054700,"Oligoarticular osteoarthritis, unspecified, of ankle/foot",res21: Osteoarthritis,diagnostic
+Read,N05zM00,"Osteoarthritis NOS, of tibio-fibular joint",res21: Osteoarthritis,diagnostic
+Read,N054200,"Oligoarticular osteoarthritis, unspecified, of upper arm",res21: Osteoarthritis,diagnostic

@@ -1,0 +1,100 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,1282,fh: alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,1366,Very heavy drinker - >9u/day,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,136Q.00,Very heavy drinker,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,136T.00,harmful alcohol use,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,1462,h/o: alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,1B1c.00,alcohol induced hallucinations,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,66e0.00,alcohol abuse monitoring,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,7P22100,delivery of rehabilitation for alcohol addiction,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,8BA8.00,alcohol detoxification,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,8CAv.00,advised to contact primary care alcohol worker,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,8G32.00,aversion therapy - alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,8H35.00,admitted to alcohol detoxification centre,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,8HkG.00,referral to specialist alcohol treatment service,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,8IAF.00,brief intervention for excessive alcohol consumptn declined,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,8IAJ.00,declined referral to specialist alcohol treatment service,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,8IAt.00,extended interven for excessive alcohol consumption declined,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,9k1B.00,extended intervention for excessive alcohol consumptn complt,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,9NN2.00,under care of community alcohol team,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,C150500,alcohol-induced pseudo-cushing's syndrome,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E01..00,alcoholic psychoses,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E010.00,alcohol withdrawal delirium,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E011000,korsakov's alcoholic psychosis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E011100,korsakov's alcoholic psychosis with peripheral neuritis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E011200,Wernicke-Korsakov syndrome,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E011z00,alcohol amnestic syndrome nos,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E012.00,other alcoholic dementia,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E012000,chronic alcoholic brain syndrome,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E012.11,alcoholic dementia nos,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E013.00,alcohol withdrawal hallucinosis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E014.00,pathological alcohol intoxication,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E015.00,alcoholic paranoia,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E01y.00,other alcoholic psychosis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E01y000,alcohol withdrawal syndrome,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E01yz00,other alcoholic psychosis nos,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E01z.00,alcoholic psychosis nos,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E23..00,alcohol dependence syndrome,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E230.00,acute alcoholic intoxication in alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E230000,acute alcoholic intoxication; unspecified; in alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E230100,continuous acute alcoholic intoxication in alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E230.11,alcohol dependence with acute alcoholic intoxication,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E230200,episodic acute alcoholic intoxication in alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E230300,acute alcoholic intoxication in remission; in alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E230z00,acute alcoholic intoxication in alcoholism nos,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E231.00,chronic alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E231000,unspecified chronic alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E23..11,alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E231100,continuous chronic alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E231200,episodic chronic alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E231300,chronic alcoholism in remission,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E231z00,chronic alcoholism nos,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E23z.00,alcohol dependence syndrome nos,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,E250300,nondependent alcohol abuse in remission,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10.00,[x]mental and behavioural disorders due to use of alcohol,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10100,[x]mental and behav dis due to use of alcohol: harmful use,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10200,[x]mental and behav dis due to use alcohol: dependence syndr,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10211,[x]alcohol addiction,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10212,[x]chronic alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10300,[x]mental and behav dis due to use alcohol: withdrawal state,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10400,[X]Men & behav dis due alcohl: withdrawl state with delirium,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10411,[x]delirium tremens; alcohol induced,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10500,[x]mental & behav dis due to use alcohol: psychotic disorder,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10511,[x]alcoholic hallucinosis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10512,[x]alcoholic jealousy,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10513,[x]alcoholic paranoia,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10514,[x]alcoholic psychosis nos,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10600,[x]mental and behav dis due to use alcohol: amnesic syndrome,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10611,[x]korsakov's psychosis; alcohol induced,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10700,[X]Men & behav dis due alcoh: resid & late-onset psychot dis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10711,[x]alcoholic dementia nos,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10712,[x]chronic alcoholic brain syndrome,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10800,[x]alcohol withdrawal-induced seizure,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10y00,[x]men & behav dis due to use alcohol: oth men & behav dis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Eu10z00,[x]ment & behav dis due use alcohol: unsp ment & behav dis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,F11x000,cerebral degeneration due to alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,F11x011,alcoholic encephalopathy,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,F144000,cerebellar ataxia due to alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,F25B.00,alcohol-induced epilepsy,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,F375.00,alcoholic polyneuropathy,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,F394100,alcoholic myopathy,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,G555.00,alcoholic cardiomyopathy,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,G852300,oesophageal varices in alcoholic cirrhosis of the liver,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,J610.00,alcoholic fatty liver,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,J611.00,acute alcoholic hepatitis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,J612.00,alcoholic cirrhosis of liver,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,J612000,alcoholic fibrosis and sclerosis of liver,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,J613.00,alcoholic liver damage unspecified,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,J613000,alcoholic hepatic failure,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,J617.00,alcoholic hepatitis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,J617000,chronic alcoholic hepatitis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,J671000,alcohol-induced chronic pancreatitis,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,SLH3.00,alcohol deterrent poisoning,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,SM00100,denatured alcohol causing toxic effect,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,U60H300,[x]alcohol deterrents caus adverse effects in therapeut use,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,U60H311,[x] adverse reaction to alcohol deterrents,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Z191.00,alcohol detoxification,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Z191100,alcohol withdrawal regime,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,Z191211,alcohol reduction programme,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,ZR1E.11,ads - alcohol dependence scale,res32: Clinically Significant Alcohol Misuse,diagnostic
+Read,ZV11300,[v]personal history of alcoholism,res32: Clinically Significant Alcohol Misuse,diagnostic

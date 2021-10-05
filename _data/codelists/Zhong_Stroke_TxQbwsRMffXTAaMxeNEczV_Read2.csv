@@ -1,0 +1,204 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Fyu9.00,[X]Cerebral palsy and other paralytic syndromes,res50: stroke,diagnostic
+Read,G610.00,Cortical haemorrhage,res50: stroke,diagnostic
+Read,Fyu5600,[X]Other lacunar syndromes,res50: stroke,diagnostic
+Read,F423500,Retinal partial arterial occlusion NOS,res50: stroke,diagnostic
+Read,F423211,Branch retinal artery occlusion,res50: stroke,diagnostic
+Read,F23y400,Ataxic diplegic cerebral palsy,res50: stroke,diagnostic
+Read,F2B1.00,Spastic hemiplegic cerebral palsy,res50: stroke,diagnostic
+Read,F23y.00,Other congenital cerebral palsy,res50: stroke,diagnostic
+Read,F2By.00,Other cerebral palsy,res50: stroke,diagnostic
+Read,F230100,Cerebral palsy with spastic diplegia,res50: stroke,diagnostic
+Read,G668.00,Right sided CVA,res50: stroke,diagnostic
+Read,F23..12,Infantile cerebral palsy,res50: stroke,diagnostic
+Read,E031400,"Subacute confusional state, of cerebrovascular origin",res50: stroke,diagnostic
+Read,C315100,"Mitochond encephalopathy, lact acidosis & strokelike episode",res50: stroke,diagnostic
+Read,388I.00,Stroke risk,res50: stroke,diagnostic
+Read,14A7.11,H/O: CVA,res50: stroke,diagnostic
+Read,1477,H/O: cerebrovascular disease,res50: stroke,diagnostic
+Read,14A7.00,H/O: CVA/stroke,res50: stroke,diagnostic
+Read,1M4..00,Central post-stroke pain,res50: stroke,diagnostic
+Read,14AB000,H/O amaurosis fugax,res50: stroke,diagnostic
+Read,14A7.12,H/O: stroke,res50: stroke,diagnostic
+Read,14AK.00,H/O: Stroke in last year,res50: stroke,diagnostic
+Read,F23..11,Congenital spastic cerebral palsy,res50: stroke,diagnostic
+Read,F137.11,Athetoid cerebral palsy,res50: stroke,diagnostic
+Read,E030400,"Acute confusional state, of cerebrovascular origin",res50: stroke,diagnostic
+Read,F11x200,Cerebral degeneration due to cerebrovascular disease,res50: stroke,diagnostic
+Read,F23..00,Congenital cerebral palsy,res50: stroke,diagnostic
+Read,F137000,Athetoid cerebral palsy,res50: stroke,diagnostic
+Read,G613.00,Cerebellar haemorrhage,res50: stroke,diagnostic
+Read,G63..11,Infarction - precerebral,res50: stroke,diagnostic
+Read,F23y100,Flaccid infantile cerebral palsy,res50: stroke,diagnostic
+Read,F23y000,Ataxic infantile cerebral palsy,res50: stroke,diagnostic
+Read,G63..00,Precerebral arterial occlusion,res50: stroke,diagnostic
+Read,F423100,Central retinal artery occlusion,res50: stroke,diagnostic
+Read,F2Bz.00,Cerebral palsy NOS,res50: stroke,diagnostic
+Read,F23y300,Dyskinetic cerebral palsy,res50: stroke,diagnostic
+Read,F23y200,Spastic cerebral palsy,res50: stroke,diagnostic
+Read,F2B0.00,Spastic quadriplegic cerebral palsy,res50: stroke,diagnostic
+Read,F23yz00,Other infantile cerebral palsy NOS,res50: stroke,diagnostic
+Read,F23y600,Choreoathetoid cerebral palsy,res50: stroke,diagnostic
+Read,F2B..00,Cerebral palsy,res50: stroke,diagnostic
+Read,F23z.00,Congenital cerebral palsy NOS,res50: stroke,diagnostic
+Read,G62z.00,Intracranial haemorrhage NOS,res50: stroke,diagnostic
+Read,F230111,Spastic diplegic cerebral palsy,res50: stroke,diagnostic
+Read,Fyu5500,[X]Other transnt cerebral ischaemic attacks+related syndroms,res50: stroke,diagnostic
+Read,F423700,Retinal transient arterial occlusion NOS,res50: stroke,diagnostic
+Read,F423600,Amaurosis fugax,res50: stroke,diagnostic
+Read,G623.00,Subdural haemorrhage NOS,res50: stroke,diagnostic
+Read,G61..00,Intracerebral haemorrhage,res50: stroke,diagnostic
+Read,G600.00,Ruptured berry aneurysm,res50: stroke,diagnostic
+Read,Fyu9000,[X]Other infantile cerebral palsy,res50: stroke,diagnostic
+Read,G60..00,Subarachnoid haemorrhage,res50: stroke,diagnostic
+Read,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif",res50: stroke,diagnostic
+Read,G603.00,Subarachnoid haemorrhage from anterior communicating artery,res50: stroke,diagnostic
+Read,G606.00,Subarachnoid haemorrhage from vertebral artery,res50: stroke,diagnostic
+Read,G621.00,Subdural haemorrhage - nontraumatic,res50: stroke,diagnostic
+Read,G616.00,External capsule haemorrhage,res50: stroke,diagnostic
+Read,G61..12,Stroke due to intracerebral haemorrhage,res50: stroke,diagnostic
+Read,G615.00,Bulbar haemorrhage,res50: stroke,diagnostic
+Read,G62..00,Other and unspecified intracranial haemorrhage,res50: stroke,diagnostic
+Read,G617.00,"Intracerebral haemorrhage, intraventricular",res50: stroke,diagnostic
+Read,G61z.00,Intracerebral haemorrhage NOS,res50: stroke,diagnostic
+Read,L440.11,CVA - cerebrovascular accident in the puerperium,res50: stroke,diagnostic
+Read,G68..00,Late effects of cerebrovascular disease,res50: stroke,diagnostic
+Read,G651000,Vertebro-basilar artery syndrome,res50: stroke,diagnostic
+Read,G641000,Cerebral infarction due to embolism of cerebral arteries,res50: stroke,diagnostic
+Read,G63y100,Cerebral infarction due to embolism of precerebral arteries,res50: stroke,diagnostic
+Read,G632.00,Vertebral artery occlusion,res50: stroke,diagnostic
+Read,G630.00,Basilar artery occlusion,res50: stroke,diagnostic
+Read,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,res50: stroke,diagnostic
+Read,G641.11,Cerebral embolus,res50: stroke,diagnostic
+Read,G64..12,Infarction - cerebral,res50: stroke,diagnostic
+Read,G641.00,Cerebral embolism,res50: stroke,diagnostic
+Read,G651.00,Vertebral artery syndrome,res50: stroke,diagnostic
+Read,G64z111,Lateral medullary syndrome,res50: stroke,diagnostic
+Read,G64z.11,Brainstem infarction NOS,res50: stroke,diagnostic
+Read,G64z100,Wallenberg syndrome,res50: stroke,diagnostic
+Read,G650.11,Insufficiency - basilar artery,res50: stroke,diagnostic
+Read,G64z400,Infarction of basal ganglia,res50: stroke,diagnostic
+Read,G650.00,Basilar artery syndrome,res50: stroke,diagnostic
+Read,G67z.00,Other cerebrovascular disease NOS,res50: stroke,diagnostic
+Read,G663.00,Brain stem stroke syndrome,res50: stroke,diagnostic
+Read,G65z.00,Transient cerebral ischaemia NOS,res50: stroke,diagnostic
+Read,G654.00,Multiple and bilateral precerebral artery syndromes,res50: stroke,diagnostic
+Read,G65y.00,Other transient cerebral ischaemia,res50: stroke,diagnostic
+Read,G662.00,Posterior cerebral artery syndrome,res50: stroke,diagnostic
+Read,G66..00,Stroke and cerebrovascular accident unspecified,res50: stroke,diagnostic
+Read,G661.00,Anterior cerebral artery syndrome,res50: stroke,diagnostic
+Read,G679.00,Small vessel cerebrovascular disease,res50: stroke,diagnostic
+Read,G671100,Chronic cerebral ischaemia,res50: stroke,diagnostic
+Read,G667.00,Left sided CVA,res50: stroke,diagnostic
+Read,G671000,Acute cerebrovascular insufficiency NOS,res50: stroke,diagnostic
+Read,G677300,Occlusion and stenosis of cerebellar arteries,res50: stroke,diagnostic
+Read,G677000,Occlusion and stenosis of middle cerebral artery,res50: stroke,diagnostic
+Read,G677400,Occlusion+stenosis of multiple and bilat cerebral arteries,res50: stroke,diagnostic
+Read,J421000,Superior mesenteric artery syndrome,res50: stroke,diagnostic
+Read,G76z200,Popliteal artery occlusion,res50: stroke,diagnostic
+Read,G68X.00,"Sequelae of stroke,not specfd as h'morrhage or infarction",res50: stroke,diagnostic
+Read,G681.00,Sequelae of intracerebral haemorrhage,res50: stroke,diagnostic
+Read,G680.00,Sequelae of subarachnoid haemorrhage,res50: stroke,diagnostic
+Read,G682.00,Sequelae of other nontraumatic intracranial haemorrhage,res50: stroke,diagnostic
+Read,G67y.00,Other cerebrovascular disease OS,res50: stroke,diagnostic
+Read,G683.00,Sequelae of cerebral infarction,res50: stroke,diagnostic
+Read,G68W.00,Sequelae/other + unspecified cerebrovascular diseases,res50: stroke,diagnostic
+Read,G76z100,Femoral artery occlusion,res50: stroke,diagnostic
+Read,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res50: stroke,diagnostic
+Read,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,res50: stroke,diagnostic
+Read,G669.00,"Cerebral palsy, not congenital or infantile, acute",res50: stroke,diagnostic
+Read,G76z000,Iliac artery occlusion,res50: stroke,diagnostic
+Read,G6y..00,Other specified cerebrovascular disease,res50: stroke,diagnostic
+Read,G6z..00,Cerebrovascular disease NOS,res50: stroke,diagnostic
+Read,G66..11,CVA unspecified,res50: stroke,diagnostic
+Read,Gyu6500,[X]Occlusion and stenosis of other precerebral arteries,res50: stroke,diagnostic
+Read,Gyu6100,[X]Other subarachnoid haemorrhage,res50: stroke,diagnostic
+Read,Gyu6.00,[X]Cerebrovascular diseases,res50: stroke,diagnostic
+Read,Gyu6000,[X]Subarachnoid haemorrhage from other intracranial arteries,res50: stroke,diagnostic
+Read,Gyu6400,[X]Other cerebral infarction,res50: stroke,diagnostic
+Read,Gyu6200,[X]Other intracerebral haemorrhage,res50: stroke,diagnostic
+Read,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res50: stroke,diagnostic
+Read,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,res50: stroke,diagnostic
+Read,Gyu6A00,[X]Other cerebrovascular disorders in diseases CE,res50: stroke,diagnostic
+Read,Gyu6600,[X]Occlusion and stenosis of other cerebral arteries,res50: stroke,diagnostic
+Read,G664.00,Cerebellar stroke syndrome,res50: stroke,diagnostic
+Read,G66..13,CVA - Cerebrovascular accident unspecified,res50: stroke,diagnostic
+Read,Gyu6E00,"[X]Subarachnoid haemorrh from intracranial artery, unspecif",res50: stroke,diagnostic
+Read,Gyu6F00,"[X]Intracerebral haemorrhage in hemisphere, unspecified",res50: stroke,diagnostic
+Read,S620.00,Closed traumatic subarachnoid haemorrhage,res50: stroke,diagnostic
+Read,Q200012,Intracranial haemorrhage in fetus or newborn,res50: stroke,diagnostic
+Read,L440300,Puerperal cerebrovascular disorder with antenatal comp,res50: stroke,diagnostic
+Read,L440.12,Stroke in the puerperium,res50: stroke,diagnostic
+Read,L440100,Puerperal cerebrovascular disorder - delivered,res50: stroke,diagnostic
+Read,Q200011,Intracerebral haemorrhage in fetus or newborn,res50: stroke,diagnostic
+Read,P7y0y00,Other specified cerebrovascular anomaly,res50: stroke,diagnostic
+Read,P7y0z00,Cerebrovascular system anomaly NOS,res50: stroke,diagnostic
+Read,S62..13,Subdural haemorrhage following injury,res50: stroke,diagnostic
+Read,Q412.00,Perinatal subarachnoid haemorrhage,res50: stroke,diagnostic
+Read,Q200100,"Subdural haemorrhage unspecified, due to birth trauma",res50: stroke,diagnostic
+Read,P7y0.00,Cerebrovascular system anomalies,res50: stroke,diagnostic
+Read,S62..12,Subarachnoid haemorrhage following injury,res50: stroke,diagnostic
+Read,Q412000,Subarachnoid haemorrhage due to birth injury,res50: stroke,diagnostic
+Read,R002700,[D]Drop attack,res50: stroke,diagnostic
+Read,ZV12512,[V]Personal history of cerebrovascular accident (CVA),res50: stroke,diagnostic
+Read,S627.00,Traumatic subarachnoid haemorrhage,res50: stroke,diagnostic
+Read,S622.00,Closed traumatic subdural haemorrhage,res50: stroke,diagnostic
+Read,S623.00,Open traumatic subdural haemorrhage,res50: stroke,diagnostic
+Read,ZV12511,[V]Personal history of stroke,res50: stroke,diagnostic
+Read,S628.00,Traumatic subdural haemorrhage,res50: stroke,diagnostic
+Read,SN20000,"Heat stroke, unspecified",res50: stroke,diagnostic
+Read,S621.00,Open traumatic subarachnoid haemorrhage,res50: stroke,diagnostic
+Read,ZV12D00,[V]Personal history of transient ischaemic attack,res50: stroke,diagnostic
+Read,L440.00,Cerebrovascular disorders in the puerperium,res50: stroke,diagnostic
+Read,Q488.00,Neonatal cerebral ischaemia,res50: stroke,diagnostic
+Read,L440000,Puerperal cerebrovascular disorder unspecified,res50: stroke,diagnostic
+Read,G63z.00,Precerebral artery occlusion NOS,res50: stroke,diagnostic
+Read,G65..12,Transient ischaemic attack,res50: stroke,diagnostic
+Read,G65zz00,Transient cerebral ischaemia NOS,res50: stroke,diagnostic
+Read,G65..00,Transient cerebral ischaemia,res50: stroke,diagnostic
+Read,G64..11,CVA - cerebral artery occlusion,res50: stroke,diagnostic
+Read,FyuF500,[X]Other retinal artery occlusions,res50: stroke,diagnostic
+Read,G677200,Occlusion and stenosis of posterior cerebral artery,res50: stroke,diagnostic
+Read,G677100,Occlusion and stenosis of anterior cerebral artery,res50: stroke,diagnostic
+Read,G671z00,Generalised ischaemic cerebrovascular disease NOS,res50: stroke,diagnostic
+Read,G676000,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",res50: stroke,diagnostic
+Read,G671.00,Generalised ischaemic cerebrovascular disease NOS,res50: stroke,diagnostic
+Read,G666.00,Pure sensory lacunar syndrome,res50: stroke,diagnostic
+Read,G67..00,Other cerebrovascular disease,res50: stroke,diagnostic
+Read,G65z000,Impending cerebral ischaemia,res50: stroke,diagnostic
+Read,G665.00,Pure motor lacunar syndrome,res50: stroke,diagnostic
+Read,G660.00,Middle cerebral artery syndrome,res50: stroke,diagnostic
+Read,G65z100,Intermittent cerebral ischaemia,res50: stroke,diagnostic
+Read,G66..12,Stroke unspecified,res50: stroke,diagnostic
+Read,G657.00,Carotid territory transient ischaemic attack,res50: stroke,diagnostic
+Read,G653.00,Carotid artery syndrome hemispheric,res50: stroke,diagnostic
+Read,G656.00,Vertebrobasilar insufficiency,res50: stroke,diagnostic
+Read,G652.00,Subclavian steal syndrome,res50: stroke,diagnostic
+Read,G65..13,Vertebro-basilar insufficiency,res50: stroke,diagnostic
+Read,G64z200,Left sided cerebral infarction,res50: stroke,diagnostic
+Read,G64z300,Right sided cerebral infarction,res50: stroke,diagnostic
+Read,G65..11,Drop attack,res50: stroke,diagnostic
+Read,G64z000,Brainstem infarction,res50: stroke,diagnostic
+Read,G64z.12,Cerebellar infarction,res50: stroke,diagnostic
+Read,G64z.00,Cerebral infarction NOS,res50: stroke,diagnostic
+Read,G64..13,Stroke due to cerebral arterial occlusion,res50: stroke,diagnostic
+Read,G640000,Cerebral infarction due to thrombosis of cerebral arteries,res50: stroke,diagnostic
+Read,G640.00,Cerebral thrombosis,res50: stroke,diagnostic
+Read,G63..12,Stenosis of precerebral arteries,res50: stroke,diagnostic
+Read,G64..00,Cerebral arterial occlusion,res50: stroke,diagnostic
+Read,G63y.00,Other precerebral artery occlusion,res50: stroke,diagnostic
+Read,G631.00,Carotid artery occlusion,res50: stroke,diagnostic
+Read,G633.00,Multiple and bilateral precerebral arterial occlusion,res50: stroke,diagnostic
+Read,G614.00,Pontine haemorrhage,res50: stroke,diagnostic
+Read,G61X000,"Left sided intracerebral haemorrhage, unspecified",res50: stroke,diagnostic
+Read,G61X100,"Right sided intracerebral haemorrhage, unspecified",res50: stroke,diagnostic
+Read,G618.00,"Intracerebral haemorrhage, multiple localized",res50: stroke,diagnostic
+Read,G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified",res50: stroke,diagnostic
+Read,G6...00,Cerebrovascular disease,res50: stroke,diagnostic
+Read,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,res50: stroke,diagnostic
+Read,G612.00,Basal nucleus haemorrhage,res50: stroke,diagnostic
+Read,G60z.00,Subarachnoid haemorrhage NOS,res50: stroke,diagnostic
+Read,G605.00,Subarachnoid haemorrhage from basilar artery,res50: stroke,diagnostic
+Read,G604.00,Subarachnoid haemorrhage from posterior communicating artery,res50: stroke,diagnostic
+Read,G602.00,Subarachnoid haemorrhage from middle cerebral artery,res50: stroke,diagnostic
+Read,G601.00,Subarachnoid haemorrhage from carotid siphon and bifurcation,res50: stroke,diagnostic

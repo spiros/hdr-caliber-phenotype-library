@@ -1,0 +1,35 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu92.00,[x]mixed disorders of conduct and emotions,res59: Conduct_disorder,diagnostic
+Read,Eu92z00,"[x]mixed disorder of conduct and emotions, unspecified",res59: Conduct_disorder,diagnostic
+Read,Eu92000,[x]depressive conduct disorder,res59: Conduct_disorder,diagnostic
+Read,Eu91100,[x]unsocialized conduct disorder,res59: Conduct_disorder,diagnostic
+Read,E284.00,stress reaction causing mixed disturbance of emotion/conduct,res59: Conduct_disorder,diagnostic
+Read,Eu92y11,[x]conduct disorder associated with emotional disorder,res59: Conduct_disorder,diagnostic
+Read,Eu91z12,[x]childhood conduct disorder nos,res59: Conduct_disorder,diagnostic
+Read,E2E2.00,Hyperkinetic conduct disorder,res59: Conduct_disorder,diagnostic
+Read,Eu91300,[X]Oppositional defiant disorder,res59: Conduct_disorder,diagnostic
+Read,Eu90111,[X]Hyperkinetic disorder associated with conduct disorder,res59: Conduct_disorder,diagnostic
+Read,Eu90100,[X]Hyperkinetic conduct disorder,res59: Conduct_disorder,diagnostic
+Read,Eu91z11,[X]Childhood behavioural disorder NOS,res59: Conduct_disorder,diagnostic
+Read,Eu92y12,[x]conduct disorder associated with neurotic disorder,res59: Conduct_disorder,diagnostic
+Read,E2C4z00,mixed disturbance of conduct and emotion nos,res59: Conduct_disorder,diagnostic
+Read,Eu91000,[x]conduct disorder confined to the family context,res59: Conduct_disorder,diagnostic
+Read,Eu91.00,[x]conduct disorders,res59: Conduct_disorder,diagnostic
+Read,Eu91111,"[x]conduct disorder, solitary aggressive type",res59: Conduct_disorder,diagnostic
+Read,Eu91z00,"[x]conduct disorder, unspecified",res59: Conduct_disorder,diagnostic
+Read,Eu91200,[x]socialized conduct disorder,res59: Conduct_disorder,diagnostic
+Read,E2C4.00,mixed disturbance of conduct and emotion,res59: Conduct_disorder,diagnostic
+Read,Eu92y00,[x]other mixed disorders of conduct and emotions,res59: Conduct_disorder,diagnostic
+Read,Eu91y00,[x]other conduct disorders,res59: Conduct_disorder,diagnostic
+Read,E2Czz00,disturbance of conduct nos,res59: Conduct_disorder,diagnostic
+Read,E2C0z00,aggressive unsocial conduct disorder nos,res59: Conduct_disorder,diagnostic
+Read,E2C0.00,aggressive unsocial conduct disorder,res59: Conduct_disorder,diagnostic
+Read,E2Dy000,childhood and adolescent oppositional disorder,res59: Conduct_disorder,diagnostic
+Read,E2C..00,disturbance of conduct nec,res59: Conduct_disorder,diagnostic
+Read,E2Cy.00,other conduct disturbances,res59: Conduct_disorder,diagnostic
+Read,E2C2z00,socialised conduct disorder nos,res59: Conduct_disorder,diagnostic
+Read,E2C1z00,nonaggressive unsocial conduct disorder nos,res59: Conduct_disorder,diagnostic
+Read,E2C1.00,nonaggressive unsocial conduct disorder,res59: Conduct_disorder,diagnostic
+Read,E2Cyz00,other conduct disturbances nos,res59: Conduct_disorder,diagnostic
+Read,E2C2.00,socialised conduct disorder,res59: Conduct_disorder,diagnostic
+Read,E2Cz.00,unspecified disturbance of conduct,res59: Conduct_disorder,diagnostic

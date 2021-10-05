@@ -1,0 +1,28 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,1372,Trivial smoker - < 1 cig/day,res25: P18_current_smoker,diagnostic
+Read,1376,Very heavy smoker - 40+cigs/d,res25: P18_current_smoker,diagnostic
+Read,1372.11,Occasional smoker,res25: P18_current_smoker,diagnostic
+Read,1373,Light smoker - 1-9 cigs/day,res25: P18_current_smoker,diagnostic
+Read,1375,Heavy smoker - 20-39 cigs/day,res25: P18_current_smoker,diagnostic
+Read,1374,Moderate smoker - 10-19 cigs/d,res25: P18_current_smoker,diagnostic
+Read,137P.00,Cigarette smoker,res25: P18_current_smoker,diagnostic
+Read,137b.00,Ready to stop smoking,res25: P18_current_smoker,diagnostic
+Read,137..11,Smoker - amount smoked,res25: P18_current_smoker,diagnostic
+Read,137D.00,Admitted tobacco cons untrue ?,res25: P18_current_smoker,diagnostic
+Read,137m.00,Failed attempt to stop smoking,res25: P18_current_smoker,diagnostic
+Read,137c.00,Thinking about stopping smoking,res25: P18_current_smoker,diagnostic
+Read,137C.00,Keeps trying to stop smoking,res25: P18_current_smoker,diagnostic
+Read,137M.00,Rolls own cigarettes,res25: P18_current_smoker,diagnostic
+Read,137e.00,Smoking restarted,res25: P18_current_smoker,diagnostic
+Read,137h.00,Minutes from waking to first tobacco consumption,res25: P18_current_smoker,diagnostic
+Read,137H.00,Pipe smoker,res25: P18_current_smoker,diagnostic
+Read,137G.00,Trying to give up smoking,res25: P18_current_smoker,diagnostic
+Read,137P.11,Smoker,res25: P18_current_smoker,diagnostic
+Read,137J.00,Cigar smoker,res25: P18_current_smoker,diagnostic
+Read,137V.00,Smoking reduced,res25: P18_current_smoker,diagnostic
+Read,137R.00,Current smoker,res25: P18_current_smoker,diagnostic
+Read,137Q.00,Smoking started,res25: P18_current_smoker,diagnostic
+Read,137Q.11,Smoking restarted,res25: P18_current_smoker,diagnostic
+Read,137Z.00,Tobacco consumption NOS,res25: P18_current_smoker,diagnostic
+Read,137X.00,Cigarette consumption,res25: P18_current_smoker,diagnostic
+Read,137Y.00,Cigar consumption,res25: P18_current_smoker,diagnostic

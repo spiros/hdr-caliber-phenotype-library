@@ -1,0 +1,61 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B5751,Secondary malignant neoplasm of rectum,res17: Colorectal cancer,diagnostic
+Read,B131,Malignant neoplasm of transverse colon,res17: Colorectal cancer,diagnostic
+Read,B575,Secondary malignant neoplasm of large intestine and rectum,res17: Colorectal cancer,diagnostic
+Read,B130,Malignant neoplasm of hepatic flexure of colon,res17: Colorectal cancer,diagnostic
+Read,B14z-99,Ca rectum + Ca anus NOS,res17: Colorectal cancer,diagnostic
+Read,B134-1,Carcinoma of caecum,res17: Colorectal cancer,diagnostic
+Read,B133-99,Ca sigmoid colon,res17: Colorectal cancer,diagnostic
+Read,B132,Malignant neoplasm of descending colon,res17: Colorectal cancer,diagnostic
+Read,B13y,Malignant neoplasm of other specified sites of colon,res17: Colorectal cancer,diagnostic
+Read,B137,Malignant neoplasm of splenic flexure of colon,res17: Colorectal cancer,diagnostic
+Read,B140,Malignant neoplasm of rectosigmoid junction,res17: Colorectal cancer,diagnostic
+Read,B14z,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS",res17: Colorectal cancer,diagnostic
+Read,B1420,Malignant neoplasm of cloacogenic zone,res17: Colorectal cancer,diagnostic
+Read,B141-2,Rectal carcinoma,res17: Colorectal cancer,diagnostic
+Read,B141-1,Carcinoma of rectum,res17: Colorectal cancer,diagnostic
+Read,B8031,Carcinoma in situ of transverse colon,res17: Colorectal cancer,diagnostic
+Read,B803,Carcinoma in situ of colon,res17: Colorectal cancer,diagnostic
+Read,B803z,Carcinoma in situ of colon NOS,res17: Colorectal cancer,diagnostic
+Read,B8038,High grade dysplasia of colon,res17: Colorectal cancer,diagnostic
+Read,B8037,Carcinoma in situ of splenic flexure of colon,res17: Colorectal cancer,diagnostic
+Read,B8033,Carcinoma in situ of sigmoid colon,res17: Colorectal cancer,diagnostic
+Read,B804,Carcinoma in situ of rectum and rectosigmoid junction,res17: Colorectal cancer,diagnostic
+Read,B8041,Carcinoma in situ of rectum,res17: Colorectal cancer,diagnostic
+Read,B902,"Neop of uncertain behaviour stomach, intestines and rectum",res17: Colorectal cancer,diagnostic
+Read,B804z,Carcinoma in situ of rectum or rectosigmoid junction NOS,res17: Colorectal cancer,diagnostic
+Read,EGTON2B152,Cause of Death- Ca Rectum,res17: Colorectal cancer,diagnostic
+Read,BB5N,[M]Adenomatous and adenocarcinomatous polyps of colon,res17: Colorectal cancer,diagnostic
+Read,HNG0201,[RFC] Cancer of the rectum,res17: Colorectal cancer,diagnostic
+Read,B14-99,Ca rectum + Ca anus,res17: Colorectal cancer,diagnostic
+Read,B13,Malignant neoplasm of colon,res17: Colorectal cancer,diagnostic
+Read,B130-99,Ca hepatic flexure - colon,res17: Colorectal cancer,diagnostic
+Read,B131-99,Ca transverse colon,res17: Colorectal cancer,diagnostic
+Read,B133,Malignant neoplasm of sigmoid colon,res17: Colorectal cancer,diagnostic
+Read,B134,Malignant neoplasm of caecum,res17: Colorectal cancer,diagnostic
+Read,B135,Malignant neoplasm of appendix,res17: Colorectal cancer,diagnostic
+Read,B136,Malignant neoplasm of ascending colon,res17: Colorectal cancer,diagnostic
+Read,B136-99,Ca ascending colon,res17: Colorectal cancer,diagnostic
+Read,B137-99,Ca splenic flexure - colon,res17: Colorectal cancer,diagnostic
+Read,B138,"Malignant neoplasm, overlapping lesion of colon",res17: Colorectal cancer,diagnostic
+Read,B139,Hereditary nonpolyposis colon cancer,res17: Colorectal cancer,diagnostic
+Read,B13z,Malignant neoplasm of colon NOS,res17: Colorectal cancer,diagnostic
+Read,B13z-1,Colonic cancer,res17: Colorectal cancer,diagnostic
+Read,B14,"Malignant neoplasm of rectum, rectosigmoid junction and anus",res17: Colorectal cancer,diagnostic
+Read,B140-99,Ca rectosigmoid junction,res17: Colorectal cancer,diagnostic
+Read,B141,Malignant neoplasm of rectum,res17: Colorectal cancer,diagnostic
+Read,B141-99,Adenocarcinoma of rectum,res17: Colorectal cancer,diagnostic
+Read,B143,Malignant neoplasm of anus unspecified,res17: Colorectal cancer,diagnostic
+Read,B1z0-1,Cancer of bowel,res17: Colorectal cancer,diagnostic
+Read,B5750,Secondary malignant neoplasm of colon,res17: Colorectal cancer,diagnostic
+Read,B575z,Secondary malig neop of large intestine or rectum NOS,res17: Colorectal cancer,diagnostic
+Read,B8030,Carcinoma in situ of hepatic flexure of colon,res17: Colorectal cancer,diagnostic
+Read,B8032,Carcinoma in situ of descending colon,res17: Colorectal cancer,diagnostic
+Read,B8036,Carcinoma in situ of ascending colon,res17: Colorectal cancer,diagnostic
+Read,B8040,Carcinoma in situ of rectosigmoid junction,res17: Colorectal cancer,diagnostic
+Read,B9024,Neoplasm of uncertain behaviour of colon,res17: Colorectal cancer,diagnostic
+Read,B9025,Neoplasm of uncertain behaviour of rectum,res17: Colorectal cancer,diagnostic
+Read,B902z,"Neop of uncertain behaviour stomach, intestine or rectum NOS",res17: Colorectal cancer,diagnostic
+Read,EMISNQHE41,Hereditary nonpolyposis colon cancer,res17: Colorectal cancer,diagnostic
+Read,B14y,"Malig neop other site rectum, rectosigmoid junction and anus",res17: Colorectal cancer,diagnostic
+Read,B132-99,Ca descending colon,res17: Colorectal cancer,diagnostic

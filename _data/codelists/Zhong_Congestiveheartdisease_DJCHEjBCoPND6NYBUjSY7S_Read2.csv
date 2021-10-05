@@ -1,0 +1,48 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G580.00,Congestive heart failure,res50: congestive heart disease,diagnostic
+Read,8CL3.00,Heart failure care plan discussed with patient,res50: congestive heart disease,diagnostic
+Read,G234.00,Hyperten heart&renal dis+both(congestv)heart and renal fail,res50: congestive heart disease,diagnostic
+Read,G58..11,Cardiac failure,res50: congestive heart disease,diagnostic
+Read,8B29.00,Cardiac failure therapy,res50: congestive heart disease,diagnostic
+Read,14A6.00,H/O: heart failure,res50: congestive heart disease,diagnostic
+Read,585k.00,Echocardiogram shows normal left ventricular function,res50: congestive heart disease,diagnostic
+Read,1O1..00,Heart failure confirmed,res50: congestive heart disease,diagnostic
+Read,14AM.00,H/O: Heart failure in last year,res50: congestive heart disease,diagnostic
+Read,585g.00,Echocardiogram shows left ventricular diastolic dysfunction,res50: congestive heart disease,diagnostic
+Read,33BA.00,Impaired left ventricular function,res50: congestive heart disease,diagnostic
+Read,585f.00,Echocardiogram shows left ventricular systolic dysfunction,res50: congestive heart disease,diagnostic
+Read,8CeC.00,Preferred place of care for next exacerbation heart failure,res50: congestive heart disease,diagnostic
+Read,8CMW800,Heart failure clinical pathway,res50: congestive heart disease,diagnostic
+Read,8CMK.00,Has heart failure management plan,res50: congestive heart disease,diagnostic
+Read,8H2S.00,Admit heart failure emergency,res50: congestive heart disease,diagnostic
+Read,G232.00,Hypertensive heart&renal dis wth (congestive) heart failure,res50: congestive heart disease,diagnostic
+Read,G58..00,Heart failure,res50: congestive heart disease,diagnostic
+Read,G575100,"Sudden cardiac death, so described",res50: congestive heart disease,diagnostic
+Read,G575.11,Cardio-respiratory arrest,res50: congestive heart disease,diagnostic
+Read,G580.13,Right ventricular failure,res50: congestive heart disease,diagnostic
+Read,G580.12,Right heart failure,res50: congestive heart disease,diagnostic
+Read,G580.11,Congestive cardiac failure,res50: congestive heart disease,diagnostic
+Read,G583.00,Heart failure with normal ejection fraction,res50: congestive heart disease,diagnostic
+Read,G580.14,Biventricular failure,res50: congestive heart disease,diagnostic
+Read,G582.00,Acute heart failure,res50: congestive heart disease,diagnostic
+Read,G580000,Acute congestive heart failure,res50: congestive heart disease,diagnostic
+Read,G581000,Acute left ventricular failure,res50: congestive heart disease,diagnostic
+Read,G580300,Compensated cardiac failure,res50: congestive heart disease,diagnostic
+Read,G580100,Chronic congestive heart failure,res50: congestive heart disease,diagnostic
+Read,G580200,Decompensated cardiac failure,res50: congestive heart disease,diagnostic
+Read,G581.13,Impaired left ventricular function,res50: congestive heart disease,diagnostic
+Read,G580400,Congestive heart failure due to valvular disease,res50: congestive heart disease,diagnostic
+Read,G581.00,Left ventricular failure,res50: congestive heart disease,diagnostic
+Read,G583.11,HFNEF - heart failure with normal ejection fraction,res50: congestive heart disease,diagnostic
+Read,G583.12,Heart failure with preserved ejection fraction,res50: congestive heart disease,diagnostic
+Read,G5yyA00,Left ventricular diastolic dysfunction,res50: congestive heart disease,diagnostic
+Read,G5y4z00,Post cardiac operation heart failure NOS,res50: congestive heart disease,diagnostic
+Read,G584.00,Right ventricular failure,res50: congestive heart disease,diagnostic
+Read,G58z.11,Weak heart,res50: congestive heart disease,diagnostic
+Read,G58z.00,Heart failure NOS,res50: congestive heart disease,diagnostic
+Read,G58z.12,Cardiac failure NOS,res50: congestive heart disease,diagnostic
+Read,G5yy900,Left ventricular systolic dysfunction,res50: congestive heart disease,diagnostic
+Read,Q48y100,Congenital cardiac failure,res50: congestive heart disease,diagnostic
+Read,SP11111,Heart failure as a complication of care,res50: congestive heart disease,diagnostic
+Read,Q490.00,Neonatal cardiac failure,res50: congestive heart disease,diagnostic
+Read,SP11100,Cardiac insufficiency as a complication of care,res50: congestive heart disease,diagnostic

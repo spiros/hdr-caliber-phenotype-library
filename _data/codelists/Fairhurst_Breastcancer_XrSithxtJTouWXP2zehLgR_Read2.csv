@@ -1,0 +1,49 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B34yz,Malignant neoplasm of other site of female breast NOS,res17: Breast cancer,diagnostic
+Read,B3501,Malignant neoplasm of areola of male breast,res17: Breast cancer,diagnostic
+Read,B34y,Malignant neoplasm of other site of female breast,res17: Breast cancer,diagnostic
+Read,B346,Malignant neoplasm of axillary tail of female breast,res17: Breast cancer,diagnostic
+Read,B346-99,Ca breast - axillary tail,res17: Breast cancer,diagnostic
+Read,B350,Malignant neoplasm of nipple and areola of male breast,res17: Breast cancer,diagnostic
+Read,B35zz,Malignant neoplasm of male breast NOS,res17: Breast cancer,diagnostic
+Read,B35,Malignant neoplasm of male breast,res17: Breast cancer,diagnostic
+Read,B34z,Malignant neoplasm of female breast NOS,res17: Breast cancer,diagnostic
+Read,B35z,Malignant neoplasm of other site of male breast,res17: Breast cancer,diagnostic
+Read,B8300,Lobular carcinoma in situ of breast,res17: Breast cancer,diagnostic
+Read,BA03,Neoplasm of unspecified nature of breast,res17: Breast cancer,diagnostic
+Read,B36,Local recurrence of malignant tumour of breast,res17: Breast cancer,diagnostic
+Read,B8301,Intraductal carcinoma in situ of breast,res17: Breast cancer,diagnostic
+Read,ZV103,[V]Personal history of malignant neoplasm of breast,res17: Breast cancer,diagnostic
+Read,Byu6,[X]Malignant neoplasm of breast,res17: Breast cancer,diagnostic
+Read,B340z,Malignant neoplasm of nipple or areola of female breast NOS,res17: Breast cancer,diagnostic
+Read,B34-98,Ca breast - NOS,res17: Breast cancer,diagnostic
+Read,B340,Malignant neoplasm of nipple and areola of female breast,res17: Breast cancer,diagnostic
+Read,B3400,Malignant neoplasm of nipple of female breast,res17: Breast cancer,diagnostic
+Read,B342,Malignant neoplasm of upper-inner quadrant of female breast,res17: Breast cancer,diagnostic
+Read,B343,Malignant neoplasm of lower-inner quadrant of female breast,res17: Breast cancer,diagnostic
+Read,B344,Malignant neoplasm of upper-outer quadrant of female breast,res17: Breast cancer,diagnostic
+Read,B345,Malignant neoplasm of lower-outer quadrant of female breast,res17: Breast cancer,diagnostic
+Read,B347,"Malignant neoplasm, overlapping lesion of breast",res17: Breast cancer,diagnostic
+Read,B34y0,Malignant neoplasm of ectopic site of female breast,res17: Breast cancer,diagnostic
+Read,B34z-99,Ca breast - NOS,res17: Breast cancer,diagnostic
+Read,B35-99,Ca breast - male,res17: Breast cancer,diagnostic
+Read,B3500,Malignant neoplasm of nipple of male breast,res17: Breast cancer,diagnostic
+Read,B350z,Malignant neoplasm of nipple or areola of male breast NOS,res17: Breast cancer,diagnostic
+Read,B35z0,Malignant neoplasm of ectopic site of male breast,res17: Breast cancer,diagnostic
+Read,B58y0,Secondary malignant neoplasm of breast,res17: Breast cancer,diagnostic
+Read,B933,Neoplasm of uncertain behaviour of breast,res17: Breast cancer,diagnostic
+Read,BB94-1,[M]Secretory breast carcinoma,res17: Breast cancer,diagnostic
+Read,HNG0190,[RFC] Breast cancer,res17: Breast cancer,diagnostic
+Read,B34,Malignant neoplasm of female breast,res17: Breast cancer,diagnostic
+Read,EMISNQLO13,Local recurrence of malignant tumour of breast,res17: Breast cancer,diagnostic
+Read,B345-99,"Ca breast-lower,outer quadrant",res17: Breast cancer,diagnostic
+Read,B830,Carcinoma in situ of breast,res17: Breast cancer,diagnostic
+Read,B830-99,Carcinoma in situ breast,res17: Breast cancer,diagnostic
+Read,B343-99,"Ca breast-lower,inner quadrant",res17: Breast cancer,diagnostic
+Read,B344-99,"Ca breast-upper,outer quadrant",res17: Breast cancer,diagnostic
+Read,B342-99,"Ca breast-upper,inner quadrant",res17: Breast cancer,diagnostic
+Read,B34-1,Ca female breast,res17: Breast cancer,diagnostic
+Read,B3401,Malignant neoplasm of areola of female breast,res17: Breast cancer,diagnostic
+Read,B34-99,Carcinoma breast,res17: Breast cancer,diagnostic
+Read,B341,Malignant neoplasm of central part of female breast,res17: Breast cancer,diagnostic
+Read,B340-99,Ca breast - nipple/central,res17: Breast cancer,diagnostic

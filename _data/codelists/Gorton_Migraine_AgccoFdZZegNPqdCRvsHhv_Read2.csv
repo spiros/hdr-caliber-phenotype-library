@@ -1,0 +1,30 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,R090D00,[D]Abdominal migraine,res55: migraine,diagnostic
+Read,1967.00,Abdominal migraine - symptom,res55: migraine,diagnostic
+Read,Fyu5300,[X]Other migraine,res55: migraine,diagnostic
+Read,1474.00,H/O: migraine,res55: migraine,diagnostic
+Read,F261.11,Migraine without aura,res55: migraine,diagnostic
+Read,F261000,Atypical migraine,res55: migraine,diagnostic
+Read,F26..00,Migraine,res55: migraine,diagnostic
+Read,8B6N.00,Migraine prophylaxis,res55: migraine,diagnostic
+Read,1474000,H/O migraine with aura,res55: migraine,diagnostic
+Read,F260.11,Migraine with aura,res55: migraine,diagnostic
+Read,F261.00,Common migraine,res55: migraine,diagnostic
+Read,F260.00,Classical migraine,res55: migraine,diagnostic
+Read,F261z00,Common migraine NOS,res55: migraine,diagnostic
+Read,F262300,Basilar migraine,res55: migraine,diagnostic
+Read,F262.00,Migraine variants,res55: migraine,diagnostic
+Read,F262400,Ophthalmic migraine,res55: migraine,diagnostic
+Read,F26y100,Ophthalmoplegic migraine,res55: migraine,diagnostic
+Read,F26z.00,Migraine NOS,res55: migraine,diagnostic
+Read,F262z00,Migraine variant NOS,res55: migraine,diagnostic
+Read,F26y000,Hemiplegic migraine,res55: migraine,diagnostic
+Read,F262500,Periodic migrainous neuralgia,res55: migraine,diagnostic
+Read,F262800,Migraine induced by oestrogen contraceptive,res55: migraine,diagnostic
+Read,F26y.00,Other forms of migraine,res55: migraine,diagnostic
+Read,F262200,Abdominal migraine,res55: migraine,diagnostic
+Read,F26y111,Moebius' ophthalmoplegic migraine,res55: migraine,diagnostic
+Read,F26y200,Status migrainosus,res55: migraine,diagnostic
+Read,F26y300,Complicated migraine,res55: migraine,diagnostic
+Read,F26yz00,Other forms of migraine NOS,res55: migraine,diagnostic
+Read,K584.11,Migraine - menstrual,res55: migraine,diagnostic

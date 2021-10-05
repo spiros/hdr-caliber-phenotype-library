@@ -1,0 +1,74 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,342 E,PARKINSONIAN EPILEPSY,res26: Epilepsy,diagnostic
+OXMIS,3453AT,EPILEPSY AUTOMATISM,res26: Epilepsy,diagnostic
+OXMIS,3459AB,ABDOMEN CONVULSIVE EQUIVALENT (EPILEPSY),res26: Epilepsy,diagnostic
+OXMIS,3451,GRAND MAL EPILEPSY,res26: Epilepsy,diagnostic
+OXMIS,3459N,NOCTURNAL EPILEPSY,res26: Epilepsy,diagnostic
+OXMIS,3453T,TEMPORAL LOBE EPILEPSY,res26: Epilepsy,diagnostic
+OXMIS,3459BA,IDOPATHIC EPILEPSY,res26: Epilepsy,diagnostic
+OXMIS,3450,EPILEPSY NONCONVULSIVE GENERALIZED,res26: Epilepsy,diagnostic
+OXMIS,3453P,EPILEPSY PERIPHERAL,res26: Epilepsy,diagnostic
+OXMIS,3459A,POST-TRAUMATIC EPILEPSY,res26: Epilepsy,diagnostic
+OXMIS,3459D,ISCHAEMIC EPILEPSY,res26: Epilepsy,diagnostic
+OXMIS,2932,PSYCHOSIS EPILEPTIC,res26: Epilepsy,diagnostic
+OXMIS,3032EP,EPILEPSY ALCOHOLIC,res26: Epilepsy,diagnostic
+Read,F25y000,Cursive (running) epilepsy,res26: Epilepsy,diagnostic
+Read,F251200,Epileptic seizures - clonic,res26: Epilepsy,diagnostic
+Read,F255400,Visual reflex epilepsy,res26: Epilepsy,diagnostic
+Read,F251011,Tonic-clonic epilepsy,res26: Epilepsy,diagnostic
+Read,F25D.00,Menstrual epilepsy,res26: Epilepsy,diagnostic
+Read,F254100,Psychomotor epilepsy,res26: Epilepsy,diagnostic
+Read,F254300,Limbic system epilepsy,res26: Epilepsy,diagnostic
+Read,F250200,Epileptic seizures - atonic,res26: Epilepsy,diagnostic
+Read,F25y400,Benign Rolandic epilepsy,res26: Epilepsy,diagnostic
+Read,F251400,Epileptic seizures - tonic,res26: Epilepsy,diagnostic
+Read,F253.00,Grand mal status,res26: Epilepsy,diagnostic
+Read,F251300,Epileptic seizures - myoclonic,res26: Epilepsy,diagnostic
+Read,667B.00,Nocturnal epilepsy,res26: Epilepsy,diagnostic
+Read,F251000,Grand mal (major) epilepsy,res26: Epilepsy,diagnostic
+Read,F25..00,Epilepsy,res26: Epilepsy,diagnostic
+Read,SC20000,Traumatic epilepsy,res26: Epilepsy,diagnostic
+Read,F250011,Epileptic absences,res26: Epilepsy,diagnostic
+Read,F253.11,Status epilepticus,res26: Epilepsy,diagnostic
+Read,F250000,Petit mal (minor) epilepsy,res26: Epilepsy,diagnostic
+Read,F254000,Temporal lobe epilepsy,res26: Epilepsy,diagnostic
+Read,F255500,Unilateral epilepsy,res26: Epilepsy,diagnostic
+Read,F250300,Epileptic seizures - akinetic,res26: Epilepsy,diagnostic
+Read,F251500,Tonic-clonic epilepsy,res26: Epilepsy,diagnostic
+Read,F25X.00,"Status epilepticus, unspecified",res26: Epilepsy,diagnostic
+Read,F255011,Focal epilepsy,res26: Epilepsy,diagnostic
+Read,F25F.00,Photosensitive epilepsy,res26: Epilepsy,diagnostic
+Read,F250.00,Generalised nonconvulsive epilepsy,res26: Epilepsy,diagnostic
+Read,F25z.00,Epilepsy NOS,res26: Epilepsy,diagnostic
+Read,F255000,"Jacksonian, focal or motor epilepsy",res26: Epilepsy,diagnostic
+Read,F25yz00,Other forms of epilepsy NOS,res26: Epilepsy,diagnostic
+Read,F252.00,Petit mal status,res26: Epilepsy,diagnostic
+Read,F25y200,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset,res26: Epilepsy,diagnostic
+Read,F255z00,Partial epilepsy without impairment of consciousness NOS,res26: Epilepsy,diagnostic
+Read,F25y300,Complex partial status epilepticus,res26: Epilepsy,diagnostic
+Read,F254500,Complex partial epileptic seizure,res26: Epilepsy,diagnostic
+Read,F255y00,Partial epilepsy without impairment of consciousness OS,res26: Epilepsy,diagnostic
+Read,F255.00,Partial epilepsy without impairment of consciousness,res26: Epilepsy,diagnostic
+Read,F251.00,Generalised convulsive epilepsy,res26: Epilepsy,diagnostic
+Read,F255012,Motor epilepsy,res26: Epilepsy,diagnostic
+Read,F254200,Psychosensory epilepsy,res26: Epilepsy,diagnostic
+Read,F254z00,Partial epilepsy with impairment of consciousness NOS,res26: Epilepsy,diagnostic
+Read,F250500,Lennox-Gastaut syndrome,res26: Epilepsy,diagnostic
+Read,F254400,Epileptic automatism,res26: Epilepsy,diagnostic
+Read,F254.00,Partial epilepsy with impairment of consciousness,res26: Epilepsy,diagnostic
+Read,F25E.00,Stress-induced epilepsy,res26: Epilepsy,diagnostic
+Read,F251z00,Generalised convulsive epilepsy NOS,res26: Epilepsy,diagnostic
+Read,F255200,Somatosensory epilepsy,res26: Epilepsy,diagnostic
+Read,F255600,Simple partial epileptic seizure,res26: Epilepsy,diagnostic
+Read,F132100,Progressive myoclonic epilepsy,res26: Epilepsy,diagnostic
+Read,F25y.00,Other forms of epilepsy,res26: Epilepsy,diagnostic
+Read,F250y00,Other specified generalised nonconvulsive epilepsy,res26: Epilepsy,diagnostic
+Read,F251y00,Other specified generalised convulsive epilepsy,res26: Epilepsy,diagnostic
+Read,F250z00,Generalised nonconvulsive epilepsy NOS,res26: Epilepsy,diagnostic
+Read,F25y100,Gelastic epilepsy,res26: Epilepsy,diagnostic
+Read,F255100,Sensory induced epilepsy,res26: Epilepsy,diagnostic
+Read,F251111,Otohara syndrome,res26: Epilepsy,diagnostic
+Read,F257.00,Kojevnikov's epilepsy,res26: Epilepsy,diagnostic
+Read,F255311,Partial epilepsy with autonomic symptoms,res26: Epilepsy,diagnostic
+Read,F255300,Visceral reflex epilepsy,res26: Epilepsy,diagnostic
+Read,F250100,Pykno-epilepsy,res26: Epilepsy,diagnostic

@@ -1,0 +1,82 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,299 B,DEMENTIA,res21: Dementia,diagnostic
+OXMIS,2901D,JACOB- CREUZFELDT DISEASE WITH DEMENTIA,res21: Dementia,diagnostic
+OXMIS,2900,SENILE DEMENTIA,res21: Dementia,diagnostic
+OXMIS,2901B,ALZHEIMER'S DISEASE,res21: Dementia,diagnostic
+OXMIS,2919,DEMENTIA ALCOHOLIC,res21: Dementia,diagnostic
+OXMIS,299 G,DEMENTIA AGGRESSIVE,res21: Dementia,diagnostic
+OXMIS,2930,DEMENTIA ARTERIOSCLEROTIC,res21: Dementia,diagnostic
+OXMIS,2901A,PRESENILE DEMENTIA,res21: Dementia,diagnostic
+Read,Eu02y00,[X]Dementia in other specified diseases classif elsewhere,res21: Dementia,diagnostic
+Read,F110000,Alzheimer's disease with early onset,res21: Dementia,diagnostic
+Read,Eu00013,[X]Alzheimer's disease type 2,res21: Dementia,diagnostic
+Read,E00y.00,Other senile and presenile organic psychoses,res21: Dementia,diagnostic
+Read,E00z.00,Senile or presenile psychoses NOS,res21: Dementia,diagnostic
+Read,Eu00112,"[X]Senile dementia,Alzheimer's type",res21: Dementia,diagnostic
+Read,Eu00100,[X]Dementia in Alzheimer's disease with late onset,res21: Dementia,diagnostic
+Read,Eu02.00,[X]Dementia in other diseases classified elsewhere,res21: Dementia,diagnostic
+Read,Eu00012,"[X]Primary degen dementia, Alzheimer's type, presenile onset",res21: Dementia,diagnostic
+Read,F110.00,Alzheimer's disease,res21: Dementia,diagnostic
+Read,E00..11,Senile dementia,res21: Dementia,diagnostic
+Read,E00..12,Senile/presenile dementia,res21: Dementia,diagnostic
+Read,E000.00,Uncomplicated senile dementia,res21: Dementia,diagnostic
+Read,E001z00,Presenile dementia NOS,res21: Dementia,diagnostic
+Read,Eu02z11,[X] Presenile dementia NOS,res21: Dementia,diagnostic
+Read,Eu01.00,[X]Vascular dementia,res21: Dementia,diagnostic
+Read,Eu02z00,[X] Unspecified dementia,res21: Dementia,diagnostic
+Read,Eu02z14,[X] Senile dementia NOS,res21: Dementia,diagnostic
+Read,F111.00,Pick's disease,res21: Dementia,diagnostic
+Read,Eu02500,[X]Lewy body dementia,res21: Dementia,diagnostic
+Read,Eu00z11,[X]Alzheimer's dementia unspec,res21: Dementia,diagnostic
+Read,Eu00.00,[X]Dementia in Alzheimer's disease,res21: Dementia,diagnostic
+Read,Eu01.11,[X]Arteriosclerotic dementia,res21: Dementia,diagnostic
+Read,F116.00,Lewy body disease,res21: Dementia,diagnostic
+Read,Eu00011,"[X]Presenile dementia,Alzheimer's type",res21: Dementia,diagnostic
+Read,E001.00,Presenile dementia,res21: Dementia,diagnostic
+Read,E041.00,Dementia in conditions EC,res21: Dementia,diagnostic
+Read,Eu01100,[X]Multi-infarct dementia,res21: Dementia,diagnostic
+Read,Eu02300,[X]Dementia in Parkinson's disease,res21: Dementia,diagnostic
+Read,Eu01200,[X]Subcortical vascular dementia,res21: Dementia,diagnostic
+Read,E002100,Senile dementia with depression,res21: Dementia,diagnostic
+Read,E004.11,Multi infarct dementia,res21: Dementia,diagnostic
+Read,E012000,Chronic alcoholic brain syndrome,res21: Dementia,diagnostic
+Read,E012.11,Alcoholic dementia NOS,res21: Dementia,diagnostic
+Read,F112.00,Senile degeneration of brain,res21: Dementia,diagnostic
+Read,Eu10711,[X]Alcoholic dementia NOS,res21: Dementia,diagnostic
+Read,E001300,Presenile dementia with depression,res21: Dementia,diagnostic
+Read,Eu00z00,"[X]Dementia in Alzheimer's disease, unspecified",res21: Dementia,diagnostic
+Read,Eu02z16,"[X] Senile dementia, depressed or paranoid type",res21: Dementia,diagnostic
+Read,Eu02000,[X]Dementia in Pick's disease,res21: Dementia,diagnostic
+Read,Eu02z15,[X] Senile psychosis NOS,res21: Dementia,diagnostic
+Read,Eu01300,[X]Mixed cortical and subcortical vascular dementia,res21: Dementia,diagnostic
+Read,E003.00,Senile dementia with delirium,res21: Dementia,diagnostic
+Read,Eu00200,"[X]Dementia in Alzheimer's dis, atypical or mixed type",res21: Dementia,diagnostic
+Read,E001200,Presenile dementia with paranoia,res21: Dementia,diagnostic
+Read,F110100,Alzheimer's disease with late onset,res21: Dementia,diagnostic
+Read,Eu02200,[X]Dementia in Huntington's disease,res21: Dementia,diagnostic
+Read,Eu02z13,[X] Primary degenerative dementia NOS,res21: Dementia,diagnostic
+Read,E00..00,Senile and presenile organic psychotic conditions,res21: Dementia,diagnostic
+Read,E004300,Arteriosclerotic dementia with depression,res21: Dementia,diagnostic
+Read,Eu02400,[X]Dementia in human immunodef virus [HIV] disease,res21: Dementia,diagnostic
+Read,Eu02z12,[X] Presenile psychosis NOS,res21: Dementia,diagnostic
+Read,E002.00,Senile dementia with depressive or paranoid features,res21: Dementia,diagnostic
+Read,E002z00,Senile dementia with depressive or paranoid features NOS,res21: Dementia,diagnostic
+Read,E004z00,Arteriosclerotic dementia NOS,res21: Dementia,diagnostic
+Read,E004000,Uncomplicated arteriosclerotic dementia,res21: Dementia,diagnostic
+Read,E001000,Uncomplicated presenile dementia,res21: Dementia,diagnostic
+Read,Eu00113,"[X]Primary degen dementia of Alzheimer's type, senile onset",res21: Dementia,diagnostic
+Read,Eu00111,[X]Alzheimer's disease type 1,res21: Dementia,diagnostic
+Read,Eu01000,[X]Vascular dementia of acute onset,res21: Dementia,diagnostic
+Read,Fyu3000,[X]Other Alzheimer's disease,res21: Dementia,diagnostic
+Read,Eu02100,[X]Dementia in Creutzfeldt-Jakob disease,res21: Dementia,diagnostic
+Read,Eu00000,[X]Dementia in Alzheimer's disease with early onset,res21: Dementia,diagnostic
+Read,E00y.11,Presbyophrenic psychosis,res21: Dementia,diagnostic
+Read,E001100,Presenile dementia with delirium,res21: Dementia,diagnostic
+Read,E012.00,Other alcoholic dementia,res21: Dementia,diagnostic
+Read,E004100,Arteriosclerotic dementia with delirium,res21: Dementia,diagnostic
+Read,Eu01111,[X]Predominantly cortical dementia,res21: Dementia,diagnostic
+Read,E004200,Arteriosclerotic dementia with paranoia,res21: Dementia,diagnostic
+Read,Eu01y00,[X]Other vascular dementia,res21: Dementia,diagnostic
+Read,E004.00,Arteriosclerotic dementia,res21: Dementia,diagnostic
+Read,E002000,Senile dementia with paranoia,res21: Dementia,diagnostic
+Read,Eu01z00,"[X]Vascular dementia, unspecified",res21: Dementia,diagnostic

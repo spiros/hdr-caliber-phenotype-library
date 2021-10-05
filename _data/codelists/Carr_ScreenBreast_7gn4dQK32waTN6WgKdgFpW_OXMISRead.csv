@@ -1,0 +1,51 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,L0010CB,SEEN IN MAMMOGRAPHY CLINIC,res22: screen_breast,test
+OXMIS,X9111,MAMMOGRAM NORMAL,res22: screen_breast,test
+OXMIS,Y060 E,BREAST SCREENING EXAMINATION,res22: screen_breast,test
+OXMIS,Y600 EN,BREAST SCREENING EXAMINATION NORMAL,res22: screen_breast,test
+OXMIS,L0010GB,REFERRED TO MAMMOGRAPHY CLINIC,res22: screen_breast,test
+OXMIS,X9111AB,MAMMOGRAM ABNORMAL,res22: screen_breast,test
+OXMIS,Y1000HB,BREAST SCREENING,res22: screen_breast,test
+OXMIS,X9110,MAMMOGRAM,res22: screen_breast,test
+Read,5861.00,Thermography - breast,res22: screen_breast,test
+Read,1A84.00,Breast lump detected by mammogram,res22: screen_breast,test
+Read,537..11,Mammography - X-ray,res22: screen_breast,test
+Read,5372.00,Mammography normal,res22: screen_breast,test
+Read,5374.00,Mammography offered,res22: screen_breast,test
+Read,537Z.00,Soft tissue X-ray breast NOS,res22: screen_breast,test
+Read,54L3.00,Mammary gland contrast radiog.,res22: screen_breast,test
+Read,54L3.11,Breast contrast radiog,res22: screen_breast,test
+Read,56B1.00,Specific mammary gland imaging,res22: screen_breast,test
+Read,585C.00,US scan of breast,res22: screen_breast,test
+Read,5861.11,Mammogram-thermographic,res22: screen_breast,test
+Read,6862Z00,Breast neoplasm screen NOS,res22: screen_breast,test
+Read,7P0F100,Thermography of breast,res22: screen_breast,test
+Read,7P0Fz00,Diagnostic imaging of breast NOS,res22: screen_breast,test
+Read,8HTI.00,Referral to breast clinic,res22: screen_breast,test
+Read,9N1y900,Seen in breast clinic,res22: screen_breast,test
+Read,9OHZ.00,Breast screening administr.NOS,res22: screen_breast,test
+Read,R138.00,[D]Breast imaging abnormal,res22: screen_breast,test
+Read,537..00,Soft tissue X-ray breast,res22: screen_breast,test
+Read,5371.00,Mammography requested,res22: screen_breast,test
+Read,1A82.00,Breast lump present,res22: screen_breast,test
+Read,1A81.00,No breast lump,res22: screen_breast,test
+Read,5373.00,Mammography abnormal,res22: screen_breast,test
+Read,9N0A.00,Seen in breast clinic,res22: screen_breast,test
+Read,6862.11,Mammography - screening,res22: screen_breast,test
+Read,5376.00,Mammography attended,res22: screen_breast,test
+Read,6862.00,Breast neoplasm screen,res22: screen_breast,test
+Read,54L3.12,Mammary contrast radiog,res22: screen_breast,test
+Read,6865.00,Breast neoplasm screen normal,res22: screen_breast,test
+Read,8HT8.00,Referral to mammography clinic,res22: screen_breast,test
+Read,6862100,Breast neoplasm screen abnorm,res22: screen_breast,test
+Read,6862000,Breast neoplasm screen normal,res22: screen_breast,test
+Read,7P0F.00,Diagnostic imaging of breast,res22: screen_breast,test
+Read,7P0Fy00,Other specified diagnostic imaging of breast,res22: screen_breast,test
+Read,7P0F200,Mammography,res22: screen_breast,test
+Read,7P0F000,Scintimammography,res22: screen_breast,test
+Read,9Oq8.00,Attended breast screening clinic,res22: screen_breast,test
+Read,9Np2.00,Seen in fast track suspected breast cancer clinic,res22: screen_breast,test
+Read,9OH9.00,Breast screen abnorm.-told pat,res22: screen_breast,test
+Read,R138000,[D]Mammogram abnormal,res22: screen_breast,test
+Read,R138z00,[D]Breast imaging abnormal NOS,res22: screen_breast,test
+Read,ZV76100,[V]Screening for malignant neoplasm of breast,res22: screen_breast,test

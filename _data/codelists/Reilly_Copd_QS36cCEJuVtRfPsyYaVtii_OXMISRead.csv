@@ -1,0 +1,49 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,491,CHRONIC BRONCHITIS,res26: COPD,diagnostic
+OXMIS,5199GP,COPD (CHRONIC OBSTRUCTIVE PULMONARY DISE,res26: COPD,diagnostic
+OXMIS,492,EMPHYSEMA PULMONARY,res26: COPD,diagnostic
+OXMIS,5199G,OBSTRUCTIVE AIRWAYS DISEASE CHRONIC,res26: COPD,diagnostic
+OXMIS,5199GL,COLD (CHRONIC OBSTRUCTIVE LUNG DISEASE),res26: COPD,diagnostic
+OXMIS,492 AC,EMPHYSEMA APICAL BULLAE,res26: COPD,diagnostic
+OXMIS,491 E,CHRONIC BRONCHITIS WITH EMPHYSEMA,res26: COPD,diagnostic
+Read,H32..00,Emphysema,res26: COPD,diagnostic
+Read,H3z..11,Chronic obstructive pulmonary disease NOS,res26: COPD,diagnostic
+Read,H312000,Chronic asthmatic bronchitis,res26: COPD,diagnostic
+Read,H3...00,Chronic obstructive pulmonary disease,res26: COPD,diagnostic
+Read,H31..00,Chronic bronchitis,res26: COPD,diagnostic
+Read,H32z.00,Emphysema NOS,res26: COPD,diagnostic
+Read,H37..00,Moderate chronic obstructive pulmonary disease,res26: COPD,diagnostic
+Read,H311.00,Mucopurulent chronic bronchitis,res26: COPD,diagnostic
+Read,H38..00,Severe chronic obstructive pulmonary disease,res26: COPD,diagnostic
+Read,H312011,Chronic wheezy bronchitis,res26: COPD,diagnostic
+Read,H322.00,Centrilobular emphysema,res26: COPD,diagnostic
+Read,H36..00,Mild chronic obstructive pulmonary disease,res26: COPD,diagnostic
+Read,H312.00,Obstructive chronic bronchitis,res26: COPD,diagnostic
+Read,H32yz00,Other emphysema NOS,res26: COPD,diagnostic
+Read,H312100,Emphysematous bronchitis,res26: COPD,diagnostic
+Read,H310000,Chronic catarrhal bronchitis,res26: COPD,diagnostic
+Read,H31z.00,Chronic bronchitis NOS,res26: COPD,diagnostic
+Read,H320.00,Chronic bullous emphysema,res26: COPD,diagnostic
+Read,H313.00,Mixed simple and mucopurulent chronic bronchitis,res26: COPD,diagnostic
+Read,H320z00,Chronic bullous emphysema NOS,res26: COPD,diagnostic
+Read,H312300,Bronchiolitis obliterans,res26: COPD,diagnostic
+Read,H310.00,Simple chronic bronchitis,res26: COPD,diagnostic
+Read,H32y200,MacLeod's unilateral emphysema,res26: COPD,diagnostic
+Read,H32y.00,Other emphysema,res26: COPD,diagnostic
+Read,H311000,Purulent chronic bronchitis,res26: COPD,diagnostic
+Read,H311100,Fetid chronic bronchitis,res26: COPD,diagnostic
+Read,H311z00,Mucopurulent chronic bronchitis NOS,res26: COPD,diagnostic
+Read,H321.00,Panlobular emphysema,res26: COPD,diagnostic
+Read,H31y100,Chronic tracheobronchitis,res26: COPD,diagnostic
+Read,H312z00,Obstructive chronic bronchitis NOS,res26: COPD,diagnostic
+Read,H310z00,Simple chronic bronchitis NOS,res26: COPD,diagnostic
+Read,H320000,Segmental bullous emphysema,res26: COPD,diagnostic
+Read,H320200,Giant bullous emphysema,res26: COPD,diagnostic
+Read,H32y111,Acute interstitial emphysema,res26: COPD,diagnostic
+Read,H31yz00,Other chronic bronchitis NOS,res26: COPD,diagnostic
+Read,H3y..11,Other specified chronic obstructive pulmonary disease,res26: COPD,diagnostic
+Read,H31y.00,Other chronic bronchitis,res26: COPD,diagnostic
+Read,H320100,Zonal bullous emphysema,res26: COPD,diagnostic
+Read,H32y100,Atrophic (senile) emphysema,res26: COPD,diagnostic
+Read,H32y000,Acute vesicular emphysema,res26: COPD,diagnostic
+Read,H320300,Bullous emphysema with collapse,res26: COPD,diagnostic

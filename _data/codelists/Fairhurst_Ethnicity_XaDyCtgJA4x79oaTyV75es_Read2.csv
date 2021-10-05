@@ -1,0 +1,131 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,226,O/E - ethnic group,res17: Ethnicity,test
+Read,9i2E,Gypsy/Romany - ethnic category 2001 census,res17: Ethnicity,test
+Read,9T6,Czech,res17: Ethnicity,test
+Read,9T8,Portuguese,res17: Ethnicity,test
+Read,226Z,O/E - ethnic group NOS,res17: Ethnicity,test
+Read,9i2C,Irish Traveller - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i,Ethnic category - 2001 census,res17: Ethnicity,test
+Read,916E,Patient ethnicity unknown,res17: Ethnicity,test
+Read,9i2A,Turkish Cypriot - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i28,Greek Cypriot - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i26,Cypriot (part not stated) - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i10,White Irish - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i00,White British - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i24,Northern Irish - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i20,English - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i22,Welsh - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iD4,Other Black or Black unspecified ethnic category 2001 census,res17: Ethnicity,test
+Read,9iD2,Black British - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iA3,East African Asian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i6,Other Mixed background - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2N,Serbian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2M,Croatian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2J,Kosovan - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i4,White and Black African - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2P,Other republics former Yugoslavia - ethnic categ 2001 census,res17: Ethnicity,test
+Read,9i2T,Other White or White unspecified ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2Q,Mixed Irish and other White - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iA1,Punjabi - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i60,Black and Asian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i8,Pakistani or British Pakistani - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i64,Asian and Chinese - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i7,Indian or British Indian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iA8,British Asian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iD1,Nigerian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iA6,Sinhalese - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iA4,Sri Lankan - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iB,Caribbean - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iD,Other Black background - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iC,African - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iFA,North African - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iF,Other - ethnic category 2001 census,res17: Ethnicity,test
+Read,9SA2,Brit. ethnic minor. unsp (NMO),res17: Ethnicity,test
+Read,9T4,Romanian,res17: Ethnicity,test
+Read,9iF3,Malaysian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iF8,Sikh - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iF1,Japanese - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iF4,Buddhist - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iF6,Jewish - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iFD,Iranian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9SA,Other ethnic non-mixed (NMO),res17: Ethnicity,test
+Read,9iFH,South and Central American - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iFF,Moroccan - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2L,Bosnian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9S12,Other white ethnic group,res17: Ethnicity,test
+Read,918t,Carer from Black and minority ethnic group,res17: Ethnicity,test
+Read,9iFK,Any other group - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iG,Ethnic category not stated - 2001 census,res17: Ethnicity,test
+Read,9T2,Traveller - gypsy,res17: Ethnicity,test
+Read,9T15,Cook Island Maori,res17: Ethnicity,test
+Read,9SG,Other black ethnic group,res17: Ethnicity,test
+Read,9SD,Ethnic group not given - patient refused,res17: Ethnicity,test
+Read,9T13,New Zealand Maori,res17: Ethnicity,test
+Read,9T,Ethnicity and other related nationality data,res17: Ethnicity,test
+Read,9SJ,Other ethnic group,res17: Ethnicity,test
+Read,9T12,Other European in New Zealand,res17: Ethnicity,test
+Read,9T11,New Zealand European,res17: Ethnicity,test
+Read,9T18,Tokelauan,res17: Ethnicity,test
+Read,9T1Z,New Zealand ethnic group NOS,res17: Ethnicity,test
+Read,9T16,Tongan,res17: Ethnicity,test
+Read,9T1A,Other Pacific ethnic group,res17: Ethnicity,test
+Read,9T1E,Other Asian,res17: Ethnicity,test
+Read,9T1C,Chinese,res17: Ethnicity,test
+Read,9T1B,South East Asian,res17: Ethnicity,test
+Read,EMISNQPO8,Portuguese,res17: Ethnicity,test
+Read,9T9,Nepali,res17: Ethnicity,test
+Read,226-1,O/E - ethnic origin,res17: Ethnicity,test
+Read,9i0,British or mixed British - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i1,Irish - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2,Other White background - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i21,Scottish - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i23,Cornish - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i25,Ulster Scots - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i29,Turkish - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2B,Italian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2D,Traveller - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2F,Polish - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2K,Albanian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i2S,Other mixed White - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i3,White and Black Caribbean - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i5,White and Asian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i61,Black and Chinese - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i62,Black and White - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i63,Chinese and White - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i65,Other Mixed or Mixed unspecified ethnic category 2001 census,res17: Ethnicity,test
+Read,9iA,Other Asian background - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iA2,Kashmiri - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iA5,Tamil - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iA7,Caribbean Asian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iA9,Mixed Asian - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iD0,Somali - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iD3,Mixed Black - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iE,Chinese - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iF0,Vietnamese - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iF2,Filipino - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iF5,Hindu - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iF7,Muslim - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iF9,Arab - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iFC,Israeli - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iFE,Kurdish - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iFG,Latin American - ethnic category 2001 census,res17: Ethnicity,test
+Read,9i27,Greek - ethnic category 2001 census,res17: Ethnicity,test
+Read,9iAA,Other Asian or Asian unspecified ethnic category 2001 census,res17: Ethnicity,test
+Read,9S,Ethnic groups (census),res17: Ethnicity,test
+Read,9S14,Other white British ethnic group,res17: Ethnicity,test
+Read,9SA1,Brit. ethnic minor. spec.(NMO),res17: Ethnicity,test
+Read,9SAD,Other ethnic NEC (NMO),res17: Ethnicity,test
+Read,9SE,Ethnic group not recorded,res17: Ethnicity,test
+Read,9SH,Other Asian ethnic group,res17: Ethnicity,test
+Read,9SZ,Ethnic groups (census) NOS,res17: Ethnicity,test
+Read,9T1,New Zealand ethnic groups,res17: Ethnicity,test
+Read,9T11-1,Pakeha,res17: Ethnicity,test
+Read,9T14,Samoan,res17: Ethnicity,test
+Read,9T17,Niuean,res17: Ethnicity,test
+Read,9T19,Fijian,res17: Ethnicity,test
+Read,9T1D,Indian,res17: Ethnicity,test
+Read,9T1Y,Other New Zealand ethnic group,res17: Ethnicity,test
+Read,9T3,Yemeni,res17: Ethnicity,test
+Read,9T5,Bulgarian,res17: Ethnicity,test
+Read,9T7,Slovak,res17: Ethnicity,test
+Read,EMISNQBR14,Brazilian,res17: Ethnicity,test

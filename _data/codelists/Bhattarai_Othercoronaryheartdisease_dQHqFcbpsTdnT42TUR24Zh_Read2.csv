@@ -1,0 +1,60 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,9Ob0.00,Attends coronary heart disease monitoring,res12: Other Coronary Heart Disease,diagnostic
+Read,G31..00,Other acute and subacute ischaemic heart disease,res12: Other Coronary Heart Disease,diagnostic
+Read,G340.11,Triple vessel disease of the heart,res12: Other Coronary Heart Disease,diagnostic
+Read,8B3k.00,Coronary heart disease medication review,res12: Other Coronary Heart Disease,diagnostic
+Read,14A..00,H/O: cardiovascular disease,res12: Other Coronary Heart Disease,diagnostic
+Read,8B63.11,Aspirin prophylaxis - IHD,res12: Other Coronary Heart Disease,diagnostic
+Read,6A2..00,Coronary heart disease annual review,res12: Other Coronary Heart Disease,diagnostic
+Read,G3...13,IHD - Ischaemic heart disease,res12: Other Coronary Heart Disease,diagnostic
+Read,G340.00,Coronary atherosclerosis,res12: Other Coronary Heart Disease,diagnostic
+Read,6A4..00,Coronary heart disease review,res12: Other Coronary Heart Disease,diagnostic
+Read,792..00,Coronary artery operations,res12: Other Coronary Heart Disease,diagnostic
+Read,G3...11,Arteriosclerotic heart disease,res12: Other Coronary Heart Disease,diagnostic
+Read,G34..00,Other chronic ischaemic heart disease,res12: Other Coronary Heart Disease,diagnostic
+Read,G332.00,Coronary artery spasm,res12: Other Coronary Heart Disease,diagnostic
+Read,322..00,ECG: myocardial ischaemia,res12: Other Coronary Heart Disease,diagnostic
+Read,5543,Coronary arteriograph.abnormal,res12: Other Coronary Heart Disease,diagnostic
+Read,G37..00,Cardiac syndrome X,res12: Other Coronary Heart Disease,diagnostic
+Read,792B000,Endarterectomy of coronary artery NEC,res12: Other Coronary Heart Disease,diagnostic
+Read,ZV45K00,[V]Presence of coronary artery bypass graft,res12: Other Coronary Heart Disease,diagnostic
+Read,G34z000,Asymptomatic coronary heart disease,res12: Other Coronary Heart Disease,diagnostic
+Read,G3y..00,Other specified ischaemic heart disease,res12: Other Coronary Heart Disease,diagnostic
+Read,792A.00,Diagnostic transluminal operations on coronary artery,res12: Other Coronary Heart Disease,diagnostic
+Read,14A3.00,H/O: myocardial infarct <60,res12: Other Coronary Heart Disease,diagnostic
+Read,14AH.00,H/O: Myocardial infarction in last year,res12: Other Coronary Heart Disease,diagnostic
+Read,ZV45800,[V]Presence of coronary angioplasty implant and graft,res12: Other Coronary Heart Disease,diagnostic
+Read,G341000,Ventricular cardiac aneurysm,res12: Other Coronary Heart Disease,diagnostic
+Read,G341100,Other cardiac wall aneurysm,res12: Other Coronary Heart Disease,diagnostic
+Read,792Ay00,Diagnostic transluminal operation on coronary artery OS,res12: Other Coronary Heart Disease,diagnostic
+Read,G34y000,Chronic coronary insufficiency,res12: Other Coronary Heart Disease,diagnostic
+Read,G341.11,Cardiac aneurysm,res12: Other Coronary Heart Disease,diagnostic
+Read,G341.00,Aneurysm of heart,res12: Other Coronary Heart Disease,diagnostic
+Read,792B.00,Repair of coronary artery NEC,res12: Other Coronary Heart Disease,diagnostic
+Read,7927z00,Other open operation on coronary artery NOS,res12: Other Coronary Heart Disease,diagnostic
+Read,G3...00,Ischaemic heart disease,res12: Other Coronary Heart Disease,diagnostic
+Read,G340.12,Coronary artery disease,res12: Other Coronary Heart Disease,diagnostic
+Read,G3z..00,Ischaemic heart disease NOS,res12: Other Coronary Heart Disease,diagnostic
+Read,G340000,Single coronary vessel disease,res12: Other Coronary Heart Disease,diagnostic
+Read,G340100,Double coronary vessel disease,res12: Other Coronary Heart Disease,diagnostic
+Read,7927500,Open angioplasty of coronary artery,res12: Other Coronary Heart Disease,diagnostic
+Read,SP07600,Coronary artery bypass graft occlusion,res12: Other Coronary Heart Disease,diagnostic
+Read,Gyu3.00,[X]Ischaemic heart diseases,res12: Other Coronary Heart Disease,diagnostic
+Read,ZV45K11,[V]Presence of coronary artery bypass graft - CABG,res12: Other Coronary Heart Disease,diagnostic
+Read,G3...12,Atherosclerotic heart disease,res12: Other Coronary Heart Disease,diagnostic
+Read,G343.00,Ischaemic cardiomyopathy,res12: Other Coronary Heart Disease,diagnostic
+Read,G311.00,Preinfarction syndrome,res12: Other Coronary Heart Disease,diagnostic
+Read,G342.00,Atherosclerotic cardiovascular disease,res12: Other Coronary Heart Disease,diagnostic
+Read,G34y100,Chronic myocardial ischaemia,res12: Other Coronary Heart Disease,diagnostic
+Read,G31yz00,Other acute and subacute ischaemic heart disease NOS,res12: Other Coronary Heart Disease,diagnostic
+Read,ZV45700,[V]Presence of aortocoronary bypass graft,res12: Other Coronary Heart Disease,diagnostic
+Read,792z.00,Coronary artery operations NOS,res12: Other Coronary Heart Disease,diagnostic
+Read,14A4.00,H/O: myocardial infarct >60,res12: Other Coronary Heart Disease,diagnostic
+Read,G34z.00,Other chronic ischaemic heart disease NOS,res12: Other Coronary Heart Disease,diagnostic
+Read,7927100,Repair of aneurysm of coronary artery,res12: Other Coronary Heart Disease,diagnostic
+Read,G341200,Aneurysm of coronary vessels,res12: Other Coronary Heart Disease,diagnostic
+Read,G341z00,Aneurysm of heart NOS,res12: Other Coronary Heart Disease,diagnostic
+Read,792Az00,Diagnostic transluminal operation on coronary artery NOS,res12: Other Coronary Heart Disease,diagnostic
+Read,7927400,Exploration of coronary artery,res12: Other Coronary Heart Disease,diagnostic
+Read,792A100,Intravascular ultrasound of coronary artery,res12: Other Coronary Heart Disease,diagnostic
+Read,G31y.00,Other acute and subacute ischaemic heart disease,res12: Other Coronary Heart Disease,diagnostic

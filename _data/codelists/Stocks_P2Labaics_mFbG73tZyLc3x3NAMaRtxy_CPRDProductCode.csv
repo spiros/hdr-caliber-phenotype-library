@@ -1,0 +1,426 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,15165,Reproterol 500micrograms/dose inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,36462,Fluticasone propionate 500microgram inhalation powder blisters,res25: P2_LABAICS,drug
+CPRD_product_code,15326,Beclometasone 100micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,35288,Beclometasone 400microgram inhalation powder blisters,res25: P2_LABAICS,drug
+CPRD_product_code,34428,Beclometasone 50microgram/actuation Inhalation powder (Neo Laboratories Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,32050,Salbutamol 400 Cyclocaps (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,14736,Pulvinal Beclometasone Dipropionate 400micrograms/dose dry powder inhaler (Chiesi Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,31774,Beclometasone 50micrograms/dose inhaler (Generics (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,15706,Beclometasone 100 micrograms/actuation vortex inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,14757,Pulvinal Beclometasone Dipropionate 100micrograms/dose dry powder inhaler (Chiesi Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,14700,Budesonide 400micrograms/actuation inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,1642,Budesonide 400micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,11588,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,5580,Flixotide accuhaler 50 50microgram/inhalation Inhalation powder (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3556,Beclometasone 50micrograms with salbutamol 100micrograms/inhalation inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,3666,Seretide 500 Accuhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3570,Budesonide 200micrograms/actuation refill canister,res25: P2_LABAICS,drug
+CPRD_product_code,30118,Salbutamol 100micrograms/dose inhaler CFC free (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,31082,Salbuvent 5mg/ml Respirator solution (Pharmacia Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,19121,Beclometasone 100micrograms with Salbutamol 200micrograms inhalation capsules,res25: P2_LABAICS,drug
+CPRD_product_code,29325,Beclometasone 250micrograms/dose inhaler (Generics (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,30210,Beclometasone 250micrograms/dose inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,30649,Easyhaler Budesonide 400micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,30238,Beclometasone 50microgram/actuation Pressurised inhalation (Approved Prescription Services Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,33849,Beclometasone 100microgram/actuation Inhalation powder (Neo Laboratories Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,33258,Beclometasone 250micrograms/dose inhaler (A A H Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1630,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials,res25: P2_LABAICS,drug
+CPRD_product_code,34018,Salbutamol 5mg/2.5ml Nebuliser liquid (Galen Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,32874,Beclometasone 50microgram/actuation Inhalation powder (Actavis UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,33817,Salbutamol 100micrograms/dose inhaler CFC free (Actavis UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,33373,Salbutamol 200 Cyclocaps (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,34310,Salbutamol 100micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1619,Terbutaline 500micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,34315,Beclometasone 250microgram/actuation Inhalation powder (Actavis UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,34162,Salbutamol 2.5mg/2.5ml Nebuliser liquid (Galen Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35225,Flixotide 100microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35071,Becodisks 200microgram (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,34859,Beclometasone 250microgram/actuation Inhalation powder (Neo Laboratories Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3363,Becloforte 400microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1711,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials,res25: P2_LABAICS,drug
+CPRD_product_code,1676,Flixotide 125microgram/actuation Inhalation powder (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,34739,Beclometasone 50micrograms/dose inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3546,Qvar 50 inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5558,Salmeterol 50micrograms with fluticasone 500micrograms CFC free inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,1680,Pulmicort LS 50micrograms/dose inhaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,34794,Beclometasone 200micrograms/dose inhaler (A A H Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1975,Oxis 6 Turbohaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1727,Becotide easi-breathe 50microgram/actuation Pressurised inhalation (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3297,Salmeterol 50micrograms disc,res25: P2_LABAICS,drug
+CPRD_product_code,1725,Beclazone 50 Easi-Breathe inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,34919,Beclometasone 50micrograms/dose inhaler (A A H Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1794,Berotec 100microgram/actuation Inhalation powder (Boehringer Ingelheim Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1741,Salbutamol 100micrograms/dose breath actuated inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,1974,Oxis 12 Turbohaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1734,Beclometasone 100micrograms/dose breath actuated inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,1959,Pulmicort 0.5mg Respules (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1951,Becodisks 400microgram Disc (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1885,Beclazone 200 inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1861,AeroBec 100 Autohaler (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1957,Ventolin 5mg Nebules (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1952,Ventolin 400microgram Rotacaps (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1956,Pulmicort 1mg Respules (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3289,Flixotide 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,2160,Beclometasone 50micrograms/dose breath actuated inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,2148,Beclometasone 400microgram disc,res25: P2_LABAICS,drug
+CPRD_product_code,2600,Beclometasone 250micrograms/dose breath actuated inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,2092,Budesonide 200micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,2125,Pulmicort 200microgram Refill canister (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,2159,AeroBec 50 Autohaler (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,2152,Ipratropium bromide with salbutamol 20mcg + 100mcg,res25: P2_LABAICS,drug
+CPRD_product_code,2440,Flixotide accuhaler 500 500microgram/inhalation Inhalation powder (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,2282,Fluticasone propionate 500micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,2229,Becodisks 100microgram Disc (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,2224,Serevent 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,2335,Qvar 100 inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3220,Qvar 50 Autohaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,2893,Beclometasone 200micrograms disc,res25: P2_LABAICS,drug
+CPRD_product_code,2850,Salbutamol 400microgram inhalation powder capsules,res25: P2_LABAICS,drug
+CPRD_product_code,2655,Airomir 100micrograms/dose inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,2723,Fluticasone 25micrograms/dose inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,2892,Becloforte 400microgram disks (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,2851,Ventolin 200microgram Rotacaps (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,2992,Beclazone 50 inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,2978,Salbutamol 200micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,2951,Fluticasone 250microgram/actuation Pressurised inhalation,res25: P2_LABAICS,drug
+CPRD_product_code,3119,Becloforte integra 250microgram/actuation Inhaler with compact spacer (Glaxo Laboratories Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3150,Beclometasone 100micrograms/actuation extrafine particle cfc free inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,3018,Beclometasone 50micrograms/dose inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,3075,Becotide 400microgram Rotacaps (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3065,Bextasol Inhalation powder (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35165,Serevent 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,18537,Budesonide 200microgram inhalation powder capsules,res25: P2_LABAICS,drug
+CPRD_product_code,4499,Aerobec 250microgram/actuation Pressurised inhalation (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5551,Flixotide 0.5mg/2ml Nebules (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5161,Seretide 125 Evohaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3758,Pulmadil Inhalation powder (3M Health Care Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3743,Filair 50 inhaler (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3989,Flixotide 100microgram Disc (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,4413,Qvar 100 Autohaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3947,Becotide 100microgram Rotacaps (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,3927,Filair 100 inhaler (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,4365,Beclometasone 100micrograms disc,res25: P2_LABAICS,drug
+CPRD_product_code,3993,Filair Forte 250micrograms/dose inhaler (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,4132,Fluticasone 125microgram/actuation Pressurised inhalation,res25: P2_LABAICS,drug
+CPRD_product_code,4131,Fluticasone 100microgram Disc,res25: P2_LABAICS,drug
+CPRD_product_code,4803,Beclazone 250microgram/actuation Inhalation powder (Actavis UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,4634,Salamol 2.5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,4545,Pulmicort LS 50microgram Refill canister (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5143,Seretide 50 Evohaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,4601,Asmabec 100 Clickhaler (Focus Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,4801,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,res25: P2_LABAICS,drug
+CPRD_product_code,4665,Salbulin 100micrograms/dose inhaler (3M Health Care Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,4759,Beclometasone 100microgram inhalation powder capsules,res25: P2_LABAICS,drug
+CPRD_product_code,4688,Fluticasone 50microgram/actuation Pressurised inhalation,res25: P2_LABAICS,drug
+CPRD_product_code,4926,Flixotide accuhaler 100 100microgram/inhalation Inhalation powder (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,4942,Budesonide 1mg/2ml nebuliser liquid unit dose vials,res25: P2_LABAICS,drug
+CPRD_product_code,4842,Fenoterol 100microgram/actuation inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,5309,Flixotide 50micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5170,Salamol 100micrograms/dose inhaler CFC free (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5172,Seretide 250 Evohaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5308,Terbutaline 5mg/2ml nebuliser liquid unit dose vials,res25: P2_LABAICS,drug
+CPRD_product_code,5522,Beclometasone 100micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,5223,Fluticasone 50micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,5521,Beclometasone 200micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,5516,Salamol 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35118,Becodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35113,Beclometasone 200microgram inhalation powder blisters,res25: P2_LABAICS,drug
+CPRD_product_code,35107,Beclometasone 400microgram inhalation powder blisters with device,res25: P2_LABAICS,drug
+CPRD_product_code,35106,Becodisks 100microgram with Diskhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,36021,Fluticasone propionate 50microgram inhalation powder blisters with device,res25: P2_LABAICS,drug
+CPRD_product_code,18394,Bdp 50microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,36290,Flixotide 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,36401,Fluticasone propionate 250microgram inhalation powder blisters with device,res25: P2_LABAICS,drug
+CPRD_product_code,38214,Salbutamol 100micrograms/dose dry powder inhalation cartridge,res25: P2_LABAICS,drug
+CPRD_product_code,37447,Fluticasone propionate 50microgram inhalation powder blisters,res25: P2_LABAICS,drug
+CPRD_product_code,37432,Fostair 100micrograms/dose/6micrograms/dose inhaler (Chiesi Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35986,Flixotide 50microgram disks (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,6325,Symbicort 200/6 Turbohaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,38136,Salbulin Novolizer 100micrograms/dose inhalation powder (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,37470,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,5992,Beclometasone 50micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,5975,Fluticasone 125micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,5718,Flixotide 125micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5683,Flixotide 250micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5822,Fluticasone 250micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,5942,Salmeterol 50micrograms with fluticasone 250micrograms CFC free inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,5804,Beclometasone 250micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,5740,Airomir 100micrograms/dose Autohaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5837,Salamol steri-neb 5mg/2.5ml Nebuliser liquid (Numark Management Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5898,Salamol steri-neb 2.5mg/2.5ml Nebuliser liquid (Numark Management Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,5885,Fluticasone propionate 100micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,5864,Salmeterol 25micrograms with fluticasone 250micrograms CFC free inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,16305,Flixotide 2mg/2ml Nebules (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,10102,Ciclesonide 160micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,38079,Salbutamol 100micrograms/dose dry powder inhalation cartridge with device,res25: P2_LABAICS,drug
+CPRD_product_code,6746,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,6462,Salbutamol 95micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,6616,Salmeterol 25micrograms with fluticasone 50micrograms CFC free inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,35905,Fluticasone propionate 250microgram inhalation powder blisters,res25: P2_LABAICS,drug
+CPRD_product_code,6569,Salmeterol 25micrograms with fluticasone 125micrograms CFC free inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,6526,Formoterol 12microgram inhalation powder capsules with device,res25: P2_LABAICS,drug
+CPRD_product_code,6839,Alvesco 160 inhaler (Takeda UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,10090,Beclometasone 50micrograms/actuation extrafine particle cfc free inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,6796,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,6780,Symbicort 400/12 Turbohaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,6938,Salmeterol 50micrograms with fluticasone 100micrograms dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,9921,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,9711,Formoterol 6micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,7013,Symbicort 100/6 Turbohaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,10218,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,16236,Pirbuterol acetate inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,18848,Qvar 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,11198,Beclometasons 50 micrograms/actuation vortex inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,10254,Mometasone 400micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,10968,Foradil 12microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,10858,Pulmadil auto Inhalation powder (3M Health Care Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,10321,Budesonide 400microgram inhalation powder capsules,res25: P2_LABAICS,drug
+CPRD_product_code,11497,Beclometasone 400micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,16158,Clenil Modulite 50micrograms/dose inhaler (Chiesi Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,11478,Fluticasone 2mg/2ml nebuliser liquid unit dose vials,res25: P2_LABAICS,drug
+CPRD_product_code,11410,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,16018,Mometasone 200micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,16151,Clenil Modulite 200micrograms/dose inhaler (Chiesi Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,16148,Clenil Modulite 250micrograms/dose inhaler (Chiesi Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,16054,Budesonide 200micrograms/actuation breath actuated powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,35825,Serevent 50microgram disks (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,17590,Asmanex 400micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,16433,Asmanex 200micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35392,Flixotide 500microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,16577,Easyhaler Salbutamol sulfate 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,17465,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials,res25: P2_LABAICS,drug
+CPRD_product_code,16584,Beclometasone 50micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,17670,Easyhaler Budesonide 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35374,Flixotide 500microgram disks (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,17654,Easyhaler Beclometasone 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35299,Becodisks 400microgram (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35293,Beclometasone 200microgram inhalation powder blisters with device,res25: P2_LABAICS,drug
+CPRD_product_code,19031,Bdp 100microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35772,Fluticasone propionate 100microgram inhalation powder blisters,res25: P2_LABAICS,drug
+CPRD_product_code,35408,Becodisks 100microgram (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35430,Becodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35580,Beclometasone 100microgram inhalation powder blisters with device,res25: P2_LABAICS,drug
+CPRD_product_code,35461,Flixotide 250microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35542,Salmeterol 50microgram inhalation powder blisters with device,res25: P2_LABAICS,drug
+CPRD_product_code,35510,Budesonide 200micrograms/dose dry powder inhalation cartridge with device,res25: P2_LABAICS,drug
+CPRD_product_code,35503,Salmeterol 50microgram inhalation powder blisters,res25: P2_LABAICS,drug
+CPRD_product_code,35631,Budelin Novolizer 200micrograms/dose inhalation powder (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35725,Formoterol Easyhaler 12micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35611,Flixotide 250microgram disks (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35602,Budesonide 200micrograms/dose dry powder inhalation cartridge,res25: P2_LABAICS,drug
+CPRD_product_code,35638,Fluticasone propionate 100microgram inhalation powder blisters with device,res25: P2_LABAICS,drug
+CPRD_product_code,35724,Budelin Novolizer 200micrograms/dose inhalation powder refill (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,35700,Fluticasone propionate 500microgram inhalation powder blisters with device,res25: P2_LABAICS,drug
+CPRD_product_code,35652,Beclometasone 100microgram inhalation powder blisters,res25: P2_LABAICS,drug
+CPRD_product_code,49412,Clenil Modulite 200micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,42886,Bricanyl 500micrograms/dose Turbohaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,39099,Pulmicort 100micrograms/dose inhaler CFC free (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,38226,Salbulin Novolizer 100micrograms/dose inhalation powder refill (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,36090,Flixotide 100microgram disks (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,40057,Pulmicort 200micrograms/dose inhaler CFC free (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,42858,Ventolin 200micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,39200,AeroBec Forte 250 Autohaler (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,39102,Budesonide 100micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,42830,Ventolin 100micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,40709,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,40599,Salbutamol 5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Galen Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,42279,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Galen Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,41269,Beclometasone 400 Cyclocaps (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,41412,Beclometasone 400micrograms/actuation inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,48490,Ventolin 100micrograms/dose Evohaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,42928,Flixotide 100micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,49367,Clenil Modulite 50micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,42985,Flixotide 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,43738,Indacaterol 150microgram inhalation powder capsules with device,res25: P2_LABAICS,drug
+CPRD_product_code,43085,Bricanyl 5mg/2ml Respules (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,43074,Flixotide 500micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,48666,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Napp Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,49114,Symbicort 100/6 Turbohaler (Sigma Pharmaceuticals Plc),res25: P2_LABAICS,drug
+CPRD_product_code,48547,Salamol 100micrograms/dose inhaler CFC free (Arrow Generics Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,48519,Ventolin 100micrograms/dose Evohaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,48709,Qvar 100micrograms/dose Easi-Breathe inhaler (Sigma Pharmaceuticals Plc),res25: P2_LABAICS,drug
+CPRD_product_code,49000,Seretide 250 Evohaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,48741,Ventolin 100micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,48739,Seretide 250 Evohaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,51415,Qvar 50 inhaler (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,50886,Seretide 250 Evohaler (Stephar (U.K.) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,49591,Salbutamol 100micrograms/dose inhaler CFC free (Sandoz Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,50739,Symbicort 400/12 Turbohaler (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,50689,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,51027,Seretide 125 Evohaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,51394,Seretide 500 Accuhaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,50956,Ventolin 200micrograms/dose Accuhaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,50945,Symbicort 100/6 Turbohaler (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,51151,Seretide 125 Evohaler (Lexon (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,51270,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,51234,Qvar 100 inhaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,51209,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,51570,Symbicort 200/6 Turbohaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,51480,Qvar 100 Autohaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,51861,Seretide 500 Accuhaler (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,51593,Seretide 500 Accuhaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,51815,Flixotide 250micrograms/dose Evohaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,51759,Symbicort 200/6 Turbohaler (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,51681,Qvar 100 inhaler (Sigma Pharmaceuticals Plc),res25: P2_LABAICS,drug
+CPRD_product_code,52732,Pulmicort 0.5mg Respules (Necessity Supplies Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,52410,Bricanyl 500micrograms/dose Turbohaler (Necessity Supplies Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,51909,Seretide 250 Evohaler (Necessity Supplies Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,52806,Qvar 100 Autohaler (Lexon (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,53019,Ventolin 2.5mg Nebules (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,42994,Flixotide 250micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,48340,Clenil Modulite 100micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,43893,Onbrez Breezhaler 150microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK L,res25: P2_LABAICS,drug
+CPRD_product_code,47943,Beclazone easi-breathe (roi) 100microgram/actuation Pressurised inhalation (Ivax Pharmaceuticals Ire,res25: P2_LABAICS,drug
+CPRD_product_code,44064,Onbrez Breezhaler 300microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK L,res25: P2_LABAICS,drug
+CPRD_product_code,47638,Neovent 25micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,46157,Beclometasone 200 Cyclocaps (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,45863,Salbutamol 5mg/2.5ml Nebuliser liquid (Generics (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,45610,Indacaterol 300microgram inhalation powder capsules with device,res25: P2_LABAICS,drug
+CPRD_product_code,9577,Asmabec 50 Clickhaler (Focus Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,7017,Salbutamol 100micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,8572,Rimiterol inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,1552,Becloforte easi-breathe 250microgram/actuation Pressurised inhalation (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,49868,Fluticasone 250micrograms/dose / Formoterol 10micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,7270,Salmeterol 25micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,7948,Fluticasone propionate 250micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,50129,Qvar 100micrograms/dose Easi-Breathe inhaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,14524,Bdp 250microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,9599,Beclazone 50microgram/actuation Inhalation powder (Actavis UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,8433,Budesonide 100micrograms/actuation inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,49772,Fluticasone 250micrograms/dose Evohaler (Sigma Pharmaceuticals Plc),res25: P2_LABAICS,drug
+CPRD_product_code,14590,Asmabec 250microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,7268,Serevent 25micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,53230,Seretide 250 Accuhaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,49711,Pulmicort 200micrograms/dose inhaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,28761,Spacehaler BDP 50microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,7133,Formoterol 12micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,7356,Ciclesonide 80micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,7638,Fluticasone 250microgram Disc,res25: P2_LABAICS,drug
+CPRD_product_code,50037,Pulmicort 0.5mg Respules (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,50051,Serevent 25micrograms/dose Evohaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,53057,Flixotide 50micrograms/dose Evohaler (Lexon (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,50287,Qvar 100 inhaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,7602,Fluticasone 50microgram Disc,res25: P2_LABAICS,drug
+CPRD_product_code,50036,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,7891,Fluticasone 500microgram Disc,res25: P2_LABAICS,drug
+CPRD_product_code,50560,Seretide 250 Accuhaler (Sigma Pharmaceuticals Plc),res25: P2_LABAICS,drug
+CPRD_product_code,7788,Budesonide 100micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,7653,Beclometasone 400microgram inhalation powder capsules,res25: P2_LABAICS,drug
+CPRD_product_code,50557,Ventolin 200micrograms/dose Accuhaler (Lexon (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,7724,Betamethasone valerate 100micrograms/actuation inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,50503,Ventolin 200micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,7965,Salbutamol 5mg/ml nebuliser liquid,res25: P2_LABAICS,drug
+CPRD_product_code,59409,Salbutamol 100micrograms/dose inhaler CFC free (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,53237,Symbicort 400/12 Turbohaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,54742,Salmeterol 25micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,8111,Becloforte vm 250microgram/actuation VM pack (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,54399,Qvar 100 Autohaler (Sigma Pharmaceuticals Plc),res25: P2_LABAICS,drug
+CPRD_product_code,54207,Qvar 50 inhaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,53283,Seretide 100 Accuhaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,53480,Qvar 100 Autohaler (Stephar (U.K.) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,53297,Ventolin 200micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),res25: P2_LABAICS,drug
+CPRD_product_code,53491,Symbicort 200/6 Turbohaler (Sigma Pharmaceuticals Plc),res25: P2_LABAICS,drug
+CPRD_product_code,57524,Ventolin 200micrograms/dose Accuhaler (Dowelhurst Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,56471,Becodisks 200microgram (Mawdsley-Brooks & Company Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,7964,Beclometasone 50micrograms/ml nebuliser suspension,res25: P2_LABAICS,drug
+CPRD_product_code,56462,Becodisks 400microgram (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,55677,Seretide 500 Accuhaler (Lexon (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,56499,Flixotide 500micrograms/dose Accuhaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,56474,Flixotide 125micrograms/dose Evohaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,56478,Serevent 50micrograms/dose Accuhaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,56477,Flixotide 100micrograms/dose Accuhaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,56484,Flixotide 250micrograms/dose Accuhaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,56498,Pulmicort 200 Turbohaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,56493,Qvar 50micrograms/dose Easi-Breathe inhaler (Sigma Pharmaceuticals Plc),res25: P2_LABAICS,drug
+CPRD_product_code,57525,Flixotide 250micrograms/dose Accuhaler (Stephar (U.K.) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,57694,Vertine 25micrograms/dose inhaler CFC free (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,58269,AirSalb 100micrograms/dose inhaler CFC free (Sandoz Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,57589,Becloforte 250micrograms/dose inhaler (Dowelhurst Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,57555,Flixotide 125micrograms/dose Evohaler (Dowelhurst Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,57544,Serevent 50micrograms/dose Accuhaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,57579,Flixotide 50micrograms/dose Accuhaler (DE Pharmaceuticals),res25: P2_LABAICS,drug
+CPRD_product_code,60601,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,56475,Flixotide 50micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),res25: P2_LABAICS,drug
+CPRD_product_code,56482,Oxis 12 Turbohaler (Waymade Healthcare Plc),res25: P2_LABAICS,drug
+CPRD_product_code,57249,Asmavent 100micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,57558,Oxis 6 Turbohaler (Lexon (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,9233,Beclometasone 200microgram inhalation powder capsules,res25: P2_LABAICS,drug
+CPRD_product_code,14321,Beclometasone 200micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,13040,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,9571,Beclometasone 250micrograms/actuation vortex inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,11732,Beclometasone 50micrograms/dose breath actuated inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,11618,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,9164,Fluticasone propionate 50micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,12994,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,12563,Exirel Inhalation powder (3M Health Care Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,13038,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler (Chiesi Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,12486,Bronchodil 500microgram/dose Inhalation powder (Viatris Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,13037,Pulvinal Beclometasone Dipropionate 200micrograms/dose dry powder inhaler (Chiesi Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,8635,Flixotide 50microgram Disc (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,9477,Asmabec 100microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,13181,Easyhaler Salbutamol sulfate 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,13273,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,14306,Formoterol 12micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,13290,Clenil Modulite 100micrograms/dose inhaler (Chiesi Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,14294,Qvar 50micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,13815,Beclazone 100microgram/actuation Inhalation powder (Actavis UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1551,Beclazone 250 inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,14567,Asmabec 250 Clickhaler (Focus Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,28640,Beclometasone 100microgram/actuation Inhalation powder (Actavis UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,26616,Ipratropium bromide with fenoterol hydrobromide 0micrograms + 100micrograms/actuation,res25: P2_LABAICS,drug
+CPRD_product_code,23269,Maxivent 2.5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,19376,Beclometasone 200micrograms with Salbutamol 400micrograms inhalation capsules,res25: P2_LABAICS,drug
+CPRD_product_code,21482,Beclometasone 100micrograms/dose inhaler (Generics (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,19401,Beclometasone 250micrograms/actuation inhaler and compact spacer,res25: P2_LABAICS,drug
+CPRD_product_code,19389,Asmabec 50microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,21224,Alvesco 80 inhaler (Takeda UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,20825,Spacehaler BDP 250microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,21005,Beclometasone 250micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,26063,Beclometasone 100micrograms/dose inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,25204,Beclometasone 100micrograms/dose inhaler (A A H Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,24898,Spacehaler BDP 100microgram/actuation Spacehaler (Celltech Pharma Europe Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,23741,Novolizer budesonide 200microgram/actuation Pressurised inhalation (Meda Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,25784,Atimos Modulite 12micrograms/dose inhaler (Chiesi Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,25339,Maxivent 5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,27188,Easyhaler Budesonide 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,911,Flixotide accuhaler 250 250microgram/inhalation Inhalation powder (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,27505,Ipratropium bromide with fenoterol hydrobromide 40micrograms + 100micrograms/actuation,res25: P2_LABAICS,drug
+CPRD_product_code,28073,Beclometasone 250microgram/actuation Pressurised inhalation (Approved Prescription Services Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1537,Becotide 200microgram Rotacaps (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,510,Ventolin 5mg/ml respirator solution (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,910,Serevent diskhaler 50microgram Inhalation powder (Glaxo Wellcome UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,454,Pulmicort 200microgram Inhaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,99,Becotide 100 inhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,38,Beclometasone 100micrograms/dose inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,909,Budesonide 200micrograms/dose inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,17,Salbutamol 100micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,908,Pulmicort 400 Turbohaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,665,Seretide 100 Accuhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,638,Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,896,Becotide easi-breathe 100microgram/actuation Pressurised inhalation (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,674,Ventolin 2.5mg Nebules (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,719,Salmeterol 50micrograms/dose dry powder inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,882,Salbutamol 200microgram inhalation powder capsules,res25: P2_LABAICS,drug
+CPRD_product_code,895,Beclazone 100 Easi-Breathe inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,883,Becodisks 200microgram Disc (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1518,Flixotide 50microgram/actuation Inhalation powder (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1243,Beclazone 250 Easi-Breathe inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1426,Flixotide 500microgram Disc (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1424,Flixotide 250microgram Disc (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,27679,Beclometasone 100microgram/actuation Pressurised inhalation (Approved Prescription Services Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1242,Beclometasone 250micrograms/dose inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,956,Pulmicort 200 Turbohaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,947,Budesonide 50micrograms/actuation refill canister,res25: P2_LABAICS,drug
+CPRD_product_code,1236,Becloforte 250micrograms/dose inhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,960,Pulmicort 100 Turbohaler (AstraZeneca UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,959,Budesonide 50micrograms/dose inhaler,res25: P2_LABAICS,drug
+CPRD_product_code,1100,Beclazone 100 inhaler (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,39879,Budesonide 200micrograms/dose inhaler CFC free,res25: P2_LABAICS,drug
+CPRD_product_code,1087,Asmasal 95micrograms/dose Clickhaler (Focus Pharmaceuticals Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1414,Salamol 5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1258,Becotide 200 inhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1412,Flixotide 250microgram/actuation Inhalation powder (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1406,Becotide 50 inhaler (GlaxoSmithKline UK Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1269,Becotide 50microgram/ml Nebuliser liquid (Allen & Hanburys Ltd),res25: P2_LABAICS,drug
+CPRD_product_code,1259,Beclometasone 200micrograms/dose inhaler,res25: P2_LABAICS,drug

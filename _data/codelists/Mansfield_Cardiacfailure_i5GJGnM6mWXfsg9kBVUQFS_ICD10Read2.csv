@@ -1,0 +1,113 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,I13.0,hypertensive heart and renal disease with (congestive) heart failure,res30: Cardiac failure,diagnostic
+ICD-10,I11.0,hypertensive heart disease with (congestive) heart failure,res30: Cardiac failure,diagnostic
+ICD-10,I26.0,pulmonary embolism with mention of acute cor pulmonale,res30: Cardiac failure,diagnostic
+ICD-10,I13.2,hypertensive heart and renal disease with both (congestive) heart failure and renal failure,res30: Cardiac failure,diagnostic
+ICD-10,I50,heart failure,res30: Cardiac failure,diagnostic
+ICD-10,I50.0,congestive heart failure,res30: Cardiac failure,diagnostic
+ICD-10,I50.9,"heart failure, unspecified",res30: Cardiac failure,diagnostic
+ICD-10,I50.1,left ventricular failure,res30: Cardiac failure,diagnostic
+Read,G580.13,right ventricular failure,res30: Cardiac failure,diagnostic
+Read,8HgD.00,discharge from heart failure nurse service,res30: Cardiac failure,diagnostic
+Read,G580100,chronic congestive heart failure,res30: Cardiac failure,diagnostic
+Read,G5yyB00,right ventricular diastolic dysfunction,res30: Cardiac failure,diagnostic
+Read,662W.00,heart failure annual review,res30: Cardiac failure,diagnostic
+Read,661M500,heart failure self-management plan agreed,res30: Cardiac failure,diagnostic
+Read,G58z.12,cardiac failure nos,res30: Cardiac failure,diagnostic
+Read,9On4.00,left ventricular dysfunction monitoring telephone invite,res30: Cardiac failure,diagnostic
+Read,585g.00,echocardiogram shows left ventricular diastolic dysfunction,res30: Cardiac failure,diagnostic
+Read,G5yy900,left ventricular systolic dysfunction,res30: Cardiac failure,diagnostic
+Read,14A6.00,h/o: heart failure,res30: Cardiac failure,diagnostic
+Read,G554000,congestive cardiomyopathy,res30: Cardiac failure,diagnostic
+Read,662T.00,congestive heart failure monitoring,res30: Cardiac failure,diagnostic
+Read,8HTL000,referral to rapid access heart failure clinic,res30: Cardiac failure,diagnostic
+Read,9h11.00,excepted from lvd quality indicators: patient unsuitable,res30: Cardiac failure,diagnostic
+Read,G583.12,heart failure with preserved ejection fraction,res30: Cardiac failure,diagnostic
+Read,G580300,compensated cardiac failure,res30: Cardiac failure,diagnostic
+Read,8IE0.00,referral to heart failure education group declined,res30: Cardiac failure,diagnostic
+Read,662g.00,new york heart association classification - class ii,res30: Cardiac failure,diagnostic
+Read,G5y4z00,post cardiac operation heart failure nos,res30: Cardiac failure,diagnostic
+Read,G5yyA00,left ventricular diastolic dysfunction,res30: Cardiac failure,diagnostic
+Read,8IE1.00,referral to heart failure exercise programme declined,res30: Cardiac failure,diagnostic
+Read,9N0k.00,seen in heart failure clinic,res30: Cardiac failure,diagnostic
+Read,9N4s.00,did not attend practice nurse heart failure clinic,res30: Cardiac failure,diagnostic
+Read,G58z.11,weak heart,res30: Cardiac failure,diagnostic
+Read,679X.00,heart failure education,res30: Cardiac failure,diagnostic
+Read,9hH0.00,excepted heart failure quality indicators: patient unsuitabl,res30: Cardiac failure,diagnostic
+Read,8CMK.00,has heart failure management plan,res30: Cardiac failure,diagnostic
+Read,Q48y100,congenital cardiac failure,res30: Cardiac failure,diagnostic
+Read,G583.11,hfnef - heart failure with normal ejection fraction,res30: Cardiac failure,diagnostic
+Read,8HBE.00,heart failure follow-up,res30: Cardiac failure,diagnostic
+Read,G580.12,right heart failure,res30: Cardiac failure,diagnostic
+Read,R2y1000,[d]cardiorespiratory failure,res30: Cardiac failure,diagnostic
+Read,G400.00,acute cor pulmonale,res30: Cardiac failure,diagnostic
+Read,662f.00,new york heart association classification - class i,res30: Cardiac failure,diagnostic
+Read,G581.13,impaired left ventricular function,res30: Cardiac failure,diagnostic
+Read,9On..00,left ventricular dysfunction monitoring administration,res30: Cardiac failure,diagnostic
+Read,G581.00,left ventricular failure,res30: Cardiac failure,diagnostic
+Read,9Or0.00,heart failure review completed,res30: Cardiac failure,diagnostic
+Read,G580.00,congestive heart failure,res30: Cardiac failure,diagnostic
+Read,9N2p.00,seen by community heart failure nurse,res30: Cardiac failure,diagnostic
+Read,G41z.11,chronic cor pulmonale,res30: Cardiac failure,diagnostic
+Read,662h.00,new york heart association classification - class iii,res30: Cardiac failure,diagnostic
+Read,G58..00,heart failure,res30: Cardiac failure,diagnostic
+Read,9h12.00,excepted from lvd quality indicators: informed dissent,res30: Cardiac failure,diagnostic
+Read,G581000,acute left ventricular failure,res30: Cardiac failure,diagnostic
+Read,G232.00,hypertensive heart&renal dis wth (congestive) heart failure,res30: Cardiac failure,diagnostic
+Read,G58z.00,heart failure nos,res30: Cardiac failure,diagnostic
+Read,1J60.00,suspected heart failure,res30: Cardiac failure,diagnostic
+Read,G580.14,biventricular failure,res30: Cardiac failure,diagnostic
+Read,G582.00,acute heart failure,res30: Cardiac failure,diagnostic
+Read,G58..11,cardiac failure,res30: Cardiac failure,diagnostic
+Read,G580000,acute congestive heart failure,res30: Cardiac failure,diagnostic
+Read,G580.11,congestive cardiac failure,res30: Cardiac failure,diagnostic
+Read,G1yz100,rheumatic left ventricular failure,res30: Cardiac failure,diagnostic
+Read,1736,paroxysmal nocturnal dyspnoea,res30: Cardiac failure,diagnostic
+Read,G581.11,asthma - cardiac,res30: Cardiac failure,diagnostic
+Read,1O1..00,heart failure confirmed,res30: Cardiac failure,diagnostic
+Read,G580200,decompensated cardiac failure,res30: Cardiac failure,diagnostic
+Read,8CMW800,heart failure clinical pathway,res30: Cardiac failure,diagnostic
+Read,8B29.00,cardiac failure therapy,res30: Cardiac failure,diagnostic
+Read,G583.00,heart failure with normal ejection fraction,res30: Cardiac failure,diagnostic
+Read,8HHb.00,referral to heart failure nurse,res30: Cardiac failure,diagnostic
+Read,8CeC.00,preferred place of care for next exacerbation heart failure,res30: Cardiac failure,diagnostic
+Read,662p.00,heart failure 6 month review,res30: Cardiac failure,diagnostic
+Read,585f.00,echocardiogram shows left ventricular systolic dysfunction,res30: Cardiac failure,diagnostic
+Read,SP11111,heart failure as a complication of care,res30: Cardiac failure,diagnostic
+Read,G580400,congestive heart failure due to valvular disease,res30: Cardiac failure,diagnostic
+Read,14AM.00,h/o: heart failure in last year,res30: Cardiac failure,diagnostic
+Read,9Or5.00,heart failure monitoring third letter,res30: Cardiac failure,diagnostic
+Read,388D.00,new york heart assoc classification heart failure symptoms,res30: Cardiac failure,diagnostic
+Read,ZRad.00,new york heart assoc classification heart failure symptoms,res30: Cardiac failure,diagnostic
+Read,9Or..00,heart failure monitoring administration,res30: Cardiac failure,diagnostic
+Read,G584.00,right ventricular failure,res30: Cardiac failure,diagnostic
+Read,8H2S.00,admit heart failure emergency,res30: Cardiac failure,diagnostic
+Read,679W100,education about deteriorating heart failure,res30: Cardiac failure,diagnostic
+Read,9h1..00,exception reporting: lvd quality indicators,res30: Cardiac failure,diagnostic
+Read,8CL3.00,heart failure care plan discussed with patient,res30: Cardiac failure,diagnostic
+Read,9hH1.00,excepted heart failure quality indicators: informed dissent,res30: Cardiac failure,diagnostic
+Read,G211100,benign hypertensive heart disease with ccf,res30: Cardiac failure,diagnostic
+Read,G557100,beriberi heart disease,res30: Cardiac failure,diagnostic
+Read,8HTL.00,referral to heart failure clinic,res30: Cardiac failure,diagnostic
+Read,662i.00,new york heart association classification - class iv,res30: Cardiac failure,diagnostic
+Read,G210.00,malignant hypertensive heart disease,res30: Cardiac failure,diagnostic
+Read,G21z100,hypertensive heart disease nos with ccf,res30: Cardiac failure,diagnostic
+Read,67D4.00,heart failure information given to patient,res30: Cardiac failure,diagnostic
+Read,G234.00,hyperten heart&renal dis+both(congestv)heart and renal fail,res30: Cardiac failure,diagnostic
+Read,9On1.00,left ventricular dysfunction monitoring second letter,res30: Cardiac failure,diagnostic
+Read,9On0.00,left ventricular dysfunction monitoring first letter,res30: Cardiac failure,diagnostic
+Read,9N4w.00,did not attend heart failure clinic,res30: Cardiac failure,diagnostic
+Read,9Or4.00,heart failure monitoring second letter,res30: Cardiac failure,diagnostic
+Read,9N6T.00,referred by heart failure nurse specialist,res30: Cardiac failure,diagnostic
+Read,G554011,congestive obstructive cardiomyopathy,res30: Cardiac failure,diagnostic
+Read,G230.00,malignant hypertensive heart and renal disease,res30: Cardiac failure,diagnostic
+Read,9On2.00,left ventricular dysfunction monitoring third letter,res30: Cardiac failure,diagnostic
+Read,8Hk0.00,referred to heart failure education group,res30: Cardiac failure,diagnostic
+Read,8HHz.00,referral to heart failure exercise programme,res30: Cardiac failure,diagnostic
+Read,9Or3.00,heart failure monitoring first letter,res30: Cardiac failure,diagnostic
+Read,G210100,malignant hypertensive heart disease with ccf,res30: Cardiac failure,diagnostic
+Read,9On3.00,left ventricular dysfunction monitoring verbal invite,res30: Cardiac failure,diagnostic
+Read,9Or1.00,heart failure monitoring telephone invite,res30: Cardiac failure,diagnostic
+Read,9Or2.00,heart failure monitoring verbal invite,res30: Cardiac failure,diagnostic
+Read,8Hg8.00,discharge from practice nurse heart failure clinic,res30: Cardiac failure,diagnostic
+Read,9hH..00,exception reporting: heart failure quality indicators,res30: Cardiac failure,diagnostic

@@ -1,0 +1,34 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G311500,Acute coronary syndrome,res12: Angina,diagnostic
+Read,G311100,Unstable angina,res12: Angina,diagnostic
+Read,14A5.00,H/O: angina pectoris,res12: Angina,diagnostic
+Read,G33z700,Stable angina,res12: Angina,diagnostic
+Read,G33z.00,Angina pectoris NOS,res12: Angina,diagnostic
+Read,G31y000,Acute coronary insufficiency,res12: Angina,diagnostic
+Read,G33z600,New onset angina,res12: Angina,diagnostic
+Read,G311.14,Angina at rest,res12: Angina,diagnostic
+Read,662K300,Angina control - worsening,res12: Angina,diagnostic
+Read,662K100,Angina control - poor,res12: Angina,diagnostic
+Read,G33z500,Post infarct angina,res12: Angina,diagnostic
+Read,8B27.00,Antianginal therapy,res12: Angina,diagnostic
+Read,G330.00,Angina decubitus,res12: Angina,diagnostic
+Read,G330000,Nocturnal angina,res12: Angina,diagnostic
+Read,G33z200,Syncope anginosa,res12: Angina,diagnostic
+Read,G311300,Refractory angina,res12: Angina,diagnostic
+Read,G33..00,Angina pectoris,res12: Angina,diagnostic
+Read,G311400,Worsening angina,res12: Angina,diagnostic
+Read,662K.00,Angina control,res12: Angina,diagnostic
+Read,G330z00,Angina decubitus NOS,res12: Angina,diagnostic
+Read,G311.13,Unstable angina,res12: Angina,diagnostic
+Read,G33z400,Ischaemic chest pain,res12: Angina,diagnostic
+Read,G33zz00,Angina pectoris NOS,res12: Angina,diagnostic
+Read,G33z300,Angina on effort,res12: Angina,diagnostic
+Read,662K000,Angina control - good,res12: Angina,diagnostic
+Read,G311.11,Crescendo angina,res12: Angina,diagnostic
+Read,G311000,Myocardial infarction aborted,res12: Angina,diagnostic
+Read,662K200,Angina control - improving,res12: Angina,diagnostic
+Read,662Kz00,Angina control NOS,res12: Angina,diagnostic
+Read,G311200,Angina at rest,res12: Angina,diagnostic
+Read,14AJ.00,H/O: Angina in last year,res12: Angina,diagnostic
+Read,G331.00,Prinzmetal's angina,res12: Angina,diagnostic
+Read,G331.11,Variant angina pectoris,res12: Angina,diagnostic

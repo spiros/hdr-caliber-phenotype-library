@@ -1,0 +1,31 @@
+Coding System (ICD-9),Codes,Description,Entity type,Category
+ICD-9,410.31,"Acute myocardial infarction of inferoposterior wall, initial episode of care    ",myocardial infarction - icd9,diagnostic
+ICD-9,410.3,"Acute myocardial infarction of inferoposterior wall, episode of care unspecified",myocardial infarction - icd9,diagnostic
+ICD-9,410.01,"Acute myocardial infarction of anterolateral wall, initial episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.22,"Acute myocardial infarction of inferolateral wall, subsequent episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410,"Acute myocardial infarction of anterolateral wall, episode of care unspecified",myocardial infarction - icd9,diagnostic
+ICD-9,410.21,"Acute myocardial infarction of inferolateral wall, initial episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.1,"Acute myocardial infarction of other anterior wall, episode of care unspecified ",myocardial infarction - icd9,diagnostic
+ICD-9,410.02,"Acute myocardial infarction of anterolateral wall, subsequent episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.11,"Acute myocardial infarction of other anterior wall, initial episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.2,"Acute myocardial infarction of inferolateral wall, episode of care unspecified",myocardial infarction - icd9,diagnostic
+ICD-9,410.12,"Acute myocardial infarction of other anterior wall, subsequent episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.32,"Acute myocardial infarction of inferoposterior wall, subsequent episode of care    ",myocardial infarction - icd9,diagnostic
+ICD-9,410.72,"Subendocardial infarction, subsequent episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.5,"Acute myocardial infarction of other lateral wall, episode of care unspecified",myocardial infarction - icd9,diagnostic
+ICD-9,410.71,"Subendocardial infarction, initial episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.42,"Acute myocardial infarction of other inferior wall, subsequent episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.4,"Acute myocardial infarction of other inferior wall, episode of care unspecified",myocardial infarction - icd9,diagnostic
+ICD-9,410.41," Acute myocardial infarction of other inferior wall, initial episode of care ",myocardial infarction - icd9,diagnostic
+ICD-9,410.7,"Subendocardial infarction, episode of care unspecified",myocardial infarction - icd9,diagnostic
+ICD-9,410.52,"Acute myocardial infarction of other lateral wall, subsequent episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.51,"Acute myocardial infarction of other lateral wall, initial episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.62,"True posterior wall infarction, subsequent episode of care ",myocardial infarction - icd9,diagnostic
+ICD-9,410.6,"True posterior wall infarction, episode of care unspecified ",myocardial infarction - icd9,diagnostic
+ICD-9,410.61,"True posterior wall infarction, initial episode of care       ",myocardial infarction - icd9,diagnostic
+ICD-9,410.82,"Acute myocardial infarction of other specified sites, subsequent episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.81,"Acute myocardial infarction of other specified sites, initial episode of care   ",myocardial infarction - icd9,diagnostic
+ICD-9,410.8,"Acute myocardial infarction of other specified sites, episode of care unspecified",myocardial infarction - icd9,diagnostic
+ICD-9,410.9,"Acute myocardial infarction of unspecified site, episode of care unspecified",myocardial infarction - icd9,diagnostic
+ICD-9,410.91,"Acute myocardial infarction of unspecified site, initial episode of care",myocardial infarction - icd9,diagnostic
+ICD-9,410.92,"Acute myocardial infarction of unspecified site, subsequent episode of care",myocardial infarction - icd9,diagnostic

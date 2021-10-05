@@ -1,0 +1,19 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,4M02,Gleason prostate grade 8-10 (high),res17: Prostate cancer,diagnostic
+Read,1J08,Suspected prostate cancer,res17: Prostate cancer,diagnostic
+Read,EMISNQPR140,Prostatic intraepithelial neoplasia,res17: Prostate cancer,diagnostic
+Read,B8341,Prostatic intraepithelial neoplasia,res17: Prostate cancer,diagnostic
+Read,B7C20,Adenoma of prostate,res17: Prostate cancer,diagnostic
+Read,B46,Malignant neoplasm of prostate,res17: Prostate cancer,diagnostic
+Read,HNG0200,[RFC] Cancer of the prostate,res17: Prostate cancer,diagnostic
+Read,PCSDT1PR16,Prostate carcinoma,res17: Prostate cancer,diagnostic
+Read,B8340,High grade prostatic intraepithelial neoplasia,res17: Prostate cancer,diagnostic
+Read,14270,H/O: prostate cancer,res17: Prostate cancer,diagnostic
+Read,4M0,Gleason grading of prostate cancer,res17: Prostate cancer,diagnostic
+Read,4M00,Gleason prostate grade 2-4 (low),res17: Prostate cancer,diagnostic
+Read,4M01,Gleason prostate grade 5-7 (medium),res17: Prostate cancer,diagnostic
+Read,B58y5,Secondary malignant neoplasm of prostate,res17: Prostate cancer,diagnostic
+Read,B834,Carcinoma in situ of prostate,res17: Prostate cancer,diagnostic
+Read,B915,Neoplasm of uncertain behaviour of prostate,res17: Prostate cancer,diagnostic
+Read,K223,Dysplasia of prostate,res17: Prostate cancer,diagnostic
+Read,ZV104-5,[V]Personal history of malignant neoplasm of prostate,res17: Prostate cancer,diagnostic

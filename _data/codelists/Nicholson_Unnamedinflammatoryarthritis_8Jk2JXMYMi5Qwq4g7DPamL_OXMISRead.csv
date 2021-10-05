@@ -1,0 +1,40 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,7122A,RHEUMATISM PALINDROMIC,res13: Unnamed Inflammatory Arthritis,diagnostic
+OXMIS,7150SN,ARTHRITIS SERO NEGATIVE,res13: Unnamed Inflammatory Arthritis,diagnostic
+OXMIS,7873DM,POLYARTHRALGIA,res13: Unnamed Inflammatory Arthritis,diagnostic
+OXMIS,715 B,POLYARTHRITIS,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N04..11,Inflammatory polyarthropathy,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N045100,Juvenile seronegative polyarthritis,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N04y111,Sero negative polyarthritis,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N060.11,Endemic polyarthritis,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N064900,Transient arthropathy of multiple sites,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N065z11,Polyarthritis,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N090900,Effusion of multiple joints,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093.11,Hench - Rosenberg syndrome,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093200,Palindromic rheumatism of the upper arm,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093400,Palindromic rheumatism of the hand,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093900,Palindromic rheumatism of multiple sites,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N094900,Arthralgia of multiple joints,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,Nyu1.00,[X]Inflammatory polyarthropathies,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093000,Palindromic rheumatism of unspecified site,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N04z.00,Inflammatory polyarthropathy NOS,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N04y.00,Other specified inflammatory polyarthropathy,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N045.00,Other juvenile arthritis,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N04yz00,Other specified inflammatory polyarthropathy NOS,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N04y100,Sero negative arthritis,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093.00,Palindromic rheumatism,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N065.00,Unspecified polyarthropathy or polyarthritis,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N062900,Allergic arthritis of multiple sites,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N06z900,Arthropathy NOS; of multiple sites,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N065900,Unspecified polyarthropathy of multiple sites,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N065.11,Polyarthropathy NEC,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N065z00,Unspecified polyarthropathy or polyarthritis NOS,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093100,Palindromic rheumatism of the shoulder region,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093800,Palindromic rheumatism of other specified site,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093300,Palindromic rheumatism of the forearm,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093700,Palindromic rheumatism of the ankle and foot,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093600,Palindromic rheumatism of the lower leg,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093500,Palindromic rheumatism of the pelvic region and thigh,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N095900,Multiple stiff joints,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,N093z00,Palindromic rheumatism NOS,res13: Unnamed Inflammatory Arthritis,diagnostic
+Read,Nyu1500,[X]Other juvenile arthritis,res13: Unnamed Inflammatory Arthritis,diagnostic

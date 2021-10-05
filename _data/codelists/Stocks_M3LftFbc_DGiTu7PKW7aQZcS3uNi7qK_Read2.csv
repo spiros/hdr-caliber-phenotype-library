@@ -1,0 +1,139 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,44D8.00,Plasma lactate level,res25: M3_LFT_FBC,test
+Read,44D7.00,Serum bile salt level,res25: M3_LFT_FBC,test
+Read,44G4000,Gamma glutamyl transferase level normal,res25: M3_LFT_FBC,test
+Read,44GA.00,Plasma alanine aminotransferase level,res25: M3_LFT_FBC,test
+Read,44D6.00,Liver function test,res25: M3_LFT_FBC,test
+Read,44G9.00,Serum gamma-glutamyl transferase level,res25: M3_LFT_FBC,test
+Read,44G8.00,Serum hydroxybutyrate dehydrogenase level,res25: M3_LFT_FBC,test
+Read,44G5.00,Serum 5 - nucleotidase,res25: M3_LFT_FBC,test
+Read,44G4100,Gamma glutamyl transferase level abnormal,res25: M3_LFT_FBC,test
+Read,44G7.00,Plasma gamma-glutamyl transferase level,res25: M3_LFT_FBC,test
+Read,44G5000,Serum 5-nucleotidase level normal,res25: M3_LFT_FBC,test
+Read,44G6.00,Plasma hydroxybutyrate dehydrogenase level,res25: M3_LFT_FBC,test
+Read,44G5200,Serum 5-nucleotidase level raised,res25: M3_LFT_FBC,test
+Read,44H5000,AST/SGOT level normal,res25: M3_LFT_FBC,test
+Read,44GB.00,Serum alanine aminotransferase level,res25: M3_LFT_FBC,test
+Read,44H5.12,SGOT serum level,res25: M3_LFT_FBC,test
+Read,44GZ.00,Liver enzymes NOS,res25: M3_LFT_FBC,test
+Read,44H5.11,AST serum level,res25: M3_LFT_FBC,test
+Read,44H5.00,AST - aspartate transam.(SGOT),res25: M3_LFT_FBC,test
+Read,44H5200,AST/SGOT level raised,res25: M3_LFT_FBC,test
+Read,44H5100,AST/SGOT level abnormal,res25: M3_LFT_FBC,test
+Read,426Z.00,RBC count NOS,res25: M3_LFT_FBC,test
+Read,4231,Haemoglobin not estimated,res25: M3_LFT_FBC,test
+Read,4242,Full blood count borderline,res25: M3_LFT_FBC,test
+Read,44D5.00,Serum lactate,res25: M3_LFT_FBC,test
+Read,42PZ.00,Platelet count NOS,res25: M3_LFT_FBC,test
+Read,44D4.00,Serum pyruvate,res25: M3_LFT_FBC,test
+Read,44D3.00,Blood ammonia level,res25: M3_LFT_FBC,test
+Read,44D2.00,Liver function tests abnormal,res25: M3_LFT_FBC,test
+Read,44D1.00,Liver function tests normal,res25: M3_LFT_FBC,test
+Read,44D..11,Liver function tests,res25: M3_LFT_FBC,test
+Read,44D..00,Liver function tests - general,res25: M3_LFT_FBC,test
+Read,44FZ.00,Serum alkaline phosphatase NOS,res25: M3_LFT_FBC,test
+Read,44F..00,Serum alkaline phosphatase,res25: M3_LFT_FBC,test
+Read,42b..00,Percentage cell count,res25: M3_LFT_FBC,test
+Read,44DZ.00,Liver function tests NOS,res25: M3_LFT_FBC,test
+Read,44D9.00,Whole blood pyruvate level,res25: M3_LFT_FBC,test
+Read,44FI.00,Alkaline phosphatase - bone isoenzyme level,res25: M3_LFT_FBC,test
+Read,44F6.00,Alk. phos. - bile isoenzyme,res25: M3_LFT_FBC,test
+Read,44F1.00,Serum alk. phos. normal,res25: M3_LFT_FBC,test
+Read,44F5000,Alkaline phosphatase bone isoenzyme raised,res25: M3_LFT_FBC,test
+Read,44F3.00,Total alkaline phosphatase,res25: M3_LFT_FBC,test
+Read,44F2.00,Serum alk. phos. raised,res25: M3_LFT_FBC,test
+Read,44F5.00,Alk. phos. - bone isoenzyme,res25: M3_LFT_FBC,test
+Read,44F4.00,Alk. phos. - liver isoenzyme,res25: M3_LFT_FBC,test
+Read,44FH.00,Alkaline phosphatase liver isoenzyme level,res25: M3_LFT_FBC,test
+Read,44F9.00,Plasma alkaline phosphatase bone isoenzyme level,res25: M3_LFT_FBC,test
+Read,44FC.00,Serum alkaline phosphatase bone isoenzyme level,res25: M3_LFT_FBC,test
+Read,44F8.00,Plasma alkaline phosphatase bile isoenzyme level,res25: M3_LFT_FBC,test
+Read,44F7.00,Alkaline phosphatase isoenzyme studies,res25: M3_LFT_FBC,test
+Read,44FB.00,Serum alkaline phosphatase bile isoenzyme level,res25: M3_LFT_FBC,test
+Read,44FA.00,Plasma alkaline phosphatase liver isoenzyme level,res25: M3_LFT_FBC,test
+Read,44FD.00,Serum alkaline phosphatase liver isoenzyme level,res25: M3_LFT_FBC,test
+Read,44FG.00,Alkaline phosphatase - bile isoenzyme level,res25: M3_LFT_FBC,test
+Read,44FF.00,Serum alkaline phosphatase intestinal enzyme level,res25: M3_LFT_FBC,test
+Read,44FE.00,Serum alkaline phosphatase electrophoresis,res25: M3_LFT_FBC,test
+Read,4238,Haemoglobin borderline high,res25: M3_LFT_FBC,test
+Read,44G2.00,Liver enzymes abnormal,res25: M3_LFT_FBC,test
+Read,44G..00,Liver enzymes,res25: M3_LFT_FBC,test
+Read,44G1.00,Liver enzymes normal,res25: M3_LFT_FBC,test
+Read,44G..12,SGPT - blood level,res25: M3_LFT_FBC,test
+Read,44G..11,ALT - blood level,res25: M3_LFT_FBC,test
+Read,4237,Haemoglobin normal,res25: M3_LFT_FBC,test
+Read,44G3000,ALT/SGPT level normal,res25: M3_LFT_FBC,test
+Read,4232,Haemoglobin requested,res25: M3_LFT_FBC,test
+Read,44G3.00,ALT/SGPT serum level,res25: M3_LFT_FBC,test
+Read,426..00,Red blood cell (RBC) count,res25: M3_LFT_FBC,test
+Read,44G4.00,Gamma - G.T. level,res25: M3_LFT_FBC,test
+Read,44G3100,ALT/SGPT level abnormal,res25: M3_LFT_FBC,test
+Read,4233,Haemoglobin - sample sent,res25: M3_LFT_FBC,test
+Read,4236,Haemoglobin borderline low,res25: M3_LFT_FBC,test
+Read,4235,Haemoglobin low,res25: M3_LFT_FBC,test
+Read,4234,Haemoglobin very low,res25: M3_LFT_FBC,test
+Read,4264,RBC count raised,res25: M3_LFT_FBC,test
+Read,4241,Full blood count normal,res25: M3_LFT_FBC,test
+Read,424Z.00,Full blood count NOS,res25: M3_LFT_FBC,test
+Read,4239,Haemoglobin high,res25: M3_LFT_FBC,test
+Read,4243,Full blood count abnormal,res25: M3_LFT_FBC,test
+Read,4263,RBC count low,res25: M3_LFT_FBC,test
+Read,4262,RBC count borderline low,res25: M3_LFT_FBC,test
+Read,4261,RBC count normal,res25: M3_LFT_FBC,test
+Read,4267,RBC count abnormal,res25: M3_LFT_FBC,test
+Read,424..00,Full blood count - FBC,res25: M3_LFT_FBC,test
+Read,4266,Nucleated red blood cell count,res25: M3_LFT_FBC,test
+Read,4265,RBC count borderline raised,res25: M3_LFT_FBC,test
+Read,423Z.00,Haemoglobin estimation NOS,res25: M3_LFT_FBC,test
+Read,423..11,Hb estimation,res25: M3_LFT_FBC,test
+Read,423..00,Haemoglobin estimation,res25: M3_LFT_FBC,test
+Read,423C.00,Haemoglobin H inclusion,res25: M3_LFT_FBC,test
+Read,423B.00,Haemoglobin abnormal,res25: M3_LFT_FBC,test
+Read,423A.00,Haemoglobin very high,res25: M3_LFT_FBC,test
+Read,42b1.00,Percentage lymphocytes,res25: M3_LFT_FBC,test
+Read,42bC.00,Percentage reticulocyte count,res25: M3_LFT_FBC,test
+Read,42b0.00,Percentage neutrophils,res25: M3_LFT_FBC,test
+Read,42b5.00,Percentage blast cells,res25: M3_LFT_FBC,test
+Read,42bB.00,Percentage promyelocyte count,res25: M3_LFT_FBC,test
+Read,42b4.00,Percentage metamyelocytes,res25: M3_LFT_FBC,test
+Read,42b2.00,Percentage monocytes,res25: M3_LFT_FBC,test
+Read,42b3.00,Percentage basophils,res25: M3_LFT_FBC,test
+Read,42bA.00,Percentage myelocyte count,res25: M3_LFT_FBC,test
+Read,42b6.00,Percentage smear cells,res25: M3_LFT_FBC,test
+Read,42b9.00,Percentage eosinophils,res25: M3_LFT_FBC,test
+Read,42b8.00,Percentage nucleated Red Blood Cells,res25: M3_LFT_FBC,test
+Read,42b7.00,Percentage granulocytes,res25: M3_LFT_FBC,test
+Read,42H1.00,White cell count normal,res25: M3_LFT_FBC,test
+Read,42bD.00,T cell total %,res25: M3_LFT_FBC,test
+Read,42H..12,White cell count,res25: M3_LFT_FBC,test
+Read,42bE.00,Percentage hypochromic cells,res25: M3_LFT_FBC,test
+Read,42H..11,White blood count,res25: M3_LFT_FBC,test
+Read,42H..00,Total white cell count,res25: M3_LFT_FBC,test
+Read,42H2.11,Leucopenia,res25: M3_LFT_FBC,test
+Read,42IZ.00,Diff. white cell count NOS,res25: M3_LFT_FBC,test
+Read,42H2.00,Leucopenia - low white count,res25: M3_LFT_FBC,test
+Read,42I2.00,Diff. white count abnormal,res25: M3_LFT_FBC,test
+Read,42I1.00,Diff. white cell count normal,res25: M3_LFT_FBC,test
+Read,42H3.00,Leucocytosis -high white count,res25: M3_LFT_FBC,test
+Read,42H5.00,White cell count abnormal,res25: M3_LFT_FBC,test
+Read,42H4.00,Agranulocytosis,res25: M3_LFT_FBC,test
+Read,42H3.11,Leucocytosis,res25: M3_LFT_FBC,test
+Read,42I..11,WCC - differential,res25: M3_LFT_FBC,test
+Read,42H7.00,Total white blood count,res25: M3_LFT_FBC,test
+Read,42H6.00,Polymorphonuclear leukocyte count,res25: M3_LFT_FBC,test
+Read,42H8.00,Total WBC (IMM),res25: M3_LFT_FBC,test
+Read,42I..00,Differential white cell count,res25: M3_LFT_FBC,test
+Read,42HZ.00,Total white cell count NOS,res25: M3_LFT_FBC,test
+Read,42P3.00,Thrombocythaemia,res25: M3_LFT_FBC,test
+Read,42P2.11,Auto-immune thrombocytopenia,res25: M3_LFT_FBC,test
+Read,42P..00,Platelet count,res25: M3_LFT_FBC,test
+Read,42MG.00,Leucocyte count,res25: M3_LFT_FBC,test
+Read,42P2.00,Thrombocytopenia,res25: M3_LFT_FBC,test
+Read,42P1.00,Platelet count normal,res25: M3_LFT_FBC,test
+Read,42P8.00,Heparin induced thrombocytopenia screening test,res25: M3_LFT_FBC,test
+Read,42P4.00,Platelet count abnormal,res25: M3_LFT_FBC,test
+Read,42P5.00,Platelet distribution width,res25: M3_LFT_FBC,test
+Read,42P7.00,Percentage reticulated platelet count,res25: M3_LFT_FBC,test
+Read,42P6.00,Platelet/neutrophil ratio,res25: M3_LFT_FBC,test
+Read,42PA.00,Immature platelet fraction,res25: M3_LFT_FBC,test
+Read,42P9.00,Plateletcrit,res25: M3_LFT_FBC,test

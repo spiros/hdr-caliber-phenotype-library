@@ -1,0 +1,20 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E140.12,autism,res59: Autism_spectrum,diagnostic
+Read,Eu84012,[x]infantile autism,res59: Autism_spectrum,diagnostic
+Read,Eu84z11,[x]autistic spectrum disorder,res59: Autism_spectrum,diagnostic
+Read,Eu84112,[x]mental retardation with autistic features,res59: Autism_spectrum,diagnostic
+Read,Eu84500,[x]asperger's syndrome,res59: Autism_spectrum,diagnostic
+Read,E140000,active infantile autism,res59: Autism_spectrum,diagnostic
+Read,Eu84000,[x]childhood autism,res59: Autism_spectrum,diagnostic
+Read,Eu84013,[x]infantile psychosis,res59: Autism_spectrum,diagnostic
+Read,Eu84011,[x]autistic disorder,res59: Autism_spectrum,diagnostic
+Read,E140100,residual infantile autism,res59: Autism_spectrum,diagnostic
+Read,E140.11,kanner's syndrome,res59: Autism_spectrum,diagnostic
+Read,E140z00,infantile autism nos,res59: Autism_spectrum,diagnostic
+Read,E140.13,childhood autism,res59: Autism_spectrum,diagnostic
+Read,E140.00,infantile autism,res59: Autism_spectrum,diagnostic
+Read,Eu84111,[x]atypical childhood psychosis,res59: Autism_spectrum,diagnostic
+Read,E141.11,Heller's syndrome,res59: Autism_spectrum,diagnostic
+Read,Eu84312,[X]Disintegrative psychosis,res59: Autism_spectrum,diagnostic
+Read,Eu84100,[x]atypical autism,res59: Autism_spectrum,diagnostic
+Read,Eu84511,[x]autistic psychopathy,res59: Autism_spectrum,diagnostic

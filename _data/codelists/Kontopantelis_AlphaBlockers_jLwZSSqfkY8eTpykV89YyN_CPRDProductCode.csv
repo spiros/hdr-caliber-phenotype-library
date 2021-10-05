@@ -1,0 +1,93 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,8076,HYTRIN starter pack [AMDIPHARM],res9: alpha_blockers,drug
+CPRD_product_code,7056,tamsulosin hydrochloride modified release tablet 400micrograms ,res9: alpha_blockers,drug
+CPRD_product_code,1455,prazosin tablets 500 micrograms ,res9: alpha_blockers,drug
+CPRD_product_code,755,CARDURA XL modified release tablet 4mg [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,1294,doxazosin tablets 4mg ,res9: alpha_blockers,drug
+CPRD_product_code,1292,HYPOVASE tablets 1mg [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,6008,OMNIC MR capsules 400micrograms [P & B],res9: alpha_blockers,drug
+CPRD_product_code,2117,DORALESE TILTAB tablets 20mg [CHEMIDEX],res9: alpha_blockers,drug
+CPRD_product_code,4111,HYPOVASE tablets 500 micrograms [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,2345,HYTRIN BPH starter pack [AMDIPHARM],res9: alpha_blockers,drug
+CPRD_product_code,2348,HYTRIN BPH tablets 10mg [AMDIPHARM],res9: alpha_blockers,drug
+CPRD_product_code,445,prazosin titration pack 8x500micrograms + 32x1mg ,res9: alpha_blockers,drug
+CPRD_product_code,2347,HYTRIN tablets 10mg [ABBOTT],res9: alpha_blockers,drug
+CPRD_product_code,2346,HYTRIN tablets 5mg [ABBOTT],res9: alpha_blockers,drug
+CPRD_product_code,3924,terazosin tablets 5mg ,res9: alpha_blockers,drug
+CPRD_product_code,3470,terazosin tablets 1mg ,res9: alpha_blockers,drug
+CPRD_product_code,2816,indoramin tablets 20mg ,res9: alpha_blockers,drug
+CPRD_product_code,3923,terazosin bph starter pack 7 x 1mg + 14 x 2mg + 7 x 5mg ,res9: alpha_blockers,drug
+CPRD_product_code,3715,prazosin tablets 5mg ,res9: alpha_blockers,drug
+CPRD_product_code,4802,CARDURA tablets 2mg [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,5815,indoramin tablets 25mg ,res9: alpha_blockers,drug
+CPRD_product_code,4694,terazosin starter pack 7 x 1mg + 21 x 2mg ,res9: alpha_blockers,drug
+CPRD_product_code,4449,CARDURA tablets 1mg [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,4637,terazosin tablets 2mg ,res9: alpha_blockers,drug
+CPRD_product_code,5618,CARDURA XL modified release tablet 8mg [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,5183,HYPOVASE tablets 2mg [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,4875,terazosin tablets 10mg ,res9: alpha_blockers,drug
+CPRD_product_code,5496,doxazosin modified release tablet 8mg ,res9: alpha_blockers,drug
+CPRD_product_code,5337,HYTRIN BPH tablets 5mg [AMDIPHARM],res9: alpha_blockers,drug
+CPRD_product_code,8086,CARDURA tablets 4mg [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,7549,DOXADURA tablets 1mg [DISCOVERY],res9: alpha_blockers,drug
+CPRD_product_code,7547,DOXADURA tablets 2mg [DISCOVERY],res9: alpha_blockers,drug
+CPRD_product_code,8077,HYTRIN tablets 2mg [ABBOTT],res9: alpha_blockers,drug
+CPRD_product_code,8198,HYPOVASE tablets 5mg [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,40256,BARATOL tablets 25mg [AMDIPHARM],res9: alpha_blockers,drug
+CPRD_product_code,8863,HYPOVASE BENIGN PROSTATIC HYPERPLASIA tablets 1mg [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,38461,CARDOZIN XL tablets 4mg [ARROW],res9: alpha_blockers,drug
+CPRD_product_code,37428,HYTRIN tablets 10mg [AMDIPHARM],res9: alpha_blockers,drug
+CPRD_product_code,19823,ALPHAVASE tablets 5mg [ASHBOURNE],res9: alpha_blockers,drug
+CPRD_product_code,19216,DOXAZOSIN tablets 4mg [IVAX],res9: alpha_blockers,drug
+CPRD_product_code,10088,DOXADURA tablets 4mg [DISCOVERY],res9: alpha_blockers,drug
+CPRD_product_code,19193,DOXAZOSIN tablets 2mg [TEVA],res9: alpha_blockers,drug
+CPRD_product_code,9019,indoramin tablets 50mg ,res9: alpha_blockers,drug
+CPRD_product_code,16201,HYTRIN BPH tablets 2mg [AMDIPHARM],res9: alpha_blockers,drug
+CPRD_product_code,12518,HYPOVASE BD starter pack [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,11394,BARATOL tablets 25mg [SHIRE],res9: alpha_blockers,drug
+CPRD_product_code,16198,BARATOL tablets 50mg [SHIRE],res9: alpha_blockers,drug
+CPRD_product_code,13610,ALPHAVASE tablets 2mg [ASHBOURNE],res9: alpha_blockers,drug
+CPRD_product_code,36649,HYTRIN tablets 2mg [AMDIPHARM],res9: alpha_blockers,drug
+CPRD_product_code,37243,CARDOZIN XL tablets 4mg [TEVA],res9: alpha_blockers,drug
+CPRD_product_code,25551,CASCOR tablets 4mg [RANBAXY],res9: alpha_blockers,drug
+CPRD_product_code,20369,doxazosin oral suspension 1mg/5ml ,res9: alpha_blockers,drug
+CPRD_product_code,25487,CASCOR tablets 2mg [RANBAXY],res9: alpha_blockers,drug
+CPRD_product_code,25047,HYPOVASE BENIGN PROSTATIC HYPERPLASIA tablets 500 micrograms [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,23459,HYPOVASE BENIGN PROSTATIC HYPERPLASIA tablets 2mg [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,36023,CARDOZIN XL tablets 4mg [HILLCROSS],res9: alpha_blockers,drug
+CPRD_product_code,26237,ALPHAVASE tablets 500 micrograms [ASHBOURNE],res9: alpha_blockers,drug
+CPRD_product_code,34342,DOXAZOSIN tablets 1mg [TEVA],res9: alpha_blockers,drug
+CPRD_product_code,33094,DOXAZOSIN tablets 2mg [GEN (UK)],res9: alpha_blockers,drug
+CPRD_product_code,26238,ALPHAVASE tablets 1mg [ASHBOURNE],res9: alpha_blockers,drug
+CPRD_product_code,26693,HYPOVASE BENIGN PROSTATIC HYPERPLASIA BD starter pack [PFIZER],res9: alpha_blockers,drug
+CPRD_product_code,35603,doxazosin oral suspension 4mg/5ml ,res9: alpha_blockers,drug
+CPRD_product_code,34601,DOXAZOSIN tablets 1mg [GEN (UK)],res9: alpha_blockers,drug
+CPRD_product_code,34553,DOXAZOSIN tablets 4mg [GEN (UK)],res9: alpha_blockers,drug
+CPRD_product_code,35272,DOXADURA XL tablets 4mg [GENUS],res9: alpha_blockers,drug
+CPRD_product_code,34625,DOXAZOSIN tablets 2mg [HILLCROSS],res9: alpha_blockers,drug
+CPRD_product_code,34715,DOXAZOSIN tablets 1mg [HILLCROSS],res9: alpha_blockers,drug
+CPRD_product_code,36780,HYTRIN tablets 5mg [AMDIPHARM],res9: alpha_blockers,drug
+CPRD_product_code,36740,SLOCINX XL tablets 4mg [ZENTIVA],res9: alpha_blockers,drug
+CPRD_product_code,48150,DOXAZOSIN tablets 1mg [ACTAVIS],res9: alpha_blockers,drug
+CPRD_product_code,45328,DOXAZOSIN tablets 1mg [SANDOZ],res9: alpha_blockers,drug
+CPRD_product_code,45265,DOXAZOSIN SR tablets 4mg [GEN (UK)],res9: alpha_blockers,drug
+CPRD_product_code,43695,COLIXIL XL tablets 4mg [SANDOZ],res9: alpha_blockers,drug
+CPRD_product_code,45040,LARBEX XL prolonged release tablet 4mg [TEVA],res9: alpha_blockers,drug
+CPRD_product_code,40891,DOXAZOSIN tablets 2mg [IVAX],res9: alpha_blockers,drug
+CPRD_product_code,40678,DOXAZOSIN tablets 4mg [TEVA],res9: alpha_blockers,drug
+CPRD_product_code,43547,PRAZOSIN tablets 500 micrograms [IVAX],res9: alpha_blockers,drug
+CPRD_product_code,41721,PRAZOSIN tablets 1mg [HILLCROSS],res9: alpha_blockers,drug
+CPRD_product_code,41543,DOXAZOSIN tablets 1mg [IVAX],res9: alpha_blockers,drug
+CPRD_product_code,41652,PRAZOSIN tablets 500 micrograms [HILLCROSS],res9: alpha_blockers,drug
+CPRD_product_code,41651,PRAZOSIN tablets 500 micrograms [APS],res9: alpha_blockers,drug
+CPRD_product_code,47807,DOXAZOSIN XL tablets 4mg [HILLCROSS],res9: alpha_blockers,drug
+CPRD_product_code,46922,PRAZOSIN tablets 1mg [IVAX],res9: alpha_blockers,drug
+CPRD_product_code,45342,DOXAZOSIN tablets 4mg [SANDOZ],res9: alpha_blockers,drug
+CPRD_product_code,46526,RAPORSIN XL prolonged release tablet 4mg [ACTAVIS],res9: alpha_blockers,drug
+CPRD_product_code,46066,CARDOZIN XL tablets 4mg [ALMUS],res9: alpha_blockers,drug
+CPRD_product_code,45583,DOXAZOSIN tablets 2mg [DEXCEL],res9: alpha_blockers,drug
+CPRD_product_code,726,prazosin tablets 2mg ,res9: alpha_blockers,drug
+CPRD_product_code,493,doxazosin tablets 2mg ,res9: alpha_blockers,drug
+CPRD_product_code,119,doxazosin tablets 1mg ,res9: alpha_blockers,drug
+CPRD_product_code,582,doxazosin modified release tablet 4mg ,res9: alpha_blockers,drug
+CPRD_product_code,591,prazosin tablets 1mg ,res9: alpha_blockers,drug

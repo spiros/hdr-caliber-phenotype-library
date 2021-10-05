@@ -1,0 +1,6 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,Y42  IV,INFLUENZA VACCINE GIVEN,influenza_immunisation,test
+Read,U60K400,[X]Influenza vaccine causing adverse effects therapeutic use,influenza_immunisation,test
+Read,65E..00,Influenza vaccination,influenza_immunisation,test
+Read,ZV04811,[V]Flu - influenza vaccination,influenza_immunisation,test
+Read,ZV04800,[V]Influenza vaccination,influenza_immunisation,test

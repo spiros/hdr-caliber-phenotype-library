@@ -1,0 +1,12 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,L2020PV,PROTEINURIA,Proteinuria,diagnostic
+OXMIS,7890,ALBUMINURIA,Proteinuria,diagnostic
+Read,R110000,[D]Albuminuria,Proteinuria,diagnostic
+Read,R110.00,[D]Proteinuria,Proteinuria,diagnostic
+Read,C10EK00,Type 1 diabetes mellitus with persistent proteinuria,Proteinuria,diagnostic
+Read,C10FL11,Type II diabetes mellitus with persistent proteinuria,Proteinuria,diagnostic
+Read,Kyu5G00,[X]Persistent proteinuria; unspecified,Proteinuria,diagnostic
+Read,C10FL00,Type 2 diabetes mellitus with persistent proteinuria,Proteinuria,diagnostic
+Read,K190X00,Persistent proteinuria; unspecified,Proteinuria,diagnostic
+Read,R110z00,[D]Proteinuria NOS,Proteinuria,diagnostic
+Read,R110100,[D]Bence-Jones proteinuria,Proteinuria,diagnostic

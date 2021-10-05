@@ -1,0 +1,17 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,M154500,Lupus erythematosus tumidus,res34: systemic_lupus_erthematosus,diagnostic
+Read,F4D3300,Eyelid discoid lupus erythematosus,res34: systemic_lupus_erthematosus,diagnostic
+Read,M154600,Lupus erythematosus unguium mutilans,res34: systemic_lupus_erthematosus,diagnostic
+Read,M154100,Discoid lupus erythematosus,res34: systemic_lupus_erthematosus,diagnostic
+Read,M154200,Lupus erythematosus migrans,res34: systemic_lupus_erthematosus,diagnostic
+Read,M154300,Lupus erythematosus nodularis,res34: systemic_lupus_erthematosus,diagnostic
+Read,M154400,Lupus erythematosus profundus,res34: systemic_lupus_erthematosus,diagnostic
+Read,Myu7800,[X]Other local lupus erythematosus,res34: systemic_lupus_erthematosus,diagnostic
+Read,M154000,Lupus erythematosus chronicus,res34: systemic_lupus_erthematosus,diagnostic
+Read,M154.00,Lupus erythematosus,res34: systemic_lupus_erthematosus,diagnostic
+Read,F371000,Polyneuropathy in disseminated lupus erythematosus,res34: systemic_lupus_erthematosus,diagnostic
+Read,M154700,Subacute cutaneous lupus erythematosus,res34: systemic_lupus_erthematosus,diagnostic
+Read,M154z00,Lupus erythematosus NOS,res34: systemic_lupus_erthematosus,diagnostic
+Read,K01x400,Nephrotic syndrome in systemic lupus erythematosus,res34: systemic_lupus_erthematosus,diagnostic
+Read,H57y400,Lung disease with systemic lupus erythematosus,res34: systemic_lupus_erthematosus,diagnostic
+Read,K01x411,Lupus nephritis,res34: systemic_lupus_erthematosus,diagnostic

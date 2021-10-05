@@ -1,0 +1,42 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B10..00,Malignant neoplasm of oesophagus,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B101.00,Malignant neoplasm of thoracic oesophagus,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B103.00,Malignant neoplasm of upper third of oesophagus,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B105.00,Malignant neoplasm of lower third of oesophagus,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B107.00,Siewert type I adenocarcinoma,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B10z.00,Malignant neoplasm of oesophagus NOS,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B11..00,Malignant neoplasm of stomach,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B110.00,Malignant neoplasm of cardia of stomach,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B110111,Malignant neoplasm of gastro-oesophageal junction,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B111.00,Malignant neoplasm of pylorus of stomach,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B111100,Malignant neoplasm of pyloric canal of stomach,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B112.00,Malignant neoplasm of pyloric antrum of stomach,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B115.00,Malignant neoplasm of lesser curve of stomach unspecified,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B117.00,Malignant neoplasm; overlapping lesion of stomach,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B119.00,Siewert type III adenocarcinoma,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B11y000,Malignant neoplasm of anterior wall of stomach NEC,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B11yz00,Malignant neoplasm of other specified site of stomach NOS,res14: Upper gastrointestinal malignancy,diagnostic
+Read,BB55.00,[M]Linitisplastica,res14: Upper gastrointestinal malignancy,diagnostic
+Read,BB5C000,[M]Gastrinoma NOS,res14: Upper gastrointestinal malignancy,diagnostic
+Read,BB5C100,[M]Gastrinoma; malignant,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B111000,Malignant neoplasm of prepylorus of stomach,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B110z00,Malignant neoplasm of cardia of stomach NOS,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B110100,Malignant neoplasm of cardio-oesophageal junction of stomach,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B100.00,Malignant neoplasm of cervical oesophagus,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B11..11,Gastric neoplasm,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B104.00,Malignant neoplasm of middle third of oesophagus,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B102.00,Malignant neoplasm of abdominal oesophagus,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B10z.11,Oesophageal cancer,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B106.00,Malignant neoplasm; overlapping lesion of oesophagus,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B10y.00,Malignant neoplasm of other specified part of oesophagus,res14: Upper gastrointestinal malignancy,diagnostic
+Read,BB5C011,[M]G cell tumour NOS,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B116.00,Malignant neoplasm of greater curve of stomach unspecified,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B114.00,Malignant neoplasm of body of stomach,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B111z00,Malignant neoplasm of pylorus of stomach NOS,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B113.00,Malignant neoplasm of fundus of stomach,res14: Upper gastrointestinal malignancy,diagnostic
+Read,BB5C.00,[M]Gastrinoma and carcinomas,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B118.00,Siewert type II adenocarcinoma,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B11z.00,Malignant neoplasm of stomach NOS,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B11y.00,Malignant neoplasm of other specified site of stomach,res14: Upper gastrointestinal malignancy,diagnostic
+Read,B11y100,Malignant neoplasm of posterior wall of stomach NEC,res14: Upper gastrointestinal malignancy,diagnostic
+Read,BB5Cz00,[M]Gastrinoma or carcinoma NOS,res14: Upper gastrointestinal malignancy,diagnostic

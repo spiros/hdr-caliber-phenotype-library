@@ -1,0 +1,150 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,I11.0,hypertensive heart disease with (congestive) heart failure,res30: Hypertension,diagnostic
+ICD-10,I10,essential (primary) hypertension,res30: Hypertension,diagnostic
+ICD-10,I12.9,hypertensive renal disease without renal failure,res30: Hypertension,diagnostic
+ICD-10,I13,hypertensive heart and renal disease,res30: Hypertension,diagnostic
+ICD-10,I12.0,hypertensive renal disease with renal failure,res30: Hypertension,diagnostic
+ICD-10,I15,secondary hypertension,res30: Hypertension,diagnostic
+ICD-10,I13.9,"hypertensive heart and renal disease, unspecified",res30: Hypertension,diagnostic
+ICD-10,I13.2,hypertensive heart and renal disease with both (congestive) heart failure and renal failure,res30: Hypertension,diagnostic
+ICD-10,I13.0,hypertensive heart and renal disease with (congestive) heart failure,res30: Hypertension,diagnostic
+ICD-10,I13.1,hypertensive heart and renal disease with renal failure,res30: Hypertension,diagnostic
+ICD-10,I15.0,renovascular hypertension,res30: Hypertension,diagnostic
+ICD-10,I11,hypertensive heart disease,res30: Hypertension,diagnostic
+ICD-10,I15.9,"secondary hypertension, unspecified",res30: Hypertension,diagnostic
+ICD-10,I15.2,hypertension secondary to endocrine disorders,res30: Hypertension,diagnostic
+ICD-10,I15.8,other secondary hypertension,res30: Hypertension,diagnostic
+ICD-10,I67.4,hypertensive encephalopathy,res30: Hypertension,diagnostic
+ICD-10,I15.1,hypertension secondary to other renal disorders,res30: Hypertension,diagnostic
+ICD-10,I11.9,hypertensive heart disease without (congestive) heart failure,res30: Hypertension,diagnostic
+ICD-10,I12,hypertensive renal disease,res30: Hypertension,diagnostic
+Read,G28..00,stage 2 hypertension (nice - nat ins for hth clin excl 2011),res30: Hypertension,diagnostic
+Read,G20..11,high blood pressure,res30: Hypertension,diagnostic
+Read,9OI..00,hypertension monitoring admin.,res30: Hypertension,diagnostic
+Read,G2...00,hypertensive disease,res30: Hypertension,diagnostic
+Read,L128000,pre-exist hyperten heart dis compl preg childbth+puerperium,res30: Hypertension,diagnostic
+Read,7Q01.00,high cost hypertension drugs,res30: Hypertension,diagnostic
+Read,9h32.00,excepted from hypertension qual indicators: informed dissent,res30: Hypertension,diagnostic
+Read,G231.00,benign hypertensive heart and renal disease,res30: Hypertension,diagnostic
+Read,G211.00,benign hypertensive heart disease,res30: Hypertension,diagnostic
+Read,662c.00,hypertension six month review,res30: Hypertension,diagnostic
+Read,G24z000,secondary renovascular hypertension nos,res30: Hypertension,diagnostic
+Read,2126100,hypertension resolved,res30: Hypertension,diagnostic
+Read,246M.00,white coat hypertension,res30: Hypertension,diagnostic
+Read,G20..00,essential hypertension,res30: Hypertension,diagnostic
+Read,G20z.00,essential hypertension nos,res30: Hypertension,diagnostic
+Read,14A2.00,h/o: hypertension,res30: Hypertension,diagnostic
+Read,Gyu2.00,[x]hypertensive diseases,res30: Hypertension,diagnostic
+Read,G201.00,benign essential hypertension,res30: Hypertension,diagnostic
+Read,8B26.00,antihypertensive therapy,res30: Hypertension,diagnostic
+Read,662O.00,on treatment for hypertension,res30: Hypertension,diagnostic
+Read,G202.00,systolic hypertension,res30: Hypertension,diagnostic
+Read,9N03.00,seen in hypertension clinic,res30: Hypertension,diagnostic
+Read,G672.00,hypertensive encephalopathy,res30: Hypertension,diagnostic
+Read,G20z.11,hypertension nos,res30: Hypertension,diagnostic
+Read,G22..11,nephrosclerosis,res30: Hypertension,diagnostic
+Read,8HT5.00,referral to hypertension clinic,res30: Hypertension,diagnostic
+Read,G2...11,bp - hypertensive disease,res30: Hypertension,diagnostic
+Read,G22..00,hypertensive renal disease,res30: Hypertension,diagnostic
+Read,662..12,hypertension monitoring,res30: Hypertension,diagnostic
+Read,6624,borderline hyperten:yearly obs,res30: Hypertension,diagnostic
+Read,F421300,hypertensive retinopathy,res30: Hypertension,diagnostic
+Read,G24..00,secondary hypertension,res30: Hypertension,diagnostic
+Read,G2z..00,hypertensive disease nos,res30: Hypertension,diagnostic
+Read,6627,good hypertension control,res30: Hypertension,diagnostic
+Read,662P.00,hypertension monitoring,res30: Hypertension,diagnostic
+Read,9h31.00,excepted from hypertension qual indicators: patient unsuit,res30: Hypertension,diagnostic
+Read,G21z011,cardiomegaly - hypertensive,res30: Hypertension,diagnostic
+Read,662H.00,hypertension treatm.stopped,res30: Hypertension,diagnostic
+Read,8BL0.00,patient on maximal tolerated antihypertensive therapy,res30: Hypertension,diagnostic
+Read,8CR4.00,hypertension clinical management plan,res30: Hypertension,diagnostic
+Read,G21..00,hypertensive heart disease,res30: Hypertension,diagnostic
+Read,G22z.00,hypertensive renal disease nos,res30: Hypertension,diagnostic
+Read,662G.00,hypertensive treatm.changed,res30: Hypertension,diagnostic
+Read,G21zz00,hypertensive heart disease nos,res30: Hypertension,diagnostic
+Read,G200.00,malignant essential hypertension,res30: Hypertension,diagnostic
+Read,G24z.00,secondary hypertension nos,res30: Hypertension,diagnostic
+Read,G203.00,diastolic hypertension,res30: Hypertension,diagnostic
+Read,9OI7.00,hypertens.monitor verbal inv.,res30: Hypertension,diagnostic
+Read,G233.00,hypertensive heart and renal disease with renal failure,res30: Hypertension,diagnostic
+Read,G21z100,hypertensive heart disease nos with ccf,res30: Hypertension,diagnostic
+Read,TJC7z00,adverse reaction to antihypertensives nos,res30: Hypertension,diagnostic
+Read,212K.00,hypertension resolved,res30: Hypertension,diagnostic
+Read,662d.00,hypertension annual review,res30: Hypertension,diagnostic
+Read,662b.00,moderate hypertension control,res30: Hypertension,diagnostic
+Read,G2y..00,other specified hypertensive disease,res30: Hypertension,diagnostic
+Read,1JD..00,suspected hypertension,res30: Hypertension,diagnostic
+Read,TJC7.00,adverse reaction to other antihypertensives,res30: Hypertension,diagnostic
+Read,8I3N.00,hypertension treatment refused,res30: Hypertension,diagnostic
+Read,662F.00,hypertension treatm. started,res30: Hypertension,diagnostic
+Read,G232.00,hypertensive heart&renal dis wth (congestive) heart failure,res30: Hypertension,diagnostic
+Read,9N1y200,seen in hypertension clinic,res30: Hypertension,diagnostic
+Read,9OIA.11,hypertension monitored,res30: Hypertension,diagnostic
+Read,9OI..11,hypertension clinic admin.,res30: Hypertension,diagnostic
+Read,6628,poor hypertension control,res30: Hypertension,diagnostic
+Read,G241000,secondary benign renovascular hypertension,res30: Hypertension,diagnostic
+Read,G220.00,malignant hypertensive renal disease,res30: Hypertension,diagnostic
+Read,G22z.11,renal hypertension,res30: Hypertension,diagnostic
+Read,G24z100,hypertension secondary to drug,res30: Hypertension,diagnostic
+Read,9OI8.00,hypertens.monitor phone invite,res30: Hypertension,diagnostic
+Read,9OI3.00,hyperten.monitor offer default,res30: Hypertension,diagnostic
+Read,9OI6.00,hypertens.monitor 3rd letter,res30: Hypertension,diagnostic
+Read,6629,hypertension:follow-up default,res30: Hypertension,diagnostic
+Read,U60C511,[x] adverse reaction to other antihypertensives,res30: Hypertension,diagnostic
+Read,9OI5.00,hypertens.monitor 2nd letter,res30: Hypertension,diagnostic
+Read,9OI4.00,hypertens.monitor.1st letter,res30: Hypertension,diagnostic
+Read,F404200,blind hypertensive eye,res30: Hypertension,diagnostic
+Read,G222.00,hypertensive renal disease with renal failure,res30: Hypertension,diagnostic
+Read,G672.11,hypertensive crisis,res30: Hypertension,diagnostic
+Read,G21z.00,hypertensive heart disease nos,res30: Hypertension,diagnostic
+Read,G240.00,secondary malignant hypertension,res30: Hypertension,diagnostic
+Read,9OIA.00,hypertension monitor.chck done,res30: Hypertension,diagnostic
+Read,9OIZ.00,hypertens.monitoring admin.nos,res30: Hypertension,diagnostic
+Read,9h3..00,exception reporting: hypertension quality indicators,res30: Hypertension,diagnostic
+Read,G244.00,hypertension secondary to endocrine disorders,res30: Hypertension,diagnostic
+Read,9N4L.00,dna - did not attend hypertension clinic,res30: Hypertension,diagnostic
+Read,G211000,benign hypertensive heart disease without ccf,res30: Hypertension,diagnostic
+Read,L128.00,pre-exist hypertension compl preg childbirth and puerperium,res30: Hypertension,diagnostic
+Read,U60C51A,[x] adverse reaction to antihypertensives nos,res30: Hypertension,diagnostic
+Read,9OI2.00,refuses hypertension monitor.,res30: Hypertension,diagnostic
+Read,G24zz00,secondary hypertension nos,res30: Hypertension,diagnostic
+Read,G221.00,benign hypertensive renal disease,res30: Hypertension,diagnostic
+Read,L127.00,pre-eclampsia or eclampsia with pre-existing hypertension,res30: Hypertension,diagnostic
+Read,G21z000,hypertensive heart disease nos without ccf,res30: Hypertension,diagnostic
+Read,9OI1.00,attends hypertension monitor.,res30: Hypertension,diagnostic
+Read,G211100,benign hypertensive heart disease with ccf,res30: Hypertension,diagnostic
+Read,G210.00,malignant hypertensive heart disease,res30: Hypertension,diagnostic
+Read,G241z00,secondary benign hypertension nos,res30: Hypertension,diagnostic
+Read,G240000,secondary malignant renovascular hypertension,res30: Hypertension,diagnostic
+Read,L128200,pre-exist 2ndry hypertens comp preg childbth and puerperium,res30: Hypertension,diagnostic
+Read,G234.00,hyperten heart&renal dis+both(congestv)heart and renal fail,res30: Hypertension,diagnostic
+Read,G241.00,secondary benign hypertension,res30: Hypertension,diagnostic
+Read,L122z00,other pre-existing hypertension in preg/childb/puerp nos,res30: Hypertension,diagnostic
+Read,U60C500,"[x]oth antihyperten drug caus advers eff in therap use, nec",res30: Hypertension,diagnostic
+Read,L122000,other pre-existing hypertension in preg/childb/puerp unspec,res30: Hypertension,diagnostic
+Read,G240z00,secondary malignant hypertension nos,res30: Hypertension,diagnostic
+Read,G210100,malignant hypertensive heart disease with ccf,res30: Hypertension,diagnostic
+Read,L122.00,other pre-existing hypertension in preg/childbirth/puerp,res30: Hypertension,diagnostic
+Read,L122100,other pre-existing hypertension in preg/childb/puerp - deliv,res30: Hypertension,diagnostic
+Read,G23..00,hypertensive heart and renal disease,res30: Hypertension,diagnostic
+Read,G23z.00,hypertensive heart and renal disease nos,res30: Hypertension,diagnostic
+Read,G230.00,malignant hypertensive heart and renal disease,res30: Hypertension,diagnostic
+Read,9OI9.00,hypertens.monitor deleted,res30: Hypertension,diagnostic
+Read,L122300,other pre-exist hypertension in preg/childb/puerp-not deliv,res30: Hypertension,diagnostic
+Read,L127z00,pre-eclampsia or eclampsia + pre-existing hypertension nos,res30: Hypertension,diagnostic
+Read,662r.00,trial withdrawal of antihypertensive therapy,res30: Hypertension,diagnostic
+Read,G210000,malignant hypertensive heart disease without ccf,res30: Hypertension,diagnostic
+Read,Gyu2100,[x]hypertension secondary to other renal disorders,res30: Hypertension,diagnostic
+Read,67H8.00,lifestyle advice regarding hypertension,res30: Hypertension,diagnostic
+Read,Gyu2000,[x]other secondary hypertension,res30: Hypertension,diagnostic
+Read,662P000,hypertension 9 month review,res30: Hypertension,diagnostic
+Read,7Q01y00,other specified high cost hypertension drugs,res30: Hypertension,diagnostic
+Read,662q.00,trial reduction of antihypertensive therapy,res30: Hypertension,diagnostic
+Read,G26..11,severe hypertension,res30: Hypertension,diagnostic
+Read,G210z00,malignant hypertensive heart disease nos,res30: Hypertension,diagnostic
+Read,G27..00,hypertension resistant to drug therapy,res30: Hypertension,diagnostic
+Read,G25..00,stage 1 hypertension (nice - nat ins for hth clin excl 2011),res30: Hypertension,diagnostic
+Read,G25..11,stage 1 hypertension,res30: Hypertension,diagnostic
+Read,G20..12,primary hypertension,res30: Hypertension,diagnostic
+Read,G26..00,severe hypertension (nat inst for health clinical ex 2011),res30: Hypertension,diagnostic
+Read,G211z00,benign hypertensive heart disease nos,res30: Hypertension,diagnostic

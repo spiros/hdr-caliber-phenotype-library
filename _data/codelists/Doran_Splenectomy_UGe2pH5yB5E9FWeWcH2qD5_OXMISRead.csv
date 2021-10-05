@@ -1,0 +1,14 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,2894C,ABSENCE SPLEEN ACQUIRED,splenectomy,diagnostic
+OXMIS,K540,SPLENECTOMY,splenectomy,diagnostic
+Read,7841.00,Other excision of spleen,splenectomy,diagnostic
+Read,7840z00,Total excision of spleen NOS,splenectomy,diagnostic
+Read,7840y00,Other specified total excision of spleen,splenectomy,diagnostic
+Read,14N7.00,H/O: splenectomy,splenectomy,diagnostic
+Read,7840400,Laparoscopic total splenectomy,splenectomy,diagnostic
+Read,7840.11,Total splenectomy,splenectomy,diagnostic
+Read,7840.00,Total excision of spleen,splenectomy,diagnostic
+Read,7840300,Splenectomy NEC,splenectomy,diagnostic
+Read,7840100,Total splenectomy,splenectomy,diagnostic
+Read,7840000,Total excision of spleen and replantation of fragments,splenectomy,diagnostic
+Read,7841000,Partial splenectomy,splenectomy,diagnostic

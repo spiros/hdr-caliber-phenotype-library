@@ -1,0 +1,103 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,C10F400,Type 2 diabetes mellitus with ulcer,Type 2 Diabetes,diagnostic
+Read,C109711,Type II diabetes mellitus - poor control,Type 2 Diabetes,diagnostic
+Read,C109700,Non-insulin dependent diabetes mellitus - poor control,Type 2 Diabetes,diagnostic
+Read,C109E11,Type II diabetes mellitus with diabetic cataract,Type 2 Diabetes,diagnostic
+Read,C109.11,NIDDM - Non-insulin dependent diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C10FJ00,Insulin treated Type 2 diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C10F.00,Type 2 diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C100112,Non-insulin dependent diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C109.00,Non-insulin dependent diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C10F.11,Type II diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C109G11,Type II diabetes mellitus with arthropathy,Type 2 Diabetes,diagnostic
+Read,C10FC00,Type 2 diabetes mellitus with nephropathy,Type 2 Diabetes,diagnostic
+Read,C109.12,Type 2 diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C109600,Non-insulin-dependent diabetes mellitus with retinopathy,Type 2 Diabetes,diagnostic
+Read,C10F500,Type 2 diabetes mellitus with gangrene,Type 2 Diabetes,diagnostic
+Read,C10F000,Type 2 diabetes mellitus with renal complications,Type 2 Diabetes,diagnostic
+Read,C109J12,Insulin treated Type II diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C109.13,Type II diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C109012,Type 2 diabetes mellitus with renal complications,Type 2 Diabetes,diagnostic
+Read,C10F600,Type 2 diabetes mellitus with retinopathy,Type 2 Diabetes,diagnostic
+Read,C109J00,Insulin treated Type 2 diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C10FB00,Type 2 diabetes mellitus with polyneuropathy,Type 2 Diabetes,diagnostic
+Read,C10FM00,Type 2 diabetes mellitus with persistent microalbuminuria,Type 2 Diabetes,diagnostic
+Read,C109K00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C10FQ00,Type 2 diabetes mellitus with exudative maculopathy,Type 2 Diabetes,diagnostic
+Read,C10F900,Type 2 diabetes mellitus without complication,Type 2 Diabetes,diagnostic
+Read,ZC2CA00,Dietary advice for type II diabetes,Type 2 Diabetes,diagnostic
+Read,C109C12,Type 2 diabetes mellitus with nephropathy,Type 2 Diabetes,diagnostic
+Read,C109G00,Non-insulin dependent diabetes mellitus with arthropathy,Type 2 Diabetes,diagnostic
+Read,C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy,Type 2 Diabetes,diagnostic
+Read,C109900,Non-insulin-dependent diabetes mellitus without complication,Type 2 Diabetes,diagnostic
+Read,C10FL00,Type 2 diabetes mellitus with persistent proteinuria,Type 2 Diabetes,diagnostic
+Read,C10F700,Type 2 diabetes mellitus - poor control,Type 2 Diabetes,diagnostic
+Read,C109400,Non-insulin dependent diabetes mellitus with ulcer,Type 2 Diabetes,diagnostic
+Read,C10FN00,Type 2 diabetes mellitus with ketoacidosis,Type 2 Diabetes,diagnostic
+Read,C10FK00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C10F200,Type 2 diabetes mellitus with neurological complications,Type 2 Diabetes,diagnostic
+Read,C10D.00,Diabetes mellitus autosomal dominant type 2,Type 2 Diabetes,diagnostic
+Read,C109H11,Type II diabetes mellitus with neuropathic arthropathy,Type 2 Diabetes,diagnostic
+Read,C10F311,Type II diabetes mellitus with multiple complications,Type 2 Diabetes,diagnostic
+Read,C109612,Type 2 diabetes mellitus with retinopathy,Type 2 Diabetes,diagnostic
+Read,C109J11,Insulin treated non-insulin dependent diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C109500,Non-insulin dependent diabetes mellitus with gangrene,Type 2 Diabetes,diagnostic
+Read,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy,Type 2 Diabetes,diagnostic
+Read,C109712,Type 2 diabetes mellitus - poor control,Type 2 Diabetes,diagnostic
+Read,C109E12,Type 2 diabetes mellitus with diabetic cataract,Type 2 Diabetes,diagnostic
+Read,C109D00,Non-insulin dependent diabetes mellitus with hypoglyca coma,Type 2 Diabetes,diagnostic
+Read,C109B11,Type II diabetes mellitus with polyneuropathy,Type 2 Diabetes,diagnostic
+Read,C10FE00,Type 2 diabetes mellitus with diabetic cataract,Type 2 Diabetes,diagnostic
+Read,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy,Type 2 Diabetes,diagnostic
+Read,C10F100,Type 2 diabetes mellitus with ophthalmic complications,Type 2 Diabetes,diagnostic
+Read,C109212,Type 2 diabetes mellitus with neurological complications,Type 2 Diabetes,diagnostic
+Read,C109512,Type 2 diabetes mellitus with gangrene,Type 2 Diabetes,diagnostic
+Read,C10F711,Type II diabetes mellitus - poor control,Type 2 Diabetes,diagnostic
+Read,C10FD00,Type 2 diabetes mellitus with hypoglycaemic coma,Type 2 Diabetes,diagnostic
+Read,C109D12,Type 2 diabetes mellitus with hypoglycaemic coma,Type 2 Diabetes,diagnostic
+Read,C109F11,Type II diabetes mellitus with peripheral angiopathy,Type 2 Diabetes,diagnostic
+Read,C109100,Non-insulin-dependent diabetes mellitus with ophthalm comps,Type 2 Diabetes,diagnostic
+Read,C109611,Type II diabetes mellitus with retinopathy,Type 2 Diabetes,diagnostic
+Read,C109011,Type II diabetes mellitus with renal complications,Type 2 Diabetes,diagnostic
+Read,C109G12,Type 2 diabetes mellitus with arthropathy,Type 2 Diabetes,diagnostic
+Read,C10F611,Type II diabetes mellitus with retinopathy,Type 2 Diabetes,diagnostic
+Read,C10F911,Type II diabetes mellitus without complication,Type 2 Diabetes,diagnostic
+Read,C109000,Non-insulin-dependent diabetes mellitus with renal comps,Type 2 Diabetes,diagnostic
+Read,C10FB11,Type II diabetes mellitus with polyneuropathy,Type 2 Diabetes,diagnostic
+Read,C10FP00,Type 2 diabetes mellitus with ketoacidotic coma,Type 2 Diabetes,diagnostic
+Read,C109A11,Type II diabetes mellitus with mononeuropathy,Type 2 Diabetes,diagnostic
+Read,C10F011,Type II diabetes mellitus with renal complications,Type 2 Diabetes,diagnostic
+Read,C109411,Type II diabetes mellitus with ulcer,Type 2 Diabetes,diagnostic
+Read,C109D11,Type II diabetes mellitus with hypoglycaemic coma,Type 2 Diabetes,diagnostic
+Read,C109200,Non-insulin-dependent diabetes mellitus with neuro comps,Type 2 Diabetes,diagnostic
+Read,C109111,Type II diabetes mellitus with ophthalmic complications,Type 2 Diabetes,diagnostic
+Read,C10FG00,Type 2 diabetes mellitus with arthropathy,Type 2 Diabetes,diagnostic
+Read,C10FL11,Type II diabetes mellitus with persistent proteinuria,Type 2 Diabetes,diagnostic
+Read,C109C00,Non-insulin dependent diabetes mellitus with nephropathy,Type 2 Diabetes,diagnostic
+Read,C109F12,Type 2 diabetes mellitus with peripheral angiopathy,Type 2 Diabetes,diagnostic
+Read,C10FJ11,Insulin treated Type II diabetes mellitus,Type 2 Diabetes,diagnostic
+Read,C10FA00,Type 2 diabetes mellitus with mononeuropathy,Type 2 Diabetes,diagnostic
+Read,C109300,Non-insulin-dependent diabetes mellitus with multiple comps,Type 2 Diabetes,diagnostic
+Read,C109511,Type II diabetes mellitus with gangrene,Type 2 Diabetes,diagnostic
+Read,C109C11,Type II diabetes mellitus with nephropathy,Type 2 Diabetes,diagnostic
+Read,C10FR00,Type 2 diabetes mellitus with gastroparesis,Type 2 Diabetes,diagnostic
+Read,C10F300,Type 2 diabetes mellitus with multiple complications,Type 2 Diabetes,diagnostic
+Read,66Ao.00,Diabetes type 2 review,Type 2 Diabetes,diagnostic
+Read,C109412,Type 2 diabetes mellitus with ulcer,Type 2 Diabetes,diagnostic
+Read,C109H12,Type 2 diabetes mellitus with neuropathic arthropathy,Type 2 Diabetes,diagnostic
+Read,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy,Type 2 Diabetes,diagnostic
+Read,C109211,Type II diabetes mellitus with neurological complications,Type 2 Diabetes,diagnostic
+Read,C109112,Type 2 diabetes mellitus with ophthalmic complications,Type 2 Diabetes,diagnostic
+Read,C109E00,Non-insulin depend diabetes mellitus with diabetic cataract,Type 2 Diabetes,diagnostic
+Read,C10FM11,Type II diabetes mellitus with persistent microalbuminuria,Type 2 Diabetes,diagnostic
+Read,C10F211,Type II diabetes mellitus with neurological complications,Type 2 Diabetes,diagnostic
+Read,C10FA11,Type II diabetes mellitus with mononeuropathy,Type 2 Diabetes,diagnostic
+Read,C10F411,Type II diabetes mellitus with ulcer,Type 2 Diabetes,diagnostic
+Read,C10FE11,Type II diabetes mellitus with diabetic cataract,Type 2 Diabetes,diagnostic
+Read,C10F511,Type II diabetes mellitus with gangrene,Type 2 Diabetes,diagnostic
+Read,66At100,Type II diabetic dietary review,Type 2 Diabetes,diagnostic
+Read,C10F111,Type II diabetes mellitus with ophthalmic complications,Type 2 Diabetes,diagnostic
+Read,C10FD11,Type II diabetes mellitus with hypoglycaemic coma,Type 2 Diabetes,diagnostic
+Read,C10FG11,Type II diabetes mellitus with arthropathy,Type 2 Diabetes,diagnostic
+Read,66At111,Type 2 diabetic dietary review,Type 2 Diabetes,diagnostic
+Read,C10FC11,Type II diabetes mellitus with nephropathy,Type 2 Diabetes,diagnostic

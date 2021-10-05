@@ -1,0 +1,79 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu60y14,[X]Narcissistic personality disorder,res38: Personality disorder,diagnostic
+Read,Eu06000,[X]Organic personality disorder,res38: Personality disorder,diagnostic
+Read,E211000,Unspecified affective personality disorder,res38: Personality disorder,diagnostic
+Read,E21z.11,Psychopathic personality,res38: Personality disorder,diagnostic
+Read,E21..00,Personality disorders,res38: Personality disorder,diagnostic
+Read,E211.00,Affective personality disorder,res38: Personality disorder,diagnostic
+Read,E214.11,Anancastic personality,res38: Personality disorder,diagnostic
+Read,E210.00,Paranoid personality disorder,res38: Personality disorder,diagnostic
+Read,E21..11,Neurotic personality disorder,res38: Personality disorder,diagnostic
+Read,E211z00,Affective personality disorder NOS,res38: Personality disorder,diagnostic
+Read,E214.00,Compulsive personality disorders,res38: Personality disorder,diagnostic
+Read,E211300,Cyclothymic personality disorder,res38: Personality disorder,diagnostic
+Read,E211100,Hypomanic personality disorder,res38: Personality disorder,diagnostic
+Read,E211200,Depressive personality disorder,res38: Personality disorder,diagnostic
+Read,E212.00,Schizoid personality disorder,res38: Personality disorder,diagnostic
+Read,E213.00,Explosive personality disorder,res38: Personality disorder,diagnostic
+Read,E212z00,Schizoid personality disorder NOS,res38: Personality disorder,diagnostic
+Read,E212000,Unspecified schizoid personality disorder,res38: Personality disorder,diagnostic
+Read,E21z.00,Personality disorder NOS,res38: Personality disorder,diagnostic
+Read,E215.00,Histrionic personality disorders,res38: Personality disorder,diagnostic
+Read,E217.00,Antisocial or sociopathic personality disorder,res38: Personality disorder,diagnostic
+Read,E214z00,Compulsive personality disorder NOS,res38: Personality disorder,diagnostic
+Read,E214000,Anankastic personality,res38: Personality disorder,diagnostic
+Read,E215.11,Hysterical personality disorders,res38: Personality disorder,diagnostic
+Read,E216.00,Inadequate personality disorder,res38: Personality disorder,diagnostic
+Read,E215z00,Histrionic personality disorder NOS,res38: Personality disorder,diagnostic
+Read,E215000,Unspecified histrionic personality disorder,res38: Personality disorder,diagnostic
+Read,E21yz00,Other personality disorder NOS,res38: Personality disorder,diagnostic
+Read,E21y.00,Other personality disorders,res38: Personality disorder,diagnostic
+Read,E21y300,Passive-aggressive personality disorder,res38: Personality disorder,diagnostic
+Read,E21y200,Borderline personality disorder,res38: Personality disorder,diagnostic
+Read,E21y000,Narcissistic personality disorder,res38: Personality disorder,diagnostic
+Read,E21y100,Avoidant personality disorder,res38: Personality disorder,diagnostic
+Read,E21y400,Eccentric personality disorder,res38: Personality disorder,diagnostic
+Read,E21y700,Psychoneurotic personality disorder,res38: Personality disorder,diagnostic
+Read,E21y600,Masochistic personality disorder,res38: Personality disorder,diagnostic
+Read,E21y500,Immature personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60y00,[X]Other specific personality disorders,res38: Personality disorder,diagnostic
+Read,Eu60300,[X]Emotionally unstable personality disorder,res38: Personality disorder,diagnostic
+Read,Eu34011,[X]Affective personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60y13,[X]Immature personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60013,[X]Querulant personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60215,[X]Sociopathic personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60000,[X]Paranoid personality disorder,res38: Personality disorder,diagnostic
+Read,Eu34112,[X]Depressive personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60.00,[X]Specific personality disorders,res38: Personality disorder,diagnostic
+Read,Eu60214,[X]Psychopathic personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60100,[X]Schizoid personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60014,[X]Sensitive paranoid personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60213,[X]Asocial personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60200,[X]Dissocial personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60212,[X]Antisocial personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60714,[X]Self defeating personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60311,[X]Aggressive personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60511,[X]Compulsive personality disorder,res38: Personality disorder,diagnostic
+Read,Eu21.18,[X]Schizotypal personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60500,[X]Anankastic personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60313,[X]Explosive personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60312,[X]Borderline personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60412,[X]Psychoinfantile personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60400,[X]Histrionic personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60411,[X]Hysterical personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60713,[X]Passive personality disorder,res38: Personality disorder,diagnostic
+Read,Eu21.17,[X]Pseudopsychopathic schizophrenia,res38: Personality disorder,diagnostic
+Read,Eu60600,[X]Anxious [avoidant] personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60513,[X]Obsessive-compulsive personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60512,[X]Obsessional personality disorder,res38: Personality disorder,diagnostic
+Read,Eu06011,[X]Organic pseudopsychopathic personality,res38: Personality disorder,diagnostic
+Read,Eu60712,[X]Inadequate personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60711,[X]Asthenic personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60700,[X]Dependent personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60y11,[X]Eccentric personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60y12,[X]Haltlose type personality disorder,res38: Personality disorder,diagnostic
+Read,Eu60z00,"[X]Personality disorder, unspecified",res38: Personality disorder,diagnostic
+Read,Eu60y16,[X]Psychoneurotic personality disorder,res38: Personality disorder,diagnostic
+Read,Eu94211,[X]Affectionless psychopathy,res38: Personality disorder,diagnostic
+Read,Eu61.00,[X]Mixed and other personality disorders,res38: Personality disorder,diagnostic
+Read,Eu84511,[X]Autistic psychopathy,res38: Personality disorder,diagnostic

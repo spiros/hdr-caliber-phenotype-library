@@ -1,0 +1,53 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4130,Angina pectoris with hypertension,res15: Angina,diagnostic
+OXMIS,4119P,Syndrome preinfarction myocardia,res15: Angina,diagnostic
+OXMIS,4130E,Angina effort with hypertension,res15: Angina,diagnostic
+OXMIS,4139AT,Angina atypical,res15: Angina,diagnostic
+OXMIS,4139CO,Angina crescendo,res15: Angina,diagnostic
+OXMIS,4139M,Syndrome anginal,res15: Angina,diagnostic
+OXMIS,4139N,Angina,res15: Angina,diagnostic
+OXMIS,4139PB,Prinzmetal's angina,res15: Angina,diagnostic
+OXMIS,4139U,Unstable angina,res15: Angina,diagnostic
+OXMIS,4139E,Angina effort,res15: Angina,diagnostic
+OXMIS,4129RE,Sclerosis endocardial,res15: Angina,diagnostic
+OXMIS,4139,Angina pectoris,res15: Angina,diagnostic
+OXMIS,4139C,Cardiac angina,res15: Angina,diagnostic
+OXMIS,4139AA,Angina attack,res15: Angina,diagnostic
+OXMIS,4139PC,Variant angina pectoris,res15: Angina,diagnostic
+OXMIS,4139PA,Angina inversa,res15: Angina,diagnostic
+Read,14AJ.00,H/O: Angina in last year,res15: Angina,diagnostic
+Read,G311.11,Crescendo angina,res15: Angina,diagnostic
+Read,G311.13,Unstable angina,res15: Angina,diagnostic
+Read,G311100,Unstable angina,res15: Angina,diagnostic
+Read,G311300,Refractory angina,res15: Angina,diagnostic
+Read,G311500,Acute coronary syndrome,res15: Angina,diagnostic
+Read,G312.00,Coronary thrombosis not resulting in MI,res15: Angina,diagnostic
+Read,G31y300,Transient myocardial ischaemia,res15: Angina,diagnostic
+Read,G330.00,Angina decubitus,res15: Angina,diagnostic
+Read,G330z00,Angina decubitus NOS,res15: Angina,diagnostic
+Read,G331.11,Variant angina pectoris,res15: Angina,diagnostic
+Read,g332.00,Coronary artery spasm,res15: Angina,diagnostic
+Read,G33z000,Status anginosus,res15: Angina,diagnostic
+Read,G33z200,Syncope anginosa,res15: Angina,diagnostic
+Read,G33z600,New onset angina,res15: Angina,diagnostic
+Read,G33zz00,Angina pectoris NOS,res15: Angina,diagnostic
+Read,G34y100,Chronic myocardial ischaemia,res15: Angina,diagnostic
+Read,G31y200,Subendocardial ischaemia,res15: Angina,diagnostic
+Read,G33z700,Stable angina,res15: Angina,diagnostic
+Read,G33z300,Angina on effort,res15: Angina,diagnostic
+Read,G311.12,Impending infarction,res15: Angina,diagnostic
+Read,G33..00,Angina pectoris,res15: Angina,diagnostic
+Read,G33z100,Stenocardia,res15: Angina,diagnostic
+Read,G311.00,Preinfarction syndrome,res15: Angina,diagnostic
+Read,14A5.00,H/O: angina pectoris,res15: Angina,diagnostic
+Read,G311.14,Angina at rest,res15: Angina,diagnostic
+Read,G311z00,Preinfarction syndrome NOS,res15: Angina,diagnostic
+Read,G31y000,Acute coronary insufficiency,res15: Angina,diagnostic
+Read,G311400,Worsening angina,res15: Angina,diagnostic
+Read,G311200,Angina at rest,res15: Angina,diagnostic
+Read,G331.00,Prinzmetal's angina,res15: Angina,diagnostic
+Read,G33z.00,Angina pectoris NOS,res15: Angina,diagnostic
+Read,G330000,Nocturnal angina,res15: Angina,diagnostic
+Read,G332.00,Coronary artery spasm,res15: Angina,diagnostic
+Read,G34y000,Chronic coronary insufficiency,res15: Angina,diagnostic
+Read,Gyu3000,[X]Other forms of angina pectoris,res15: Angina,diagnostic

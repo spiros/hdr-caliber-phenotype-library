@@ -1,0 +1,25 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,66e0.00,Alcohol abuse monitoring,res58: psychosocial support,diagnostic
+Read,9k1..00,Alcohol misuse - enhanced services administration,res58: psychosocial support,diagnostic
+Read,8CAv.00,Advised to contact primary care alcohol worker,res58: psychosocial support,diagnostic
+Read,ZV6D600,[V]Alcohol abuse counselling and surveillance,res58: psychosocial support,diagnostic
+Read,8HkJ.00,Referral to alcohol brief intervention service,res58: psychosocial support,diagnostic
+Read,Z191211,alcohol reduction programme,res58: psychosocial support,diagnostic
+Read,Z191100,alcohol withdrawal regime,res58: psychosocial support,diagnostic
+Read,8IAt.00,Extended intervention for excessive alcohol consumption declined,res58: psychosocial support,diagnostic
+Read,8IEA.00,Referral to community alcohol team declined,res58: psychosocial support,diagnostic
+Read,9k11.00,Alcohol consumption counselling,res58: psychosocial support,diagnostic
+Read,8HkG.00,Referral to specialist alcohol treatment service,res58: psychosocial support,diagnostic
+Read,8IAJ.00,Declined referral to specialist alcohol treatment service,res58: psychosocial support,diagnostic
+Read,7P22100,Delivery of rehabilitation for alcohol addiction,res58: psychosocial support,diagnostic
+Read,ZV57A00,[V]Alcohol rehabilitation,res58: psychosocial support,diagnostic
+Read,9k14.00,Alcohol counselling by other agencies,res58: psychosocial support,diagnostic
+Read,Z4B1.00,Alcoholism counselling,res58: psychosocial support,diagnostic
+Read,8H7p.00,Referral to community alcohol team,res58: psychosocial support,diagnostic
+Read,8IAF.00,brief intervention for excessive alcohol consumptn declined,res58: psychosocial support,diagnostic
+Read,13Y8.00,Alcoholics anonymous,res58: psychosocial support,diagnostic
+Read,9k1B.00,Extended intervention for excessive alcohol consumption completed,res58: psychosocial support,diagnostic
+Read,9NN2.00,Under care of community alcohol team,res58: psychosocial support,diagnostic
+Read,9k12.00,Alcohol misuse - enhanced service completed,res58: psychosocial support,diagnostic
+Read,8HHe.00,Referral to community drug and alcohol team,res58: psychosocial support,diagnostic
+Read,9k1A.00,Brief intervention for excessive alcohol consumption completed,res58: psychosocial support,diagnostic

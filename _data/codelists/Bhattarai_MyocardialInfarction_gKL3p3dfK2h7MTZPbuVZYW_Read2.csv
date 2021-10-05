@@ -1,0 +1,48 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G350.00,Subsequent myocardial infarction of anterior wall,res12: Myocardial_infarction,diagnostic
+Read,G381.00,Postoperative transmural myocardial infarction inferior wall,res12: Myocardial_infarction,diagnostic
+Read,323Z.00,ECG: myocardial infarct NOS,res12: Myocardial_infarction,diagnostic
+Read,G30X.00,Acute transmural myocardial infarction of unspecif site,res12: Myocardial_infarction,diagnostic
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,res12: Myocardial_infarction,diagnostic
+Read,G306.00,True posterior myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G30A.00,Mural thrombosis,res12: Myocardial_infarction,diagnostic
+Read,G30..00,Acute myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G307100,Acute non-ST segment elevation myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G32..00,Old myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G301.00,Other specified anterior myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G30..14,Heart attack,res12: Myocardial_infarction,diagnostic
+Read,G303.00,Acute inferoposterior infarction,res12: Myocardial_infarction,diagnostic
+Read,G30..12,Coronary thrombosis,res12: Myocardial_infarction,diagnostic
+Read,G344.00,Silent myocardial ischaemia,res12: Myocardial_infarction,diagnostic
+Read,G30..13,Cardiac rupture following myocardial infarction (MI),res12: Myocardial_infarction,diagnostic
+Read,G305.00,Lateral myocardial infarction NOS,res12: Myocardial_infarction,diagnostic
+Read,G30yz00,Other acute myocardial infarction NOS,res12: Myocardial_infarction,diagnostic
+Read,G351.00,Subsequent myocardial infarction of inferior wall,res12: Myocardial_infarction,diagnostic
+Read,G301000,Acute anteroapical infarction,res12: Myocardial_infarction,diagnostic
+Read,G32..11,Healed myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G30..16,Thrombosis - coronary,res12: Myocardial_infarction,diagnostic
+Read,G30B.00,Acute posterolateral myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,res12: Myocardial_infarction,diagnostic
+Read,G310.00,Postmyocardial infarction syndrome,res12: Myocardial_infarction,diagnostic
+Read,G35..00,Subsequent myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G31y300,Transient myocardial ischaemia,res12: Myocardial_infarction,diagnostic
+Read,G30y200,Acute septal infarction,res12: Myocardial_infarction,diagnostic
+Read,G302.00,Acute inferolateral infarction,res12: Myocardial_infarction,diagnostic
+Read,G30z.00,Acute myocardial infarction NOS,res12: Myocardial_infarction,diagnostic
+Read,G30..15,MI - acute myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G38..00,Postoperative myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G307.00,Acute subendocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G300.00,Acute anterolateral infarction,res12: Myocardial_infarction,diagnostic
+Read,G308.00,Inferior myocardial infarction NOS,res12: Myocardial_infarction,diagnostic
+Read,G301z00,Anterior myocardial infarction NOS,res12: Myocardial_infarction,diagnostic
+Read,G307000,Acute non-Q wave infarction,res12: Myocardial_infarction,diagnostic
+Read,G32..12,Personal history of myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G301100,Acute anteroseptal infarction,res12: Myocardial_infarction,diagnostic
+Read,323..00,ECG: myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G304.00,Posterior myocardial infarction NOS,res12: Myocardial_infarction,diagnostic
+Read,G30..17,Silent myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G30..11,Attack - heart,res12: Myocardial_infarction,diagnostic
+Read,G309.00,Acute Q-wave infarct,res12: Myocardial_infarction,diagnostic
+Read,G30y.00,Other acute myocardial infarction,res12: Myocardial_infarction,diagnostic
+Read,G310.11,Dressler's syndrome,res12: Myocardial_infarction,diagnostic

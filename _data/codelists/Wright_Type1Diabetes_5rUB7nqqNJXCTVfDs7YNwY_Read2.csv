@@ -1,0 +1,104 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,C108.00,Insulin dependent diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C10E.00,Type 1 diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C10EL00,Type 1 diabetes mellitus with persistent microalbuminuria,res56: Type 1 Diabetes,diagnostic
+Read,C108700,Insulin dependent diabetes mellitus with retinopathy,res56: Type 1 Diabetes,diagnostic
+Read,C10ED00,Type 1 diabetes mellitus with nephropathy,res56: Type 1 Diabetes,diagnostic
+Read,C108.13,Type I diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C108012,Type 1 diabetes mellitus with renal complications,res56: Type 1 Diabetes,diagnostic
+Read,C108.12,Type 1 diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C10E500,Type 1 diabetes mellitus with ulcer,res56: Type 1 Diabetes,diagnostic
+Read,C108.11,IDDM-Insulin dependent diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C10E700,Type 1 diabetes mellitus with retinopathy,res56: Type 1 Diabetes,diagnostic
+Read,C10EP00,Type 1 diabetes mellitus with exudative maculopathy,res56: Type 1 Diabetes,diagnostic
+Read,C108D11,Type I diabetes mellitus with nephropathy,res56: Type 1 Diabetes,diagnostic
+Read,C10E312,Insulin dependent diabetes mellitus with multiple complicat,res56: Type 1 Diabetes,diagnostic
+Read,C10EN11,Type I diabetes mellitus with ketoacidotic coma,res56: Type 1 Diabetes,diagnostic
+Read,C108J00,Insulin dependent diab mell with neuropathic arthropathy,res56: Type 1 Diabetes,diagnostic
+Read,C10EE00,Type 1 diabetes mellitus with hypoglycaemic coma,res56: Type 1 Diabetes,diagnostic
+Read,C10EK00,Type 1 diabetes mellitus with persistent proteinuria,res56: Type 1 Diabetes,diagnostic
+Read,C108500,Insulin dependent diabetes mellitus with ulcer,res56: Type 1 Diabetes,diagnostic
+Read,C108E11,Type I diabetes mellitus with hypoglycaemic coma,res56: Type 1 Diabetes,diagnostic
+Read,C10EN00,Type 1 diabetes mellitus with ketoacidotic coma,res56: Type 1 Diabetes,diagnostic
+Read,C108C00,Insulin dependent diabetes mellitus with polyneuropathy,res56: Type 1 Diabetes,diagnostic
+Read,C108712,Type 1 diabetes mellitus with retinopathy,res56: Type 1 Diabetes,diagnostic
+Read,C108E00,Insulin dependent diabetes mellitus with hypoglycaemic coma,res56: Type 1 Diabetes,diagnostic
+Read,C10E200,Type 1 diabetes mellitus with neurological complications,res56: Type 1 Diabetes,diagnostic
+Read,C108F00,Insulin dependent diabetes mellitus with diabetic cataract,res56: Type 1 Diabetes,diagnostic
+Read,C10E400,Unstable type 1 diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C108H00,Insulin dependent diabetes mellitus with arthropathy,res56: Type 1 Diabetes,diagnostic
+Read,C108200,Insulin-dependent diabetes mellitus with neurological comps,res56: Type 1 Diabetes,diagnostic
+Read,C10E100,Type 1 diabetes mellitus with ophthalmic complications,res56: Type 1 Diabetes,diagnostic
+Read,C10EC00,Type 1 diabetes mellitus with polyneuropathy,res56: Type 1 Diabetes,diagnostic
+Read,C108812,Type 1 diabetes mellitus - poor control,res56: Type 1 Diabetes,diagnostic
+Read,C10E000,Type 1 diabetes mellitus with renal complications,res56: Type 1 Diabetes,diagnostic
+Read,C108811,Type I diabetes mellitus - poor control,res56: Type 1 Diabetes,diagnostic
+Read,C108000,Insulin-dependent diabetes mellitus with renal complications,res56: Type 1 Diabetes,diagnostic
+Read,C10E.12,Insulin dependent diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C108211,Type I diabetes mellitus with neurological complications,res56: Type 1 Diabetes,diagnostic
+Read,C10E300,Type 1 diabetes mellitus with multiple complications,res56: Type 1 Diabetes,diagnostic
+Read,C10E411,Unstable type I diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C108100,Insulin-dependent diabetes mellitus with ophthalmic comps,res56: Type 1 Diabetes,diagnostic
+Read,C10EF00,Type 1 diabetes mellitus with diabetic cataract,res56: Type 1 Diabetes,diagnostic
+Read,C108G00,Insulin dependent diab mell with peripheral angiopathy,res56: Type 1 Diabetes,diagnostic
+Read,C108J11,Type I diabetes mellitus with neuropathic arthropathy,res56: Type 1 Diabetes,diagnostic
+Read,C108D00,Insulin dependent diabetes mellitus with nephropathy,res56: Type 1 Diabetes,diagnostic
+Read,C108A00,Insulin-dependent diabetes without complication,res56: Type 1 Diabetes,diagnostic
+Read,C108911,Type I diabetes mellitus maturity onset,res56: Type 1 Diabetes,diagnostic
+Read,C108212,Type 1 diabetes mellitus with neurological complications,res56: Type 1 Diabetes,diagnostic
+Read,C108600,Insulin dependent diabetes mellitus with gangrene,res56: Type 1 Diabetes,diagnostic
+Read,C108011,Type I diabetes mellitus with renal complications,res56: Type 1 Diabetes,diagnostic
+Read,C10EA11,Type I diabetes mellitus without complication,res56: Type 1 Diabetes,diagnostic
+Read,C10EM11,Type I diabetes mellitus with ketoacidosis,res56: Type 1 Diabetes,diagnostic
+Read,C108H11,Type I diabetes mellitus with arthropathy,res56: Type 1 Diabetes,diagnostic
+Read,C108B00,Insulin dependent diabetes mellitus with mononeuropathy,res56: Type 1 Diabetes,diagnostic
+Read,C10EA00,Type 1 diabetes mellitus without complication,res56: Type 1 Diabetes,diagnostic
+Read,C108512,Type 1 diabetes mellitus with ulcer,res56: Type 1 Diabetes,diagnostic
+Read,C10EB00,Type 1 diabetes mellitus with mononeuropathy,res56: Type 1 Diabetes,diagnostic
+Read,C108J12,Type 1 diabetes mellitus with neuropathic arthropathy,res56: Type 1 Diabetes,diagnostic
+Read,C10E812,Insulin dependent diabetes mellitus - poor control,res56: Type 1 Diabetes,diagnostic
+Read,C10E600,Type 1 diabetes mellitus with gangrene,res56: Type 1 Diabetes,diagnostic
+Read,C108E12,Type 1 diabetes mellitus with hypoglycaemic coma,res56: Type 1 Diabetes,diagnostic
+Read,C100011,Insulin dependent diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C10E311,Type I diabetes mellitus with multiple complications,res56: Type 1 Diabetes,diagnostic
+Read,C10EC11,Type I diabetes mellitus with polyneuropathy,res56: Type 1 Diabetes,diagnostic
+Read,C10E111,Type I diabetes mellitus with ophthalmic complications,res56: Type 1 Diabetes,diagnostic
+Read,C108300,Insulin dependent diabetes mellitus with multiple complicatn,res56: Type 1 Diabetes,diagnostic
+Read,C10E511,Type I diabetes mellitus with ulcer,res56: Type 1 Diabetes,diagnostic
+Read,C10E712,Insulin dependent diabetes mellitus with retinopathy,res56: Type 1 Diabetes,diagnostic
+Read,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy,res56: Type 1 Diabetes,diagnostic
+Read,C108B11,Type I diabetes mellitus with mononeuropathy,res56: Type 1 Diabetes,diagnostic
+Read,C108412,Unstable type 1 diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C10E711,Type I diabetes mellitus with retinopathy,res56: Type 1 Diabetes,diagnostic
+Read,C108A11,Type I diabetes mellitus without complication,res56: Type 1 Diabetes,diagnostic
+Read,C10E512,Insulin dependent diabetes mellitus with ulcer,res56: Type 1 Diabetes,diagnostic
+Read,C10EP11,Type I diabetes mellitus with exudative maculopathy,res56: Type 1 Diabetes,diagnostic
+Read,C10E112,Insulin-dependent diabetes mellitus with ophthalmic comps,res56: Type 1 Diabetes,diagnostic
+Read,C10EF12,Insulin dependent diabetes mellitus with diabetic cataract,res56: Type 1 Diabetes,diagnostic
+Read,C10EE12,Insulin dependent diabetes mellitus with hypoglycaemic coma,res56: Type 1 Diabetes,diagnostic
+Read,C10EA12,Insulin-dependent diabetes without complication,res56: Type 1 Diabetes,diagnostic
+Read,C10E611,Type I diabetes mellitus with gangrene,res56: Type 1 Diabetes,diagnostic
+Read,C10E212,Insulin-dependent diabetes mellitus with neurological comps,res56: Type 1 Diabetes,diagnostic
+Read,C10EC12,Insulin dependent diabetes mellitus with polyneuropathy,res56: Type 1 Diabetes,diagnostic
+Read,C108311,Type I diabetes mellitus with multiple complications,res56: Type 1 Diabetes,diagnostic
+Read,C10EL11,Type I diabetes mellitus with persistent microalbuminuria,res56: Type 1 Diabetes,diagnostic
+Read,C10ED12,Insulin dependent diabetes mellitus with nephropathy,res56: Type 1 Diabetes,diagnostic
+Read,C10E811,Type I diabetes mellitus - poor control,res56: Type 1 Diabetes,diagnostic
+Read,C10E012,Insulin-dependent diabetes mellitus with renal complications,res56: Type 1 Diabetes,diagnostic
+Read,C108112,Type 1 diabetes mellitus with ophthalmic complications,res56: Type 1 Diabetes,diagnostic
+Read,C10E011,Type I diabetes mellitus with renal complications,res56: Type 1 Diabetes,diagnostic
+Read,C108F12,Type 1 diabetes mellitus with diabetic cataract,res56: Type 1 Diabetes,diagnostic
+Read,C108800,Insulin dependent diabetes mellitus - poor control,res56: Type 1 Diabetes,diagnostic
+Read,C10EM00,Type 1 diabetes mellitus with ketoacidosis,res56: Type 1 Diabetes,diagnostic
+Read,C10E.11,Type I diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C108F11,Type I diabetes mellitus with diabetic cataract,res56: Type 1 Diabetes,diagnostic
+Read,C10EH00,Type 1 diabetes mellitus with arthropathy,res56: Type 1 Diabetes,diagnostic
+Read,C10E800,Type 1 diabetes mellitus - poor control,res56: Type 1 Diabetes,diagnostic
+Read,C108711,Type I diabetes mellitus with retinopathy,res56: Type 1 Diabetes,diagnostic
+Read,C108511,Type I diabetes mellitus with ulcer,res56: Type 1 Diabetes,diagnostic
+Read,C10EJ00,Type 1 diabetes mellitus with neuropathic arthropathy,res56: Type 1 Diabetes,diagnostic
+Read,C10E412,Unstable insulin dependent diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C10EQ00,Type 1 diabetes mellitus with gastroparesis,res56: Type 1 Diabetes,diagnostic
+Read,C108411,Unstable type I diabetes mellitus,res56: Type 1 Diabetes,diagnostic
+Read,C10EQ11,Type I diabetes mellitus with gastroparesis,res56: Type 1 Diabetes,diagnostic
+Read,C10E612,Insulin dependent diabetes mellitus with gangrene,res56: Type 1 Diabetes,diagnostic

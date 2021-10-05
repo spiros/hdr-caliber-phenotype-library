@@ -1,0 +1,63 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G311300,Refractory angina,res21: CHD,diagnostic
+Read,G33..00,Angina pectoris,res21: CHD,diagnostic
+Read,G33z300,Angina on effort,res21: CHD,diagnostic
+Read,G340.12,Coronary artery disease,res21: CHD,diagnostic
+Read,G3...00,Ischaemic heart disease,res21: CHD,diagnostic
+Read,G310.11,Dressler's syndrome,res21: CHD,diagnostic
+Read,G340.00,Coronary atherosclerosis,res21: CHD,diagnostic
+Read,G331.00,Prinzmetal's angina,res21: CHD,diagnostic
+Read,G3z..00,Ischaemic heart disease NOS,res21: CHD,diagnostic
+Read,G340.11,Triple vessel disease of the heart,res21: CHD,diagnostic
+Read,G311.13,Unstable angina,res21: CHD,diagnostic
+Read,G340100,Double coronary vessel disease,res21: CHD,diagnostic
+Read,G340000,Single coronary vessel disease,res21: CHD,diagnostic
+Read,G3...13,IHD - Ischaemic heart disease,res21: CHD,diagnostic
+Read,G311.11,Crescendo angina,res21: CHD,diagnostic
+Read,G32..00,Old myocardial infarction,res21: CHD,diagnostic
+Read,G31y000,Acute coronary insufficiency,res21: CHD,diagnostic
+Read,G33z700,Stable angina,res21: CHD,diagnostic
+Read,G33z200,Syncope anginosa,res21: CHD,diagnostic
+Read,G343.00,Ischaemic cardiomyopathy,res21: CHD,diagnostic
+Read,G311100,Unstable angina,res21: CHD,diagnostic
+Read,G31y.00,Other acute and subacute ischaemic heart disease,res21: CHD,diagnostic
+Read,G311500,Acute coronary syndrome,res21: CHD,diagnostic
+Read,G331.11,Variant angina pectoris,res21: CHD,diagnostic
+Read,G33z500,Post infarct angina,res21: CHD,diagnostic
+Read,G32..11,Healed myocardial infarction,res21: CHD,diagnostic
+Read,G3...12,Atherosclerotic heart disease,res21: CHD,diagnostic
+Read,G34z.00,Other chronic ischaemic heart disease NOS,res21: CHD,diagnostic
+Read,G34..00,Other chronic ischaemic heart disease,res21: CHD,diagnostic
+Read,G330.00,Angina decubitus,res21: CHD,diagnostic
+Read,G32..12,Personal history of myocardial infarction,res21: CHD,diagnostic
+Read,G311200,Angina at rest,res21: CHD,diagnostic
+Read,G311.14,Angina at rest,res21: CHD,diagnostic
+Read,G330000,Nocturnal angina,res21: CHD,diagnostic
+Read,G34z000,Asymptomatic coronary heart disease,res21: CHD,diagnostic
+Read,G31yz00,Other acute and subacute ischaemic heart disease NOS,res21: CHD,diagnostic
+Read,G31y300,Transient myocardial ischaemia,res21: CHD,diagnostic
+Read,G34y000,Chronic coronary insufficiency,res21: CHD,diagnostic
+Read,G310.00,Postmyocardial infarction syndrome,res21: CHD,diagnostic
+Read,G3y..00,Other specified ischaemic heart disease,res21: CHD,diagnostic
+Read,G34y100,Chronic myocardial ischaemia,res21: CHD,diagnostic
+Read,G3...11,Arteriosclerotic heart disease,res21: CHD,diagnostic
+Read,G31..00,Other acute and subacute ischaemic heart disease,res21: CHD,diagnostic
+Read,G33z600,New onset angina,res21: CHD,diagnostic
+Read,G33z.00,Angina pectoris NOS,res21: CHD,diagnostic
+Read,G330z00,Angina decubitus NOS,res21: CHD,diagnostic
+Read,G344.00,Silent myocardial ischaemia,res21: CHD,diagnostic
+Read,G33zz00,Angina pectoris NOS,res21: CHD,diagnostic
+Read,G332.00,Coronary artery spasm,res21: CHD,diagnostic
+Read,G34y.00,Other specified chronic ischaemic heart disease,res21: CHD,diagnostic
+Read,G342.00,Atherosclerotic cardiovascular disease,res21: CHD,diagnostic
+Read,G311.00,Preinfarction syndrome,res21: CHD,diagnostic
+Read,G34yz00,Other specified chronic ischaemic heart disease NOS,res21: CHD,diagnostic
+Read,Gyu3300,[X]Other forms of chronic ischaemic heart disease,res21: CHD,diagnostic
+Read,G31y200,Subendocardial ischaemia,res21: CHD,diagnostic
+Read,G311.12,Impending infarction,res21: CHD,diagnostic
+Read,Gyu3.00,[X]Ischaemic heart diseases,res21: CHD,diagnostic
+Read,G33z000,Status anginosus,res21: CHD,diagnostic
+Read,G33z100,Stenocardia,res21: CHD,diagnostic
+Read,G311z00,Preinfarction syndrome NOS,res21: CHD,diagnostic
+Read,Gyu3200,[X]Other forms of acute ischaemic heart disease,res21: CHD,diagnostic
+Read,G33z400,Ischaemic chest pain,res21: CHD,diagnostic

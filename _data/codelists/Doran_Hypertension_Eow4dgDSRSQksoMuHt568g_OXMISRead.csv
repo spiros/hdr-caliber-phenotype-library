@@ -1,0 +1,166 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4003,HYPERTENSIVE NEPHROPATHY,hypertension,diagnostic
+OXMIS,4000,MALIGNANT HYPERTENSION,hypertension,diagnostic
+OXMIS,4003AA,HYPERTENSIVE RENAL DISEASE,hypertension,diagnostic
+OXMIS,4100NA,MYOCARDIAL INFARCT ACUTE WITH HYPERTENSI,hypertension,diagnostic
+OXMIS,401,BENIGN HYPERTENSION,hypertension,diagnostic
+OXMIS,401 EL,HYPERTENSION ARTERIAL SYSTEMIC,hypertension,diagnostic
+OXMIS,401 E,HYPERTENSION ARTERIAL,hypertension,diagnostic
+OXMIS,401 DC,HYPERTENSION DIASTOLIC,hypertension,diagnostic
+OXMIS,401 AT,HYPERTENSION ATHEROSCLEROTIC,hypertension,diagnostic
+OXMIS,401 AR,HYPERTENSION ARTERIOSCLEROTIC,hypertension,diagnostic
+OXMIS,401 AC,HYPERTENSION ACCELERATED,hypertension,diagnostic
+OXMIS,401 A,HYPERTENSION,hypertension,diagnostic
+OXMIS,401 C,HYPERTENSION ESSENTIAL,hypertension,diagnostic
+OXMIS,401 BN,HYPERTENSION BENIGN,hypertension,diagnostic
+OXMIS,401 BM,HYPERTENSION ON TREATMENT,hypertension,diagnostic
+OXMIS,401 BR,HYPERTENSION RESOLVED,hypertension,diagnostic
+OXMIS,4100N,MYOCARDIAL INFARCT WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,403 AA,RENAL HYPERTENSIVE DISEASE,hypertension,diagnostic
+OXMIS,401 LB,HYPERTENSION LABILE INTERMITTENT,hypertension,diagnostic
+OXMIS,403,RENAL HYPERTENSION,hypertension,diagnostic
+OXMIS,401 PA,HYPERTENSION PRIMARY,hypertension,diagnostic
+OXMIS,401 P,HYPERTENSION ARTERIAL PRIMARY,hypertension,diagnostic
+OXMIS,401 NC,HYPERTENSION NECROTIZING STAGES,hypertension,diagnostic
+OXMIS,402 VH,VENTRICULAR HYPERTROPHY HYPERTENSIVE,hypertension,diagnostic
+OXMIS,401 S,HYPERTENSION SYSTOLIC,hypertension,diagnostic
+OXMIS,402 MF,MYOCARDIAL FIBROSIS WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,402,HYPERTENSIVE HEART DISEASE,hypertension,diagnostic
+OXMIS,402 C,HYPERTENSION CONGESTIVE HEART FAILURE,hypertension,diagnostic
+OXMIS,403 NG,HYPERTENSIVE GLOMERULOSCLEROSIS,hypertension,diagnostic
+OXMIS,403 AH,RENOVASCULAR HYPERTENSION,hypertension,diagnostic
+OXMIS,403 NC,HYPERTENSION IMPAIRED RENAL FUNCTION,hypertension,diagnostic
+OXMIS,403 NF,HYPERTENSION RENAL INSUFFICIENCY,hypertension,diagnostic
+OXMIS,4370,CEREBRAL ISCHAEMIA HYPERTENSIVE,hypertension,diagnostic
+OXMIS,4120A,ISCHAEMIC HEART DISEASE HYPERTENSIVE,hypertension,diagnostic
+OXMIS,4100T,THROMBOSIS CORONARY WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,4120,INSUFFICIENCY CORONARY HYPERTENSIVE,hypertension,diagnostic
+OXMIS,4130E,ANGINA EFFORT WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,4360D,HYPERTENSIVE ENCEPHALOPATHY,hypertension,diagnostic
+OXMIS,4120BD,SYNDROME DRESSLER'S WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,4130,ANGINA PECTORIS WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,4120M,MYOCARDIAL ISCHAEMIA WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,4120CA,CORONARY ARTERY DISEASE WITH HYPERTENSIO,hypertension,diagnostic
+OXMIS,4360B,STROKE WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,4310,HAEMORRHAGE INTRACEREBRAL WITH HYPERTENS,hypertension,diagnostic
+OXMIS,4300,SUBARACHNOID HAEMORRHAGE WITH HYPERTENSI,hypertension,diagnostic
+OXMIS,4140,ASYMPTOMATIC HYPERTENSIVE ISCHAEMIC HEAR,hypertension,diagnostic
+OXMIS,4330,CEREBRAL THROMBOSIS WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,4360A,CEREBROVASCULAR ACCIDENT WITH HYPERTENSI,hypertension,diagnostic
+OXMIS,4340CR,EMBOLISM INTRACRANIAL WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,4340,EMBOLISM CEREBRAL WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,4380,CEREBROVASCULAR DISEASE WITH HYPERTENSIO,hypertension,diagnostic
+OXMIS,4380HP,HEMIPLEGIA WITH HYPERTENSION,hypertension,diagnostic
+OXMIS,4419H,HYPERTENSION ANEURYSM AORTA,hypertension,diagnostic
+OXMIS,Y0601JA,HYPERTENSION CLINIC ATTENDANCE,hypertension,diagnostic
+OXMIS,L0010EM,REFERRED TO HYPERTENSION CLINIC,hypertension,diagnostic
+OXMIS,L0010AM,SEEN IN HYPERTENSION CLINIC,hypertension,diagnostic
+OXMIS,401 BH,RETINOPATHY HYPERTENSIVE HAEMORRHAGE,hypertension,diagnostic
+OXMIS,401 BE,RETINOPATHY HYPERTENSIVE EXUDATES,hypertension,diagnostic
+OXMIS,401 B,RETINOPATHY HYPERTENSIVE,hypertension,diagnostic
+OXMIS,401 T,THROMBOSIS HYPERTENSION,hypertension,diagnostic
+OXMIS,401 R,HYPERTENSION CRISIS,hypertension,diagnostic
+OXMIS,401 BP,RETINOPATHY HYPERTENSIVE PAPILLOEDEMA,hypertension,diagnostic
+OXMIS,403 M,NEPHROPATHY MALIGNANT HYPERTENSION,hypertension,diagnostic
+OXMIS,791 HP,HYPERTENSIVE HEADACHE,hypertension,diagnostic
+OXMIS,403 NH,NEPHROSCLEROSIS HYPERTENSIVE,hypertension,diagnostic
+OXMIS,Y060 JA,HYPERTENSION CLINIC,hypertension,diagnostic
+OXMIS,3053HT,NEUROGENIC HYPERTENSION (SECONDARY),hypertension,diagnostic
+Read,G210000,Malignant hypertensive heart disease without CCF,hypertension,diagnostic
+Read,2126100,Hypertension resolved,hypertension,diagnostic
+Read,212K.00,Hypertension resolved,hypertension,diagnostic
+Read,G210.00,Malignant hypertensive heart disease,hypertension,diagnostic
+Read,G21..00,Hypertensive heart disease,hypertension,diagnostic
+Read,G202.00,Systolic hypertension,hypertension,diagnostic
+Read,G20..00,Essential hypertension,hypertension,diagnostic
+Read,G20z.11,Hypertension NOS,hypertension,diagnostic
+Read,G2...11,BP - hypertensive disease,hypertension,diagnostic
+Read,G2...00,Hypertensive disease,hypertension,diagnostic
+Read,G201.00,Benign essential hypertension,hypertension,diagnostic
+Read,G200.00,Malignant essential hypertension,hypertension,diagnostic
+Read,G20z.00,Essential hypertension NOS,hypertension,diagnostic
+Read,G210100,Malignant hypertensive heart disease with CCF,hypertension,diagnostic
+Read,L121300,Renal hypertension in preg/childbirth/puerp - not delivered,hypertension,diagnostic
+Read,G211100,Benign hypertensive heart disease with CCF,hypertension,diagnostic
+Read,G211.00,Benign hypertensive heart disease,hypertension,diagnostic
+Read,G210z00,Malignant hypertensive heart disease NOS,hypertension,diagnostic
+Read,G211000,Benign hypertensive heart disease without CCF,hypertension,diagnostic
+Read,L121200,Renal hypertension in preg/childb/puerp -deliv with p/n comp,hypertension,diagnostic
+Read,G230.00,Malignant hypertensive heart and renal disease,hypertension,diagnostic
+Read,G21z.00,Hypertensive heart disease NOS,hypertension,diagnostic
+Read,G211z00,Benign hypertensive heart disease NOS,hypertension,diagnostic
+Read,G23..00,Hypertensive heart and renal disease,hypertension,diagnostic
+Read,G21z100,Hypertensive heart disease NOS with CCF,hypertension,diagnostic
+Read,G21z000,Hypertensive heart disease NOS without CCF,hypertension,diagnostic
+Read,G21z011,Cardiomegaly - hypertensive,hypertension,diagnostic
+Read,G220.00,Malignant hypertensive renal disease,hypertension,diagnostic
+Read,G22z.11,Renal hypertension,hypertension,diagnostic
+Read,G22..00,Hypertensive renal disease,hypertension,diagnostic
+Read,G21zz00,Hypertensive heart disease NOS,hypertension,diagnostic
+Read,G221.00,Benign hypertensive renal disease,hypertension,diagnostic
+Read,G22z.00,Hypertensive renal disease NOS,hypertension,diagnostic
+Read,G222.00,Hypertensive renal disease with renal failure,hypertension,diagnostic
+Read,G24..00,Secondary hypertension,hypertension,diagnostic
+Read,G231.00,Benign hypertensive heart and renal disease,hypertension,diagnostic
+Read,G233.00,Hypertensive heart and renal disease with renal failure,hypertension,diagnostic
+Read,L121100,Renal hypertension in pregnancy/childbirth/puerp - delivered,hypertension,diagnostic
+Read,G232.00,Hypertensive heart&renal dis wth (congestive) heart failure,hypertension,diagnostic
+Read,G241z00,Secondary benign hypertension NOS,hypertension,diagnostic
+Read,G23z.00,Hypertensive heart and renal disease NOS,hypertension,diagnostic
+Read,G234.00,Hyperten heart&renal dis+both(congestv)heart and renal fail,hypertension,diagnostic
+Read,G240z00,Secondary malignant hypertension NOS,hypertension,diagnostic
+Read,G240.00,Secondary malignant hypertension,hypertension,diagnostic
+Read,G241000,Secondary benign renovascular hypertension,hypertension,diagnostic
+Read,G240000,Secondary malignant renovascular hypertension,hypertension,diagnostic
+Read,G241.00,Secondary benign hypertension,hypertension,diagnostic
+Read,L121000,Renal hypertension in pregnancy/childbirth/puerp unspecified,hypertension,diagnostic
+Read,G24z.00,Secondary hypertension NOS,hypertension,diagnostic
+Read,G244.00,Hypertension secondary to endocrine disorders,hypertension,diagnostic
+Read,Gyu2000,[X]Other secondary hypertension,hypertension,diagnostic
+Read,G24z000,Secondary renovascular hypertension NOS,hypertension,diagnostic
+Read,G2z..00,Hypertensive disease NOS,hypertension,diagnostic
+Read,G2y..00,Other specified hypertensive disease,hypertension,diagnostic
+Read,G24zz00,Secondary hypertension NOS,hypertension,diagnostic
+Read,L120000,Benign essential hypertension in preg/childb/puerp unspec,hypertension,diagnostic
+Read,L121.00,Renal hypertension in pregnancy/childbirth/puerperium,hypertension,diagnostic
+Read,L120.00,Benign essential hypertension in pregnancy/childbirth/puerp,hypertension,diagnostic
+Read,Gyu2100,[X]Hypertension secondary to other renal disorders,hypertension,diagnostic
+Read,L120100,Benign essential hypertension in preg/childb/puerp - deliv,hypertension,diagnostic
+Read,L120z00,Benign essential hypertension in preg/childb/puerp NOS,hypertension,diagnostic
+Read,L120400,Benign essential hypertension in preg/childb/puerp +p/n comp,hypertension,diagnostic
+Read,L120300,Benign essential hypertension in preg/childb/puerp-not deliv,hypertension,diagnostic
+Read,6629,Hypertension:follow-up default,hypertension,diagnostic
+Read,L122100,Other pre-existing hypertension in preg/childb/puerp - deliv,hypertension,diagnostic
+Read,662G.00,Hypertensive treatm.changed,hypertension,diagnostic
+Read,L122000,Other pre-existing hypertension in preg/childb/puerp unspec,hypertension,diagnostic
+Read,L121400,Renal hypertension in preg/childb/puerp + p/n complication,hypertension,diagnostic
+Read,L122.00,Other pre-existing hypertension in preg/childbirth/puerp,hypertension,diagnostic
+Read,L121z00,Renal hypertension in pregnancy/childbirth/puerperium NOS,hypertension,diagnostic
+Read,L122z00,Other pre-existing hypertension in preg/childb/puerp NOS,hypertension,diagnostic
+Read,6628,Poor hypertension control,hypertension,diagnostic
+Read,L122400,Other pre-exist hypertension in preg/childb/puerp + p/n comp,hypertension,diagnostic
+Read,L122300,Other pre-exist hypertension in preg/childb/puerp-not deliv,hypertension,diagnostic
+Read,6627,Good hypertension control,hypertension,diagnostic
+Read,L128.00,Pre-exist hypertension compl preg childbirth and puerperium,hypertension,diagnostic
+Read,662..12,Hypertension monitoring,hypertension,diagnostic
+Read,L128200,Pre-exist 2ndry hypertens comp preg childbth and puerperium,hypertension,diagnostic
+Read,662d.00,Hypertension annual review,hypertension,diagnostic
+Read,662b.00,Moderate hypertension control,hypertension,diagnostic
+Read,662F.00,Hypertension treatm. started,hypertension,diagnostic
+Read,9N1y200,Seen in hypertension clinic,hypertension,diagnostic
+Read,662c.00,Hypertension six month review,hypertension,diagnostic
+Read,9N03.00,Seen in hypertension clinic,hypertension,diagnostic
+Read,662P.00,Hypertension monitoring,hypertension,diagnostic
+Read,8HT5.00,Referral to hypertension clinic,hypertension,diagnostic
+Read,8CR4.00,Hypertension clinical management plan,hypertension,diagnostic
+Read,9OI1.00,Attends hypertension monitor.,hypertension,diagnostic
+Read,9OIA.00,Hypertension monitor.chck done,hypertension,diagnostic
+Read,9OIA.11,Hypertension monitored,hypertension,diagnostic
+Read,662O.00,On treatment for hypertension,hypertension,diagnostic
+Read,G672.00,Hypertensive encephalopathy,hypertension,diagnostic
+Read,8B26.00,Antihypertensive therapy,hypertension,diagnostic
+Read,8BL0.00,Patient on maximal tolerated antihypertensive therapy,hypertension,diagnostic
+Read,F421300,Hypertensive retinopathy,hypertension,diagnostic
+Read,F404200,Blind hypertensive eye,hypertension,diagnostic
+Read,G20..11,High blood pressure,hypertension,diagnostic
+Read,G672.11,Hypertensive crisis,hypertension,diagnostic

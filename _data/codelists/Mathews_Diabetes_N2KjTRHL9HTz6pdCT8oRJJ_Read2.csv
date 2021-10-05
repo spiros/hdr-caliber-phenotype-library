@@ -1,0 +1,455 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,66Ap.00,Insulin treatment initiated,res46: Diabetes,diagnostic
+Read,2G5V.00,O/E - right chronic diabetic foot ulcer,res46: Diabetes,diagnostic
+Read,C108.00,Insulin dependent diabetes mellitus,res46: Diabetes,diagnostic
+Read,8HBH.00,Diabetic retinopathy 6 month review,res46: Diabetes,diagnostic
+Read,C10EF00,Type 1 diabetes mellitus with diabetic cataract,res46: Diabetes,diagnostic
+Read,C109412,Type 2 diabetes mellitus with ulcer,res46: Diabetes,diagnostic
+Read,C10FL00,Type 2 diabetes mellitus with persistent proteinuria,res46: Diabetes,diagnostic
+Read,C109G12,Type 2 diabetes mellitus with arthropathy,res46: Diabetes,diagnostic
+Read,TJ23z00,Adverse reaction to insulins and antidiabetic agents NOS,res46: Diabetes,diagnostic
+Read,C108911,Type I diabetes mellitus maturity onset,res46: Diabetes,diagnostic
+Read,C108412,Unstable type 1 diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10FA00,Type 2 diabetes mellitus with mononeuropathy,res46: Diabetes,diagnostic
+Read,C10EA11,Type I diabetes mellitus without complication,res46: Diabetes,diagnostic
+Read,C10E212,Insulin-dependent diabetes mellitus with neurological comps,res46: Diabetes,diagnostic
+Read,U602311,[X] Adverse reaction to insulins and antidiabetic agents,res46: Diabetes,diagnostic
+Read,C10zy00,Other specified diabetes mellitus with unspecified comps,res46: Diabetes,diagnostic
+Read,8Hl1.00,Referral for diabetic retinopathy screening,res46: Diabetes,diagnostic
+Read,C10y100,"Diabetes mellitus, adult, + other specified manifestation",res46: Diabetes,diagnostic
+Read,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder",res46: Diabetes,diagnostic
+Read,C10z100,"Diabetes mellitus, adult onset, + unspecified complication",res46: Diabetes,diagnostic
+Read,C10FR00,Type 2 diabetes mellitus with gastroparesis,res46: Diabetes,diagnostic
+Read,C108H00,Insulin dependent diabetes mellitus with arthropathy,res46: Diabetes,diagnostic
+Read,C10zz00,Diabetes mellitus NOS with unspecified complication,res46: Diabetes,diagnostic
+Read,C109C11,Type II diabetes mellitus with nephropathy,res46: Diabetes,diagnostic
+Read,C108z00,Unspecified diabetes mellitus with multiple complications,res46: Diabetes,diagnostic
+Read,C108G00,Insulin dependent diab mell with peripheral angiopathy,res46: Diabetes,diagnostic
+Read,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder,res46: Diabetes,diagnostic
+Read,C10FJ11,Insulin treated Type II diabetes mellitus,res46: Diabetes,diagnostic
+Read,F420800,High risk non proliferative diabetic retinopathy,res46: Diabetes,diagnostic
+Read,C10F300,Type 2 diabetes mellitus with multiple complications,res46: Diabetes,diagnostic
+Read,C103z00,Diabetes mellitus NOS with ketoacidotic coma,res46: Diabetes,diagnostic
+Read,C108D11,Type I diabetes mellitus with nephropathy,res46: Diabetes,diagnostic
+Read,C10EC11,Type I diabetes mellitus with polyneuropathy,res46: Diabetes,diagnostic
+Read,C10A000,Malnutrition-related diabetes mellitus with coma,res46: Diabetes,diagnostic
+Read,ZC2C900,Dietary advice for type I diabetes,res46: Diabetes,diagnostic
+Read,66Ah.00,Insulin needles changed for each injection,res46: Diabetes,diagnostic
+Read,C10EN11,Type I diabetes mellitus with ketoacidotic coma,res46: Diabetes,diagnostic
+Read,66Aq.00,Diabetic foot screen,res46: Diabetes,diagnostic
+Read,TJ23.00,Adverse reaction to insulins and antidiabetic agents,res46: Diabetes,diagnostic
+Read,C109H12,Type 2 diabetes mellitus with neuropathic arthropathy,res46: Diabetes,diagnostic
+Read,C103100,"Diabetes mellitus, adult onset, with ketoacidotic coma",res46: Diabetes,diagnostic
+Read,C109211,Type II diabetes mellitus with neurological complications,res46: Diabetes,diagnostic
+Read,C10H000,DM induced by non-steroid drugs without complication,res46: Diabetes,diagnostic
+Read,C106000,"Diabetes mellitus, juvenile, + neurological manifestation",res46: Diabetes,diagnostic
+Read,C10z000,"Diabetes mellitus, juvenile type, + unspecified complication",res46: Diabetes,diagnostic
+Read,C10EB00,Type 1 diabetes mellitus with mononeuropathy,res46: Diabetes,diagnostic
+Read,C108512,Type 1 diabetes mellitus with ulcer,res46: Diabetes,diagnostic
+Read,C107000,"Diabetes mellitus, juvenile +peripheral circulatory disorder",res46: Diabetes,diagnostic
+Read,C107300,IDDM with peripheral circulatory disorder,res46: Diabetes,diagnostic
+Read,C10E311,Type I diabetes mellitus with multiple complications,res46: Diabetes,diagnostic
+Read,C109112,Type 2 diabetes mellitus with ophthalmic complications,res46: Diabetes,diagnostic
+Read,C10EA00,Type 1 diabetes mellitus without complication,res46: Diabetes,diagnostic
+Read,66Aj.00,Insulin needles changed less than once a day,res46: Diabetes,diagnostic
+Read,C109E00,Non-insulin depend diabetes mellitus with diabetic cataract,res46: Diabetes,diagnostic
+Read,ZRq2.11,SDMT - Symbol digit modalities test,res46: Diabetes,diagnostic
+Read,C105000,"Diabetes mellitus, juvenile type, + ophthalmic manifestation",res46: Diabetes,diagnostic
+Read,C10E600,Type 1 diabetes mellitus with gangrene,res46: Diabetes,diagnostic
+Read,C108E12,Type 1 diabetes mellitus with hypoglycaemic coma,res46: Diabetes,diagnostic
+Read,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy,res46: Diabetes,diagnostic
+Read,C10yz00,Diabetes mellitus NOS with other specified manifestation,res46: Diabetes,diagnostic
+Read,C10F411,Type II diabetes mellitus with ulcer,res46: Diabetes,diagnostic
+Read,66Ag.00,Insulin needles changed daily,res46: Diabetes,diagnostic
+Read,C10E812,Insulin dependent diabetes mellitus - poor control,res46: Diabetes,diagnostic
+Read,C102z00,Diabetes mellitus NOS with hyperosmolar coma,res46: Diabetes,diagnostic
+Read,C10FM11,Type II diabetes mellitus with persistent microalbuminuria,res46: Diabetes,diagnostic
+Read,66Am.00,Insulin dose changed,res46: Diabetes,diagnostic
+Read,66Ao.00,Diabetes type 2 review,res46: Diabetes,diagnostic
+Read,C104000,"Diabetes mellitus, juvenile type, with renal manifestation",res46: Diabetes,diagnostic
+Read,C10N100,Cystic fibrosis related diabetes mellitus,res46: Diabetes,diagnostic
+Read,C108A11,Type I diabetes mellitus without complication,res46: Diabetes,diagnostic
+Read,C10E511,Type I diabetes mellitus with ulcer,res46: Diabetes,diagnostic
+Read,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy,res46: Diabetes,diagnostic
+Read,C10E712,Insulin dependent diabetes mellitus with retinopathy,res46: Diabetes,diagnostic
+Read,C10FE11,Type II diabetes mellitus with diabetic cataract,res46: Diabetes,diagnostic
+Read,C10FC00,Type 2 diabetes mellitus with nephropathy,res46: Diabetes,diagnostic
+Read,C10FA11,Type II diabetes mellitus with mononeuropathy,res46: Diabetes,diagnostic
+Read,C10ER00,Latent autoimmune diabetes mellitus in adult,res46: Diabetes,diagnostic
+Read,C10E711,Type I diabetes mellitus with retinopathy,res46: Diabetes,diagnostic
+Read,C10N000,Secondary diabetes mellitus without complication,res46: Diabetes,diagnostic
+Read,C10FS00,Maternally inherited diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10EH00,Type 1 diabetes mellitus with arthropathy,res46: Diabetes,diagnostic
+Read,C108912,Type 1 diabetes mellitus maturity onset,res46: Diabetes,diagnostic
+Read,C10E911,Type I diabetes mellitus maturity onset,res46: Diabetes,diagnostic
+Read,C10FJ00,Insulin treated Type 2 diabetes mellitus,res46: Diabetes,diagnostic
+Read,F420.00,Diabetic retinopathy,res46: Diabetes,diagnostic
+Read,C101.00,Diabetes mellitus with ketoacidosis,res46: Diabetes,diagnostic
+Read,8CAQ.00,Advice about blood glucose control,res46: Diabetes,diagnostic
+Read,C108.11,IDDM-Insulin dependent diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10..00,Diabetes mellitus,res46: Diabetes,diagnostic
+Read,C100112,Non-insulin dependent diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10G000,Secondary pancreatic diabetes mellitus without complication,res46: Diabetes,diagnostic
+Read,C10F600,Type 2 diabetes mellitus with retinopathy,res46: Diabetes,diagnostic
+Read,C106.12,Diabetes mellitus with neuropathy,res46: Diabetes,diagnostic
+Read,C108012,Type 1 diabetes mellitus with renal complications,res46: Diabetes,diagnostic
+Read,8IAs.00,Diabetic dietary review declined,res46: Diabetes,diagnostic
+Read,C10E500,Type 1 diabetes mellitus with ulcer,res46: Diabetes,diagnostic
+Read,66As.00,Diabetic on subcutaneous treatment,res46: Diabetes,diagnostic
+Read,66AA.11,Injection sites - diabetic,res46: Diabetes,diagnostic
+Read,C10EA12,Insulin-dependent diabetes without complication,res46: Diabetes,diagnostic
+Read,C10E912,Insulin dependent diabetes maturity onset,res46: Diabetes,diagnostic
+Read,66Aa.00,Diabetic diet - poor compliance,res46: Diabetes,diagnostic
+Read,C100011,Insulin dependent diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10EP11,Type I diabetes mellitus with exudative maculopathy,res46: Diabetes,diagnostic
+Read,C10F000,Type 2 diabetes mellitus with renal complications,res46: Diabetes,diagnostic
+Read,68A9.00,Diabetic retinopathy screening offered,res46: Diabetes,diagnostic
+Read,C10EE12,Insulin dependent diabetes mellitus with hypoglycaemic coma,res46: Diabetes,diagnostic
+Read,Kyu0300,[X]Glomerular disorders in diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10F211,Type II diabetes mellitus with neurological complications,res46: Diabetes,diagnostic
+Read,C10C.12,Maturity onset diabetes in youth type 1,res46: Diabetes,diagnostic
+Read,C10E112,Insulin-dependent diabetes mellitus with ophthalmic comps,res46: Diabetes,diagnostic
+Read,8I3W.00,Diabetic foot examination declined,res46: Diabetes,diagnostic
+Read,C10E111,Type I diabetes mellitus with ophthalmic complications,res46: Diabetes,diagnostic
+Read,C10FD11,Type II diabetes mellitus with hypoglycaemic coma,res46: Diabetes,diagnostic
+Read,C10E512,Insulin dependent diabetes mellitus with ulcer,res46: Diabetes,diagnostic
+Read,C108B11,Type I diabetes mellitus with mononeuropathy,res46: Diabetes,diagnostic
+Read,C10EC12,Insulin dependent diabetes mellitus with polyneuropathy,res46: Diabetes,diagnostic
+Read,13AB.00,Diabetic lipid lowering diet,res46: Diabetes,diagnostic
+Read,66At.00,Diabetic dietary review,res46: Diabetes,diagnostic
+Read,C10F111,Type II diabetes mellitus with ophthalmic complications,res46: Diabetes,diagnostic
+Read,Cyu2300,[X]Unspecified diabetes mellitus with renal complications,res46: Diabetes,diagnostic
+Read,U60231E,[X] Adverse reaction to insulins and antidiabetic agents NOS,res46: Diabetes,diagnostic
+Read,38DK.00,Finnish diabetes risk score,res46: Diabetes,diagnostic
+Read,66Ar.00,Insulin treatment stopped,res46: Diabetes,diagnostic
+Read,C10A500,Malnutritn-relat diabetes melitus wth periph circul complctn,res46: Diabetes,diagnostic
+Read,C10EF12,Insulin dependent diabetes mellitus with diabetic cataract,res46: Diabetes,diagnostic
+Read,44qE.00,Urine MDMA screening test,res46: Diabetes,diagnostic
+Read,66AQ000,Unsuitable for diabetes year of care programme,res46: Diabetes,diagnostic
+Read,66AQ100,Declined consent for diabetes year of care programme,res46: Diabetes,diagnostic
+Read,C102.00,Diabetes mellitus with hyperosmolar coma,res46: Diabetes,diagnostic
+Read,Q441.00,Neonatal diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10F700,Type 2 diabetes mellitus - poor control,res46: Diabetes,diagnostic
+Read,66AJz00,Diabetic - poor control NOS,res46: Diabetes,diagnostic
+Read,66An.00,Diabetes type 1 review,res46: Diabetes,diagnostic
+Read,C10N.00,Secondary diabetes mellitus,res46: Diabetes,diagnostic
+Read,8A13.00,Diabetic stabilisation,res46: Diabetes,diagnostic
+Read,C10FQ00,Type 2 diabetes mellitus with exudative maculopathy,res46: Diabetes,diagnostic
+Read,M271000,Ischaemic ulcer diabetic foot,res46: Diabetes,diagnostic
+Read,C350011,Bronzed diabetes,res46: Diabetes,diagnostic
+Read,C106z00,Diabetes mellitus NOS with neurological manifestation,res46: Diabetes,diagnostic
+Read,2BBF.00,Retinal abnormality - diabetes related,res46: Diabetes,diagnostic
+Read,66Ab.00,Diabetic foot examination,res46: Diabetes,diagnostic
+Read,C10F.11,Type II diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10EP00,Type 1 diabetes mellitus with exudative maculopathy,res46: Diabetes,diagnostic
+Read,C109711,Type II diabetes mellitus - poor control,res46: Diabetes,diagnostic
+Read,ZC2CA00,Dietary advice for type II diabetes,res46: Diabetes,diagnostic
+Read,C108.13,Type I diabetes mellitus,res46: Diabetes,diagnostic
+Read,C109C12,Type 2 diabetes mellitus with nephropathy,res46: Diabetes,diagnostic
+Read,F372200,Asymptomatic diabetic neuropathy,res46: Diabetes,diagnostic
+Read,C100000,"Diabetes mellitus, juvenile type, no mention of complication",res46: Diabetes,diagnostic
+Read,C109G00,Non-insulin dependent diabetes mellitus with arthropathy,res46: Diabetes,diagnostic
+Read,C108B00,Insulin dependent diabetes mellitus with mononeuropathy,res46: Diabetes,diagnostic
+Read,2G5H.00,O/E - Right diabetic foot - ulcerated,res46: Diabetes,diagnostic
+Read,2G5I.00,O/E - Left diabetic foot at low risk,res46: Diabetes,diagnostic
+Read,66AY.00,Diabetic diet - good compliance,res46: Diabetes,diagnostic
+Read,2G5B.00,O/E - Left diabetic foot at risk,res46: Diabetes,diagnostic
+Read,66Av.00,Diabetic assessment of erectile dysfunction,res46: Diabetes,diagnostic
+Read,C10B000,Steroid induced diabetes mellitus without complication,res46: Diabetes,diagnostic
+Read,66Au.00,Diabetic erectile dysfunction review,res46: Diabetes,diagnostic
+Read,C108100,Insulin-dependent diabetes mellitus with ophthalmic comps,res46: Diabetes,diagnostic
+Read,C10FC11,Type II diabetes mellitus with nephropathy,res46: Diabetes,diagnostic
+Read,C10ED12,Insulin dependent diabetes mellitus with nephropathy,res46: Diabetes,diagnostic
+Read,66At100,Type II diabetic dietary review,res46: Diabetes,diagnostic
+Read,C10E611,Type I diabetes mellitus with gangrene,res46: Diabetes,diagnostic
+Read,2BBr.00,Impaired vision due to diabetic retinopathy,res46: Diabetes,diagnostic
+Read,C10EL11,Type I diabetes mellitus with persistent microalbuminuria,res46: Diabetes,diagnostic
+Read,2G5E.00,O/E - Right diabetic foot at low risk,res46: Diabetes,diagnostic
+Read,66At111,Type 2 diabetic dietary review,res46: Diabetes,diagnostic
+Read,66Aw.00,Insulin dose,res46: Diabetes,diagnostic
+Read,C10E012,Insulin-dependent diabetes mellitus with renal complications,res46: Diabetes,diagnostic
+Read,C108112,Type 1 diabetes mellitus with ophthalmic complications,res46: Diabetes,diagnostic
+Read,66At000,Type I diabetic dietary review,res46: Diabetes,diagnostic
+Read,9NiZ.00,Did not attend diabetes foot screening,res46: Diabetes,diagnostic
+Read,67IJ100,Pre-conception advice for diabetes mellitus,res46: Diabetes,diagnostic
+Read,66Ai.00,Diabetic 6 month review,res46: Diabetes,diagnostic
+Read,C108400,Unstable insulin dependent diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10E800,Type 1 diabetes mellitus - poor control,res46: Diabetes,diagnostic
+Read,C11y000,Steroid induced diabetes,res46: Diabetes,diagnostic
+Read,N030100,Diabetic Charcot arthropathy,res46: Diabetes,diagnostic
+Read,8CP2.00,Transition of diabetes care options discussed,res46: Diabetes,diagnostic
+Read,66AV.00,Diabetic on insulin and oral treatment,res46: Diabetes,diagnostic
+Read,2G51000,Foot abnormality - diabetes related,res46: Diabetes,diagnostic
+Read,C10EL00,Type 1 diabetes mellitus with persistent microalbuminuria,res46: Diabetes,diagnostic
+Read,F372.00,Polyneuropathy in diabetes,res46: Diabetes,diagnostic
+Read,R054300,[D]Widespread diabetic foot gangrene,res46: Diabetes,diagnostic
+Read,C109900,Non-insulin-dependent diabetes mellitus without complication,res46: Diabetes,diagnostic
+Read,66AN.00,Date diabetic treatment start,res46: Diabetes,diagnostic
+Read,F420700,High risk proliferative diabetic retinopathy,res46: Diabetes,diagnostic
+Read,C10EK00,Type 1 diabetes mellitus with persistent proteinuria,res46: Diabetes,diagnostic
+Read,2G5J.00,O/E - Left diabetic foot at moderate risk,res46: Diabetes,diagnostic
+Read,C108900,Insulin dependent diabetes maturity onset,res46: Diabetes,diagnostic
+Read,2G5K.00,O/E - Left diabetic foot at high risk,res46: Diabetes,diagnostic
+Read,2G5G.00,O/E - Right diabetic foot at high risk,res46: Diabetes,diagnostic
+Read,2G5F.00,O/E - Right diabetic foot at moderate risk,res46: Diabetes,diagnostic
+Read,2G5L.00,O/E - Left diabetic foot - ulcerated,res46: Diabetes,diagnostic
+Read,C10y.00,Diabetes mellitus with other specified manifestation,res46: Diabetes,diagnostic
+Read,C105.00,Diabetes mellitus with ophthalmic manifestation,res46: Diabetes,diagnostic
+Read,C10FN00,Type 2 diabetes mellitus with ketoacidosis,res46: Diabetes,diagnostic
+Read,C107.12,Diabetes with gangrene,res46: Diabetes,diagnostic
+Read,ZRbH.00,Perceived control of insulin-dependent diabetes,res46: Diabetes,diagnostic
+Read,C107.11,Diabetes mellitus with gangrene,res46: Diabetes,diagnostic
+Read,G73y000,Diabetic peripheral angiopathy,res46: Diabetes,diagnostic
+Read,C104z00,Diabetes mellitus with nephropathy NOS,res46: Diabetes,diagnostic
+Read,C107200,"Diabetes mellitus, adult with gangrene",res46: Diabetes,diagnostic
+Read,C10A100,Malnutrition-related diabetes mellitus with ketoacidosis,res46: Diabetes,diagnostic
+Read,C10FK00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10F200,Type 2 diabetes mellitus with neurological complications,res46: Diabetes,diagnostic
+Read,C104100,"Diabetes mellitus, adult onset, with renal manifestation",res46: Diabetes,diagnostic
+Read,C105z00,Diabetes mellitus NOS with ophthalmic manifestation,res46: Diabetes,diagnostic
+Read,C109400,Non-insulin dependent diabetes mellitus with ulcer,res46: Diabetes,diagnostic
+Read,C108J00,Insulin dependent diab mell with neuropathic arthropathy,res46: Diabetes,diagnostic
+Read,F372100,Chronic painful diabetic neuropathy,res46: Diabetes,diagnostic
+Read,C108211,Type I diabetes mellitus with neurological complications,res46: Diabetes,diagnostic
+Read,C107.00,Diabetes mellitus with peripheral circulatory disorder,res46: Diabetes,diagnostic
+Read,C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy,res46: Diabetes,diagnostic
+Read,8H3O.00,Non-urgent diabetic admission,res46: Diabetes,diagnostic
+Read,9OLD.00,Diabetic patient unsuitable for digital retinal photography,res46: Diabetes,diagnostic
+Read,C10D.00,Diabetes mellitus autosomal dominant type 2,res46: Diabetes,diagnostic
+Read,C109J11,Insulin treated non-insulin dependent diabetes mellitus,res46: Diabetes,diagnostic
+Read,F381300,Myasthenic syndrome due to diabetic amyotrophy,res46: Diabetes,diagnostic
+Read,C109K00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus,res46: Diabetes,diagnostic
+Read,C108711,Type I diabetes mellitus with retinopathy,res46: Diabetes,diagnostic
+Read,F3y0.00,Diabetic mononeuropathy,res46: Diabetes,diagnostic
+Read,7L10000,Continuous subcutaneous infusion of insulin,res46: Diabetes,diagnostic
+Read,66A9.00,Understands diet - diabetes,res46: Diabetes,diagnostic
+Read,M21yC00,Insulin lipohypertrophy,res46: Diabetes,diagnostic
+Read,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy,res46: Diabetes,diagnostic
+Read,C101y00,Other specified diabetes mellitus with ketoacidosis,res46: Diabetes,diagnostic
+Read,C106100,"Diabetes mellitus, adult onset, + neurological manifestation",res46: Diabetes,diagnostic
+Read,C10EE00,Type 1 diabetes mellitus with hypoglycaemic coma,res46: Diabetes,diagnostic
+Read,C100.00,Diabetes mellitus with no mention of complication,res46: Diabetes,diagnostic
+Read,C10F400,Type 2 diabetes mellitus with ulcer,res46: Diabetes,diagnostic
+Read,C10C.00,Diabetes mellitus autosomal dominant,res46: Diabetes,diagnostic
+Read,C102000,"Diabetes mellitus, juvenile type, with hyperosmolar coma",res46: Diabetes,diagnostic
+Read,C105100,"Diabetes mellitus, adult onset, + ophthalmic manifestation",res46: Diabetes,diagnostic
+Read,C108712,Type 1 diabetes mellitus with retinopathy,res46: Diabetes,diagnostic
+Read,C10EN00,Type 1 diabetes mellitus with ketoacidotic coma,res46: Diabetes,diagnostic
+Read,C10E900,Type 1 diabetes mellitus maturity onset,res46: Diabetes,diagnostic
+Read,C109500,Non-insulin dependent diabetes mellitus with gangrene,res46: Diabetes,diagnostic
+Read,C109H00,Non-insulin dependent d m with neuropathic arthropathy,res46: Diabetes,diagnostic
+Read,C108C00,Insulin dependent diabetes mellitus with polyneuropathy,res46: Diabetes,diagnostic
+Read,Cyu2000,[X]Other specified diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10F311,Type II diabetes mellitus with multiple complications,res46: Diabetes,diagnostic
+Read,C102100,"Diabetes mellitus, adult onset, with hyperosmolar coma",res46: Diabetes,diagnostic
+Read,C101z00,Diabetes mellitus NOS with ketoacidosis,res46: Diabetes,diagnostic
+Read,C10E200,Type 1 diabetes mellitus with neurological complications,res46: Diabetes,diagnostic
+Read,C103000,"Diabetes mellitus, juvenile type, with ketoacidotic coma",res46: Diabetes,diagnostic
+Read,C109612,Type 2 diabetes mellitus with retinopathy,res46: Diabetes,diagnostic
+Read,C108E11,Type I diabetes mellitus with hypoglycaemic coma,res46: Diabetes,diagnostic
+Read,C108500,Insulin dependent diabetes mellitus with ulcer,res46: Diabetes,diagnostic
+Read,C10M.00,Lipoatrophic diabetes mellitus,res46: Diabetes,diagnostic
+Read,C109D00,Non-insulin dependent diabetes mellitus with hypoglyca coma,res46: Diabetes,diagnostic
+Read,M21yC11,Insulin site lipohypertrophy,res46: Diabetes,diagnostic
+Read,C10EC00,Type 1 diabetes mellitus with polyneuropathy,res46: Diabetes,diagnostic
+Read,C10E400,Unstable type 1 diabetes mellitus,res46: Diabetes,diagnostic
+Read,C108E00,Insulin dependent diabetes mellitus with hypoglycaemic coma,res46: Diabetes,diagnostic
+Read,C108F00,Insulin dependent diabetes mellitus with diabetic cataract,res46: Diabetes,diagnostic
+Read,F345000,Diabetic mononeuritis multiplex,res46: Diabetes,diagnostic
+Read,66AK.00,Diabetic - cooperative patient,res46: Diabetes,diagnostic
+Read,C10E312,Insulin dependent diabetes mellitus with multiple complicat,res46: Diabetes,diagnostic
+Read,C109512,Type 2 diabetes mellitus with gangrene,res46: Diabetes,diagnostic
+Read,C10FE00,Type 2 diabetes mellitus with diabetic cataract,res46: Diabetes,diagnostic
+Read,C108y00,Other specified diabetes mellitus with multiple comps,res46: Diabetes,diagnostic
+Read,C109E12,Type 2 diabetes mellitus with diabetic cataract,res46: Diabetes,diagnostic
+Read,C10z.00,Diabetes mellitus with unspecified complication,res46: Diabetes,diagnostic
+Read,C109212,Type 2 diabetes mellitus with neurological complications,res46: Diabetes,diagnostic
+Read,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy,res46: Diabetes,diagnostic
+Read,C108812,Type 1 diabetes mellitus - poor control,res46: Diabetes,diagnostic
+Read,C109712,Type 2 diabetes mellitus - poor control,res46: Diabetes,diagnostic
+Read,C109E11,Type II diabetes mellitus with diabetic cataract,res46: Diabetes,diagnostic
+Read,C108811,Type I diabetes mellitus - poor control,res46: Diabetes,diagnostic
+Read,C109H11,Type II diabetes mellitus with neuropathic arthropathy,res46: Diabetes,diagnostic
+Read,8HLE.00,Diabetology D.V. done,res46: Diabetes,diagnostic
+Read,C10C.11,Maturity onset diabetes in youth,res46: Diabetes,diagnostic
+Read,66AX.00,Diabetes: shared care in pregnancy - diabetol and obstet,res46: Diabetes,diagnostic
+Read,2BBk.00,O/E - right eye stable treated prolif diabetic retinopathy,res46: Diabetes,diagnostic
+Read,C108000,Insulin-dependent diabetes mellitus with renal complications,res46: Diabetes,diagnostic
+Read,C10FD00,Type 2 diabetes mellitus with hypoglycaemic coma,res46: Diabetes,diagnostic
+Read,2BBM.00,O/E - diabetic maculopathy absent both eyes,res46: Diabetes,diagnostic
+Read,C10F100,Type 2 diabetes mellitus with ophthalmic complications,res46: Diabetes,diagnostic
+Read,C10F711,Type II diabetes mellitus - poor control,res46: Diabetes,diagnostic
+Read,C109B11,Type II diabetes mellitus with polyneuropathy,res46: Diabetes,diagnostic
+Read,C105y00,Other specified diabetes mellitus with ophthalmic complicatn,res46: Diabetes,diagnostic
+Read,C10E300,Type 1 diabetes mellitus with multiple complications,res46: Diabetes,diagnostic
+Read,C10E100,Type 1 diabetes mellitus with ophthalmic complications,res46: Diabetes,diagnostic
+Read,F420500,Advanced diabetic retinal disease,res46: Diabetes,diagnostic
+Read,C10E000,Type 1 diabetes mellitus with renal complications,res46: Diabetes,diagnostic
+Read,C10F900,Type 2 diabetes mellitus without complication,res46: Diabetes,diagnostic
+Read,F372000,Acute painful diabetic neuropathy,res46: Diabetes,diagnostic
+Read,2G5W.00,O/E - left chronic diabetic foot ulcer,res46: Diabetes,diagnostic
+Read,C109611,Type II diabetes mellitus with retinopathy,res46: Diabetes,diagnostic
+Read,C10H.00,Diabetes mellitus induced by non-steroid drugs,res46: Diabetes,diagnostic
+Read,C109200,Non-insulin-dependent diabetes mellitus with neuro comps,res46: Diabetes,diagnostic
+Read,C109C00,Non-insulin dependent diabetes mellitus with nephropathy,res46: Diabetes,diagnostic
+Read,C10F611,Type II diabetes mellitus with retinopathy,res46: Diabetes,diagnostic
+Read,L180X00,"Pre-existing diabetes mellitus, unspecified",res46: Diabetes,diagnostic
+Read,C109411,Type II diabetes mellitus with ulcer,res46: Diabetes,diagnostic
+Read,C10EQ00,Type 1 diabetes mellitus with gastroparesis,res46: Diabetes,diagnostic
+Read,C109F11,Type II diabetes mellitus with peripheral angiopathy,res46: Diabetes,diagnostic
+Read,66AO.00,Date diabetic treatment stopp.,res46: Diabetes,diagnostic
+Read,C108A00,Insulin-dependent diabetes without complication,res46: Diabetes,diagnostic
+Read,C109D11,Type II diabetes mellitus with hypoglycaemic coma,res46: Diabetes,diagnostic
+Read,N030011,Diabetic cheiropathy,res46: Diabetes,diagnostic
+Read,8I3k.00,Insulin therapy declined,res46: Diabetes,diagnostic
+Read,C10F011,Type II diabetes mellitus with renal complications,res46: Diabetes,diagnostic
+Read,C107400,NIDDM with peripheral circulatory disorder,res46: Diabetes,diagnostic
+Read,C108D00,Insulin dependent diabetes mellitus with nephropathy,res46: Diabetes,diagnostic
+Read,C103y00,Other specified diabetes mellitus with coma,res46: Diabetes,diagnostic
+Read,C108212,Type 1 diabetes mellitus with neurological complications,res46: Diabetes,diagnostic
+Read,C10E700,Type 1 diabetes mellitus with retinopathy,res46: Diabetes,diagnostic
+Read,C10FG00,Type 2 diabetes mellitus with arthropathy,res46: Diabetes,diagnostic
+Read,8I57.00,Patient held diabetic record declined,res46: Diabetes,diagnostic
+Read,C109100,Non-insulin-dependent diabetes mellitus with ophthalm comps,res46: Diabetes,diagnostic
+Read,C103.00,Diabetes mellitus with ketoacidotic coma,res46: Diabetes,diagnostic
+Read,C109D12,Type 2 diabetes mellitus with hypoglycaemic coma,res46: Diabetes,diagnostic
+Read,C108411,Unstable type I diabetes mellitus,res46: Diabetes,diagnostic
+Read,C108600,Insulin dependent diabetes mellitus with gangrene,res46: Diabetes,diagnostic
+Read,C108J11,Type I diabetes mellitus with neuropathic arthropathy,res46: Diabetes,diagnostic
+Read,C10D.11,Maturity onset diabetes in youth type 2,res46: Diabetes,diagnostic
+Read,C109111,Type II diabetes mellitus with ophthalmic complications,res46: Diabetes,diagnostic
+Read,C106.11,Diabetic amyotrophy,res46: Diabetes,diagnostic
+Read,68AB.00,Diabetic digital retinopathy screening offered,res46: Diabetes,diagnostic
+Read,C109F12,Type 2 diabetes mellitus with peripheral angiopathy,res46: Diabetes,diagnostic
+Read,C10FL11,Type II diabetes mellitus with persistent proteinuria,res46: Diabetes,diagnostic
+Read,C109511,Type II diabetes mellitus with gangrene,res46: Diabetes,diagnostic
+Read,C108H11,Type I diabetes mellitus with arthropathy,res46: Diabetes,diagnostic
+Read,C10FB11,Type II diabetes mellitus with polyneuropathy,res46: Diabetes,diagnostic
+Read,66AP.00,Diabetes: practice programme,res46: Diabetes,diagnostic
+Read,ZV65312,[V]Dietary counselling in diabetes mellitus,res46: Diabetes,diagnostic
+Read,6761,Diabetic pre-pregnancy counselling,res46: Diabetes,diagnostic
+Read,F420000,Background diabetic retinopathy,res46: Diabetes,diagnostic
+Read,2BBV.00,O/E - left eye proliferative diabetic retinopathy,res46: Diabetes,diagnostic
+Read,13B1.00,Diabetic diet,res46: Diabetes,diagnostic
+Read,M037200,Cellulitis in diabetic foot,res46: Diabetes,diagnostic
+Read,13AC.00,Diabetic weight reducing diet,res46: Diabetes,diagnostic
+Read,2BBT.00,O/E - right eye proliferative diabetic retinopathy,res46: Diabetes,diagnostic
+Read,66AI.00,Diabetic - good control,res46: Diabetes,diagnostic
+Read,2BBW.00,O/E - right eye diabetic maculopathy,res46: Diabetes,diagnostic
+Read,66A8.00,Has seen dietician - diabetes,res46: Diabetes,diagnostic
+Read,C10FM00,Type 2 diabetes mellitus with persistent microalbuminuria,res46: Diabetes,diagnostic
+Read,M271200,Mixed diabetic ulcer - foot,res46: Diabetes,diagnostic
+Read,F381311,Diabetic amyotrophy,res46: Diabetes,diagnostic
+Read,8H2J.00,Admit diabetic emergency,res46: Diabetes,diagnostic
+Read,C108800,Insulin dependent diabetes mellitus - poor control,res46: Diabetes,diagnostic
+Read,C10FB00,Type 2 diabetes mellitus with polyneuropathy,res46: Diabetes,diagnostic
+Read,66A4.00,Diabetic on oral treatment,res46: Diabetes,diagnostic
+Read,C10F.00,Type 2 diabetes mellitus,res46: Diabetes,diagnostic
+Read,C104.00,Diabetes mellitus with renal manifestation,res46: Diabetes,diagnostic
+Read,66AU.00,Diabetes care by hospital only,res46: Diabetes,diagnostic
+Read,66AJ100,Brittle diabetes,res46: Diabetes,diagnostic
+Read,2BBL.00,O/E - diabetic maculopathy present both eyes,res46: Diabetes,diagnostic
+Read,C10E.11,Type I diabetes mellitus,res46: Diabetes,diagnostic
+Read,8I3X.00,Diabetic retinopathy screening refused,res46: Diabetes,diagnostic
+Read,F420z00,Diabetic retinopathy NOS,res46: Diabetes,diagnostic
+Read,7276,Pan retinal photocoagulation for diabetes,res46: Diabetes,diagnostic
+Read,F464000,Diabetic cataract,res46: Diabetes,diagnostic
+Read,C10F500,Type 2 diabetes mellitus with gangrene,res46: Diabetes,diagnostic
+Read,66AQ.00,Diabetes: shared care programme,res46: Diabetes,diagnostic
+Read,8BL2.00,Patient on maximal tolerated therapy for diabetes,res46: Diabetes,diagnostic
+Read,M271100,Neuropathic diabetic ulcer - foot,res46: Diabetes,diagnostic
+Read,2BBR.00,O/E - right eye preproliferative diabetic retinopathy,res46: Diabetes,diagnostic
+Read,C314.11,Renal diabetes,res46: Diabetes,diagnostic
+Read,66Ac.00,Diabetic peripheral neuropathy screening,res46: Diabetes,diagnostic
+Read,2BBQ.00,O/E - left eye background diabetic retinopathy,res46: Diabetes,diagnostic
+Read,C100111,Maturity onset diabetes,res46: Diabetes,diagnostic
+Read,66AD.00,Fundoscopy - diabetic check,res46: Diabetes,diagnostic
+Read,2BBX.00,O/E - left eye diabetic maculopathy,res46: Diabetes,diagnostic
+Read,C106.00,Diabetes mellitus with neurological manifestation,res46: Diabetes,diagnostic
+Read,C104y00,Other specified diabetes mellitus with renal complications,res46: Diabetes,diagnostic
+Read,C100100,"Diabetes mellitus, adult onset, no mention of complication",res46: Diabetes,diagnostic
+Read,2BBS.00,O/E - left eye preproliferative diabetic retinopathy,res46: Diabetes,diagnostic
+Read,8HBG.00,Diabetic retinopathy 12 month review,res46: Diabetes,diagnostic
+Read,2BBP.00,O/E - right eye background diabetic retinopathy,res46: Diabetes,diagnostic
+Read,8H7r.00,Refer to diabetic foot screener,res46: Diabetes,diagnostic
+Read,8B3l.00,Diabetes medication review,res46: Diabetes,diagnostic
+Read,F420600,Non proliferative diabetic retinopathy,res46: Diabetes,diagnostic
+Read,F420300,Advanced diabetic maculopathy,res46: Diabetes,diagnostic
+Read,C10B.00,Diabetes mellitus induced by steroids,res46: Diabetes,diagnostic
+Read,C10EM00,Type 1 diabetes mellitus with ketoacidosis,res46: Diabetes,diagnostic
+Read,ZC2C800,Dietary advice for diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10ED00,Type 1 diabetes mellitus with nephropathy,res46: Diabetes,diagnostic
+Read,C10yy00,Other specified diabetes mellitus with other spec comps,res46: Diabetes,diagnostic
+Read,F372.11,Diabetic polyneuropathy,res46: Diabetes,diagnostic
+Read,7L19800,Subcutaneous injection of insulin,res46: Diabetes,diagnostic
+Read,2G5A.00,O/E - Right diabetic foot at risk,res46: Diabetes,diagnostic
+Read,C108.12,Type 1 diabetes mellitus,res46: Diabetes,diagnostic
+Read,F171100,Autonomic neuropathy due to diabetes,res46: Diabetes,diagnostic
+Read,C108F11,Type I diabetes mellitus with diabetic cataract,res46: Diabetes,diagnostic
+Read,F440700,Diabetic iritis,res46: Diabetes,diagnostic
+Read,C109600,Non-insulin-dependent diabetes mellitus with retinopathy,res46: Diabetes,diagnostic
+Read,F35z000,Diabetic mononeuritis NOS,res46: Diabetes,diagnostic
+Read,2G5C.00,Foot abnormality - diabetes related,res46: Diabetes,diagnostic
+Read,C109.12,Type 2 diabetes mellitus,res46: Diabetes,diagnostic
+Read,889A.00,Diab mellit insulin-glucose infus acute myocardial infarct,res46: Diabetes,diagnostic
+Read,C109011,Type II diabetes mellitus with renal complications,res46: Diabetes,diagnostic
+Read,68A7.00,Diabetic retinopathy screening,res46: Diabetes,diagnostic
+Read,66AL.00,Diabetic-uncooperative patient,res46: Diabetes,diagnostic
+Read,C109G11,Type II diabetes mellitus with arthropathy,res46: Diabetes,diagnostic
+Read,N030000,Diabetic cheiroarthropathy,res46: Diabetes,diagnostic
+Read,66AH.00,Diabetic treatment changed,res46: Diabetes,diagnostic
+Read,C10E411,Unstable type I diabetes mellitus,res46: Diabetes,diagnostic
+Read,C109012,Type 2 diabetes mellitus with renal complications,res46: Diabetes,diagnostic
+Read,66AW.00,Diabetic foot risk assessment,res46: Diabetes,diagnostic
+Read,C109J00,Insulin treated Type 2 diabetes mellitus,res46: Diabetes,diagnostic
+Read,C106y00,Other specified diabetes mellitus with neurological comps,res46: Diabetes,diagnostic
+Read,66AT.00,Annual diabetic blood test,res46: Diabetes,diagnostic
+Read,C109J12,Insulin treated Type II diabetes mellitus,res46: Diabetes,diagnostic
+Read,C101100,"Diabetes mellitus, adult onset, with ketoacidosis",res46: Diabetes,diagnostic
+Read,C109.13,Type II diabetes mellitus,res46: Diabetes,diagnostic
+Read,C108011,Type I diabetes mellitus with renal complications,res46: Diabetes,diagnostic
+Read,C108J12,Type 1 diabetes mellitus with neuropathic arthropathy,res46: Diabetes,diagnostic
+Read,C109300,Non-insulin-dependent diabetes mellitus with multiple comps,res46: Diabetes,diagnostic
+Read,C10EM11,Type I diabetes mellitus with ketoacidosis,res46: Diabetes,diagnostic
+Read,C10E412,Unstable insulin dependent diabetes mellitus,res46: Diabetes,diagnostic
+Read,C100z00,Diabetes mellitus NOS with no mention of complication,res46: Diabetes,diagnostic
+Read,L180600,"Pre-existing diabetes mellitus, non-insulin-dependent",res46: Diabetes,diagnostic
+Read,C108511,Type I diabetes mellitus with ulcer,res46: Diabetes,diagnostic
+Read,C106.13,Diabetes mellitus with polyneuropathy,res46: Diabetes,diagnostic
+Read,C109A11,Type II diabetes mellitus with mononeuropathy,res46: Diabetes,diagnostic
+Read,L180500,"Pre-existing diabetes mellitus, insulin-dependent",res46: Diabetes,diagnostic
+Read,C10FP00,Type 2 diabetes mellitus with ketoacidotic coma,res46: Diabetes,diagnostic
+Read,C10E.12,Insulin dependent diabetes mellitus,res46: Diabetes,diagnostic
+Read,66AJ.11,Unstable diabetes,res46: Diabetes,diagnostic
+Read,C109700,Non-insulin dependent diabetes mellitus - poor control,res46: Diabetes,diagnostic
+Read,66A3.00,Diabetic on diet only,res46: Diabetes,diagnostic
+Read,8CA4100,Pt advised re diabetic diet,res46: Diabetes,diagnostic
+Read,66AR.00,Diabetes management plan given,res46: Diabetes,diagnostic
+Read,C10G.00,Secondary pancreatic diabetes mellitus,res46: Diabetes,diagnostic
+Read,66AS.00,Diabetic annual review,res46: Diabetes,diagnostic
+Read,66A5.00,Diabetic on insulin,res46: Diabetes,diagnostic
+Read,C108300,Insulin dependent diabetes mellitus with multiple complicatn,res46: Diabetes,diagnostic
+Read,C109F00,Non-insulin-dependent d m with peripheral angiopath,res46: Diabetes,diagnostic
+Read,C108200,Insulin-dependent diabetes mellitus with neurological comps,res46: Diabetes,diagnostic
+Read,F420100,Proliferative diabetic retinopathy,res46: Diabetes,diagnostic
+Read,F420200,Preproliferative diabetic retinopathy,res46: Diabetes,diagnostic
+Read,C109.00,Non-insulin dependent diabetes mellitus,res46: Diabetes,diagnostic
+Read,F420400,Diabetic maculopathy,res46: Diabetes,diagnostic
+Read,66AJ.00,Diabetic - poor control,res46: Diabetes,diagnostic
+Read,K01x100,Nephrotic syndrome in diabetes mellitus,res46: Diabetes,diagnostic
+Read,2BBl.00,O/E - left eye stable treated prolif diabetic retinopathy,res46: Diabetes,diagnostic
+Read,C104.11,Diabetic nephropathy,res46: Diabetes,diagnostic
+Read,Cyu2.00,[X]Diabetes mellitus,res46: Diabetes,diagnostic
+Read,9360,Patient held diabetic record issued,res46: Diabetes,diagnostic
+Read,C109.11,NIDDM - Non-insulin dependent diabetes mellitus,res46: Diabetes,diagnostic
+Read,C108700,Insulin dependent diabetes mellitus with retinopathy,res46: Diabetes,diagnostic
+Read,C10E.00,Type 1 diabetes mellitus,res46: Diabetes,diagnostic
+Read,C10A.00,Malnutrition-related diabetes mellitus,res46: Diabetes,diagnostic
+Read,F372.12,Diabetic neuropathy,res46: Diabetes,diagnostic
+Read,C10EJ00,Type 1 diabetes mellitus with neuropathic arthropathy,res46: Diabetes,diagnostic
+Read,C109000,Non-insulin-dependent diabetes mellitus with renal comps,res46: Diabetes,diagnostic
+Read,R054200,[D]Gangrene of toe in diabetic,res46: Diabetes,diagnostic
+Read,C10F911,Type II diabetes mellitus without complication,res46: Diabetes,diagnostic
+Read,66AG.00,Diabetic drug side effects,res46: Diabetes,diagnostic
+Read,C101000,"Diabetes mellitus, juvenile type, with ketoacidosis",res46: Diabetes,diagnostic
+Read,2BBo.00,O/E - sight threatening diabetic retinopathy,res46: Diabetes,diagnostic

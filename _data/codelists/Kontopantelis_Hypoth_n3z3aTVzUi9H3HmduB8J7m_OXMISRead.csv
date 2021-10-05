@@ -1,0 +1,39 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,244 AC,HYPOTHYROIDISM ACQUIRED,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+OXMIS,243,HYPOTHYROIDISM CONGENITAL,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+OXMIS,244 AG,HYPOTHYROIDISM COMPENSATED,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,f923.00,THYROXINE tabs 100micrograms,res43: hypoth_kontopantelis_bmjqs2012,drug
+Read,C041z00,Postablative hypothyroidism NOS,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,f922.00,THYROXINE tabs 50micrograms,res43: hypoth_kontopantelis_bmjqs2012,drug
+Read,C04z000,Premature puberty due to hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C042.00,Iodine hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C04z.13,"Hypothyroid goitre, acquired",res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C041000,Irradiation hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C04z.12,Thyroid insufficiency,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C03y100,Congenital hypothyroidism without goitre,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,F381400,Myasthenic syndrome due to hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,symptom
+Read,f921.00,THYROXINE,res43: hypoth_kontopantelis_bmjqs2012,drug
+Read,C041.00,Other postablative hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C04..00,Acquired hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C043100,Hypothyroidism resulting from phenylbutazone,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C03y000,Congenital hypothyroidism with diffuse goitre,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C04y.00,Other acquired hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C043000,Hypothyroidism resulting from para-aminosalicylic acid,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C04..12,Thyroid deficiency,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C043200,Hypothyroidism resulting from resorcinol,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,Cyu1100,[X]Other sp cified hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C04z100,Myxoedema coma,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C045.00,Acquired atrophy of thyroid,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C043z00,Iatrogenic hypothyroidism NOS,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C04z.11,Pretibial myxoedema - hypothyroid,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C03y.00,Other specified congenital hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C04..11,Myxoedema,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C040.00,Postsurgical hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C043.00,Other iatrogenic hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C03..00,Congenital hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C040.11,Post ablative hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C046.00,Autoimmune myxoedema,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C044.00,Postinfectious hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C04..13,Hypothyroidism,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C04z.00,Hypothyroidism NOS,res43: hypoth_kontopantelis_bmjqs2012,diagnostic
+Read,C03z.00,Congenital hypothyroidism NOS,res43: hypoth_kontopantelis_bmjqs2012,diagnostic

@@ -1,0 +1,26 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,M161600,Guttate psoriasis,res21: psoriasis,diagnostic
+Read,M161H00,Erythrodermic psoriasis,res21: psoriasis,diagnostic
+Read,14F2.00,H/O: psoriasis,res21: psoriasis,diagnostic
+Read,M16y000,Scalp psoriasis,res21: psoriasis,diagnostic
+Read,M161z00,Psoriasis NOS,res21: psoriasis,diagnostic
+Read,M161000,Psoriasis unspecified,res21: psoriasis,diagnostic
+Read,M161A00,Psoriasis palmaris,res21: psoriasis,diagnostic
+Read,M16..00,Psoriasis and similar disorders,res21: psoriasis,diagnostic
+Read,M161B00,Psoriasis plantaris,res21: psoriasis,diagnostic
+Read,M161E00,Psoriasis universalis,res21: psoriasis,diagnostic
+Read,M161C00,Psoriasis punctata,res21: psoriasis,diagnostic
+Read,M161400,Psoriasis discoidea,res21: psoriasis,diagnostic
+Read,M161100,Psoriasis annularis,res21: psoriasis,diagnostic
+Read,M161.00,Other psoriasis,res21: psoriasis,diagnostic
+Read,M161500,Psoriasis geographica,res21: psoriasis,diagnostic
+Read,M161F00,Psoriasis vulgaris,res21: psoriasis,diagnostic
+Read,M161300,Psoriasis diffusa,res21: psoriasis,diagnostic
+Read,M16y.00,Other psoriasis and similar disorders,res21: psoriasis,diagnostic
+Read,M161200,Psoriasis circinata,res21: psoriasis,diagnostic
+Read,M16z.00,Psoriasis and similar disorders NOS,res21: psoriasis,diagnostic
+Read,M161F11,Chronic large plaque psoriasis,res21: psoriasis,diagnostic
+Read,M161900,Psoriasis ostracea,res21: psoriasis,diagnostic
+Read,M161800,Psoriasis inveterata,res21: psoriasis,diagnostic
+Read,Myu3000,[X]Other psoriasis,res21: psoriasis,diagnostic
+Read,M161700,Psoriasis gyrata,res21: psoriasis,diagnostic

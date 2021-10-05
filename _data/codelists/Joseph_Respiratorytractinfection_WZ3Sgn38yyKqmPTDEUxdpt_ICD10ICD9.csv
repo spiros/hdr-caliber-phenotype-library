@@ -1,0 +1,253 @@
+Coding System (ICD-10 ICD-9),Codes,Description,Entity type,Category
+ICD-10,J15.4,Pneumonia due to other streptococci,res42: respiratory tract infection,diagnostic
+ICD-10,J17.0,Pneumonia in bacterial diseases classified elsewhere,res42: respiratory tract infection,diagnostic
+ICD-10,J15.3,"Pneumonia due to streptococcus, group B",res42: respiratory tract infection,diagnostic
+ICD-10,A15.3,"Tuberculosis of lung, confirmed by unspecified means",res42: respiratory tract infection,diagnostic
+ICD-10,A15.2,"Tuberculosis of lung, confirmed histologically",res42: respiratory tract infection,diagnostic
+ICD-10,A15.1,"Tuberculosis of lung, confirmed by culture only",res42: respiratory tract infection,diagnostic
+ICD-10,A15.0,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",res42: respiratory tract infection,diagnostic
+ICD-10,J20.8,Acute bronchitis due to other specified organisms,res42: respiratory tract infection,diagnostic
+ICD-10,A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",res42: respiratory tract infection,diagnostic
+ICD-10,A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",res42: respiratory tract infection,diagnostic
+ICD-10,A15.7,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",res42: respiratory tract infection,diagnostic
+ICD-10,A15.6,"Tuberculous pleurisy, confirmed bacteriologically and histologically",res42: respiratory tract infection,diagnostic
+ICD-10,A15.4,"Tuberculosis of intrathoracic lymph nodes, confirmed bacteriologically and histologically",res42: respiratory tract infection,diagnostic
+ICD-10,A15.5,"Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically",res42: respiratory tract infection,diagnostic
+ICD-10,A15.8,"Other respiratory tuberculosis, confirmed bacteriologically and histologically",res42: respiratory tract infection,diagnostic
+ICD-10,J12.1,Respiratory syncytial virus pneumonia,res42: respiratory tract infection,diagnostic
+ICD-10,A15.9,"Respiratory tuberculosis unspecified, confirmed bacteriologically and histologically",res42: respiratory tract infection,diagnostic
+ICD-10,J12,"Viral pneumonia, not elsewhere classified",res42: respiratory tract infection,diagnostic
+ICD-10,A16.3,"Tuberculosis of intrathoracic lymph nodes, without mention of bacteriological or histological confir",res42: respiratory tract infection,diagnostic
+ICD-10,A16.1,"Tuberculosis of lung, bacteriological and histological examination not done",res42: respiratory tract infection,diagnostic
+ICD-10,A16.0,"Tuberculosis of lung, bacteriologically and histologically negative",res42: respiratory tract infection,diagnostic
+ICD-10,A16.2,"Tuberculosis of lung, without mention of bacteriological or histological confirmation",res42: respiratory tract infection,diagnostic
+ICD-10,A16.5,"Tuberculous pleurisy, without mention of bacteriological or histological confirmation",res42: respiratory tract infection,diagnostic
+ICD-10,A48.1,Legionnaires disease,res42: respiratory tract infection,diagnostic
+ICD-10,A16.4,"Tuberculosis of larynx, trachea and bronchus, without mention of bacteriological or histological con",res42: respiratory tract infection,diagnostic
+ICD-10,A16.7,Primary respiratory tuberculosis without mention of bacteriological or histological confirmation,res42: respiratory tract infection,diagnostic
+ICD-10,A16.9,"Respiratory tuberculosis unspecified, without mention of bacteriological or histological confirmatio",res42: respiratory tract infection,diagnostic
+ICD-10,A16.8,"Other respiratory tuberculosis, without mention of bacteriological or histological confirmation",res42: respiratory tract infection,diagnostic
+ICD-10,J12.3,Human metapneumovirus pneumonia,res42: respiratory tract infection,diagnostic
+ICD-10,J12.2,Parainfluenza virus pneumonia,res42: respiratory tract infection,diagnostic
+ICD-10,J15.2,Pneumonia due to staphylococcus,res42: respiratory tract infection,diagnostic
+ICD-10,J12.9,"Viral pneumonia, unspecified",res42: respiratory tract infection,diagnostic
+ICD-10,J12.8,Other viral pneumonia,res42: respiratory tract infection,diagnostic
+ICD-10,J15.0,Pneumonia due to Klebsiella pneumoniae,res42: respiratory tract infection,diagnostic
+ICD-10,J15.1,Pneumonia due to Pseudomonas,res42: respiratory tract infection,diagnostic
+ICD-10,J15,"Bacterial pneumonia, not elsewhere classified",res42: respiratory tract infection,diagnostic
+ICD-10,J14,Pneumonia due to Haemophilus influenzae,res42: respiratory tract infection,diagnostic
+ICD-10,J13,Pneumonia due to Streptococcus pneumoniae,res42: respiratory tract infection,diagnostic
+ICD-10,J17,Pneumonia in diseases classified elsewhere,res42: respiratory tract infection,diagnostic
+ICD-10,J16.8,Pneumonia due to other specified infectious organisms,res42: respiratory tract infection,diagnostic
+ICD-10,J16.0,Chlamydial pneumonia,res42: respiratory tract infection,diagnostic
+ICD-10,J16,"Pneumonia due to other infectious organisms, not elsewhere classified",res42: respiratory tract infection,diagnostic
+ICD-10,J15.9,"Bacterial pneumonia, unspecified",res42: respiratory tract infection,diagnostic
+ICD-10,J15.8,Other bacterial pneumonia,res42: respiratory tract infection,diagnostic
+ICD-10,J15.7,Pneumonia due to Mycoplasma pneumoniae,res42: respiratory tract infection,diagnostic
+ICD-10,J15.6,Pneumonia due to other aerobic Gram-negative bacteria,res42: respiratory tract infection,diagnostic
+ICD-10,J15.5,Pneumonia due to Escherichia coli,res42: respiratory tract infection,diagnostic
+ICD-10,J17.3,Pneumonia in parasitic diseases,res42: respiratory tract infection,diagnostic
+ICD-10,J21.0,Acute bronchiolitis due to respiratory syncytial virus,res42: respiratory tract infection,diagnostic
+ICD-10,J17.2,Pneumonia in mycoses,res42: respiratory tract infection,diagnostic
+ICD-10,J17.1,Pneumonia in viral diseases classified elsewhere,res42: respiratory tract infection,diagnostic
+ICD-10,J21,Acute bronchiolitis,res42: respiratory tract infection,diagnostic
+ICD-10,J17.8,Pneumonia in other diseases classified elsewhere,res42: respiratory tract infection,diagnostic
+ICD-10,J18.9,"Pneumonia, unspecified",res42: respiratory tract infection,diagnostic
+ICD-10,J18,"Pneumonia, organism unspecified",res42: respiratory tract infection,diagnostic
+ICD-10,J18.8,"Other pneumonia, organism unspecified",res42: respiratory tract infection,diagnostic
+ICD-10,J18.2,"Hypostatic pneumonia, unspecified",res42: respiratory tract infection,diagnostic
+ICD-10,J18.0,"Bronchopneumonia, unspecified",res42: respiratory tract infection,diagnostic
+ICD-10,J18.1,"Lobar pneumonia, unspecified",res42: respiratory tract infection,diagnostic
+ICD-10,J20,Acute bronchitis,res42: respiratory tract infection,diagnostic
+ICD-10,J20.2,Acute bronchitis due to streptococcus,res42: respiratory tract infection,diagnostic
+ICD-10,J20.9,"Acute bronchitis, unspecified",res42: respiratory tract infection,diagnostic
+ICD-10,J20.1,Acute bronchitis due to Haemophilus influenzae,res42: respiratory tract infection,diagnostic
+ICD-10,J20.0,Acute bronchitis due to Mycoplasma pneumoniae,res42: respiratory tract infection,diagnostic
+ICD-10,J20.7,Acute bronchitis due to echovirus,res42: respiratory tract infection,diagnostic
+ICD-10,J20.4,Acute bronchitis due to parainfluenza virus,res42: respiratory tract infection,diagnostic
+ICD-10,J20.3,Acute bronchitis due to coxsackievirus,res42: respiratory tract infection,diagnostic
+ICD-10,J20.6,Acute bronchitis due to rhinovirus,res42: respiratory tract infection,diagnostic
+ICD-10,J20.5,Acute bronchitis due to respiratory syncytial virus,res42: respiratory tract infection,diagnostic
+ICD-10,J44.0,Chronic obstructive pulmonary disease with acute lower respiratory infection,res42: respiratory tract infection,diagnostic
+ICD-10,J21.1,Acute bronchiolitis due to human metapneumovirus,res42: respiratory tract infection,diagnostic
+ICD-10,J40,"Bronchitis, not specified as acute or chronic",res42: respiratory tract infection,diagnostic
+ICD-10,J22,Unspecified acute lower respiratory infection,res42: respiratory tract infection,diagnostic
+ICD-10,J21.8,Acute bronchiolitis due to other specified organisms,res42: respiratory tract infection,diagnostic
+ICD-10,J21.9,"Acute bronchiolitis, unspecified",res42: respiratory tract infection,diagnostic
+ICD-10,J44.1,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",res42: respiratory tract infection,diagnostic
+ICD-10,J85.2,Abscess of lung without pneumonia,res42: respiratory tract infection,diagnostic
+ICD-10,J85.1,Abscess of lung with pneumonia,res42: respiratory tract infection,diagnostic
+ICD-10,J85,Abscess of lung and mediastinum,res42: respiratory tract infection,diagnostic
+ICD-10,J85.0,Gangrene and necrosis of lung,res42: respiratory tract infection,diagnostic
+ICD-10,J86,Pyothorax,res42: respiratory tract infection,diagnostic
+ICD-10,J85.3,Abscess of mediastinum,res42: respiratory tract infection,diagnostic
+ICD-10,J86.9,Pyothorax without fistula,res42: respiratory tract infection,diagnostic
+ICD-10,J86.0,Pyothorax with fistula,res42: respiratory tract infection,diagnostic
+ICD-10,J12.0,Adenoviral pneumonia,res42: respiratory tract infection,diagnostic
+ICD-9,110.5,TB LUNG INFILTRATIVE HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,117.6,TB PNEUMOTHORAX OTH,res42: respiratory tract infection,diagnostic
+ICD-9,113,TB BRONCHUS UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,117.5,TB PNEUMOTHORAX HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,112.6,TB LUNG W/CAVITY OTH,res42: respiratory tract infection,diagnostic
+ICD-9,114,TB LUNG FIBROSIS UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,117.4,TB PNEUMOTHORAX CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,117.2,TB PNEUMOTHORAX EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,113.1,TB BRONCHUS W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,113.6,TB BRONCHUS OTH,res42: respiratory tract infection,diagnostic
+ICD-9,113.2,TB BRONCHUS EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,113.5,TB BRONCHUS HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,113.4,TB BRONCHUS CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,113.3,TB BRONCHUS MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,114.5,TB LUNG FIBROSIS HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,116.4,TB PNEUMONIA CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,114.4,TB LUNG FIBROSIS CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,114.2,TB LUNG FIBROSIS EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,114.1,TB LUNG FIBROSIS W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,114.3,TB LUNG FIBROSIS MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,116.3,TB PNEUMONIA MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,116.2,TB PNEUMONIA EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,114.6,TB LUNG FIBROSIS OTH,res42: respiratory tract infection,diagnostic
+ICD-9,115.5,TB BRONCHIECTASIS HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,115.2,TB BRONCHIECTASIS EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,115,TB BRONCHIECTASIS UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,115.1,TB BRONCHIECTASIS W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,116.1,TB PNEUMONIA W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,116,TB PNEUMONIA UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,115.6,TB BRONCHIECTASIS OTH,res42: respiratory tract infection,diagnostic
+ICD-9,115.9,HISTOPLASMOSIS PNEUMONIA UNSPECIFIED,res42: respiratory tract infection,diagnostic
+ICD-9,117,TB PNEUMOTHORAX UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,117.1,TB PNEUMOTHORAX W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,117.3,TB PNEUMOTHORAX MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,116.5,TB PNEUMONIA HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,116.6,TB PNEUMONIA OTH,res42: respiratory tract infection,diagnostic
+ICD-9,110.4,TB LUNG INFILTRATIVE CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,119.5,UNSP PULMONARY TB HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,484.7,PNEUMONIA IN OTHER SYSTEMIC MYCOSES,res42: respiratory tract infection,diagnostic
+ICD-9,118,OTH PULMONARY TB UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,110.3,TB LUNG INFILTRATIVE MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,118.1,OTH PULMONARY TB W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,119.4,UNSP PULMONARY TB CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,118.2,OTH PULMONARY TB EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,119.3,UNSP PULMONARY TB MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,118.3,OTH PULMONARY TB MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,119.2,UNSP PULMONARY TB RESULT UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,118.6,OTH PULMONARY TB OTH,res42: respiratory tract infection,diagnostic
+ICD-9,119.1,UNSP PULMONARY TB W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,118.5,OTH PULMONARY TB HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,118.4,OTH PULMONARY TB CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,119,UNSP PULMONARY TB UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,466.1,ACUTE BRONCHIOLITIS DUE TO RESPIRATORY SYNCYTIAL VIRUS (RSV),res42: respiratory tract infection,diagnostic
+ICD-9,122.5,ISOLATED TRACHEAL TB HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,483.8,PNEUMONIA DUE TO OTHER SPECIFIED ORGANISM,res42: respiratory tract infection,diagnostic
+ICD-9,120,TB PLEURISY UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,119.6,UNSP PULMONARY TB OTH METHOD,res42: respiratory tract infection,diagnostic
+ICD-9,121,TB THORACIC NODES UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,120.6,TB PLEURISY OTH,res42: respiratory tract infection,diagnostic
+ICD-9,120.1,TB PLEURISY W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,120.5,TB PLEURISY HISTOLOGY DX,res42: respiratory tract infection,diagnostic
+ICD-9,120.4,TB PLEURISY CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,120.2,TB PLEURISY EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,120.3,TB PLEURISY MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,121.2,TB THORACIC NODE EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,121.5,TB THORACIC NODE HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,121.1,TB THORACIC NODE W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,121.4,TB THORACIC NODE CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,122.4,ISOLATED TRACHEAL TB CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,121.3,TB THORACIC NODE MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,122.1,ISOLATED TRACHEAL TB W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,122.3,ISOLATED TRACHEAL TB MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,122,ISOLATED TRACHEAL TB UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,121.6,TB THORACIC NODE OTH,res42: respiratory tract infection,diagnostic
+ICD-9,122.2,ISOLATED TRACH TB EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,466,ACUTE BRONCHITIS,res42: respiratory tract infection,diagnostic
+ICD-9,123.2,TB LARYNGITIS EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,123.1,TB LARYNGITIS W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,128.3,OTH RESPIRATORY TB MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,123,TB LARYNGITIS UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,122.6,ISOLATED TRACHEAL TB OTH,res42: respiratory tract infection,diagnostic
+ICD-9,123.6,TB LARYNGITIS OTH,res42: respiratory tract infection,diagnostic
+ICD-9,128.2,OTH RESPIRATORY TB EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,123.5,TB LARYNGITIS HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,123.3,TB LARYNGITIS MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,123.4,TB LARYNGITIS CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,128,OTH RESPIRATORY TB UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,128.1,OTH RESPIRATORY TB W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,182.8,PNEUMONIA DUE TO OTHER SPECIFIED BACTERIA,res42: respiratory tract infection,diagnostic
+ICD-9,128.5,OTH RESPIRATORY TB HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,128.4,OTH RESPIRATORY TB CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,128.6,OTH RESPIRATORY TB OTH,res42: respiratory tract infection,diagnostic
+ICD-9,480.2,PNEUMONIA DUE TO PARAINFLUENZA VIRUS,res42: respiratory tract infection,diagnostic
+ICD-9,481,PNEUMOCOCCAL PNEUMONIA [STREPTOCOCCUS PNEUMONIAE PNEUMONIA],res42: respiratory tract infection,diagnostic
+ICD-9,483.2,CHRONIC OBSTRUCTIVE ASTHMA WITH STATUS ASTHMATICUS,res42: respiratory tract infection,diagnostic
+ICD-9,480.1,PNEUMONIA DUE TO RESPIRATORY SYNCYTIAL VIRUS,res42: respiratory tract infection,diagnostic
+ICD-9,480,PNEUMONIA DUE TO ADENOVIRUS,res42: respiratory tract infection,diagnostic
+ICD-9,480.3,PNEUMONIA DUE TO SARS-ASSOCIATED CORONAVIRUS,res42: respiratory tract infection,diagnostic
+ICD-9,480.9,VIRAL PNEUMONIA UNSPECIFIED,res42: respiratory tract infection,diagnostic
+ICD-9,480.8,PNEUMONIA DUE TO OTHER VIRUS NOT ELSEWHERE CLASSIFIED,res42: respiratory tract infection,diagnostic
+ICD-9,482.1,PNEUMONIA DUE TO PSEUDOMONAS,res42: respiratory tract infection,diagnostic
+ICD-9,482.4,PNEUMONIA DUE TO STAPHYLOCOCCUS UNSPECIFIED,res42: respiratory tract infection,diagnostic
+ICD-9,482,PNEUMONIA DUE TO KLEBSIELLA PNEUMONIAE,res42: respiratory tract infection,diagnostic
+ICD-9,482.2,PNEUMONIA DUE TO HEMOPHILUS INFLUENZAE [H. INFLUENZAE],res42: respiratory tract infection,diagnostic
+ICD-9,483.1,PNEUMONIA DUE TO CHLAMYDIA,res42: respiratory tract infection,diagnostic
+ICD-9,482.3,PNEUMONIA DUE TO STREPTOCOCCUS GROUP B,res42: respiratory tract infection,diagnostic
+ICD-9,483,PNEUMONIA DUE TO MYCOPLASMA PNEUMONIAE,res42: respiratory tract infection,diagnostic
+ICD-9,482.8,PNEUMONIA DUE TO ESCHERICHIA COLI [E.COLI],res42: respiratory tract infection,diagnostic
+ICD-9,482.9,BACTERIAL PNEUMONIA UNSPECIFIED,res42: respiratory tract infection,diagnostic
+ICD-9,730,ORNITHOSIS WITH PNEUMONIA,res42: respiratory tract infection,diagnostic
+ICD-9,484.8,PNEUMONIA IN OTHER INFECTIOUS DISEASES CLASSIFIED ELSEWHERE,res42: respiratory tract infection,diagnostic
+ICD-9,490,BRONCHITIS NOT SPECIFIED AS ACUTE OR CHRONIC,res42: respiratory tract infection,diagnostic
+ICD-9,486,PNEUMONIA ORGANISM UNSPECIFIED,res42: respiratory tract infection,diagnostic
+ICD-9,487,INFLUENZA WITH PNEUMONIA,res42: respiratory tract infection,diagnostic
+ICD-9,485,BRONCHOPNEUMONIA ORGANISM UNSPECIFIED,res42: respiratory tract infection,diagnostic
+ICD-9,496,CHRONIC AIRWAY OBSTRUCTION NOT ELSEWHERE CLASSIFIED,res42: respiratory tract infection,diagnostic
+ICD-9,530.8,TRACHEOESOPHAGEAL FISTULA,res42: respiratory tract infection,diagnostic
+ICD-9,493.2,CHRONIC OBSTRUCTIVE ASTHMA WITH (ACUTE) EXACERBATION,res42: respiratory tract infection,diagnostic
+ICD-9,491.2,"OBSTRUCTIVE CHRONIC BRONCHITIS, WITH ACUTE BRONCHITIS",res42: respiratory tract infection,diagnostic
+ICD-9,115.3,TB BRONCHIECTASIS MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,517,RHEUMATIC PNEUMONIA,res42: respiratory tract infection,diagnostic
+ICD-9,510,EMPYEMA WITH FISTULA,res42: respiratory tract infection,diagnostic
+ICD-9,510.9,EMPYEMA WITHOUT FISTULA,res42: respiratory tract infection,diagnostic
+ICD-9,511,PLEURISY WITHOUT EFFUSION OR CURRENT TUBERCULOSIS,res42: respiratory tract infection,diagnostic
+ICD-9,514,PULMONARY CONGESTION AND HYPOSTASIS,res42: respiratory tract infection,diagnostic
+ICD-9,513.1,ABSCESS OF MEDIASTINUM,res42: respiratory tract infection,diagnostic
+ICD-9,513,ABSCESS OF LUNG,res42: respiratory tract infection,diagnostic
+ICD-9,110.1,TB LUNG INFILTRATIVE W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,108.6,OTH PRIMARY PROG TB OTH METHODS,res42: respiratory tract infection,diagnostic
+ICD-9,110,TB LUNG INFILTRATIVE UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,110.2,TB LUNG INFILTRATIVE EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,100.2,PRIMARY TB COMPLEX EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,108.5,OTH PRIMARY PROG TB HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,100.1,PRIMARY TB COMPLEX W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,100,PRIMARY TB COMPLEX UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,101.3,TB PLEURISY PRIMARY MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,100.4,PRIMARY TB COMPLEX CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,100.3,PRIMARY TB COMPLEX MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,108.4,OTH PRIMARY PROG TB CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,100.5,PRIMARY TB COMPLEX HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,101.2,TB PLEURISY PRIMARY EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,101.1,TB PLEURISY PRIMARY W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,100.6,PRIMARY TB COMPLEX OTH,res42: respiratory tract infection,diagnostic
+ICD-9,101,TB PLEURISY PRIMARY UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,108.3,OTH PRIMARY PROG TB MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,101.4,TB PLEURISY PRIMARY CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,101.5,TB PLEURISY PRIMARY HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,101.6,TB PLEURISY PRIMARY OTH,res42: respiratory tract infection,diagnostic
+ICD-9,108.2,OTH PRIMARY PROG TB EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,108.1,OTH PRIMARY PROG TB W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,108,OTH PRIMARY PROG TB UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,109.2,PRIMARY TB UNSP EXAM UNKNOWN,res42: respiratory tract infection,diagnostic
+ICD-9,109.3,PRIMARY TB UNSP MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,109.5,PRIMARY TB UNSP HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,109.1,PRIMARY TB UNSP W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,109,UNSP PRIMARY TB UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,109.6,PRIMARY TB UNSP OTH,res42: respiratory tract infection,diagnostic
+ICD-9,109.4,PRIMARY TB UNSP CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,110.6,TB LUNG INFILTRATIVE OTH,res42: respiratory tract infection,diagnostic
+ICD-9,112.5,TB LUNG W/CAVITY HISTO DX,res42: respiratory tract infection,diagnostic
+ICD-9,115.4,TB BRONCHIECTASIS CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,112.4,TB LUNG W/CAVITY CULT DX,res42: respiratory tract infection,diagnostic
+ICD-9,112,TB LUNG W/CAVITY UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,111,TB LUNG NODULAR UNSP,res42: respiratory tract infection,diagnostic
+ICD-9,112.3,TB LUNG W/CAVITY MICRO DX,res42: respiratory tract infection,diagnostic
+ICD-9,112.1,TB LUNG W/CAVITY W/O EXAM,res42: respiratory tract infection,diagnostic
+ICD-9,112.2,TB LUNG W/CAVITY EXAM UNKNOWN,res42: respiratory tract infection,diagnostic

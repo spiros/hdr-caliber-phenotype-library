@@ -1,0 +1,42 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4270D,CONGESTIVE HEART FAILURE DECOMPENSATED,res26: HF,diagnostic
+OXMIS,4270LW,SYNDROME LOW-OUTPUT,res26: HF,diagnostic
+OXMIS,402 C,HYPERTENSION CONGESTIVE HEART FAILURE,res26: HF,diagnostic
+OXMIS,4270R,HEART FAILURE RIGHT-SIDED,res26: HF,diagnostic
+OXMIS,7824AC,HEART FAILURE ACUTE,res26: HF,diagnostic
+OXMIS,4270,CONGESTIVE HEART FAILURE,res26: HF,diagnostic
+OXMIS,4271A,LEFT VENTRICULAR FAILURE ACUTE,res26: HF,diagnostic
+OXMIS,4271,LVF (LEFT VENTRICULAR FAILURE),res26: HF,diagnostic
+OXMIS,7824FC,FAILURE CARDIAC,res26: HF,diagnostic
+OXMIS,4270C,CONGESTIVE CARDIAC FAILURE,res26: HF,diagnostic
+OXMIS,7824FH,HEART FAILURE,res26: HF,diagnostic
+OXMIS,4270CC,CONGESTIVE HEART FAILURE COMPENSATED,res26: HF,diagnostic
+OXMIS,4271H,HEART FAILURE LEFT-SIDED,res26: HF,diagnostic
+OXMIS,4270DR,DROPSY CARDIAC,res26: HF,diagnostic
+OXMIS,428 A,INSUFFICIENCY CARDIAC,res26: HF,diagnostic
+OXMIS,7824A,HIGH OUTPUT FAILURE (CARDIAC),res26: HF,diagnostic
+Read,G580300,Compensated cardiac failure,res26: HF,diagnostic
+Read,G580.13,Right ventricular failure,res26: HF,diagnostic
+Read,G58..00,Heart failure,res26: HF,diagnostic
+Read,G580.12,Right heart failure,res26: HF,diagnostic
+Read,G58..11,Cardiac failure,res26: HF,diagnostic
+Read,1O1..00,Heart failure confirmed,res26: HF,diagnostic
+Read,G58z.00,Heart failure NOS,res26: HF,diagnostic
+Read,G580.11,Congestive cardiac failure,res26: HF,diagnostic
+Read,G580.14,Biventricular failure,res26: HF,diagnostic
+Read,G581000,Acute left ventricular failure,res26: HF,diagnostic
+Read,G581.13,Impaired left ventricular function,res26: HF,diagnostic
+Read,Q490.00,Neonatal cardiac failure,res26: HF,diagnostic
+Read,G581.11,Asthma - cardiac,res26: HF,diagnostic
+Read,G58z.12,Cardiac failure NOS,res26: HF,diagnostic
+Read,G1yz100,Rheumatic left ventricular failure,res26: HF,diagnostic
+Read,Q48y100,Congenital cardiac failure,res26: HF,diagnostic
+Read,G232.00,Hypertensive heart&renal dis wth (congestive) heart failure,res26: HF,diagnostic
+Read,G580000,Acute congestive heart failure,res26: HF,diagnostic
+Read,G581.12,Pulmonary oedema - acute,res26: HF,diagnostic
+Read,G580100,Chronic congestive heart failure,res26: HF,diagnostic
+Read,G580200,Decompensated cardiac failure,res26: HF,diagnostic
+Read,G582.00,Acute heart failure,res26: HF,diagnostic
+Read,G234.00,Hyperten heart&renal dis+both(congestv)heart and renal fail,res26: HF,diagnostic
+Read,G580.00,Congestive heart failure,res26: HF,diagnostic
+Read,G581.00,Left ventricular failure,res26: HF,diagnostic

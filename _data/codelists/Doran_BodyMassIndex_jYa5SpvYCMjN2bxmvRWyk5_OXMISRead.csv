@@ -1,0 +1,83 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,T3326BG,PERCENTILE WEIGHT WITHIN 95% RANGE,body_mass_index,observation
+OXMIS,T3326BA,PERCENTILE WEIGHT OUTSIDE 5% RANGE,body_mass_index,observation
+OXMIS,Y0601K5,WEIGHT CONTROL CLINIC ATTENDANCE,body_mass_index,observation
+OXMIS,Y060 JY,WEIGHT CONTROL CLINIC,body_mass_index,observation
+OXMIS,L3333NN,WEIGHT NORMAL RANGE RECORDED,body_mass_index,observation
+OXMIS,T3324PW,PERCENTILE WEIGHT,body_mass_index,observation
+OXMIS,L3333NA,WEIGHT ABNORMAL RANGE RECORDED,body_mass_index,observation
+OXMIS,T3326BF,PERCENTILE WEIGHT WITHIN 90% RANGE,body_mass_index,observation
+OXMIS,T3326BD,PERCENTILE WEIGHT WITHIN 25% RANGE,body_mass_index,observation
+OXMIS,T3324WC,WEIGHT CHECK,body_mass_index,observation
+OXMIS,T3326BE,PERCENTILE WEIGHT WITHIN 75% RANGE,body_mass_index,observation
+OXMIS,T3326BB,PERCENTILE WEIGHT WITHIN  5% RANGE,body_mass_index,observation
+OXMIS,T3326BC,PERCENTILE WEIGHT WITHIN 10% RANGE,body_mass_index,observation
+OXMIS,Y060 CY,SCREENING WEIGHT ABNORMAL,body_mass_index,observation
+OXMIS,Y060 BY,SCREENING WEIGHT NORMAL,body_mass_index,observation
+OXMIS,Y060 AY,SCREENING WEIGHT,body_mass_index,observation
+Read,Q114.00,Low birthweight,body_mass_index,observation
+Read,647D.00,Child weight 3rd - 8th centile,body_mass_index,observation
+Read,22K..00,Body Mass Index,body_mass_index,observation
+Read,22K5.00,Body mass index 30+ - obesity,body_mass_index,observation
+Read,6471.00,Child weight < 3rd centile,body_mass_index,observation
+Read,22K6.00,Body mass index less than 20,body_mass_index,observation
+Read,22K1.00,Body Mass Index normal K/M2,body_mass_index,observation
+Read,22A..00,O/E - weight,body_mass_index,observation
+Read,22A3.00,O/E - weight within 10% ideal,body_mass_index,observation
+Read,22K8.00,Body mass index 20-24 - normal,body_mass_index,observation
+Read,22K2.00,Body Mass Index high K/M2,body_mass_index,observation
+Read,22K7.00,Body mass index 40+ - severely obese,body_mass_index,observation
+Read,22K3.00,Body Mass Index low K/M2,body_mass_index,observation
+Read,22A4.00,O/E - weight 10-20% over ideal,body_mass_index,observation
+Read,647Q.00,Child weight > 99.6th centile,body_mass_index,observation
+Read,1621.00,Weight steady,body_mass_index,observation
+Read,647I.00,Child weight = 50th centile,body_mass_index,observation
+Read,636..00,Birthweight of baby,body_mass_index,observation
+Read,22A6.00,O/E - Underweight,body_mass_index,observation
+Read,22A2.00,O/E -weight 10-20% below ideal,body_mass_index,observation
+Read,636..11,Birthweight,body_mass_index,observation
+Read,22A5.00,O/E - weight > 20% over ideal,body_mass_index,observation
+Read,6477.00,Child weight=90th-96th centile,body_mass_index,observation
+Read,6478.00,Child weight > 97th centile,body_mass_index,observation
+Read,647B.00,Child weight 0.5th - 1.9th centile,body_mass_index,observation
+Read,636..12,Weight - baby,body_mass_index,observation
+Read,66C..11,Weight monitoring,body_mass_index,observation
+Read,647K.00,Child weight = 75th centile,body_mass_index,observation
+Read,647A.00,Child weight = 0.4th centile,body_mass_index,observation
+Read,Q115000,Birth weight 999 g or less,body_mass_index,observation
+Read,Q115.00,Extremely low birth weight infant,body_mass_index,observation
+Read,6475.00,Child weight=50th-74th centile,body_mass_index,observation
+Read,647L.00,Child weight 76th - 90th centile,body_mass_index,observation
+Read,636Z.00,Birthweight of baby NOS,body_mass_index,observation
+Read,647E.00,Child weight 9th centile,body_mass_index,observation
+Read,647C.00,Child weight = 2nd centile,body_mass_index,observation
+Read,6476.00,Child weight=75th-89th centile,body_mass_index,observation
+Read,647M.00,Child weight = 91st centile,body_mass_index,observation
+Read,22A4.11,O/E - overweight,body_mass_index,observation
+Read,Q114000,Birth weight 1000-2499 g,body_mass_index,observation
+Read,1623.00,Weight decreasing,body_mass_index,observation
+Read,22A1.00,O/E - weight > 20% below ideal,body_mass_index,observation
+Read,647F.00,Child weight 10th - 24th centile,body_mass_index,observation
+Read,22A5.11,O/E - obese,body_mass_index,observation
+Read,1624.00,Abnormal weight gain,body_mass_index,observation
+Read,647G.00,Child weight = 25th centile,body_mass_index,observation
+Read,Q120.00,Very large baby - weight greater than 4500gm,body_mass_index,observation
+Read,647H.00,Child weight 26th - 49th centile,body_mass_index,observation
+Read,647O.00,Child weight = 98th centile,body_mass_index,observation
+Read,1622.00,Weight increasing,body_mass_index,observation
+Read,6474.00,Child weight=25th-49th centile,body_mass_index,observation
+Read,647Z.00,Child weight centiles NOS,body_mass_index,observation
+Read,22Z..00,Height and Weight,body_mass_index,observation
+Read,1625.00,Abnormal weight loss,body_mass_index,observation
+Read,1621.11,Weight static,body_mass_index,observation
+Read,6472.00,Child weight=3rd-9th centile,body_mass_index,observation
+Read,647J.00,Child weight 51st - 74th centile,body_mass_index,observation
+Read,6479.00,Child weight < 0.4th centile,body_mass_index,observation
+Read,6473.00,Child weight=10th-24th centile,body_mass_index,observation
+Read,22A8.00,Weight loss from baseline weight,body_mass_index,observation
+Read,647..00,Child weight centiles,body_mass_index,observation
+Read,22K4.00,Body mass index index 25-29 - overweight,body_mass_index,observation
+Read,22AZ.00,O/E - weight NOS,body_mass_index,observation
+Read,647P.00,Child weight 98.1st - 99.6th centile,body_mass_index,observation
+Read,647N.00,Child weight 92nd - 97th centile,body_mass_index,observation
+Read,Q111.00,Premature - weight 1000g-2499g or gestation of 28-37weeks,body_mass_index,observation

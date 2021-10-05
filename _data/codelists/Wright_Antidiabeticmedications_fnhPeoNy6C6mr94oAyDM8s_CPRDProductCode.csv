@@ -1,0 +1,293 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,30316,Metformin with pioglitazone 850mg + 15mg Tablet,res56: antidiabetic medications,drug
+CPRD_product_code,9108,TOLBUTAMIDE 250 MG TAB,res56: antidiabetic medications,drug
+CPRD_product_code,31077,Competact 15mg/850mg tablets (Takeda UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,56376,Rosiglitazone 4mg with glimepiride 4mg tablet,res56: antidiabetic medications,drug
+CPRD_product_code,38551,Eucreas 50mg/1000mg tablets (Novartis Pharmaceuticals UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,17580,Avandamet 1mg/500mg tablets (GlaxoSmithKline UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,56965,Komboglyze 2.5mg/1000mg tablets (AstraZeneca UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,60012,Dapagliflozin 5mg / Metformin 1g tablets,res56: antidiabetic medications,drug
+CPRD_product_code,8976,Euglucon 2.5mg tablets (Aventis Pharma),res56: antidiabetic medications,drug
+CPRD_product_code,7375,Rosiglitazone 4mg / Metformin 1g tablets,res56: antidiabetic medications,drug
+CPRD_product_code,11601,Rosiglitazone 2mg / Metformin 500mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,11609,Metformin with rosiglitazone 500mg + 1mg Tablet,res56: antidiabetic medications,drug
+CPRD_product_code,11737,Metformin with rosiglitazone 1000mg + 4mg Tablet,res56: antidiabetic medications,drug
+CPRD_product_code,11760,Metformin with rosiglitazone 1000mg + 2mg Tablet,res56: antidiabetic medications,drug
+CPRD_product_code,11610,Metformin with rosiglitazone 500mg + 2mg Tablet,res56: antidiabetic medications,drug
+CPRD_product_code,11717,Rosiglitazone 2mg / Metformin 1g tablets,res56: antidiabetic medications,drug
+CPRD_product_code,11604,Rosiglitazone 1mg / Metformin 500mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,18220,Pioglitazone 15mg / Metformin 850mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,39203,Eucreas 50mg/850mg tablets (Novartis Pharmaceuticals UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,43619,Metformin 1g / Sitagliptin 50mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,43684,Janumet 50mg/1000mg tablets (Merck Sharp & Dohme Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,54150,Jentadueto 2.5mg/850mg tablets (Boehringer Ingelheim Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,54891,Saxagliptin 2.5mg / Metformin 1g tablets,res56: antidiabetic medications,drug
+CPRD_product_code,37874,Vildagliptin 50mg / Metformin 850mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,37902,Vildagliptin 50mg / Metformin 1g tablets,res56: antidiabetic medications,drug
+CPRD_product_code,7912,Semi-Daonil 2.5mg tablets (Sanofi),res56: antidiabetic medications,drug
+CPRD_product_code,59385,Vipdomet 12.5mg/1000mg tablets (Takeda UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,65059,Xigduo 5mg/850mg tablets (AstraZeneca UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,65083,Synjardy 5mg/1000mg tablets (Boehringer Ingelheim Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,50682,Jentadueto 2.5mg/1000mg tablets (Boehringer Ingelheim Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,58865,Komboglyze 2.5mg/850mg tablets (AstraZeneca UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,62899,Xultophy 100units/ml / 3.6mg/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,60643,Xigduo 5mg/1000mg tablets (AstraZeneca UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,7744,Daonil 5mg tablets (Sanofi),res56: antidiabetic medications,drug
+CPRD_product_code,7409,Amaryl 3mg tablets (Zentiva),res56: antidiabetic medications,drug
+CPRD_product_code,49502,Glucophage SR 500mg tablets (Mawdsley-Brooks & Company Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,2928,METFORMIN HCl 850 MG TAB,res56: antidiabetic medications,drug
+CPRD_product_code,31146,Metsol 500mg/5ml oral solution (Kappin Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,735,Metformin 100mg/ml Oral solution,res56: antidiabetic medications,drug
+CPRD_product_code,93,Metformin 850mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,23,Metformin 500mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,27501,Orabet 500mg Tablet (Lagap),res56: antidiabetic medications,drug
+CPRD_product_code,7815,METFORMIN 800 MG TAB,res56: antidiabetic medications,drug
+CPRD_product_code,3252,METFORMIN HCl 500 MG TAB,res56: antidiabetic medications,drug
+CPRD_product_code,7610,Glucophage 850mg tablets (Merck Serono Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,7048,Metformin 500mg modified-release tablets,res56: antidiabetic medications,drug
+CPRD_product_code,7166,Glucophage 500mg tablets (Merck Serono Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,26258,Glucamet 850mg Tablet (Opus Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,16044,Glucophage SR 500mg tablets (Merck Serono Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,11990,Metformin 500mg/5ml oral solution sugar free,res56: antidiabetic medications,drug
+CPRD_product_code,25678,Glucamet 500mg Tablet (Opus Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,16213,METFORMIN 250 MG TAB,res56: antidiabetic medications,drug
+CPRD_product_code,20810,METFORMIN,res56: antidiabetic medications,drug
+CPRD_product_code,7332,Amaryl 1mg tablets (Zentiva),res56: antidiabetic medications,drug
+CPRD_product_code,48149,Metformin 500mg tablets (Almus Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,38355,Metformin 750mg modified-release tablets,res56: antidiabetic medications,drug
+CPRD_product_code,33087,Metformin 500mg tablets (Actavis UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34135,Metformin 500mg Tablet (M & A Pharmachem Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34020,Metformin 850mg tablets (IVAX Pharmaceuticals UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,33674,Metformin 850mg tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34004,Metformin 500mg tablets (IVAX Pharmaceuticals UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34917,Metformin 500mg tablets (Teva UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34598,Metformin 500mg tablets (Mylan Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34323,Metformin 500mg tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34504,Metformin 500mg tablets (Wockhardt UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34836,Metformin 850mg tablets (Actavis UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34697,Metformin 850mg tablets (Wockhardt UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34742,Metformin 850mg tablets (Teva UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,47939,Glucient SR 500mg tablets (Consilient Health Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,40007,Glucophage 1000mg oral powder sachets (Merck Serono Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,39560,Bolamyn SR 500mg tablets (Teva UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,38400,Glucophage SR 750mg tablets (Merck Serono Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,39988,Metformin 500mg oral powder sachets sugar free,res56: antidiabetic medications,drug
+CPRD_product_code,39598,Metformin 1g modified-release tablets,res56: antidiabetic medications,drug
+CPRD_product_code,39729,Glucophage SR 1000mg tablets (Merck Serono Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,46989,Metabet SR 1000mg tablets (Morningside Healthcare Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,42161,Orabet 500mg Tablet (Sandoz Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,40110,Glucophage 500mg oral powder sachets (Merck Serono Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,40233,Metformin 1g oral powder sachets sugar free,res56: antidiabetic medications,drug
+CPRD_product_code,45581,Metabet SR 500mg tablets (Morningside Healthcare Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,43270,Metformin 500mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,44250,Metformin 500mg/5ml Oral solution (Hillcross Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,7284,Amaryl 2mg tablets (Zentiva),res56: antidiabetic medications,drug
+CPRD_product_code,59620,Glucophage SR 500mg tablets (Waymade Healthcare Plc),res56: antidiabetic medications,drug
+CPRD_product_code,53478,Metformin 500mg modified-release tablets (Kent Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,50970,Metformin 500mg tablets (Bristol Laboratories Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,50821,Metformin 850mg tablets (Pfizer Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,49738,Metformin 1g modified-release tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,50570,Glucophage SR 500mg tablets (Lexon (UK) Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,52634,Glucophage SR 500mg tablets (DE Pharmaceuticals),res56: antidiabetic medications,drug
+CPRD_product_code,51135,Metformin 500mg modified-release tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,51080,Metabet SR 1000mg tablets (Actavis UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,52442,Metformin 500mg tablets (Pfizer Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,51527,Metformin 500mg tablets (Boston Healthcare Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,52221,Diagemet XL 500mg tablets (Genus Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,58607,Metformin 500mg/5ml oral solution sugar free (Zentiva),res56: antidiabetic medications,drug
+CPRD_product_code,54898,Metformin 850mg tablets (Almus Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,54442,Metformin (roi) 1000mg Tablet,res56: antidiabetic medications,drug
+CPRD_product_code,53774,Metabet SR 500mg tablets (Actavis UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,53867,Metformin 500mg tablets (Zentiva),res56: antidiabetic medications,drug
+CPRD_product_code,58051,Metformin 500mg/5ml oral solution,res56: antidiabetic medications,drug
+CPRD_product_code,55711,Metformin 500mg tablets (Alliance Healthcare (Distribution) Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,55270,Duformin 500mg Tablet (Dumex Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,57457,Metformin 500mg tablets (Aurobindo Pharma Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,55739,Metformin 500mg tablets (Tillomed Laboratories Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,57147,Bolamyn SR 1000mg tablets (Teva UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,6337,Glimepiride 3mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,63307,Metformin 1g/5ml oral solution,res56: antidiabetic medications,drug
+CPRD_product_code,61043,Sukkarto SR 1000mg tablets (Morningside Healthcare Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,60968,Metformin 500mg modified-release tablets (Actavis UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,60074,Metformin 1g modified-release tablets (Waymade Healthcare Plc),res56: antidiabetic medications,drug
+CPRD_product_code,60286,Metformin 500mg/5ml oral suspension,res56: antidiabetic medications,drug
+CPRD_product_code,63045,Metformin 850mg tablets (Relonchem Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,62144,Metformin 500mg modified-release tablets (DE Pharmaceuticals),res56: antidiabetic medications,drug
+CPRD_product_code,61559,Sukkarto SR 500mg tablets (Morningside Healthcare Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,62824,Metformin 1g modified-release tablets (Actavis UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,62265,Metformin 500mg modified-release tablets (Mawdsley-Brooks & Company Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,62605,Metformin 850mg tablets (Kent Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,5636,Glipizide 5mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,1965,Tolbutamide 500mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,32,Gliclazide 80mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,64939,Glucient SR 1000mg tablets (Consilient Health Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,1964,Diamicron 80mg tablets (Servier Laboratories Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,547,Glipizide 2.5mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,1254,Glibenclamide 5mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,5627,Gliclazide 30mg modified-release tablets,res56: antidiabetic medications,drug
+CPRD_product_code,4862,Diabetamide 2.5mg tablets (Ashbourne Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,2219,Glibenclamide 2.5mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,5353,Glimepiride 2mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,5276,Glimepiride 1mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,5316,Glimepiride 4mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,44304,Glyconon 500mg Tablet (DDSA Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,28708,Malix 2.5mg Tablet (Lagap),res56: antidiabetic medications,drug
+CPRD_product_code,13331,Euglucon 5mg tablets (Sanofi),res56: antidiabetic medications,drug
+CPRD_product_code,11284,Amaryl 4mg tablets (Zentiva),res56: antidiabetic medications,drug
+CPRD_product_code,12513,Glibenese 5mg tablets (Pfizer Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,12455,Rastinon 500mg Tablet (Hoechst Marion Roussel),res56: antidiabetic medications,drug
+CPRD_product_code,11695,Diamicron 30mg MR tablets (Servier Laboratories Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,11946,Tolbutamide 50mg/ml Injection,res56: antidiabetic medications,drug
+CPRD_product_code,26218,Calabren 5mg Tablet (Berk Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,17706,Minodiab 2.5mg tablets (Pfizer Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,16211,TOLBUTAMIDE 100 MG TAB,res56: antidiabetic medications,drug
+CPRD_product_code,15374,Gliclazide 40mg/5ml oral suspension,res56: antidiabetic medications,drug
+CPRD_product_code,17698,Minodiab 5mg tablets (Pfizer Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,16602,Calabren 2.5mg Tablet (Berk Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,17343,Gliclazide 80mg tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,25636,Libanil 2.5mg Tablet (Approved Prescription Services Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,21564,Gliclazide 80mg tablets (Wockhardt UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,21424,Glibenclamide 5mg/5ml oral suspension,res56: antidiabetic medications,drug
+CPRD_product_code,22636,TOLBUTAMIDE 1 GM TAB,res56: antidiabetic medications,drug
+CPRD_product_code,21832,Diabetamide 5mg tablets (Ashbourne Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,21892,Diaglyk 80mg tablets (Ashbourne Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34706,Glibenclamide 2.5mg tablets (IVAX Pharmaceuticals UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,31474,Libanil 5mg Tablet (Approved Prescription Services Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,29326,Glipizide 5mg tablets (Mylan Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,31212,Gliclazide 80mg tablets (Actavis UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,29939,Gliclazide 80mg tablets (Mylan Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,30460,Malix 5mg Tablet (Lagap),res56: antidiabetic medications,drug
+CPRD_product_code,34676,Glibenclamide 2.5mg tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,33673,Tolbutamide 500mg tablets (Actavis UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,33562,Duclazide 80mg Tablet (Dumex Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34563,Glibenclamide 5mg tablets (Wockhardt UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34399,Gliclazide 80mg tablets (IVAX Pharmaceuticals UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34507,Glibenclamide 2.5mg tablets (Wockhardt UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,43465,Zicron 40mg tablets (Bristol Laboratories Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34932,Gliclazide 80mg tablets (Genus Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34802,Glipizide 5mg tablets (IVAX Pharmaceuticals UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,40365,Glimepiride 1mg tablets (Actavis UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,36856,Gliclazide 80mg tablets (Sandoz Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,34957,Tolbutamide 500mg tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,43065,Gliclazide 40mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,42790,Gliclazide 80mg Tablet (Merck Generics (UK) Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,41558,Glibenclamide 5mg tablets (Teva UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,40425,Nazdol MR 30mg tablets (Teva UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,41898,GLIBENCLAMIDE,res56: antidiabetic medications,drug
+CPRD_product_code,41559,Glibenclamide 5mg tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,41593,Glibenclamide 2.5mg tablets (Teva UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,469,Rosiglitazone 4mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,53288,Gliclazide 30mg modified-release tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,45831,Dacadis MR 30mg tablets (Mylan Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,45215,Gliclazide 80mg Tablet (Neo Laboratories Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,44473,Edicil MR 30mg tablets (Ratiopharm UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,44738,Niddaryl 1mg tablets (Dee Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,47074,Gliclazide 80mg/5ml oral suspension,res56: antidiabetic medications,drug
+CPRD_product_code,46927,Tolbutamide 500mg tablets (Teva UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,51955,Gliclazide 80mg tablets (Accord Healthcare Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,47894,Nazdol MR 30mg tablets (Consilient Health Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,48056,Gliclazide 80mg tablets (Sovereign Medical Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,63131,Ziclaseg 30mg modified-release tablets (Lupin (Europe) Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,57830,Gliclazide 30mg modified-release tablets (Alliance Healthcare (Distribution) Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,55862,Gliclazide Oral solution,res56: antidiabetic medications,drug
+CPRD_product_code,54764,Gliclazide 80mg tablets (Arrow Generics Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,57601,Daonil 5mg tablets (Dowelhurst Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,56008,Gliclazide 80mg tablets (Almus Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,56437,Gliclazide 60mg modified-release tablets,res56: antidiabetic medications,drug
+CPRD_product_code,63048,Gliclazide 80mg tablets (Alliance Healthcare (Distribution) Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,61311,Glimepiride 4mg tablets (Sigma Pharmaceuticals Plc),res56: antidiabetic medications,drug
+CPRD_product_code,58882,Gliclazide 120mg/5ml oral suspension,res56: antidiabetic medications,drug
+CPRD_product_code,60495,Gliclazide 80mg tablets (Teva UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,62034,Laaglyda MR 60mg tablets (Consilient Health Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,61957,Gliclazide 40mg tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,62014,Glimepiride 2mg tablets (Accord Healthcare Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,19472,Actos 45mg tablets (Takeda UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,5227,Rosiglitazone 8mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,548,Pioglitazone 15mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,15232,Avandia 8mg tablets (GlaxoSmithKline UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,9662,Avandia 4mg tablets (GlaxoSmithKline UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,10051,Pioglitazone 45mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,20889,Actos 30mg tablets (Takeda UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,20287,Actos 15mg tablets (Takeda UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,7325,Avandamet 4mg/1000mg tablets (GlaxoSmithKline UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,48401,Sitagliptin 50mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,11316,NovoNorm 500microgram tablets (Novo Nordisk Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,9699,Pioglitazone 30mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,48533,Sitagliptin 25mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,64900,Glidipion 30mg tablets (Actavis UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,63421,Pioglitazone 30mg tablets (Teva UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,56208,Pioglitazone 15mg tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,37617,Rosiglitazone 2mg tablet,res56: antidiabetic medications,drug
+CPRD_product_code,48139,Pioglitazone 30mg tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,48120,Avandia 2mg Tablet (GlaxoSmithKline UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,63107,Pioglitazone 45mg tablets (Waymade Healthcare Plc),res56: antidiabetic medications,drug
+CPRD_product_code,62426,Pioglitazone 30mg tablets (Accord Healthcare Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,57659,Pioglitazone 30mg tablets (Actavis UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,63046,Pioglitazone 45mg tablets (A A H Pharmaceuticals Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,50087,Januvia 50mg tablets (Merck Sharp & Dohme Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,62326,Vipidia 6.25mg tablets (Takeda UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,60682,Vipidia 25mg tablets (Takeda UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,50124,Januvia 25mg tablets (Merck Sharp & Dohme Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,59809,Alogliptin 6.25mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,60681,Vipidia 12.5mg tablets (Takeda UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,46716,Trajenta 5mg tablets (Boehringer Ingelheim Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,35462,Januvia 100mg tablets (Merck Sharp & Dohme Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,37875,Vildagliptin 50mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,45821,Onglyza 2.5mg tablets (AstraZeneca UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,46665,Linagliptin 5mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,39149,Galvus 50mg tablets (Novartis Pharmaceuticals UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,41431,Onglyza 5mg tablets (AstraZeneca UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,45775,Saxagliptin 2.5mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,41204,Saxagliptin 5mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,9865,Repaglinide 500microgram tablets,res56: antidiabetic medications,drug
+CPRD_product_code,54265,Dapagliflozin 5mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,54182,Dapagliflozin 10mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,35022,Sitagliptin 100mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,54203,Forxiga 10mg tablets (AstraZeneca UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,62760,Jardiance 10mg tablets (Boehringer Ingelheim Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,60430,Invokana 100mg tablets (Janssen-Cilag Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,60379,Invokana 300mg tablets (Janssen-Cilag Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,54480,Forxiga 5mg tablets (AstraZeneca UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,60211,Canagliflozin 100mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,60066,Invokana 100mg tablets (Janssen-Cilag Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,64217,Jardiance 25mg tablets (Boehringer Ingelheim Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,63516,Forxiga 10mg tablets (Waymade Healthcare Plc),res56: antidiabetic medications,drug
+CPRD_product_code,35150,Byetta 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices (AstraZeneca U,res56: antidiabetic medications,drug
+CPRD_product_code,35149,Exenatide 10micrograms/0.04ml solution for injection 2.4ml pre-filled disposable devices,res56: antidiabetic medications,drug
+CPRD_product_code,35144,Byetta 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices (AstraZeneca UK,res56: antidiabetic medications,drug
+CPRD_product_code,55767,Lyxumia 10micrograms/0.2ml solution for injection 3ml pre-filled pen and Lyxumia 20micrograms/0.2ml ,res56: antidiabetic medications,drug
+CPRD_product_code,54973,Saxagliptin 2.5mg / Metformin 850mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,40642,Victoza 6mg/ml solution for injection 3ml pre-filled pen (Novo Nordisk Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,35251,Exenatide 5micrograms/0.02ml solution for injection 1.2ml pre-filled disposable devices,res56: antidiabetic medications,drug
+CPRD_product_code,9748,Repaglinide 2mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,46458,Exenatide 2mg powder and solvent for suspension for injection vials,res56: antidiabetic medications,drug
+CPRD_product_code,40693,Liraglutide 6mg/ml solution for injection 3ml pre-filled disposable devices,res56: antidiabetic medications,drug
+CPRD_product_code,55729,Lyxumia 20micrograms/0.2ml solution for injection 3ml pre-filled pen (Sanofi),res56: antidiabetic medications,drug
+CPRD_product_code,55728,Lyxumia 10micrograms/0.2ml solution for injection 3ml pre-filled pen (Sanofi),res56: antidiabetic medications,drug
+CPRD_product_code,46469,Bydureon 2mg powder and solvent for suspension for injection vials (AstraZeneca UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,9707,Repaglinide 1mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,62661,Bydureon 2mg powder and solvent for suspension for injection pre-filled pen (AstraZeneca UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,5989,Nateglinide 180mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,5678,Nateglinide 120mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,64622,Bydureon 2mg powder and solvent for suspension for injection vials (Lexon (UK) Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,35561,Prandin 2mg tablets (Novo Nordisk Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,52449,Linagliptin 2.5mg / Metformin 850mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,27125,Starlix 180mg tablets (Novartis Pharmaceuticals UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,65057,Empagliflozin 5mg / Metformin 1g tablets,res56: antidiabetic medications,drug
+CPRD_product_code,23945,Starlix 60mg tablets (Novartis Pharmaceuticals UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,11321,NovoNorm 1mg tablets (Novo Nordisk Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,15955,Starlix 120mg tablets (Novartis Pharmaceuticals UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,11366,NovoNorm 2mg tablets (Novo Nordisk Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,11483,Nateglinide 60mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,63929,Canagliflozin 50mg / Metformin 1g tablets,res56: antidiabetic medications,drug
+CPRD_product_code,36774,Prandin 1mg tablets (Novo Nordisk Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,60497,Alogliptin 12.5mg / Metformin 1g tablets,res56: antidiabetic medications,drug
+CPRD_product_code,36948,Prandin 0.5mg tablets (Novo Nordisk Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,61925,NovoNorm 500microgram tablets (Waymade Healthcare Plc),res56: antidiabetic medications,drug
+CPRD_product_code,52203,Enyglid 0.5mg tablets (Consilient Health Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,65066,Empagliflozin 12.5mg / Metformin 1g tablets,res56: antidiabetic medications,drug
+CPRD_product_code,63031,Dapagliflozin 5mg / Metformin 850mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,64743,Canagliflozin 50mg / Metformin 850mg tablets,res56: antidiabetic medications,drug
+CPRD_product_code,52445,Linagliptin 2.5mg / Metformin 1g tablets,res56: antidiabetic medications,drug
+CPRD_product_code,14164,Avandamet 2mg/1000mg tablets (GlaxoSmithKline UK Ltd),res56: antidiabetic medications,drug
+CPRD_product_code,6855,Avandamet 2mg/500mg tablets (GlaxoSmithKline UK Ltd),res56: antidiabetic medications,drug

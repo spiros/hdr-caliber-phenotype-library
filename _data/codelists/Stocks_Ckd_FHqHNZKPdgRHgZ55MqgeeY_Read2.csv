@@ -1,0 +1,16 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,1Z1F.00,Chronic kidney disease stage 3B with proteinuria,res25: CKD,diagnostic
+Read,1Z16.00,Chronic kidney disease stage 3B,res25: CKD,diagnostic
+Read,1Z1G.11,CKD stage 3B without proteinuria,res25: CKD,diagnostic
+Read,1Z1J.11,CKD stage 4 without proteinuria,res25: CKD,diagnostic
+Read,1Z1G.00,Chronic kidney disease stage 3B without proteinuria,res25: CKD,diagnostic
+Read,1Z1F.11,CKD stage 3B with proteinuria,res25: CKD,diagnostic
+Read,1Z1J.00,Chronic kidney disease stage 4 without proteinuria,res25: CKD,diagnostic
+Read,1Z14.00,Chronic kidney disease stage 5,res25: CKD,diagnostic
+Read,1Z13.00,Chronic kidney disease stage 4,res25: CKD,diagnostic
+Read,1Z1H.11,CKD stage 4 with proteinuria,res25: CKD,diagnostic
+Read,1Z1H.00,Chronic kidney disease stage 4 with proteinuria,res25: CKD,diagnostic
+Read,1Z1L.11,CKD stage 5 without proteinuria,res25: CKD,diagnostic
+Read,1Z1K.00,Chronic kidney disease stage 5 with proteinuria,res25: CKD,diagnostic
+Read,1Z1L.00,Chronic kidney disease stage 5 without proteinuria,res25: CKD,diagnostic
+Read,1Z1K.11,CKD stage 5 with proteinuria,res25: CKD,diagnostic

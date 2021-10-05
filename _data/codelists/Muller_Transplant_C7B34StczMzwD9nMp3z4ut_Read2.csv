@@ -1,0 +1,104 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,7243600,Transplantation of conjunctiva,res34: transplant,diagnostic
+Read,7B00211,Allotransplantation of kidney from cadaver,res34: transplant,diagnostic
+Read,SP08300,Kidney transplant failure and rejection,res34: transplant,diagnostic
+Read,7L14500,Autologous peripheral blood stem cell transplant,res34: transplant,diagnostic
+Read,7901,Other transplantation of heart,res34: transplant,diagnostic
+Read,ZV42000,[V]Kidney transplanted,res34: transplant,diagnostic
+Read,7B00.00,Transplantation of kidney,res34: transplant,diagnostic
+Read,8HBB.00,Transplant follow-up,res34: transplant,diagnostic
+Read,7B00z00,Transplantation of kidney NOS,res34: transplant,diagnostic
+Read,7B00100,Transplantation of kidney from live donor,res34: transplant,diagnostic
+Read,7K1Q.11,Bone marrow transplant,res34: transplant,diagnostic
+Read,SP08100,Transplanted organ rejection,res34: transplant,diagnostic
+Read,7800,Transplantation of liver,res34: transplant,diagnostic
+Read,ZV42700,[V]Liver transplanted,res34: transplant,diagnostic
+Read,7901000,Allotransplantation of heart NEC,res34: transplant,diagnostic
+Read,ZV42500,[V]Cornea transplanted,res34: transplant,diagnostic
+Read,7B00200,Transplantation of kidney from cadaver,res34: transplant,diagnostic
+Read,7H30z00,Transplantation of fascia NOS,res34: transplant,diagnostic
+Read,7450,Transplantation of lung,res34: transplant,diagnostic
+Read,ZV42100,[V]Heart transplanted,res34: transplant,diagnostic
+Read,SP...18,Transplant complications,res34: transplant,diagnostic
+Read,ZV42600,[V]Lung transplanted,res34: transplant,diagnostic
+Read,SP08600,Liver transplant failure and rejection,res34: transplant,diagnostic
+Read,SP08400,Heart transplant failure and rejection,res34: transplant,diagnostic
+Read,TB00111,"Renal transplant with complication, without blame",res34: transplant,diagnostic
+Read,7800z00,Transplantation of liver NOS,res34: transplant,diagnostic
+Read,7900,Transplantation of heart and lung,res34: transplant,diagnostic
+Read,7L14700,Allogeneic peripheral blood stem cell transplant,res34: transplant,diagnostic
+Read,7245800,Transplant of corneal limbal cells,res34: transplant,diagnostic
+Read,7800000,Orthotopic transplantation of liver,res34: transplant,diagnostic
+Read,ZV42y12,[V]Pancreas transplanted,res34: transplant,diagnostic
+Read,7830,Transplantation of pancreas,res34: transplant,diagnostic
+Read,ZV42.00,[V]Transplanted organ or tissue,res34: transplant,diagnostic
+Read,9b8K.00,Transplantation surgery,res34: transplant,diagnostic
+Read,SP08000,Transplanted organ failure,res34: transplant,diagnostic
+Read,SP08z00,Transplanted organ complication NOS,res34: transplant,diagnostic
+Read,TB00200,"Liver transplant with complication, without blame",res34: transplant,diagnostic
+Read,ZV59600,[V]Heart and lungs transplant status,res34: transplant,diagnostic
+Read,SP08.00,Transplanted organ complication,res34: transplant,diagnostic
+Read,TB00100,"Kidney transplant with complication, without blame",res34: transplant,diagnostic
+Read,7450000,Double lung transplant,res34: transplant,diagnostic
+Read,7901z00,Other transplantation of heart NOS,res34: transplant,diagnostic
+Read,7B00212,Cadaveric renal transplant,res34: transplant,diagnostic
+Read,8C31.00,Transplant immunosuppression,res34: transplant,diagnostic
+Read,SP08200,Bone-marrow transplant rejection,res34: transplant,diagnostic
+Read,7B00000,Autotransplant of kidney,res34: transplant,diagnostic
+Read,K0B5.00,Renal tubulo-interstitial disordrs in transplant rejectn,res34: transplant,diagnostic
+Read,7450100,Single lung transplant,res34: transplant,diagnostic
+Read,SP08E00,Acute rejection of renal transplant - grade I,res34: transplant,diagnostic
+Read,7800500,Orthotopic transplantation of liver NEC,res34: transplant,diagnostic
+Read,7B00y00,Other specified transplantation of kidney,res34: transplant,diagnostic
+Read,SP08500,Heart-lung transplant failure and rejection,res34: transplant,diagnostic
+Read,7830300,Transplantation of islets of Langerhans,res34: transplant,diagnostic
+Read,7800200,Replacement of previous liver transplant,res34: transplant,diagnostic
+Read,7830z00,Transplantation of pancreas NOS,res34: transplant,diagnostic
+Read,7B00300,"Allotransplantation of kidney from cadaver, heart-beating",res34: transplant,diagnostic
+Read,7L02.00,Transplantation between systems,res34: transplant,diagnostic
+Read,7B0F.00,Interventions associated with transplantation of kidney,res34: transplant,diagnostic
+Read,ZV42y00,[V]Other specified transplanted organ or tissue,res34: transplant,diagnostic
+Read,ZV42z00,[V]Unspecified transplanted organ or tissue,res34: transplant,diagnostic
+Read,SP08H00,Acute rejection of renal transplant,res34: transplant,diagnostic
+Read,7B00400,"Allotransplantation kidney from cadaver, heart non-beating",res34: transplant,diagnostic
+Read,7B01511,Excision of rejected transplanted kidney,res34: transplant,diagnostic
+Read,TB00000,"Heart transplant with complication, without blame",res34: transplant,diagnostic
+Read,ZV42.11,[V]Transplanted organ,res34: transplant,diagnostic
+Read,7800100,Heterotopic transplantation of liver,res34: transplant,diagnostic
+Read,7450y00,Other specified transplantation of lung,res34: transplant,diagnostic
+Read,9b93000,Blood and marrow transplantation,res34: transplant,diagnostic
+Read,7B00111,Allotransplantation of kidney from live donor,res34: transplant,diagnostic
+Read,7900z00,Transplantation of heart and lung NOS,res34: transplant,diagnostic
+Read,SP08R00,Renal transplant rejection,res34: transplant,diagnostic
+Read,7450z00,Transplantation of lung NOS,res34: transplant,diagnostic
+Read,7901100,Xenotransplantation of heart,res34: transplant,diagnostic
+Read,ZV42y11,[V]Intestine transplanted,res34: transplant,diagnostic
+Read,7805211,Exploration of liver transplant,res34: transplant,diagnostic
+Read,7B0F400,"Post-transplantation of kidney examination, live donor",res34: transplant,diagnostic
+Read,7900000,Allotransplantation of heart and lung,res34: transplant,diagnostic
+Read,7901y00,Other specified other transplantation of heart,res34: transplant,diagnostic
+Read,7L02z00,Transplantation between systems NOS,res34: transplant,diagnostic
+Read,7830100,Transplantation of whole pancreas,res34: transplant,diagnostic
+Read,7800111,Auxillary liver transplant,res34: transplant,diagnostic
+Read,7800112,Piggy back liver transplant,res34: transplant,diagnostic
+Read,SP08W00,Vascular complication of renal transplant,res34: transplant,diagnostic
+Read,SP08J00,Chronic rejection of renal transplant,res34: transplant,diagnostic
+Read,7B0Fz00,Interventions associated with transplantation of kidney NOS,res34: transplant,diagnostic
+Read,7B0F300,"Post-transplantation of kidney examination, recipient",res34: transplant,diagnostic
+Read,7B00600,Xenograft renal transplant,res34: transplant,diagnostic
+Read,SP08G00,Acute rejection of renal transplant - grade III,res34: transplant,diagnostic
+Read,7901500,Revision of transplantation of heart NEC,res34: transplant,diagnostic
+Read,7B0Fy00,OS interventions associated with transplantation of kidney,res34: transplant,diagnostic
+Read,7125,Transplantation of thymus gland,res34: transplant,diagnostic
+Read,764C.00,Transplantation of ileum,res34: transplant,diagnostic
+Read,7800y00,Other specified transplantation of liver,res34: transplant,diagnostic
+Read,7830200,Transplantation of tail of pancreas,res34: transplant,diagnostic
+Read,Kyu1C00,[X]Renal tubulo-interstitial disorders/transplant rejection,res34: transplant,diagnostic
+Read,SP08D00,Acute-on-chronic rejection of renal transplant,res34: transplant,diagnostic
+Read,ZV42.12,[V]Transplanted tissue,res34: transplant,diagnostic
+Read,7800400,Orthotopic transplantation of whole liver,res34: transplant,diagnostic
+Read,SP08N00,Unexplained episode of renal transplant dysfunction,res34: transplant,diagnostic
+Read,7901300,Piggyback transplantation of heart,res34: transplant,diagnostic
+Read,7842000,Transplantation of spleen,res34: transplant,diagnostic
+Read,SP08F00,Acute rejection of renal transplant - grade II,res34: transplant,diagnostic
+Read,SP08P00,Stenosis of vein of transplanted kidney,res34: transplant,diagnostic

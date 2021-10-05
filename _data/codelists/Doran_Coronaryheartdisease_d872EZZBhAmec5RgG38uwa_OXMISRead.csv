@@ -1,0 +1,148 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4130,ANGINA PECTORIS WITH HYPERTENSION,coronary heart disease,diagnostic
+OXMIS,4119B,ISCHAEMIC HEART DISEASE SUBACUTE,coronary heart disease,diagnostic
+OXMIS,4139M,SYNDROME ANGINAL,coronary heart disease,diagnostic
+OXMIS,4129N,ISCHAEMIC HEART DISEASE ASYMPTOMATIC,coronary heart disease,diagnostic
+OXMIS,4139PA,ANGINA INVERSA,coronary heart disease,diagnostic
+OXMIS,4149,ASYMPTOMATIC ISCHAEMIC HEART DISEASE,coronary heart disease,diagnostic
+OXMIS,4139AT,ANGINA ATYPICAL,coronary heart disease,diagnostic
+OXMIS,4120A,ISCHAEMIC HEART DISEASE HYPERTENSIVE,coronary heart disease,diagnostic
+OXMIS,4139N,ANGINA,coronary heart disease,diagnostic
+OXMIS,4130E,ANGINA EFFORT WITH HYPERTENSION,coronary heart disease,diagnostic
+OXMIS,4139E,ANGINA EFFORT,coronary heart disease,diagnostic
+OXMIS,4129AN,ISCHAEMIC HEART DISEASE,coronary heart disease,diagnostic
+OXMIS,4139AA,ANGINA ATTACK,coronary heart disease,diagnostic
+OXMIS,4139,ANGINA PECTORIS,coronary heart disease,diagnostic
+OXMIS,4139CO,ANGINA CRESCENDO,coronary heart disease,diagnostic
+OXMIS,4139C,CARDIAC ANGINA,coronary heart disease,diagnostic
+OXMIS,4129,ISCHAEMIC HEART DISEASE CHRONIC,coronary heart disease,diagnostic
+OXMIS,4139U,UNSTABLE ANGINA,coronary heart disease,diagnostic
+Read,G31y.00,Other acute and subacute ischaemic heart disease,coronary heart disease,diagnostic
+Read,G311.12,Impending infarction,coronary heart disease,diagnostic
+Read,G30X.00,Acute transmural myocardial infarction of unspecif site,coronary heart disease,diagnostic
+Read,G30..12,Coronary thrombosis,coronary heart disease,diagnostic
+Read,G30A.00,Mural thrombosis,coronary heart disease,diagnostic
+Read,G30y000,Acute atrial infarction,coronary heart disease,diagnostic
+Read,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,coronary heart disease,diagnostic
+Read,G33z000,Status anginosus,coronary heart disease,diagnostic
+Read,G33..00,Angina pectoris,coronary heart disease,diagnostic
+Read,G308.00,Inferior myocardial infarction NOS,coronary heart disease,diagnostic
+Read,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,coronary heart disease,diagnostic
+Read,G30..13,Cardiac rupture following myocardial infarction (MI),coronary heart disease,diagnostic
+Read,Gyu3200,[X]Other forms of acute ischaemic heart disease,coronary heart disease,diagnostic
+Read,G304.00,Posterior myocardial infarction NOS,coronary heart disease,diagnostic
+Read,G307.00,Acute subendocardial infarction,coronary heart disease,diagnostic
+Read,G330.00,Angina decubitus,coronary heart disease,diagnostic
+Read,G30y200,Acute septal infarction,coronary heart disease,diagnostic
+Read,G31yz00,Other acute and subacute ischaemic heart disease NOS,coronary heart disease,diagnostic
+Read,G31y100,Microinfarction of heart,coronary heart disease,diagnostic
+Read,G33z400,Ischaemic chest pain,coronary heart disease,diagnostic
+Read,G366.00,Thrombosis atrium;auric append&vent/curr comp foll acute MI,coronary heart disease,diagnostic
+Read,G340.12,Coronary artery disease,coronary heart disease,diagnostic
+Read,G30..11,Attack - heart,coronary heart disease,diagnostic
+Read,G34..00,Other chronic ischaemic heart disease,coronary heart disease,diagnostic
+Read,G311100,Unstable angina,coronary heart disease,diagnostic
+Read,G311.00,Preinfarction syndrome,coronary heart disease,diagnostic
+Read,G312.00,Coronary thrombosis not resulting in myocardial infarction,coronary heart disease,diagnostic
+Read,G33z500,Post infarct angina,coronary heart disease,diagnostic
+Read,G31y000,Acute coronary insufficiency,coronary heart disease,diagnostic
+Read,G331.11,Variant angina pectoris,coronary heart disease,diagnostic
+Read,G305.00,Lateral myocardial infarction NOS,coronary heart disease,diagnostic
+Read,G34y100,Chronic myocardial ischaemia,coronary heart disease,diagnostic
+Read,G340.11,Triple vessel disease of the heart,coronary heart disease,diagnostic
+Read,G340000,Single coronary vessel disease,coronary heart disease,diagnostic
+Read,G343.00,Ischaemic cardiomyopathy,coronary heart disease,diagnostic
+Read,G35..00,Subsequent myocardial infarction,coronary heart disease,diagnostic
+Read,Gyu3300,[X]Other forms of chronic ischaemic heart disease,coronary heart disease,diagnostic
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,coronary heart disease,diagnostic
+Read,G331.00,Prinzmetal's angina,coronary heart disease,diagnostic
+Read,G351.00,Subsequent myocardial infarction of inferior wall,coronary heart disease,diagnostic
+Read,662K300,Angina control - worsening,coronary heart disease,diagnostic
+Read,G311000,Myocardial infarction aborted,coronary heart disease,diagnostic
+Read,G33z300,Angina on effort,coronary heart disease,diagnostic
+Read,G34y.00,Other specified chronic ischaemic heart disease,coronary heart disease,diagnostic
+Read,G342.00,Atherosclerotic cardiovascular disease,coronary heart disease,diagnostic
+Read,G36..00,Certain current complication follow acute myocardial infarct,coronary heart disease,diagnostic
+Read,662K100,Angina control - poor,coronary heart disease,diagnostic
+Read,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,coronary heart disease,diagnostic
+Read,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,coronary heart disease,diagnostic
+Read,G30..15,MI - acute myocardial infarction,coronary heart disease,diagnostic
+Read,G340100,Double coronary vessel disease,coronary heart disease,diagnostic
+Read,G302.00,Acute inferolateral infarction,coronary heart disease,diagnostic
+Read,G310.11,Dressler's syndrome,coronary heart disease,diagnostic
+Read,G32..00,Old myocardial infarction,coronary heart disease,diagnostic
+Read,G300.00,Acute anterolateral infarction,coronary heart disease,diagnostic
+Read,G33z200,Syncope anginosa,coronary heart disease,diagnostic
+Read,G311.11,Crescendo angina,coronary heart disease,diagnostic
+Read,G3y..00,Other specified ischaemic heart disease,coronary heart disease,diagnostic
+Read,G3...00,Ischaemic heart disease,coronary heart disease,diagnostic
+Read,G344.00,Silent myocardial ischaemia,coronary heart disease,diagnostic
+Read,G33zz00,Angina pectoris NOS,coronary heart disease,diagnostic
+Read,662K200,Angina control - improving,coronary heart disease,diagnostic
+Read,Gyu3.00,[X]Ischaemic heart diseases,coronary heart disease,diagnostic
+Read,662Kz00,Angina control NOS,coronary heart disease,diagnostic
+Read,G33z100,Stenocardia,coronary heart disease,diagnostic
+Read,G330000,Nocturnal angina,coronary heart disease,diagnostic
+Read,G310.00,Postmyocardial infarction syndrome,coronary heart disease,diagnostic
+Read,G303.00,Acute inferoposterior infarction,coronary heart disease,diagnostic
+Read,G35X.00,Subsequent myocardial infarction of unspecified site,coronary heart disease,diagnostic
+Read,G301.00,Other specified anterior myocardial infarction,coronary heart disease,diagnostic
+Read,G3...11,Arteriosclerotic heart disease,coronary heart disease,diagnostic
+Read,G31y200,Subendocardial ischaemia,coronary heart disease,diagnostic
+Read,G3...13,IHD - Ischaemic heart disease,coronary heart disease,diagnostic
+Read,G301000,Acute anteroapical infarction,coronary heart disease,diagnostic
+Read,G311011,MI - myocardial infarction aborted,coronary heart disease,diagnostic
+Read,G30yz00,Other acute myocardial infarction NOS,coronary heart disease,diagnostic
+Read,662N.00,CHD monitoring,coronary heart disease,diagnostic
+Read,14AJ.00,H/O: Angina in last year,coronary heart disease,diagnostic
+Read,G31..00,Other acute and subacute ischaemic heart disease,coronary heart disease,diagnostic
+Read,G30..16,Thrombosis - coronary,coronary heart disease,diagnostic
+Read,G301100,Acute anteroseptal infarction,coronary heart disease,diagnostic
+Read,G30..17,Silent myocardial infarction,coronary heart disease,diagnostic
+Read,8B27.00,Antianginal therapy,coronary heart disease,diagnostic
+Read,G311z00,Preinfarction syndrome NOS,coronary heart disease,diagnostic
+Read,G30y100,Acute papillary muscle infarction,coronary heart disease,diagnostic
+Read,G3...12,Atherosclerotic heart disease,coronary heart disease,diagnostic
+Read,G311200,Angina at rest,coronary heart disease,diagnostic
+Read,G311.13,Unstable angina,coronary heart disease,diagnostic
+Read,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,coronary heart disease,diagnostic
+Read,G30y.00,Other acute myocardial infarction,coronary heart disease,diagnostic
+Read,G3z..00,Ischaemic heart disease NOS,coronary heart disease,diagnostic
+Read,G30..14,Heart attack,coronary heart disease,diagnostic
+Read,G34z.00,Other chronic ischaemic heart disease NOS,coronary heart disease,diagnostic
+Read,G30z.00,Acute myocardial infarction NOS,coronary heart disease,diagnostic
+Read,G34y000,Chronic coronary insufficiency,coronary heart disease,diagnostic
+Read,G330z00,Angina decubitus NOS,coronary heart disease,diagnostic
+Read,G353.00,Subsequent myocardial infarction of other sites,coronary heart disease,diagnostic
+Read,G301z00,Anterior myocardial infarction NOS,coronary heart disease,diagnostic
+Read,G306.00,True posterior myocardial infarction,coronary heart disease,diagnostic
+Read,G34yz00,Other specified chronic ischaemic heart disease NOS,coronary heart disease,diagnostic
+Read,G33z.00,Angina pectoris NOS,coronary heart disease,diagnostic
+Read,G32..11,Healed myocardial infarction,coronary heart disease,diagnostic
+Read,662K.00,Angina control,coronary heart disease,diagnostic
+Read,G30..00,Acute myocardial infarction,coronary heart disease,diagnostic
+Read,662K000,Angina control - good,coronary heart disease,diagnostic
+Read,8B63.11,Aspirin prophylaxis - IHD,coronary heart disease,diagnostic
+Read,G340.00,Coronary atherosclerosis,coronary heart disease,diagnostic
+Read,G311.14,Angina at rest,coronary heart disease,diagnostic
+Read,G32..12,Personal history of myocardial infarction,coronary heart disease,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,coronary heart disease,diagnostic
+Read,G350.00,Subsequent myocardial infarction of anterior wall,coronary heart disease,diagnostic
+Read,G33z700,Stable angina,coronary heart disease,diagnostic
+Read,9Ob8.00,Coronary heart disease monitoring check done,coronary heart disease,diagnostic
+Read,G31y300,Transient myocardial ischaemia,coronary heart disease,diagnostic
+Read,G311400,Worsening angina,coronary heart disease,diagnostic
+Read,G307000,Acute non-Q wave infarction,coronary heart disease,diagnostic
+Read,9Ob0.00,Attends coronary heart disease monitoring,coronary heart disease,diagnostic
+Read,G311300,Refractory angina,coronary heart disease,diagnostic
+Read,G34z000,Asymptomatic coronary heart disease,coronary heart disease,diagnostic
+Read,6A2..00,Coronary heart disease annual review,coronary heart disease,diagnostic
+Read,G33z600,New onset angina,coronary heart disease,diagnostic
+Read,6A4..00,Coronary heart disease review,coronary heart disease,diagnostic
+Read,G307100,Acute non-ST segment elevation myocardial infarction,coronary heart disease,diagnostic
+Read,G309.00,Acute Q-wave infarct,coronary heart disease,diagnostic
+Read,8B3k.00,Coronary heart disease medication review,coronary heart disease,diagnostic
+Read,8CR6.00,Coronary heart disease risk clinical management plan,coronary heart disease,diagnostic
+Read,G311500,Acute coronary syndrome,coronary heart disease,diagnostic
+Read,G30B.00,Acute posterolateral myocardial infarction,coronary heart disease,diagnostic
+Read,G332.00,Coronary artery spasm,coronary heart disease,diagnostic

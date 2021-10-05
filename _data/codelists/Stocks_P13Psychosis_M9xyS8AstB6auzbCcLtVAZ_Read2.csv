@@ -1,0 +1,294 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E030000,"Acute confusional state, post traumatic",res25: P13_psychosis,diagnostic
+Read,E114.11,Manic-depressive - now manic,res25: P13_psychosis,diagnostic
+Read,Eu13400,[X]Men & beh dis due seds/hypns: withdrwl state wth delirium,res25: P13_psychosis,diagnostic
+Read,E030.12,Toxic confusional state,res25: P13_psychosis,diagnostic
+Read,Eu15500,[X]Mental/behav dis oth stims inc caffeine: psychotic dis,res25: P13_psychosis,diagnostic
+Read,Eu23214,[X]Schizophrenic reaction,res25: P13_psychosis,diagnostic
+Read,Eu14500,[X]Mental & behav dis due to use cocaine: psychotic disorder,res25: P13_psychosis,diagnostic
+Read,Eu13500,[X]Mental & behav dis due to seds/hypntcs: psychotic disordr,res25: P13_psychosis,diagnostic
+Read,Eu23012,[X]Cycloid psychosis,res25: P13_psychosis,diagnostic
+Read,Eu23212,[X]Brief schizophrenifrm psych,res25: P13_psychosis,diagnostic
+Read,Eu19400,[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium,res25: P13_psychosis,diagnostic
+Read,Eu16500,[X]Mental & behav dis due to hallucinogens: psychotic disord,res25: P13_psychosis,diagnostic
+Read,Eu18400,[X]Men & beh dis vol solvents: withdrawal state wth delirium,res25: P13_psychosis,diagnostic
+Read,Eu23011,[X]Bouffee delirante,res25: P13_psychosis,diagnostic
+Read,Eu23.00,[X]Acute and transient psychotic disorders,res25: P13_psychosis,diagnostic
+Read,Eu1A500,[X]Mental behav disord due crack cocaine: psychotic disorder,res25: P13_psychosis,diagnostic
+Read,Eu19500,[X]Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis,res25: P13_psychosis,diagnostic
+Read,Eu23000,[X]Acute polymorphic psychot disord without symp of schizoph,res25: P13_psychosis,diagnostic
+Read,Eu23211,[X]Brief schizophreniform disorder,res25: P13_psychosis,diagnostic
+Read,Eu23100,[X]Acute polymorphic psychot disord with symp of schizophren,res25: P13_psychosis,diagnostic
+Read,Eu23112,[X]Cycloid psychosis with symptoms of schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu23200,[X]Acute schizophrenia-like psychotic disorder,res25: P13_psychosis,diagnostic
+Read,Eu24.12,[X]Induced paranoid disorder,res25: P13_psychosis,diagnostic
+Read,Eu23312,[X]Psychogenic paranoid psychosis,res25: P13_psychosis,diagnostic
+Read,Eu24.00,[X]Induced delusional disorder,res25: P13_psychosis,diagnostic
+Read,Eu23300,[X]Other acute predominantly delusional psychotic disorders,res25: P13_psychosis,diagnostic
+Read,Eu23y00,[X]Other acute and transient psychotic disorders,res25: P13_psychosis,diagnostic
+Read,Eu23z11,[X]Brief reactive psychosis NOS,res25: P13_psychosis,diagnostic
+Read,Eu23z00,"[X]Acute and transient psychotic disorder, unspecified",res25: P13_psychosis,diagnostic
+Read,Eu23z12,[X]Reactive psychosis,res25: P13_psychosis,diagnostic
+Read,R001300,"[D]Hallucinations, tactile",res25: P13_psychosis,diagnostic
+Read,R001000,"[D]Hallucinations, auditory",res25: P13_psychosis,diagnostic
+Read,R001.00,[D]Hallucinations,res25: P13_psychosis,diagnostic
+Read,Eu24.13,[X]Induced psychotic disorder,res25: P13_psychosis,diagnostic
+Read,R001200,"[D]Hallucinations, olfactory",res25: P13_psychosis,diagnostic
+Read,R001100,"[D]Hallucinations, gustatory",res25: P13_psychosis,diagnostic
+Read,R001400,[D]Visual hallucinations,res25: P13_psychosis,diagnostic
+Read,R001z00,[D]Hallucinations NOS,res25: P13_psychosis,diagnostic
+Read,E030.11,Delirium - acute organic,res25: P13_psychosis,diagnostic
+Read,E03z.00,Transient organic psychoses NOS,res25: P13_psychosis,diagnostic
+Read,E030.00,Acute confusional state,res25: P13_psychosis,diagnostic
+Read,E11z000,Unspecified affective psychoses NOS,res25: P13_psychosis,diagnostic
+Read,E03..00,Transient organic psychoses,res25: P13_psychosis,diagnostic
+Read,E14y000,Atypical childhood psychoses,res25: P13_psychosis,diagnostic
+Read,E02z.00,Drug psychosis NOS,res25: P13_psychosis,diagnostic
+Read,E130.00,Reactive depressive psychosis,res25: P13_psychosis,diagnostic
+Read,E13..00,Other nonorganic psychoses,res25: P13_psychosis,diagnostic
+Read,E100.00,Simple schizophrenia,res25: P13_psychosis,diagnostic
+Read,E004200,Arteriosclerotic dementia with paranoia,res25: P13_psychosis,diagnostic
+Read,E002z00,Senile dementia with depressive or paranoid features NOS,res25: P13_psychosis,diagnostic
+Read,E001200,Presenile dementia with paranoia,res25: P13_psychosis,diagnostic
+Read,E002000,Senile dementia with paranoia,res25: P13_psychosis,diagnostic
+Read,E0y..00,Other specified organic psychoses,res25: P13_psychosis,diagnostic
+Read,E00z.00,Senile or presenile psychoses NOS,res25: P13_psychosis,diagnostic
+Read,E00y.00,Other senile and presenile organic psychoses,res25: P13_psychosis,diagnostic
+Read,E00y.11,Presbyophrenic psychosis,res25: P13_psychosis,diagnostic
+Read,E04z.00,Chronic organic psychosis NOS,res25: P13_psychosis,diagnostic
+Read,E04..00,Other chronic organic psychoses,res25: P13_psychosis,diagnostic
+Read,E04y.00,Other specified chronic organic psychoses,res25: P13_psychosis,diagnostic
+Read,E105500,Latent schizophrenia in remission,res25: P13_psychosis,diagnostic
+Read,E10..00,Schizophrenic disorders,res25: P13_psychosis,diagnostic
+Read,E0z..00,Organic psychoses NOS,res25: P13_psychosis,diagnostic
+Read,E12z.00,Paranoid psychosis NOS,res25: P13_psychosis,diagnostic
+Read,E105200,Chronic latent schizophrenia,res25: P13_psychosis,diagnostic
+Read,E100.11,Schizophrenia simplex,res25: P13_psychosis,diagnostic
+Read,E12yz00,Other paranoid states NOS,res25: P13_psychosis,diagnostic
+Read,E12..00,Paranoid states,res25: P13_psychosis,diagnostic
+Read,E11zz00,Other affective psychosis NOS,res25: P13_psychosis,diagnostic
+Read,E12y000,Paranoia querulans,res25: P13_psychosis,diagnostic
+Read,E120.00,Simple paranoid state,res25: P13_psychosis,diagnostic
+Read,E12y.00,Other paranoid states,res25: P13_psychosis,diagnostic
+Read,E02yz00,Other drug psychoses NOS,res25: P13_psychosis,diagnostic
+Read,E14z.11,Childhood schizophrenia NOS,res25: P13_psychosis,diagnostic
+Read,E130.11,Psychotic reactive depression,res25: P13_psychosis,diagnostic
+Read,E103z00,Paranoid schizophrenia NOS,res25: P13_psychosis,diagnostic
+Read,E100000,Unspecified schizophrenia,res25: P13_psychosis,diagnostic
+Read,E141.11,Heller's syndrome,res25: P13_psychosis,diagnostic
+Read,E105000,Unspecified latent schizophrenia,res25: P13_psychosis,diagnostic
+Read,E105.00,Latent schizophrenia,res25: P13_psychosis,diagnostic
+Read,E141.00,Disintegrative psychosis,res25: P13_psychosis,diagnostic
+Read,E102.00,Catatonic schizophrenia,res25: P13_psychosis,diagnostic
+Read,E100300,Acute exacerbation of subchronic schizophrenia,res25: P13_psychosis,diagnostic
+Read,E100100,Subchronic schizophrenia,res25: P13_psychosis,diagnostic
+Read,E134.00,Psychogenic paranoid psychosis,res25: P13_psychosis,diagnostic
+Read,E100400,Acute exacerbation of chronic schizophrenia,res25: P13_psychosis,diagnostic
+Read,E100200,Chronic schizophrenic,res25: P13_psychosis,diagnostic
+Read,E14z.00,Child psychosis NOS,res25: P13_psychosis,diagnostic
+Read,E141100,Residual disintegrative psychoses,res25: P13_psychosis,diagnostic
+Read,E101z00,Hebephrenic schizophrenia NOS,res25: P13_psychosis,diagnostic
+Read,E100500,Schizophrenia in remission,res25: P13_psychosis,diagnostic
+Read,E101.00,Hebephrenic schizophrenia,res25: P13_psychosis,diagnostic
+Read,E104.11,Oneirophrenia,res25: P13_psychosis,diagnostic
+Read,E100z00,Simple schizophrenia NOS,res25: P13_psychosis,diagnostic
+Read,E104.00,Acute schizophrenic episode,res25: P13_psychosis,diagnostic
+Read,E14yz00,Other childhood psychoses NOS,res25: P13_psychosis,diagnostic
+Read,E101000,Unspecified hebephrenic schizophrenia,res25: P13_psychosis,diagnostic
+Read,E101500,Hebephrenic schizophrenia in remission,res25: P13_psychosis,diagnostic
+Read,E14y100,Borderline psychosis of childhood,res25: P13_psychosis,diagnostic
+Read,E101400,Acute exacerbation of chronic hebephrenic schizophrenia,res25: P13_psychosis,diagnostic
+Read,E14y.00,Other childhood psychoses,res25: P13_psychosis,diagnostic
+Read,E02y000,Drug-induced delirium,res25: P13_psychosis,diagnostic
+Read,E001100,Presenile dementia with delirium,res25: P13_psychosis,diagnostic
+Read,E103500,Paranoid schizophrenia in remission,res25: P13_psychosis,diagnostic
+Read,E102100,Subchronic catatonic schizophrenia,res25: P13_psychosis,diagnostic
+Read,1BH3.00,Paranoid ideation,res25: P13_psychosis,diagnostic
+Read,1BH1.00,Grandiose delusions,res25: P13_psychosis,diagnostic
+Read,1BH2.00,Ideas of reference,res25: P13_psychosis,diagnostic
+Read,E011000,Korsakov's alcoholic psychosis,res25: P13_psychosis,diagnostic
+Read,E004100,Arteriosclerotic dementia with delirium,res25: P13_psychosis,diagnostic
+Read,E102000,Unspecified catatonic schizophrenia,res25: P13_psychosis,diagnostic
+Read,E003.00,Senile dementia with delirium,res25: P13_psychosis,diagnostic
+Read,E010.12,Delirium tremens,res25: P13_psychosis,diagnostic
+Read,E010.11,DTs - delirium tremens,res25: P13_psychosis,diagnostic
+Read,E010.00,Alcohol withdrawal delirium,res25: P13_psychosis,diagnostic
+Read,E021z00,Drug-induced paranoia or hallucinatory state NOS,res25: P13_psychosis,diagnostic
+Read,E01yz00,Other alcoholic psychosis NOS,res25: P13_psychosis,diagnostic
+Read,E103400,Acute exacerbation of chronic paranoid schizophrenia,res25: P13_psychosis,diagnostic
+Read,E102500,Catatonic schizophrenia in remission,res25: P13_psychosis,diagnostic
+Read,E103.00,Paranoid schizophrenia,res25: P13_psychosis,diagnostic
+Read,E015.00,Alcoholic paranoia,res25: P13_psychosis,diagnostic
+Read,E102z00,Catatonic schizophrenia NOS,res25: P13_psychosis,diagnostic
+Read,E013.00,Alcohol withdrawal hallucinosis,res25: P13_psychosis,diagnostic
+Read,E021100,Drug-induced hallucinosis,res25: P13_psychosis,diagnostic
+Read,E01z.00,Alcoholic psychosis NOS,res25: P13_psychosis,diagnostic
+Read,E103000,Unspecified paranoid schizophrenia,res25: P13_psychosis,diagnostic
+Read,E103300,Acute exacerbation of subchronic paranoid schizophrenia,res25: P13_psychosis,diagnostic
+Read,E021000,Drug-induced paranoid state,res25: P13_psychosis,diagnostic
+Read,E103200,Chronic paranoid schizophrenia,res25: P13_psychosis,diagnostic
+Read,E021.00,Drug-induced paranoia or hallucinatory states,res25: P13_psychosis,diagnostic
+Read,Eu20311,[X]Atypical schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu20300,[X]Undifferentiated schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu20214,[X]Schizophrenic flexibilatis cerea,res25: P13_psychosis,diagnostic
+Read,E030400,"Acute confusional state, of cerebrovascular origin",res25: P13_psychosis,diagnostic
+Read,Eu20400,[X]Post-schizophrenic depression,res25: P13_psychosis,diagnostic
+Read,1BH0.00,Delusion of persecution,res25: P13_psychosis,diagnostic
+Read,1BH..11,Delusion,res25: P13_psychosis,diagnostic
+Read,1BH..00,Delusions,res25: P13_psychosis,diagnostic
+Read,Eu20z00,"[X]Schizophrenia, unspecified",res25: P13_psychosis,diagnostic
+Read,E030300,"Acute confusional state, of metabolic origin",res25: P13_psychosis,diagnostic
+Read,E123.11,Folie a deux,res25: P13_psychosis,diagnostic
+Read,E114200,"Bipolar affective disorder, currently manic, moderate",res25: P13_psychosis,diagnostic
+Read,E10y.11,Cenesthopathic schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu20212,[X]Schizophrenic catalepsy,res25: P13_psychosis,diagnostic
+Read,E030200,"Acute confusional state, of endocrine origin",res25: P13_psychosis,diagnostic
+Read,E030100,"Acute confusional state, of infective origin",res25: P13_psychosis,diagnostic
+Read,Eu20213,[X]Schizophrenic catatonia,res25: P13_psychosis,diagnostic
+Read,Eu12500,[X]Mental & behav dis due to cannabinoids: psychotic disordr,res25: P13_psychosis,diagnostic
+Read,E031.11,Delirium - subacute organic,res25: P13_psychosis,diagnostic
+Read,E10y.00,Other schizophrenia,res25: P13_psychosis,diagnostic
+Read,E105z00,Latent schizophrenia NOS,res25: P13_psychosis,diagnostic
+Read,E107000,Unspecified schizo-affective schizophrenia,res25: P13_psychosis,diagnostic
+Read,E031.00,Subacute confusional state,res25: P13_psychosis,diagnostic
+Read,Eu18500,[X]Mental & behav dis due to vol solvents: psychotic disordr,res25: P13_psychosis,diagnostic
+Read,E030z00,Acute confusional state NOS,res25: P13_psychosis,diagnostic
+Read,Eu11500,[X]Mental & behav dis due to use opioids: psychotic disorder,res25: P13_psychosis,diagnostic
+Read,E031100,"Subacute confusional state, of infective origin",res25: P13_psychosis,diagnostic
+Read,E106.00,Residual schizophrenia,res25: P13_psychosis,diagnostic
+Read,E107.11,Cyclic schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu11400,[X]Men & behav dis due opioid: withdrawl state with delirium,res25: P13_psychosis,diagnostic
+Read,E107.00,Schizo-affective schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu10500,[X]Mental & behav dis due to use alcohol: psychotic disorder,res25: P13_psychosis,diagnostic
+Read,E107z00,Schizo-affective schizophrenia NOS,res25: P13_psychosis,diagnostic
+Read,E107100,Subchronic schizo-affective schizophrenia,res25: P13_psychosis,diagnostic
+Read,E107200,Chronic schizo-affective schizophrenia,res25: P13_psychosis,diagnostic
+Read,E107300,Acute exacerbation subchronic schizo-affective schizophrenia,res25: P13_psychosis,diagnostic
+Read,E107500,Schizo-affective schizophrenia in remission,res25: P13_psychosis,diagnostic
+Read,E107400,Acute exacerbation of chronic schizo-affective schizophrenia,res25: P13_psychosis,diagnostic
+Read,E10yz00,Other schizophrenia NOS,res25: P13_psychosis,diagnostic
+Read,E114100,"Bipolar affective disorder, currently manic, mild",res25: P13_psychosis,diagnostic
+Read,E111200,"Recurrent manic episodes, moderate",res25: P13_psychosis,diagnostic
+Read,E10y100,Coenesthopathic schizophrenia,res25: P13_psychosis,diagnostic
+Read,E10y000,Atypical schizophrenia,res25: P13_psychosis,diagnostic
+Read,E111100,"Recurrent manic episodes, mild",res25: P13_psychosis,diagnostic
+Read,E10z.00,Schizophrenia NOS,res25: P13_psychosis,diagnostic
+Read,E111.00,Recurrent manic episodes,res25: P13_psychosis,diagnostic
+Read,E111000,"Recurrent manic episodes, unspecified",res25: P13_psychosis,diagnostic
+Read,E114000,"Bipolar affective disorder, currently manic, unspecified",res25: P13_psychosis,diagnostic
+Read,E111300,"Recurrent manic episodes, severe without mention psychosis",res25: P13_psychosis,diagnostic
+Read,E111600,"Recurrent manic episodes, in full remission",res25: P13_psychosis,diagnostic
+Read,E111500,"Recurrent manic episodes, partial or unspecified remission",res25: P13_psychosis,diagnostic
+Read,E111400,"Recurrent manic episodes, severe, with psychosis",res25: P13_psychosis,diagnostic
+Read,E111z00,Recurrent manic episode NOS,res25: P13_psychosis,diagnostic
+Read,E114.00,"Bipolar affective disorder, currently manic",res25: P13_psychosis,diagnostic
+Read,E113400,"Recurrent major depressive episodes, severe, with psychosis",res25: P13_psychosis,diagnostic
+Read,E115000,"Bipolar affective disorder, currently depressed, unspecified",res25: P13_psychosis,diagnostic
+Read,E031000,"Subacute confusional state, post traumatic",res25: P13_psychosis,diagnostic
+Read,E123.00,Shared paranoid disorder,res25: P13_psychosis,diagnostic
+Read,E116200,"Mixed bipolar affective disorder, moderate",res25: P13_psychosis,diagnostic
+Read,E115.11,Manic-depressive - now depressed,res25: P13_psychosis,diagnostic
+Read,E114300,"Bipolar affect disord, currently manic, severe, no psychosis",res25: P13_psychosis,diagnostic
+Read,E114500,"Bipolar affect disord,currently manic, part/unspec remission",res25: P13_psychosis,diagnostic
+Read,E114400,"Bipolar affect disord, currently manic,severe with psychosis",res25: P13_psychosis,diagnostic
+Read,E114600,"Bipolar affective disorder, currently manic, full remission",res25: P13_psychosis,diagnostic
+Read,E115.00,"Bipolar affective disorder, currently depressed",res25: P13_psychosis,diagnostic
+Read,E114z00,"Bipolar affective disorder, currently manic, NOS",res25: P13_psychosis,diagnostic
+Read,E11y100,Atypical manic disorder,res25: P13_psychosis,diagnostic
+Read,E115300,"Bipolar affect disord, now depressed, severe, no psychosis",res25: P13_psychosis,diagnostic
+Read,E11y000,Unspecified manic-depressive psychoses,res25: P13_psychosis,diagnostic
+Read,E115200,"Bipolar affective disorder, currently depressed, moderate",res25: P13_psychosis,diagnostic
+Read,E115100,"Bipolar affective disorder, currently depressed, mild",res25: P13_psychosis,diagnostic
+Read,E116100,"Mixed bipolar affective disorder, mild",res25: P13_psychosis,diagnostic
+Read,E115500,"Bipolar affect disord, now depressed, part/unspec remission",res25: P13_psychosis,diagnostic
+Read,E116000,"Mixed bipolar affective disorder, unspecified",res25: P13_psychosis,diagnostic
+Read,E115400,"Bipolar affect disord, now depressed, severe with psychosis",res25: P13_psychosis,diagnostic
+Read,E115600,"Bipolar affective disorder, now depressed, in full remission",res25: P13_psychosis,diagnostic
+Read,E116.00,Mixed bipolar affective disorder,res25: P13_psychosis,diagnostic
+Read,E115z00,"Bipolar affective disorder, currently depressed, NOS",res25: P13_psychosis,diagnostic
+Read,E116600,"Mixed bipolar affective disorder, in full remission",res25: P13_psychosis,diagnostic
+Read,E122.00,Paraphrenia,res25: P13_psychosis,diagnostic
+Read,E11y.00,Other and unspecified manic-depressive psychoses,res25: P13_psychosis,diagnostic
+Read,E116300,"Mixed bipolar affective disorder, severe, without psychosis",res25: P13_psychosis,diagnostic
+Read,E116500,"Mixed bipolar affective disorder, partial/unspec remission",res25: P13_psychosis,diagnostic
+Read,E116400,"Mixed bipolar affective disorder, severe, with psychosis",res25: P13_psychosis,diagnostic
+Read,E117200,"Unspecified bipolar affective disorder, moderate",res25: P13_psychosis,diagnostic
+Read,E116z00,"Mixed bipolar affective disorder, NOS",res25: P13_psychosis,diagnostic
+Read,E117100,"Unspecified bipolar affective disorder, mild",res25: P13_psychosis,diagnostic
+Read,E117000,"Unspecified bipolar affective disorder, unspecified",res25: P13_psychosis,diagnostic
+Read,E117.00,Unspecified bipolar affective disorder,res25: P13_psychosis,diagnostic
+Read,E117z00,"Unspecified bipolar affective disorder, NOS",res25: P13_psychosis,diagnostic
+Read,E121.00,Chronic paranoid psychosis,res25: P13_psychosis,diagnostic
+Read,E117600,"Unspecified bipolar affective disorder, in full remission",res25: P13_psychosis,diagnostic
+Read,E117300,"Unspecified bipolar affective disorder, severe, no psychosis",res25: P13_psychosis,diagnostic
+Read,E117500,"Unspecified bipolar affect disord, partial/unspec remission",res25: P13_psychosis,diagnostic
+Read,E117400,"Unspecified bipolar affective disorder,severe with psychosis",res25: P13_psychosis,diagnostic
+Read,E03yz00,Other transient organic psychoses NOS,res25: P13_psychosis,diagnostic
+Read,Eu20211,[X]Catatonic stupor,res25: P13_psychosis,diagnostic
+Read,Eu05000,[X]Organic hallucinosis,res25: P13_psychosis,diagnostic
+Read,Eu10411,"[X]Delirium tremens, alcohol induced",res25: P13_psychosis,diagnostic
+Read,E1z..00,Non-organic psychosis NOS,res25: P13_psychosis,diagnostic
+Read,E11z.00,Other and unspecified affective psychoses,res25: P13_psychosis,diagnostic
+Read,E11yz00,Other and unspecified manic-depressive psychoses NOS,res25: P13_psychosis,diagnostic
+Read,E1y..00,Other specified non-organic psychoses,res25: P13_psychosis,diagnostic
+Read,Eu16711,[X]Post hallucinogen perception disorder,res25: P13_psychosis,diagnostic
+Read,Eu10700,[X]Men & behav dis due alcoh: resid & late-onset psychot dis,res25: P13_psychosis,diagnostic
+Read,Eu20200,[X]Catatonic schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu05200,[X]Organic delusional [schizophrenia-like] disorder,res25: P13_psychosis,diagnostic
+Read,E110.00,"Manic disorder, single episode",res25: P13_psychosis,diagnostic
+Read,Eu11700,[X]Men & beh dis due opioids: resid & late-onset psychot dis,res25: P13_psychosis,diagnostic
+Read,Eu15700,[X]Mnt/bh dis oth stm inc caffne resid/late-onset psycht dis,res25: P13_psychosis,diagnostic
+Read,Eu14700,[X]Men & beh dis due cocaine: resid & late-onset psychot dis,res25: P13_psychosis,diagnostic
+Read,Eu12700,[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis,res25: P13_psychosis,diagnostic
+Read,Eu19700,[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis,res25: P13_psychosis,diagnostic
+Read,E03y300,Unspecified puerperal psychosis,res25: P13_psychosis,diagnostic
+Read,Eu20011,[X]Paraphrenic schizophrenia,res25: P13_psychosis,diagnostic
+Read,E11y300,Other mixed manic-depressive psychoses,res25: P13_psychosis,diagnostic
+Read,E11y200,Atypical depressive disorder,res25: P13_psychosis,diagnostic
+Read,Eu20000,[X]Paranoid schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu20.00,[X]Schizophrenia,res25: P13_psychosis,diagnostic
+Read,E031300,"Subacute confusional state, of metabolic origin",res25: P13_psychosis,diagnostic
+Read,Eu20100,[X]Hebephrenic schizophrenia,res25: P13_psychosis,diagnostic
+Read,E03y200,Organic affective syndrome,res25: P13_psychosis,diagnostic
+Read,Eu20y13,[X]Schizophrenifrm psychos NOS,res25: P13_psychosis,diagnostic
+Read,Eu20111,[X]Disorganised schizophrenia,res25: P13_psychosis,diagnostic
+Read,E03y100,Organic hallucinosis syndrome,res25: P13_psychosis,diagnostic
+Read,E031z00,Subacute confusional state NOS,res25: P13_psychosis,diagnostic
+Read,E031400,"Subacute confusional state, of cerebrovascular origin",res25: P13_psychosis,diagnostic
+Read,E03y000,Organic delusional syndrome,res25: P13_psychosis,diagnostic
+Read,E03y.00,Other transient organic psychoses,res25: P13_psychosis,diagnostic
+Read,E110100,"Single manic episode, mild",res25: P13_psychosis,diagnostic
+Read,E13y.00,Other reactive psychoses,res25: P13_psychosis,diagnostic
+Read,Eu10400,[X]Men & behav dis due alcohl: withdrawl state with delirium,res25: P13_psychosis,diagnostic
+Read,E110000,"Single manic episode, unspecified",res25: P13_psychosis,diagnostic
+Read,Eu20y12,[X]Schizophreniform disord NOS,res25: P13_psychosis,diagnostic
+Read,E110400,"Single manic episode, severe, with psychosis",res25: P13_psychosis,diagnostic
+Read,E133.00,Acute paranoid reaction,res25: P13_psychosis,diagnostic
+Read,E110300,"Single manic episode, severe without mention of psychosis",res25: P13_psychosis,diagnostic
+Read,E110200,"Single manic episode, moderate",res25: P13_psychosis,diagnostic
+Read,E131.00,Acute hysterical psychosis,res25: P13_psychosis,diagnostic
+Read,E110600,Single manic episode in full remission,res25: P13_psychosis,diagnostic
+Read,E112400,"Single major depressive episode, severe, with psychosis",res25: P13_psychosis,diagnostic
+Read,E110z00,"Manic disorder, single episode NOS",res25: P13_psychosis,diagnostic
+Read,E13y100,Brief reactive psychosis,res25: P13_psychosis,diagnostic
+Read,Eu04z00,"[X]Delirium, unspecified",res25: P13_psychosis,diagnostic
+Read,Eu04.14,[X]Acute / subacute organic reaction,res25: P13_psychosis,diagnostic
+Read,E13y000,Psychogenic stupor,res25: P13_psychosis,diagnostic
+Read,Eu20y00,[X]Other schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu04.13,[X]Acute / subacute infective psychosis,res25: P13_psychosis,diagnostic
+Read,E13yz00,Other reactive psychoses NOS,res25: P13_psychosis,diagnostic
+Read,Eu04.00,"[X]Delirium, not induced by alcohol+other psychoactive subs",res25: P13_psychosis,diagnostic
+Read,Eu04.12,"[X]Acute / subacute confusional state, nonalcoholic",res25: P13_psychosis,diagnostic
+Read,Eu04.11,[X]Acute / subacute brain syndrome,res25: P13_psychosis,diagnostic
+Read,Eu04.15,[X]Acute / subacute psycho-organic reaction,res25: P13_psychosis,diagnostic
+Read,Eu20500,[X]Residual schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu04y00,[X]Other delirium,res25: P13_psychosis,diagnostic
+Read,Eu20600,[X]Simple schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu04100,[X]Delirium superimposed on dementia,res25: P13_psychosis,diagnostic
+Read,Eu20511,[X]Chronic undifferentiated schizophrenia,res25: P13_psychosis,diagnostic
+Read,Eu04000,"[X]Delirium not superimposed on dementia, so described",res25: P13_psychosis,diagnostic
+Read,Eu10512,[X]Alcoholic jealousy,res25: P13_psychosis,diagnostic
+Read,Eu10511,[X]Alcoholic hallucinosis,res25: P13_psychosis,diagnostic
+Read,Eu10514,[X]Alcoholic psychosis NOS,res25: P13_psychosis,diagnostic
+Read,Eu10513,[X]Alcoholic paranoia,res25: P13_psychosis,diagnostic
+Read,E110.11,Hypomanic psychoses,res25: P13_psychosis,diagnostic

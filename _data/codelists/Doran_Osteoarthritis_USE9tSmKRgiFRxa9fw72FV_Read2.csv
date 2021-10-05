@@ -1,0 +1,60 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,58EA.00,Heel DXA scan result osteoporotic,osteoarthritis,diagnostic
+Read,9N0h.00,Seen in osteoporosis clinic,osteoarthritis,diagnostic
+Read,N331M00,Fragility fracture due to unspecified osteoporosis,osteoarthritis,diagnostic
+Read,66aE.00,Refer to osteoporosis specialist,osteoarthritis,diagnostic
+Read,N331500,Drug-induced osteoporosis with pathological fracture,osteoarthritis,diagnostic
+Read,66a..00,Osteoporosis monitoring,osteoarthritis,diagnostic
+Read,N331A00,Osteoporosis + pathological fracture cervical vertebrae,osteoarthritis,diagnostic
+Read,N330z00,Osteoporosis NOS,osteoarthritis,diagnostic
+Read,N330600,Postoophorectomy osteoporosis,osteoarthritis,diagnostic
+Read,N330A00,Osteoporosis in endocrine disorders,osteoarthritis,diagnostic
+Read,7230PM,OSTEOPOROSIS POSTMENOPAUSAL,osteoarthritis,diagnostic
+Read,N330C00,Osteoporosis localized to spine,osteoarthritis,diagnostic
+Read,N330.00,Osteoporosis,osteoarthritis,diagnostic
+Read,7230D,VERTEBRAL OSTEOPOROSIS,osteoarthritis,diagnostic
+Read,7230B,OSTEOPOROSIS SENILIS,osteoarthritis,diagnostic
+Read,7230A,OSTEOPOROSIS,osteoarthritis,diagnostic
+Read,N331B00,Postmenopausal osteoporosis with pathological fracture,osteoarthritis,diagnostic
+Read,N330900,Osteoporosis in multiple myelomatosis,osteoarthritis,diagnostic
+Read,N330100,Senile osteoporosis,osteoarthritis,diagnostic
+Read,NyuB800,[X]Unspecified osteoporosis with pathological fracture,osteoarthritis,diagnostic
+Read,N330400,Dissuse osteoporosis,osteoarthritis,diagnostic
+Read,N331300,Osteoporosis of disuse with pathological fracture,osteoarthritis,diagnostic
+Read,N330800,Localized osteoporosis - Lequesne,osteoarthritis,diagnostic
+Read,N330300,Idiopathic osteoporosis,osteoarthritis,diagnostic
+Read,N330200,Postmenopausal osteoporosis,osteoarthritis,diagnostic
+Read,N374600,Osteoporotic kyphosis,osteoarthritis,diagnostic
+Read,NyuB200,[X]Osteoporosis in other disorders classified elsewhere,osteoarthritis,diagnostic
+Read,N331L00,Collapse of vertebra due to osteoporosis NOS,osteoarthritis,diagnostic
+Read,NyuB100,[X]Other osteoporosis,osteoarthritis,diagnostic
+Read,N331K00,Collapse of thoracic vertebra due to osteoporosis,osteoarthritis,diagnostic
+Read,N330700,Postsurgical malabsorption osteoporosis,osteoarthritis,diagnostic
+Read,N331J00,Collapse of lumbar vertebra due to osteoporosis,osteoarthritis,diagnostic
+Read,N331200,Postoophorectomy osteoporosis with pathological fracture,osteoarthritis,diagnostic
+Read,N330B00,Vertebral osteoporosis,osteoarthritis,diagnostic
+Read,N331900,Osteoporosis + pathological fracture thoracic vertebrae,osteoarthritis,diagnostic
+Read,N331600,Idiopathic osteoporosis with pathological fracture,osteoarthritis,diagnostic
+Read,N331H00,Collapse of cervical vertebra due to osteoporosis,osteoarthritis,diagnostic
+Read,N331400,Postsurgical malabsorption osteoporosis with path fracture,osteoarthritis,diagnostic
+Read,58EG.00,Hip DXA scan result osteoporotic,osteoarthritis,diagnostic
+Read,7230PT,OSTEOPOROSIS POST-TRAUMATIC,osteoarthritis,diagnostic
+Read,NyuB000,[X]Other osteoporosis with pathological fracture,osteoarthritis,diagnostic
+Read,N331.14,Osteoporotic vertebral collapse,osteoarthritis,diagnostic
+Read,66a6.00,Osteoporosis - dietary advice,osteoarthritis,diagnostic
+Read,N330500,Drug-induced osteoporosis,osteoarthritis,diagnostic
+Read,N330000,Osteoporosis; unspecified,osteoarthritis,diagnostic
+Read,66a9.00,Osteoporosis - falls prevention,osteoarthritis,diagnostic
+Read,58EM.00,Lumbar DXA scan result osteoporotic,osteoarthritis,diagnostic
+Read,66a3.00,Osteoporosis treatment stopped,osteoarthritis,diagnostic
+Read,66a8.00,Osteoporosis - exercise advice,osteoarthritis,diagnostic
+Read,66a4.00,Osteoporosis treatment changed,osteoarthritis,diagnostic
+Read,8HTS.00,Referral to osteoporosis clinic,osteoarthritis,diagnostic
+Read,N330D00,Osteoporosis due to corticosteroids,osteoarthritis,diagnostic
+Read,66a2.00,Osteoporosis treatment started,osteoarthritis,diagnostic
+Read,66a7.00,Osteoporosis - dietary assessment,osteoarthritis,diagnostic
+Read,66aA.00,Osteoporosis - treatment response,osteoarthritis,diagnostic
+Read,58E4.00,Forearm DXA scan result osteoporotic,osteoarthritis,diagnostic
+Read,585O.00,Quantitative ultrasound scan of heel - result osteoporotic,osteoarthritis,diagnostic
+Read,9Od0.00,Attends osteoporosis monitoring,osteoarthritis,diagnostic
+Read,N331800,Osteoporosis + pathological fracture lumbar vertebrae,osteoarthritis,diagnostic

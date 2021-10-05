@@ -1,0 +1,94 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G311500,Acute coronary syndrome,res50: myocardial infarction,diagnostic
+Read,3232,ECG: old myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G33z000,Status anginosus,res50: myocardial infarction,diagnostic
+Read,323..00,ECG: myocardial infarction,res50: myocardial infarction,diagnostic
+Read,322Z.00,ECG: myocardial ischaemia NOS,res50: myocardial infarction,diagnostic
+Read,3222,ECG:shows myocardial ischaemia,res50: myocardial infarction,diagnostic
+Read,14AH.00,H/O: Myocardial infarction in last year,res50: myocardial infarction,diagnostic
+Read,14A4.00,H/O: myocardial infarct >60,res50: myocardial infarction,diagnostic
+Read,14A3.00,H/O: myocardial infarct <60,res50: myocardial infarction,diagnostic
+Read,322..00,ECG: myocardial ischaemia,res50: myocardial infarction,diagnostic
+Read,14AW.00,H/O acute coronary syndrome,res50: myocardial infarction,diagnostic
+Read,14AT.00,History of myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G30A.00,Mural thrombosis,res50: myocardial infarction,diagnostic
+Read,G300.00,Acute anterolateral infarction,res50: myocardial infarction,diagnostic
+Read,G30..12,Coronary thrombosis,res50: myocardial infarction,diagnostic
+Read,G30..11,Attack - heart,res50: myocardial infarction,diagnostic
+Read,3236,ECG: lateral infarction,res50: myocardial infarction,diagnostic
+Read,G30..00,Acute myocardial infarction,res50: myocardial infarction,diagnostic
+Read,323Z.00,ECG: myocardial infarct NOS,res50: myocardial infarction,diagnostic
+Read,G301.00,Other specified anterior myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G30..13,Cardiac rupture following myocardial infarction (MI),res50: myocardial infarction,diagnostic
+Read,G30..17,Silent myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G30..15,MI - acute myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G30..14,Heart attack,res50: myocardial infarction,diagnostic
+Read,G30..16,Thrombosis - coronary,res50: myocardial infarction,diagnostic
+Read,G309.00,Acute Q-wave infarct,res50: myocardial infarction,diagnostic
+Read,G304.00,Posterior myocardial infarction NOS,res50: myocardial infarction,diagnostic
+Read,G301000,Acute anteroapical infarction,res50: myocardial infarction,diagnostic
+Read,G303.00,Acute inferoposterior infarction,res50: myocardial infarction,diagnostic
+Read,G302.00,Acute inferolateral infarction,res50: myocardial infarction,diagnostic
+Read,G301100,Acute anteroseptal infarction,res50: myocardial infarction,diagnostic
+Read,G308.00,Inferior myocardial infarction NOS,res50: myocardial infarction,diagnostic
+Read,G306.00,True posterior myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G305.00,Lateral myocardial infarction NOS,res50: myocardial infarction,diagnostic
+Read,G301z00,Anterior myocardial infarction NOS,res50: myocardial infarction,diagnostic
+Read,G307.00,Acute subendocardial infarction,res50: myocardial infarction,diagnostic
+Read,G307100,Acute non-ST segment elevation myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G307000,Acute non-Q wave infarction,res50: myocardial infarction,diagnostic
+Read,G311000,Myocardial infarction aborted,res50: myocardial infarction,diagnostic
+Read,G30B.00,Acute posterolateral myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G30y.00,Other acute myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G30X.00,Acute transmural myocardial infarction of unspecif site,res50: myocardial infarction,diagnostic
+Read,G311011,MI - myocardial infarction aborted,res50: myocardial infarction,diagnostic
+Read,G311.00,Preinfarction syndrome,res50: myocardial infarction,diagnostic
+Read,G310.00,Postmyocardial infarction syndrome,res50: myocardial infarction,diagnostic
+Read,G30y100,Acute papillary muscle infarction,res50: myocardial infarction,diagnostic
+Read,G30z.00,Acute myocardial infarction NOS,res50: myocardial infarction,diagnostic
+Read,G30y200,Acute septal infarction,res50: myocardial infarction,diagnostic
+Read,G32..12,Personal history of myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G311z00,Preinfarction syndrome NOS,res50: myocardial infarction,diagnostic
+Read,G32..00,Old myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G311.12,Impending infarction,res50: myocardial infarction,diagnostic
+Read,G312.00,Coronary thrombosis not resulting in myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G31y300,Transient myocardial ischaemia,res50: myocardial infarction,diagnostic
+Read,G30yz00,Other acute myocardial infarction NOS,res50: myocardial infarction,diagnostic
+Read,G32..11,Healed myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G35..00,Subsequent myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G351.00,Subsequent myocardial infarction of inferior wall,res50: myocardial infarction,diagnostic
+Read,G33z500,Post infarct angina,res50: myocardial infarction,diagnostic
+Read,G350.00,Subsequent myocardial infarction of anterior wall,res50: myocardial infarction,diagnostic
+Read,G34y100,Chronic myocardial ischaemia,res50: myocardial infarction,diagnostic
+Read,G36..00,Certain current complication follow acute myocardial infarct,res50: myocardial infarction,diagnostic
+Read,G35X.00,Subsequent myocardial infarction of unspecified site,res50: myocardial infarction,diagnostic
+Read,G353.00,Subsequent myocardial infarction of other sites,res50: myocardial infarction,diagnostic
+Read,G344.00,Silent myocardial ischaemia,res50: myocardial infarction,diagnostic
+Read,G33z400,Ischaemic chest pain,res50: myocardial infarction,diagnostic
+Read,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,res50: myocardial infarction,diagnostic
+Read,G31y100,Microinfarction of heart,res50: myocardial infarction,diagnostic
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,res50: myocardial infarction,diagnostic
+Read,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,res50: myocardial infarction,diagnostic
+Read,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,res50: myocardial infarction,diagnostic
+Read,G30y000,Acute atrial infarction,res50: myocardial infarction,diagnostic
+Read,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,res50: myocardial infarction,diagnostic
+Read,G575000,Cardiac arrest with successful resuscitation,res50: myocardial infarction,diagnostic
+Read,G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",res50: myocardial infarction,diagnostic
+Read,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,res50: myocardial infarction,diagnostic
+Read,G381.00,Postoperative transmural myocardial infarction inferior wall,res50: myocardial infarction,diagnostic
+Read,G37..00,Cardiac syndrome X,res50: myocardial infarction,diagnostic
+Read,G380.00,Postoperative transmural myocardial infarction anterior wall,res50: myocardial infarction,diagnostic
+Read,G38..00,Postoperative myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G384.00,Postoperative subendocardial myocardial infarction,res50: myocardial infarction,diagnostic
+Read,G383.00,Postoperative transmural myocardial infarction unspec site,res50: myocardial infarction,diagnostic
+Read,G575.00,Cardiac arrest,res50: myocardial infarction,diagnostic
+Read,G501.00,Post infarction pericarditis,res50: myocardial infarction,diagnostic
+Read,G38z.00,"Postoperative myocardial infarction, unspecified",res50: myocardial infarction,diagnostic
+Read,G550.00,Endomyocardial fibrosis,res50: myocardial infarction,diagnostic
+Read,G574011,Cardiac arrest-ventricular fibrillation,res50: myocardial infarction,diagnostic
+Read,Gyu3600,[X]Subsequent myocardial infarction of unspecified site,res50: myocardial infarction,diagnostic
+Read,Gyu3500,[X]Subsequent myocardial infarction of other sites,res50: myocardial infarction,diagnostic
+Read,G575100,"Sudden cardiac death, so described",res50: myocardial infarction,diagnostic
+Read,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site,res50: myocardial infarction,diagnostic
+Read,G575z00,"Cardiac arrest, unspecified",res50: myocardial infarction,diagnostic

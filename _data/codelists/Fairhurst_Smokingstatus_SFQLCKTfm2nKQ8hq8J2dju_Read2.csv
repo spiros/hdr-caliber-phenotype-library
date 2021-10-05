@@ -1,0 +1,103 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,137M,Rolls own cigarettes,res17: Smoking status,test
+Read,EGTON1025,Current Smoker NOS,res17: Smoking status,test
+Read,1373,Light smoker - 1-9 cigs/day,res17: Smoking status,test
+Read,137H,Pipe smoker,res17: Smoking status,test
+Read,1372,Trivial smoker - < 1 cig/day,res17: Smoking status,test
+Read,1371,Never smoked tobacco,res17: Smoking status,test
+Read,137A,Ex-heavy smoker (20-39/day),res17: Smoking status,test
+Read,1375,Heavy smoker - 20-39 cigs/day,res17: Smoking status,test
+Read,137G,Trying to give up smoking,res17: Smoking status,test
+Read,1379,Ex-moderate smoker (10-19/day),res17: Smoking status,test
+Read,1377,Ex-trivial smoker (<1/day),res17: Smoking status,test
+Read,137e,Smoking restarted,res17: Smoking status,test
+Read,137b,Ready to stop smoking,res17: Smoking status,test
+Read,137d,Not interested in stopping smoking,res17: Smoking status,test
+Read,137c,Thinking about stopping smoking,res17: Smoking status,test
+Read,137Q-1,Smoking restarted,res17: Smoking status,test
+Read,137I,Passive smoker,res17: Smoking status,test
+Read,137j,Ex-cigarette smoker,res17: Smoking status,test
+Read,137I0,Exposed to tobacco smoke at home,res17: Smoking status,test
+Read,137P-1,Smoker,res17: Smoking status,test
+Read,137L,Current non-smoker,res17: Smoking status,test
+Read,137n,Total time smoked,res17: Smoking status,test
+Read,137m,Failed attempt to stop smoking,res17: Smoking status,test
+Read,137l,Ex roll-up cigarette smoker,res17: Smoking status,test
+Read,137o,Waterpipe tobacco consumption,res17: Smoking status,test
+Read,137U,Not a passive smoker,res17: Smoking status,test
+Read,137S,Ex smoker,res17: Smoking status,test
+Read,EMISNQWA11,Waterpipe tobacco consumption,res17: Smoking status,test
+Read,13p7,Smoking status at 12 weeks,res17: Smoking status,test
+Read,137W,Chews tobacco,res17: Smoking status,test
+Read,13p3,Smoking status at 52 weeks,res17: Smoking status,test
+Read,13p,Smoking cessation milestones,res17: Smoking status,test
+Read,EMISNQTO12,Total time smoked,res17: Smoking status,test
+Read,ASDFGNO1,Non Smoker - Nos,res17: Smoking status,test
+Read,EGTON322,Ex-Cigarette Smoker,res17: Smoking status,test
+Read,9ko-1,Current smoker annual review,res17: Smoking status,test
+Read,13WF-1,Smoker in the family,res17: Smoking status,test
+Read,EGTON1028,Ex-smoker NOS,res17: Smoking status,test
+Read,EMISNQSM14,Smoking increased,res17: Smoking status,test
+Read,EGTONGR13,Grade D heavy smoker (>20 Day),res17: Smoking status,test
+Read,EGTONGR12,Grade C moderate smoker (11-20/day),res17: Smoking status,test
+Read,EGTON326,Current smoker,res17: Smoking status,test
+Read,EMISNQEX4,Ex-tobacco chewer,res17: Smoking status,test
+Read,EGTONSM3,Smoking Age Started,res17: Smoking status,test
+Read,EGTONSM4,Smoking Age Ceased,res17: Smoking status,test
+Read,EMISOTS1,Other smoking information,res17: Smoking status,test
+Read,EMISSMRE1,Smoker (Read codes),res17: Smoking status,test
+Read,EMISQDA1,Date of last cigarette,res17: Smoking status,test
+Read,PCSDT1HE1,Heavy smoker review due,res17: Smoking status,test
+Read,137-1,Smoker - amount smoked,res17: Smoking status,test
+Read,1371-1,Non-smoker,res17: Smoking status,test
+Read,1372-1,Occasional smoker,res17: Smoking status,test
+Read,1374,Moderate smoker - 10-19 cigs/d,res17: Smoking status,test
+Read,1376,Very heavy smoker - 40+cigs/d,res17: Smoking status,test
+Read,1378,Ex-light smoker (1-9/day),res17: Smoking status,test
+Read,137a,Pipe tobacco consumption,res17: Smoking status,test
+Read,137B,Ex-very heavy smoker (40+/day),res17: Smoking status,test
+Read,137C,Keeps trying to stop smoking,res17: Smoking status,test
+Read,137D,Admitted tobacco cons untrue ?,res17: Smoking status,test
+Read,137E,Tobacco consumption unknown,res17: Smoking status,test
+Read,137F,Ex-smoker - amount unknown,res17: Smoking status,test
+Read,137f,Reason for restarting smoking,res17: Smoking status,test
+Read,137F-99,EX-Smoker NOS,res17: Smoking status,test
+Read,137g,Cigarette pack-years,res17: Smoking status,test
+Read,137h,Minutes from waking to first tobacco consumption,res17: Smoking status,test
+Read,137i,Ex-tobacco chewer,res17: Smoking status,test
+Read,137J,Cigar smoker,res17: Smoking status,test
+Read,137K,Stopped smoking,res17: Smoking status,test
+Read,137k,Refusal to give smoking status,res17: Smoking status,test
+Read,137K0,Recently stopped smoking,res17: Smoking status,test
+Read,137L-99,Tobacco Consumption Nil,res17: Smoking status,test
+Read,137N,Ex pipe smoker,res17: Smoking status,test
+Read,137O,Ex cigar smoker,res17: Smoking status,test
+Read,137P,Cigarette smoker,res17: Smoking status,test
+Read,137Q,Smoking started,res17: Smoking status,test
+Read,137R,Current smoker,res17: Smoking status,test
+Read,137T,Date ceased smoking,res17: Smoking status,test
+Read,137V,Smoking reduced,res17: Smoking status,test
+Read,137X,Cigarette consumption,res17: Smoking status,test
+Read,137Y,Cigar consumption,res17: Smoking status,test
+Read,137Z,Tobacco consumption NOS,res17: Smoking status,test
+Read,13p0,Negotiated date for cessation of smoking,res17: Smoking status,test
+Read,13p1,Smoking status at 4 weeks,res17: Smoking status,test
+Read,13p2,Smoking status between 4 and 52 weeks,res17: Smoking status,test
+Read,13p4,Smoking free weeks,res17: Smoking status,test
+Read,9ko,Current smoker annual review - enhanced services admin,res17: Smoking status,test
+Read,EGTON1024,Rolls own cigarettes,res17: Smoking status,test
+Read,EGTON1026,Ex-cigar smoker,res17: Smoking status,test
+Read,EGTON1027,Ex- Rolled Tobacco Smoker,res17: Smoking status,test
+Read,EGTON320,Smoking Status,res17: Smoking status,test
+Read,EGTON321,Cigarette smoker,res17: Smoking status,test
+Read,EGTON324,Ex-pipe smoker,res17: Smoking status,test
+Read,EGTON327,Past smoker,res17: Smoking status,test
+Read,EGTON328,Date stopped smoking,res17: Smoking status,test
+Read,EGTONGR11,Grade B light smoker (1-10/day),res17: Smoking status,test
+Read,EGTONSM2,Smoking Age,res17: Smoking status,test
+Read,EGTONSM6,Smoking clinic,res17: Smoking status,test
+Read,EMISNQPR396,Primary carer current smoker,res17: Smoking status,test
+Read,EMISNQSN1,Snuff use,res17: Smoking status,test
+Read,EMISQCO3,Carbon monoxide validation confirms smoker,res17: Smoking status,test
+Read,EMISQGR1,Gradual smoking reduction,res17: Smoking status,test
+Read,PCSDT1DE9,Dependent smoker,res17: Smoking status,test

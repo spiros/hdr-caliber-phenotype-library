@@ -1,0 +1,169 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,9iF0.00,Vietnamese - ethnic category 2001 census,res47: Ethnicity,test
+Read,9SD..00,Ethnic group not given - patient refused,res47: Ethnicity,test
+Read,916E.00,Patient ethnicity unknown,res47: Ethnicity,test
+Read,9S45.11,Black East African Asian,res47: Ethnicity,test
+Read,9S1..00,White,res47: Ethnicity,test
+Read,9S...00,Ethnic groups (census),res47: Ethnicity,test
+Read,918t.00,Carer from Black and minority ethnic group,res47: Ethnicity,test
+Read,9S3..00,Black African,res47: Ethnicity,test
+Read,9S2..00,Black Caribbean,res47: Ethnicity,test
+Read,9S11.00,White Irish,res47: Ethnicity,test
+Read,9S10.00,White British,res47: Ethnicity,test
+Read,9S14.00,Other white British ethnic group,res47: Ethnicity,test
+Read,9S12.00,Other white ethnic group,res47: Ethnicity,test
+Read,9S13.00,White Scottish,res47: Ethnicity,test
+Read,9SC..00,Vietnamese,res47: Ethnicity,test
+Read,9S42.12,Black West Indian,res47: Ethnicity,test
+Read,9S41.00,Black British,res47: Ethnicity,test
+Read,9S4..00,"Black, other, non-mixed origin",res47: Ethnicity,test
+Read,9S45.00,Black E Afric Asia/Indo-Caribb,res47: Ethnicity,test
+Read,9S42.11,Black Caribbean,res47: Ethnicity,test
+Read,9S42.00,Black Caribbean/W.I./Guyana,res47: Ethnicity,test
+Read,9SA6.12,Indo-Caribbean (NMO),res47: Ethnicity,test
+Read,9S44.00,Black - other African country,res47: Ethnicity,test
+Read,9S43.00,Black N African/Arab/Iranian,res47: Ethnicity,test
+Read,9S42.13,Black Guyana,res47: Ethnicity,test
+Read,9S43.13,Black Iranian,res47: Ethnicity,test
+Read,9S43.11,Black North African,res47: Ethnicity,test
+Read,9S43.12,Black Arab,res47: Ethnicity,test
+Read,9SA..00,Other ethnic non-mixed (NMO),res47: Ethnicity,test
+Read,9S5..00,"Black - other, mixed",res47: Ethnicity,test
+Read,9S45.12,Black Indo-Caribbean,res47: Ethnicity,test
+Read,9S48.00,Black Black - other,res47: Ethnicity,test
+Read,9S46.00,Black Indian sub-continent,res47: Ethnicity,test
+Read,9S47.00,Black - other Asian,res47: Ethnicity,test
+Read,9SA6.11,East African Asian (NMO),res47: Ethnicity,test
+Read,9S9..00,Chinese,res47: Ethnicity,test
+Read,9S52.00,Other Black - Black/Asian orig,res47: Ethnicity,test
+Read,9S51.00,Other Black - Black/White orig,res47: Ethnicity,test
+Read,9S8..00,Bangladeshi,res47: Ethnicity,test
+Read,9S6..00,Indian,res47: Ethnicity,test
+Read,9S7..00,Pakistani,res47: Ethnicity,test
+Read,9SA6.00,E Afric Asian/Indo-Carib (NMO),res47: Ethnicity,test
+Read,9SA1.00,Brit. ethnic minor. spec.(NMO),res47: Ethnicity,test
+Read,9SA3.11,Caribbean Island (NMO),res47: Ethnicity,test
+Read,9SA3.00,Caribbean I./W.I./Guyana (NMO),res47: Ethnicity,test
+Read,9SA2.00,Brit. ethnic minor. unsp (NMO),res47: Ethnicity,test
+Read,9SA5.00,Other African countries (NMO),res47: Ethnicity,test
+Read,9SA3.13,Guyana (NMO),res47: Ethnicity,test
+Read,9SA3.12,West Indian (NMO),res47: Ethnicity,test
+Read,9SA4.12,Iranian (NMO),res47: Ethnicity,test
+Read,9SA4.00,N African Arab/Iranian (NMO),res47: Ethnicity,test
+Read,9SA4.11,North African Arab (NMO),res47: Ethnicity,test
+Read,9SB6.00,Black African and White,res47: Ethnicity,test
+Read,9SAA.12,Greek Cypriot (NMO),res47: Ethnicity,test
+Read,9SA8.00,Other Asian (NMO),res47: Ethnicity,test
+Read,9SA7.00,Indian sub-continent (NMO),res47: Ethnicity,test
+Read,9SB2.00,"Other ethnic, Asian/White orig",res47: Ethnicity,test
+Read,9SAA.11,Greek (NMO),res47: Ethnicity,test
+Read,9SAA.00,Greek/Greek Cypriot (NMO),res47: Ethnicity,test
+Read,9SA9.00,Irish (NMO),res47: Ethnicity,test
+Read,9SAD.00,Other ethnic NEC (NMO),res47: Ethnicity,test
+Read,9SAB.00,Turkish/Turkish Cypriot (NMO),res47: Ethnicity,test
+Read,9SAC.00,Other European (NMO),res47: Ethnicity,test
+Read,9SAB.11,Turkish (NMO),res47: Ethnicity,test
+Read,9SAB.12,Turkish Cypriot (NMO),res47: Ethnicity,test
+Read,9SB1.00,"Other ethnic, Black/White orig",res47: Ethnicity,test
+Read,9SB..00,"Other ethnic, mixed origin",res47: Ethnicity,test
+Read,9SB3.00,"Other ethnic, mixed white orig",res47: Ethnicity,test
+Read,9SB5.00,Black Caribbean and White,res47: Ethnicity,test
+Read,9SB4.00,"Other ethnic, other mixed orig",res47: Ethnicity,test
+Read,9iD0.00,Somali - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2C.00,Irish Traveller - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iF..00,Other - ethnic category 2001 census,res47: Ethnicity,test
+Read,9SJ..00,Other ethnic group,res47: Ethnicity,test
+Read,9i2B.00,Italian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9SI..00,Irish traveller,res47: Ethnicity,test
+Read,9SG..00,Other black ethnic group,res47: Ethnicity,test
+Read,9SE..00,Ethnic group not recorded,res47: Ethnicity,test
+Read,9SH..00,Other Asian ethnic group,res47: Ethnicity,test
+Read,9i10.00,White Irish - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i1..00,Irish - ethnic category 2001 census,res47: Ethnicity,test
+Read,9T5..00,Bulgarian,res47: Ethnicity,test
+Read,9T1C.00,Chinese,res47: Ethnicity,test
+Read,9SZ..00,Ethnic groups (census) NOS,res47: Ethnicity,test
+Read,9T15.00,Cook Island Maori,res47: Ethnicity,test
+Read,9i00.00,White British - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i0..00,British or mixed British - ethnic category 2001 census,res47: Ethnicity,test
+Read,9T6..00,Czech,res47: Ethnicity,test
+Read,9i...00,Ethnic category - 2001 census,res47: Ethnicity,test
+Read,9i20.00,English - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2A.00,Turkish Cypriot - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i26.00,Cypriot (part not stated) - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2..00,Other White background - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i21.00,Scottish - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i25.00,Ulster Scots - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i24.00,Northern Irish - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i22.00,Welsh - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i23.00,Cornish - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i29.00,Turkish - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i27.00,Greek - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i28.00,Greek Cypriot - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iD..00,Other Black background - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2E.00,Gypsy/Romany - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2D.00,Traveller - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2G.00,Baltic Estonian/Latvian/Lithuanian - ethn categ 2001 census,res47: Ethnicity,test
+Read,9i2L.00,Bosnian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2F.00,Polish - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2K.00,Albanian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2R.00,Oth White European/European unsp/Mixed European 2001 census,res47: Ethnicity,test
+Read,9i2J.00,Kosovan - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2H.00,Commonwealth (Russian) Indep States - ethn categ 2001 census,res47: Ethnicity,test
+Read,9i2N.00,Serbian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2M.00,Croatian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2Q.00,Mixed Irish and other White - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2P.00,Other republics former Yugoslavia - ethnic categ 2001 census,res47: Ethnicity,test
+Read,9i2T.00,Other White or White unspecified ethnic category 2001 census,res47: Ethnicity,test
+Read,9i6..00,Other Mixed background - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i2S.00,Other mixed White - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i3..00,White and Black Caribbean - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i5..00,White and Asian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i4..00,White and Black African - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i60.00,Black and Asian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iC..00,African - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i65.00,Other Mixed or Mixed unspecified ethnic category 2001 census,res47: Ethnicity,test
+Read,9i63.00,Chinese and White - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i61.00,Black and Chinese - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i64.00,Asian and Chinese - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i62.00,Black and White - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iA2.00,Kashmiri - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i7..00,Indian or British Indian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iB..00,Caribbean - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iA1.00,Punjabi - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iA..00,Other Asian background - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i8..00,Pakistani or British Pakistani - ethnic category 2001 census,res47: Ethnicity,test
+Read,9i9..00,Bangladeshi or British Bangladeshi - ethn categ 2001 census,res47: Ethnicity,test
+Read,9iAA.00,Other Asian or Asian unspecified ethnic category 2001 census,res47: Ethnicity,test
+Read,9iA3.00,East African Asian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iA9.00,Mixed Asian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iA5.00,Tamil - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iA4.00,Sri Lankan - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iA8.00,British Asian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iA6.00,Sinhalese - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iA7.00,Caribbean Asian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iD1.00,Nigerian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iE..00,Chinese - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iD4.00,Other Black or Black unspecified ethnic category 2001 census,res47: Ethnicity,test
+Read,9iD3.00,Mixed Black - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iD2.00,Black British - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iF1.00,Japanese - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iFJ.00,Mauritian/Seychellois/Maldivian/St Helena eth cat 2001census,res47: Ethnicity,test
+Read,9iF6.00,Jewish - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iF2.00,Filipino - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iF4.00,Buddhist - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iF5.00,Hindu - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iF3.00,Malaysian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iF9.00,Arab - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iF7.00,Muslim - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iF8.00,Sikh - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iFG.00,Latin American - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iFA.00,North African - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iFF.00,Moroccan - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iFD.00,Iranian - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iFC.00,Israeli - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iFB.00,"Mid East (excl Israeli, Iranian & Arab) - eth cat 2001 cens",res47: Ethnicity,test
+Read,9iFH.00,South and Central American - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iFE.00,Kurdish - ethnic category 2001 census,res47: Ethnicity,test
+Read,9iG..00,Ethnic category not stated - 2001 census,res47: Ethnicity,test
+Read,9iFK.00,Any other group - ethnic category 2001 census,res47: Ethnicity,test

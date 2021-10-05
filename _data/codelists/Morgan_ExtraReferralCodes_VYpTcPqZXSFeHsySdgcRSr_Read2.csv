@@ -1,0 +1,34 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,8HHs.00,Referral to psychosis early intervention service,res59: Extra_referral_codes,diagnostic
+Read,8HlB.00,Urgent referral to psychiatrist,res59: Extra_referral_codes,diagnostic
+Read,8HHv.00,Referral to primary care mental health graduate worker,res59: Extra_referral_codes,diagnostic
+Read,ZL78.00,Referral to psychologist,res59: Extra_referral_codes,diagnostic
+Read,8HJ3.00,Psychiatric self-referral,res59: Extra_referral_codes,diagnostic
+Read,8Hc2.00,Referral to primary care mental health team,res59: Extra_referral_codes,diagnostic
+Read,ZL62E00,Referral to psychiatric nurse,res59: Extra_referral_codes,diagnostic
+Read,8HHT.00,Referral to psychotherapist,res59: Extra_referral_codes,diagnostic
+Read,ZL5B100,Referral to child and adolescent psychiatrist,res59: Extra_referral_codes,diagnostic
+Read,64R7.11,Child refer- clinical psychol.,res59: Extra_referral_codes,diagnostic
+Read,ZL5B111,Referral to child psychiatrist,res59: Extra_referral_codes,diagnostic
+Read,8H4f.00,Referral to learning disabilities psychiatrist,res59: Extra_referral_codes,diagnostic
+Read,8Hc..00,Referral to mental health team,res59: Extra_referral_codes,diagnostic
+Read,8H49.00,Psychiatric referral,res59: Extra_referral_codes,diagnostic
+Read,8HVO.00,Private referral to psychiatrist,res59: Extra_referral_codes,diagnostic
+Read,ZL5B200,Referral to forensic psychiatrist,res59: Extra_referral_codes,diagnostic
+Read,8HVi.00,Private referral to psychologist,res59: Extra_referral_codes,diagnostic
+Read,8Hc0.00,Referral to community mental health team,res59: Extra_referral_codes,diagnostic
+Read,8H23000,Emerg psychiatric admiss MHA,res59: Extra_referral_codes,diagnostic
+Read,8H23.00,Admit psychiatric emergency,res59: Extra_referral_codes,diagnostic
+Read,8HlD.00,Referral to forensic psychiatrist,res59: Extra_referral_codes,diagnostic
+Read,ZL5B400,Referral to rehabilitation psychiatrist,res59: Extra_referral_codes,diagnostic
+Read,8HHu.00,Referral to primary care mental health gateway worker,res59: Extra_referral_codes,diagnostic
+Read,ZL62B00,Referral to nurse psychotherapist,res59: Extra_referral_codes,diagnostic
+Read,ZL5B300,Referral to liaison psychiatrist,res59: Extra_referral_codes,diagnostic
+Read,8HHR.00,Referral to child and adolescent psychiatry service,res59: Extra_referral_codes,diagnostic
+Read,ZL62A00,Referral to nurse behavioural therapist,res59: Extra_referral_codes,diagnostic
+Read,ZL78.11,Refer to psychologist,res59: Extra_referral_codes,diagnostic
+Read,8H4P.00,Referral to child psychiatrist,res59: Extra_referral_codes,diagnostic
+Read,ZL77.00,Referral to psychotherapist,res59: Extra_referral_codes,diagnostic
+Read,8H7T.00,Refer to psychologist,res59: Extra_referral_codes,diagnostic
+Read,ZL5B.00,Referral to psychiatrist,res59: Extra_referral_codes,diagnostic
+Read,ZL5B500,Referral to psychiatrist for mental handicap,res59: Extra_referral_codes,diagnostic

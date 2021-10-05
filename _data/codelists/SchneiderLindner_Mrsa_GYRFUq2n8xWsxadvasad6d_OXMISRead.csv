@@ -1,0 +1,7 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,0399TB,S aureus multiresistant infection,res16: MRSA,diagnostic
+Read,4JP..00,MRSA positive,res16: MRSA,diagnostic
+Read,ZV02A00,MRSA infection carrier,res16: MRSA,diagnostic
+Read,Sp25800,MRSA infection of postoperative wound,res16: MRSA,diagnostic
+Read,A3B1100,MRSA infection,res16: MRSA,diagnostic
+Read,A3B1111,Multiple-resistane Staphylococcus aureaus infection,res16: MRSA,diagnostic

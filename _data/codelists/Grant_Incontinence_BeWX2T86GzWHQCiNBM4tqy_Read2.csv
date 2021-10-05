@@ -1,0 +1,86 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,8C14.11,Continence care,res11: incontinence,diagnostic
+Read,K586.00,Stress incontinence - female,res11: incontinence,diagnostic
+Read,8D7..00,Urinary bladder control,res11: incontinence,diagnostic
+Read,8C14.00,Incontinence care,res11: incontinence,diagnostic
+Read,1A27.11,Pis en deux,res11: incontinence,diagnostic
+Read,19E3.00,Incontinent of faeces,res11: incontinence,diagnostic
+Read,7D17.11,Colporrhaphy and amputation of cervix uteri,res11: incontinence,diagnostic
+Read,679H.00,Health education - continence,res11: incontinence,diagnostic
+Read,16F..00,Double incontinence,res11: incontinence,diagnostic
+Read,1593,H/O: stress incontinence,res11: incontinence,diagnostic
+Read,1A24.00,Stress incontinence,res11: incontinence,diagnostic
+Read,1A27.00,Urge to pass urine again shortly after finishing voiding,res11: incontinence,diagnostic
+Read,1A23.00,Incontinence of urine,res11: incontinence,diagnostic
+Read,19E3.11,Incontinent of faeces symptom,res11: incontinence,diagnostic
+Read,1A26.00,Urge incontinence of urine,res11: incontinence,diagnostic
+Read,1A24.11,Stress incontinence - symptom,res11: incontinence,diagnostic
+Read,1A25.11,Urgency of micturition,res11: incontinence,diagnostic
+Read,1A25.00,Urgency,res11: incontinence,diagnostic
+Read,394..12,Bladder- continence assessment,res11: incontinence,diagnostic
+Read,393..11,Bowels - continence,res11: incontinence,diagnostic
+Read,1A36.00,Terminal dribbling of urine,res11: incontinence,diagnostic
+Read,39H0.00,Continence reassessment,res11: incontinence,diagnostic
+Read,1A37.00,Dribbling of urine,res11: incontinence,diagnostic
+Read,394..11,Bladder-incontinence assessmnt,res11: incontinence,diagnostic
+Read,393..12,Bowels-incontinence assessment,res11: incontinence,diagnostic
+Read,3931,Bowels: occasional accident,res11: incontinence,diagnostic
+Read,3930,Bowels: incontinent,res11: incontinence,diagnostic
+Read,39H..00,Continence assessment,res11: incontinence,diagnostic
+Read,3941,Bladder: occasional accident,res11: incontinence,diagnostic
+Read,3940,Bladder: incontinent,res11: incontinence,diagnostic
+Read,7B33C00,Insertion retropubic dev fem stress urinary incontinence NEC,res11: incontinence,diagnostic
+Read,7B31200,Colposuspension of bladder neck,res11: incontinence,diagnostic
+Read,679H.11,Promotion of continence,res11: incontinence,diagnostic
+Read,7B42113,Insertion of Rosen prosthesis for male incontinence,res11: incontinence,diagnostic
+Read,7B33800,Insertion retropubic device stress urinary incontinence NEC,res11: incontinence,diagnostic
+Read,7B31211,Burch colposuspension,res11: incontinence,diagnostic
+Read,7B42111,Insertion of Kaufman prosthesis for male incontinence,res11: incontinence,diagnostic
+Read,7B42112,Insertion of prosthesis for compression bulb of male urethra,res11: incontinence,diagnostic
+Read,7B42100,Insertion of bulbar urethral prosthesis,res11: incontinence,diagnostic
+Read,9Nl8.00,Seen by continence nurse,res11: incontinence,diagnostic
+Read,8D71.00,Incontinence control,res11: incontinence,diagnostic
+Read,8D75.00,Penile sheath provision,res11: incontinence,diagnostic
+Read,8E97000,Bladder drill,res11: incontinence,diagnostic
+Read,8HTX.00,Referral to incontinence clinic,res11: incontinence,diagnostic
+Read,K198.00,Stress incontinence,res11: incontinence,diagnostic
+Read,Kyu5A00,[X]Other specified urinary incontinence,res11: incontinence,diagnostic
+Read,R076100,[D]Sphincter ani incontinence,res11: incontinence,diagnostic
+Read,R076z00,[D]Incontinence of faeces NOS,res11: incontinence,diagnostic
+Read,R083100,[D]Urethral sphincter incontinence,res11: incontinence,diagnostic
+Read,R083z00,[D]Incontinence of urine NOS,res11: incontinence,diagnostic
+Read,Z1J..00,Procedures to aid continence,res11: incontinence,diagnostic
+Read,Z1J2.00,Attaching penile sheath,res11: incontinence,diagnostic
+Read,Z1J4.00,Changing incontinence pad,res11: incontinence,diagnostic
+Read,Z1S1.00,Regular toileting,res11: incontinence,diagnostic
+Read,Z1S2100,Planned voiding two hourly,res11: incontinence,diagnostic
+Read,Z89A100,Does not perform toileting activities,res11: incontinence,diagnostic
+Read,Z89AE00,Unable to use urine bottle,res11: incontinence,diagnostic
+Read,Z915.11,Urinary catheter care,res11: incontinence,diagnostic
+Read,ZL62400,Referral to continence nurse,res11: incontinence,diagnostic
+Read,ZLD7400,Discharge by continence nurse,res11: incontinence,diagnostic
+Read,ZRas400,OPCS continence disability scale,res11: incontinence,diagnostic
+Read,8HR6.00,Refer to Urodynamic studies,res11: incontinence,diagnostic
+Read,R076.00,[D]Incontinence of faeces,res11: incontinence,diagnostic
+Read,8D7..11,Bladder control,res11: incontinence,diagnostic
+Read,8H7w.00,Referral to continence nurse,res11: incontinence,diagnostic
+Read,Z89A200,Difficulty performing toileting activities,res11: incontinence,diagnostic
+Read,R086200,[D] Urgency of micturition,res11: incontinence,diagnostic
+Read,ZQ3C.00,Bowels incontinence assessment,res11: incontinence,diagnostic
+Read,R083200,[D] Urge incontinence,res11: incontinence,diagnostic
+Read,R083.00,[D]Incontinence of urine,res11: incontinence,diagnostic
+Read,Z121400,Assisting with toileting,res11: incontinence,diagnostic
+Read,Z1J3.00,Putting incontinence pad on,res11: incontinence,diagnostic
+Read,Z89A.00,Ability to perform toileting activities,res11: incontinence,diagnostic
+Read,Z1J1.00,Taking the patient to toilet,res11: incontinence,diagnostic
+Read,Z1S..00,Toileting regimes,res11: incontinence,diagnostic
+Read,Z1S2.00,Planned voiding,res11: incontinence,diagnostic
+Read,222K.00,Smells of urine,res11: incontinence,diagnostic
+Read,ZL22400,Under care of continence nurse,res11: incontinence,diagnostic
+Read,ZLA2400,Seen by continence nurse,res11: incontinence,diagnostic
+Read,Z915.00,Urinary catheter appliance procedures,res11: incontinence,diagnostic
+Read,8D74.11,Catheter in situ,res11: incontinence,diagnostic
+Read,8E97.00,Bladder training,res11: incontinence,diagnostic
+Read,8D74.00,Indwelling urethral catheter,res11: incontinence,diagnostic
+Read,8D7..12,Incontinence control,res11: incontinence,diagnostic
+Read,8D7Z.00,Urinary bladder control NOS,res11: incontinence,diagnostic

@@ -1,0 +1,17 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B34y000,Malig neop ectopic breast (f),res24: breast cancer,diagnostic
+Read,B340000,Malig neop nipple of breast(f),res24: breast cancer,diagnostic
+Read,B34y.00,Malig neop oth site breast (f),res24: breast cancer,diagnostic
+Read,B340.00,Malig neop nipple/areola (f),res24: breast cancer,diagnostic
+Read,B34..00,Malig neop female breast (f),res24: breast cancer,diagnostic
+Read,B347.00,Mal neopl - overlapping breast,res24: breast cancer,diagnostic
+Read,B343.00,Malig neop low-inner quad (f),res24: breast cancer,diagnostic
+Read,B340100,Malig neop areola of breast(f),res24: breast cancer,diagnostic
+Read,B342.00,Malig neop upp-inner quad (f),res24: breast cancer,diagnostic
+Read,B340z00,Malig neop nippl/areol (f) NOS,res24: breast cancer,diagnostic
+Read,B341.00,Malig neop cent part breast(f),res24: breast cancer,diagnostic
+Read,B346.00,Malig neop axillary tail (f),res24: breast cancer,diagnostic
+Read,B344.00,Malig neop upp-outer quad (f),res24: breast cancer,diagnostic
+Read,B345.00,Malig neop low-outer quad (f),res24: breast cancer,diagnostic
+Read,B34yz00,Malig neop oth breast (f) NOS,res24: breast cancer,diagnostic
+Read,B34z.00,Malig neop female breast NOS,res24: breast cancer,diagnostic

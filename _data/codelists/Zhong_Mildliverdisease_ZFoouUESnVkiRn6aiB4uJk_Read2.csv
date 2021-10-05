@@ -1,0 +1,74 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,J612.12,Laennec's cirrhosis,res50: mild liver disease,diagnostic
+Read,J615800,Juvenile portal cirrhosis,res50: mild liver disease,diagnostic
+Read,J63y100,Nonspecific reactive hepatitis,res50: mild liver disease,diagnostic
+Read,J615z00,Non-alcoholic cirrhosis NOS,res50: mild liver disease,diagnostic
+Read,AyuB.00,[X]Viral hepatitis,res50: mild liver disease,diagnostic
+Read,AD05.00,Toxoplasma hepatitis,res50: mild liver disease,diagnostic
+Read,A785200,Cytomegaloviral hepatitis,res50: mild liver disease,diagnostic
+Read,A98yy13,Gonococcal perihepatitis,res50: mild liver disease,diagnostic
+Read,A916100,Secondary syphilitic hepatitis,res50: mild liver disease,diagnostic
+Read,J615H00,Infectious cirrhosis NOS,res50: mild liver disease,diagnostic
+Read,J614000,Chronic persistent hepatitis,res50: mild liver disease,diagnostic
+Read,C310400,Glycogenosis with hepatic cirrhosis,res50: mild liver disease,diagnostic
+Read,AyuJ900,[X]Sequelae of viral hepatitis,res50: mild liver disease,diagnostic
+Read,AyuB100,[X]Other chronic viral hepatitis,res50: mild liver disease,diagnostic
+Read,AyuB000,[X]Other specified acute viral hepatitis,res50: mild liver disease,diagnostic
+Read,AyuB200,"[X]Chronic viral hepatitis, unspecified",res50: mild liver disease,diagnostic
+Read,J612.11,Florid cirrhosis,res50: mild liver disease,diagnostic
+Read,G852200,Oesophageal varices in cirrhosis of the liver,res50: mild liver disease,diagnostic
+Read,C376100,Alpha-1-antitrypsin hepatitis,res50: mild liver disease,diagnostic
+Read,C350012,Pigmentary cirrhosis of liver,res50: mild liver disease,diagnostic
+Read,J611.00,Acute alcoholic hepatitis,res50: mild liver disease,diagnostic
+Read,C370800,Cystic fibrosis related cirrhosis,res50: mild liver disease,diagnostic
+Read,J61..00,Cirrhosis and chronic liver disease,res50: mild liver disease,diagnostic
+Read,G852300,Oesophageal varices in alcoholic cirrhosis of the liver,res50: mild liver disease,diagnostic
+Read,J615D00,Bacterial portal cirrhosis,res50: mild liver disease,diagnostic
+Read,J615300,Diffuse nodular cirrhosis,res50: mild liver disease,diagnostic
+Read,J614y00,Chronic hepatitis unspecified,res50: mild liver disease,diagnostic
+Read,J614400,Chronic lobular hepatitis,res50: mild liver disease,diagnostic
+Read,J614100,Chronic active hepatitis,res50: mild liver disease,diagnostic
+Read,J614200,Chronic aggressive hepatitis,res50: mild liver disease,diagnostic
+Read,J615100,Multilobular portal cirrhosis,res50: mild liver disease,diagnostic
+Read,J615.11,Portal cirrhosis,res50: mild liver disease,diagnostic
+Read,J614z00,Chronic hepatitis NOS,res50: mild liver disease,diagnostic
+Read,J615C00,Xanthomatous portal cirrhosis,res50: mild liver disease,diagnostic
+Read,J615400,Fatty portal cirrhosis,res50: mild liver disease,diagnostic
+Read,J615812,Indian childhood cirrhosis,res50: mild liver disease,diagnostic
+Read,J615500,Hypertrophic portal cirrhosis,res50: mild liver disease,diagnostic
+Read,J615711,Congestive cirrhosis,res50: mild liver disease,diagnostic
+Read,J615600,Capsular portal cirrhosis,res50: mild liver disease,diagnostic
+Read,L176500,"Viral hepatitis comp pregnancy, childbirth & the puerperium",res50: mild liver disease,diagnostic
+Read,J635300,Toxic liver disease with chronic persistent hepatitis,res50: mild liver disease,diagnostic
+Read,J616z00,Biliary cirrhosis NOS,res50: mild liver disease,diagnostic
+Read,J615z13,Cirrhosis of liver NOS,res50: mild liver disease,diagnostic
+Read,J615z12,Cryptogenic cirrhosis of liver,res50: mild liver disease,diagnostic
+Read,J615z11,Macronodular cirrhosis of liver,res50: mild liver disease,diagnostic
+Read,J616200,Biliary cirrhosis of children,res50: mild liver disease,diagnostic
+Read,J616100,Secondary biliary cirrhosis,res50: mild liver disease,diagnostic
+Read,J616000,Primary biliary cirrhosis,res50: mild liver disease,diagnostic
+Read,J633000,Toxic hepatitis,res50: mild liver disease,diagnostic
+Read,J61y300,Portal fibrosis without cirrhosis,res50: mild liver disease,diagnostic
+Read,J61y.00,Other non-alcoholic chronic liver disease,res50: mild liver disease,diagnostic
+Read,J617.00,Alcoholic hepatitis,res50: mild liver disease,diagnostic
+Read,J61yz00,Other non-alcoholic chronic liver disease NOS,res50: mild liver disease,diagnostic
+Read,J617000,Chronic alcoholic hepatitis,res50: mild liver disease,diagnostic
+Read,J61y800,Nonalcoholic steatohepatitis,res50: mild liver disease,diagnostic
+Read,J615.00,Cirrhosis - non alcoholic,res50: mild liver disease,diagnostic
+Read,J616.00,Biliary cirrhosis,res50: mild liver disease,diagnostic
+Read,J635600,Toxic liver disease with fibrosis and cirrhosis of liver,res50: mild liver disease,diagnostic
+Read,J635500,Toxic liver disease with chronic active hepatitis,res50: mild liver disease,diagnostic
+Read,J61z.00,Chronic liver disease NOS,res50: mild liver disease,diagnostic
+Read,J635400,Toxic liver disease with chronic lobular hepatitis,res50: mild liver disease,diagnostic
+Read,Jyu7700,"[X]Granulomatous hepatitis, not elsewhere classified",res50: mild liver disease,diagnostic
+Read,J615y00,Portal cirrhosis unspecified,res50: mild liver disease,diagnostic
+Read,J63X.00,"Granulomatous hepatitis, not elsewhere classified",res50: mild liver disease,diagnostic
+Read,J63B.00,Autoimmune hepatitis,res50: mild liver disease,diagnostic
+Read,J615700,Cardiac portal cirrhosis,res50: mild liver disease,diagnostic
+Read,Jyu7100,[X]Other and unspecified cirrhosis of liver,res50: mild liver disease,diagnostic
+Read,J614300,Recurrent hepatitis,res50: mild liver disease,diagnostic
+Read,J614111,Autoimmune chronic active hepatitis,res50: mild liver disease,diagnostic
+Read,J614.00,Chronic hepatitis,res50: mild liver disease,diagnostic
+Read,J612.00,Alcoholic cirrhosis of liver,res50: mild liver disease,diagnostic
+Read,A98yy11,Gonococcal hepatitis,res50: mild liver disease,diagnostic
+Read,AE23.00,Sequelae of viral hepatitis,res50: mild liver disease,diagnostic

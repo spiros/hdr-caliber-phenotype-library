@@ -1,0 +1,365 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,I22,subsequent myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I25.8,other forms of chronic ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+ICD-10,I24.8,other forms of acute ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+ICD-10,I25,chronic ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+ICD-10,I25.1,atherosclerotic heart disease,res30: Ischaemic heart disease,diagnostic
+ICD-10,I22.1,subsequent myocardial infarction of inferior wall,res30: Ischaemic heart disease,diagnostic
+ICD-10,I24.0,coronary thrombosis not resulting in myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I23.3,rupture of cardiac wall without haemopericardium as current complication following acute myocardial ,res30: Ischaemic heart disease,diagnostic
+ICD-10,I23.5,rupture of papillary muscle as current complication following acute myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I23,certain current complications following acute myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I23.1,atrial septal defect as current complication following acute myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I21.3,acute transmural myocardial infarction of unspecified site,res30: Ischaemic heart disease,diagnostic
+ICD-10,I20,angina pectoris,res30: Ischaemic heart disease,diagnostic
+ICD-10,I20.0,unstable angina,res30: Ischaemic heart disease,diagnostic
+ICD-10,I20.1,angina pectoris with documented spasm,res30: Ischaemic heart disease,diagnostic
+ICD-10,I20.8,other forms of angina pectoris,res30: Ischaemic heart disease,diagnostic
+ICD-10,I20.9,"angina pectoris, unspecified",res30: Ischaemic heart disease,diagnostic
+ICD-10,I21,acute myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I21.0,acute transmural myocardial infarction of anterior wall,res30: Ischaemic heart disease,diagnostic
+ICD-10,I21.4,acute subendocardial myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I22.8,subsequent myocardial infarction of other sites,res30: Ischaemic heart disease,diagnostic
+ICD-10,I22.9,subsequent myocardial infarction of unspecified site,res30: Ischaemic heart disease,diagnostic
+ICD-10,I23.2,ventricular septal defect as current complication following acute myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I23.6,"thrombosis of atrium, auricular appendage, and ventricle as current complications following acute my",res30: Ischaemic heart disease,diagnostic
+ICD-10,I23.8,other current complications following acute myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I24,other acute ischaemic heart diseases,res30: Ischaemic heart disease,diagnostic
+ICD-10,I24.9,"acute ischaemic heart disease, unspecified",res30: Ischaemic heart disease,diagnostic
+ICD-10,I25.2,old myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I25.5,ischaemic cardiomyopathy,res30: Ischaemic heart disease,diagnostic
+ICD-10,I25.9,"chronic ischaemic heart disease, unspecified",res30: Ischaemic heart disease,diagnostic
+ICD-10,I21.2,acute transmural myocardial infarction of other sites,res30: Ischaemic heart disease,diagnostic
+ICD-10,T82.2,mechanical complication of coronary artery bypass and valve grafts,res30: Ischaemic heart disease,diagnostic
+ICD-10,Z95.5,presence of coronary angioplasty implant and graft,res30: Ischaemic heart disease,diagnostic
+ICD-10,I23.0,haemopericardium as current complication following acute myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I22.0,subsequent myocardial infarction of anterior wall,res30: Ischaemic heart disease,diagnostic
+ICD-10,I21.9,"acute myocardial infarction, unspecified",res30: Ischaemic heart disease,diagnostic
+ICD-10,I21.1,acute transmural myocardial infarction of inferior wall,res30: Ischaemic heart disease,diagnostic
+ICD-10,I25.6,silent myocardial ischaemia,res30: Ischaemic heart disease,diagnostic
+ICD-10,I24.1,dressler's syndrome,res30: Ischaemic heart disease,diagnostic
+ICD-10,I23.4,rupture of chordae tendineae as current complication following acute myocardial infarction,res30: Ischaemic heart disease,diagnostic
+ICD-10,I25.0,"atherosclerotic cardiovascular disease, so described",res30: Ischaemic heart disease,diagnostic
+Read,G31y300,transient myocardial ischaemia,res30: Ischaemic heart disease,diagnostic
+Read,7921100,autograft replacement of two coronary arteries nec,res30: Ischaemic heart disease,diagnostic
+Read,G32..12,personal history of myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,7923,prosthetic replacement of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,7929000,percutaneous transluminal laser coronary angioplasty,res30: Ischaemic heart disease,diagnostic
+Read,3236,ecg: lateral infarction,res30: Ischaemic heart disease,diagnostic
+Read,G31y.00,other acute and subacute ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,8I3a.00,Cardiac rehabilitation declined,res30: Ischaemic heart disease,diagnostic
+Read,7920.11,saphenous vein graft bypass of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,G32..00,old myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,7920y00,saphenous vein graft replacement of coronary artery os,res30: Ischaemic heart disease,diagnostic
+Read,G340000,single coronary vessel disease,res30: Ischaemic heart disease,diagnostic
+Read,G341000,Ventricular cardiac aneurysm,res30: Ischaemic heart disease,diagnostic
+Read,G3...00,ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,7924,revision of bypass for coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,G307.00,acute subendocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,G361.00,atrial septal defect/curr comp folow acut myocardal infarct,res30: Ischaemic heart disease,diagnostic
+Read,G340.12,coronary artery disease,res30: Ischaemic heart disease,diagnostic
+Read,7926000,double anastom thoracic arteries to coronary arteries nec,res30: Ischaemic heart disease,diagnostic
+Read,792..11,coronary artery bypass graft operations,res30: Ischaemic heart disease,diagnostic
+Read,G312.00,coronary thrombosis not resulting in myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,7A54000,percutaneous transluminal angioplasty of artery nec,res30: Ischaemic heart disease,diagnostic
+Read,G362.00,ventric septal defect/curr comp fol acut myocardal infarctn,res30: Ischaemic heart disease,diagnostic
+Read,G30..00,acute myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,792C000,replacement of coronary arteries using multiple methods,res30: Ischaemic heart disease,diagnostic
+Read,7928z00,transluminal balloon angioplasty of coronary artery nos,res30: Ischaemic heart disease,diagnostic
+Read,7929500,insertion of drug-eluting coronary artery stent,res30: Ischaemic heart disease,diagnostic
+Read,662..00,Cardiac disease monitoring,res30: Ischaemic heart disease,diagnostic
+Read,8BGC.00,long term dual antiplatelet drug therapy indicated,res30: Ischaemic heart disease,diagnostic
+Read,5543,coronary arteriograph.abnormal,res30: Ischaemic heart disease,diagnostic
+Read,7926200,single anastomosis of thoracic artery to coronary artery nec,res30: Ischaemic heart disease,diagnostic
+Read,G30..14,heart attack,res30: Ischaemic heart disease,diagnostic
+Read,792Dy00,other specified other bypass of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,G340.11,triple vessel disease of the heart,res30: Ischaemic heart disease,diagnostic
+Read,G33..00,angina pectoris,res30: Ischaemic heart disease,diagnostic
+Read,G33z300,angina on effort,res30: Ischaemic heart disease,diagnostic
+Read,662..11,Heart disease monitoring,res30: Ischaemic heart disease,diagnostic
+Read,G311.13,unstable angina,res30: Ischaemic heart disease,diagnostic
+Read,G5z..00,heart disease nos,res30: Ischaemic heart disease,diagnostic
+Read,7928,transluminal balloon angioplasty of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,G308.00,inferior myocardial infarction nos,res30: Ischaemic heart disease,diagnostic
+Read,G3z..00,ischaemic heart disease nos,res30: Ischaemic heart disease,diagnostic
+Read,G30..15,mi - acute myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,G30..12,coronary thrombosis,res30: Ischaemic heart disease,diagnostic
+Read,G3...13,ihd - ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,G5yz.00,other heart disease nos,res30: Ischaemic heart disease,diagnostic
+Read,G311.11,crescendo angina,res30: Ischaemic heart disease,diagnostic
+Read,ZV45K00,[v]presence of coronary artery bypass graft,res30: Ischaemic heart disease,diagnostic
+Read,G341.00,Aneurysm of heart,res30: Ischaemic heart disease,diagnostic
+Read,G574000,Ventricular fibrillation,res30: Ischaemic heart disease,diagnostic
+Read,7927500,open angioplasty of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,G302.00,acute inferolateral infarction,res30: Ischaemic heart disease,diagnostic
+Read,G340100,double coronary vessel disease,res30: Ischaemic heart disease,diagnostic
+Read,44H3.00,cardiac enzymes abnormal,res30: Ischaemic heart disease,diagnostic
+Read,G301.00,other specified anterior myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,7928.11,percutaneous balloon coronary angioplasty,res30: Ischaemic heart disease,diagnostic
+Read,ZV45K11,[v]presence of coronary artery bypass graft - cabg,res30: Ischaemic heart disease,diagnostic
+Read,G340.00,coronary atherosclerosis,res30: Ischaemic heart disease,diagnostic
+Read,14A5.00,h/o: angina pectoris,res30: Ischaemic heart disease,diagnostic
+Read,7921.11,other autograft bypass of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,ZV45L00,[v]status following coronary angioplasty nos,res30: Ischaemic heart disease,diagnostic
+Read,G343.00,Ischaemic cardiomyopathy,res30: Ischaemic heart disease,diagnostic
+Read,7920200,saphenous vein graft replacement of three coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,66f..00,Cardiovascular disease monitoring,res30: Ischaemic heart disease,diagnostic
+Read,G311100,unstable angina,res30: Ischaemic heart disease,diagnostic
+Read,7920000,saphenous vein graft replacement of one coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,8F9..00,Cardiac rehabilitation,res30: Ischaemic heart disease,diagnostic
+Read,322..00,ecg: myocardial ischaemia,res30: Ischaemic heart disease,diagnostic
+Read,7920100,saphenous vein graft replacement of two coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,7921z00,other autograft replacement of coronary artery nos,res30: Ischaemic heart disease,diagnostic
+Read,7923z00,prosthetic replacement of coronary artery nos,res30: Ischaemic heart disease,diagnostic
+Read,323..00,ecg: myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,G33z200,syncope anginosa,res30: Ischaemic heart disease,diagnostic
+Read,G....13,Heart diseases,res30: Ischaemic heart disease,diagnostic
+Read,7929400,insertion of coronary artery stent,res30: Ischaemic heart disease,diagnostic
+Read,ZL22200,Under care of cardiac rehabilitation nurse,res30: Ischaemic heart disease,diagnostic
+Read,G33z500,post infarct angina,res30: Ischaemic heart disease,diagnostic
+Read,G307000,acute non-q wave infarction,res30: Ischaemic heart disease,diagnostic
+Read,G31y000,acute coronary insufficiency,res30: Ischaemic heart disease,diagnostic
+Read,7921,other autograft replacement of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,8H7v.00,Referral to cardiac rehabilitation nurse,res30: Ischaemic heart disease,diagnostic
+Read,G30..16,thrombosis - coronary,res30: Ischaemic heart disease,diagnostic
+Read,7929300,rotary blade coronary angioplasty,res30: Ischaemic heart disease,diagnostic
+Read,G30..11,attack - heart,res30: Ischaemic heart disease,diagnostic
+Read,G311500,acute coronary syndrome,res30: Ischaemic heart disease,diagnostic
+Read,G307100,acute non-st segment elevation myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,7921200,autograft replacement of three coronary arteries nec,res30: Ischaemic heart disease,diagnostic
+Read,6A4..00,coronary heart disease review,res30: Ischaemic heart disease,diagnostic
+Read,8B3k.00,coronary heart disease medication review,res30: Ischaemic heart disease,diagnostic
+Read,G331.11,variant angina pectoris,res30: Ischaemic heart disease,diagnostic
+Read,7920300,saphenous vein graft replacement of four+ coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,G....12,Cardiac diseases,res30: Ischaemic heart disease,diagnostic
+Read,SP07600,coronary artery bypass graft occlusion,res30: Ischaemic heart disease,diagnostic
+Read,G300.00,acute anterolateral infarction,res30: Ischaemic heart disease,diagnostic
+Read,G30X000,acute st segment elevation myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,662N.00,CHD monitoring,res30: Ischaemic heart disease,diagnostic
+Read,G33z700,stable angina,res30: Ischaemic heart disease,diagnostic
+Read,662K.00,angina control,res30: Ischaemic heart disease,diagnostic
+Read,ZV45700,[v]presence of aortocoronary bypass graft,res30: Ischaemic heart disease,diagnostic
+Read,G305.00,lateral myocardial infarction nos,res30: Ischaemic heart disease,diagnostic
+Read,662Z.00,Cardiac disease monitoring NOS,res30: Ischaemic heart disease,diagnostic
+Read,G301z00,anterior myocardial infarction nos,res30: Ischaemic heart disease,diagnostic
+Read,G30z.00,acute myocardial infarction nos,res30: Ischaemic heart disease,diagnostic
+Read,662K200,angina control - improving,res30: Ischaemic heart disease,diagnostic
+Read,G311200,angina at rest,res30: Ischaemic heart disease,diagnostic
+Read,G310.11,dressler's syndrome,res30: Ischaemic heart disease,diagnostic
+Read,662Kz00,angina control nos,res30: Ischaemic heart disease,diagnostic
+Read,662K100,angina control - poor,res30: Ischaemic heart disease,diagnostic
+Read,G30A.00,mural thrombosis,res30: Ischaemic heart disease,diagnostic
+Read,G34z.00,other chronic ischaemic heart disease nos,res30: Ischaemic heart disease,diagnostic
+Read,G32..11,healed myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,6A2..00,coronary heart disease annual review,res30: Ischaemic heart disease,diagnostic
+Read,7A4B800,percut translum thrombolysis femoral graft streptokinase,res30: Ischaemic heart disease,diagnostic
+Read,G30..17,silent myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,G301100,acute anteroseptal infarction,res30: Ischaemic heart disease,diagnostic
+Read,182A.00,Chest pain on exertion,res30: Ischaemic heart disease,diagnostic
+Read,G311400,worsening angina,res30: Ischaemic heart disease,diagnostic
+Read,G330000,nocturnal angina,res30: Ischaemic heart disease,diagnostic
+Read,G34z000,asymptomatic coronary heart disease,res30: Ischaemic heart disease,diagnostic
+Read,7920,saphenous vein graft replacement of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,9Ob..00,Coronary heart disease monitoring administration,res30: Ischaemic heart disease,diagnostic
+Read,Z677.00,Cardiac rehabilitation class,res30: Ischaemic heart disease,diagnostic
+Read,G35..00,subsequent myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,ZV45800,[v]presence of coronary angioplasty implant and graft,res30: Ischaemic heart disease,diagnostic
+Read,7928000,percut transluminal balloon angioplasty one coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,G311.14,angina at rest,res30: Ischaemic heart disease,diagnostic
+Read,G360.00,haemopericardium/current comp folow acut myocard infarct,res30: Ischaemic heart disease,diagnostic
+Read,G33z000,status anginosus,res30: Ischaemic heart disease,diagnostic
+Read,662K000,angina control - good,res30: Ischaemic heart disease,diagnostic
+Read,G304.00,posterior myocardial infarction nos,res30: Ischaemic heart disease,diagnostic
+Read,G330.00,angina decubitus,res30: Ischaemic heart disease,diagnostic
+Read,G3...12,atherosclerotic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,3213111,Positive exercise ECG test,res30: Ischaemic heart disease,diagnostic
+Read,8I37.00,Coronary heart disease monitoring refused,res30: Ischaemic heart disease,diagnostic
+Read,G3y..00,other specified ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,G310.00,postmyocardial infarction syndrome,res30: Ischaemic heart disease,diagnostic
+Read,792B000,endarterectomy of coronary artery nec,res30: Ischaemic heart disease,diagnostic
+Read,7A6G100,peroperative angioplasty,res30: Ischaemic heart disease,diagnostic
+Read,ZV57900,[V]Cardiac rehabilitation,res30: Ischaemic heart disease,diagnostic
+Read,G34y100,chronic myocardial ischaemia,res30: Ischaemic heart disease,diagnostic
+Read,7925311,lima single anastomosis,res30: Ischaemic heart disease,diagnostic
+Read,7A54500,rotary blade angioplasty,res30: Ischaemic heart disease,diagnostic
+Read,G3...11,arteriosclerotic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,G33z600,new onset angina,res30: Ischaemic heart disease,diagnostic
+Read,G34y000,chronic coronary insufficiency,res30: Ischaemic heart disease,diagnostic
+Read,7925000,double anastomosis of mammary arteries to coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,G31yz00,other acute and subacute ischaemic heart disease nos,res30: Ischaemic heart disease,diagnostic
+Read,9Ob3.00,Coronary heart disease monitoring 1st letter,res30: Ischaemic heart disease,diagnostic
+Read,G33z.00,angina pectoris nos,res30: Ischaemic heart disease,diagnostic
+Read,G31..00,other acute and subacute ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,3234,ecg:posterior/inferior infarct,res30: Ischaemic heart disease,diagnostic
+Read,3222,ecg:shows myocardial ischaemia,res30: Ischaemic heart disease,diagnostic
+Read,3233,ecg: antero-septal infarct.,res30: Ischaemic heart disease,diagnostic
+Read,G341.11,Cardiac aneurysm,res30: Ischaemic heart disease,diagnostic
+Read,G330z00,angina decubitus nos,res30: Ischaemic heart disease,diagnostic
+Read,G30y000,acute atrial infarction,res30: Ischaemic heart disease,diagnostic
+Read,7929100,percut transluminal coronary thrombolysis with streptokinase,res30: Ischaemic heart disease,diagnostic
+Read,G33zz00,angina pectoris nos,res30: Ischaemic heart disease,diagnostic
+Read,G34..00,other chronic ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,G30X.00,acute transmural myocardial infarction of unspecif site,res30: Ischaemic heart disease,diagnostic
+Read,662K300,angina control - worsening,res30: Ischaemic heart disease,diagnostic
+Read,7925.11,creation of bypass from mammary artery to coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,G303.00,acute inferoposterior infarction,res30: Ischaemic heart disease,diagnostic
+Read,G344.00,silent myocardial ischaemia,res30: Ischaemic heart disease,diagnostic
+Read,G366.00,"thrombosis atrium,auric append&vent/curr comp foll acute mi",res30: Ischaemic heart disease,diagnostic
+Read,792Dz00,other bypass of coronary artery nos,res30: Ischaemic heart disease,diagnostic
+Read,G30B.00,acute posterolateral myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,G309.00,acute q-wave infarct,res30: Ischaemic heart disease,diagnostic
+Read,G5...00,other forms of heart disease,res30: Ischaemic heart disease,diagnostic
+Read,7925100,double implant of mammary arteries into coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,G30..13,cardiac rupture following myocardial infarction (mi),res30: Ischaemic heart disease,diagnostic
+Read,1J61.00,suspected ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,7922.11,allograft bypass of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,7922,allograft replacement of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,7924200,revision of bypass for three coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,14AA.00,h/o: heart disease nos,res30: Ischaemic heart disease,diagnostic
+Read,G38..00,postoperative myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,G33z400,ischaemic chest pain,res30: Ischaemic heart disease,diagnostic
+Read,14A3.00,h/o: myocardial infarct <60,res30: Ischaemic heart disease,diagnostic
+Read,G34y.00,other specified chronic ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,32E4.00,ecg: s-t depression,res30: Ischaemic heart disease,diagnostic
+Read,7928100,percut translum balloon angioplasty mult coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,9Ob5.00,Coronary heart disease monitoring 3rd letter,res30: Ischaemic heart disease,diagnostic
+Read,G311300,refractory angina,res30: Ischaemic heart disease,diagnostic
+Read,9Ob4.00,Coronary heart disease monitoring 2nd letter,res30: Ischaemic heart disease,diagnostic
+Read,5533,angiocardiography abnormal,res30: Ischaemic heart disease,diagnostic
+Read,G30y.00,other acute myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,792D.00,other bypass of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,32B..00,ecg: q wave,res30: Ischaemic heart disease,diagnostic
+Read,G501.00,post infarction pericarditis,res30: Ischaemic heart disease,diagnostic
+Read,9Ob0.00,Attends coronary heart disease monitoring,res30: Ischaemic heart disease,diagnostic
+Read,322Z.00,ecg: myocardial ischaemia nos,res30: Ischaemic heart disease,diagnostic
+Read,9Ob1.00,Refuses coronary heart disease monitoring,res30: Ischaemic heart disease,diagnostic
+Read,G384.00,postoperative subendocardial myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,G36..00,certain current complication follow acute myocardial infarct,res30: Ischaemic heart disease,diagnostic
+Read,G34yz00,other specified chronic ischaemic heart disease nos,res30: Ischaemic heart disease,diagnostic
+Read,8F90.00,Cardiac rehabilitation - phase 1,res30: Ischaemic heart disease,diagnostic
+Read,G5y..00,other specified heart disease,res30: Ischaemic heart disease,diagnostic
+Read,7923.11,prosthetic bypass of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,9Ob6.00,Coronary heart disease monitoring verbal invitation,res30: Ischaemic heart disease,diagnostic
+Read,G342.00,atherosclerotic cardiovascular disease,res30: Ischaemic heart disease,diagnostic
+Read,G311.00,preinfarction syndrome,res30: Ischaemic heart disease,diagnostic
+Read,7925y00,connection of mammary artery to coronary artery os,res30: Ischaemic heart disease,diagnostic
+Read,G332.00,coronary artery spasm,res30: Ischaemic heart disease,diagnostic
+Read,7925,connection of mammary artery to coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,G341z00,Aneurysm of heart NOS,res30: Ischaemic heart disease,diagnostic
+Read,3232,ecg: old myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,9Ob8.00,Coronary heart disease monitoring check done,res30: Ischaemic heart disease,diagnostic
+Read,8F91.00,Cardiac rehabilitation - phase 2,res30: Ischaemic heart disease,diagnostic
+Read,G351.00,subsequent myocardial infarction of inferior wall,res30: Ischaemic heart disease,diagnostic
+Read,G31y200,subendocardial ischaemia,res30: Ischaemic heart disease,diagnostic
+Read,Gyu3000,[x]other forms of angina pectoris,res30: Ischaemic heart disease,diagnostic
+Read,G311.12,impending infarction,res30: Ischaemic heart disease,diagnostic
+Read,7928y00,transluminal balloon angioplasty of coronary artery os,res30: Ischaemic heart disease,diagnostic
+Read,7929111,percut translum coronary thrombolytic therapy- streptokinase,res30: Ischaemic heart disease,diagnostic
+Read,14A4.00,h/o: myocardial infarct >60,res30: Ischaemic heart disease,diagnostic
+Read,G301000,acute anteroapical infarction,res30: Ischaemic heart disease,diagnostic
+Read,G30y200,acute septal infarction,res30: Ischaemic heart disease,diagnostic
+Read,8F92.00,Cardiac rehabilitation - phase 3,res30: Ischaemic heart disease,diagnostic
+Read,G5yyz00,Other ill-defined heart disease NOS,res30: Ischaemic heart disease,diagnostic
+Read,32BZ.00,ecg: q wave nos,res30: Ischaemic heart disease,diagnostic
+Read,793G.00,perc translumin balloon angioplasty stenting coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,7928200,percut translum balloon angioplasty bypass graft coronary a,res30: Ischaemic heart disease,diagnostic
+Read,7924000,revision of bypass for one coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,8B27.00,antianginal therapy,res30: Ischaemic heart disease,diagnostic
+Read,7921300,autograft replacement of four of more coronary arteries nec,res30: Ischaemic heart disease,diagnostic
+Read,7922200,allograft replacement of three coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,7921000,autograft replacement of one coronary artery nec,res30: Ischaemic heart disease,diagnostic
+Read,44MH.00,Plasma troponin T level,res30: Ischaemic heart disease,diagnostic
+Read,7A54700,percutaneous transluminal thrombolysis of artery,res30: Ischaemic heart disease,diagnostic
+Read,G350.00,subsequent myocardial infarction of anterior wall,res30: Ischaemic heart disease,diagnostic
+Read,7922300,allograft replacement of four or more coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,14AL.00,h/o: treatment for ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,Gyu3.00,[x]ischaemic heart diseases,res30: Ischaemic heart disease,diagnostic
+Read,Gyu3300,[x]other forms of chronic ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,G35X.00,subsequent myocardial infarction of unspecified site,res30: Ischaemic heart disease,diagnostic
+Read,G30yz00,other acute myocardial infarction nos,res30: Ischaemic heart disease,diagnostic
+Read,G380.00,postoperative transmural myocardial infarction anterior wall,res30: Ischaemic heart disease,diagnostic
+Read,8F93.00,Cardiac rehabilitation - phase 4,res30: Ischaemic heart disease,diagnostic
+Read,32B2.00,ecg: q wave abnormal,res30: Ischaemic heart disease,diagnostic
+Read,G381.00,postoperative transmural myocardial infarction inferior wall,res30: Ischaemic heart disease,diagnostic
+Read,7920z00,saphenous vein graft replacement coronary artery nos,res30: Ischaemic heart disease,diagnostic
+Read,66f1.00,Cardiovascular disease interim monitoring,res30: Ischaemic heart disease,diagnostic
+Read,9Ob2.00,Coronary heart disease monitoring default,res30: Ischaemic heart disease,diagnostic
+Read,7922z00,allograft replacement of coronary artery nos,res30: Ischaemic heart disease,diagnostic
+Read,7925300,single anastomosis of mammary artery to coronary artery nec,res30: Ischaemic heart disease,diagnostic
+Read,44HJ.00,Plasma creatinine phosphokinase MB isoenzyme level,res30: Ischaemic heart disease,diagnostic
+Read,14AH.00,h/o: myocardial infarction in last year,res30: Ischaemic heart disease,diagnostic
+Read,7923200,prosthetic replacement of three coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,792C.00,other replacement of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,G33z100,stenocardia,res30: Ischaemic heart disease,diagnostic
+Read,G311z00,preinfarction syndrome nos,res30: Ischaemic heart disease,diagnostic
+Read,G363.00,ruptur cardiac wall w'out haemopericard/cur comp fol ac mi,res30: Ischaemic heart disease,diagnostic
+Read,3235,ecg: subendocardial infarct,res30: Ischaemic heart disease,diagnostic
+Read,G311011,mi - myocardial infarction aborted,res30: Ischaemic heart disease,diagnostic
+Read,323Z.00,ecg: myocardial infarct nos,res30: Ischaemic heart disease,diagnostic
+Read,14AJ.00,h/o: angina in last year,res30: Ischaemic heart disease,diagnostic
+Read,7925z00,connection of mammary artery to coronary artery nos,res30: Ischaemic heart disease,diagnostic
+Read,5C11.00,radionuclide heart study abnormal,res30: Ischaemic heart disease,diagnostic
+Read,7922100,allograft replacement of two coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,7924z00,revision of bypass for coronary artery nos,res30: Ischaemic heart disease,diagnostic
+Read,7A6H300,prosthetic graft patch angioplasty,res30: Ischaemic heart disease,diagnostic
+Read,7926300,single implantation thoracic artery into coronary artery nec,res30: Ischaemic heart disease,diagnostic
+Read,G364.00,ruptur chordae tendinae/curr comp fol acute myocard infarct,res30: Ischaemic heart disease,diagnostic
+Read,7922y00,other specified allograft replacement of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,7A56000,percutaneous transluminal arterial thrombolysis reconstruct,res30: Ischaemic heart disease,diagnostic
+Read,44H3000,cardiac enzymes abnormal - first set,res30: Ischaemic heart disease,diagnostic
+Read,793G000,perc translum ball angio insert 1-2 drug elut stents cor art,res30: Ischaemic heart disease,diagnostic
+Read,G306.00,true posterior myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,7921y00,other autograft replacement of coronary artery os,res30: Ischaemic heart disease,diagnostic
+Read,G311000,myocardial infarction aborted,res30: Ischaemic heart disease,diagnostic
+Read,793Gz00,perc translum balloon angioplasty stenting coronary art nos,res30: Ischaemic heart disease,diagnostic
+Read,G30y100,acute papillary muscle infarction,res30: Ischaemic heart disease,diagnostic
+Read,889A.00,diab mellit insulin-glucose infus acute myocardial infarct,res30: Ischaemic heart disease,diagnostic
+Read,32B3.00,ecg: q wave pathological,res30: Ischaemic heart disease,diagnostic
+Read,7923100,prosthetic replacement of two coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,792Cz00,replacement of coronary artery nos,res30: Ischaemic heart disease,diagnostic
+Read,8L41.00,coronary angioplasty planned,res30: Ischaemic heart disease,diagnostic
+Read,7A54800,percutaneous transluminal atherectomy,res30: Ischaemic heart disease,diagnostic
+Read,G31y100,microinfarction of heart,res30: Ischaemic heart disease,diagnostic
+Read,7924100,revision of bypass for two coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,7A6H400,percutaneous transluminal angioplasty of vascular graft,res30: Ischaemic heart disease,diagnostic
+Read,G341100,Other cardiac wall aneurysm,res30: Ischaemic heart disease,diagnostic
+Read,7925400,single implantation of mammary artery into coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,7923300,prosthetic replacement of four or more coronary arteries,res30: Ischaemic heart disease,diagnostic
+Read,7925312,rima single anastomosis,res30: Ischaemic heart disease,diagnostic
+Read,9Ob9.00,Coronary heart disease monitoring telephone invite,res30: Ischaemic heart disease,diagnostic
+Read,Gyu5.00,[x]other forms of heart disease,res30: Ischaemic heart disease,diagnostic
+Read,Gyu3200,[x]other forms of acute ischaemic heart disease,res30: Ischaemic heart disease,diagnostic
+Read,G38z.00,"postoperative myocardial infarction, unspecified",res30: Ischaemic heart disease,diagnostic
+Read,7922000,allograft replacement of one coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,G365.00,rupture papillary muscle/curr comp fol acute myocard infarct,res30: Ischaemic heart disease,diagnostic
+Read,SP00300,mechanical complication of coronary bypass,res30: Ischaemic heart disease,diagnostic
+Read,792Cy00,other specified replacement of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,G353.00,subsequent myocardial infarction of other sites,res30: Ischaemic heart disease,diagnostic
+Read,7A6S300,percutaneous transluminal venous thrombolysis nec,res30: Ischaemic heart disease,diagnostic
+Read,7926z00,connection of other thoracic artery to coronary artery nos,res30: Ischaemic heart disease,diagnostic
+Read,7929600,percutaneous transluminal atherectomy of coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,7A56400,percutaneous transluminal balloon angioplasty of artery,res30: Ischaemic heart disease,diagnostic
+Read,793G200,perc translum balloon angioplasty insert 1-2 stents cor art,res30: Ischaemic heart disease,diagnostic
+Read,7928300,percut translum cutting balloon angioplasty coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,793G300,percutaneous cor balloon angiop 3 more stents cor art nec,res30: Ischaemic heart disease,diagnostic
+Read,793G100,perc tran ball angio ins 3 or more drug elut stents cor art,res30: Ischaemic heart disease,diagnostic
+Read,7923000,prosthetic replacement of one coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,8LF..00,coronary angiography planned,res30: Ischaemic heart disease,diagnostic
+Read,8L40.00,coronary artery bypass graft operation planned,res30: Ischaemic heart disease,diagnostic
+Read,7926,connection of other thoracic artery to coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,793Gy00,os perc translumina balloon angioplast stenting coronary art,res30: Ischaemic heart disease,diagnostic
+Read,8H2V.00,admit ischaemic heart disease emergency,res30: Ischaemic heart disease,diagnostic
+Read,Gyu7000,[x]atherosclerosis of other arteries,res30: Ischaemic heart disease,diagnostic
+Read,44p2.00,cardiac troponin positive,res30: Ischaemic heart disease,diagnostic
+Read,Gyu3400,[x]acute transmural myocardial infarction of unspecif site,res30: Ischaemic heart disease,diagnostic
+Read,14AT.00,history of myocardial infarction,res30: Ischaemic heart disease,diagnostic
+Read,7924y00,other specified revision of bypass for coronary artery,res30: Ischaemic heart disease,diagnostic
+Read,Gyu3600,[x]subsequent myocardial infarction of unspecified site,res30: Ischaemic heart disease,diagnostic
+Read,8CMP.00,coronary heart disease care plan,res30: Ischaemic heart disease,diagnostic
+Read,187..00,frequency of angina,res30: Ischaemic heart disease,diagnostic
+Read,14AW.00,h/o acute coronary syndrome,res30: Ischaemic heart disease,diagnostic
+Read,G39..00,coronary microvascular disease,res30: Ischaemic heart disease,diagnostic
+Read,8IEY.00,referral to angina plan self-management programme declined,res30: Ischaemic heart disease,diagnostic
+Read,G383.00,postoperative transmural myocardial infarction unspec site,res30: Ischaemic heart disease,diagnostic
+Read,8T04.00,referral to angina plan self-management programme,res30: Ischaemic heart disease,diagnostic
+Read,661M000,angina self-management plan agreed,res30: Ischaemic heart disease,diagnostic

@@ -1,0 +1,35 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,138F.00,Anaerobic exercise 3+ times/wk,res47: Physical activity,test
+Read,138Q.00,Aerobic exercise four times a week,res47: Physical activity,test
+Read,138A.00,Aerobic exercise 2 times/week,res47: Physical activity,test
+Read,1389.00,Aerobic exercise 1 time/week,res47: Physical activity,test
+Read,138V.00,30 minutes a day of at least moderate intensity walk >=5week,res47: Physical activity,test
+Read,1381.00,Exercise physically impossible,res47: Physical activity,test
+Read,1388.00,Aerobic exercise 0 times/week,res47: Physical activity,test
+Read,138G.00,Attends exercise classes,res47: Physical activity,test
+Read,138B.00,Aerobic exercise 3+ times/week,res47: Physical activity,test
+Read,138R.00,Aerobic exercise five times a week,res47: Physical activity,test
+Read,138D.00,Anaerobic exercise 1 time/week,res47: Physical activity,test
+Read,138C.00,Anaerobic exercise 0 times/wk,res47: Physical activity,test
+Read,138E.00,Anaerobic exercise 2 times/wk,res47: Physical activity,test
+Read,138P.00,Aerobic exercise three times a week,res47: Physical activity,test
+Read,1384.00,Enjoys moderate exercise,res47: Physical activity,test
+Read,1383.00,Enjoys light exercise,res47: Physical activity,test
+Read,138H.00,Enjoys intermediate exercise,res47: Physical activity,test
+Read,1385.00,Enjoys heavy exercise,res47: Physical activity,test
+Read,138S.00,Declined referral to physical exercise programme,res47: Physical activity,test
+Read,1382.00,Avoids even trivial exercise,res47: Physical activity,test
+Read,1386.00,Competitive athlete,res47: Physical activity,test
+Read,138Y.00,GPPAQ physical activity index: moderately inactive,res47: Physical activity,test
+Read,138a.00,GPPAQ physical activity index: moderately active,res47: Physical activity,test
+Read,138I.00,FITT activity level 0; no mod/vig activity of 20 mins duratn,res47: Physical activity,test
+Read,138T.00,30 mins/day of at least mod intensty physc activity >=5 week,res47: Physical activity,test
+Read,138N.00,FITT activity level 5; 12+ occas of vig activity in 4 weeks,res47: Physical activity,test
+Read,138M.00,FITT activity level 4; 12+ occas of mod/vig activit in 4 wks,res47: Physical activity,test
+Read,138K.00,FITT activity level 2; 5-11 occas of mod/vig activt in 4 wks,res47: Physical activity,test
+Read,138O.00,Takes inadequate exercise,res47: Physical activity,test
+Read,138J.00,FITT activity level 1; 1-4 occas of mod/vig activit in 4 wks,res47: Physical activity,test
+Read,138W.00,Less than 30 mins/day of at least mod int physc act >=5 week,res47: Physical activity,test
+Read,138L.00,FITT activity level 3; 12+ occas of mod activity in 4 weeks,res47: Physical activity,test
+Read,138X.00,GPPAQ physical activity index: inactive,res47: Physical activity,test
+Read,138b.00,GPPAQ physical activity index: active,res47: Physical activity,test

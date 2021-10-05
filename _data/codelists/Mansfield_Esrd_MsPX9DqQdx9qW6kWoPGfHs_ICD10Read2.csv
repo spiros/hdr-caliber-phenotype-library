@@ -1,0 +1,147 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,N18.5,"chronic kidney disease, stage 5",res30: ESRD,diagnostic
+ICD-10,Z94.0,kidney transplant status,res30: ESRD,diagnostic
+ICD-10,I77.0,"arteriovenous fistula, acquired",res30: ESRD,diagnostic
+ICD-10,Z49.2,other dialysis,res30: ESRD,diagnostic
+ICD-10,Y62.2,during kidney dialysis or other perfusion,res30: ESRD,diagnostic
+ICD-10,T86.1,kidney transplant failure and rejection,res30: ESRD,diagnostic
+ICD-10,T82.4,mechanical complication of vascular dialysis catheter,res30: ESRD,diagnostic
+ICD-10,Y60.2,during kidney dialysis or other perfusion,res30: ESRD,diagnostic
+ICD-10,Y61.2,during kidney dialysis or other perfusion,res30: ESRD,diagnostic
+ICD-10,Z49.1,extracorporeal dialysis,res30: ESRD,diagnostic
+ICD-10,Z99.2,dependence on renal dialysis,res30: ESRD,diagnostic
+ICD-10,Z49.0,preparatory care for dialysis,res30: ESRD,diagnostic
+ICD-10,Z49,care involving dialysis,res30: ESRD,diagnostic
+ICD-10,Y84.1,kidney dialysis,res30: ESRD,diagnostic
+ICD-10,N16.5,renal tubulo-interstitial disorders in transplant rejection,res30: ESRD,diagnostic
+Read,7B00400,allotransplantation kidney from cadaver  heart non-beating,res30: ESRD,diagnostic
+Read,Z1A1.00,peritoneal dialysis training,res30: ESRD,diagnostic
+Read,ZV56.00,[v]aftercare involving intermittent dialysis,res30: ESRD,diagnostic
+Read,7A61100,repair of acquired arteriovenous fistula,res30: ESRD,diagnostic
+Read,7L1C000,insertion of temporary peritoneal dialysis catheter,res30: ESRD,diagnostic
+Read,7L1A.11,dialysis for renal failure,res30: ESRD,diagnostic
+Read,7A60111,creation of radial-cephalic fistula,res30: ESRD,diagnostic
+Read,K0D..00,end-stage renal disease,res30: ESRD,diagnostic
+Read,G72D100,aneurysm of needle site of dialysis arteriovenous fistula,res30: ESRD,diagnostic
+Read,G760.00,acquired arteriovenous fistula,res30: ESRD,diagnostic
+Read,7L1A011,thomas intravascular shunt for dialysis,res30: ESRD,diagnostic
+Read,7B00z00,transplantation of kidney nos,res30: ESRD,diagnostic
+Read,Z919.00,care of haemodialysis equipment,res30: ESRD,diagnostic
+Read,7A60.00,arteriovenous shunt,res30: ESRD,diagnostic
+Read,Z919300,reversing haemodialysis lines,res30: ESRD,diagnostic
+Read,7A60100,creation of arteriovenous fistula nec,res30: ESRD,diagnostic
+Read,7L1A100,peritoneal dialysis,res30: ESRD,diagnostic
+Read,7B00.00,transplantation of kidney,res30: ESRD,diagnostic
+Read,7L1A200,haemodialysis nec,res30: ESRD,diagnostic
+Read,7B00100,transplantation of kidney from live donor,res30: ESRD,diagnostic
+Read,K050.00,end stage renal failure,res30: ESRD,diagnostic
+Read,ZV42000,[v]kidney transplanted,res30: ESRD,diagnostic
+Read,7L1B100,removal of ambulatory peritoneal dialysis catheter,res30: ESRD,diagnostic
+Read,7L1B000,insertion of ambulatory peritoneal dialysis catheter,res30: ESRD,diagnostic
+Read,SP08300,kidney transplant failure and rejection,res30: ESRD,diagnostic
+Read,7A61400,ligation of acquired arteriovenous fistula,res30: ESRD,diagnostic
+Read,8L50.00,renal transplant planned,res30: ESRD,diagnostic
+Read,ZV45100,[v]renal dialysis status,res30: ESRD,diagnostic
+Read,1Z14.00,chronic kidney disease stage 5,res30: ESRD,diagnostic
+Read,TB00111,"renal transplant with complication, without blame",res30: ESRD,diagnostic
+Read,14V2.00,h/o: renal dialysis,res30: ESRD,diagnostic
+Read,7L1A000,renal dialysis,res30: ESRD,diagnostic
+Read,7A60112,creation of brachial-cephalic fistula,res30: ESRD,diagnostic
+Read,7A60300,removal of infected arteriovenous shunt,res30: ESRD,diagnostic
+Read,7B00200,transplantation of kidney from cadaver,res30: ESRD,diagnostic
+Read,7L1A500,continuous ambulatory peritoneal dialysis,res30: ESRD,diagnostic
+Read,7B06300,exploration of renal transplant,res30: ESRD,diagnostic
+Read,TB11.00,"kidney dialysis with complication, without blame",res30: ESRD,diagnostic
+Read,TA22.00,failure of sterile precautions during perfusion,res30: ESRD,diagnostic
+Read,G72C.00,ruptured aneurysm of dialysis vascular access,res30: ESRD,diagnostic
+Read,7L1A.00,compensation for renal failure,res30: ESRD,diagnostic
+Read,7L1B.11,placement ambulatory dialysis apparatus - compens renal fail,res30: ESRD,diagnostic
+Read,7L1Ay00,other specified compensation for renal failure,res30: ESRD,diagnostic
+Read,ZV56011,[v]aftercare involving renal dialysis nos,res30: ESRD,diagnostic
+Read,SP05613,[x] peritoneal dialysis associated peritonitis,res30: ESRD,diagnostic
+Read,ZV56y11,[v]aftercare involving peritoneal dialysis,res30: ESRD,diagnostic
+Read,14V2.11,h/o: kidney dialysis,res30: ESRD,diagnostic
+Read,14S2.00,h/o: kidney recipient,res30: ESRD,diagnostic
+Read,7B01500,transplant nephrectomy,res30: ESRD,diagnostic
+Read,K0B5.00,renal tubulo-interstitial disordrs in transplant rejectn,res30: ESRD,diagnostic
+Read,7A60600,creation of graft fistula for dialysis,res30: ESRD,diagnostic
+Read,SP01500,mechanical complication of dialysis catheter,res30: ESRD,diagnostic
+Read,SP01700,mechanical complication of arterio-venous surgical fistula,res30: ESRD,diagnostic
+Read,TB00100,"kidney transplant with complication, without blame",res30: ESRD,diagnostic
+Read,SP07G00,stenosis of arteriovenous dialysis fistula,res30: ESRD,diagnostic
+Read,U612200,[x]failure sterile precautions dur kidney dialys/other perf,res30: ESRD,diagnostic
+Read,ZV56100,[v]preparatory care for dialysis,res30: ESRD,diagnostic
+Read,K05..12,end stage renal failure,res30: ESRD,diagnostic
+Read,ZVu3G00,[x]other dialysis,res30: ESRD,diagnostic
+Read,7L1By00,placement ambulatory apparatus- compensate renal failure os,res30: ESRD,diagnostic
+Read,7L1B.00,placement ambulatory apparatus compensation renal failure,res30: ESRD,diagnostic
+Read,7A60z00,arteriovenous shunt nos,res30: ESRD,diagnostic
+Read,G72D200,aneurysm of anastomotic site of dialysis av fistula,res30: ESRD,diagnostic
+Read,7A60000,insertion of arteriovenous prosthesis,res30: ESRD,diagnostic
+Read,7A60500,thrombectomy of arteriovenous fistula,res30: ESRD,diagnostic
+Read,TA22000,failure of sterile precautions during kidney dialysis,res30: ESRD,diagnostic
+Read,7A60200,attention to arteriovenous shunt,res30: ESRD,diagnostic
+Read,ZV56y00,[v]other specified aftercare involving intermittent dialysis,res30: ESRD,diagnostic
+Read,TB11.11,"renal dialysis with complication, without blame",res30: ESRD,diagnostic
+Read,Z91A.00,peritoneal dialysis bag procedure,res30: ESRD,diagnostic
+Read,7L1Az00,compensation for renal failure nos,res30: ESRD,diagnostic
+Read,7L1A600,peritoneal dialysis nec,res30: ESRD,diagnostic
+Read,7B00111,allotransplantation of kidney from live donor,res30: ESRD,diagnostic
+Read,7A60y00,other specified arteriovenous shunt,res30: ESRD,diagnostic
+Read,7L1Cz00,placement other apparatus- compensate for renal failure nos,res30: ESRD,diagnostic
+Read,SP08011,det.ren.func.after ren.transpl,res30: ESRD,diagnostic
+Read,7B0F100,"pre-transplantation of kidney work-up, recipient",res30: ESRD,diagnostic
+Read,7B00y00,other specified transplantation of kidney,res30: ESRD,diagnostic
+Read,7L1C.00,placement other apparatus for compensation for renal failure,res30: ESRD,diagnostic
+Read,7L1A300,haemofiltration,res30: ESRD,diagnostic
+Read,7B01511,excision of rejected transplanted kidney,res30: ESRD,diagnostic
+Read,7B00300,allotransplantation of kidney from cadaver  heart-beating,res30: ESRD,diagnostic
+Read,Z1A2.00,haemodialysis training,res30: ESRD,diagnostic
+Read,Z919100,priming haemodialysis lines,res30: ESRD,diagnostic
+Read,4N2..00,dialysis fluid glucose level,res30: ESRD,diagnostic
+Read,9Ot5.00,predicted stage chronic kidney disease,res30: ESRD,diagnostic
+Read,7L1A400,automated peritoneal dialysis,res30: ESRD,diagnostic
+Read,1Z1K.11,ckd stage 5 with proteinuria,res30: ESRD,diagnostic
+Read,7B0F.00,interventions associated with transplantation of kidney,res30: ESRD,diagnostic
+Read,1Z1K.00,chronic kidney disease stage 5 with proteinuria,res30: ESRD,diagnostic
+Read,SP08N00,unexplained episode of renal transplant dysfunction,res30: ESRD,diagnostic
+Read,1Z1L.00,chronic kidney disease stage 5 without proteinuria,res30: ESRD,diagnostic
+Read,SP0G.00,anaphylactoid reaction due to haemodialysis,res30: ESRD,diagnostic
+Read,4I29.00,peritoneal dialysis sample,res30: ESRD,diagnostic
+Read,TA02000,"accid cut,puncture,perf,h'ge - kidney dialysis",res30: ESRD,diagnostic
+Read,7A60400,banding of arteriovenous fistula,res30: ESRD,diagnostic
+Read,7A61900,ligation of arteriovenous dialysis fistula,res30: ESRD,diagnostic
+Read,1Z1L.11,ckd stage 5 without proteinuria,res30: ESRD,diagnostic
+Read,Gy51.00,haemorrhage of dialysis arteriovenous fistula,res30: ESRD,diagnostic
+Read,SP08J00,chronic rejection of renal transplant,res30: ESRD,diagnostic
+Read,SP08R00,renal transplant rejection,res30: ESRD,diagnostic
+Read,7B00600,xenograft renal transplant,res30: ESRD,diagnostic
+Read,SP08W00,vascular complication of renal transplant,res30: ESRD,diagnostic
+Read,Gy21.00,thrombosis of dialysis arteriovenous fistula,res30: ESRD,diagnostic
+Read,Gy31.00,occlusion of dialysis arteriovenous fistula,res30: ESRD,diagnostic
+Read,Gy1..00,stenosis of dialysis vascular access,res30: ESRD,diagnostic
+Read,7A61A00,ligation of arteriovenous dialysis graft,res30: ESRD,diagnostic
+Read,67P4100,discussion about kidney transplantation,res30: ESRD,diagnostic
+Read,Gy41.00,infection of dialysis arteriovenous fistula,res30: ESRD,diagnostic
+Read,G72D.00,aneurysm of dialysis arteriovenous fistula,res30: ESRD,diagnostic
+Read,SP07N00,arteriovenous fistula thrombosis,res30: ESRD,diagnostic
+Read,Gy3..00,occlusion of dialysis vascular access,res30: ESRD,diagnostic
+Read,SP0E.00,disorders associated with peritoneal dialysis,res30: ESRD,diagnostic
+Read,7L1Cy00,placement other apparatus- compensate for renal failure os,res30: ESRD,diagnostic
+Read,Gy40.00,infection of dialysis arteriovenous graft,res30: ESRD,diagnostic
+Read,Gy60.00,rupture of dialysis arteriovenous graft,res30: ESRD,diagnostic
+Read,SP06B00,continuous ambulatory peritoneal dialysis associated perit,res30: ESRD,diagnostic
+Read,4N0..00,dialysis fluid urea level,res30: ESRD,diagnostic
+Read,7B00212,cadaveric renal transplant,res30: ESRD,diagnostic
+Read,7A61111,ligation of acquired arteriovenous fistula,res30: ESRD,diagnostic
+Read,Kyu1C00,[x]renal tubulo-interstitial disorders/transplant rejection,res30: ESRD,diagnostic
+Read,7B00211,allotransplantation of kidney from cadaver,res30: ESRD,diagnostic
+Read,Z1A..00,dialysis training,res30: ESRD,diagnostic
+Read,ZV56000,[v]aftercare involving extracorporeal dialysis,res30: ESRD,diagnostic
+Read,7L1B200,flushing of peritoneal dialysis catheter,res30: ESRD,diagnostic
+Read,K055.00,chronic kidney disease stage 5,res30: ESRD,diagnostic
+Read,7B0Fz00,interventions associated with transplantation of kidney nos,res30: ESRD,diagnostic
+Read,7B0F300,"post-transplantation of kidney examination, recipient",res30: ESRD,diagnostic
+Read,7B0Fy00,os interventions associated with transplantation of kidney,res30: ESRD,diagnostic
+Read,9b8K.00,transplantation surgery,res30: ESRD,diagnostic
+Read,SP08T00,urological complication of renal transplant,res30: ESRD,diagnostic

@@ -1,0 +1,131 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,J13y.00,Unspecified peptic ulcer,res50: peptic ulcer disease,diagnostic
+Read,J110300,Acute gastric ulcer with haemorrhage and perforation,res50: peptic ulcer disease,diagnostic
+Read,J110200,Acute gastric ulcer with perforation,res50: peptic ulcer disease,diagnostic
+Read,J110111,Bleeding acute gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,7627100,Suture of duodenal ulcer not elsewhere classified,res50: peptic ulcer disease,diagnostic
+Read,761D600,Endoscopic injection haemostasis of gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,14C1.12,H/O: gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,14C1.00,H/O: peptic ulcer,res50: peptic ulcer disease,diagnostic
+Read,14C1.11,H/O: duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,7612500,Resection of gastric ulcer by cautery,res50: peptic ulcer disease,diagnostic
+Read,7612111,Balfour excision of gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,761D500,Endoscopic injection haemostasis of duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,7627000,Closure of perforated duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,761J100,Closure of gastric ulcer NEC,res50: peptic ulcer disease,diagnostic
+Read,761J.00,Operations on gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,1956,Peptic ulcer symptoms,res50: peptic ulcer disease,diagnostic
+Read,761J000,Closure of perforated gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,761J.11,Stomach ulcer operations,res50: peptic ulcer disease,diagnostic
+Read,761Jz00,Operation on gastric ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,761Jy00,Other specified operation on gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,761J111,Suture of ulcer of stomach NEC,res50: peptic ulcer disease,diagnostic
+Read,J110100,Acute gastric ulcer with haemorrhage,res50: peptic ulcer disease,diagnostic
+Read,7627,Operations on duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,7627200,Oversew of blood vessel of duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,7627y00,Other specified operation on duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J110000,Acute gastric ulcer without mention of complication,res50: peptic ulcer disease,diagnostic
+Read,J11..12,Pyloric ulcer,res50: peptic ulcer disease,diagnostic
+Read,7627z00,Operation on duodenal ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J11..11,Prepyloric ulcer,res50: peptic ulcer disease,diagnostic
+Read,J11..00,Gastric ulcer - (GU),res50: peptic ulcer disease,diagnostic
+Read,J121211,Perforated chronic duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J111y00,Chronic gastric ulcer unspecified,res50: peptic ulcer disease,diagnostic
+Read,J110z00,Acute gastric ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J110.00,Acute gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,J110y00,Acute gastric ulcer unspecified,res50: peptic ulcer disease,diagnostic
+Read,J111.00,Chronic gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,J111000,Chronic gastric ulcer without mention of complication,res50: peptic ulcer disease,diagnostic
+Read,J111300,Chronic gastric ulcer with haemorrhage and perforation,res50: peptic ulcer disease,diagnostic
+Read,J111100,Chronic gastric ulcer with haemorrhage,res50: peptic ulcer disease,diagnostic
+Read,J111211,Perforated chronic gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,J111111,Bleeding chronic gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,J111200,Chronic gastric ulcer with perforation,res50: peptic ulcer disease,diagnostic
+Read,J121200,Chronic duodenal ulcer with perforation,res50: peptic ulcer disease,diagnostic
+Read,J11y400,Unspecified gastric ulcer with obstruction,res50: peptic ulcer disease,diagnostic
+Read,J112.00,Anti-platelet induced gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,J112z00,Anti-platelet induced gastric ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J111z00,Chronic gastric ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J102000,Peptic ulcer of oesophagus,res50: peptic ulcer disease,diagnostic
+Read,J113.00,Non steroidal anti inflammatory drug induced gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,J11y200,Unspecified gastric ulcer with perforation,res50: peptic ulcer disease,diagnostic
+Read,J11y000,Unspecified gastric ulcer without mention of complication,res50: peptic ulcer disease,diagnostic
+Read,J11y.00,Unspecified gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,J111400,Chronic gastric ulcer with obstruction,res50: peptic ulcer disease,diagnostic
+Read,J11y100,Unspecified gastric ulcer with haemorrhage,res50: peptic ulcer disease,diagnostic
+Read,J121111,Bleeding chronic duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J120.00,Acute duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J11z.12,Multiple gastric ulcers,res50: peptic ulcer disease,diagnostic
+Read,J11yz00,Unspecified gastric ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J11yy00,Unspec gastric ulcer; unspec haemorrhage and/or perforation,res50: peptic ulcer disease,diagnostic
+Read,J121100,Chronic duodenal ulcer with haemorrhage,res50: peptic ulcer disease,diagnostic
+Read,J120300,Acute duodenal ulcer with haemorrhage and perforation,res50: peptic ulcer disease,diagnostic
+Read,J120000,Acute duodenal ulcer without mention of complication,res50: peptic ulcer disease,diagnostic
+Read,J120200,Acute duodenal ulcer with perforation,res50: peptic ulcer disease,diagnostic
+Read,J12..00,Duodenal ulcer - (DU),res50: peptic ulcer disease,diagnostic
+Read,J120y00,Acute duodenal ulcer unspecified,res50: peptic ulcer disease,diagnostic
+Read,J120400,Acute duodenal ulcer with obstruction,res50: peptic ulcer disease,diagnostic
+Read,J121000,Chronic duodenal ulcer without mention of complication,res50: peptic ulcer disease,diagnostic
+Read,J120z00,Acute duodenal ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J121.00,Chronic duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J12y000,Unspecified duodenal ulcer without mention of complication,res50: peptic ulcer disease,diagnostic
+Read,J121z00,Chronic duodenal ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J121y00,Chronic duodenal ulcer unspecified,res50: peptic ulcer disease,diagnostic
+Read,J120100,Acute duodenal ulcer with haemorrhage,res50: peptic ulcer disease,diagnostic
+Read,J121300,Chronic duodenal ulcer with haemorrhage and perforation,res50: peptic ulcer disease,diagnostic
+Read,J121400,Chronic duodenal ulcer with obstruction,res50: peptic ulcer disease,diagnostic
+Read,J12y.00,Unspecified duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J124.00,Recurrent duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J123.00,Duodenal erosion,res50: peptic ulcer disease,diagnostic
+Read,J122.00,Duodenal ulcer disease,res50: peptic ulcer disease,diagnostic
+Read,J11z.00,Gastric ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J125.00,Anti-platelet induced duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J126.00,Non steroidal anti inflammatory drug induced duodenal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J12y400,Unspecified duodenal ulcer with obstruction,res50: peptic ulcer disease,diagnostic
+Read,J12y200,Unspecified duodenal ulcer with perforation,res50: peptic ulcer disease,diagnostic
+Read,J12y100,Unspecified duodenal ulcer with haemorrhage,res50: peptic ulcer disease,diagnostic
+Read,J131y00,Chronic peptic ulcer unspecified,res50: peptic ulcer disease,diagnostic
+Read,J131200,Chronic peptic ulcer with perforation,res50: peptic ulcer disease,diagnostic
+Read,J12y300,Unspecified duodenal ulcer with haemorrhage and perforation,res50: peptic ulcer disease,diagnostic
+Read,J13..11,Stress ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J12z.00,Duodenal ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J13..00,Peptic ulcer - (PU) site unspecified,res50: peptic ulcer disease,diagnostic
+Read,J12yz00,Unspecified duodenal ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J12yy00,Unspec duodenal ulcer; unspec haemorrhage and/or perforation,res50: peptic ulcer disease,diagnostic
+Read,J131z00,Chronic peptic ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J131100,Chronic peptic ulcer with haemorrhage,res50: peptic ulcer disease,diagnostic
+Read,J130000,Acute peptic ulcer without mention of complication,res50: peptic ulcer disease,diagnostic
+Read,J130.00,Acute peptic ulcer,res50: peptic ulcer disease,diagnostic
+Read,J131000,Chronic peptic ulcer without mention of complication,res50: peptic ulcer disease,diagnostic
+Read,J130z00,Acute peptic ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J130300,Acute peptic ulcer with haemorrhage and perforation,res50: peptic ulcer disease,diagnostic
+Read,J130200,Acute peptic ulcer with perforation,res50: peptic ulcer disease,diagnostic
+Read,J130100,Acute peptic ulcer with haemorrhage,res50: peptic ulcer disease,diagnostic
+Read,J131.00,Chronic peptic ulcer,res50: peptic ulcer disease,diagnostic
+Read,J130y00,Acute peptic ulcer unspecified,res50: peptic ulcer disease,diagnostic
+Read,J13y100,Unspecified peptic ulcer with haemorrhage,res50: peptic ulcer disease,diagnostic
+Read,J131400,Chronic peptic ulcer with obstruction,res50: peptic ulcer disease,diagnostic
+Read,J13y000,Unspecified peptic ulcer without mention of complication,res50: peptic ulcer disease,diagnostic
+Read,J13y200,Unspecified peptic ulcer with perforation,res50: peptic ulcer disease,diagnostic
+Read,J13y300,Unspecified peptic ulcer with haemorrhage and perforation,res50: peptic ulcer disease,diagnostic
+Read,J13y400,Unspecified peptic ulcer with obstruction,res50: peptic ulcer disease,diagnostic
+Read,J14y.00,Unspecified gastrojejunal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J140.00,Acute gastrojejunal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J14..12,Gastrocolic ulcer,res50: peptic ulcer disease,diagnostic
+Read,J13z.00,Peptic ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J140100,Acute gastrojejunal ulcer with haemorrhage,res50: peptic ulcer disease,diagnostic
+Read,J14..15,Stomal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J141.00,Chronic gastrojejunal ulcer,res50: peptic ulcer disease,diagnostic
+Read,J14..00,Gastrojejunal ulcer (GJU),res50: peptic ulcer disease,diagnostic
+Read,J140300,Acute gastrojejunal ulcer with haemorrhage and perforation,res50: peptic ulcer disease,diagnostic
+Read,J140200,Acute gastrojejunal ulcer with perforation,res50: peptic ulcer disease,diagnostic
+Read,J140z00,Acute gastrojejunal ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J13yz00,Unspecified peptic ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J14y100,Unspecified gastrojejunal ulcer with haemorrhage,res50: peptic ulcer disease,diagnostic
+Read,ZV12711,[V]Personal history of peptic ulcer,res50: peptic ulcer disease,diagnostic
+Read,J14y200,Unspecified gastrojejunal ulcer with perforation,res50: peptic ulcer disease,diagnostic
+Read,J17y800,Healed gastric ulcer leaving a scar,res50: peptic ulcer disease,diagnostic
+Read,J14z.00,Gastrojejunal ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,J14yz00,Unspecified gastrojejunal ulcer NOS,res50: peptic ulcer disease,diagnostic
+Read,ZV12C00,[V] Personal history of gastric ulcer,res50: peptic ulcer disease,diagnostic
+Read,ZV12712,[V]Personal history of duodenal ulcer,res50: peptic ulcer disease,diagnostic

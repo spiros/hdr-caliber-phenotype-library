@@ -1,0 +1,10 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,66H..13,Rheumatoid arthrit. monitoring,res34: rheumatoid_arthritis_group4,diagnostic
+Read,N04..00,Rheumatoid arthritis and other inflammatory polyarthropathy,res34: rheumatoid_arthritis_group4,diagnostic
+Read,7P20300,Delivery of rehabilitation for rheumatoid arthritis,res34: rheumatoid_arthritis_group4,diagnostic
+Read,66HB000,Rheumatoid arthritis annual review,res34: rheumatoid_arthritis_group4,diagnostic
+Read,9hR1.00,Except rheumatoid arthritis qual indicator: informed dissent,res34: rheumatoid_arthritis_group4,diagnostic
+Read,9hR..00,Exception reporting: rheumatoid arthritis quality indicators,res34: rheumatoid_arthritis_group4,diagnostic
+Read,9hR0.00,Except rheumatoid arthritis quality indicator: pt unsuitable,res34: rheumatoid_arthritis_group4,diagnostic
+Read,N040P00,Seronegative rheumatoid arthritis,res34: rheumatoid_arthritis_group4,diagnostic
+Read,N04y300,Remitting seronegative symmetrical synovitis pitting oedema,res34: rheumatoid_arthritis_group4,diagnostic

@@ -1,0 +1,191 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G64z.00,Cerebral infarction NOS,res56: Cardiovascular Disease,diagnostic
+Read,G63..11,Infarction - precerebral,res56: Cardiovascular Disease,diagnostic
+Read,G574011,Cardiac arrest-ventricular fibrillation,res56: Cardiovascular Disease,diagnostic
+Read,G641.00,Cerebral embolism,res56: Cardiovascular Disease,diagnostic
+Read,G641000,Cerebral infarction due to embolism of cerebral arteries,res56: Cardiovascular Disease,diagnostic
+Read,G64..12,Infarction - cerebral,res56: Cardiovascular Disease,diagnostic
+Read,G63y100,Cerebral infarction due to embolism of precerebral arteries,res56: Cardiovascular Disease,diagnostic
+Read,G640000,Cerebral infarction due to thrombosis of cerebral arteries,res56: Cardiovascular Disease,diagnostic
+Read,G63y000,Cerebral infarct due to thrombosis of precerebral arteries,res56: Cardiovascular Disease,diagnostic
+Read,G632.00,Vertebral artery occlusion,res56: Cardiovascular Disease,diagnostic
+Read,G640.00,Cerebral thrombosis,res56: Cardiovascular Disease,diagnostic
+Read,G64..13,Stroke due to cerebral arterial occlusion,res56: Cardiovascular Disease,diagnostic
+Read,G641.11,Cerebral embolus,res56: Cardiovascular Disease,diagnostic
+Read,G663.00,Brain stem stroke syndrome,res56: Cardiovascular Disease,diagnostic
+Read,G664.00,Cerebellar stroke syndrome,res56: Cardiovascular Disease,diagnostic
+Read,G64z000,Brainstem infarction,res56: Cardiovascular Disease,diagnostic
+Read,G64z.12,Cerebellar infarction,res56: Cardiovascular Disease,diagnostic
+Read,G309.00,Acute Q-wave infarct,res56: Cardiovascular Disease,diagnostic
+Read,G64z.11,Brainstem infarction NOS,res56: Cardiovascular Disease,diagnostic
+Read,G3y..00,Other specified ischaemic heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G64z400,Infarction of basal ganglia,res56: Cardiovascular Disease,diagnostic
+Read,G66..11,CVA unspecified,res56: Cardiovascular Disease,diagnostic
+Read,G66..12,Stroke unspecified,res56: Cardiovascular Disease,diagnostic
+Read,G64z300,Right sided cerebral infarction,res56: Cardiovascular Disease,diagnostic
+Read,G64z111,Lateral medullary syndrome,res56: Cardiovascular Disease,diagnostic
+Read,G64z200,Left sided cerebral infarction,res56: Cardiovascular Disease,diagnostic
+Read,G66..00,Stroke and cerebrovascular accident unspecified,res56: Cardiovascular Disease,diagnostic
+Read,G66..13,CVA - Cerebrovascular accident unspecified,res56: Cardiovascular Disease,diagnostic
+Read,G662.00,Posterior cerebral artery syndrome,res56: Cardiovascular Disease,diagnostic
+Read,G661.00,Anterior cerebral artery syndrome,res56: Cardiovascular Disease,diagnostic
+Read,G6X..00,Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res56: Cardiovascular Disease,diagnostic
+Read,G6W..00,Cereb infarct due unsp occlus/stenos precerebr arteries,res56: Cardiovascular Disease,diagnostic
+Read,G676000,"Cereb infarct due cerebral venous thrombosis, nonpyogenic",res56: Cardiovascular Disease,diagnostic
+Read,G666.00,Pure sensory lacunar syndrome,res56: Cardiovascular Disease,diagnostic
+Read,G665.00,Pure motor lacunar syndrome,res56: Cardiovascular Disease,diagnostic
+Read,G38z.00,"Postoperative myocardial infarction, unspecified",res56: Cardiovascular Disease,diagnostic
+Read,G671z00,Generalised ischaemic cerebrovascular disease NOS,res56: Cardiovascular Disease,diagnostic
+Read,G668.00,Right sided CVA,res56: Cardiovascular Disease,diagnostic
+Read,G667.00,Left sided CVA,res56: Cardiovascular Disease,diagnostic
+Read,G671000,Acute cerebrovascular insufficiency NOS,res56: Cardiovascular Disease,diagnostic
+Read,G671.00,Generalised ischaemic cerebrovascular disease NOS,res56: Cardiovascular Disease,diagnostic
+Read,Gyu3300,[X]Other forms of chronic ischaemic heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G73yz00,Other specified peripheral vascular disease NOS,res56: Cardiovascular Disease,diagnostic
+Read,G700.00,Aortic atherosclerosis,res56: Cardiovascular Disease,diagnostic
+Read,G70..00,Atherosclerosis,res56: Cardiovascular Disease,diagnostic
+Read,G73y.00,Other specified peripheral vascular disease,res56: Cardiovascular Disease,diagnostic
+Read,G73..00,Other peripheral vascular disease,res56: Cardiovascular Disease,diagnostic
+Read,G73..12,Ischaemia of legs,res56: Cardiovascular Disease,diagnostic
+Read,Gyu3200,[X]Other forms of acute ischaemic heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G73zz00,Peripheral vascular disease NOS,res56: Cardiovascular Disease,diagnostic
+Read,G73z000,Intermittent claudication,res56: Cardiovascular Disease,diagnostic
+Read,G73z.00,Peripheral vascular disease NOS,res56: Cardiovascular Disease,diagnostic
+Read,Gyu3.00,[X]Ischaemic heart diseases,res56: Cardiovascular Disease,diagnostic
+Read,G742z00,Peripheral arterial embolism and thrombosis NOS,res56: Cardiovascular Disease,diagnostic
+Read,G76z000,Iliac artery occlusion,res56: Cardiovascular Disease,diagnostic
+Read,G74y300,Embolism and thrombosis of the iliac artery unspecified,res56: Cardiovascular Disease,diagnostic
+Read,Gyu6300,[X]Cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs,res56: Cardiovascular Disease,diagnostic
+Read,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site,res56: Cardiovascular Disease,diagnostic
+Read,Gyu6200,[X]Other intracerebral haemorrhage,res56: Cardiovascular Disease,diagnostic
+Read,Gyu3600,[X]Subsequent myocardial infarction of unspecified site,res56: Cardiovascular Disease,diagnostic
+Read,Gyu6400,[X]Other cerebral infarction,res56: Cardiovascular Disease,diagnostic
+Read,Gyu6F00,"[X]Intracerebral haemorrhage in hemisphere, unspecified",res56: Cardiovascular Disease,diagnostic
+Read,Gyu7400,[X]Other specified peripheral vascular diseases,res56: Cardiovascular Disease,diagnostic
+Read,Gyu6G00,[X]Cereb infarct due unsp occlus/stenos precerebr arteries,res56: Cardiovascular Disease,diagnostic
+Read,G575000,Cardiac arrest with successful resuscitation,res56: Cardiovascular Disease,diagnostic
+Read,G33z200,Syncope anginosa,res56: Cardiovascular Disease,diagnostic
+Read,G3...12,Atherosclerotic heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G384.00,Postoperative subendocardial myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G33z100,Stenocardia,res56: Cardiovascular Disease,diagnostic
+Read,G3...11,Arteriosclerotic heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G3...00,Ischaemic heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G33z000,Status anginosus,res56: Cardiovascular Disease,diagnostic
+Read,G30z.00,Acute myocardial infarction NOS,res56: Cardiovascular Disease,diagnostic
+Read,G302.00,Acute inferolateral infarction,res56: Cardiovascular Disease,diagnostic
+Read,G30..16,Thrombosis - coronary,res56: Cardiovascular Disease,diagnostic
+Read,G30..00,Acute myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G3...13,IHD - Ischaemic heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G30..15,MI - acute myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G30..12,Coronary thrombosis,res56: Cardiovascular Disease,diagnostic
+Read,G30..13,Cardiac rupture following myocardial infarction (MI),res56: Cardiovascular Disease,diagnostic
+Read,G301z00,Anterior myocardial infarction NOS,res56: Cardiovascular Disease,diagnostic
+Read,G300.00,Acute anterolateral infarction,res56: Cardiovascular Disease,diagnostic
+Read,G30..17,Silent myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G301100,Acute anteroseptal infarction,res56: Cardiovascular Disease,diagnostic
+Read,G301.00,Other specified anterior myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G301000,Acute anteroapical infarction,res56: Cardiovascular Disease,diagnostic
+Read,G30yz00,Other acute myocardial infarction NOS,res56: Cardiovascular Disease,diagnostic
+Read,G307100,Acute non-ST segment elevation myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G305.00,Lateral myocardial infarction NOS,res56: Cardiovascular Disease,diagnostic
+Read,G303.00,Acute inferoposterior infarction,res56: Cardiovascular Disease,diagnostic
+Read,G304.00,Posterior myocardial infarction NOS,res56: Cardiovascular Disease,diagnostic
+Read,G307000,Acute non-Q wave infarction,res56: Cardiovascular Disease,diagnostic
+Read,G306.00,True posterior myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G307.00,Acute subendocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G30y200,Acute septal infarction,res56: Cardiovascular Disease,diagnostic
+Read,G30X.00,Acute transmural myocardial infarction of unspecif site,res56: Cardiovascular Disease,diagnostic
+Read,G308.00,Inferior myocardial infarction NOS,res56: Cardiovascular Disease,diagnostic
+Read,G30B.00,Acute posterolateral myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G30y100,Acute papillary muscle infarction,res56: Cardiovascular Disease,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G30y.00,Other acute myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G33z.00,Angina pectoris NOS,res56: Cardiovascular Disease,diagnostic
+Read,G311z00,Preinfarction syndrome NOS,res56: Cardiovascular Disease,diagnostic
+Read,G311.13,Unstable angina,res56: Cardiovascular Disease,diagnostic
+Read,G310.00,Postmyocardial infarction syndrome,res56: Cardiovascular Disease,diagnostic
+Read,G31..00,Other acute and subacute ischaemic heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G311.12,Impending infarction,res56: Cardiovascular Disease,diagnostic
+Read,G310.11,Dressler's syndrome,res56: Cardiovascular Disease,diagnostic
+Read,G311500,Acute coronary syndrome,res56: Cardiovascular Disease,diagnostic
+Read,G311011,MI - myocardial infarction aborted,res56: Cardiovascular Disease,diagnostic
+Read,G311.14,Angina at rest,res56: Cardiovascular Disease,diagnostic
+Read,G311000,Myocardial infarction aborted,res56: Cardiovascular Disease,diagnostic
+Read,G311300,Refractory angina,res56: Cardiovascular Disease,diagnostic
+Read,G311100,Unstable angina,res56: Cardiovascular Disease,diagnostic
+Read,G311200,Angina at rest,res56: Cardiovascular Disease,diagnostic
+Read,G332.00,Coronary artery spasm,res56: Cardiovascular Disease,diagnostic
+Read,G32..11,Healed myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G31y200,Subendocardial ischaemia,res56: Cardiovascular Disease,diagnostic
+Read,G31y.00,Other acute and subacute ischaemic heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G31y000,Acute coronary insufficiency,res56: Cardiovascular Disease,diagnostic
+Read,G32..00,Old myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G31y300,Transient myocardial ischaemia,res56: Cardiovascular Disease,diagnostic
+Read,G31yz00,Other acute and subacute ischaemic heart disease NOS,res56: Cardiovascular Disease,diagnostic
+Read,G331.11,Variant angina pectoris,res56: Cardiovascular Disease,diagnostic
+Read,G330.00,Angina decubitus,res56: Cardiovascular Disease,diagnostic
+Read,G32..12,Personal history of myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G33..00,Angina pectoris,res56: Cardiovascular Disease,diagnostic
+Read,G331.00,Prinzmetal's angina,res56: Cardiovascular Disease,diagnostic
+Read,G330000,Nocturnal angina,res56: Cardiovascular Disease,diagnostic
+Read,G330z00,Angina decubitus NOS,res56: Cardiovascular Disease,diagnostic
+Read,G340000,Single coronary vessel disease,res56: Cardiovascular Disease,diagnostic
+Read,G33z500,Post infarct angina,res56: Cardiovascular Disease,diagnostic
+Read,G381.00,Postoperative transmural myocardial infarction inferior wall,res56: Cardiovascular Disease,diagnostic
+Read,G33z400,Ischaemic chest pain,res56: Cardiovascular Disease,diagnostic
+Read,G33z300,Angina on effort,res56: Cardiovascular Disease,diagnostic
+Read,G340.12,Coronary artery disease,res56: Cardiovascular Disease,diagnostic
+Read,G33zz00,Angina pectoris NOS,res56: Cardiovascular Disease,diagnostic
+Read,G33z600,New onset angina,res56: Cardiovascular Disease,diagnostic
+Read,G33z700,Stable angina,res56: Cardiovascular Disease,diagnostic
+Read,G340.11,Triple vessel disease of the heart,res56: Cardiovascular Disease,diagnostic
+Read,G34..00,Other chronic ischaemic heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G340.00,Coronary atherosclerosis,res56: Cardiovascular Disease,diagnostic
+Read,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,res56: Cardiovascular Disease,diagnostic
+Read,G34y.00,Other specified chronic ischaemic heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G340100,Double coronary vessel disease,res56: Cardiovascular Disease,diagnostic
+Read,G344.00,Silent myocardial ischaemia,res56: Cardiovascular Disease,diagnostic
+Read,G342.00,Atherosclerotic cardiovascular disease,res56: Cardiovascular Disease,diagnostic
+Read,G343.00,Ischaemic cardiomyopathy,res56: Cardiovascular Disease,diagnostic
+Read,G35..00,Subsequent myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G34z000,Asymptomatic coronary heart disease,res56: Cardiovascular Disease,diagnostic
+Read,G34y000,Chronic coronary insufficiency,res56: Cardiovascular Disease,diagnostic
+Read,G34z.00,Other chronic ischaemic heart disease NOS,res56: Cardiovascular Disease,diagnostic
+Read,G34yz00,Other specified chronic ischaemic heart disease NOS,res56: Cardiovascular Disease,diagnostic
+Read,G34y100,Chronic myocardial ischaemia,res56: Cardiovascular Disease,diagnostic
+Read,G380.00,Postoperative transmural myocardial infarction anterior wall,res56: Cardiovascular Disease,diagnostic
+Read,G353.00,Subsequent myocardial infarction of other sites,res56: Cardiovascular Disease,diagnostic
+Read,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,res56: Cardiovascular Disease,diagnostic
+Read,G351.00,Subsequent myocardial infarction of inferior wall,res56: Cardiovascular Disease,diagnostic
+Read,G350.00,Subsequent myocardial infarction of anterior wall,res56: Cardiovascular Disease,diagnostic
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,res56: Cardiovascular Disease,diagnostic
+Read,G35X.00,Subsequent myocardial infarction of unspecified site,res56: Cardiovascular Disease,diagnostic
+Read,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,res56: Cardiovascular Disease,diagnostic
+Read,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,res56: Cardiovascular Disease,diagnostic
+Read,G38..00,Postoperative myocardial infarction,res56: Cardiovascular Disease,diagnostic
+Read,G73z011,Claudication,res56: Cardiovascular Disease,diagnostic
+Read,G613.00,Cerebellar haemorrhage,res56: Cardiovascular Disease,diagnostic
+Read,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage,res56: Cardiovascular Disease,diagnostic
+Read,G617.00,"Intracerebral haemorrhage, intraventricular",res56: Cardiovascular Disease,diagnostic
+Read,G63..00,Precerebral arterial occlusion,res56: Cardiovascular Disease,diagnostic
+Read,G575.11,Cardio-respiratory arrest,res56: Cardiovascular Disease,diagnostic
+Read,G311.11,Crescendo angina,res56: Cardiovascular Disease,diagnostic
+Read,G61..00,Intracerebral haemorrhage,res56: Cardiovascular Disease,diagnostic
+Read,G575.00,Cardiac arrest,res56: Cardiovascular Disease,diagnostic
+Read,G575.12,Asystole,res56: Cardiovascular Disease,diagnostic
+Read,G575z00,"Cardiac arrest, unspecified",res56: Cardiovascular Disease,diagnostic
+Read,G575100,"Sudden cardiac death, so described",res56: Cardiovascular Disease,diagnostic
+Read,G612.00,Basal nucleus haemorrhage,res56: Cardiovascular Disease,diagnostic
+Read,G61..12,Stroke due to intracerebral haemorrhage,res56: Cardiovascular Disease,diagnostic
+Read,G610.00,Cortical haemorrhage,res56: Cardiovascular Disease,diagnostic
+Read,G611.00,Internal capsule haemorrhage,res56: Cardiovascular Disease,diagnostic
+Read,G615.00,Bulbar haemorrhage,res56: Cardiovascular Disease,diagnostic
+Read,G616.00,External capsule haemorrhage,res56: Cardiovascular Disease,diagnostic
+Read,G614.00,Pontine haemorrhage,res56: Cardiovascular Disease,diagnostic
+Read,G311.00,Preinfarction syndrome,res56: Cardiovascular Disease,diagnostic
+Read,G3z..00,Ischaemic heart disease NOS,res56: Cardiovascular Disease,diagnostic
+Read,G61X000,"Left sided intracerebral haemorrhage, unspecified",res56: Cardiovascular Disease,diagnostic
+Read,G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified",res56: Cardiovascular Disease,diagnostic
+Read,G61z.00,Intracerebral haemorrhage NOS,res56: Cardiovascular Disease,diagnostic
+Read,G618.00,"Intracerebral haemorrhage, multiple localized",res56: Cardiovascular Disease,diagnostic
+Read,G61X100,"Right sided intracerebral haemorrhage, unspecified",res56: Cardiovascular Disease,diagnostic

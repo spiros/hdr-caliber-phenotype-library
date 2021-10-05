@@ -1,0 +1,37 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,A788200,HIV infection with persistent generalised lymphadenopathy,res50: AIDS,diagnostic
+Read,A788100,Asymptomatic human immunodeficiency virus infection,res50: AIDS,diagnostic
+Read,A788000,Acute human immunodeficiency virus infection,res50: AIDS,diagnostic
+Read,A788.11,Human immunodeficiency virus infection,res50: AIDS,diagnostic
+Read,A788.00,Acquired immune deficiency syndrome,res50: AIDS,diagnostic
+Read,A788X00,HIV disease resulting/unspcf infectious+parasitic disease,res50: AIDS,diagnostic
+Read,A788300,Human immunodeficiency virus with constitutional disease,res50: AIDS,diagnostic
+Read,A788600,Human immunodeficiency virus with secondary cancers,res50: AIDS,diagnostic
+Read,A788W00,HIV disease resulting in unspecified malignant neoplasm,res50: AIDS,diagnostic
+Read,A788z00,Acquired human immunodeficiency virus infection syndrome NOS,res50: AIDS,diagnostic
+Read,A789X00,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu",res50: AIDS,diagnostic
+Read,A789300,HIV disease resulting in Pneumocystis carinii pneumonia,res50: AIDS,diagnostic
+Read,A789A00,HIV disease resulting in wasting syndrome,res50: AIDS,diagnostic
+Read,A789311,HIV disease resulting in Pneumocystis jirovecii pneumonia,res50: AIDS,diagnostic
+Read,A789700,HIV dis resulting oth types of non-Hodgkin's lymphoma,res50: AIDS,diagnostic
+Read,A789500,HIV disease resulting in Kaposi's sarcoma,res50: AIDS,diagnostic
+Read,A789600,HIV disease resulting in Burkitt's lymphoma,res50: AIDS,diagnostic
+Read,A789511,HIV disease resulting in Kaposi sarcoma,res50: AIDS,diagnostic
+Read,A789900,HIV disease resulting in lymphoid interstitial pneumonitis,res50: AIDS,diagnostic
+Read,A789800,HIV disease resulting in multiple malignant neoplasms,res50: AIDS,diagnostic
+Read,AyuCC00,[X]HIV disease resulting in other specified conditions,res50: AIDS,diagnostic
+Read,AyuC600,[X]HIV disease resulting in other non-Hodgkin's lymphoma,res50: AIDS,diagnostic
+Read,AyuC300,[X]HIV disease resulting in multiple infections,res50: AIDS,diagnostic
+Read,AyuC400,[X]HIV disease resulting/other infectious+parasitic diseases,res50: AIDS,diagnostic
+Read,AyuCD00,[X]Unspecified human immunodeficiency virus [HIV] disease,res50: AIDS,diagnostic
+Read,L179.00,HIV disease complicating pregnancy childbirth puerperium,res50: AIDS,diagnostic
+Read,A789000,HIV disease resulting in mycobacterial infection,res50: AIDS,diagnostic
+Read,AyuC.00,[X]Human immunodeficiency virus disease,res50: AIDS,diagnostic
+Read,Eu02400,[X]Dementia in human immunodef virus [HIV] disease,res50: AIDS,diagnostic
+Read,AyuC100,[X]HIV disease resulting in other viral infections,res50: AIDS,diagnostic
+Read,A789100,HIV disease resulting in cytomegaloviral disease,res50: AIDS,diagnostic
+Read,A789400,HIV disease resulting in multiple infections,res50: AIDS,diagnostic
+Read,A789200,HIV disease resulting in candidiasis,res50: AIDS,diagnostic
+Read,A788400,Human immunodeficiency virus with neurological disease,res50: AIDS,diagnostic
+Read,A788y00,Human immunodeficiency virus with other clinical findings,res50: AIDS,diagnostic
+Read,A788500,Human immunodeficiency virus with secondary infection,res50: AIDS,diagnostic

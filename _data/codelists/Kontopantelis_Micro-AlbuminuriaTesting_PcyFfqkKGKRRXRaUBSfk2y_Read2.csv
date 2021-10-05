@@ -1,0 +1,16 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,467H.00,Random urine protein level,Micro-albuminuria_testing,test
+Read,467E.00,Urine protein level,Micro-albuminuria_testing,test
+Read,467A.00,24 hour urine protein output,Micro-albuminuria_testing,test
+Read,46W..00,Urine microalbumin,Micro-albuminuria_testing,test
+Read,46N4.00,Urine albumin,Micro-albuminuria_testing,test
+Read,46N3.00,Urine total protein,Micro-albuminuria_testing,test
+Read,46N5.00,24 hour urine protein excretion test,Micro-albuminuria_testing,test
+Read,46TD.00,Urine microalbumin:creatinine ratio,Micro-albuminuria_testing,test
+Read,46TC.00,Urine albumin:creatinine ratio,Micro-albuminuria_testing,test
+Read,46N7.00,Urine protein/creatinine index,Micro-albuminuria_testing,test
+Read,46N6.00,24 hour urine albumin output,Micro-albuminuria_testing,test
+Read,46w0.00,Urine microalbumin positive,Micro-albuminuria_testing,test
+Read,46W0.00,Urine microalbumin positive,Micro-albuminuria_testing,test
+Read,46W2.00,Microalbumin excretion rate,Micro-albuminuria_testing,test
+Read,46W1.00,Urine microalbumin negative,Micro-albuminuria_testing,test

@@ -1,0 +1,55 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,N040S00,Rheumatoid arthritis - multiple joint,res21: RA,diagnostic
+Read,N040P00,Seronegative rheumatoid arthritis,res21: RA,diagnostic
+Read,N040.00,Rheumatoid arthritis,res21: RA,diagnostic
+Read,N042200,Rheumatoid nodule,res21: RA,diagnostic
+Read,N040N00,Rheumatoid vasculitis,res21: RA,diagnostic
+Read,N040200,Rheumatoid arthritis of shoulder,res21: RA,diagnostic
+Read,N047.00,Seropositive errosive rheumatoid arthritis,res21: RA,diagnostic
+Read,N040T00,Flare of rheumatoid arthritis,res21: RA,diagnostic
+Read,66H..13,Rheumatoid arthrit. monitoring,res21: RA,diagnostic
+Read,H570.00,Rheumatoid lung,res21: RA,diagnostic
+Read,N04X.00,"Seropositive rheumatoid arthritis, unspecified",res21: RA,diagnostic
+Read,N040500,Rheumatoid arthritis of elbow,res21: RA,diagnostic
+Read,N040900,Rheumatoid arthritis of PIP joint of finger,res21: RA,diagnostic
+Read,N04y012,Fibrosing alveolitis associated with rheumatoid arthritis,res21: RA,diagnostic
+Read,N043200,Pauciarticular juvenile rheumatoid arthritis,res21: RA,diagnostic
+Read,N04..00,Rheumatoid arthritis and other inflammatory polyarthropathy,res21: RA,diagnostic
+Read,N041.00,Felty's syndrome,res21: RA,diagnostic
+Read,N043z00,Juvenile rheumatoid arthritis NOS,res21: RA,diagnostic
+Read,N04y011,Caplan's syndrome,res21: RA,diagnostic
+Read,N042z00,Rheumatoid arthropathy + visceral/systemic involvement NOS,res21: RA,diagnostic
+Read,N043300,Monarticular juvenile rheumatoid arthritis,res21: RA,diagnostic
+Read,N04y000,Rheumatoid lung,res21: RA,diagnostic
+Read,N042100,Rheumatoid lung disease,res21: RA,diagnostic
+Read,N045500,Juvenile rheumatoid arthritis,res21: RA,diagnostic
+Read,F396400,Myopathy due to rheumatoid arthritis,res21: RA,diagnostic
+Read,N040800,Rheumatoid arthritis of MCP joint,res21: RA,diagnostic
+Read,N040000,Rheumatoid arthritis of cervical spine,res21: RA,diagnostic
+Read,N040100,Other rheumatoid arthritis of spine,res21: RA,diagnostic
+Read,G5yA.00,Rheumatoid carditis,res21: RA,diagnostic
+Read,Nyu1G00,"[X]Seropositive rheumatoid arthritis, unspecified",res21: RA,diagnostic
+Read,N043100,Acute polyarticular juvenile rheumatoid arthritis,res21: RA,diagnostic
+Read,G5y8.00,Rheumatoid myocarditis,res21: RA,diagnostic
+Read,N042.00,Other rheumatoid arthropathy + visceral/systemic involvement,res21: RA,diagnostic
+Read,N040700,Rheumatoid arthritis of wrist,res21: RA,diagnostic
+Read,N040B00,Rheumatoid arthritis of hip,res21: RA,diagnostic
+Read,N040R00,Rheumatoid nodule,res21: RA,diagnostic
+Read,N040D00,Rheumatoid arthritis of knee,res21: RA,diagnostic
+Read,N043000,Juvenile rheumatoid arthropathy unspecified,res21: RA,diagnostic
+Read,N040F00,Rheumatoid arthritis of ankle,res21: RA,diagnostic
+Read,N040K00,Rheumatoid arthritis of 1st MTP joint,res21: RA,diagnostic
+Read,N040A00,Rheumatoid arthritis of DIP joint of finger,res21: RA,diagnostic
+Read,N040L00,Rheumatoid arthritis of lesser MTP joint,res21: RA,diagnostic
+Read,F371200,Polyneuropathy in rheumatoid arthritis,res21: RA,diagnostic
+Read,Nyu1100,[X]Other seropositive rheumatoid arthritis,res21: RA,diagnostic
+Read,Nyu1200,[X]Other specified rheumatoid arthritis,res21: RA,diagnostic
+Read,N040600,Rheumatoid arthritis of distal radio-ulnar joint,res21: RA,diagnostic
+Read,N040G00,Rheumatoid arthritis of subtalar joint,res21: RA,diagnostic
+Read,N040H00,Rheumatoid arthritis of talonavicular joint,res21: RA,diagnostic
+Read,N040J00,Rheumatoid arthritis of other tarsal joint,res21: RA,diagnostic
+Read,7P20300,Delivery of rehabilitation for rheumatoid arthritis,res21: RA,diagnostic
+Read,N040400,Rheumatoid arthritis of acromioclavicular joint,res21: RA,diagnostic
+Read,38DZ.00,Disease activity score in rheumatoid arthritis,res21: RA,diagnostic
+Read,N040C00,Rheumatoid arthritis of sacro-iliac joint,res21: RA,diagnostic
+Read,14G1.00,H/O: rheumatoid arthritis,res21: RA,diagnostic

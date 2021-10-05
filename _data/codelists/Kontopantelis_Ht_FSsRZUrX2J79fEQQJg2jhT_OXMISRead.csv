@@ -1,0 +1,166 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4003,HYPERTENSIVE NEPHROPATHY,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4380,CEREBROVASCULAR DISEASE WITH HYPERTENSIO,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4370,CEREBRAL ISCHAEMIA HYPERTENSIVE,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4120M,MYOCARDIAL ISCHAEMIA WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4300,SUBARACHNOID HAEMORRHAGE WITH HYPERTENSI,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 E,HYPERTENSION ARTERIAL,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,403 NF,HYPERTENSION RENAL INSUFFICIENCY,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4000,MALIGNANT HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4100T,THROMBOSIS CORONARY WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4120,INSUFFICIENCY CORONARY HYPERTENSIVE,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4340CR,EMBOLISM INTRACRANIAL WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4419H,HYPERTENSION ANEURYSM AORTA,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4340,EMBOLISM CEREBRAL WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 EL,HYPERTENSION ARTERIAL SYSTEMIC,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4120CA,CORONARY ARTERY DISEASE WITH HYPERTENSIO,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401,BENIGN HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3053HT,NEUROGENIC HYPERTENSION (SECONDARY),res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,403 NG,HYPERTENSIVE GLOMERULOSCLEROSIS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,402 C,HYPERTENSION CONGESTIVE HEART FAILURE,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,403,RENAL HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 BE,RETINOPATHY HYPERTENSIVE EXUDATES,res43: ht_kontopantelis_bmjqs2012,symptom
+OXMIS,401 AR,HYPERTENSION ARTERIOSCLEROTIC,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,402 MF,MYOCARDIAL FIBROSIS WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4120A,ISCHAEMIC HEART DISEASE HYPERTENSIVE,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,403 NC,HYPERTENSION IMPAIRED RENAL FUNCTION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4120BD,SYNDROME DRESSLER'S WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,402 VH,VENTRICULAR HYPERTROPHY HYPERTENSIVE,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,403 AH,RENOVASCULAR HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 P,HYPERTENSION ARTERIAL PRIMARY,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4003AA,HYPERTENSIVE RENAL DISEASE,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 NC,HYPERTENSION NECROTIZING STAGES,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 AT,HYPERTENSION ATHEROSCLEROTIC,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 PA,HYPERTENSION PRIMARY,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 BH,RETINOPATHY HYPERTENSIVE HAEMORRHAGE,res43: ht_kontopantelis_bmjqs2012,symptom
+OXMIS,Y0601JA,HYPERTENSION CLINIC ATTENDANCE,res43: ht_kontopantelis_bmjqs2012,test
+OXMIS,403 AA,RENAL HYPERTENSIVE DISEASE,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4330,CEREBRAL THROMBOSIS WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4310,HAEMORRHAGE INTRACEREBRAL WITH HYPERTENS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 R,HYPERTENSION CRISIS,res43: ht_kontopantelis_bmjqs2012,symptom
+OXMIS,4360B,STROKE WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 BN,HYPERTENSION BENIGN,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 A,HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,L0010EM,REFERRED TO HYPERTENSION CLINIC,res43: ht_kontopantelis_bmjqs2012,test
+OXMIS,401 C,HYPERTENSION ESSENTIAL,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4360A,CEREBROVASCULAR ACCIDENT WITH HYPERTENSI,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4130E,ANGINA EFFORT WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 DC,HYPERTENSION DIASTOLIC,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4100NA,MYOCARDIAL INFARCT ACUTE WITH HYPERTENSI,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 LB,HYPERTENSION LABILE INTERMITTENT,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 BM,HYPERTENSION ON TREATMENT,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4360D,HYPERTENSIVE ENCEPHALOPATHY,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 AC,HYPERTENSION ACCELERATED,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 S,HYPERTENSION SYSTOLIC,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,Y060 JA,HYPERTENSION CLINIC,res43: ht_kontopantelis_bmjqs2012,test
+OXMIS,402,HYPERTENSIVE HEART DISEASE,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,L0010AM,SEEN IN HYPERTENSION CLINIC,res43: ht_kontopantelis_bmjqs2012,test
+OXMIS,791 HP,HYPERTENSIVE HEADACHE,res43: ht_kontopantelis_bmjqs2012,symptom
+OXMIS,403 M,NEPHROPATHY MALIGNANT HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,symptom
+OXMIS,401 B,RETINOPATHY HYPERTENSIVE,res43: ht_kontopantelis_bmjqs2012,symptom
+OXMIS,403 NH,NEPHROSCLEROSIS HYPERTENSIVE,res43: ht_kontopantelis_bmjqs2012,symptom
+OXMIS,401 T,THROMBOSIS HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,symptom
+OXMIS,401 BP,RETINOPATHY HYPERTENSIVE PAPILLOEDEMA,res43: ht_kontopantelis_bmjqs2012,symptom
+OXMIS,4130,ANGINA PECTORIS WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,401 BR,HYPERTENSION RESOLVED,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4100N,MYOCARDIAL INFARCT WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4140,ASYMPTOMATIC HYPERTENSIVE ISCHAEMIC HEAR,res43: ht_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4380HP,HEMIPLEGIA WITH HYPERTENSION,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G22z.11,Renal hypertension,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L120400,Benign essential hypertension in preg/childb/puerp +p/n comp,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G21z000,Hypertensive heart disease NOS without CCF,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G20..00,Essential hypertension,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G241000,Secondary benign renovascular hypertension,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G22z.00,Hypertensive renal disease NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G241.00,Secondary benign hypertension,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G233.00,Hypertensive heart and renal disease with renal failure,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G24z000,Secondary renovascular hypertension NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G240.00,Secondary malignant hypertension,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L120300,Benign essential hypertension in preg/childb/puerp-not deliv,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G24..00,Secondary hypertension,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G211000,Benign hypertensive heart disease without CCF,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L121.00,Renal hypertension in pregnancy/childbirth/puerperium,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G21z011,Cardiomegaly - hypertensive,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L122100,Other pre-existing hypertension in preg/childb/puerp - deliv,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L121z00,Renal hypertension in pregnancy/childbirth/puerperium NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G230.00,Malignant hypertensive heart and renal disease,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G21..00,Hypertensive heart disease,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G200.00,Malignant essential hypertension,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G22..00,Hypertensive renal disease,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G211.00,Benign hypertensive heart disease,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L128.00,Pre-exist hypertension compl preg childbirth and puerperium,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,662d.00,Hypertension annual review,res43: ht_kontopantelis_bmjqs2012,test
+Read,G20z.00,Essential hypertension NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L121300,Renal hypertension in preg/childbirth/puerp - not delivered,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G244.00,Hypertension secondary to endocrine disorders,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,6628.00,Poor hypertension control,res43: ht_kontopantelis_bmjqs2012,test
+Read,9N03.00,Seen in hypertension clinic,res43: ht_kontopantelis_bmjqs2012,test
+Read,G222.00,Hypertensive renal disease with renal failure,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G23..00,Hypertensive heart and renal disease,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G240z00,Secondary malignant hypertension NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G20z.11,Hypertension NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G24z.00,Secondary hypertension NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G240000,Secondary malignant renovascular hypertension,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G220.00,Malignant hypertensive renal disease,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G210.00,Malignant hypertensive heart disease,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G23z.00,Hypertensive heart and renal disease NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L121200,Renal hypertension in preg/childb/puerp -deliv with p/n comp,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G231.00,Benign hypertensive heart and renal disease,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L122400,Other pre-exist hypertension in preg/childb/puerp + p/n comp,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L120.00,Benign essential hypertension in pregnancy/childbirth/puerp,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G21z100,Hypertensive heart disease NOS with CCF,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L122.00,Other pre-existing hypertension in preg/childbirth/puerp,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L122300,Other pre-exist hypertension in preg/childb/puerp-not deliv,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G2...11,BP - hypertensive disease,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,6627.00,Good hypertension control,res43: ht_kontopantelis_bmjqs2012,test
+Read,Gyu2000,[X]Other secondary hypertension,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G2y..00,Other specified hypertensive disease,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G21z.00,Hypertensive heart disease NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G210100,Malignant hypertensive heart disease with CCF,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L122z00,Other pre-existing hypertension in preg/childb/puerp NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L120100,Benign essential hypertension in preg/childb/puerp - deliv,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G24zz00,Secondary hypertension NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G234.00,Hyperten heart&renal dis+both(congestv)heart and renal fail,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G211z00,Benign hypertensive heart disease NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,9OI1.00,Attends hypertension monitor.,res43: ht_kontopantelis_bmjqs2012,test
+Read,Gyu2100,[X]Hypertension secondary to other renal disorders,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G2z..00,Hypertensive disease NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G202.00,Systolic hypertension,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G21zz00,Hypertensive heart disease NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,9N1y200,Seen in hypertension clinic,res43: ht_kontopantelis_bmjqs2012,test
+Read,662G.00,Hypertensive treatm.changed,res43: ht_kontopantelis_bmjqs2012,drug
+Read,G672.00,Hypertensive encephalopathy,res43: ht_kontopantelis_bmjqs2012,symptom
+Read,8B26.00,Antihypertensive therapy,res43: ht_kontopantelis_bmjqs2012,drug
+Read,G20..11,High blood pressure,res43: ht_kontopantelis_bmjqs2012,symptom
+Read,662P.00,Hypertension monitoring,res43: ht_kontopantelis_bmjqs2012,test
+Read,662O.00,On treatment for hypertension,res43: ht_kontopantelis_bmjqs2012,drug
+Read,F421300,Hypertensive retinopathy,res43: ht_kontopantelis_bmjqs2012,symptom
+Read,F404200,Blind hypertensive eye,res43: ht_kontopantelis_bmjqs2012,symptom
+Read,662..12,Hypertension monitoring,res43: ht_kontopantelis_bmjqs2012,test
+Read,9OIA.00,Hypertension monitor.chck done,res43: ht_kontopantelis_bmjqs2012,test
+Read,8HT5.00,Referral to hypertension clinic,res43: ht_kontopantelis_bmjqs2012,test
+Read,6629.00,Hypertension:follow-up default,res43: ht_kontopantelis_bmjqs2012,test
+Read,G672.11,Hypertensive crisis,res43: ht_kontopantelis_bmjqs2012,symptom
+Read,9OIA.11,Hypertension monitored,res43: ht_kontopantelis_bmjqs2012,test
+Read,662F.00,Hypertension treatm. started,res43: ht_kontopantelis_bmjqs2012,drug
+Read,662c.00,Hypertension six month review,res43: ht_kontopantelis_bmjqs2012,test
+Read,662b.00,Moderate hypertension control,res43: ht_kontopantelis_bmjqs2012,test
+Read,8BL0.00,Patient on maximal tolerated antihypertensive therapy,res43: ht_kontopantelis_bmjqs2012,drug
+Read,8CR4.00,Hypertension clinical management plan,res43: ht_kontopantelis_bmjqs2012,test
+Read,2126100,Hypertension resolved,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L121000,Renal hypertension in pregnancy/childbirth/puerp unspecified,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,212K.00,Hypertension resolved,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G232.00,Hypertensive heart&renal dis wth (congestive) heart failure,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G201.00,Benign essential hypertension,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G2...00,Hypertensive disease,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L122000,Other pre-existing hypertension in preg/childb/puerp unspec,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G241z00,Secondary benign hypertension NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L120000,Benign essential hypertension in preg/childb/puerp unspec,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L121400,Renal hypertension in preg/childb/puerp + p/n complication,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L121100,Renal hypertension in pregnancy/childbirth/puerp - delivered,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L128200,Pre-exist 2ndry hypertens comp preg childbth and puerperium,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G210z00,Malignant hypertensive heart disease NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,L120z00,Benign essential hypertension in preg/childb/puerp NOS,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G210000,Malignant hypertensive heart disease without CCF,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G211100,Benign hypertensive heart disease with CCF,res43: ht_kontopantelis_bmjqs2012,diagnostic
+Read,G221.00,Benign hypertensive renal disease,res43: ht_kontopantelis_bmjqs2012,diagnostic

@@ -1,0 +1,290 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Fyu6D00,[X]Other mononeuropathies in diseases classified elsewhere,res47: Comorbidities,diagnostic
+Read,29HB.00,O/E - Vibration sense of left foot absent,res47: Comorbidities,diagnostic
+Read,7L1H100,External cardioversion NEC,res47: Comorbidities,diagnostic
+Read,29H6.00,O/E - Vibration sense of left foot abnormal,res47: Comorbidities,diagnostic
+Read,F250100,Pykno-epilepsy,res47: Comorbidities,diagnostic
+Read,C10E212,Insulin-dependent diabetes mellitus with neurological comps,res47: Comorbidities,diagnostic
+Read,C106.00,Diabetes mellitus with neurological manifestation,res47: Comorbidities,diagnostic
+Read,2G51000,Foot abnormality - diabetes related,res47: Comorbidities,diagnostic
+Read,F373.00,Polyneuropathy in malignant disease,res47: Comorbidities,diagnostic
+Read,29B3.00,O/E - hypoaesthesia present,res47: Comorbidities,diagnostic
+Read,C106.13,Diabetes mellitus with polyneuropathy,res47: Comorbidities,diagnostic
+Read,29B2.00,O/E - anaesthesia present,res47: Comorbidities,diagnostic
+Read,29B2000,O/E - anaesthesia in legs,res47: Comorbidities,diagnostic
+Read,3282.00,ECG: ventricular tachycardia,res47: Comorbidities,diagnostic
+Read,G572.00,Paroxysmal tachycardia unspecified,res47: Comorbidities,diagnostic
+Read,29H7.00,O/E - Vibration sense of left foot normal,res47: Comorbidities,diagnostic
+Read,G57y.14,Heart beats irregular,res47: Comorbidities,diagnostic
+Read,3272.00,ECG: atrial fibrillation,res47: Comorbidities,diagnostic
+Read,F255311,Partial epilepsy with autonomic symptoms,res47: Comorbidities,diagnostic
+Read,G570100,Paroxysmal atrioventricular tachycardia,res47: Comorbidities,diagnostic
+Read,G574000,Ventricular fibrillation,res47: Comorbidities,diagnostic
+Read,G571.00,Paroxysmal ventricular tachycardia,res47: Comorbidities,diagnostic
+Read,7L1H000,Direct current cardioversion,res47: Comorbidities,diagnostic
+Read,7936000,Implantation of intravenous cardiac pacemaker system,res47: Comorbidities,diagnostic
+Read,G57..00,Cardiac dysrhythmias,res47: Comorbidities,diagnostic
+Read,G574.00,Ventricular fibrillation and flutter,res47: Comorbidities,diagnostic
+Read,G57y000,Persistent sinus bradycardia,res47: Comorbidities,diagnostic
+Read,29B2100,O/E - anaesthesia of extremities,res47: Comorbidities,diagnostic
+Read,G57y400,Sinoatrial node dysfunction NOS,res47: Comorbidities,diagnostic
+Read,G570.00,Paroxysmal supraventricular tachycardia,res47: Comorbidities,diagnostic
+Read,G575300,Electromechanical dissociation,res47: Comorbidities,diagnostic
+Read,F25y500,Panayiotopoulos syndrome,res47: Comorbidities,diagnostic
+Read,14AN.00,H/O: atrial fibrillation,res47: Comorbidities,diagnostic
+Read,G574100,Ventricular flutter,res47: Comorbidities,diagnostic
+Read,7L1H200,Internal electrode cardioversion,res47: Comorbidities,diagnostic
+Read,G57..11,Cardiac arrhythmias,res47: Comorbidities,diagnostic
+Read,7936.00,Introduction of cardiac pacemaker system via vein,res47: Comorbidities,diagnostic
+Read,G57y300,Sick sinus syndrome,res47: Comorbidities,diagnostic
+Read,7L1H.11,Cardioversion and stimulation,res47: Comorbidities,diagnostic
+Read,3273.00,ECG: atrial flutter,res47: Comorbidities,diagnostic
+Read,14S4.00,H/O: heart valve recipient,res47: Comorbidities,diagnostic
+Read,14AD.00,H/O ventricular fibrillation,res47: Comorbidities,diagnostic
+Read,G573z00,Atrial fibrillation and flutter NOS,res47: Comorbidities,diagnostic
+Read,329..00,ECG: heart block,res47: Comorbidities,diagnostic
+Read,662J000,Digoxin monitoring,res47: Comorbidities,diagnostic
+Read,14AQ.00,History of supraventricular tachycardia,res47: Comorbidities,diagnostic
+Read,F2510,,res47: Comorbidities,diagnostic
+Read,7936.11,Introduction of intravenous cardiac pacemaker system,res47: Comorbidities,diagnostic
+Read,G57y.00,Other cardiac dysrhythmias,res47: Comorbidities,diagnostic
+Read,G571.11,Ventricular tachycardia,res47: Comorbidities,diagnostic
+Read,662D.11,Digitalised,res47: Comorbidities,diagnostic
+Read,7936A00,Implant intravenous pacemaker for atrial fibrillation,res47: Comorbidities,diagnostic
+Read,7936600,Implantation of permanent intravenous cardiac pacemaker,res47: Comorbidities,diagnostic
+Read,G57y600,Nodal rhythm disorder,res47: Comorbidities,diagnostic
+Read,7936E00,Implantation of intravenous dual chamber permanent pacemaker,res47: Comorbidities,diagnostic
+Read,F256.11,Lightning spasms,res47: Comorbidities,diagnostic
+Read,328..00,ECG: ventricular arrhythmia,res47: Comorbidities,diagnostic
+Read,327..00,ECG: supraventricular arrhythmia,res47: Comorbidities,diagnostic
+Read,F255z00,Partial epilepsy without impairment of consciousness NOS,res47: Comorbidities,diagnostic
+Read,F250 A,,res47: Comorbidities,diagnostic
+Read,662S.00,Atrial fibrillation monitoring,res47: Comorbidities,diagnostic
+Read,G57y100,Severe sinus bradycardia,res47: Comorbidities,diagnostic
+Read,F255300,Visceral reflex epilepsy,res47: Comorbidities,diagnostic
+Read,3274.00,ECG: paroxysmal atrial tachy.,res47: Comorbidities,diagnostic
+Read,F257.00,Kojevnikov's epilepsy,res47: Comorbidities,diagnostic
+Read,F255500,Unilateral epilepsy,res47: Comorbidities,diagnostic
+Read,G57z.00,Cardiac dysrhythmia NOS,res47: Comorbidities,diagnostic
+Read,29H9.00,O/E - vibration sense right foot reduced,res47: Comorbidities,diagnostic
+Read,G57y900,Supraventricular tachycardia NOS,res47: Comorbidities,diagnostic
+Read,F251.00,Generalised convulsive epilepsy,res47: Comorbidities,diagnostic
+Read,7936100,Resiting of lead of intravenous pacemaker system,res47: Comorbidities,diagnostic
+Read,212R.00,Atrial fibrillation resolved,res47: Comorbidities,diagnostic
+Read,329Z.00,ECG: heart block NOS,res47: Comorbidities,diagnostic
+Read,G574011,Cardiac arrest-ventricular fibrillation,res47: Comorbidities,diagnostic
+Read,G570200,Paroxysmal junctional tachycardia,res47: Comorbidities,diagnostic
+Read,9hF0.00,Except from atr fib quality indicators: Patient unsuitable,res47: Comorbidities,diagnostic
+Read,G573300,Non-rheumatic atrial fibrillation,res47: Comorbidities,diagnostic
+Read,7L1H.13,Defibrillation,res47: Comorbidities,diagnostic
+Read,14AP.00,History of ventricular tachycardia,res47: Comorbidities,diagnostic
+Read,G570300,Paroxysmal nodal tachycardia,res47: Comorbidities,diagnostic
+Read,328Z.00,ECG: ventricular arrhythmia NOS,res47: Comorbidities,diagnostic
+Read,7936400,Removal of intravenous cardiac pacemaker system,res47: Comorbidities,diagnostic
+Read,G57yA00,Re-entry ventricular arrhythmia,res47: Comorbidities,diagnostic
+Read,G570z00,Paroxysmal supraventricular tachycardia NOS,res47: Comorbidities,diagnostic
+Read,3283.00,ECG: ventricular fibrillation,res47: Comorbidities,diagnostic
+Read,G57yz00,Other cardiac dysrhythmia NOS,res47: Comorbidities,diagnostic
+Read,7936500,Implantation of emergency intravenous cardiac pacemaker,res47: Comorbidities,diagnostic
+Read,3293.00,ECG:complete sinu-atrial block,res47: Comorbidities,diagnostic
+Read,7L1H300,Electrical sinus rhythm conversion,res47: Comorbidities,diagnostic
+Read,7936700,Implantation of intravenous fixed-rate cardiac pacemaker,res47: Comorbidities,diagnostic
+Read,7936F00,Renewal of intravenous cardiac pacemaker system,res47: Comorbidities,diagnostic
+Read,7L1H111,External electrode cardioversion,res47: Comorbidities,diagnostic
+Read,7936B00,Implantation simple one wire intravenous cardiac pacemaker,res47: Comorbidities,diagnostic
+Read,7936300,Maintenance of intravenous cardiac pacemaker system NEC,res47: Comorbidities,diagnostic
+Read,7936200,Maintenance of battery of intravenous cardiac pacemaker syst,res47: Comorbidities,diagnostic
+Read,G575200,Electromechanical dissociation with successful resuscitation,res47: Comorbidities,diagnostic
+Read,3295.00,ECG: partial A-V block - 2:1,res47: Comorbidities,diagnostic
+Read,G574z00,Ventricular fibrillation and flutter NOS,res47: Comorbidities,diagnostic
+Read,9hF1.00,Excepted from atrial fibrillation qual indic: Inform dissent,res47: Comorbidities,diagnostic
+Read,7936511,Implantation of temporary intravenous cardiac pacemaker,res47: Comorbidities,diagnostic
+Read,3298.00,ECG: complete A-V block,res47: Comorbidities,diagnostic
+Read,6A9..00,Atrial fibrillation annual review,res47: Comorbidities,diagnostic
+Read,7936z00,Cardiac pacemaker system introduced via vein NOS,res47: Comorbidities,diagnostic
+Read,7L1H.12,Direct current cardiac shock,res47: Comorbidities,diagnostic
+Read,7936y00,Other specified cardiac pacemaker system introduced via vein,res47: Comorbidities,diagnostic
+Read,7936900,Implantation of intravenous atrial overdrive pacemaker,res47: Comorbidities,diagnostic
+Read,7936G00,Implantat intraven single chamber cardiac pacemaker system,res47: Comorbidities,diagnostic
+Read,Gyu5a00,[X]Other specified cardiac arrhythmias,res47: Comorbidities,diagnostic
+Read,7936J00,Implantat intravenous biventricular cardiac pacemaker system,res47: Comorbidities,diagnostic
+Read,G573400,Permanent atrial fibrillation,res47: Comorbidities,diagnostic
+Read,F255.00,Partial epilepsy without impairment of consciousness,res47: Comorbidities,diagnostic
+Read,F251400,Epileptic seizures - tonic,res47: Comorbidities,diagnostic
+Read,7936800,Implantation of intravenous triggered cardiac pacemaker,res47: Comorbidities,diagnostic
+Read,G573200,Paroxysmal atrial fibrillation,res47: Comorbidities,diagnostic
+Read,327Z.00,ECG: supraventric. arryth. NOS,res47: Comorbidities,diagnostic
+Read,G572z00,Paroxysmal tachycardia NOS,res47: Comorbidities,diagnostic
+Read,G570000,Paroxysmal atrial tachycardia,res47: Comorbidities,diagnostic
+Read,9hF..00,Exception reporting: atrial fibrillation quality indicators,res47: Comorbidities,diagnostic
+Read,G572000,Essential paroxysmal tachycardia,res47: Comorbidities,diagnostic
+Read,9Os..00,Atrial fibrillation monitoring administration,res47: Comorbidities,diagnostic
+Read,F255y00,Partial epilepsy without impairment of consciousness OS,res47: Comorbidities,diagnostic
+Read,7936C00,Implantation of complex 1 wire intravenous cardiac pacemaker,res47: Comorbidities,diagnostic
+Read,G572100,Bouveret-Hoffmann syndrome,res47: Comorbidities,diagnostic
+Read,7936D00,Implantation complex two wire intravenous cardiac pacemaker,res47: Comorbidities,diagnostic
+Read,F254000,Temporal lobe epilepsy,res47: Comorbidities,diagnostic
+Read,F253.00,Grand mal status,res47: Comorbidities,diagnostic
+Read,F250000,Petit mal (minor) epilepsy,res47: Comorbidities,diagnostic
+Read,F250011,Epileptic absences,res47: Comorbidities,diagnostic
+Read,F25..00,Epilepsy,res47: Comorbidities,diagnostic
+Read,F251000,Grand mal (major) epilepsy,res47: Comorbidities,diagnostic
+Read,F251300,Epileptic seizures - myoclonic,res47: Comorbidities,diagnostic
+Read,F25z.11,Fit (in known epileptic) NOS,res47: Comorbidities,diagnostic
+Read,7936H00,Implantat intravenous dual chamber cardiac pacemaker system,res47: Comorbidities,diagnostic
+Read,F256.00,Infantile spasms,res47: Comorbidities,diagnostic
+Read,SC20000,Traumatic epilepsy,res47: Comorbidities,diagnostic
+Read,F253.11,Status epilepticus,res47: Comorbidities,diagnostic
+Read,G573500,Persistent atrial fibrillation,res47: Comorbidities,diagnostic
+Read,G57y200,Brugada syndrome,res47: Comorbidities,diagnostic
+Read,9Os3.00,Atrial fibrillation monitoring verbal invite,res47: Comorbidities,diagnostic
+Read,F251600,Grand mal seizure,res47: Comorbidities,diagnostic
+Read,F255011,Focal epilepsy,res47: Comorbidities,diagnostic
+Read,F258.00,Post-ictal state,res47: Comorbidities,diagnostic
+Read,F25z.00,Epilepsy NOS,res47: Comorbidities,diagnostic
+Read,F25X.00,"Status epilepticus, unspecified",res47: Comorbidities,diagnostic
+Read,F255000,"Jacksonian, focal or motor epilepsy",res47: Comorbidities,diagnostic
+Read,F256000,Hypsarrhythmia,res47: Comorbidities,diagnostic
+Read,F251500,Tonic-clonic epilepsy,res47: Comorbidities,diagnostic
+Read,9Os2.00,Atrial fibrillation monitoring third letter,res47: Comorbidities,diagnostic
+Read,9Os1.00,Atrial fibrillation monitoring second letter,res47: Comorbidities,diagnostic
+Read,F25yz00,Other forms of epilepsy NOS,res47: Comorbidities,diagnostic
+Read,F25y200,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset,res47: Comorbidities,diagnostic
+Read,F252.00,Petit mal status,res47: Comorbidities,diagnostic
+Read,9Os0.00,Atrial fibrillation monitoring first letter,res47: Comorbidities,diagnostic
+Read,F25y400,Benign Rolandic epilepsy,res47: Comorbidities,diagnostic
+Read,F250.00,Generalised nonconvulsive epilepsy,res47: Comorbidities,diagnostic
+Read,F251200,Epileptic seizures - clonic,res47: Comorbidities,diagnostic
+Read,F25y300,Complex partial status epilepticus,res47: Comorbidities,diagnostic
+Read,F250400,Juvenile absence epilepsy,res47: Comorbidities,diagnostic
+Read,F25A.00,Juvenile myoclonic epilepsy,res47: Comorbidities,diagnostic
+Read,F254500,Complex partial epileptic seizure,res47: Comorbidities,diagnostic
+Read,F256100,Salaam attacks,res47: Comorbidities,diagnostic
+Read,14AR.00,History of atrial flutter,res47: Comorbidities,diagnostic
+Read,F250200,Epileptic seizures - atonic,res47: Comorbidities,diagnostic
+Read,F254100,Psychomotor epilepsy,res47: Comorbidities,diagnostic
+Read,F251011,Tonic-clonic epilepsy,res47: Comorbidities,diagnostic
+Read,3296.00,ECG: partial A-V block - 3:1,res47: Comorbidities,diagnostic
+Read,9Os4.00,Atrial fibrillation monitoring telephone invite,res47: Comorbidities,diagnostic
+Read,F152.00,Motor neurone disease,res47: Comorbidities,diagnostic
+Read,7L1H700,External ventricular defibrillation,res47: Comorbidities,diagnostic
+Read,7L1H800,Chemical cardioversion,res47: Comorbidities,diagnostic
+Read,F372.11,Diabetic polyneuropathy,res47: Comorbidities,diagnostic
+Read,F301000,Tic douloureux,res47: Comorbidities,diagnostic
+Read,7936K00,Implantation of intravenous cardiac pacemaker system NEC,res47: Comorbidities,diagnostic
+Read,G559.00,Arrhythmogenic right ventricular cardiomyopathy,res47: Comorbidities,diagnostic
+Read,F301.00,Other specified trigeminal neuralgia,res47: Comorbidities,diagnostic
+Read,F366.00,Polyneuropathy,res47: Comorbidities,diagnostic
+Read,F152z00,Motor neurone disease NOS,res47: Comorbidities,diagnostic
+Read,F152000,Amyotrophic lateral sclerosis,res47: Comorbidities,diagnostic
+Read,N242000,Neuralgia unspecified,res47: Comorbidities,diagnostic
+Read,F367.00,Peripheral neuropathy,res47: Comorbidities,diagnostic
+Read,F375.00,Alcoholic polyneuropathy,res47: Comorbidities,diagnostic
+Read,F372.12,Diabetic neuropathy,res47: Comorbidities,diagnostic
+Read,C108211,Type I diabetes mellitus with neurological complications,res47: Comorbidities,diagnostic
+Read,29H8.00,O/E - vibration sense left foot reduced,res47: Comorbidities,diagnostic
+Read,G573100,Atrial flutter,res47: Comorbidities,diagnostic
+Read,29BA.00,10g monofilament sensation L foot abnormal,res47: Comorbidities,diagnostic
+Read,C106z00,Diabetes mellitus NOS with neurological manifestation,res47: Comorbidities,diagnostic
+Read,F372200,Asymptomatic diabetic neuropathy,res47: Comorbidities,diagnostic
+Read,29B8.00,10g monofilament sensation absent,res47: Comorbidities,diagnostic
+Read,C108B00,Insulin dependent diabetes mellitus with mononeuropathy,res47: Comorbidities,diagnostic
+Read,F372100,Chronic painful diabetic neuropathy,res47: Comorbidities,diagnostic
+Read,Fyu7C00,"[X] Polyneuropathy, unspecified",res47: Comorbidities,diagnostic
+Read,F372.00,Polyneuropathy in diabetes,res47: Comorbidities,diagnostic
+Read,C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy,res47: Comorbidities,diagnostic
+Read,G73y000,Diabetic peripheral angiopathy,res47: Comorbidities,diagnostic
+Read,C10F200,Type 2 diabetes mellitus with neurological complications,res47: Comorbidities,diagnostic
+Read,C108C00,Insulin dependent diabetes mellitus with polyneuropathy,res47: Comorbidities,diagnostic
+Read,C109211,Type II diabetes mellitus with neurological complications,res47: Comorbidities,diagnostic
+Read,29B9.00,10g monofilament sensation R foot abnormal,res47: Comorbidities,diagnostic
+Read,F372000,Acute painful diabetic neuropathy,res47: Comorbidities,diagnostic
+Read,C108J00,Insulin dependent diab mell with neuropathic arthropathy,res47: Comorbidities,diagnostic
+Read,F3y0.00,Diabetic mononeuropathy,res47: Comorbidities,diagnostic
+Read,N035.12,Neuropathic arthritis,res47: Comorbidities,diagnostic
+Read,F345000,Diabetic mononeuritis multiplex,res47: Comorbidities,diagnostic
+Read,C10F311,Type II diabetes mellitus with multiple complications,res47: Comorbidities,diagnostic
+Read,C10E200,Type 1 diabetes mellitus with neurological complications,res47: Comorbidities,diagnostic
+Read,N242z11,Policeman's disease,res47: Comorbidities,diagnostic
+Read,C109212,Type 2 diabetes mellitus with neurological complications,res47: Comorbidities,diagnostic
+Read,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy,res47: Comorbidities,diagnostic
+Read,C10E312,Insulin dependent diabetes mellitus with multiple complicat,res47: Comorbidities,diagnostic
+Read,C10FB00,Type 2 diabetes mellitus with polyneuropathy,res47: Comorbidities,diagnostic
+Read,C10E300,Type 1 diabetes mellitus with multiple complications,res47: Comorbidities,diagnostic
+Read,C10EC00,Type 1 diabetes mellitus with polyneuropathy,res47: Comorbidities,diagnostic
+Read,C109B11,Type II diabetes mellitus with polyneuropathy,res47: Comorbidities,diagnostic
+Read,29H4.00,O/E - Vibration sense of right foot abnormal,res47: Comorbidities,diagnostic
+Read,29H2.00,O/E - vibration sense reduced,res47: Comorbidities,diagnostic
+Read,C10F300,Type 2 diabetes mellitus with multiple complications,res47: Comorbidities,diagnostic
+Read,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy,res47: Comorbidities,diagnostic
+Read,F374.00,Polyneuropathy in disease EC,res47: Comorbidities,diagnostic
+Read,C10FB11,Type II diabetes mellitus with polyneuropathy,res47: Comorbidities,diagnostic
+Read,N035.00,Neuropathic arthropathy,res47: Comorbidities,diagnostic
+Read,Fyu7.00,[X]Polyneuropathies & other disord of peripheral nerv syst,res47: Comorbidities,diagnostic
+Read,C109A11,Type II diabetes mellitus with mononeuropathy,res47: Comorbidities,diagnostic
+Read,N242.00,"Neuralgia, neuritis and radiculitis unspecified",res47: Comorbidities,diagnostic
+Read,C109F00,Non-insulin-dependent d m with peripheral angiopath,res47: Comorbidities,diagnostic
+Read,C108J11,Type I diabetes mellitus with neuropathic arthropathy,res47: Comorbidities,diagnostic
+Read,C109F11,Type II diabetes mellitus with peripheral angiopathy,res47: Comorbidities,diagnostic
+Read,C109F12,Type 2 diabetes mellitus with peripheral angiopathy,res47: Comorbidities,diagnostic
+Read,F374z00,Polyneuropathy in disease NOS,res47: Comorbidities,diagnostic
+Read,C10FA00,Type 2 diabetes mellitus with mononeuropathy,res47: Comorbidities,diagnostic
+Read,F371200,Polyneuropathy in rheumatoid arthritis,res47: Comorbidities,diagnostic
+Read,C10EB00,Type 1 diabetes mellitus with mononeuropathy,res47: Comorbidities,diagnostic
+Read,G573000,Atrial fibrillation,res47: Comorbidities,diagnostic
+Read,F25F.00,Photosensitive epilepsy,res47: Comorbidities,diagnostic
+Read,F25B.00,Alcohol-induced epilepsy,res47: Comorbidities,diagnostic
+Read,F255012,Motor epilepsy,res47: Comorbidities,diagnostic
+Read,F25C.00,Drug-induced epilepsy,res47: Comorbidities,diagnostic
+Read,F254400,Epileptic automatism,res47: Comorbidities,diagnostic
+Read,F254.00,Partial epilepsy with impairment of consciousness,res47: Comorbidities,diagnostic
+Read,F250300,Epileptic seizures - akinetic,res47: Comorbidities,diagnostic
+Read,F254z00,Partial epilepsy with impairment of consciousness NOS,res47: Comorbidities,diagnostic
+Read,F259.00,Early infant epileptic encephalopathy wth suppression bursts,res47: Comorbidities,diagnostic
+Read,F132100,Progressive myoclonic epilepsy,res47: Comorbidities,diagnostic
+Read,F255200,Somatosensory epilepsy,res47: Comorbidities,diagnostic
+Read,F254200,Psychosensory epilepsy,res47: Comorbidities,diagnostic
+Read,F250500,Lennox-Gastaut syndrome,res47: Comorbidities,diagnostic
+Read,F35z000,Diabetic mononeuritis NOS,res47: Comorbidities,diagnostic
+Read,G573.00,Atrial fibrillation and flutter,res47: Comorbidities,diagnostic
+Read,N035.11,Charcot's arthropathy,res47: Comorbidities,diagnostic
+Read,F251100,Neonatal myoclonic epilepsy,res47: Comorbidities,diagnostic
+Read,C106.12,Diabetes mellitus with neuropathy,res47: Comorbidities,diagnostic
+Read,F300.00,Post-herpetic trigeminal neuralgia,res47: Comorbidities,diagnostic
+Read,F301z00,Trigeminal neuralgia NOS,res47: Comorbidities,diagnostic
+Read,M271100,Neuropathic diabetic ulcer - foot,res47: Comorbidities,diagnostic
+Read,N242300,Neuropathic pain,res47: Comorbidities,diagnostic
+Read,A531200,Postherpetic trigeminal neuralgia,res47: Comorbidities,diagnostic
+Read,29B2.11,O/E - loss of touch sensation,res47: Comorbidities,diagnostic
+Read,29H3.00,O/E - vibration sense absent,res47: Comorbidities,diagnostic
+Read,N242z00,"Neuralgia, neuritis or radiculitis NOS",res47: Comorbidities,diagnostic
+Read,29B4.00,O/E - hyperaesthesia present,res47: Comorbidities,diagnostic
+Read,29HA.00,O/E - Vibration sense of right foot absent,res47: Comorbidities,diagnostic
+Read,F37z.11,Polyneuropathy unspecified,res47: Comorbidities,diagnostic
+Read,F370100,Postinfectious polyneuritis,res47: Comorbidities,diagnostic
+Read,Fyu6B00,[X]Other mononeuropathies of lower limb,res47: Comorbidities,diagnostic
+Read,Fyu6C00,[X]Other specified mononeuropathies,res47: Comorbidities,diagnostic
+Read,C10EC12,Insulin dependent diabetes mellitus with polyneuropathy,res47: Comorbidities,diagnostic
+Read,C10EC11,Type I diabetes mellitus with polyneuropathy,res47: Comorbidities,diagnostic
+Read,F255100,Sensory induced epilepsy,res47: Comorbidities,diagnostic
+Read,F255600,Simple partial epileptic seizure,res47: Comorbidities,diagnostic
+Read,C108B11,Type I diabetes mellitus with mononeuropathy,res47: Comorbidities,diagnostic
+Read,F256.12,West syndrome,res47: Comorbidities,diagnostic
+Read,F25y.00,Other forms of epilepsy,res47: Comorbidities,diagnostic
+Read,F251y00,Other specified generalised convulsive epilepsy,res47: Comorbidities,diagnostic
+Read,F250z00,Generalised nonconvulsive epilepsy NOS,res47: Comorbidities,diagnostic
+Read,F251z00,Generalised convulsive epilepsy NOS,res47: Comorbidities,diagnostic
+Read,F256z00,Infantile spasms NOS,res47: Comorbidities,diagnostic
+Read,C10F211,Type II diabetes mellitus with neurological complications,res47: Comorbidities,diagnostic
+Read,F25E.00,Stress-induced epilepsy,res47: Comorbidities,diagnostic
+Read,Fyu6A00,[X]Other mononeuropathies of upper limb,res47: Comorbidities,diagnostic
+Read,F250y00,Other specified generalised nonconvulsive epilepsy,res47: Comorbidities,diagnostic
+Read,F259.11,Ohtahara syndrome,res47: Comorbidities,diagnostic
+Read,F25y100,Gelastic epilepsy,res47: Comorbidities,diagnostic
+Read,F251111,Otohara syndrome,res47: Comorbidities,diagnostic
+Read,F25D.00,Menstrual epilepsy,res47: Comorbidities,diagnostic
+Read,Fyu7200,[X]Other specified polyneuropathies,res47: Comorbidities,diagnostic
+Read,F255400,Visual reflex epilepsy,res47: Comorbidities,diagnostic
+Read,F25y000,Cursive (running) epilepsy,res47: Comorbidities,diagnostic
+Read,F254300,Limbic system epilepsy,res47: Comorbidities,diagnostic
+Read,C10FA11,Type II diabetes mellitus with mononeuropathy,res47: Comorbidities,diagnostic

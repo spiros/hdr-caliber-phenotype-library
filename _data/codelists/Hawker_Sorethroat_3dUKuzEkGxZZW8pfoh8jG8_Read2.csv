@@ -1,0 +1,34 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,2DC3.00,Inflamed throat,res20: Sore throat,diagnostic
+Read,2DC1.11,O/E - fauces injected,res20: Sore throat,diagnostic
+Read,2DC1.00,O/E - pharynx hyperaemic,res20: Sore throat,diagnostic
+Read,1C9..00,Sore throat symptom,res20: Sore throat,diagnostic
+Read,1CB3.11,Pain in throat,res20: Sore throat,diagnostic
+Read,1C93.00,Persistent sore throat,res20: Sore throat,diagnostic
+Read,1C92.00,Has a sore throat,res20: Sore throat,diagnostic
+Read,1C9..11,Throat soreness,res20: Sore throat,diagnostic
+Read,1C9Z.00,Sore throat symptom NOS,res20: Sore throat,diagnostic
+Read,H02..00,Acute pharyngitis,res20: Sore throat,diagnostic
+Read,H024.00,Acute viral pharyngitis,res20: Sore throat,diagnostic
+Read,H00..00,Acute nasopharyngitis,res20: Sore throat,diagnostic
+Read,H02..13,Throat infection - pharyngitis,res20: Sore throat,diagnostic
+Read,H02..12,Viral sore throat NOS,res20: Sore throat,diagnostic
+Read,H02..11,Sore throat NOS,res20: Sore throat,diagnostic
+Read,H032.00,Acute ulcerative tonsillitis,res20: Sore throat,diagnostic
+Read,H031.00,Acute follicular tonsillitis,res20: Sore throat,diagnostic
+Read,H02z.00,Acute pharyngitis NOS,res20: Sore throat,diagnostic
+Read,H030.00,Acute erythematous tonsillitis,res20: Sore throat,diagnostic
+Read,H03..11,Throat infection - tonsillitis,res20: Sore throat,diagnostic
+Read,H03..12,Tonsillitis,res20: Sore throat,diagnostic
+Read,H053.00,Tracheopharyngitis,res20: Sore throat,diagnostic
+Read,H03z.00,Acute tonsillitis NOS,res20: Sore throat,diagnostic
+Read,H037.00,Recurrent acute tonsillitis,res20: Sore throat,diagnostic
+Read,H036.00,Acute viral tonsillitis,res20: Sore throat,diagnostic
+Read,H052.00,Pharyngotracheitis,res20: Sore throat,diagnostic
+Read,H050.00,Acute laryngopharyngitis,res20: Sore throat,diagnostic
+Read,J083600,Uvulitis,res20: Sore throat,diagnostic
+Read,H271100,Influenza with pharyngitis,res20: Sore throat,diagnostic
+Read,H055.00,Pharyngolaryngitis,res20: Sore throat,diagnostic
+Read,R041.00,[D]Throat pain,res20: Sore throat,diagnostic
+Read,H03..00,Acute tonsillitis,res20: Sore throat,diagnostic
+Read,1CB3.00,Throat pain,res20: Sore throat,diagnostic

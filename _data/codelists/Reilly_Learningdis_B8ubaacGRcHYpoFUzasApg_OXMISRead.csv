@@ -1,0 +1,43 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,315,RETARDATION MENTAL,res26: LearningDis,diagnostic
+OXMIS,313,MENTAL RETARDATION SEVERE,res26: LearningDis,diagnostic
+OXMIS,315 HC,MENTAL HANDICAP,res26: LearningDis,diagnostic
+OXMIS,3061LF,LEARNING DIFFICULTY,res26: LearningDis,diagnostic
+OXMIS,311,MENTAL RETARDATION MILD,res26: LearningDis,diagnostic
+OXMIS,312,MENTAL RETARDATION MODERATE,res26: LearningDis,diagnostic
+Read,E31..00,Other specified mental retardation,res26: LearningDis,diagnostic
+Read,Eu72y00,"[X]Severe mental retardation, other impairments of behaviour",res26: LearningDis,diagnostic
+Read,Eu72.00,[X]Severe mental retardation,res26: LearningDis,diagnostic
+Read,Eu7..00,[X]Mental retardation,res26: LearningDis,diagnostic
+Read,E312.00,Profound mental retardation with IQ less than 20,res26: LearningDis,diagnostic
+Read,E3z..00,Mental retardation NOS,res26: LearningDis,diagnostic
+Read,Eu71z00,[X]Mod mental retardation without mention impairment behav,res26: LearningDis,diagnostic
+Read,Eu70y00,"[X]Mild mental retardation, other impairments of behaviour",res26: LearningDis,diagnostic
+Read,Eu71.00,[X]Moderate mental retardation,res26: LearningDis,diagnostic
+Read,Eu7yy00,"[X]Other mental retardation, other impairments of behaviour",res26: LearningDis,diagnostic
+Read,Eu73.00,[X]Profound mental retardation,res26: LearningDis,diagnostic
+Read,Eu7y.00,[X]Other mental retardation,res26: LearningDis,diagnostic
+Read,Eu81z11,[X]Learning disability NOS,res26: LearningDis,diagnostic
+Read,Eu7zz00,[X]Unsp mental retardation without mention impairment behav,res26: LearningDis,diagnostic
+Read,Eu81z00,"[X]Developmental disorder of scholastic skills, unspecified",res26: LearningDis,diagnostic
+Read,ZS34.00,Developmental disorder of scholastic skill,res26: LearningDis,diagnostic
+Read,E311.00,"Severe mental retardation, IQ in range 20-34",res26: LearningDis,diagnostic
+Read,Eu81.00,[X]Specific developmental disorders of scholastic skills,res26: LearningDis,diagnostic
+Read,Eu81y00,[X]Other developmental disorders of scholastic skills,res26: LearningDis,diagnostic
+Read,ZS34.11,Learning disability,res26: LearningDis,diagnostic
+Read,Eu84112,[X]Mental retardation with autistic features,res26: LearningDis,diagnostic
+Read,Z7CD200,Learning difficulties,res26: LearningDis,diagnostic
+Read,Eu7z.00,[X]Unspecified mental retardation,res26: LearningDis,diagnostic
+Read,Eu70z00,[X]Mild mental retardation without mention impairment behav,res26: LearningDis,diagnostic
+Read,E2F2.00,Other specific learning difficulty,res26: LearningDis,diagnostic
+Read,Eu7yz00,[X]Other mental retardation without mention impairment behav,res26: LearningDis,diagnostic
+Read,Eu73z00,[X]Prfnd mental retardation without mention impairment behav,res26: LearningDis,diagnostic
+Read,Eu73y00,"[X]Profound mental retardation, other impairments of behavr",res26: LearningDis,diagnostic
+Read,Eu72z00,[X]Sev mental retardation without mention impairment behav,res26: LearningDis,diagnostic
+Read,E31z.00,Other specified mental retardation NOS,res26: LearningDis,diagnostic
+Read,E3y..00,Other specified mental retardation,res26: LearningDis,diagnostic
+Read,Eu70.00,[X]Mild mental retardation,res26: LearningDis,diagnostic
+Read,E310.00,"Moderate mental retardation, IQ in range 35-49",res26: LearningDis,diagnostic
+Read,E3...00,Mental retardation,res26: LearningDis,diagnostic
+Read,13Z4E00,Learning difficulties,res26: LearningDis,diagnostic
+Read,E30..00,"Mild mental retardation, IQ in range 50-70",res26: LearningDis,diagnostic

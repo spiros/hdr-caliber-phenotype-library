@@ -1,0 +1,34 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,38G6.00,Joint British Societies cardiovascular disease risk score,res46: CVD Risk Score,test
+Read,388Y.00,UKPDS 10yr coronary heart disease risk score,res46: CVD Risk Score,test
+Read,14OG.00,Moderate risk of primary heart disease,res46: CVD Risk Score,test
+Read,14OF.00,Low risk of primary heart disease,res46: CVD Risk Score,test
+Read,ZR3r.00,Coronary heart disease risk,res46: CVD Risk Score,test
+Read,3888,Framingham coronary heart disease 10 year risk score,res46: CVD Risk Score,test
+Read,33BC.00,Cardiovascular event risk,res46: CVD Risk Score,test
+Read,388A.00,Coronary heart disease risk,res46: CVD Risk Score,test
+Read,38B1.11,Cardiovascular disease risk assessment,res46: CVD Risk Score,test
+Read,662m.00,JBS cardiovascular disease risk >20% up to 30% ov next 10 yr,res46: CVD Risk Score,test
+Read,14O7.00,At risk of heart disease,res46: CVD Risk Score,test
+Read,ZRB2.00,Framingham coronary heart disease 10 year risk score,res46: CVD Risk Score,test
+Read,14OH.00,High risk of primary heart disease,res46: CVD Risk Score,test
+Read,8CR6.00,Coronary heart disease risk clinical management plan,res46: CVD Risk Score,test
+Read,662n.00,JBS cardiovascular disease risk >30% over next 10 years,res46: CVD Risk Score,test
+Read,662l.00,JBS cardiovascular disease risk 10-20% over next 10 years,res46: CVD Risk Score,test
+Read,388R.00,Framingham coronary heart disease 10 yr adjusted risk score,res46: CVD Risk Score,test
+Read,14O7000,High risk of heart disease,res46: CVD Risk Score,test
+Read,388W.00,Joint British Societies cardiac risk score,res46: CVD Risk Score,test
+Read,8BR1.00,Cardiovascular disease risk assessment indicated,res46: CVD Risk Score,test
+Read,9OhA.00,Cardiovascular disease risk assessment done,res46: CVD Risk Score,test
+Read,6A40.00,Review of patient at risk from coronary heart disease,res46: CVD Risk Score,test
+Read,662k.00,JBS cardiovascular disease risk <10% over next 10 years,res46: CVD Risk Score,test
+Read,38D6.11,ASSIGN score,res46: CVD Risk Score,test
+Read,38D6.00,Assessing cardiovascular risk using SIGN score,res46: CVD Risk Score,test
+Read,38DF.00,QRISK cardiovascular disease 10 year risk score,res46: CVD Risk Score,test
+Read,38B1000,CVD (cardiovascular disease) risk assessment by third party,res46: CVD Risk Score,test
+Read,66f2.00,Cardiovascular disease high risk review,res46: CVD Risk Score,test
+Read,38DP.00,QRISK2 cardiovascular disease 10 year risk score,res46: CVD Risk Score,test
+Read,38DR.00,Framingham 1991 cardiovascular disease 10 year risk score,res46: CVD Risk Score,test
+Read,9NdT.00,Consent given for cardiovascular health risk assessment,res46: CVD Risk Score,test
+Read,14Oh.00,At risk of cardiovascular disease,res46: CVD Risk Score,test
+Read,14Oh000,High risk of cardiovascular disease,res46: CVD Risk Score,test

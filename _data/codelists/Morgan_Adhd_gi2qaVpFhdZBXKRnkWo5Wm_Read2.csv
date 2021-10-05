@@ -1,0 +1,29 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E2E0100,Attention deficit with hyperactivity,res59: ADHD,diagnostic
+Read,ZS91.11,ADD - Attention deficit disorder,res59: ADHD,diagnostic
+Read,E2E2.00,Hyperkinetic conduct disorder,res59: ADHD,diagnostic
+Read,Eu90z00,[X]Hyperkinetic disorder unspecified,res59: ADHD,diagnostic
+Read,Eu90y00,[X]Other hyperkinetic disorders,res59: ADHD,diagnostic
+Read,Eu90111,[X]Hyperkinetic disorder associated with conduct disorder,res59: ADHD,diagnostic
+Read,1P00.00,Hyperactive behaviour,res59: ADHD,diagnostic
+Read,E2E0z00,Child attention deficit disorder NOS,res59: ADHD,diagnostic
+Read,E2E0.00,Child attention deficit disorder,res59: ADHD,diagnostic
+Read,ZS93.00,Deficits in attention motor control and perception,res59: ADHD,diagnostic
+Read,E2E1.00,Hyperkinesis with developmental delay,res59: ADHD,diagnostic
+Read,E2E0000,Attention deficit without hyperactivity,res59: ADHD,diagnostic
+Read,ZS91.00,Attention deficit disorder,res59: ADHD,diagnostic
+Read,E2Ez.00,Hyperkinetic syndrome NOS,res59: ADHD,diagnostic
+Read,Eu90200,[X]Deficits in attention motor control and perception,res59: ADHD,diagnostic
+Read,Eu90000,[X]Disturbance of activity and attention,res59: ADHD,diagnostic
+Read,Eu90011,[X]Attention deficit hyperactivity disorder,res59: ADHD,diagnostic
+Read,Eu90.00,[X]Hyperkinetic disorders,res59: ADHD,diagnostic
+Read,Eu90z11,[X]Hyperkinetic reaction of childhood or adolescence NOS,res59: ADHD,diagnostic
+Read,ZS9..00,Disorders of attention and motor control,res59: ADHD,diagnostic
+Read,E2E..00,Childhood hyperkinetic syndrome,res59: ADHD,diagnostic
+Read,Eu90100,[X]Hyperkinetic conduct disorder,res59: ADHD,diagnostic
+Read,ZS93.11,DAMP - Deficits in attention motor control and perception,res59: ADHD,diagnostic
+Read,Eu90z12,[X]Hyperkinetic syndrome NOS,res59: ADHD,diagnostic
+Read,Eu9y700,[X]Attention deficit disorder,res59: ADHD,diagnostic
+Read,E2Ey.00,Other hyperkinetic manifestation,res59: ADHD,diagnostic
+Read,ZS91.12,[X]Attention deficit disorder,res59: ADHD,diagnostic
+Read,E2E..11,Overactive child syndrome,res59: ADHD,diagnostic

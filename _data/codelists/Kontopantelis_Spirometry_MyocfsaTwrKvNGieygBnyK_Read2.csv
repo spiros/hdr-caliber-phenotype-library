@@ -1,0 +1,15 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,33H0.00,Negative reversibility test to salbutamol,spirometry,test
+Read,33H..00,Salbutamol reversibility,spirometry,test
+Read,33G1.00,Spirometry reversibility positive,spirometry,test
+Read,33G0.00,Spirometry reversibility negative,spirometry,test
+Read,33G..00,Spirometry reversibility,spirometry,test
+Read,33J1.00,Pos reversib test to combin of salbutamol + ipratropium br,spirometry,test
+Read,33H1.00,Positive reversibility test to salbutamol,spirometry,test
+Read,33J0.00,Neg reversibil test to combinat of salbutamol + ipratrop br,spirometry,test
+Read,33I..00,Ipratropium reversibility,spirometry,test
+Read,33I0.00,Negative reversibility test to ipratropium bromide,spirometry,test
+Read,33J..00,Combined reversibility,spirometry,test
+Read,33I1.00,Positive reversibility test to ipratropium bromide,spirometry,test
+Read,66Ya.00,Reversibility trial by bronchodilator,spirometry,test
+Read,66Yb.00,Reversibility trial by anticholinergic,spirometry,test

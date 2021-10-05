@@ -1,0 +1,19 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G5yA.00,Rheumatoid carditis,res34: rheumatoid_arthritis_group3,diagnostic
+Read,G5y8.00,Rheumatoid myocarditis,res34: rheumatoid_arthritis_group3,diagnostic
+Read,F396400,Myopathy due to rheumatoid arthritis,res34: rheumatoid_arthritis_group3,diagnostic
+Read,F371200,Polyneuropathy in rheumatoid arthritis,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N040Q00,Rheumatoid bursitis,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N040N00,Rheumatoid vasculitis,res34: rheumatoid_arthritis_group3,diagnostic
+Read,H570.00,Rheumatoid lung,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N042100,Rheumatoid lung disease,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N042000,Rheumatic carditis,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N040R00,Rheumatoid nodule,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N041.00,Felty's syndrome,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N04y000,Rheumatoid lung,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N042.00,Other rheumatoid arthropathy + visceral/systemic involvement,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N042z00,Rheumatoid arthropathy + visceral/systemic involvement NOS,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N042200,Rheumatoid nodule,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N04y012,Fibrosing alveolitis associated with rheumatoid arthritis,res34: rheumatoid_arthritis_group3,diagnostic
+Read,N04y011,Caplan's syndrome,res34: rheumatoid_arthritis_group3,diagnostic
+Read,Nyu1000,[X]Rheumatoid arthritis+involvement/other organs or systems,res34: rheumatoid_arthritis_group3,diagnostic

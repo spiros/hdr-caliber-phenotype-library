@@ -1,0 +1,37 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,7925200,Single anast mammary art to left ant descend coronary art,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7920300,Saphenous vein graft replacement of four+ coronary arteries,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7921000,Autograft replacement of one coronary artery NEC,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7926,Connection of other thoracic artery to coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7924100,Revision of bypass for two coronary arteries,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7920y00,Saphenous vein graft replacement of coronary artery OS,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7920,Saphenous vein graft replacement of coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7920.11,Saphenous vein graft bypass of coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7920000,Saphenous vein graft replacement of one coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,792..11,Coronary artery bypass graft operations,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7920200,Saphenous vein graft replacement of three coronary arteries,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7920100,Saphenous vein graft replacement of two coronary arteries,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,ZV45L00,[V]Status following coronary angioplasty NOS,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7925311,LIMA single anastomosis,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7921.11,Other autograft bypass of coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,792Dy00,Other specified other bypass of coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7922.11,Allograft bypass of coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7921300,Autograft replacement of four of more coronary arteries NEC,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7921200,Autograft replacement of three coronary arteries NEC,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7925011,LIMA sequential anastomosis,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7929,Other therapeutic transluminal operations on coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7925000,Double anastomosis of mammary arteries to coronary arteries,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7921z00,Other autograft replacement of coronary artery NOS,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7922100,Allograft replacement of two coronary arteries,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7923.11,Prosthetic bypass of coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7924,Revision of bypass for coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7920z00,Saphenous vein graft replacement coronary artery NOS,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,792Dz00,Other bypass of coronary artery NOS,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7925,Connection of mammary artery to coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7923,Prosthetic replacement of coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,792y.00,Other specified operations on coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,792C.00,Other replacement of coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7925z00,Connection of mammary artery to coronary artery NOS,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7925.11,Creation of bypass from mammary artery to coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,7921,Other autograft replacement of coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic
+Read,792D.00,Other bypass of coronary artery,res12: Coronary Artery Bypass Grafting,diagnostic

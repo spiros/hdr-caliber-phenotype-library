@@ -1,0 +1,40 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,2126200,Asthma resolved,res25: P1asthma,diagnostic
+Read,1O2..00,Asthma confirmed,res25: P1asthma,diagnostic
+Read,173d.00,Work aggravated asthma,res25: P1asthma,diagnostic
+Read,14B4.00,H/O: asthma,res25: P1asthma,diagnostic
+Read,H331111,Intrinsic asthma with asthma attack,res25: P1asthma,diagnostic
+Read,H33..00,Asthma,res25: P1asthma,diagnostic
+Read,H331100,Intrinsic asthma with status asthmaticus,res25: P1asthma,diagnostic
+Read,H330.13,Hay fever with asthma,res25: P1asthma,diagnostic
+Read,8H2P.00,"Emergency admission, asthma",res25: P1asthma,diagnostic
+Read,212G.00,Asthma resolved,res25: P1asthma,diagnostic
+Read,H330.12,Childhood asthma,res25: P1asthma,diagnostic
+Read,H33..11,Bronchial asthma,res25: P1asthma,diagnostic
+Read,H330.11,Allergic asthma,res25: P1asthma,diagnostic
+Read,H330.00,Extrinsic (atopic) asthma,res25: P1asthma,diagnostic
+Read,H331000,Intrinsic asthma without status asthmaticus,res25: P1asthma,diagnostic
+Read,H330011,Hay fever with asthma,res25: P1asthma,diagnostic
+Read,H330000,Extrinsic asthma without status asthmaticus,res25: P1asthma,diagnostic
+Read,H330.14,Pollen asthma,res25: P1asthma,diagnostic
+Read,H331.11,Late onset asthma,res25: P1asthma,diagnostic
+Read,H330111,Extrinsic asthma with asthma attack,res25: P1asthma,diagnostic
+Read,H330100,Extrinsic asthma with status asthmaticus,res25: P1asthma,diagnostic
+Read,H331.00,Intrinsic asthma,res25: P1asthma,diagnostic
+Read,H330z00,Extrinsic asthma NOS,res25: P1asthma,diagnostic
+Read,H331z00,Intrinsic asthma NOS,res25: P1asthma,diagnostic
+Read,H33z000,Status asthmaticus NOS,res25: P1asthma,diagnostic
+Read,H33z.00,Asthma unspecified,res25: P1asthma,diagnostic
+Read,H332.00,Mixed asthma,res25: P1asthma,diagnostic
+Read,H334.00,Brittle asthma,res25: P1asthma,diagnostic
+Read,H333.00,Acute exacerbation of asthma,res25: P1asthma,diagnostic
+Read,H33z011,Severe asthma attack,res25: P1asthma,diagnostic
+Read,H33z200,Late-onset asthma,res25: P1asthma,diagnostic
+Read,H33z100,Asthma attack,res25: P1asthma,diagnostic
+Read,H33z111,Asthma attack NOS,res25: P1asthma,diagnostic
+Read,H33zz00,Asthma NOS,res25: P1asthma,diagnostic
+Read,H312000,Chronic asthmatic bronchitis,res25: P1asthma,diagnostic
+Read,H312011,Chronic wheezy bronchitis,res25: P1asthma,diagnostic
+Read,H33zz12,Allergic asthma NEC,res25: P1asthma,diagnostic
+Read,H47y000,Detergent asthma,res25: P1asthma,diagnostic
+Read,H33zz11,Exercise induced asthma,res25: P1asthma,diagnostic

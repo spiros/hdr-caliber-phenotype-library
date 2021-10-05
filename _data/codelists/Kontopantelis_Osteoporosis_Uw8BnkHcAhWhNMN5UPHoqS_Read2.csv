@@ -1,0 +1,40 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,N330800,Localized osteoporosis - Lequesne,Osteoporosis,diagnostic
+Read,N330700,Postsurgical malabsorption osteoporosis,Osteoporosis,diagnostic
+Read,7230PM,OSTEOPOROSIS POSTMENOPAUSAL,Osteoporosis,diagnostic
+Read,58EA.00,Heel DXA scan result osteoporotic,Osteoporosis,diagnostic
+Read,58E4.00,Forearm DXA scan result osteoporotic,Osteoporosis,diagnostic
+Read,585O.00,Quantitative ultrasound scan of heel - result osteoporotic,Osteoporosis,diagnostic
+Read,58EM.00,Lumbar DXA scan result osteoporotic,Osteoporosis,diagnostic
+Read,58EG.00,Hip DXA scan result osteoporotic,Osteoporosis,diagnostic
+Read,7230D,VERTEBRAL OSTEOPOROSIS,Osteoporosis,diagnostic
+Read,7230B,OSTEOPOROSIS SENILIS,Osteoporosis,diagnostic
+Read,7230A,OSTEOPOROSIS,Osteoporosis,diagnostic
+Read,N330600,Postoophorectomy osteoporosis,Osteoporosis,diagnostic
+Read,N330000,Osteoporosis; unspecified,Osteoporosis,diagnostic
+Read,N330.00,Osteoporosis,Osteoporosis,diagnostic
+Read,7230PT,OSTEOPOROSIS POST-TRAUMATIC,Osteoporosis,diagnostic
+Read,N330500,Drug-induced osteoporosis,Osteoporosis,diagnostic
+Read,N330200,Postmenopausal osteoporosis,Osteoporosis,diagnostic
+Read,N330100,Senile osteoporosis,Osteoporosis,diagnostic
+Read,N330400,Dissuse osteoporosis,Osteoporosis,diagnostic
+Read,N330300,Idiopathic osteoporosis,Osteoporosis,diagnostic
+Read,N331400,Postsurgical malabsorption osteoporosis with path fracture,Osteoporosis,diagnostic
+Read,N330A00,Osteoporosis in endocrine disorders,Osteoporosis,diagnostic
+Read,N330900,Osteoporosis in multiple myelomatosis,Osteoporosis,diagnostic
+Read,N331300,Osteoporosis of disuse with pathological fracture,Osteoporosis,diagnostic
+Read,N330C00,Osteoporosis localized to spine,Osteoporosis,diagnostic
+Read,N330B00,Vertebral osteoporosis,Osteoporosis,diagnostic
+Read,N331200,Postoophorectomy osteoporosis with pathological fracture,Osteoporosis,diagnostic
+Read,N330D00,Osteoporosis due to corticosteroids,Osteoporosis,diagnostic
+Read,N330z00,Osteoporosis NOS,Osteoporosis,diagnostic
+Read,NyuB800,[X]Unspecified osteoporosis with pathological fracture,Osteoporosis,diagnostic
+Read,N331900,Osteoporosis + pathological fracture thoracic vertebrae,Osteoporosis,diagnostic
+Read,N331500,Drug-induced osteoporosis with pathological fracture,Osteoporosis,diagnostic
+Read,N331800,Osteoporosis + pathological fracture lumbar vertebrae,Osteoporosis,diagnostic
+Read,N331600,Idiopathic osteoporosis with pathological fracture,Osteoporosis,diagnostic
+Read,NyuB200,[X]Osteoporosis in other disorders classified elsewhere,Osteoporosis,diagnostic
+Read,N331B00,Postmenopausal osteoporosis with pathological fracture,Osteoporosis,diagnostic
+Read,N331A00,Osteoporosis + pathological fracture cervical vertebrae,Osteoporosis,diagnostic
+Read,NyuB100,[X]Other osteoporosis,Osteoporosis,diagnostic
+Read,NyuB000,[X]Other osteoporosis with pathological fracture,Osteoporosis,diagnostic

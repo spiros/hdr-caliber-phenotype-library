@@ -1,0 +1,67 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,492 AC,EMPHYSEMA APICAL BULLAE,chronic obstructive pulmonary diasease,diagnostic
+OXMIS,5199GE,EXACERBATION COAD,chronic obstructive pulmonary diasease,diagnostic
+OXMIS,492,EMPHYSEMA PULMONARY,chronic obstructive pulmonary diasease,diagnostic
+OXMIS,491 E,CHRONIC BRONCHITIS WITH EMPHYSEMA,chronic obstructive pulmonary diasease,diagnostic
+OXMIS,491,CHRONIC BRONCHITIS,chronic obstructive pulmonary diasease,diagnostic
+OXMIS,5199G,OBSTRUCTIVE AIRWAYS DISEASE CHRONIC,chronic obstructive pulmonary diasease,diagnostic
+OXMIS,5199GP,COPD (CHRONIC OBSTRUCTIVE PULMONARY DISE,chronic obstructive pulmonary diasease,diagnostic
+OXMIS,5199GL,COLD (CHRONIC OBSTRUCTIVE LUNG DISEASE),chronic obstructive pulmonary diasease,diagnostic
+Read,H320100,Zonal bullous emphysema,chronic obstructive pulmonary diasease,diagnostic
+Read,66Yh.00,Chronic obstructive pulmonary disease does not disturb sleep,chronic obstructive pulmonary diasease,diagnostic
+Read,H312.00,Obstructive chronic bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H311100,Fetid chronic bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,66YB.00,Chronic obstructive pulmonary disease monitoring,chronic obstructive pulmonary diasease,diagnostic
+Read,H32y.00,Other emphysema,chronic obstructive pulmonary diasease,diagnostic
+Read,66Yi.00,Multiple COPD emergency hospital admissions,chronic obstructive pulmonary diasease,diagnostic
+Read,H320300,Bullous emphysema with collapse,chronic obstructive pulmonary diasease,diagnostic
+Read,66Yg.00,Chronic obstructive pulmonary disease disturbs sleep,chronic obstructive pulmonary diasease,diagnostic
+Read,H3...00,Chronic obstructive pulmonary disease,chronic obstructive pulmonary diasease,diagnostic
+Read,H320z00,Chronic bullous emphysema NOS,chronic obstructive pulmonary diasease,diagnostic
+Read,H321.00,Panlobular emphysema,chronic obstructive pulmonary diasease,diagnostic
+Read,H310.00,Simple chronic bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H320.00,Chronic bullous emphysema,chronic obstructive pulmonary diasease,diagnostic
+Read,H312000,Chronic asthmatic bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H311.00,Mucopurulent chronic bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H32y111,Acute interstitial emphysema,chronic obstructive pulmonary diasease,diagnostic
+Read,H36..00,Mild chronic obstructive pulmonary disease,chronic obstructive pulmonary diasease,diagnostic
+Read,H32y000,Acute vesicular emphysema,chronic obstructive pulmonary diasease,diagnostic
+Read,H310z00,Simple chronic bronchitis NOS,chronic obstructive pulmonary diasease,diagnostic
+Read,H322.00,Centrilobular emphysema,chronic obstructive pulmonary diasease,diagnostic
+Read,H31y.00,Other chronic bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H38..00,Severe chronic obstructive pulmonary disease,chronic obstructive pulmonary diasease,diagnostic
+Read,H312200,Acute exacerbation of chronic obstructive airways disease,chronic obstructive pulmonary diasease,diagnostic
+Read,H37..00,Moderate chronic obstructive pulmonary disease,chronic obstructive pulmonary diasease,diagnostic
+Read,H312300,Bronchiolitis obliterans,chronic obstructive pulmonary diasease,diagnostic
+Read,66Yf.00,Number of COPD exacerbations in past year,chronic obstructive pulmonary diasease,diagnostic
+Read,66YD.00,Chronic obstructive pulmonary disease monitoring due,chronic obstructive pulmonary diasease,diagnostic
+Read,66Yd.00,COPD accident and emergency attendance since last visit,chronic obstructive pulmonary diasease,diagnostic
+Read,66YL.00,Chronic obstructive pulmonary disease follow-up,chronic obstructive pulmonary diasease,diagnostic
+Read,66YL.11,COPD follow-up,chronic obstructive pulmonary diasease,diagnostic
+Read,66YI.00,COPD self-management plan given,chronic obstructive pulmonary diasease,diagnostic
+Read,66Ye.00,Emergency COPD admission since last appointment,chronic obstructive pulmonary diasease,diagnostic
+Read,66YM.00,Chronic obstructive pulmonary disease annual review,chronic obstructive pulmonary diasease,diagnostic
+Read,66YL.12,COAD follow-up,chronic obstructive pulmonary diasease,diagnostic
+Read,8H2R.00,Admit COPD emergency,chronic obstructive pulmonary diasease,diagnostic
+Read,66YS.00,Chronic obstructive pulmonary disease monitoring by nurse,chronic obstructive pulmonary diasease,diagnostic
+Read,66YT.00,Chronic obstructive pulmonary disease monitoring by doctor,chronic obstructive pulmonary diasease,diagnostic
+Read,H3z..11,Chronic obstructive pulmonary disease NOS,chronic obstructive pulmonary diasease,diagnostic
+Read,H31z.00,Chronic bronchitis NOS,chronic obstructive pulmonary diasease,diagnostic
+Read,H31y100,Chronic tracheobronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H312100,Emphysematous bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H313.00,Mixed simple and mucopurulent chronic bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H310000,Chronic catarrhal bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H31yz00,Other chronic bronchitis NOS,chronic obstructive pulmonary diasease,diagnostic
+Read,H31..00,Chronic bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H312z00,Obstructive chronic bronchitis NOS,chronic obstructive pulmonary diasease,diagnostic
+Read,H312011,Chronic wheezy bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H311z00,Mucopurulent chronic bronchitis NOS,chronic obstructive pulmonary diasease,diagnostic
+Read,H3y..11,Other specified chronic obstructive pulmonary disease,chronic obstructive pulmonary diasease,diagnostic
+Read,H32y200,MacLeod's unilateral emphysema,chronic obstructive pulmonary diasease,diagnostic
+Read,H311000,Purulent chronic bronchitis,chronic obstructive pulmonary diasease,diagnostic
+Read,H32y100,Atrophic (senile) emphysema,chronic obstructive pulmonary diasease,diagnostic
+Read,H320200,Giant bullous emphysema,chronic obstructive pulmonary diasease,diagnostic
+Read,H320000,Segmental bullous emphysema,chronic obstructive pulmonary diasease,diagnostic
+Read,H32z.00,Emphysema NOS,chronic obstructive pulmonary diasease,diagnostic
+Read,H32yz00,Other emphysema NOS,chronic obstructive pulmonary diasease,diagnostic
+Read,H32..00,Emphysema,chronic obstructive pulmonary diasease,diagnostic

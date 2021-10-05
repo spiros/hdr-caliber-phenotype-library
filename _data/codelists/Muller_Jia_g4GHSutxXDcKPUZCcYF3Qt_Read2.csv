@@ -1,0 +1,17 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,N043000,Juvenile rheumatoid arthropathy unspecified,res34: JIA,diagnostic
+Read,N045100,Juvenile seronegative polyarthritis,res34: JIA,diagnostic
+Read,N043z00,Juvenile rheumatoid arthritis NOS,res34: JIA,diagnostic
+Read,N045.00,Other juvenile arthritis,res34: JIA,diagnostic
+Read,N043.00,Juvenile rheumatoid arthritis - Still's disease,res34: JIA,diagnostic
+Read,N045500,Juvenile rheumatoid arthritis,res34: JIA,diagnostic
+Read,N043200,Pauciarticular juvenile rheumatoid arthritis,res34: JIA,diagnostic
+Read,N043100,Acute polyarticular juvenile rheumatoid arthritis,res34: JIA,diagnostic
+Read,Nyu1500,[X]Other juvenile arthritis,res34: JIA,diagnostic
+Read,N043300,Monarticular juvenile rheumatoid arthritis,res34: JIA,diagnostic
+Read,N045600,Pauciarticular onset juvenile chronic arthritis,res34: JIA,diagnostic
+Read,N045200,Juvenile arthritis in psoriasis,res34: JIA,diagnostic
+Read,N045300,Juvenile arthritis in Crohn's disease,res34: JIA,diagnostic
+Read,G759.00,Juvenile polyarteritis,res34: JIA,diagnostic
+Read,N003000,Juvenile dermatomyositis,res34: JIA,diagnostic
+Read,N045000,Juvenile ankylosing spondylitis,res34: JIA,diagnostic

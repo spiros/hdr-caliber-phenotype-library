@@ -1,0 +1,331 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,dn55.,*zarontin 250mg capsules,res55: antiepileptic,diagnostic
+Read,dn4x.,clonazepam 2mg/5ml s/f soln,res55: antiepileptic,diagnostic
+Read,dn5x.,ethosuximide 250mg capsules                                 ,res55: antiepileptic,diagnostic
+Read,dn3I.,*teril cr 400mg m/r tablets,res55: antiepileptic,diagnostic
+Read,dnww.,perampanel 8mg tablets,res55: antiepileptic,diagnostic
+Read,dn5z.,ethosuximide 250mg/5ml syrup                                ,res55: antiepileptic,diagnostic
+Read,dn3G.,*timonil retard 400mg m/r tabs,res55: antiepileptic,diagnostic
+Read,dn3B.,*epimaz 200mg tablets,res55: antiepileptic,diagnostic
+Read,dn3F.,*timonil retard 200mg m/r tabs,res55: antiepileptic,diagnostic
+Read,dn3H.,*teril cr 200mg m/r tablets,res55: antiepileptic,diagnostic
+Read,dn4w.,clonazepam 0.5mg/5ml s/f soln,res55: antiepileptic,diagnostic
+Read,dn3K.,carbagen sr 400mg m/r tablets,res55: antiepileptic,diagnostic
+Read,dn3J.,carbagen sr 200mg m/r tablets,res55: antiepileptic,diagnostic
+Read,dn42.,rivotril 2mg tablets,res55: antiepileptic,diagnostic
+Read,dn3x.,carbamazepine 200mg chew tabs,res55: antiepileptic,diagnostic
+Read,dn3a.,carbamazepine 200mg m/r tabs,res55: antiepileptic,diagnostic
+Read,dn3d.,tegretol 200mg chew tabs,res55: antiepileptic,diagnostic
+Read,dn3b.,carbamazepine 400mg m/r tabs,res55: antiepileptic,diagnostic
+Read,dn3c.,tegretol 100mg chew tabs,res55: antiepileptic,diagnostic
+Read,dn41.,*rivotril 500mcg tablets,res55: antiepileptic,diagnostic
+Read,dn3y.,carbamazepine 100mg chew tabs,res55: antiepileptic,diagnostic
+Read,dn4..,clonazepam [epilepsy control],res55: antiepileptic,diagnostic
+Read,dn3z.,carbamazepine 100mg/5ml sf liq,res55: antiepileptic,diagnostic
+Read,dn4y.,clonazepam 500mcg tablets,res55: antiepileptic,diagnostic
+Read,dn54.,emeside 250mg/5ml syrup,res55: antiepileptic,diagnostic
+Read,dn52.,*ethosuximide 250mg/5ml elixir                              ,res55: antiepileptic,diagnostic
+Read,dn5..,ethosuximide                                                ,res55: antiepileptic,diagnostic
+Read,dn4z.,clonazepam 2mg tablets,res55: antiepileptic,diagnostic
+Read,dn51.,*ethosuximide 250mg capsules                                ,res55: antiepileptic,diagnostic
+Read,dn53.,*emeside 250mg capsules,res55: antiepileptic,diagnostic
+Read,dnwy.,perampanel 4mg tablets,res55: antiepileptic,diagnostic
+Read,dn56.,zarontin 250mg/5ml syrup,res55: antiepileptic,diagnostic
+Read,dn95.,*epanutin 100mg capsules,res55: antiepileptic,diagnostic
+Read,dnwx.,perampanel 6mg tablets,res55: antiepileptic,diagnostic
+Read,dn5y.,*ethosuximide 250mg/5ml elixir                              ,res55: antiepileptic,diagnostic
+Read,dn6..,methylphenobarbital,res55: antiepileptic,diagnostic
+Read,k81y.,acetazolamide 250mg tablets,res55: antiepileptic,diagnostic
+Read,dn94.,epanutin 50mg capsules,res55: antiepileptic,diagnostic
+Read,k812.,diamox 250mg tablets,res55: antiepileptic,diagnostic
+Read,dn93.,*epanutin 25mg capsules,res55: antiepileptic,diagnostic
+Read,k81x.,*acetazolamide 500mg m/r caps,res55: antiepileptic,diagnostic
+Read,k811.,*diamox sustets 500mg m/r caps,res55: antiepileptic,diagnostic
+Read,dnwz.,perampanel 2mg tablets,res55: antiepileptic,diagnostic
+Read,k81..,acetazolamide [glaucoma],res55: antiepileptic,diagnostic
+Read,k81w.,acetazolamide 250mg m/r caps,res55: antiepileptic,diagnostic
+Read,dn92.,phenytoin 100mg tablets,res55: antiepileptic,diagnostic
+Read,dn75.,*phenobarb sodium 30mg tablets,res55: antiepileptic,diagnostic
+Read,dn6x.,*methylphenobarbitone 30mg tab,res55: antiepileptic,diagnostic
+Read,dn63.,*prominal 200mg tablets,res55: antiepileptic,diagnostic
+Read,dn62.,*prominal 60mg tablets,res55: antiepileptic,diagnostic
+Read,dn61.,*prominal 30mg tablets,res55: antiepileptic,diagnostic
+Read,dn74.,phenobarbital 100mg tablets,res55: antiepileptic,diagnostic
+Read,dn73.,phenobarbital 60mg tablets,res55: antiepileptic,diagnostic
+Read,dn6z.,*methylphenobarb 200mg tabs,res55: antiepileptic,diagnostic
+Read,dn6y.,*methylphenobarbitone 60mg tab,res55: antiepileptic,diagnostic
+Read,dn72.,phenobarbital 30mg tablets,res55: antiepileptic,diagnostic
+Read,dn71.,phenobarbital 15mg tablets,res55: antiepileptic,diagnostic
+Read,dn7..,phenobarbital,res55: antiepileptic,diagnostic
+Read,k815.,diamox sr 250mg m/r capsules,res55: antiepileptic,diagnostic
+Read,dn91.,phenytoin 50mg tablets,res55: antiepileptic,diagnostic
+Read,dn7b.,*luminal 30mg tablets,res55: antiepileptic,diagnostic
+Read,dn7a.,*luminal 15mg tablets,res55: antiepileptic,diagnostic
+Read,dn77.,*phenobarbitone 15mg/10ml elix,res55: antiepileptic,diagnostic
+Read,dn76.,*phenobarb sodium 60mg tablets,res55: antiepileptic,diagnostic
+Read,dn9..,phenytoin sodium,res55: antiepileptic,diagnostic
+Read,dn8..,phenytoin,res55: antiepileptic,diagnostic
+Read,dn7d.,phenobarbital 15mg/5ml elixir,res55: antiepileptic,diagnostic
+Read,dn7c.,*luminal 60mg tablets,res55: antiepileptic,diagnostic
+Read,dn8z.,phenytoin 90mg/5ml s/f susp,res55: antiepileptic,diagnostic
+Read,dn83.,phenytoin 50mg chew tabs,res55: antiepileptic,diagnostic
+Read,dn82.,epanutin 50mg infatabs,res55: antiepileptic,diagnostic
+Read,dn81.,epanutin 30mg/5ml suspension,res55: antiepileptic,diagnostic
+Read,dn8y.,phenytoin 30mg/5ml suspension,res55: antiepileptic,diagnostic
+Read,dnwv.,perampanel 10mg tablets,res55: antiepileptic,diagnostic
+Read,dna3.,*mysoline 50mg tablets,res55: antiepileptic,diagnostic
+Read,dn3A.,*epimaz 100mg tablets,res55: antiepileptic,diagnostic
+Read,dn98.,*pentran 100mg tablets,res55: antiepileptic,diagnostic
+Read,dn97.,*pentran 50mg tablets,res55: antiepileptic,diagnostic
+Read,dn96.,*epanutin 300mg capsules,res55: antiepileptic,diagnostic
+Read,dnf4.,lamictal 100mg tablets,res55: antiepileptic,diagnostic
+Read,dn9x.,phenytoin sodium 25mg caps,res55: antiepileptic,diagnostic
+Read,dn9w.,phenytoin sodium 300mg caps,res55: antiepileptic,diagnostic
+Read,dna2.,*mysoline 250mg/5ml suspension,res55: antiepileptic,diagnostic
+Read,dna1.,mysoline 250mg tablets,res55: antiepileptic,diagnostic
+Read,dna..,primidone,res55: antiepileptic,diagnostic
+Read,dn9y.,phenytoin sodium 50mg capsules,res55: antiepileptic,diagnostic
+Read,dn9z.,phenytoin sodium 100mg caps,res55: antiepileptic,diagnostic
+Read,dnbL.,sod valproate 500mg m/r grans,res55: antiepileptic,diagnostic
+Read,dnb1.,epilim 100mg crushable tablets,res55: antiepileptic,diagnostic
+Read,dnax.,primidone 50mg tablets,res55: antiepileptic,diagnostic
+Read,dnf3.,lamictal 50mg tablets,res55: antiepileptic,diagnostic
+Read,dnbH.,episenta 500mg/sach m/r grans,res55: antiepileptic,diagnostic
+Read,dnbM.,sod valprote 1g/sach m/r grans,res55: antiepileptic,diagnostic
+Read,dnb..,sodium valproate,res55: antiepileptic,diagnostic
+Read,dnay.,primidone 250mg tablets,res55: antiepileptic,diagnostic
+Read,dnaz.,*primidone 250mg/5ml susp,res55: antiepileptic,diagnostic
+Read,dnb2.,epilim 200mg e/c tablets,res55: antiepileptic,diagnostic
+Read,dnb4.,epilim 200mg/5ml s/f liq,res55: antiepileptic,diagnostic
+Read,dnbG.,episenta 300mg m/r capsules,res55: antiepileptic,diagnostic
+Read,dnb3.,epilim 500mg e/c tablets,res55: antiepileptic,diagnostic
+Read,dnb8.,sod. valproate 500mg e/c tabs,res55: antiepileptic,diagnostic
+Read,dnb7.,sod. valproate 200mg e/c tabs,res55: antiepileptic,diagnostic
+Read,dnb5.,epilim 200mg/5ml syrup,res55: antiepileptic,diagnostic
+Read,dnbF.,episenta 150mg m/r capsules,res55: antiepileptic,diagnostic
+Read,dnb9.,*orlept 200mg e/c tabs x10,res55: antiepileptic,diagnostic
+Read,dnbC.,epival cr 500mg m/r tablets,res55: antiepileptic,diagnostic
+Read,dnbA.,*orlept 200mg/5ml s/f liquid,res55: antiepileptic,diagnostic
+Read,dnbB.,epival cr 300mg m/r tablets,res55: antiepileptic,diagnostic
+Read,dnbJ.,sodum valproate 150mg m/r caps,res55: antiepileptic,diagnostic
+Read,dnbI.,episenta 1g/sachet m/r grans,res55: antiepileptic,diagnostic
+Read,dnbK.,sodum valproate 300mg m/r caps,res55: antiepileptic,diagnostic
+Read,dnbc.,epilim chrono 200 m/r tablets,res55: antiepileptic,diagnostic
+Read,dnf2.,lamotrigine 100mg tablets,res55: antiepileptic,diagnostic
+Read,dnf1.,lamotrigine 50mg tablets,res55: antiepileptic,diagnostic
+Read,dnbb.,*orlept 500mg e/c tablets,res55: antiepileptic,diagnostic
+Read,dnba.,*orlept 200mg e/c tablets,res55: antiepileptic,diagnostic
+Read,dnbQ.,epilim chrono 100mg m/r grans,res55: antiepileptic,diagnostic
+Read,dnbP.,epilim chrono 50mg m/r grans,res55: antiepileptic,diagnostic
+Read,dnbR.,epilim chrono 250mg m/r grans,res55: antiepileptic,diagnostic
+Read,dnbU.,epilim chrono 1g m/r granules,res55: antiepileptic,diagnostic
+Read,dnbT.,epilim chrono 750mg m/r grans,res55: antiepileptic,diagnostic
+Read,dnbS.,epilim chrono 500mg m/r grans,res55: antiepileptic,diagnostic
+Read,dnf..,lamotrigine,res55: antiepileptic,diagnostic
+Read,dnbd.,epilim chrono 300 m/r tablets,res55: antiepileptic,diagnostic
+Read,dnc..,clobazam [epilepsy only],res55: antiepileptic,diagnostic
+Read,dnbq.,sod valproate 750mg m/r grans,res55: antiepileptic,diagnostic
+Read,dnbp.,sod valproate 250mg m/r grans,res55: antiepileptic,diagnostic
+Read,dnbe.,epilim chrono 500 m/r tablets,res55: antiepileptic,diagnostic
+Read,dnbo.,sod valproate 100mg m/r grans,res55: antiepileptic,diagnostic
+Read,dnbn.,sod valproate 50mg m/r grans,res55: antiepileptic,diagnostic
+Read,dnbz.,sodium valproate 200mg/5ml syr,res55: antiepileptic,diagnostic
+Read,dnbt.,sod valproate 500mg m/r tabs,res55: antiepileptic,diagnostic
+Read,dnbs.,sod valproate 300mg m/r tabs,res55: antiepileptic,diagnostic
+Read,dnbr.,sod valproate 200mg m/r tabs,res55: antiepileptic,diagnostic
+Read,dnby.,sod. valproate 200mg/5ml sfliq,res55: antiepileptic,diagnostic
+Read,dnbv.,sod valproate 100mg crush tabs,res55: antiepileptic,diagnostic
+Read,dnbx.,*sodium valproate 500mg tabs,res55: antiepileptic,diagnostic
+Read,dnbw.,*sodium valproate 200mg tabs,res55: antiepileptic,diagnostic
+Read,dne3.,vigabatrin 500mg pdr sachets,res55: antiepileptic,diagnostic
+Read,dne..,vigabatrin,res55: antiepileptic,diagnostic
+Read,dnc1.,*clobazam sls 10mg capsules,res55: antiepileptic,diagnostic
+Read,dne4.,sabril 500mg powder sachets,res55: antiepileptic,diagnostic
+Read,dne2.,sabril 500mg tablets,res55: antiepileptic,diagnostic
+Read,dne1.,vigabatrin 500mg tablets,res55: antiepileptic,diagnostic
+Read,dn38.,tegretol retard 200mg m/r tabs,res55: antiepileptic,diagnostic
+Read,dnos.,levetiracetam 500mg/sach grans,res55: antiepileptic,diagnostic
+Read,d268.,clobazam 10mg/5ml oral susp,res55: antiepileptic,diagnostic
+Read,dnor.,levetiracetam 1g/sach granules,res55: antiepileptic,diagnostic
+Read,dnwu.,perampanel 12mg tablets,res55: antiepileptic,diagnostic
+Read,d267.,tapclob 10mg/5ml oral susp,res55: antiepileptic,diagnostic
+Read,d266.,clobazam 5mg/5ml oral susp,res55: antiepileptic,diagnostic
+Read,d265.,tapclob 5mg/5ml oral susp,res55: antiepileptic,diagnostic
+Read,d264.,frisium 10mg tablets,res55: antiepileptic,diagnostic
+Read,d26..,clobazam,res55: antiepileptic,diagnostic
+Read,d263.,clobazam 10mg tablets,res55: antiepileptic,diagnostic
+Read,d261.,*clobazam 10mg capsules,res55: antiepileptic,diagnostic
+Read,d262.,*frisium 10mg capsules,res55: antiepileptic,diagnostic
+Read,dnoA.,desitrend 100mg/ml oral soln,res55: antiepileptic,diagnostic
+Read,dnf5.,lamotrigine 25mg tablets,res55: antiepileptic,diagnostic
+Read,dn1..,acetazolamide [epilepsy],res55: antiepileptic,diagnostic
+Read,dnhy.,valproic acid 500mg e/c tabs,res55: antiepileptic,diagnostic
+Read,dn3..,carbamazepine,res55: antiepileptic,diagnostic
+Read,dn11.,*diamox [ep] 500mg m/r caps,res55: antiepileptic,diagnostic
+Read,dn1y.,acetazolamide [ep] 250mg tabs,res55: antiepileptic,diagnostic
+Read,dn1x.,*acetazolamide 500mg m/r caps,res55: antiepileptic,diagnostic
+Read,dn12.,diamox [ep] 250mg tablets,res55: antiepileptic,diagnostic
+Read,dn39.,tegretol retard 400mg m/r tabs,res55: antiepileptic,diagnostic
+Read,dn33.,carbamazepine 400mg tablets,res55: antiepileptic,diagnostic
+Read,dn32.,carbamazepine 200mg tablets,res55: antiepileptic,diagnostic
+Read,dn31.,carbamazepine 100mg tablets,res55: antiepileptic,diagnostic
+Read,dn34.,tegretol 100mg tablets,res55: antiepileptic,diagnostic
+Read,dn37.,tegretol 100mg/5ml s/f liquid,res55: antiepileptic,diagnostic
+Read,dn36.,tegretol 400mg tablets,res55: antiepileptic,diagnostic
+Read,dn35.,tegretol 200mg tablets,res55: antiepileptic,diagnostic
+Read,dnh8.,depakote 500mg e/c tablets,res55: antiepileptic,diagnostic
+Read,dnfG.,*lamictal valproate add-on pck,res55: antiepileptic,diagnostic
+Read,dnf9.,lamictal 100mg disp tablets,res55: antiepileptic,diagnostic
+Read,dnf8.,lamictal 25mg disp tablets,res55: antiepileptic,diagnostic
+Read,dnf6.,lamictal 25mg tablets,res55: antiepileptic,diagnostic
+Read,dnf7.,lamictal 5mg disp tablets,res55: antiepileptic,diagnostic
+Read,dnfF.,*lamictal monotherapy pack,res55: antiepileptic,diagnostic
+Read,dnfB.,lamotrigine 25mg disp tablets,res55: antiepileptic,diagnostic
+Read,dnfA.,lamotrigine 5mg disp tablets,res55: antiepileptic,diagnostic
+Read,dnfE.,lamotrigine 200mg tablets,res55: antiepileptic,diagnostic
+Read,dnfC.,lamotrigine 100mg disp tablets,res55: antiepileptic,diagnostic
+Read,dnfD.,lamictal 200mg tablets,res55: antiepileptic,diagnostic
+Read,dnh7.,depakote 250mg e/c tablets,res55: antiepileptic,diagnostic
+Read,dnh1.,convulex 150mg e/c capsules,res55: antiepileptic,diagnostic
+Read,dnfH.,*lamictal non-valproate pack,res55: antiepileptic,diagnostic
+Read,dnh..,valproic acid,res55: antiepileptic,diagnostic
+Read,dnfJ.,lamictal 2mg dispersible tabs,res55: antiepileptic,diagnostic
+Read,dnfz.,lamotrigine 2mg disp tablets,res55: antiepileptic,diagnostic
+Read,dnh6.,valproic acid 500mg e/c caps,res55: antiepileptic,diagnostic
+Read,dnh3.,convulex 500mg e/c capsules,res55: antiepileptic,diagnostic
+Read,dnh2.,convulex 300mg e/c capsules,res55: antiepileptic,diagnostic
+Read,dnh5.,valproic acid 300mg e/c caps,res55: antiepileptic,diagnostic
+Read,dnh4.,valproic acid 150mg e/c caps,res55: antiepileptic,diagnostic
+Read,dno9.,desitrend 1g/sachet granules,res55: antiepileptic,diagnostic
+Read,dnkB.,topamax sprinkle 15mg capsules,res55: antiepileptic,diagnostic
+Read,dnjA.,gabapentin 50mg/ml oral soln,res55: antiepileptic,diagnostic
+Read,dnj2.,gabapentin 300mg capsules,res55: antiepileptic,diagnostic
+Read,dnj1.,gabapentin 100mg capsules,res55: antiepileptic,diagnostic
+Read,dnhz.,valproic acid 250mg e/c tabs,res55: antiepileptic,diagnostic
+Read,dnj..,gabapentin,res55: antiepileptic,diagnostic
+Read,dnj9.,*neurontin 300mg/600mg pack,res55: antiepileptic,diagnostic
+Read,dnj5.,neurontin 300mg capsules,res55: antiepileptic,diagnostic
+Read,dnj3.,gabapentin 400mg capsules,res55: antiepileptic,diagnostic
+Read,dnj4.,neurontin 100mg capsules,res55: antiepileptic,diagnostic
+Read,dnj8.,neurontin 800mg tablets,res55: antiepileptic,diagnostic
+Read,dnj6.,neurontin 400mg capsules,res55: antiepileptic,diagnostic
+Read,dnj7.,neurontin 600mg tablets,res55: antiepileptic,diagnostic
+Read,dnkA.,topiramate 25mg beads in caps,res55: antiepileptic,diagnostic
+Read,dnk2.,topiramate 100mg tablets,res55: antiepileptic,diagnostic
+Read,dnjy.,gabapentin 600mg tablets,res55: antiepileptic,diagnostic
+Read,dnjx.,*gabapentn 300mg cap/600mg tab,res55: antiepileptic,diagnostic
+Read,dnk1.,topiramate 50mg tablets,res55: antiepileptic,diagnostic
+Read,dnjz.,gabapentin 800mg tablets,res55: antiepileptic,diagnostic
+Read,dnk..,topiramate,res55: antiepileptic,diagnostic
+Read,dnk9.,topiramate 15mg beads in caps,res55: antiepileptic,diagnostic
+Read,dnk5.,topamax 100mg tablets,res55: antiepileptic,diagnostic
+Read,dnk3.,topiramate 200mg tablets,res55: antiepileptic,diagnostic
+Read,dnk4.,topamax 50mg tablets,res55: antiepileptic,diagnostic
+Read,dnk8.,topamax 25mg tablets,res55: antiepileptic,diagnostic
+Read,dnk6.,topamax 200mg tablets,res55: antiepileptic,diagnostic
+Read,dnk7.,topiramate 25mg tablets,res55: antiepileptic,diagnostic
+Read,dno8.,desitrend 500mg/sach granules,res55: antiepileptic,diagnostic
+Read,dnm2.,trileptal 300 tablets,res55: antiepileptic,diagnostic
+Read,dnl2.,tiagabine 10mg tablets,res55: antiepileptic,diagnostic
+Read,dnkD.,topiramate 50mg beads in caps,res55: antiepileptic,diagnostic
+Read,dnkC.,topamax sprinkle 25mg capsules,res55: antiepileptic,diagnostic
+Read,dnl1.,tiagabine 5mg tablets,res55: antiepileptic,diagnostic
+Read,dnkE.,topamax sprinkle 50mg capsules,res55: antiepileptic,diagnostic
+Read,dnl..,tiagabine,res55: antiepileptic,diagnostic
+Read,dnm1.,trileptal 150 tablets,res55: antiepileptic,diagnostic
+Read,dnl4.,gabitril 5mg tablets,res55: antiepileptic,diagnostic
+Read,dnl3.,tiagabine 15mg tablets,res55: antiepileptic,diagnostic
+Read,dnm..,oxcarbazepine,res55: antiepileptic,diagnostic
+Read,dnl5.,gabitril 10mg tablets,res55: antiepileptic,diagnostic
+Read,dnl6.,gabitril 15mg tablets,res55: antiepileptic,diagnostic
+Read,dno7.,desitrend 250mg/sach granules,res55: antiepileptic,diagnostic
+Read,dnmz.,oxcarbazepine 600mg tablets,res55: antiepileptic,diagnostic
+Read,dnm4.,trileptal 60mg/ml s/f susp,res55: antiepileptic,diagnostic
+Read,dnm3.,trileptal 600 tablets,res55: antiepileptic,diagnostic
+Read,dnmy.,oxcarbazepine 300mg tablets,res55: antiepileptic,diagnostic
+Read,dnmw.,oxcarbazepine 60mg/ml s/f susp,res55: antiepileptic,diagnostic
+Read,dnmx.,oxcarbazepine 150mg tablets,res55: antiepileptic,diagnostic
+Read,dno5.,keppra 100mg/ml s/f oral soln,res55: antiepileptic,diagnostic
+Read,dno1.,keppra 250mg tablets,res55: antiepileptic,diagnostic
+Read,dno..,levetiracetam,res55: antiepileptic,diagnostic
+Read,dno4.,keppra 750mg tablets,res55: antiepileptic,diagnostic
+Read,dno2.,keppra 500mg tablets,res55: antiepileptic,diagnostic
+Read,dno3.,keppra 1g tablets,res55: antiepileptic,diagnostic
+Read,dnw4.,fycompa 8mg tablets,res55: antiepileptic,diagnostic
+Read,dntE.,lacosamide 10mg/1ml s/f liquid,res55: antiepileptic,diagnostic
+Read,dnp3.,lyrica 75mg capsules,res55: antiepileptic,diagnostic
+Read,dnow.,levetiracetam 750mg tablets,res55: antiepileptic,diagnostic
+Read,dnq..,zonisamide,res55: antiepileptic,diagnostic
+Read,dnov.,levetiractam 100mg/ml s/f soln,res55: antiepileptic,diagnostic
+Read,dnot.,levetiracetam 250mg/sach grans,res55: antiepileptic,diagnostic
+Read,dnp2.,lyrica 50mg capsules,res55: antiepileptic,diagnostic
+Read,dnoy.,levetiracetam 500mg tablets,res55: antiepileptic,diagnostic
+Read,dnox.,levetiracetam 1g tablets,res55: antiepileptic,diagnostic
+Read,dnp1.,lyrica 25mg capsules,res55: antiepileptic,diagnostic
+Read,dnoz.,levetiracetam 250mg tablets,res55: antiepileptic,diagnostic
+Read,dnp..,pregabalin,res55: antiepileptic,diagnostic
+Read,dnpz.,pregabalin 25mg capsules,res55: antiepileptic,diagnostic
+Read,dnpr.,pregabalin 20mg/1ml solution,res55: antiepileptic,diagnostic
+Read,dnp6.,lyrica 200mg capsules,res55: antiepileptic,diagnostic
+Read,dnp4.,lyrica 100mg capsules,res55: antiepileptic,diagnostic
+Read,dnp5.,lyrica 150mg capsules,res55: antiepileptic,diagnostic
+Read,dnp9.,lyrica 20mg/1ml oral solution,res55: antiepileptic,diagnostic
+Read,dnp7.,lyrica 300mg capsules,res55: antiepileptic,diagnostic
+Read,dnp8.,lyrica 225mg capsules,res55: antiepileptic,diagnostic
+Read,dnpy.,pregabalin 50mg capsules,res55: antiepileptic,diagnostic
+Read,dnpu.,pregabalin 200mg capsules,res55: antiepileptic,diagnostic
+Read,dnps.,pregabalin 225mg capsules,res55: antiepileptic,diagnostic
+Read,dnpt.,pregabalin 300mg capsules,res55: antiepileptic,diagnostic
+Read,dnpx.,pregabalin 75mg capsules,res55: antiepileptic,diagnostic
+Read,dnpv.,pregabalin 100mg capsules,res55: antiepileptic,diagnostic
+Read,dnpw.,pregabalin 150mg capsules,res55: antiepileptic,diagnostic
+Read,dntD.,vimpat 10mg/1ml syrup,res55: antiepileptic,diagnostic
+Read,dnrx.,rufinamide 400mg tablets,res55: antiepileptic,diagnostic
+Read,dnq6.,zonegran 100mg capsules,res55: antiepileptic,diagnostic
+Read,dnq2.,zonisamide 50mg capsules,res55: antiepileptic,diagnostic
+Read,dnq1.,zonisamide 25mg capsules,res55: antiepileptic,diagnostic
+Read,dnq5.,zonegran 50mg capsules,res55: antiepileptic,diagnostic
+Read,dnq3.,zonisamide 100mg capsules,res55: antiepileptic,diagnostic
+Read,dnq4.,zonegran 25mg capsules,res55: antiepileptic,diagnostic
+Read,dnrw.,rufinamide 40mg/ml oral susp,res55: antiepileptic,diagnostic
+Read,dnr1.,inovelon 100mg tablets,res55: antiepileptic,diagnostic
+Read,dnr..,rufinamide,res55: antiepileptic,diagnostic
+Read,dnr4.,inovelon 40mg/ml oral susp,res55: antiepileptic,diagnostic
+Read,dnr2.,inovelon 200mg tablets,res55: antiepileptic,diagnostic
+Read,dnr3.,inovelon 400mg tablets,res55: antiepileptic,diagnostic
+Read,dntC.,lacosamide 200mg tablets,res55: antiepileptic,diagnostic
+Read,dnt4.,vimpat 100mg tablets,res55: antiepileptic,diagnostic
+Read,dnrz.,rufinamide 100mg tablets,res55: antiepileptic,diagnostic
+Read,dnry.,rufinamide 200mg tablets,res55: antiepileptic,diagnostic
+Read,dnt3.,vimpat 50mg tablets,res55: antiepileptic,diagnostic
+Read,dnt..,lacosamide,res55: antiepileptic,diagnostic
+Read,dnt2.,*vimpat 15mg/1ml s/f liquid,res55: antiepileptic,diagnostic
+Read,dntB.,lacosamide 150mg tablets,res55: antiepileptic,diagnostic
+Read,dnt6.,vimpat 200mg tablets,res55: antiepileptic,diagnostic
+Read,dnt5.,vimpat 150mg tablets,res55: antiepileptic,diagnostic
+Read,dntA.,lacosamide 100mg tablets,res55: antiepileptic,diagnostic
+Read,dnt8.,*lacosamide 15mg/1ml s/f liq,res55: antiepileptic,diagnostic
+Read,dnt9.,lacosamide 50mg tablets,res55: antiepileptic,diagnostic
+Read,dnvA.,retigabine 300mg tablets,res55: antiepileptic,diagnostic
+Read,dnv2.,trobalt 100mg tablets,res55: antiepileptic,diagnostic
+Read,dnu1.,zebinix 800mg tablets,res55: antiepileptic,diagnostic
+Read,dnu..,eslicarbazepine,res55: antiepileptic,diagnostic
+Read,dnv1.,trobalt 50mg tablets,res55: antiepileptic,diagnostic
+Read,dnu2.,eslicarbazpn acetat 800mg tabs,res55: antiepileptic,diagnostic
+Read,dnv..,retigabine,res55: antiepileptic,diagnostic
+Read,dnv9.,retigabine 200mg tablets,res55: antiepileptic,diagnostic
+Read,dnv5.,trobalt 400mg tablets,res55: antiepileptic,diagnostic
+Read,dnv3.,trobalt 200mg tablets,res55: antiepileptic,diagnostic
+Read,dnv4.,trobalt 300mg tablets,res55: antiepileptic,diagnostic
+Read,dnv8.,retigabine 100mg tablets,res55: antiepileptic,diagnostic
+Read,dnv6.,trobalt tabs initiation pack,res55: antiepileptic,diagnostic
+Read,dnv7.,retigabine 50mg tablets,res55: antiepileptic,diagnostic
+Read,dnw5.,fycompa 10mg tablets,res55: antiepileptic,diagnostic
+Read,dnw..,perampanel,res55: antiepileptic,diagnostic
+Read,dnvC.,retigabin 50mg+100mg tabs pack,res55: antiepileptic,diagnostic
+Read,dnvB.,retigabine 400mg tablets,res55: antiepileptic,diagnostic
+Read,dnw3.,fycompa 6mg tablets,res55: antiepileptic,diagnostic
+Read,dnw1.,fycompa 2mg tablets,res55: antiepileptic,diagnostic
+Read,dnw2.,fycompa 4mg tablets,res55: antiepileptic,diagnostic
+Read,dnw6.,fycompa 12mg tablets,res55: antiepileptic,diagnostic
+Read,dn3C.,*epimaz 400mg tablets,res55: antiepileptic,diagnostic

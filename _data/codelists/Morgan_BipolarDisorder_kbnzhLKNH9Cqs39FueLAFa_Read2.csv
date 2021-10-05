@@ -1,0 +1,103 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E116500,"mixed bipolar affective disorder, partial/unspec remission",res59: Bipolar_disorder,diagnostic
+Read,E111500,"recurrent manic episodes, partial or unspecified remission",res59: Bipolar_disorder,diagnostic
+Read,E111z00,recurrent manic episode nos,res59: Bipolar_disorder,diagnostic
+Read,Eu30000,[x]hypomania,res59: Bipolar_disorder,diagnostic
+Read,Eu34.00,[X]Persistent mood affective disorders,res59: Bipolar_disorder,diagnostic
+Read,E11y300,other mixed manic-depressive psychoses,res59: Bipolar_disorder,diagnostic
+Read,Eu31.00,[x]bipolar affective disorder,res59: Bipolar_disorder,diagnostic
+Read,E114100,"bipolar affective disorder, currently manic, mild",res59: Bipolar_disorder,diagnostic
+Read,E114.00,"bipolar affective disorder, currently manic",res59: Bipolar_disorder,diagnostic
+Read,E110400,"single manic episode, severe, with psychosis",res59: Bipolar_disorder,diagnostic
+Read,E114500,"bipolar affect disord,currently manic, part/unspec remission",res59: Bipolar_disorder,diagnostic
+Read,E115500,"bipolar affect disord, now depressed, part/unspec remission",res59: Bipolar_disorder,diagnostic
+Read,E116000,"mixed bipolar affective disorder, unspecified",res59: Bipolar_disorder,diagnostic
+Read,E115400,"bipolar affect disord, now depressed, severe with psychosis",res59: Bipolar_disorder,diagnostic
+Read,E115z00,"bipolar affective disorder, currently depressed, nos",res59: Bipolar_disorder,diagnostic
+Read,E116600,"mixed bipolar affective disorder, in full remission",res59: Bipolar_disorder,diagnostic
+Read,E115.11,manic-depressive - now depressed,res59: Bipolar_disorder,diagnostic
+Read,E117500,"unspecified bipolar affect disord, partial/unspec remission",res59: Bipolar_disorder,diagnostic
+Read,E117000,"unspecified bipolar affective disorder, unspecified",res59: Bipolar_disorder,diagnostic
+Read,E11yz00,other and unspecified manic-depressive psychoses nos,res59: Bipolar_disorder,diagnostic
+Read,E116z00,"mixed bipolar affective disorder, nos",res59: Bipolar_disorder,diagnostic
+Read,E115000,"bipolar affective disorder, currently depressed, unspecified",res59: Bipolar_disorder,diagnostic
+Read,E117.00,unspecified bipolar affective disorder,res59: Bipolar_disorder,diagnostic
+Read,E110000,"single manic episode, unspecified",res59: Bipolar_disorder,diagnostic
+Read,Eu30.11,"[x]bipolar disorder, single manic episode",res59: Bipolar_disorder,diagnostic
+Read,E111400,"recurrent manic episodes, severe, with psychosis",res59: Bipolar_disorder,diagnostic
+Read,E110600,single manic episode in full remission,res59: Bipolar_disorder,diagnostic
+Read,E114300,"bipolar affect disord, currently manic, severe, no psychosis",res59: Bipolar_disorder,diagnostic
+Read,E114600,"bipolar affective disorder, currently manic, full remission",res59: Bipolar_disorder,diagnostic
+Read,E115200,"bipolar affective disorder, currently depressed, moderate",res59: Bipolar_disorder,diagnostic
+Read,E116200,"mixed bipolar affective disorder, moderate",res59: Bipolar_disorder,diagnostic
+Read,E116.00,mixed bipolar affective disorder,res59: Bipolar_disorder,diagnostic
+Read,E117300,"unspecified bipolar affective disorder, severe, no psychosis",res59: Bipolar_disorder,diagnostic
+Read,E117200,"unspecified bipolar affective disorder, moderate",res59: Bipolar_disorder,diagnostic
+Read,E11y000,unspecified manic-depressive psychoses,res59: Bipolar_disorder,diagnostic
+Read,Eu30212,[x]mania with mood-incongruent psychotic symptoms,res59: Bipolar_disorder,diagnostic
+Read,E116100,"mixed bipolar affective disorder, mild",res59: Bipolar_disorder,diagnostic
+Read,Eu31300,[x]bipolar affect disorder cur epi mild or moderate depressn,res59: Bipolar_disorder,diagnostic
+Read,Eu31100,[x]bipolar affect disorder cur epi manic wout psychotic symp,res59: Bipolar_disorder,diagnostic
+Read,Eu31000,"[x]bipolar affective disorder, current episode hypomanic",res59: Bipolar_disorder,diagnostic
+Read,Eu31y00,[x]other bipolar affective disorders,res59: Bipolar_disorder,diagnostic
+Read,212V.00,bipolar affective disorder resolved,res59: Bipolar_disorder,diagnostic
+Read,Eu30100,[x]mania without psychotic symptoms,res59: Bipolar_disorder,diagnostic
+Read,Eu3y011,[X]Mixed affective episode,res59: Bipolar_disorder,diagnostic
+Read,E114z00,"bipolar affective disorder, currently manic, nos",res59: Bipolar_disorder,diagnostic
+Read,Eu31y11,[x]bipolar ii disorder,res59: Bipolar_disorder,diagnostic
+Read,1S42.00,manic mood,res59: Bipolar_disorder,diagnostic
+Read,E111300,"recurrent manic episodes, severe without mention psychosis",res59: Bipolar_disorder,diagnostic
+Read,Eu31y12,[x]recurrent manic episodes,res59: Bipolar_disorder,diagnostic
+Read,E110.11,hypomanic psychoses,res59: Bipolar_disorder,diagnostic
+Read,E110200,"single manic episode, moderate",res59: Bipolar_disorder,diagnostic
+Read,E110.00,"manic disorder, single episode",res59: Bipolar_disorder,diagnostic
+Read,Eu3y100,[X]Other recurrent mood affective disorders,res59: Bipolar_disorder,diagnostic
+Read,Eu34y00,[X]Other persistent mood affective disorders,res59: Bipolar_disorder,diagnostic
+Read,E111200,"recurrent manic episodes, moderate",res59: Bipolar_disorder,diagnostic
+Read,Eu34z00,"[X]Persistent mood affective disorder, unspecified",res59: Bipolar_disorder,diagnostic
+Read,E110z00,"manic disorder, single episode nos",res59: Bipolar_disorder,diagnostic
+Read,E11..11,bipolar psychoses,res59: Bipolar_disorder,diagnostic
+Read,E110100,"single manic episode, mild",res59: Bipolar_disorder,diagnostic
+Read,E11..13,manic psychoses,res59: Bipolar_disorder,diagnostic
+Read,Eu31600,"[x]bipolar affective disorder, current episode mixed",res59: Bipolar_disorder,diagnostic
+Read,E11..00,Affective psychoses,res59: Bipolar_disorder,diagnostic
+Read,Eu31400,"[x]bipol aff disord, curr epis sev depress, no psychot symp",res59: Bipolar_disorder,diagnostic
+Read,Eu31700,"[x]bipolar affective disorder, currently in remission",res59: Bipolar_disorder,diagnostic
+Read,E111000,"recurrent manic episodes, unspecified",res59: Bipolar_disorder,diagnostic
+Read,E110300,"single manic episode, severe without mention of psychosis",res59: Bipolar_disorder,diagnostic
+Read,E11y100,atypical manic disorder,res59: Bipolar_disorder,diagnostic
+Read,E117z00,"unspecified bipolar affective disorder, nos",res59: Bipolar_disorder,diagnostic
+Read,E117400,"unspecified bipolar affective disorder,severe with psychosis",res59: Bipolar_disorder,diagnostic
+Read,E11y.00,other and unspecified manic-depressive psychoses,res59: Bipolar_disorder,diagnostic
+Read,Eu31900,[x]bipolar affective disorder type ii,res59: Bipolar_disorder,diagnostic
+Read,E116400,"mixed bipolar affective disorder, severe, with psychosis",res59: Bipolar_disorder,diagnostic
+Read,E115600,"bipolar affective disorder, now depressed, in full remission",res59: Bipolar_disorder,diagnostic
+Read,E115300,"bipolar affect disord, now depressed, severe, no psychosis",res59: Bipolar_disorder,diagnostic
+Read,Eu30.00,[x]manic episode,res59: Bipolar_disorder,diagnostic
+Read,E115100,"bipolar affective disorder, currently depressed, mild",res59: Bipolar_disorder,diagnostic
+Read,E115.00,"bipolar affective disorder, currently depressed",res59: Bipolar_disorder,diagnostic
+Read,E114400,"bipolar affect disord, currently manic,severe with psychosis",res59: Bipolar_disorder,diagnostic
+Read,E111600,"recurrent manic episodes, in full remission",res59: Bipolar_disorder,diagnostic
+Read,E114000,"bipolar affective disorder, currently manic, unspecified",res59: Bipolar_disorder,diagnostic
+Read,E114.11,manic-depressive - now manic,res59: Bipolar_disorder,diagnostic
+Read,E114200,"bipolar affective disorder, currently manic, moderate",res59: Bipolar_disorder,diagnostic
+Read,E111100,"recurrent manic episodes, mild",res59: Bipolar_disorder,diagnostic
+Read,E117100,"unspecified bipolar affective disorder, mild",res59: Bipolar_disorder,diagnostic
+Read,Eu30z00,"[x]manic episode, unspecified",res59: Bipolar_disorder,diagnostic
+Read,E117600,"unspecified bipolar affective disorder, in full remission",res59: Bipolar_disorder,diagnostic
+Read,Eu31200,[x]bipolar affect disorder cur epi manic with psychotic symp,res59: Bipolar_disorder,diagnostic
+Read,E111.00,recurrent manic episodes,res59: Bipolar_disorder,diagnostic
+Read,Eu30z11,[x]mania nos,res59: Bipolar_disorder,diagnostic
+Read,E116300,"mixed bipolar affective disorder, severe, without psychosis",res59: Bipolar_disorder,diagnostic
+Read,Eu3z.11,[X]Affective psychosis NOS,res59: Bipolar_disorder,diagnostic
+Read,Eu31z00,"[x]bipolar affective disorder, unspecified",res59: Bipolar_disorder,diagnostic
+Read,Eu30y00,[x]other manic episodes,res59: Bipolar_disorder,diagnostic
+Read,Eu31911,[x]bipolar ii disorder,res59: Bipolar_disorder,diagnostic
+Read,Eu31500,[x]bipolar affect dis cur epi severe depres with psyc symp,res59: Bipolar_disorder,diagnostic
+Read,Eu31800,[x]bipolar affective disorder type i,res59: Bipolar_disorder,diagnostic
+Read,Eu31.12,[x]manic-depressive psychosis,res59: Bipolar_disorder,diagnostic
+Read,Eu31.11,[x]manic-depressive illness,res59: Bipolar_disorder,diagnostic
+Read,Eu31.13,[x]manic-depressive reaction,res59: Bipolar_disorder,diagnostic
+Read,Eu30200,[x]mania with psychotic symptoms,res59: Bipolar_disorder,diagnostic
+Read,Eu30211,[x]mania with mood-congruent psychotic symptoms,res59: Bipolar_disorder,diagnostic
+Read,Eu3..00,[X]Mood - affective disorders,res59: Bipolar_disorder,diagnostic

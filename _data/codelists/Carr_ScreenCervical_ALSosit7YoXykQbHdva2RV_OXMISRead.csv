@@ -1,0 +1,92 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,L3230T,CERVICAL SMEAR TAKEN,res22: screen_cervical,test
+OXMIS,L9160NG,PAP SMEAR NEGATIVE,res22: screen_cervical,test
+OXMIS,L9161AC,CERVICAL SMEAR ABNORMAL,res22: screen_cervical,test
+OXMIS,L9162,CERVICAL SMEAR,res22: screen_cervical,test
+OXMIS,L9162PJ,CARCINOMA IN SITU - CERVICAL SMEAR,res22: screen_cervical,test
+OXMIS,L9162PQ,CERVICAL SMEAR CIN II,res22: screen_cervical,test
+OXMIS,L9162PP,CERVICAL SMEAR CIN I,res22: screen_cervical,test
+OXMIS,L9162N,NEGATIVE - CERVICAL SMEAR,res22: screen_cervical,test
+OXMIS,L9162BA,SMEAR INFLAMED,res22: screen_cervical,test
+OXMIS,9O89.11,SMEAR ABNORMAL - PT. NOTIFIED,res22: screen_cervical,test
+OXMIS,9O89.00,SMEAR ABNORMAL - PATIENT TOLD,res22: screen_cervical,test
+OXMIS,L9160,PAP SMEAR EXAMINATION,res22: screen_cervical,test
+Read,9O8R.00,Smear normal - pt. notified,res22: screen_cervical,test
+Read,4149.00,Cervical cytology sample sent to laboratory,res22: screen_cervical,test
+Read,4K2..12,Dysplasia (dysk.)on cerv.smear,res22: screen_cervical,test
+Read,4K22.11,Smear NAD: no endocervic cells,res22: screen_cervical,test
+Read,4K24.00,Cerv.smear: severe dyskaryosis,res22: screen_cervical,test
+Read,4K26.00,Cervical smear: ? gland neopl.,res22: screen_cervical,test
+Read,4K28.00,Cerv.smear: mod.dyskaryosis,res22: screen_cervical,test
+Read,4K29.00,Cerv.smear: borderline changes,res22: screen_cervical,test
+Read,4K2A.00,Cervical smear endocervical cells present,res22: screen_cervical,test
+Read,4K2C.00,Smear NAD - no endocervical cells,res22: screen_cervical,test
+Read,4K2D.00,Cervical smear transformation zone cells present,res22: screen_cervical,test
+Read,4K2E.00,Cervical smear transformation zone cells absent,res22: screen_cervical,test
+Read,4K2Z.00,Cervical smear result NOS,res22: screen_cervical,test
+Read,4K2Z.11,Nuclear abnormality on smear,res22: screen_cervical,test
+Read,4K3..00,Cervical smear - inflam.change,res22: screen_cervical,test
+Read,4K32.00,Cervical smear-severe inflamm.,res22: screen_cervical,test
+Read,4K35.00,Cerv.smear - viral infl.unsp.,res22: screen_cervical,test
+Read,4K36.00,Cervical smear - wart virus,res22: screen_cervical,test
+Read,4K3B.00,Cervical smear - mild inflammation,res22: screen_cervical,test
+Read,4K3Z.00,Cervical smear - inflam. NOS,res22: screen_cervical,test
+Read,4K48.00,Cx. smear: colposcopy needed,res22: screen_cervical,test
+Read,4K55.00,Cervical cytology test,res22: screen_cervical,test
+Read,4KA1.00,Vaginal vault smear negative,res22: screen_cervical,test
+Read,685..00,Cervical neoplasia screening,res22: screen_cervical,test
+Read,685..12,Cervical smear screen,res22: screen_cervical,test
+Read,6859.11,Cervical cytology examination,res22: screen_cervical,test
+Read,685B.00,Ca cervix screen normal,res22: screen_cervical,test
+Read,685D.00,Ca cervix screen + fee claim,res22: screen_cervical,test
+Read,685R.00,Liquid based cervical cytology screening,res22: screen_cervical,test
+Read,7E2A200,Papanicolau smear NEC,res22: screen_cervical,test
+Read,7E2A300,Vaginal vault smear,res22: screen_cervical,test
+Read,9O81.00,Cervical smear - 1st call,res22: screen_cervical,test
+Read,9O8A.00,Abnormal smear - 1st recall,res22: screen_cervical,test
+Read,9O8U.00,Cervical smear slide broken in transit,res22: screen_cervical,test
+Read,R150.12,[D]Papanicolaou smear - nonspecific abnormality,res22: screen_cervical,test
+Read,R150100,[D] Koilocytosis - cervical smear,res22: screen_cervical,test
+Read,R151.00,[D]Nonspecific abnormal Papanicolaou smear of other origin,res22: screen_cervical,test
+Read,ZV76200,[V]Screening for malignant neoplasm of cervix,res22: screen_cervical,test
+Read,ZV76211,[V]Routine Papanicolaou smear,res22: screen_cervical,test
+Read,R150.00,[D]Nonspecific abnormal Papanicolaou cervical smear,res22: screen_cervical,test
+Read,4K2B.00,Cervical smear endocervical cells absent,res22: screen_cervical,test
+Read,4K2..11,Dyskaryosis on cervical smear,res22: screen_cervical,test
+Read,4K27.11,Atrophic change on cerv.smear,res22: screen_cervical,test
+Read,4K2..00,Cervical smear result,res22: screen_cervical,test
+Read,4JRL.00,Cervical cytology screening test,res22: screen_cervical,test
+Read,4K27.00,Cervical smear:atrophic change,res22: screen_cervical,test
+Read,4K22.00,Cervical smear: negative,res22: screen_cervical,test
+Read,4K21.00,Cervical smear:inadequate spec,res22: screen_cervical,test
+Read,4K25.00,Cerv.smear:severe dysk.?inv.ca,res22: screen_cervical,test
+Read,4K23.00,Cerv.smear: mild dyskaryosis,res22: screen_cervical,test
+Read,4KA..00,Vaginal vault smear result,res22: screen_cervical,test
+Read,4K33.00,Cervical smear - trichomonas,res22: screen_cervical,test
+Read,4K2F.00,,res22: screen_cervical,test
+Read,4K31.00,Cervical smear-no inflammation,res22: screen_cervical,test
+Read,4K4Z.00,Cervical smear action NOS,res22: screen_cervical,test
+Read,4K36.12,HPV changes: cervical smear,res22: screen_cervical,test
+Read,4K35.11,Viral changes on cerv. smear,res22: screen_cervical,test
+Read,4K34.00,Cervical smear - candida,res22: screen_cervical,test
+Read,4K3A.00,Cervical smear: koilocytosis,res22: screen_cervical,test
+Read,4K49.00,Cx. smear:cervical biopsy need,res22: screen_cervical,test
+Read,4K4..00,Cervical smear - action needed,res22: screen_cervical,test
+Read,4K3C.00,Cervical smear - moderate inflammation,res22: screen_cervical,test
+Read,7E2A211,Cervical smear NEC,res22: screen_cervical,test
+Read,6859.00,Ca cervix - screen done,res22: screen_cervical,test
+Read,685..11,Cervical cytology screen,res22: screen_cervical,test
+Read,4KA4.00,Vaginal vault smear abnormal,res22: screen_cervical,test
+Read,685C.00,Ca cervix screen abnormal,res22: screen_cervical,test
+Read,685A.00,Ca cervix screen-no result yet,res22: screen_cervical,test
+Read,7E2A000,Exam female genital tract under anaesth & Papanicolau smear,res22: screen_cervical,test
+Read,685Z.00,Ca cervix screen NOS,res22: screen_cervical,test
+Read,685E.00,Cervical smear status unknown,res22: screen_cervical,test
+Read,981..00,FP74 - cervical cytology claim,res22: screen_cervical,test
+Read,981..11,Cervical smear - fee claim,res22: screen_cervical,test
+Read,9O8T.00,Cervical smear slide lost in transit,res22: screen_cervical,test
+Read,9O8V.00,Place cervical smear taken,res22: screen_cervical,test
+Read,R150000,[D]Dyskaryotic cervical smear,res22: screen_cervical,test
+Read,R150.11,[D]Cervical smear - nonspecific abnormality,res22: screen_cervical,test
+Read,ZV76212,[V]Routine cervical smear,res22: screen_cervical,test
+Read,R150z00,[D]Nonspecific abnormal Papanicolaou cervical smear NOS,res22: screen_cervical,test

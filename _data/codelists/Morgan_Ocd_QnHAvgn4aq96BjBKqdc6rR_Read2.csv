@@ -1,0 +1,15 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E203.11,Anancastic neurosis,res59: OCD,diagnostic
+Read,Eu42200,[X]Mixed obsessional thoughts and acts,res59: OCD,diagnostic
+Read,Eu42.11,[X]Anankastic neurosis,res59: OCD,diagnostic
+Read,Eu42000,[X]Predominantly obsessional thoughts or ruminations,res59: OCD,diagnostic
+Read,E203.00,Obsessive-compulsive disorders,res59: OCD,diagnostic
+Read,E203z00,Obsessive-compulsive disorder NOS,res59: OCD,diagnostic
+Read,E203000,Compulsive neurosis,res59: OCD,diagnostic
+Read,E203100,Obsessional neurosis,res59: OCD,diagnostic
+Read,Z522600,Flooding - obsessional compulsive disorder,res59: OCD,diagnostic
+Read,Eu42.00,[X]Obsessive - compulsive disorder,res59: OCD,diagnostic
+Read,Eu42z00,"[X]Obsessive-compulsive disorder, unspecified",res59: OCD,diagnostic
+Read,Eu42y00,[X]Other obsessive-compulsive disorders,res59: OCD,diagnostic
+Read,Eu42.12,[X]Obsessive-compulsive neurosis,res59: OCD,diagnostic
+Read,Eu42100,[X]Predominantly compulsive acts [obsessional rituals],res59: OCD,diagnostic

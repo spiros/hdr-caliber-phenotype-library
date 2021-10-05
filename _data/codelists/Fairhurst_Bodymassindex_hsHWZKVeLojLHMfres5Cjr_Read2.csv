@@ -1,0 +1,14 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,22KB.00,Baseline body mass index,res47: Body mass index,test
+Read,22K9000,Baseline body mass index centile,res47: Body mass index,test
+Read,22K5.00,Body mass index 30+ - obesity,res47: Body mass index,test
+Read,22K..00,Body Mass Index,res47: Body mass index,test
+Read,22K4.00,Body mass index index 25-29 - overweight,res47: Body mass index,test
+Read,22K2.00,Body Mass Index high K/M2,res47: Body mass index,test
+Read,22K1.00,Body Mass Index normal K/M2,res47: Body mass index,test
+Read,22K3.00,Body Mass Index low K/M2,res47: Body mass index,test
+Read,22K6.00,Body mass index less than 20,res47: Body mass index,test
+Read,22K9.00,Body mass index centile,res47: Body mass index,test
+Read,22K8.00,Body mass index 20-24 - normal,res47: Body mass index,test
+Read,22K7.00,Body mass index 40+ - severely obese,res47: Body mass index,test
+Read,22KA.00,Target body mass index,res47: Body mass index,test

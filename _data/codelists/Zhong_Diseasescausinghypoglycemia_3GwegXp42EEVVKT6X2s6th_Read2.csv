@@ -1,0 +1,47 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,C132.00,Panhypopituitarism,res50: diseases causing hypoglycemia ,diagnostic
+Read,Jyu8400,[X]Other chronic pancreatitis,res50: diseases causing hypoglycemia ,diagnostic
+Read,C370z00,Cystic fibrosis NOS,res50: diseases causing hypoglycemia ,diagnostic
+Read,C137.11,Iatrogenic hypopituitarism,res50: diseases causing hypoglycemia ,diagnostic
+Read,C370500,Cystic fibrosis with distal intestinal obstruction syndrome,res50: diseases causing hypoglycemia ,diagnostic
+Read,677C100,Cystic fibrosis gene carrier,res50: diseases causing hypoglycemia ,diagnostic
+Read,BB5Vz00,[M]Pituitary adenoma or carcinoma NOS,res50: diseases causing hypoglycemia ,diagnostic
+Read,C132y00,Other specified panhypopituitarism,res50: diseases causing hypoglycemia ,diagnostic
+Read,C370000,Cystic fibrosis with no meconium ileus,res50: diseases causing hypoglycemia ,diagnostic
+Read,J671100,Gallstone chronic pancreatitis,res50: diseases causing hypoglycemia ,diagnostic
+Read,C132300,Postinfective panhypopituitarism,res50: diseases causing hypoglycemia ,diagnostic
+Read,C137200,Post-radiotherapy hypopituitarism,res50: diseases causing hypoglycemia ,diagnostic
+Read,J671.00,Chronic pancreatitis,res50: diseases causing hypoglycemia ,diagnostic
+Read,C370y00,Cystic fibrosis with other manifestations,res50: diseases causing hypoglycemia ,diagnostic
+Read,14CH.00,History of chronic pancreatitis,res50: diseases causing hypoglycemia ,diagnostic
+Read,C154000,Acute adrenal insufficiency,res50: diseases causing hypoglycemia ,diagnostic
+Read,C370300,Cystic fibrosis with intestinal manifestations,res50: diseases causing hypoglycemia ,diagnostic
+Read,C132200,Postinfarction panhypopituitarism,res50: diseases causing hypoglycemia ,diagnostic
+Read,C154z00,Corticoadrenal insufficiency NOS,res50: diseases causing hypoglycemia ,diagnostic
+Read,C132.11,Hypopituitarism NOS,res50: diseases causing hypoglycemia ,diagnostic
+Read,C370.00,Cystic fibrosis,res50: diseases causing hypoglycemia ,diagnostic
+Read,BB5B.00,[M]Pancreatic adenomas and carcinomas,res50: diseases causing hypoglycemia ,diagnostic
+Read,F395000,Myopathy due to Addison's disease,res50: diseases causing hypoglycemia ,diagnostic
+Read,C154z12,Adrenal insufficiency NEC,res50: diseases causing hypoglycemia ,diagnostic
+Read,BB5B200,[M]Insulinoma NOS,res50: diseases causing hypoglycemia ,diagnostic
+Read,C370200,Cystic fibrosis with pulmonary manifestations,res50: diseases causing hypoglycemia ,diagnostic
+Read,J671000,Alcohol-induced chronic pancreatitis,res50: diseases causing hypoglycemia ,diagnostic
+Read,BB5Bz00,[M]Pancreatic adenoma or carcinoma NOS,res50: diseases causing hypoglycemia ,diagnostic
+Read,C154100,Addison's disease,res50: diseases causing hypoglycemia ,diagnostic
+Read,A176.00,Tuberculosis of adrenal glands - Addison's disease,res50: diseases causing hypoglycemia ,diagnostic
+Read,BB5V.00,[M]Pituitary adenomas and carcinomas,res50: diseases causing hypoglycemia ,diagnostic
+Read,C132z00,Panhypopituitarism NOS,res50: diseases causing hypoglycemia ,diagnostic
+Read,C370111,Meconium ileus in cystic fibrosis,res50: diseases causing hypoglycemia ,diagnostic
+Read,C370100,Cystic fibrosis with meconium ileus,res50: diseases causing hypoglycemia ,diagnostic
+Read,C137100,Post-hypophysectomy hypopituitarism,res50: diseases causing hypoglycemia ,diagnostic
+Read,C132000,Idiopathic panhypopituitarism,res50: diseases causing hypoglycemia ,diagnostic
+Read,C132100,Post-birth injury panhypopituitarism,res50: diseases causing hypoglycemia ,diagnostic
+Read,C10N100,Cystic fibrosis related diabetes mellitus,res50: diseases causing hypoglycemia ,diagnostic
+Read,C370400,Arthropathy in cystic fibrosis,res50: diseases causing hypoglycemia ,diagnostic
+Read,C137111,Surgically-induced hypopituitarism,res50: diseases causing hypoglycemia ,diagnostic
+Read,BB5B300,"[M]Insulinoma, malignant",res50: diseases causing hypoglycemia ,diagnostic
+Read,C370900,Exacerbation of cystic fibrosis,res50: diseases causing hypoglycemia ,diagnostic
+Read,C370800,Cystic fibrosis related cirrhosis,res50: diseases causing hypoglycemia ,diagnostic
+Read,C137000,Hormone-induced hypopituitarism,res50: diseases causing hypoglycemia ,diagnostic
+Read,C154.00,Corticoadrenal insufficiency,res50: diseases causing hypoglycemia ,diagnostic
+Read,B7H2.11,Pituitary adenoma,res50: diseases causing hypoglycemia ,diagnostic

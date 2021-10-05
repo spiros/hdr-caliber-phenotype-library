@@ -1,0 +1,148 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4139C,CARDIAC ANGINA,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4129N,ISCHAEMIC HEART DISEASE ASYMPTOMATIC,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4139U,UNSTABLE ANGINA,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4149,ASYMPTOMATIC ISCHAEMIC HEART DISEASE,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4139N,ANGINA,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4120A,ISCHAEMIC HEART DISEASE HYPERTENSIVE,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4139AT,ANGINA ATYPICAL,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4139E,ANGINA EFFORT,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4139,ANGINA PECTORIS,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4129AN,ISCHAEMIC HEART DISEASE,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4139CO,ANGINA CRESCENDO,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4139M,SYNDROME ANGINAL,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4130E,ANGINA EFFORT WITH HYPERTENSION,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4129,ISCHAEMIC HEART DISEASE CHRONIC,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4130,ANGINA PECTORIS WITH HYPERTENSION,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4119B,ISCHAEMIC HEART DISEASE SUBACUTE,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4139PA,ANGINA INVERSA,res43: chd_kontopantelis_bmjqs2012,diagnostic
+OXMIS,4139AA,ANGINA ATTACK,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G311300,Refractory angina,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G30B.00,Acute posterolateral myocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G33z500,Post infarct angina,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,Gyu3200,[X]Other forms of acute ischaemic heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G311.12,Impending infarction,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G34..00,Other chronic ischaemic heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G33z000,Status anginosus,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G33..00,Angina pectoris,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G31y.00,Other acute and subacute ischaemic heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G33z400,Ischaemic chest pain,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G330.00,Angina decubitus,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G31yz00,Other acute and subacute ischaemic heart disease NOS,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G33z100,Stenocardia,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G32..00,Old myocardial infarction,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G3y..00,Other specified ischaemic heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G3...00,Ischaemic heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G34y100,Chronic myocardial ischaemia,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,Gyu3300,[X]Other forms of chronic ischaemic heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G311.11,Crescendo angina,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G311.00,Preinfarction syndrome,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G342.00,Atherosclerotic cardiovascular disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G34y.00,Other specified chronic ischaemic heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G33zz00,Angina pectoris NOS,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,Gyu3.00,[X]Ischaemic heart diseases,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G33z200,Syncope anginosa,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G34z.00,Other chronic ischaemic heart disease NOS,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G34y000,Chronic coronary insufficiency,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G330z00,Angina decubitus NOS,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G3...11,Arteriosclerotic heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G3...12,Atherosclerotic heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G330000,Nocturnal angina,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G3...13,IHD - Ischaemic heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G340100,Double coronary vessel disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G3z..00,Ischaemic heart disease NOS,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G311200,Angina at rest,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G311z00,Preinfarction syndrome NOS,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G311.14,Angina at rest,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G311.13,Unstable angina,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G310.11,Dressler's syndrome,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G33z.00,Angina pectoris NOS,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G340.00,Coronary atherosclerosis,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G32..12,Personal history of myocardial infarction,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G33z700,Stable angina,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G332.00,Coronary artery spasm,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G34z000,Asymptomatic coronary heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G30..12,Coronary thrombosis,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G30y.00,Other acute myocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G30A.00,Mural thrombosis,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,662N.00,CHD monitoring,res43: chd_kontopantelis_bmjqs2012,test
+Read,8B3k.00,Coronary heart disease medication review,res43: chd_kontopantelis_bmjqs2012,drug
+Read,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,662K300,Angina control - worsening,res43: chd_kontopantelis_bmjqs2012,test
+Read,G30y000,Acute atrial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G31y100,Microinfarction of heart,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G30y200,Acute septal infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G305.00,Lateral myocardial infarction NOS,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G35..00,Subsequent myocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G36..00,Certain current complication follow acute myocardial infarct,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,6A2..00,Coronary heart disease annual review,res43: chd_kontopantelis_bmjqs2012,test
+Read,662K000,Angina control - good,res43: chd_kontopantelis_bmjqs2012,test
+Read,G301z00,Anterior myocardial infarction NOS,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,662K.00,Angina control,res43: chd_kontopantelis_bmjqs2012,test
+Read,G30..16,Thrombosis - coronary,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G30..14,Heart attack,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,8B27.00,Antianginal therapy,res43: chd_kontopantelis_bmjqs2012,drug
+Read,G301100,Acute anteroseptal infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G30..11,Attack - heart,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G33z600,New onset angina,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,662Kz00,Angina control NOS,res43: chd_kontopantelis_bmjqs2012,test
+Read,662K200,Angina control - improving,res43: chd_kontopantelis_bmjqs2012,test
+Read,G311000,Myocardial infarction aborted,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G312.00,Coronary thrombosis not resulting in myocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,662K100,Angina control - poor,res43: chd_kontopantelis_bmjqs2012,test
+Read,G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G30..13,Cardiac rupture following myocardial infarction (MI),res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G308.00,Inferior myocardial infarction NOS,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G311500,Acute coronary syndrome,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G31..00,Other acute and subacute ischaemic heart disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G34yz00,Other specified chronic ischaemic heart disease NOS,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G32..11,Healed myocardial infarction,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G31y200,Subendocardial ischaemia,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G310.00,Postmyocardial infarction syndrome,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G344.00,Silent myocardial ischaemia,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G33z300,Angina on effort,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G340.11,Triple vessel disease of the heart,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G331.00,Prinzmetal's angina,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G343.00,Ischaemic cardiomyopathy,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G340.12,Coronary artery disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G311100,Unstable angina,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G30..15,MI - acute myocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G300.00,Acute anterolateral infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G301000,Acute anteroapical infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G301.00,Other specified anterior myocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G30yz00,Other acute myocardial infarction NOS,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,9Ob8.00,Coronary heart disease monitoring check done,res43: chd_kontopantelis_bmjqs2012,test
+Read,G35X.00,Subsequent myocardial infarction of unspecified site,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G302.00,Acute inferolateral infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G303.00,Acute inferoposterior infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,9Ob0.00,Attends coronary heart disease monitoring,res43: chd_kontopantelis_bmjqs2012,test
+Read,G306.00,True posterior myocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,14AJ.00,H/O: Angina in last year,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G311011,MI - myocardial infarction aborted,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G30y100,Acute papillary muscle infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G307100,Acute non-ST segment elevation myocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,8B63.11,Aspirin prophylaxis - IHD,res43: chd_kontopantelis_bmjqs2012,drug
+Read,G30z.00,Acute myocardial infarction NOS,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G30..00,Acute myocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,6A4..00,Coronary heart disease review,res43: chd_kontopantelis_bmjqs2012,test
+Read,G350.00,Subsequent myocardial infarction of anterior wall,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G309.00,Acute Q-wave infarct,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G311400,Worsening angina,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,8CR6.00,Coronary heart disease risk clinical management plan,res43: chd_kontopantelis_bmjqs2012,test
+Read,G31y000,Acute coronary insufficiency,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G331.11,Variant angina pectoris,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G340000,Single coronary vessel disease,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G31y300,Transient myocardial ischaemia,res43: chd_kontopantelis_bmjqs2012,diagnostic
+Read,G30X.00,Acute transmural myocardial infarction of unspecif site,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G304.00,Posterior myocardial infarction NOS,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G307.00,Acute subendocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G351.00,Subsequent myocardial infarction of inferior wall,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G30..17,Silent myocardial infarction,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G353.00,Subsequent myocardial infarction of other sites,res43: chd_kontopantelis_bmjqs2012,symptom
+Read,G307000,Acute non-Q wave infarction,res43: chd_kontopantelis_bmjqs2012,symptom

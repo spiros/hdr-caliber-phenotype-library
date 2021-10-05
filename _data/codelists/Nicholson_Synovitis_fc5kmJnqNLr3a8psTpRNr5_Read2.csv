@@ -1,0 +1,12 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,N220000,Synovitis or tenosynovitis NOS,res13: Synovitis,diagnostic
+Read,N220S00,Synovitis of hip,res13: Synovitis,diagnostic
+Read,N220V00,Synovitis of knee,res13: Synovitis,diagnostic
+Read,N220X00,Synovitis of shoulder,res13: Synovitis,diagnostic
+Read,N220z12,Synovitis of knee,res13: Synovitis,diagnostic
+Read,N220z11,Shoulder synovitis,res13: Synovitis,diagnostic
+Read,N220W00,Synovitis of elbow,res13: Synovitis,diagnostic
+Read,N220T00,Synovitis NOS,res13: Synovitis,diagnostic
+Read,N220.00,Synovitis and tenosynovitis,res13: Synovitis,diagnostic
+Read,N220Q00,Transient synovitis,res13: Synovitis,diagnostic
+Read,N220z13,Synovitis of elbow,res13: Synovitis,diagnostic

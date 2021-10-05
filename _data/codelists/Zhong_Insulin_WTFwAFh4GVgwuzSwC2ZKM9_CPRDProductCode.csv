@@ -1,0 +1,359 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,13729,Insulin isophane human emp 100unit/ml Injection,res50: insulin,drug
+CPRD_product_code,13622,Hypurin porcine neutral 100unit/ml Injection (C P Pharmaceuticals Ltd),res50: insulin,drug
+CPRD_product_code,57388,Kendall Magellan hypodermic U100 insulin syringe sterile single use / single pati,res50: insulin,drug
+CPRD_product_code,60951,Insulin human 100units/ml solution for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,61845,NovoRapid PumpCart 100units/ml solution for injection 1.6ml cartridges (Novo Nord,res50: insulin,drug
+CPRD_product_code,62180,Insulin aspart 100units/ml solution for injection 1.6ml cartridges,res50: insulin,drug
+CPRD_product_code,57529,Humalog 100units/ml solution for injection 10ml vials (Dowelhurst Ltd),res50: insulin,drug
+CPRD_product_code,58995,BD SafetyGlide hypodermic U100 insulin syringe sterile single use / single patien,res50: insulin,drug
+CPRD_product_code,59500,Insulin isophane human 100units/ml suspension for injection 5ml vials,res50: insulin,drug
+CPRD_product_code,59133,BD SafetyGlide hypodermic U100 insulin syringe sterile single use / single patien,res50: insulin,drug
+CPRD_product_code,57564,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pen (Waymade He,res50: insulin,drug
+CPRD_product_code,58578,Kendall Magellan hypodermic U100 insulin syringe sterile single use / single pati,res50: insulin,drug
+CPRD_product_code,57620,Humulin M3 100units/ml suspension for injection 10ml vials (Mawdsley-Brooks & Com,res50: insulin,drug
+CPRD_product_code,55687,Insulin degludec 100units/ml solution for injection 3ml pre-filled disposable dev,res50: insulin,drug
+CPRD_product_code,56656,Kendall Magellan hypodermic U100 insulin syringe sterile single use / single pati,res50: insulin,drug
+CPRD_product_code,56857,Insulin isophane biphasic human 15/85 100units/ml suspension for injection 3ml ca,res50: insulin,drug
+CPRD_product_code,56691,Insulin degludec 200units/ml solution for injection 3ml pre-filled disposable dev,res50: insulin,drug
+CPRD_product_code,55907,Insulin degludec 100units/ml solution for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,56495,Lantus 100units/ml solution for injection 3ml pre-filled OptiSet pen (Waymade Hea,res50: insulin,drug
+CPRD_product_code,55910,Tresiba Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk L,res50: insulin,drug
+CPRD_product_code,50633,Lantus 100units/ml solution for injection 3ml cartridges (Necessity Supplies Ltd),res50: insulin,drug
+CPRD_product_code,52722,Human Mixtard 30 Penfill 100units/ml suspension for injection 1.5ml cartridges (N,res50: insulin,drug
+CPRD_product_code,55603,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pen (DE Pharmac,res50: insulin,drug
+CPRD_product_code,53118,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pen (Mawdsley,res50: insulin,drug
+CPRD_product_code,50691,Human Mixtard 20 Penfill 100units/ml suspension for injection 1.5ml cartridges (N,res50: insulin,drug
+CPRD_product_code,51743,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (Sigma Pharma,res50: insulin,drug
+CPRD_product_code,51182,InsuJet starter set 012003GBSP Lime (Spirit Healthcare Ltd),res50: insulin,drug
+CPRD_product_code,46001,Insuman Basal 100units/ml suspension for injection 3ml pre-filled SoloStar pen (S,res50: insulin,drug
+CPRD_product_code,47856,Neuphane 100unit/ml Injection (Wellcome Medical Division),res50: insulin,drug
+CPRD_product_code,49509,InsuJet starter set 012005GBSP Blue (Spirit Healthcare Ltd),res50: insulin,drug
+CPRD_product_code,49108,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (Necessity Su,res50: insulin,drug
+CPRD_product_code,46666,NovoRapid FlexTouch 100units/ml solution for injection 3ml pre-filled pen (Novo N,res50: insulin,drug
+CPRD_product_code,47360,Neutral insulin 100unit/ml Injection (Celltech Pharma Europe Ltd),res50: insulin,drug
+CPRD_product_code,41959,Penject 100unit/ml Injection device (Hypoguard Ltd),res50: insulin,drug
+CPRD_product_code,44251,Insulin zinc suspension mixed porcine 100unit/ml Injection,res50: insulin,drug
+CPRD_product_code,44601,Injex 4 monthly refill pack 60504 (Ocon Chemicals Ltd),res50: insulin,drug
+CPRD_product_code,44378,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml pr,res50: insulin,drug
+CPRD_product_code,42305,Injex 10ml vial adaptor pack 60502 (Ocon Chemicals Ltd),res50: insulin,drug
+CPRD_product_code,42395,Humalog Mix25 100units/ml suspension for injection 10ml vials (Eli Lilly and Comp,res50: insulin,drug
+CPRD_product_code,27461,Insuman Basal 100units/ml suspension for injection 3ml cartridges (Sanofi),res50: insulin,drug
+CPRD_product_code,33966,Insulatard 100unit/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,36920,Apidra 100units/ml solution for injection 3ml pre-filled SoloStar pen (Sanofi),res50: insulin,drug
+CPRD_product_code,39086,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (El,res50: insulin,drug
+CPRD_product_code,41120,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml pr,res50: insulin,drug
+CPRD_product_code,39150,Hypodermic U100 insulin syringe sterile single use / single patient use 1ml with,res50: insulin,drug
+CPRD_product_code,37055,Comfort Point hypodermic U100 insulin syringe sterile single use / single patient,res50: insulin,drug
+CPRD_product_code,38422,Isophane 100iu/ml Injection (Celltech Pharma Europe Ltd),res50: insulin,drug
+CPRD_product_code,38236,Comfort Point hypodermic U100 insulin syringe sterile single use / single patient,res50: insulin,drug
+CPRD_product_code,34031,Monotard mc 100unit/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,35701,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml pre-filled,res50: insulin,drug
+CPRD_product_code,36194,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 3ml ca,res50: insulin,drug
+CPRD_product_code,36031,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 3ml,res50: insulin,drug
+CPRD_product_code,34097,Human initard 50/50 100unit/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,35253,Insuman Comb 50 100units/ml suspension for injection 3ml cartridges (Sanofi),res50: insulin,drug
+CPRD_product_code,27614,Penmix 30/70 100iu/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,30236,Isophane insulin 100iu/ml Injection,res50: insulin,drug
+CPRD_product_code,31465,Exubera 1mg inhalation powder blisters (Pfizer Ltd),res50: insulin,drug
+CPRD_product_code,33167,Insulin biphasic isophane human crb 25:75; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,31467,Exubera 3mg inhalation powder blisters (Pfizer Ltd),res50: insulin,drug
+CPRD_product_code,30305,Hypodermic U100 insulin syringe sterile single use / single patient use 0.5ml wit,res50: insulin,drug
+CPRD_product_code,30819,Insuman Comb 15 100units/ml suspension for injection 3ml pre-filled OptiSet pen (,res50: insulin,drug
+CPRD_product_code,30686,Insulin isophane porcine 100units/ml suspension for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,28096,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 3ml ca,res50: insulin,drug
+CPRD_product_code,28588,Hypurin Bovine Isophane 100units/ml suspension for injection 3ml cartridges (Wock,res50: insulin,drug
+CPRD_product_code,29837,Insulin biphasic isophane human prb 25:75; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,28666,Omnican 50 hypodermic U100 insulin syringe sterile single use / single patient us,res50: insulin,drug
+CPRD_product_code,28101,Insulin glulisine 100units/ml solution for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,28185,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,28183,Hypurin Porcine Isophane 100units/ml suspension for injection 10ml vials (Wockhar,res50: insulin,drug
+CPRD_product_code,25812,Insulin isophane human 100units/ml suspension for injection 3ml pre-filled dispos,res50: insulin,drug
+CPRD_product_code,26621,Insulin soluble human crb 100iu/ml Injection,res50: insulin,drug
+CPRD_product_code,27396,Insulin soluble porcine 100units/ml solution for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,27177,Insulin biphasic lispro human prb 50:50; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,26060,Insulin lispro 100units/ml solution for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,26338,Injex starter set 60500 (Ocon Chemicals Ltd),res50: insulin,drug
+CPRD_product_code,26098,Hypurin Porcine Neutral 100units/ml solution for injection 10ml vials (Wockhardt,res50: insulin,drug
+CPRD_product_code,23231,Hypurin Bovine Neutral 100units/ml solution for injection 3ml cartridges (Wockhar,res50: insulin,drug
+CPRD_product_code,24846,Pur-in neutral 100unit/ml Injection (C P Pharmaceuticals Ltd),res50: insulin,drug
+CPRD_product_code,25479,Insulin soluble porcine 100units/ml solution for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,24993,Insuman Comb 25 100units/ml suspension for injection 3ml cartridges (Sanofi),res50: insulin,drug
+CPRD_product_code,23992,Insuman Basal 100units/ml suspension for injection 3ml pre-filled OptiSet pen (Sa,res50: insulin,drug
+CPRD_product_code,24593,Neutral insulin bovine 100unit/ml Injection,res50: insulin,drug
+CPRD_product_code,23993,Insuman Rapid 100units/ml solution for injection 3ml pre-filled OptiSet pen (Sano,res50: insulin,drug
+CPRD_product_code,21235,Humulin S 100units/ml solution for injection 10ml vials (Eli Lilly and Company Lt,res50: insulin,drug
+CPRD_product_code,21554,Insuman comb 50 100iu/ml Injection (Aventis Pharma),res50: insulin,drug
+CPRD_product_code,22058,Pur-in mix 15/85 Injection (C P Pharmaceuticals Ltd),res50: insulin,drug
+CPRD_product_code,21583,Apidra 100units/ml solution for injection 3ml pre-filled OptiSet pen (Sanofi),res50: insulin,drug
+CPRD_product_code,21347,Penmix 40/60 100iu/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,21395,Insulin biphasic isophane human pyr 40:60; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,21374,Insulin biphasic isophane human prb 40:60; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,19513,Humulin M3 100units/ml suspension for injection 10ml vials (Eli Lilly and Company,res50: insulin,drug
+CPRD_product_code,20995,Hypurin Porcine 30/70 Mix 100units/ml suspension for injection 3ml cartridges (Wo,res50: insulin,drug
+CPRD_product_code,19877,Insulin aspart 100units/ml solution for injection 3ml pre-filled disposable devic,res50: insulin,drug
+CPRD_product_code,17336,Novopen 100unit/ml Injection device (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,18592,Insulin soluble bovine 100units/ml solution for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,17712,Hypurin Bovine Lente 100units/ml suspension for injection 10ml vials (Wockhardt U,res50: insulin,drug
+CPRD_product_code,14933,Hypurin Porcine Isophane 100units/ml suspension for injection 3ml cartridges (Woc,res50: insulin,drug
+CPRD_product_code,15710,Insulin soluble human emp 100unit/ml Injection,res50: insulin,drug
+CPRD_product_code,16389,Myjector hypodermic U100 insulin syringe sterile single use / single patient use,res50: insulin,drug
+CPRD_product_code,16152,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml ca,res50: insulin,drug
+CPRD_product_code,14938,Insulin soluble bovine cartridge 100unit/ml Solution for injection,res50: insulin,drug
+CPRD_product_code,15199,Insuman comb 25 100iu/ml Injection (Aventis Pharma),res50: insulin,drug
+CPRD_product_code,14944,Humulin S 100units/ml solution for injection 3ml cartridges (Eli Lilly and Compan,res50: insulin,drug
+CPRD_product_code,14345,Apidra 100units/ml solution for injection 3ml cartridges (Sanofi),res50: insulin,drug
+CPRD_product_code,14644,Insulin biphasic isophane human prb 20:80; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,14928,Insulatard 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,14646,Hypodermic U100 insulin syringe sterile single use / single patient use 0.3ml wit,res50: insulin,drug
+CPRD_product_code,14357,Humulin I 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Comp,res50: insulin,drug
+CPRD_product_code,14505,Insulin protamine zinc bovine 100units/ml suspension for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,14362,Insulin lispro 100units/ml solution for injection 3ml pre-filled disposable devic,res50: insulin,drug
+CPRD_product_code,10910,Humaject m2 100iu/ml M2 pen (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,13036,Unifine hypodermic U100 insulin syringe sterile single use / single patient use 0,res50: insulin,drug
+CPRD_product_code,14299,Insulin glulisine 100units/ml solution for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,14339,Hypurin Bovine Neutral 100units/ml solution for injection 10ml vials (Wockhardt U,res50: insulin,drug
+CPRD_product_code,14301,Insulin detemir 100units/ml solution for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,13277,Mixtard 50 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nord,res50: insulin,drug
+CPRD_product_code,13416,Insulin biphasic 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,10915,Humaject m1 100iu/ml M1 pen (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,11337,NovoRapid Novolet 100units/ml solution for injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,12035,Insulin zinc mixed bovine 100units/ml suspension for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,11521,Hypodermic U100 insulin syringe sterile single use / single patient use 1ml with,res50: insulin,drug
+CPRD_product_code,11055,Insulin biphasic isophane human pyr 20:80; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,11056,Insulin biphasic isophane human pyr 30:70; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,10207,Insulin isophane human 100units/ml suspension for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,10245,Mixtard 10 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nord,res50: insulin,drug
+CPRD_product_code,10264,Humalog Pen 100units/ml solution for injection 3ml pre-filled pen (Eli Lilly and,res50: insulin,drug
+CPRD_product_code,10259,Insulin glargine 100units/ml solution for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,10208,Insulatard InnoLet 100units/ml suspension for injection 3ml pre-filled pen (Novo,res50: insulin,drug
+CPRD_product_code,10229,Humulin I Pen 100units/ml suspension for injection 3ml pre-filled pen (Eli Lilly,res50: insulin,drug
+CPRD_product_code,10225,Lantus 100units/ml solution for injection 3ml OptiClik cartridges (Sanofi),res50: insulin,drug
+CPRD_product_code,7267,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nord,res50: insulin,drug
+CPRD_product_code,7772,Human protaphane 100unit/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,9618,Hypurin Porcine 30/70 Mix 100units/ml suspension for injection 1.5ml cartridges (,res50: insulin,drug
+CPRD_product_code,7793,HumaJect M3 Pen 100units/ml suspension for injection (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,7300,Mixtard 30 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,7350,Insulin isophane porcine 100units/ml suspension for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,7318,Humalog 100units/ml solution for injection 3ml cartridges (Eli Lilly and Company,res50: insulin,drug
+CPRD_product_code,6730,Hypodermic U100 insulin syringe sterile single use / single patient use 1ml with,res50: insulin,drug
+CPRD_product_code,7062,Myjector hypodermic U100 insulin syringe sterile single use / single patient use,res50: insulin,drug
+CPRD_product_code,7231,Mixtard 30 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nord,res50: insulin,drug
+CPRD_product_code,7127,BD Micro-Fine + hypodermic U100 insulin syringe sterile single use / single patie,res50: insulin,drug
+CPRD_product_code,6958,Levemir FlexPen 100units/ml solution for injection 3ml pre-filled pen (Novo Nordi,res50: insulin,drug
+CPRD_product_code,6965,Levemir Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk L,res50: insulin,drug
+CPRD_product_code,5345,Monoject hypodermic U100 insulin syringe sterile single use / single patient use,res50: insulin,drug
+CPRD_product_code,5845,Mixtard 30 InnoLet 100units/ml suspension for injection 3ml pre-filled pen (Novo,res50: insulin,drug
+CPRD_product_code,5892,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pen (Novo Nor,res50: insulin,drug
+CPRD_product_code,5891,Insulatard FlexPen 100units/ml suspension for injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,5501,Insuman basal 100iu/ml Injection (Aventis Pharma),res50: insulin,drug
+CPRD_product_code,5769,Hypodermic U100 insulin syringe sterile single use / single patient use 0.5ml wit,res50: insulin,drug
+CPRD_product_code,5634,Hypodermic U100 insulin syringe sterile single use / single patient use 1ml with,res50: insulin,drug
+CPRD_product_code,2456,Mixtard 10 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,4784,Lentard mc 100unit/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,5214,Insulin lispro 100units/ml solution for injection 1.5ml cartridges,res50: insulin,drug
+CPRD_product_code,5255,Mixtard 10 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,5250,Insulin biphasic lispro human prb 25:75; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,4790,Mixtard 50 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,4896,Monoject hypodermic U100 insulin syringe sterile single use / single patient use,res50: insulin,drug
+CPRD_product_code,2459,Pork Mixtard 30 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd,res50: insulin,drug
+CPRD_product_code,3551,Mixtard 20 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,4199,Humulin m1 100unit/ml M1 injection (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,4093,Humulin M2 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Com,res50: insulin,drug
+CPRD_product_code,2812,Mixtard 40 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,6447,Insulin aspart human pyr 100 iu/ml Injection,res50: insulin,drug
+CPRD_product_code,1594,Actrapid NovoLet 100units/ml solution for injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,1843,Pork Insulatard 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd,res50: insulin,drug
+CPRD_product_code,1886,Insulatard 100iu/ml GE injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,1844,Ultratard 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,1595,Insulatard NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,1805,Mixtard 30/70 100unit/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,1649,Human actraphane 100iu/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,1588,Actrapid 100iu/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,322,Humalog 100units/ml solution for injection 1.5ml cartridges (Eli Lilly and Compan,res50: insulin,drug
+CPRD_product_code,1806,Penmix 30/70 100iu/ml Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,1840,Humulin s 100unit/ml Injection (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,1587,Monotard 100units/ml suspension for injection 10ml vials (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,1593,Insulatard penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,1592,Actrapid penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,4198,Humulin m3 100unit/ml M3 injection (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,1842,Pork velosulin 100unit/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,2454,Mixtard 30 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,2220,Penmix 20/80 Pen (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,2221,Mixtard 30 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,2455,Mixtard 20 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,4163,Rapitard MC 100unit/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,3396,Penmix 10/90 Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,2929,Mixtard 30 100iu/ml GE injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,4129,Insulin soluble porcine 100units/ml solution for injection 1.5ml cartridges,res50: insulin,drug
+CPRD_product_code,3439,Penmix 10/90 Pen (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,3550,Mixtard 40 penfill 100 100iu/ml Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,5789,Hypodermic U100 insulin syringe sterile single use / single patient use 0.5ml wit,res50: insulin,drug
+CPRD_product_code,4706,Velosulin 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,4247,Insulin isophane porcine 100units/ml suspension for injection 1.5ml cartridges,res50: insulin,drug
+CPRD_product_code,4760,Humulin i 100unit/ml Injection (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,4715,Humalog mix 25 25/75 100units/ml Injection (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,5021,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk,res50: insulin,drug
+CPRD_product_code,5267,BD Micro-Fine + hypodermic U100 insulin syringe sterile single use / single patie,res50: insulin,drug
+CPRD_product_code,7228,NovoMix 30 FlexPen 100units/ml suspension for injection 3ml pre-filled pen (Novo,res50: insulin,drug
+CPRD_product_code,6228,BD Micro-Fine + hypodermic U100 insulin syringe sterile single use / single patie,res50: insulin,drug
+CPRD_product_code,5933,Mixtard 50 NovoLet 100units/ml suspension for injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,6009,Myjector hypodermic U100 insulin syringe sterile single use / single patient use,res50: insulin,drug
+CPRD_product_code,5953,Insulin glargine 100iu/ml Injection,res50: insulin,drug
+CPRD_product_code,5967,Hypodermic U100 insulin syringe sterile single use / single patient use 0.5ml wit,res50: insulin,drug
+CPRD_product_code,6209,NovoRapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,6057,Lantus 100iu/ml Injection (Aventis Pharma),res50: insulin,drug
+CPRD_product_code,6061,Novomix 30 30/70 100units/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,6378,Hypodermic U100 insulin syringe sterile single use / single patient use 0.3ml wit,res50: insulin,drug
+CPRD_product_code,6991,BD Micro-Fine + hypodermic U100 insulin syringe sterile single use / single patie,res50: insulin,drug
+CPRD_product_code,10244,Mixtard 40 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nord,res50: insulin,drug
+CPRD_product_code,8841,Humulin M5 100units/ml suspension for injection 10ml vials (Eli Lilly and Company,res50: insulin,drug
+CPRD_product_code,7237,Lantus 100units/ml solution for injection 3ml pre-filled OptiSet pen (Sanofi),res50: insulin,drug
+CPRD_product_code,7266,Lantus 100units/ml solution for injection 3ml cartridges (Sanofi),res50: insulin,drug
+CPRD_product_code,7349,Actrapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,7319,Mixtard 20 Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nord,res50: insulin,drug
+CPRD_product_code,8322,Insulin zinc suspension mixed human pyr 100unit/ml Injection,res50: insulin,drug
+CPRD_product_code,7537,Humulin Zn 100units/ml suspension for injection 10ml vials (Eli Lilly and Company,res50: insulin,drug
+CPRD_product_code,7400,Insulin glargine 100units/ml solution for injection 3ml pre-filled disposable dev,res50: insulin,drug
+CPRD_product_code,7393,Insulin glargine 100units/ml solution for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,7402,Lantus 100units/ml solution for injection 10ml vials (Sanofi),res50: insulin,drug
+CPRD_product_code,8203,Penmix 50/50 100iu/ml Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,7771,Human protaphane penfill 100 100unit/ml Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,8118,Humaject i 100iu/ml Pen (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,10243,Humalog Mix25 100units/ml suspension for injection 3ml cartridges (Eli Lilly and,res50: insulin,drug
+CPRD_product_code,10067,Insulin biphasic aspart human pyr 30:70; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,9565,HumaJect S Pen 100units/ml solution for injection (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,9341,Insulin biphasic isophane human prb 30:70; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,8895,Initard 50/50 100unit/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,9521,Pork Actrapid 100units/ml solution for injection 10ml vials (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,9376,Insulin zinc suspension crystalline human pyr 100unit/ml long acting Injection,res50: insulin,drug
+CPRD_product_code,9503,Hypurin Bovine Protamine Zinc 100units/ml suspension for injection 10ml vials (Wo,res50: insulin,drug
+CPRD_product_code,10001,Humalog Mix50 Pen 100units/ml suspension for injection 3ml pre-filled pen (Eli Li,res50: insulin,drug
+CPRD_product_code,9702,BD Micro-Fine + hypodermic U100 insulin syringe sterile single use / single patie,res50: insulin,drug
+CPRD_product_code,9737,Insulatard innolet 100iu/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,10175,Insulin isophane human 100units/ml suspension for injection 1.5ml cartridges,res50: insulin,drug
+CPRD_product_code,10184,Insulin detemir 100 iu/ml Solution for injection,res50: insulin,drug
+CPRD_product_code,10484,Penmix 20/80 Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,10547,Humulin Lente 100units/ml suspension for injection 10ml vials (Eli Lilly and Comp,res50: insulin,drug
+CPRD_product_code,10277,Humulin M3 100units/ml suspension for injection 3ml cartridges (Eli Lilly and Com,res50: insulin,drug
+CPRD_product_code,10572,Insulin soluble bovine 100unit/ml Injection,res50: insulin,drug
+CPRD_product_code,10887,Penmix 40/60 100iu/ml Penfill (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,11107,Humulin m4 100unit/ml M4 injection (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,11080,Insulin isophane human prb 100iu/ml Injection,res50: insulin,drug
+CPRD_product_code,13516,Hypurin bovine isophane 100unit/ml Injection (C P Pharmaceuticals Ltd),res50: insulin,drug
+CPRD_product_code,12638,Insulin soluble human pyr 100unit/ml Injection,res50: insulin,drug
+CPRD_product_code,12299,Semitard mc 100unit/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,11878,Hypodermic U100 insulin syringe sterile single use / single patient use 1ml with,res50: insulin,drug
+CPRD_product_code,12297,Hypurin bovine neutral 100unit/ml Injection (C P Pharmaceuticals Ltd),res50: insulin,drug
+CPRD_product_code,13009,Hypodermic U100 insulin syringe sterile single use / single patient use 0.5ml wit,res50: insulin,drug
+CPRD_product_code,12654,Insulin soluble human prb 100unit/ml Injection,res50: insulin,drug
+CPRD_product_code,12818,Human Mixtard 50 100units/ml suspension for injection 10ml vials (Novo Nordisk Lt,res50: insulin,drug
+CPRD_product_code,23099,Insulin aspart biphasic 30/70 100units/ml suspension for injection 3ml pre-filled,res50: insulin,drug
+CPRD_product_code,14330,Insulin detemir 100units/ml solution for injection 3ml pre-filled disposable devi,res50: insulin,drug
+CPRD_product_code,14270,Humalog Mix25 Pen 100units/ml suspension for injection 3ml pre-filled pen (Eli Li,res50: insulin,drug
+CPRD_product_code,13819,Hypurin Porcine Isophane 100units/ml suspension for injection 1.5ml cartridges (C,res50: insulin,drug
+CPRD_product_code,13837,Insulin biphasic isophane human prb 10:90; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,14313,Insulin lispro 100units/ml solution for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,14290,Insulatard Penfill 100units/ml suspension for injection 3ml cartridges (Novo Nord,res50: insulin,drug
+CPRD_product_code,16866,Unifine hypodermic U100 insulin syringe sterile single use / single patient use 0,res50: insulin,drug
+CPRD_product_code,14340,Hypurin Bovine Isophane 100units/ml suspension for injection 10ml vials (Wockhard,res50: insulin,drug
+CPRD_product_code,14619,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 1.5m,res50: insulin,drug
+CPRD_product_code,14925,Insulin isophane human vial 100unit/ml Sterile suspension injection,res50: insulin,drug
+CPRD_product_code,14649,Insulin biphasic isophane human pyr 10:90; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,14918,Humulin I 100units/ml suspension for injection 10ml vials (Eli Lilly and Company,res50: insulin,drug
+CPRD_product_code,14930,Hypurin Porcine Neutral 100units/ml solution for injection 3ml cartridges (Wockha,res50: insulin,drug
+CPRD_product_code,16700,Insulin zinc mixed bovine vial 100unit/ml Sterile suspension injection,res50: insulin,drug
+CPRD_product_code,15484,Insulin isophane bovine 100units/ml suspension for injection 1.5ml cartridges,res50: insulin,drug
+CPRD_product_code,16142,Insulin aspart 100units/ml solution for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,15961,Insulin isophane human crb 100iu/ml Injection,res50: insulin,drug
+CPRD_product_code,16129,Insulin soluble human 100units/ml solution for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,16682,Tempulin 100unit/ml Injection (Knoll Ltd),res50: insulin,drug
+CPRD_product_code,16160,Humulin M3 Pen 100units/ml suspension for injection 3ml pre-filled pen (Eli Lilly,res50: insulin,drug
+CPRD_product_code,16959,Hypodermic U100 insulin syringe sterile single use / single patient use 1ml with,res50: insulin,drug
+CPRD_product_code,18931,Insulin zinc crystalline human 100units/ml suspension for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,20422,Insuman comb 15 100iu/ml Injection (Aventis Pharma),res50: insulin,drug
+CPRD_product_code,18593,Humalog Mix50 100units/ml suspension for injection 3ml cartridges (Eli Lilly and,res50: insulin,drug
+CPRD_product_code,17731,Penmix 50/50 100iu/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,17076,Omnican 100 hypodermic U100 insulin syringe sterile single use / single patient u,res50: insulin,drug
+CPRD_product_code,18446,Unifine hypodermic U100 insulin syringe sterile single use / single patient use 1,res50: insulin,drug
+CPRD_product_code,17809,Humaject m4 100iu/ml M4 pen (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,18461,Insulin zinc mixed human 100units/ml suspension for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,18590,Insulin isophane bovine 100units/ml suspension for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,19491,Apidra 100units/ml solution for injection 10ml vials (Sanofi),res50: insulin,drug
+CPRD_product_code,19977,Omnican 50 hypodermic U100 insulin syringe sterile single use / single patient us,res50: insulin,drug
+CPRD_product_code,19878,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 3ml pr,res50: insulin,drug
+CPRD_product_code,21110,Insulin biphasic isophane human prb 50:50; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,21232,Insulin isophane biphasic human 30/70 100units/ml suspension for injection 10ml v,res50: insulin,drug
+CPRD_product_code,39006,Humalog Mix25 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (El,res50: insulin,drug
+CPRD_product_code,36146,Insulin lispro biphasic 50/50 100units/ml suspension for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,22983,Insuman Rapid 100units/ml solution for injection 3ml cartridges (Sanofi),res50: insulin,drug
+CPRD_product_code,22946,Omnican 100 hypodermic U100 insulin syringe sterile single use / single patient u,res50: insulin,drug
+CPRD_product_code,26498,Insulin zinc suspension mixed bovine and porcine 100unit/ml Injection,res50: insulin,drug
+CPRD_product_code,21590,Insulin glulisine 100units/ml solution for injection 3ml pre-filled disposable de,res50: insulin,drug
+CPRD_product_code,21422,Insulin isophane biphasic human 40/60 100units/ml suspension for injection 3ml ca,res50: insulin,drug
+CPRD_product_code,22697,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 1.5ml,res50: insulin,drug
+CPRD_product_code,22155,Humaject m5 100iu/ml M5 pen (Eli Lilly and Company Ltd),res50: insulin,drug
+CPRD_product_code,24002,Insuman Comb 25 100units/ml suspension for injection 5ml vials (Sanofi),res50: insulin,drug
+CPRD_product_code,22945,Insuman rapid 100iu/ml Injection (Aventis Pharma),res50: insulin,drug
+CPRD_product_code,26403,Pur-in mix 25/75 Injection (C P Pharmaceuticals Ltd),res50: insulin,drug
+CPRD_product_code,24800,Hypurin Porcine 30/70 Mix 100units/ml suspension for injection 10ml vials (Wockha,res50: insulin,drug
+CPRD_product_code,24795,Insulin aspart biphasic 30/70 100units/ml suspension for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,25133,Insuman Comb 25 100units/ml suspension for injection 3ml pre-filled OptiSet pen (,res50: insulin,drug
+CPRD_product_code,25735,Insulin isophane biphasic human 20/80 100units/ml suspension for injection 3ml ca,res50: insulin,drug
+CPRD_product_code,25736,Insulin isophane biphasic human 10/90 100units/ml suspension for injection 3ml ca,res50: insulin,drug
+CPRD_product_code,36066,Insulin isophane bovine 100units/ml suspension for injection 3ml cartridges,res50: insulin,drug
+CPRD_product_code,27402,Insulin soluble human 100units/ml solution for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,27280,Insulin isophane biphasic porcine 30/70 100units/ml suspension for injection 10ml,res50: insulin,drug
+CPRD_product_code,28442,Insulin glulisine 100unit/ml Solution for injection,res50: insulin,drug
+CPRD_product_code,29567,Insulin aspart 100units/ml solution for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,29953,Apidra 100units/ml solution for injection 3ml OptiClik cartridges (Sanofi),res50: insulin,drug
+CPRD_product_code,30209,Actrapid mc 100unit/ml Injection (Arun Products Ltd),res50: insulin,drug
+CPRD_product_code,31205,Insuman Comb 50 100units/ml suspension for injection 3ml pre-filled OptiSet pen (,res50: insulin,drug
+CPRD_product_code,31258,Insulin lispro biphasic 25/75 100units/ml suspension for injection 3ml pre-filled,res50: insulin,drug
+CPRD_product_code,33232,Insulin isophane biphasic human 50/50 100units/ml suspension for injection 5ml vi,res50: insulin,drug
+CPRD_product_code,35260,Levemir InnoLet 100units/ml solution for injection 3ml pre-filled pen (Novo Nordi,res50: insulin,drug
+CPRD_product_code,35468,Insuman Basal 100units/ml suspension for injection 5ml vials (Sanofi),res50: insulin,drug
+CPRD_product_code,55234,Tresiba FlexTouch 200units/ml solution for injection 3ml pre-filled pen (Novo Nor,res50: insulin,drug
+CPRD_product_code,36513,Velosulin cartridge 100unit/ml Injection (Novo Nordisk Ltd),res50: insulin,drug
+CPRD_product_code,36430,Insulin soluble human 100units/ml solution for injection 3ml pre-filled disposabl,res50: insulin,drug
+CPRD_product_code,36356,Insulin human 3mg inhalation powder blisters,res50: insulin,drug
+CPRD_product_code,36355,Insulin human 1mg inhalation powder blisters,res50: insulin,drug
+CPRD_product_code,36853,Lantus 100units/ml solution for injection 3ml pre-filled SoloStar pen (Sanofi),res50: insulin,drug
+CPRD_product_code,38986,Humalog KwikPen 100units/ml solution for injection 3ml pre-filled pen (Eli Lilly,res50: insulin,drug
+CPRD_product_code,43950,Humulin I KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Eli Li,res50: insulin,drug
+CPRD_product_code,41834,Insulin zinc suspension lente 100iu/ml Injection (Celltech Pharma Europe Ltd),res50: insulin,drug
+CPRD_product_code,42954,Insulin isophane biphasic human 25/75 100units/ml suspension for injection 5ml vi,res50: insulin,drug
+CPRD_product_code,44480,Insuman Comb 25 100units/ml suspension for injection 3ml pre-filled SoloStar pen,res50: insulin,drug
+CPRD_product_code,43991,Humulin M3 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Eli L,res50: insulin,drug
+CPRD_product_code,42797,Injex ampoule pack 60501 (Ocon Chemicals Ltd),res50: insulin,drug
+CPRD_product_code,43953,Insulin lispro biphasic 25/75 100units/ml suspension for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,45158,Insuman Comb 15 100units/ml suspension for injection 3ml cartridges (Sanofi),res50: insulin,drug
+CPRD_product_code,54462,Insulin biphasic isophane human emp 25:75; 100 units/ml Injection,res50: insulin,drug
+CPRD_product_code,47751,TS-A Safety hypodermic U100 insulin syringe sterile single use / single patient u,res50: insulin,drug
+CPRD_product_code,49831,Lantus 100units/ml solution for injection 3ml pre-filled SoloStar pen (Necessity,res50: insulin,drug
+CPRD_product_code,49507,InsuJet nozzle pack 012070GB15 (Spirit Healthcare Ltd),res50: insulin,drug
+CPRD_product_code,49508,InsuJet 10ml vial adaptor pack 01207GB1510 (Spirit Healthcare Ltd),res50: insulin,drug
+CPRD_product_code,52748,Insulatard Penfill 100units/ml suspension for injection 3ml cartridges (Waymade H,res50: insulin,drug
+CPRD_product_code,51836,InsuJet 3ml cartridge adaptor pack 012071GB1503 (Spirit Healthcare Ltd),res50: insulin,drug
+CPRD_product_code,52522,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (DE,res50: insulin,drug
+CPRD_product_code,55517,Insulin isophane human 100units/ml suspension for injection 10ml vials,res50: insulin,drug
+CPRD_product_code,53710,Insulin human 500units/ml solution for injection 20ml vials,res50: insulin,drug
+CPRD_product_code,55618,Levemir FlexPen 100units/ml solution for injection 3ml pre-filled pen (Waymade He,res50: insulin,drug
+CPRD_product_code,56624,Kendall Magellan hypodermic U100 insulin syringe sterile single use / single pati,res50: insulin,drug
+CPRD_product_code,56489,NovoMix 30 Penfill 100units/ml suspension for injection 3ml cartridges (Waymade H,res50: insulin,drug
+CPRD_product_code,56115,Human Actrapid Penfill 100units/ml solution for injection 1.5ml cartridges (Novo,res50: insulin,drug
+CPRD_product_code,56502,Actrapid Penfill 100units/ml solution for injection 3ml cartridges (Novo Nordisk,res50: insulin,drug
+CPRD_product_code,53251,NovoRapid Penfill 100units/ml solution for injection 3ml cartridges (DE Pharmaceu,res50: insulin,drug
+CPRD_product_code,57387,Kendall Magellan hypodermic U100 insulin syringe sterile single use / single pati,res50: insulin,drug
+CPRD_product_code,57153,Kendall Magellan hypodermic U100 insulin syringe sterile single use / single pati,res50: insulin,drug
+CPRD_product_code,57622,Humalog Mix50 KwikPen 100units/ml suspension for injection 3ml pre-filled pen (Wa,res50: insulin,drug
+CPRD_product_code,58754,BD SafetyGlide hypodermic U100 insulin syringe sterile single use / single patien,res50: insulin,drug
+CPRD_product_code,60938,Mixtard 30 100units/ml suspension for injection 10ml vials (Waymade Healthcare Pl,res50: insulin,drug
+CPRD_product_code,59311,Kendall Magellan hypodermic U100 insulin syringe sterile single use / single pati,res50: insulin,drug
+CPRD_product_code,59243,BD SafetyGlide hypodermic U100 insulin syringe sterile single use / single patien,res50: insulin,drug
+CPRD_product_code,60933,Humulin M3 100units/ml suspension for injection 10ml vials (Sigma Pharmaceuticals,res50: insulin,drug
+CPRD_product_code,60626,InsuJet starter set 012007GBSP Grey (Spirit Healthcare Ltd),res50: insulin,drug
+CPRD_product_code,59533,NovoRapid FlexPen 100units/ml solution for injection 3ml pre-filled pen (Sigma Ph,res50: insulin,drug
+CPRD_product_code,62276,Humulin R 500units/ml solution for injection 20ml vials (Imported (United States),res50: insulin,drug
+CPRD_product_code,55462,Tresiba FlexTouch 100units/ml solution for injection 3ml pre-filled pen (Novo Nor,res50: insulin,drug
+CPRD_product_code,18224,Humalog 100units/ml solution for injection 10ml vials (Eli Lilly and Company Ltd),res50: insulin,drug

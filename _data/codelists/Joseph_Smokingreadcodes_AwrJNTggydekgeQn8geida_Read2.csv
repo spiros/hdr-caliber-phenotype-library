@@ -1,0 +1,104 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,137d.00,Not interested in stopping smoking,res52: Smoking Readcodes,diagnostic
+Read,8HBM.00,Stop smoking face to face follow-up,res52: Smoking Readcodes,diagnostic
+Read,745H000,Nicotine replacement therapy using nicotine patches,res52: Smoking Readcodes,diagnostic
+Read,137T.00,Date ceased smoking,res52: Smoking Readcodes,diagnostic
+Read,137J.00,Cigar smoker,res52: Smoking Readcodes,diagnostic
+Read,137b.00,Ready to stop smoking,res52: Smoking Readcodes,diagnostic
+Read,137R.00,Current smoker,res52: Smoking Readcodes,diagnostic
+Read,137C.00,Keeps trying to stop smoking,res52: Smoking Readcodes,diagnostic
+Read,1375,Heavy smoker - 20-39 cigs/day,res52: Smoking Readcodes,diagnostic
+Read,1373,Light smoker - 1-9 cigs/day,res52: Smoking Readcodes,diagnostic
+Read,1372,Trivial smoker - < 1 cig/day,res52: Smoking Readcodes,diagnostic
+Read,8B3Y.00,Over the counter nicotine replacement therapy,res52: Smoking Readcodes,diagnostic
+Read,9ko..00,Current smoker annual review - enhanced services admin,res52: Smoking Readcodes,diagnostic
+Read,9N2k.00,Seen by smoking cessation advisor,res52: Smoking Readcodes,diagnostic
+Read,8B3f.00,Nicotine replacement therapy provided free,res52: Smoking Readcodes,diagnostic
+Read,E251000,"Tobacco dependence, unspecified",res52: Smoking Readcodes,diagnostic
+Read,745Hz00,Smoking cessation therapy NOS,res52: Smoking Readcodes,diagnostic
+Read,137j.00,Ex-cigarette smoker,res52: Smoking Readcodes,diagnostic
+Read,137l.00,Ex roll-up cigarette smoker,res52: Smoking Readcodes,diagnostic
+Read,137G.00,Trying to give up smoking,res52: Smoking Readcodes,diagnostic
+Read,1376,Very heavy smoker - 40+cigs/d,res52: Smoking Readcodes,diagnostic
+Read,38DH.00,Fagerstrom test for nicotine dependence,res52: Smoking Readcodes,diagnostic
+Read,745H400,Smoking cessation drug therapy,res52: Smoking Readcodes,diagnostic
+Read,745H200,Nicotine replacement therapy using nicotine inhalator,res52: Smoking Readcodes,diagnostic
+Read,745H100,Nicotine replacement therapy using nicotine gum,res52: Smoking Readcodes,diagnostic
+Read,137Q.00,Smoking started,res52: Smoking Readcodes,diagnostic
+Read,137P.00,Cigarette smoker,res52: Smoking Readcodes,diagnostic
+Read,6791,Health ed. - smoking,res52: Smoking Readcodes,diagnostic
+Read,ZRBm211,FTND - Fagerstrom test for nicotine dependence,res52: Smoking Readcodes,diagnostic
+Read,9km..11,Ex-smoker annual review,res52: Smoking Readcodes,diagnostic
+Read,1379,Ex-moderate smoker (10-19/day),res52: Smoking Readcodes,diagnostic
+Read,137B.00,Ex-very heavy smoker (40+/day),res52: Smoking Readcodes,diagnostic
+Read,137K.00,Stopped smoking,res52: Smoking Readcodes,diagnostic
+Read,137N.00,Ex pipe smoker,res52: Smoking Readcodes,diagnostic
+Read,9kn..00,Non-smoker annual review - enhanced services administration,res52: Smoking Readcodes,diagnostic
+Read,1371,Never smoked tobacco,res52: Smoking Readcodes,diagnostic
+Read,1377,Ex-trivial smoker (<1/day),res52: Smoking Readcodes,diagnostic
+Read,1371.11,Non-smoker,res52: Smoking Readcodes,diagnostic
+Read,9km..00,Ex-smoker annual review - enhanced services administration,res52: Smoking Readcodes,diagnostic
+Read,ZRBm200,Fagerstrom test for nicotine dependence,res52: Smoking Readcodes,diagnostic
+Read,E251300,Tobacco dependence in remission,res52: Smoking Readcodes,diagnostic
+Read,E251z00,Tobacco dependence NOS,res52: Smoking Readcodes,diagnostic
+Read,9kn..11,Non-smoker annual review,res52: Smoking Readcodes,diagnostic
+Read,137A.00,Ex-heavy smoker (20-39/day),res52: Smoking Readcodes,diagnostic
+Read,1378,Ex-light smoker (1-9/day),res52: Smoking Readcodes,diagnostic
+Read,137O.00,Ex cigar smoker,res52: Smoking Readcodes,diagnostic
+Read,137K000,Recently stopped smoking,res52: Smoking Readcodes,diagnostic
+Read,137F.00,Ex-smoker - amount unknown,res52: Smoking Readcodes,diagnostic
+Read,137L.00,Current non-smoker,res52: Smoking Readcodes,diagnostic
+Read,1374,Moderate smoker - 10-19 cigs/d,res52: Smoking Readcodes,diagnostic
+Read,1372.11,Occasional smoker,res52: Smoking Readcodes,diagnostic
+Read,8CAL.00,Smoking cessation advice,res52: Smoking Readcodes,diagnostic
+Read,137..11,Smoker - amount smoked,res52: Smoking Readcodes,diagnostic
+Read,9ko..11,Current smoker annual review,res52: Smoking Readcodes,diagnostic
+Read,8B2B.00,Nicotine replacement therapy,res52: Smoking Readcodes,diagnostic
+Read,745Hy00,Other specified smoking cessation therapy,res52: Smoking Readcodes,diagnostic
+Read,9NS0200,Referral for smoking cessation service offered,res52: Smoking Readcodes,diagnostic
+Read,E023.00,Nicotine withdrawal,res52: Smoking Readcodes,diagnostic
+Read,8HBP.00,Smoking cessation 12 week follow-up,res52: Smoking Readcodes,diagnostic
+Read,8BP3.00,Nicotine replacement therapy provided by community pharmacis,res52: Smoking Readcodes,diagnostic
+Read,8IAj.00,Smoking cessation advice declined,res52: Smoking Readcodes,diagnostic
+Read,E251100,"Tobacco dependence, continuous",res52: Smoking Readcodes,diagnostic
+Read,E251.00,Tobacco dependence,res52: Smoking Readcodes,diagnostic
+Read,137V.00,Smoking reduced,res52: Smoking Readcodes,diagnostic
+Read,137H.00,Pipe smoker,res52: Smoking Readcodes,diagnostic
+Read,137M.00,Rolls own cigarettes,res52: Smoking Readcodes,diagnostic
+Read,137Q.11,Smoking restarted,res52: Smoking Readcodes,diagnostic
+Read,137P.11,Smoker,res52: Smoking Readcodes,diagnostic
+Read,ZV6D800,[V]Tobacco abuse counselling,res52: Smoking Readcodes,diagnostic
+Read,137h.00,Minutes from waking to first tobacco consumption,res52: Smoking Readcodes,diagnostic
+Read,137c.00,Thinking about stopping smoking,res52: Smoking Readcodes,diagnostic
+Read,ZRh4.11,RFS - Reasons for smoking scale,res52: Smoking Readcodes,diagnostic
+Read,ZRao.00,Occasions for smoking scale,res52: Smoking Readcodes,diagnostic
+Read,8HkQ.00,Referral to NHS stop smoking service,res52: Smoking Readcodes,diagnostic
+Read,8H7i.00,Referral to smoking cessation advisor,res52: Smoking Readcodes,diagnostic
+Read,8I2I.00,Nicotine replacement therapy contraindicated,res52: Smoking Readcodes,diagnostic
+Read,8CAg.00,Smoking cessation advice provided by community pharmacist,res52: Smoking Readcodes,diagnostic
+Read,745H.00,Smoking cessation therapy,res52: Smoking Readcodes,diagnostic
+Read,13p2.00,Smoking status between 4 and 52 weeks,res52: Smoking Readcodes,diagnostic
+Read,13p5.00,Smoking cessation programme start date,res52: Smoking Readcodes,diagnostic
+Read,13p7.00,Smoking status at 12 weeks,res52: Smoking Readcodes,diagnostic
+Read,13p6.00,Carbon monoxide reading at 4 weeks,res52: Smoking Readcodes,diagnostic
+Read,745H300,Nicotine replacement therapy using nicotine lozenges,res52: Smoking Readcodes,diagnostic
+Read,137S.00,Ex smoker,res52: Smoking Readcodes,diagnostic
+Read,13p4.00,Smoking free weeks,res52: Smoking Readcodes,diagnostic
+Read,13p8.00,Lost to smoking cessation follow-up,res52: Smoking Readcodes,diagnostic
+Read,67H6.00,Brief intervention for smoking cessation,res52: Smoking Readcodes,diagnostic
+Read,13p0.00,Negotiated date for cessation of smoking,res52: Smoking Readcodes,diagnostic
+Read,13p3.00,Smoking status at 52 weeks,res52: Smoking Readcodes,diagnostic
+Read,13p5000,Practice based smoking cessation programme start date,res52: Smoking Readcodes,diagnostic
+Read,13p1.00,Smoking status at 4 weeks,res52: Smoking Readcodes,diagnostic
+Read,137f.00,Reason for restarting smoking,res52: Smoking Readcodes,diagnostic
+Read,8I2J.00,Bupropion contraindicated,res52: Smoking Readcodes,diagnostic
+Read,13p..00,Smoking cessation milestones,res52: Smoking Readcodes,diagnostic
+Read,ZG23300,Advice on smoking,res52: Smoking Readcodes,diagnostic
+Read,ZV11600,[V]Personal history of tobacco abuse,res52: Smoking Readcodes,diagnostic
+Read,8CdB.00,Stop smoking service opportunity signposted,res52: Smoking Readcodes,diagnostic
+Read,137m.00,Failed attempt to stop smoking,res52: Smoking Readcodes,diagnostic
+Read,ZRh4.00,Reasons for smoking scale,res52: Smoking Readcodes,diagnostic
+Read,ZV4K000,[V]Tobacco use,res52: Smoking Readcodes,diagnostic
+Read,ZRaM.00,Motives for smoking scale,res52: Smoking Readcodes,diagnostic
+Read,8HTK.00,Referral to stop-smoking clinic,res52: Smoking Readcodes,diagnostic
+Read,137e.00,Smoking restarted,res52: Smoking Readcodes,diagnostic

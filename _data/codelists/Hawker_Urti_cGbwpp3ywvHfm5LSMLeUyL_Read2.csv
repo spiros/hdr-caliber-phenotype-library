@@ -1,0 +1,58 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,H03..00,Acute tonsillitis,res20: URTI,diagnostic
+Read,H02z.00,Acute pharyngitis NOS,res20: URTI,diagnostic
+Read,16L..00,Influenza-like symptoms,res20: URTI,diagnostic
+Read,H00..00,Acute nasopharyngitis,res20: URTI,diagnostic
+Read,H024.00,Acute viral pharyngitis,res20: URTI,diagnostic
+Read,H0...00,Acute respiratory infections,res20: URTI,diagnostic
+Read,1J72.00,Suspected swine influenza,res20: URTI,diagnostic
+Read,H023z00,Acute bacterial pharyngitis NOS,res20: URTI,diagnostic
+Read,H00..11,Common cold,res20: URTI,diagnostic
+Read,H00..14,Nasal catarrh - acute,res20: URTI,diagnostic
+Read,H00..13,Febrile cold,res20: URTI,diagnostic
+Read,H00..12,Coryza - acute,res20: URTI,diagnostic
+Read,H00..16,Rhinitis - acute,res20: URTI,diagnostic
+Read,H00..15,Pyrexial cold,res20: URTI,diagnostic
+Read,H05z.11,Upper respiratory tract infection NOS,res20: URTI,diagnostic
+Read,H041z00,Acute tracheitis NOS,res20: URTI,diagnostic
+Read,H04..00,Acute laryngitis and tracheitis,res20: URTI,diagnostic
+Read,H03..11,Throat infection - tonsillitis,res20: URTI,diagnostic
+Read,H03z.00,Acute tonsillitis NOS,res20: URTI,diagnostic
+Read,H036.00,Acute viral tonsillitis,res20: URTI,diagnostic
+Read,H041100,Acute tracheitis with obstruction,res20: URTI,diagnostic
+Read,H040z00,Acute laryngitis NOS,res20: URTI,diagnostic
+Read,H040w00,Acute viral laryngitis unspecified,res20: URTI,diagnostic
+Read,H040.00,Acute laryngitis,res20: URTI,diagnostic
+Read,H041000,Acute tracheitis without obstruction,res20: URTI,diagnostic
+Read,H041.00,Acute tracheitis,res20: URTI,diagnostic
+Read,H05z.00,Upper respiratory infection NOS,res20: URTI,diagnostic
+Read,H042000,Acute laryngotracheitis without obstruction,res20: URTI,diagnostic
+Read,H04z.00,Acute laryngitis and tracheitis NOS,res20: URTI,diagnostic
+Read,H042.11,Laryngotracheitis,res20: URTI,diagnostic
+Read,H042.00,Acute laryngotracheitis,res20: URTI,diagnostic
+Read,H042z00,Acute laryngotracheitis NOS,res20: URTI,diagnostic
+Read,H042100,Acute laryngotracheitis with obstruction,res20: URTI,diagnostic
+Read,H050.00,Acute laryngopharyngitis,res20: URTI,diagnostic
+Read,H05y.00,Other upper respiratory infections of multiple sites,res20: URTI,diagnostic
+Read,H05..00,Other acute upper respiratory infections,res20: URTI,diagnostic
+Read,H055.00,Pharyngolaryngitis,res20: URTI,diagnostic
+Read,H052.00,Pharyngotracheitis,res20: URTI,diagnostic
+Read,H051.00,Acute upper respiratory tract infection,res20: URTI,diagnostic
+Read,H054.00,Recurrent upper respiratory tract infection,res20: URTI,diagnostic
+Read,H27z.11,Flu like illness,res20: URTI,diagnostic
+Read,H0z..00,Acute respiratory infection NOS,res20: URTI,diagnostic
+Read,H271100,Influenza with pharyngitis,res20: URTI,diagnostic
+Read,H06z111,Respiratory tract infection,res20: URTI,diagnostic
+Read,H05z.12,Viral upper respiratory tract infection NOS,res20: URTI,diagnostic
+Read,H27..00,Influenza,res20: URTI,diagnostic
+Read,H271000,Influenza with laryngitis,res20: URTI,diagnostic
+Read,H271.00,Influenza with other respiratory manifestation,res20: URTI,diagnostic
+Read,H271z00,Influenza with respiratory manifestations NOS,res20: URTI,diagnostic
+Read,H27z.00,Influenza NOS,res20: URTI,diagnostic
+Read,H27yz00,Influenza with other manifestations NOS,res20: URTI,diagnostic
+Read,H27z.12,Influenza like illness,res20: URTI,diagnostic
+Read,H29..00,Avian influenza,res20: URTI,diagnostic
+Read,H2A..,Influenza A (H1N1) swine flu,res20: URTI,diagnostic
+Read,Hyu0.00,[X]Acute upper respiratory infections,res20: URTI,diagnostic
+Read,H5yy.11,Respiratory infection NOS,res20: URTI,diagnostic
+Read,Hyu0300,[X]Other acute upper respiratory infections/multiple sites,res20: URTI,diagnostic

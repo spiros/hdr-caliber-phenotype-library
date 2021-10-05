@@ -1,0 +1,93 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,N110.11,Cervical spondylosis,res34: spondyloarthropathy,diagnostic
+Read,N119100,Two-level cervical spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,N11z.00,Spondylosis NOS,res34: spondyloarthropathy,diagnostic
+Read,N384.00,Acquired spondylolisthesis,res34: spondyloarthropathy,diagnostic
+Read,N102.00,Sacroiliitis NEC,res34: spondyloarthropathy,diagnostic
+Read,N11..00,Spondylosis and allied disorders,res34: spondyloarthropathy,diagnostic
+Read,N114.12,Lumbar spondylosis,res34: spondyloarthropathy,diagnostic
+Read,N100.00,Ankylosing spondylitis,res34: spondyloarthropathy,diagnostic
+Read,N110.00,Cervical spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N114000,Single-level lumbosacral spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N11C.00,Lumbosacral spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,N114.00,Lumbosacral spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N111.00,Cervical spondylosis with myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N119.00,Cervical spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,PG12.00,Congenital spondylolisthesis,res34: spondyloarthropathy,diagnostic
+Read,N115200,Multiple-level lumbosacral spondylosis with myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N388.00,Spondylolysis,res34: spondyloarthropathy,diagnostic
+Read,N10z.00,Spondylitis NOS,res34: spondyloarthropathy,diagnostic
+Read,N11E.00,Cervical spondylosis,res34: spondyloarthropathy,diagnostic
+Read,N112.11,Thoracic spondylosis,res34: spondyloarthropathy,diagnostic
+Read,N112.00,Thoracic spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N11zz00,Spondylosis NOS,res34: spondyloarthropathy,diagnostic
+Read,N11B.00,Thoracic spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,N110200,Multiple-level cervical spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N384200,Degenerative spondylolisthesis,res34: spondyloarthropathy,diagnostic
+Read,N10..00,Inflammatory spondylopathies,res34: spondyloarthropathy,diagnostic
+Read,F163200,Myelopathy due to spondylosis,res34: spondyloarthropathy,diagnostic
+Read,7J48500,Spondylolisthesis operation,res34: spondyloarthropathy,diagnostic
+Read,N115.00,Lumbosacral spondylosis with myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N11A.00,Cervical spondylosis with vascular compression,res34: spondyloarthropathy,diagnostic
+Read,Zw04600,[Q] Spondylolisthesis grade 1,res34: spondyloarthropathy,diagnostic
+Read,F337200,Nerve root and plexus compressions in spondylosis,res34: spondyloarthropathy,diagnostic
+Read,N11y200,Neuropathic spondylopathy,res34: spondyloarthropathy,diagnostic
+Read,N114200,Multiple-level lumbosacral spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N112300,Dorsal spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,PG11.00,Congenital lumbosacral spondylolysis,res34: spondyloarthropathy,diagnostic
+Read,N384100,Isthmic spondylolisthesis,res34: spondyloarthropathy,diagnostic
+Read,N110000,Single-level cervical spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,7J48L00,Fusion spondylolisthesis in situ,res34: spondyloarthropathy,diagnostic
+Read,N111000,Single-level cervical spondylosis with myelopathy,res34: spondyloarthropathy,diagnostic
+Read,7J48K00,Reduction of spondylolisthesis and fusion,res34: spondyloarthropathy,diagnostic
+Read,PG46.00,Spondyloepiphyseal dysplasia,res34: spondyloarthropathy,diagnostic
+Read,N114100,Two-level lumbosacral spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N101.00,Spinal enthesopathy,res34: spondyloarthropathy,diagnostic
+Read,Nyu6400,[X]Other spondylosis,res34: spondyloarthropathy,diagnostic
+Read,Zw04700,[Q] Spondylolisthesis grade 2,res34: spondyloarthropathy,diagnostic
+Read,N110100,Two-level cervical spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N11z000,"Spondylosis without myelopathy, NOS",res34: spondyloarthropathy,diagnostic
+Read,N112200,Multiple-level thoracic spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N118.00,Traumatic spondylopathy,res34: spondyloarthropathy,diagnostic
+Read,N119000,Single-level cervical spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,PG4E.00,Spondylometaphyseal dysplasia,res34: spondyloarthropathy,diagnostic
+Read,N111200,Multiple-level cervical spondylosis with myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N119200,Multiple-level cervical spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,N10y.00,Other inflammatory spondylopathies,res34: spondyloarthropathy,diagnostic
+Read,N11y.00,Other spondyloses and allied disorders,res34: spondyloarthropathy,diagnostic
+Read,N113.00,Thoracic spondylosis with myelopathy,res34: spondyloarthropathy,diagnostic
+Read,Nyu6300,[X]Other spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,N11C000,Single-level lumbosacral spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,N10yz00,Other inflammatory spondylopathies NOS,res34: spondyloarthropathy,diagnostic
+Read,N100.11,Marie - Strumpell spondylitis,res34: spondyloarthropathy,diagnostic
+Read,N11z100,"Spondylosis with myelopathy, NOS",res34: spondyloarthropathy,diagnostic
+Read,7J34112,Buck fusion of lumbar spine for spondylolisthesis,res34: spondyloarthropathy,diagnostic
+Read,Zw04A00,[Q] Spondyloptosis,res34: spondyloarthropathy,diagnostic
+Read,PG46000,Spondyloepiphyseal dysplasia congenita,res34: spondyloarthropathy,diagnostic
+Read,N10y000,Inflammatory spondylopathies in diseases EC,res34: spondyloarthropathy,diagnostic
+Read,N111100,Two-level cervical spondylosis with myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N115000,Single-level lumbosacral spondylosis with myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N112000,Single-level thoracic spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N11C200,Multiple-level lumbosacral spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,Nyu6.00,[X]Spondylopathies,res34: spondyloarthropathy,diagnostic
+Read,N384300,Pedicular spondylolisthesis,res34: spondyloarthropathy,diagnostic
+Read,N384000,Dysplastic spondylolisthesis,res34: spondyloarthropathy,diagnostic
+Read,S104200,"Closed fracture lumbar vertebra, spondylolysis",res34: spondyloarthropathy,diagnostic
+Read,N113000,Single-level thoracic spondylosis with myelopathy,res34: spondyloarthropathy,diagnostic
+Read,Nyu6700,[X]Collapsed vertebra in diseases classified elsewhere,res34: spondyloarthropathy,diagnostic
+Read,N113200,Multiple-level thoracic spondylosis with myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N11B000,Single-level thoracic spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,Zw04800,[Q] Spondylolisthesis grade 3,res34: spondyloarthropathy,diagnostic
+Read,N112100,Two-level thoracic spondylosis without myelopathy,res34: spondyloarthropathy,diagnostic
+Read,7J48511,Gill excision of spondylolisthesis,res34: spondyloarthropathy,diagnostic
+Read,Nyu6900,"[X]Spondylopathy, unspecified",res34: spondyloarthropathy,diagnostic
+Read,N115100,Two-level lumbosacral spondylosis with myelopathy,res34: spondyloarthropathy,diagnostic
+Read,N11B200,Multiple-level thoracic spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,PG46100,Spondyloepiphyseal dysplasia tarda,res34: spondyloarthropathy,diagnostic
+Read,N11C100,Two-level lumbosacral spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic
+Read,S102200,"Closed fracture thoracic vertebra, spondylolysis",res34: spondyloarthropathy,diagnostic
+Read,S100J00,"Closed fracture cervical vertebra, spondylolysis",res34: spondyloarthropathy,diagnostic
+Read,Zw04900,[Q] Spondylolisthesis grade 4,res34: spondyloarthropathy,diagnostic
+Read,Nyu6100,[X]Other specified inflammatory spondylopathies,res34: spondyloarthropathy,diagnostic
+Read,S100B00,"Closed fracture axis, spondylolysis",res34: spondyloarthropathy,diagnostic
+Read,N11B100,Two-level thoracic spondylosis with radiculopathy,res34: spondyloarthropathy,diagnostic

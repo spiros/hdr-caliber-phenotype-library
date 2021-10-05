@@ -1,0 +1,198 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,493 AK,ASTHMA SEVERITY SEVERE,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 GR,ASTHMA ALLERGIC GRASS,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 AJ,ASTHMA SEVERITY MODERATE,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 NA,NOCTURNAL ASTHMA,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 BD,ASTHMA AND BRONCHITIS,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 EA,ASTHMA EXERCISE INCLUDED,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 EP,ASTHMA EPISODIC,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,691 TM,ECZEMA WITH ASTHMA,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 BG,ASTHMA FREQUENCY REGULARLY,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,Y060 JB,CLINIC ASTHMA,res43: asthma_kontopantelis_bmjqs2012,test
+OXMIS,493 BH,ASTHMA FREQUENCY CONSTANTLY,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 BF,ASTHMA FREQUENCY RARELY,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 AH,ASTHMA HOSPITALISED,res43: asthma_kontopantelis_bmjqs2012,test
+OXMIS,493 CM,ASTHMA MEDICATION PROPHYLACTICLY,res43: asthma_kontopantelis_bmjqs2012,drug
+OXMIS,493 KB,ASTHMA EXACERBATION,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 D,STATUS ASTHMATICUS,res43: asthma_kontopantelis_bmjqs2012,test
+OXMIS,493 BI,ASTHMA FREQUENCY ON EXERCISE ONLY,res43: asthma_kontopantelis_bmjqs2012,test
+OXMIS,493 AI,ASTHMA SEVERITY MILD,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 C,CROUP ASTHMATIC,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 EB,ASTHMA EXERCISE INDUCED,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 JC,CHRONIC ASTHMA,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 AE,ASTHMA SEASONAL,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3052AT,PSYCHOGENIC ASTHMA,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 AA,ASTHMA ACUTE,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 AB,ASTHMA ATTACK,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 AD,ASTHMA OCCASIONAL,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 CH,CHILDHOOD ASTHMA,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 CL,ASTHMA MEDICATION REGULARLY,res43: asthma_kontopantelis_bmjqs2012,drug
+OXMIS,493 CK,ASTHMA MEDICATION PRN,res43: asthma_kontopantelis_bmjqs2012,drug
+OXMIS,Y100 AR,ASTHMA ROUTINE ASSESSMENT,res43: asthma_kontopantelis_bmjqs2012,test
+OXMIS,493 CJ,ASTHMA MEDICATION INTERMITTENTLY,res43: asthma_kontopantelis_bmjqs2012,drug
+OXMIS,Y060 LE,ASTHMA GROUP,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,Y0601JB,ASTHMA CLINIC ATTENDANCE,res43: asthma_kontopantelis_bmjqs2012,test
+OXMIS,493 F,ASTHMATIC ALLERGY,res43: asthma_kontopantelis_bmjqs2012,symptom
+OXMIS,493 KA,EXACERBATION OF ASTHMA,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 BR,BRONCHIAL ASTHMA,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,L4930LO,LATE ONSET ASTHMA,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 AR,ASTHMA RESOLVED,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 GS,ASTHMA POLLEN INITIATED,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493,ASTHMA,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+OXMIS,493 HT,INTRINSIC ASTHMA,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,663e000,Asthma sometimes restricts exercise,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,c672.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c109.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,663P.00,Asthma limiting activities,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,H334.00,Brittle asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,1780.00,Aspirin induced asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,1O2..00,Asthma confirmed,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,663N.00,Asthma disturbing sleep,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,663N100,Asthma disturbs sleep weekly,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,173d.00,Work aggravated asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,663N000,Asthma causing night waking,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,9OJ1.00,Attends asthma monitoring,res43: asthma_kontopantelis_bmjqs2012,test
+Read,663f.00,Asthma never restricts exercise,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,8794.00,Asthma control step 1,res43: asthma_kontopantelis_bmjqs2012,test
+Read,8793.00,Asthma control step 0,res43: asthma_kontopantelis_bmjqs2012,test
+Read,c14f.00,BRICANYL TURBOHALER 500micrograms,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,663h.00,Asthma - currently dormant,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,663e100,Asthma severely restricts exercise,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,H33z000,Status asthmaticus NOS,res43: asthma_kontopantelis_bmjqs2012,test
+Read,H33z011,Severe asthma attack,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,8796.00,Asthma control step 3,res43: asthma_kontopantelis_bmjqs2012,test
+Read,663O.00,Asthma not disturbing sleep,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,9N1d.00,Seen in asthma clinic,res43: asthma_kontopantelis_bmjqs2012,test
+Read,H333.00,Acute exacerbation of asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,663d.00,Emergency asthma admission since last appointment,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,663O000,Asthma never disturbs sleep,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,c1Dz.00,SALMETEROL + FLUTICASONE dry pdr inh 50micrograms+ 500micrograms/inhalation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c315.00,ATROVENT AUTOHALER breath act inh 20micrograms/actuation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c11b.00,VENTOLIN sf syrp 2mg/5ml,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,H33z111,Asthma attack NOS,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,66YK.00,Asthma follow-up,res43: asthma_kontopantelis_bmjqs2012,test
+Read,c13J.00,SALBUTAMOL cfc free inh 100micrograms/inhalation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c1E1.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c13v.00,SALBUTAMOL inh 100micrograms/inhalation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c61z.00,BECLOMETASONE inh 100micrograms/actuation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c198.00,SEREVENT ACCUHALER 50micrograms/actuation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,h33z100,Asthma attack,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,c665.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,663y.00,Number of asthma exacerbations in past year,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,c13w.00,SALBUTAMOL unit dose neb soln 2.5mg/2.5ml,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c1Dv.00,SALMETEROL + FLUTICASONE cfc free inh 25micrograms + 125micrograms/actuation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c65V.00,FLIXOTIDE ACCUHALER 250micrograms/inhalation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,663v.00,Asthma causes daytime symptoms most days,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,c13G.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,663t.00,Asthma causes daytime symptoms 1 to 2 times per month,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,663q.00,Asthma daytime symptoms,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,66Y9.00,Step up change in asthma management plan,res43: asthma_kontopantelis_bmjqs2012,test
+Read,663r.00,Asthma causes night symptoms 1 to 2 times per month,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,66YA.00,Step down change in asthma management plan,res43: asthma_kontopantelis_bmjqs2012,test
+Read,663m.00,Asthma accident and emergency attendance since last visit,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,c31u.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c1D6.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,8B3j.00,Asthma medication review,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,66YP.00,Asthma night-time symptoms,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,66YJ.00,Asthma annual review,res43: asthma_kontopantelis_bmjqs2012,test
+Read,c11z.00,Other disorder of pancreatic internal secretion NOS,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,663x.00,Asthma limits walking on the flat,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,663w.00,Asthma limits walking up hills or stairs,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,66YR.00,Asthma monitoring by doctor,res43: asthma_kontopantelis_bmjqs2012,test
+Read,178..00,Asthma trigger,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,66YQ.00,Asthma monitoring by nurse,res43: asthma_kontopantelis_bmjqs2012,test
+Read,c191.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,8CR0.00,Asthma clinical management plan,res43: asthma_kontopantelis_bmjqs2012,test
+Read,c13U.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,8HTT.00,Referral to asthma clinic,res43: asthma_kontopantelis_bmjqs2012,test
+Read,c61v.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c61F.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c14w.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c31t.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c192.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c13L.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c1Du.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c66B.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c1Dw.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c66a.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c31x.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c1E7.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c61u.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c1C4.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c61O.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c13T.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c31G.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c14j.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c61i.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,9NI8.00,Asthma outreach clinic,res43: asthma_kontopantelis_bmjqs2012,test
+Read,c135.00,Diabetes insipidus,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c61x.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c13o.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,66YC.00,Absent from work or school due to asthma,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,c65f.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,663u.00,Asthma causes daytime symptoms 1 to 2 times per week,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,66Y5.00,Change in asthma management plan,res43: asthma_kontopantelis_bmjqs2012,test
+Read,663n.00,Asthma treatment compliance satisfactory,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,663e.00,Asthma restricts exercise,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,c617.00,BECOTIDE 100 inh 100micrograms/actuation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c663.00,BECOTIDE EASI-BREATHE breath act inh 100micrograms/actuation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c13I.00,AIROMIR cfc free inh 100micrograms/inhalation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c61t.00,BECLOMETASONE inh 250micrograms/actuation,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,8H2P.00,"Emergency admission, asthma",res43: asthma_kontopantelis_bmjqs2012,test
+Read,663V.00,Asthma severity,res43: asthma_kontopantelis_bmjqs2012,test
+Read,8791.00,Further asthma - drug prevent.,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,663Q.00,Asthma not limiting activities,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,663N200,Asthma disturbs sleep frequently,res43: asthma_kontopantelis_bmjqs2012,symptom
+Read,H331.00,Intrinsic asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,9OJA.11,Asthma monitored,res43: asthma_kontopantelis_bmjqs2012,test
+Read,663W.00,Asthma prophylactic medication used,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,173c.00,Occupational asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H312000,Chronic asthmatic bronchitis,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H330111,Extrinsic asthma with asthma attack,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,663V300,Severe asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H330z00,Extrinsic asthma NOS,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,663V100,Mild asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H33zz00,Asthma NOS,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H33zz12,Allergic asthma NEC,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H33..00,Asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,173A.00,Exercise induced asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H330.12,Childhood asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H331111,Intrinsic asthma with asthma attack,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H330.14,Pollen asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H33zz11,Exercise induced asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H33..11,Bronchial asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,212G.00,Asthma resolved,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H330100,Extrinsic asthma with status asthmaticus,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H331.11,Late onset asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H35y600,Sequoiosis (red-cedar asthma),res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H33z.11,Hyperreactive airways disease,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,8798.00,Asthma control step 5,res43: asthma_kontopantelis_bmjqs2012,test
+Read,663..11,Asthma monitoring,res43: asthma_kontopantelis_bmjqs2012,test
+Read,H33z100,Asthma attack,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,8795.00,Asthma control step 2,res43: asthma_kontopantelis_bmjqs2012,test
+Read,8797.00,Asthma control step 4,res43: asthma_kontopantelis_bmjqs2012,test
+Read,9OJA.00,Asthma monitoring check done,res43: asthma_kontopantelis_bmjqs2012,test
+Read,663U.00,Asthma management plan given,res43: asthma_kontopantelis_bmjqs2012,test
+Read,663p.00,Asthma treatment compliance unsatisfactory,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,663s.00,Asthma never causes daytime symptoms,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,c648.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,c332.00,Other paraproteinaemias,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,cA11.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,cA15.00,,res43: asthma_kontopantelis_bmjqs2012,drug
+Read,H35y700,Wood asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,663j.00,Asthma - currently active,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,2126200,Asthma resolved,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H47y000,Detergent asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H33z.00,Asthma unspecified,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H331100,Intrinsic asthma with status asthmaticus,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H330.13,Hay fever with asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H331000,Intrinsic asthma without status asthmaticus,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H330.00,Extrinsic (atopic) asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H33z200,Late-onset asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H330011,Hay fever with asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H332.00,Mixed asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,663V000,Occasional asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H331z00,Intrinsic asthma NOS,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H330000,Extrinsic asthma without status asthmaticus,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,663V200,Moderate asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic
+Read,H330.11,Allergic asthma,res43: asthma_kontopantelis_bmjqs2012,diagnostic

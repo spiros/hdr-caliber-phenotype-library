@@ -1,0 +1,204 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,K5523,WIRING ANEURYSM ABDOMINAL AORTA,peripheral arterial disease,diagnostic
+OXMIS,K552 EA,EXCISION ANEURYSM ABDOMINAL AORTA,peripheral arterial disease,diagnostic
+OXMIS,4439A,INTERMITTENT CLAUDICATION,peripheral arterial disease,diagnostic
+OXMIS,442 H,ANEURYSM HEPATIC ARTERY,peripheral arterial disease,diagnostic
+OXMIS,4412N,ANEURYSM ABDOMINAL,peripheral arterial disease,diagnostic
+OXMIS,4412,ANEURYSM ABDOMINAL AORTA,peripheral arterial disease,diagnostic
+OXMIS,4411,ANEURYSM THORACIC AORTA,peripheral arterial disease,diagnostic
+OXMIS,442 LC,RUPTURED COMMON ILIAC ANEURYSM,peripheral arterial disease,diagnostic
+OXMIS,4439GD,PVD (PERIPHERAL VASCULAR DISEASE),peripheral arterial disease,diagnostic
+OXMIS,442 PL,POPLITEAL ANEURYSM,peripheral arterial disease,diagnostic
+Read,7A4B100,Percutaneous transluminal angioplasty of popliteal artery,peripheral arterial disease,diagnostic
+Read,7A46C00,Replace aneurysm fem artery by fem/fem art anastomosis NEC,peripheral arterial disease,diagnostic
+Read,7A4B000,Percutaneous transluminal angioplasty of femoral artery,peripheral arterial disease,diagnostic
+Read,7A47C00,Emerg bypass femoral artery by fem/fem art anastomosis NEC,peripheral arterial disease,diagnostic
+Read,7A46z00,Other replacement of aneurysmal femoral/popliteal artery NOS,peripheral arterial disease,diagnostic
+Read,7A47.16,Other emergency bypass of femoral artery,peripheral arterial disease,diagnostic
+Read,7A46y00,Other replacement of aneurysmal femoral/popliteal artery OS,peripheral arterial disease,diagnostic
+Read,7A46D00,Replace aneurysm popliteal artery by pop/fem anastomosis NEC,peripheral arterial disease,diagnostic
+Read,7A47.15,Other emergency bypass of superficial femoral artery,peripheral arterial disease,diagnostic
+Read,7A47.00,Other emergency bypass of femoral artery or popliteal artery,peripheral arterial disease,diagnostic
+Read,7A47.13,Other emergency bypass of deep femoral artery,peripheral arterial disease,diagnostic
+Read,7A47.12,Other emergency bypass of common femoral artery,peripheral arterial disease,diagnostic
+Read,7A48.00,Other bypass of femoral artery or popliteal artery,peripheral arterial disease,diagnostic
+Read,7A4A500,Operation on aneurysm of femoral artery NEC,peripheral arterial disease,diagnostic
+Read,7A48200,Bypass femoral artery by fem/pop art anast c vein graft NEC,peripheral arterial disease,diagnostic
+Read,7A48000,Bypass femoral artery by fem/pop art anast c prosthesis NEC,peripheral arterial disease,diagnostic
+Read,7A48.13,Other bypass of deep femoral artery,peripheral arterial disease,diagnostic
+Read,7A48.12,Other bypass of common femoral artery,peripheral arterial disease,diagnostic
+Read,7A48.16,Other bypass of superficial femoral artery,peripheral arterial disease,diagnostic
+Read,7A48.14,Other bypass of femoral artery,peripheral arterial disease,diagnostic
+Read,7A48800,Bypass femoral artery by fem/peron a anast c prosthesis NEC,peripheral arterial disease,diagnostic
+Read,7A4A400,Ligation of aneurysm of popliteal artery,peripheral arterial disease,diagnostic
+Read,7A48600,Bypass femoral artery by fem/tib art anast c vein graft NEC,peripheral arterial disease,diagnostic
+Read,7A48400,Bypass femoral artery by fem/tib art anast c prosthesis NEC,peripheral arterial disease,diagnostic
+Read,7A48z00,Other bypass of femoral artery or popliteal artery NOS,peripheral arterial disease,diagnostic
+Read,7A48A00,Bypass femoral artery by fem/peron a anast c vein graft NEC,peripheral arterial disease,diagnostic
+Read,7A48y00,Other bypass of femoral artery or popliteal artery OS,peripheral arterial disease,diagnostic
+Read,7A48C00,Bypass femoral artery by femoral/femoral art anastomosis NEC,peripheral arterial disease,diagnostic
+Read,9N4h.00,DNA - Did not attend peripheral vascular disease clinic,peripheral arterial disease,diagnostic
+Read,14NB.00,H/O: Peripheral vascular disease procedure,peripheral arterial disease,diagnostic
+Read,G73z000,Intermittent claudication,peripheral arterial disease,diagnostic
+Read,7A46900,Replace aneurysm pop art by pop/peron art anast c prosth NEC,peripheral arterial disease,diagnostic
+Read,7A46800,Replace aneurysm fem art by fem/peron art anast c prosth NEC,peripheral arterial disease,diagnostic
+Read,7A46700,Replace aneurysm pop art by pop/tib a anast c vein graft NEC,peripheral arterial disease,diagnostic
+Read,G720100,Aneurysm of radial artery,peripheral arterial disease,diagnostic
+Read,G720200,Aneurysm of ulnar artery,peripheral arterial disease,diagnostic
+Read,G713.11,Ruptured abdominal aortic aneurysm,peripheral arterial disease,diagnostic
+Read,C109F12,Type 2 diabetes mellitus with peripheral angiopathy,peripheral arterial disease,diagnostic
+Read,C109F11,Type II diabetes mellitus with peripheral angiopathy,peripheral arterial disease,diagnostic
+Read,G720000,Aneurysm of brachial artery,peripheral arterial disease,diagnostic
+Read,G713.00,Abdominal aortic aneurysm which has ruptured,peripheral arterial disease,diagnostic
+Read,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy,peripheral arterial disease,diagnostic
+Read,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy,peripheral arterial disease,diagnostic
+Read,C10FF11,Type II diabetes mellitus with peripheral angiopathy,peripheral arterial disease,diagnostic
+Read,G712.00,Thoracic aortic aneurysm without mention of rupture,peripheral arterial disease,diagnostic
+Read,G711.11,Ruptured thoracic aortic aneurysm,peripheral arterial disease,diagnostic
+Read,G711.00,Thoracic aortic aneurysm which has ruptured,peripheral arterial disease,diagnostic
+Read,G714.00,Abdominal aortic aneurysm without mention of rupture,peripheral arterial disease,diagnostic
+Read,G713000,Ruptured suprarenal aortic aneurysm,peripheral arterial disease,diagnostic
+Read,G720.00,Aneurysm of artery of arm,peripheral arterial disease,diagnostic
+Read,G718.00,Leaking abdominal aortic aneurysm,peripheral arterial disease,diagnostic
+Read,G715.00,Ruptured aortic aneurysm NOS,peripheral arterial disease,diagnostic
+Read,G714000,Juxtarenal aortic aneurysm,peripheral arterial disease,diagnostic
+Read,G714.11,AAA - Abdominal aortic aneurysm without mention of rupture,peripheral arterial disease,diagnostic
+Read,G716000,Thoracoabdominal aortic aneurysm; without mention of rupture,peripheral arterial disease,diagnostic
+Read,G715000,Thoracoabdominal aortic aneurysm; ruptured,peripheral arterial disease,diagnostic
+Read,G722000,Aneurysm of common iliac artery,peripheral arterial disease,diagnostic
+Read,7A46600,Replace aneurysm fem art by fem/tib a anast c vein graft NEC,peripheral arterial disease,diagnostic
+Read,7A11200,Emerg repl aneurysm bifurc aorta by anast aorta to iliac a,peripheral arterial disease,diagnostic
+Read,G723z00,Aneurysm of leg artery NOS,peripheral arterial disease,diagnostic
+Read,G722.00,Aneurysm of iliac artery,peripheral arterial disease,diagnostic
+Read,G720z00,Aneurysm of arm artery NOS,peripheral arterial disease,diagnostic
+Read,G723600,Post radiological femoral false aneurysm,peripheral arterial disease,diagnostic
+Read,G723.00,Aneurysm of leg artery,peripheral arterial disease,diagnostic
+Read,G722z00,Aneurysm of iliac artery NOS,peripheral arterial disease,diagnostic
+Read,G722100,Aneurysm of external iliac artery,peripheral arterial disease,diagnostic
+Read,G722200,Aneurysm of internal iliac artery,peripheral arterial disease,diagnostic
+Read,G723500,Ruptured popliteal artery aneurysm,peripheral arterial disease,diagnostic
+Read,G723100,Aneurysm of popliteal artery,peripheral arterial disease,diagnostic
+Read,G723000,Aneurysm of femoral artery,peripheral arterial disease,diagnostic
+Read,G723400,Aneurysm of posterior tibial artery,peripheral arterial disease,diagnostic
+Read,G723200,Aneurysm of anterior tibial artery,peripheral arterial disease,diagnostic
+Read,G723300,Aneurysm of dorsalis pedis artery,peripheral arterial disease,diagnostic
+Read,7A40900,Replace aneurysm com iliac a by aorta/com iliac a anast NEC,peripheral arterial disease,diagnostic
+Read,G72y600,Aneurysm of axillary artery,peripheral arterial disease,diagnostic
+Read,G731000,Buerger's disease,peripheral arterial disease,diagnostic
+Read,G72y500,Aneurysm of splenic artery,peripheral arterial disease,diagnostic
+Read,G72y400,Aneurysm of subclavian artery,peripheral arterial disease,diagnostic
+Read,G731.00,Thromboangiitis obliterans,peripheral arterial disease,diagnostic
+Read,G72y800,Aneurysm of superior mesenteric artery,peripheral arterial disease,diagnostic
+Read,G72y700,Aneurysm of coeliac artery,peripheral arterial disease,diagnostic
+Read,G73..00,Other peripheral vascular disease,peripheral arterial disease,diagnostic
+Read,G72y900,Aneurysm of inferior mesenteric artery,peripheral arterial disease,diagnostic
+Read,G72yA00,Aneurysm of hepatic artery,peripheral arterial disease,diagnostic
+Read,7A11100,Replace aneurysm bifurc aorta by anast aorta to femoral art,peripheral arterial disease,diagnostic
+Read,7A11000,Emerg repl aneurysm bifurc aorta by anast aorta to fem art,peripheral arterial disease,diagnostic
+Read,G73y.00,Other specified peripheral vascular disease,peripheral arterial disease,diagnostic
+Read,G73zz00,Peripheral vascular disease NOS,peripheral arterial disease,diagnostic
+Read,G73z.00,Peripheral vascular disease NOS,peripheral arterial disease,diagnostic
+Read,G73y000,Diabetic peripheral angiopathy,peripheral arterial disease,diagnostic
+Read,G73yz00,Other specified peripheral vascular disease NOS,peripheral arterial disease,diagnostic
+Read,7A11.00,Replacement of aneurysmal bifurcation of aorta,peripheral arterial disease,diagnostic
+Read,G76z200,Popliteal artery occlusion,peripheral arterial disease,diagnostic
+Read,G76z100,Femoral artery occlusion,peripheral arterial disease,diagnostic
+Read,7A10100,Bypass aorta by anastomosis axillary to femoral artery NEC,peripheral arterial disease,diagnostic
+Read,Gyu7400,[X]Other specified peripheral vascular diseases,peripheral arterial disease,diagnostic
+Read,662U.00,Peripheral vascular disease monitoring,peripheral arterial disease,diagnostic
+Read,7A12100,Bypass bifurc aorta by anastom aorta to femoral artery NEC,peripheral arterial disease,diagnostic
+Read,7A11211,Y graft of abdominal Aortic aneurysm (emergency),peripheral arterial disease,diagnostic
+Read,7A22000,Percutaneous transluminal angioplasty of carotid artery,peripheral arterial disease,diagnostic
+Read,7A12000,Emerg bypass bifurc aorta by anast aorta to femoral artery,peripheral arterial disease,diagnostic
+Read,7A11311,Y graft abdominal Aortic aneurysm,peripheral arterial disease,diagnostic
+Read,7A11300,Replace aneurysm bifurc aorta by anast aorta to iliac artery,peripheral arterial disease,diagnostic
+Read,7A40800,Emerg replace aneurysm iliac artery by iliac/iliac art anast,peripheral arterial disease,diagnostic
+Read,7A11z00,Replacement of aneurysmal bifurcation of aorta NOS,peripheral arterial disease,diagnostic
+Read,7A11y00,Replacement of aneurysmal bifurcation of aorta OS,peripheral arterial disease,diagnostic
+Read,7A1B200,Endovascular stenting of thoracic aortic aneurysm,peripheral arterial disease,diagnostic
+Read,7A13400,Emerg replace aneurysm abdom aorta by anast aorta/aorta NEC,peripheral arterial disease,diagnostic
+Read,7A12300,Bypass bifurcation aorta by anastom aorta to iliac artery,peripheral arterial disease,diagnostic
+Read,7A12200,Emerg bypass bifurc aorta by anastom aorta to iliac artery,peripheral arterial disease,diagnostic
+Read,7A13300,Emerg replace aneurysm infrarenal aorta by anast aorta/aorta,peripheral arterial disease,diagnostic
+Read,7A13100,Emerg replace aneurysm thor aorta by anastom aorta to aorta,peripheral arterial disease,diagnostic
+Read,7A13200,Emerg replace aneurysm suprarenal aorta by anast aorta/aorta,peripheral arterial disease,diagnostic
+Read,7A13411,Tube graft abdominal Aortic aneurysm (emergency),peripheral arterial disease,diagnostic
+Read,7A1B000,Endovascular stenting infrarenal abdominal aortic aneurysm,peripheral arterial disease,diagnostic
+Read,7A14411,Tube graft of Abdominal aortic aneurysm,peripheral arterial disease,diagnostic
+Read,7A14100,Replace aneurysm thoracic aorta by anast of aorta/aorta NEC,peripheral arterial disease,diagnostic
+Read,7A14400,Replace aneurysm abdominal aorta by anast aorta to aorta NEC,peripheral arterial disease,diagnostic
+Read,7A40700,Emerg replace aneurysm leg artery by aorta/sup fem art anast,peripheral arterial disease,diagnostic
+Read,7A28000,Percutaneous transluminal angioplasty of subclavian artery,peripheral arterial disease,diagnostic
+Read,7A34D00,Operation on aneurysm of superior mesenteric artery NEC,peripheral arterial disease,diagnostic
+Read,7A27E00,Operation on aneurysm of brachial artery,peripheral arterial disease,diagnostic
+Read,7A27C00,Operation on aneurysm of subclavian artery,peripheral arterial disease,diagnostic
+Read,7A27D00,Operation on aneurysm of axillary artery,peripheral arterial disease,diagnostic
+Read,7A34C00,Operation on aneurysm of coeliac artery NEC,peripheral arterial disease,diagnostic
+Read,7A28200,Percutaneous transluminal angioplasty of vertebral artery,peripheral arterial disease,diagnostic
+Read,7A28100,Percutaneous transluminal angioplasty of brachial artery,peripheral arterial disease,diagnostic
+Read,7A32000,Percutaneous transluminal angioplasty of renal artery,peripheral arterial disease,diagnostic
+Read,7A28C00,Percutaneous transluminal angioplasty of axillary artery,peripheral arterial disease,diagnostic
+Read,7A31300,Operation on aneurysm of renal artery,peripheral arterial disease,diagnostic
+Read,7A40600,Emerg replace aneurysm leg artery by aorta/com fem art anast,peripheral arterial disease,diagnostic
+Read,7A34E00,Operation on aneurysm of inferior mesenteric artery NEC,peripheral arterial disease,diagnostic
+Read,7A35300,Percutaneous transluminal angioplasty suprarenal artery NEC,peripheral arterial disease,diagnostic
+Read,7A35000,Percutaneous transluminal angioplasty of coeliac artery NEC,peripheral arterial disease,diagnostic
+Read,7A34F00,Operation on aneurysm of suprarenal artery NEC,peripheral arterial disease,diagnostic
+Read,7A34K00,Operation on aneurysm visceral branch of abdominal aorta NEC,peripheral arterial disease,diagnostic
+Read,7A40300,Replace aneurysmal iliac artery by fem/fem artery anast NEC,peripheral arterial disease,diagnostic
+Read,7A40.11,Replacement of aneurysmal iliac artery by anastomosis,peripheral arterial disease,diagnostic
+Read,7A40.00,Replacement of aneurysmal iliac artery,peripheral arterial disease,diagnostic
+Read,7A40200,Emerg replace aneurysmal iliac artery by fem/fem art anast,peripheral arterial disease,diagnostic
+Read,7A40000,Emerg replace aneurysm iliac art by iliac/femoral art anast,peripheral arterial disease,diagnostic
+Read,7A40100,Replace aneurysmal iliac art by iliac/femoral art anast NEC,peripheral arterial disease,diagnostic
+Read,7A40z00,Replacement of aneurysmal iliac artery NOS,peripheral arterial disease,diagnostic
+Read,7A45C00,Emerg replace aneurysm fem artery by fem/fem art anastomosis,peripheral arterial disease,diagnostic
+Read,7A40y00,Other specified replacement of aneurysmal iliac artery,peripheral arterial disease,diagnostic
+Read,7A40B00,Replace aneurysm leg artery by aorta/com fem art anast NEC,peripheral arterial disease,diagnostic
+Read,7A40A00,Replace aneurysm iliac art by aorta/ext iliac art anast NEC,peripheral arterial disease,diagnostic
+Read,7A40D00,Replace aneurysm iliac artery by iliac/iliac art anast NEC,peripheral arterial disease,diagnostic
+Read,7A40C00,Replace aneurysm leg artery by aorta/sup fem art anast NEC,peripheral arterial disease,diagnostic
+Read,7A41z00,Other bypass of iliac artery NOS,peripheral arterial disease,diagnostic
+Read,7A41y00,Other specified other bypass of iliac artery,peripheral arterial disease,diagnostic
+Read,7A41.00,Other bypass of iliac artery,peripheral arterial disease,diagnostic
+Read,7A41300,Bypass iliac artery by femoral/femoral art anastomosis NEC,peripheral arterial disease,diagnostic
+Read,7A41200,Emerg bypass iliac artery by femoral/femoral art anast NEC,peripheral arterial disease,diagnostic
+Read,7A41.11,Other bypass of iliac artery by anastomosis,peripheral arterial disease,diagnostic
+Read,7A41100,Bypass iliac artery by iliac/femoral artery anastomosis NEC,peripheral arterial disease,diagnostic
+Read,7A41E00,Emergency bypass of iliac artery by unspecified anastomosis,peripheral arterial disease,diagnostic
+Read,7A41800,Emerg bypass iliac artery by iliac/iliac art anastomosis NEC,peripheral arterial disease,diagnostic
+Read,7A41500,Emerg bypass iliac artery by aorta/ext iliac art anast NEC,peripheral arterial disease,diagnostic
+Read,7A41D00,Bypass iliac artery by iliac/iliac artery anastomosis NEC,peripheral arterial disease,diagnostic
+Read,7A41900,Bypass common iliac artery by aorta/com iliac art anast NEC,peripheral arterial disease,diagnostic
+Read,7A41A00,Bypass iliac artery by aorta/ext iliac art anastomosis NEC,peripheral arterial disease,diagnostic
+Read,7A43200,Operation on aneurysm of iliac artery NEC,peripheral arterial disease,diagnostic
+Read,7A45900,Emerg replace aneurysm pop art by pop/peron a anast c prosth,peripheral arterial disease,diagnostic
+Read,7A45.13,Emergency replacement of aneurysmal deep femoral artery,peripheral arterial disease,diagnostic
+Read,7A44000,Percutaneous transluminal angioplasty of iliac artery,peripheral arterial disease,diagnostic
+Read,7A46500,Replace aneurysm pop art by pop/tib art anast c prosth NEC,peripheral arterial disease,diagnostic
+Read,7A45.12,Emergency replacement of aneurysmal common femoral artery,peripheral arterial disease,diagnostic
+Read,7A45.11,Emerg replacement aneurysmal femoral/popl art by anastomosis,peripheral arterial disease,diagnostic
+Read,7A45.00,Emergency replacement of aneurysmal femoral/popliteal artery,peripheral arterial disease,diagnostic
+Read,7A45.14,Emergency replacement of aneurysmal popliteal artery,peripheral arterial disease,diagnostic
+Read,7A45800,Emerg replace aneurysm fem art by fem/peron a anast c prosth,peripheral arterial disease,diagnostic
+Read,7A45100,Emerg replace aneurysm pop art by pop/pop art anast c prosth,peripheral arterial disease,diagnostic
+Read,7A45000,Emerg replace aneurysm fem art by fem/pop art anast c prosth,peripheral arterial disease,diagnostic
+Read,7A45.15,Emergency replacement aneurysmal superficial femoral artery,peripheral arterial disease,diagnostic
+Read,7A45200,Emerg replace aneurysm fem art by fem/pop anast c vein graft,peripheral arterial disease,diagnostic
+Read,7A45700,Emerg replace aneurysm pop art by pop/tib anast c vein graft,peripheral arterial disease,diagnostic
+Read,7A45500,Emerg replace aneurysm pop art by pop/tib art anast c prosth,peripheral arterial disease,diagnostic
+Read,7A45400,Emerg replace aneurysm femoral art by fem/tib a anast c pros,peripheral arterial disease,diagnostic
+Read,7A46400,Replace aneurysm fem art by fem/tib art anast c prosth NEC,peripheral arterial disease,diagnostic
+Read,7A45D00,Emerg replace aneurysm pop artery by pop/fem art anastomosis,peripheral arterial disease,diagnostic
+Read,7A46.11,Other replacement aneurysmal femoral artery by anastomosis,peripheral arterial disease,diagnostic
+Read,7A46.00,Other replacement of aneurysmal femoral artery,peripheral arterial disease,diagnostic
+Read,7A45y00,Emergency replacement aneurysmal femoral/popliteal artery OS,peripheral arterial disease,diagnostic
+Read,7A45z00,Emergency replacement aneurysmal femoral/popliteal art NOS,peripheral arterial disease,diagnostic
+Read,7A46300,Replace aneurysm pop art by pop/pop a anast c vein graft NEC,peripheral arterial disease,diagnostic
+Read,7A46.14,Other replacement of aneurysmal popliteal artery,peripheral arterial disease,diagnostic
+Read,7A46.13,Other replacement of aneurysmal deep femoral artery,peripheral arterial disease,diagnostic
+Read,7A46.12,Other replacement of aneurysmal common femoral artery,peripheral arterial disease,diagnostic
+Read,7A46200,Replace aneurysm fem art by fem/pop a anast c vein graft NEC,peripheral arterial disease,diagnostic
+Read,7A46.15,Other replacement of aneurysmal superficial femoral artery,peripheral arterial disease,diagnostic
+Read,7A46100,Replace aneurysm pop art by pop/pop art anastom c prosth NEC,peripheral arterial disease,diagnostic
+Read,7A46000,Replace aneurysm fem art by fem/pop art anastom c prosth NEC,peripheral arterial disease,diagnostic

@@ -1,0 +1,368 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,13041,SIMVADOR tablets 10mg [DISCOVERY],res56: Lipid lowering agents,drug
+CPRD_product_code,11627,fluvastatin 24 hour modified release tablets 80mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,9930,CRESTOR tablets 40mg [ASTRAZENEC],res56: Lipid lowering agents,drug
+CPRD_product_code,713,rosuvastatin tablets 10mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,490,pravastatin tablets 10mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,51,simvastatin tablets 40mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,42,simvastatin tablets 10mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,28,atorvastatin tablets 10mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,25,simvastatin tablets 20mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,420,cerivastatin tablets 100micrograms ,res56: Lipid lowering agents,drug
+CPRD_product_code,379,fluvastatin capsules 20mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,75,atorvastatin tablets 20mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,9920,SIMVADOR tablets 20mg [DISCOVERY],res56: Lipid lowering agents,drug
+CPRD_product_code,5148,simvastatin tablets 80mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,5009,cerivastatin tablets 200micrograms ,res56: Lipid lowering agents,drug
+CPRD_product_code,1221,LIPOSTAT tablets 10mg [SQUIBB],res56: Lipid lowering agents,drug
+CPRD_product_code,745,atorvastatin tablets 40mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,730,pravastatin tablets 20mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,1219,pravastatin tablets 40mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,818,simvastatin oral suspension sugar-free 20mg/5ml ,res56: Lipid lowering agents,drug
+CPRD_product_code,802,SIMVADOR tablets 40mg [DISCOVERY],res56: Lipid lowering agents,drug
+CPRD_product_code,4961,LIPOBAY tablets 300micrograms [BAYER],res56: Lipid lowering agents,drug
+CPRD_product_code,2718,ZOCOR tablets 10mg [M S D],res56: Lipid lowering agents,drug
+CPRD_product_code,1223,LIPOSTAT tablets 40mg [SQUIBB],res56: Lipid lowering agents,drug
+CPRD_product_code,2137,fluvastatin capsules 40mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,3690,LIPOSTAT tablets 20mg [SQUIBB],res56: Lipid lowering agents,drug
+CPRD_product_code,3411,LIPITOR tablets 10mg [PFIZER],res56: Lipid lowering agents,drug
+CPRD_product_code,2955,LIPITOR tablets 40mg [PFIZER],res56: Lipid lowering agents,drug
+CPRD_product_code,9897,rosuvastatin tablets 40mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,6168,ZOCOR tablets 40mg [M S D],res56: Lipid lowering agents,drug
+CPRD_product_code,5985,LESCOL XL tablets 80mg [NOVARTIS],res56: Lipid lowering agents,drug
+CPRD_product_code,5775,atorvastatin tablets 80mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,5278,cerivastatin tablets 400micrograms ,res56: Lipid lowering agents,drug
+CPRD_product_code,5251,cerivastatin tablets 300micrograms ,res56: Lipid lowering agents,drug
+CPRD_product_code,9316,LIPOBAY tablets 200micrograms [BAYER],res56: Lipid lowering agents,drug
+CPRD_product_code,7347,CRESTOR tablets 10mg [ASTRAZENEC],res56: Lipid lowering agents,drug
+CPRD_product_code,7196,ZOCOR tablets 20mg [M S D],res56: Lipid lowering agents,drug
+CPRD_product_code,6213,rosuvastatin tablets 20mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,9315,LIPOBAY tablets 100micrograms [BAYER],res56: Lipid lowering agents,drug
+CPRD_product_code,8380,LESCOL capsules 20mg [NOV/SANDOZ],res56: Lipid lowering agents,drug
+CPRD_product_code,7554,rosuvastatin tablets 5mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,7374,LIPITOR tablets 20mg [PFIZER],res56: Lipid lowering agents,drug
+CPRD_product_code,9153,LESCOL capsules 40mg [NOV/SANDOZ],res56: Lipid lowering agents,drug
+CPRD_product_code,34376,SIMVASTATIN tablets 40mg [TEVA],res56: Lipid lowering agents,drug
+CPRD_product_code,31930,ZOCOR HEART-PRO tablets 10mg [MCNEIL],res56: Lipid lowering agents,drug
+CPRD_product_code,17688,CRESTOR tablets 5mg [ASTRAZENEC],res56: Lipid lowering agents,drug
+CPRD_product_code,17683,LIPITOR tablets 80mg [PFIZER],res56: Lipid lowering agents,drug
+CPRD_product_code,15252,CRESTOR tablets 20mg [ASTRAZENEC],res56: Lipid lowering agents,drug
+CPRD_product_code,31658,cerivastatin tablets 800micrograms ,res56: Lipid lowering agents,drug
+CPRD_product_code,22579,ZOCOR tablets 80mg [M S D],res56: Lipid lowering agents,drug
+CPRD_product_code,18442,LIPOBAY tablets 400micrograms [BAYER],res56: Lipid lowering agents,drug
+CPRD_product_code,34366,SIMVASTATIN tablets 20mg [IVAX],res56: Lipid lowering agents,drug
+CPRD_product_code,32909,SIMVASTATIN tablets 80mg [HILLCROSS],res56: Lipid lowering agents,drug
+CPRD_product_code,34353,SIMVASTATIN tablets 40mg [GEN (UK)],res56: Lipid lowering agents,drug
+CPRD_product_code,32921,PRAVASTATIN tablets 10mg [DR REDDY`S],res56: Lipid lowering agents,drug
+CPRD_product_code,34316,SIMVASTATIN tablets 20mg [TEVA],res56: Lipid lowering agents,drug
+CPRD_product_code,33082,SIMVASTATIN tablets 20mg [HILLCROSS],res56: Lipid lowering agents,drug
+CPRD_product_code,34312,SIMVASTATIN tablets 20mg [GEN (UK)],res56: Lipid lowering agents,drug
+CPRD_product_code,61134,Pravastatin 20mg tablets (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,52460,Atorvastatin 40mg tablets (Aspire Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,48097,PRAVASTATIN tablets 40mg [TEVA],res56: Lipid lowering agents,drug
+CPRD_product_code,40382,PRAVASTATIN tablets 20mg [HILLCROSS],res56: Lipid lowering agents,drug
+CPRD_product_code,34891,SIMVASTATIN tablets 20mg [KENT],res56: Lipid lowering agents,drug
+CPRD_product_code,34545,SIMVASTATIN tablets 40mg [RATIOPHARM],res56: Lipid lowering agents,drug
+CPRD_product_code,34481,SIMVASTATIN tablets 10mg [IVAX],res56: Lipid lowering agents,drug
+CPRD_product_code,34381,SIMVASTATIN tablets 40mg [IVAX],res56: Lipid lowering agents,drug
+CPRD_product_code,34476,SIMVASTATIN tablets 20mg [RATIOPHARM],res56: Lipid lowering agents,drug
+CPRD_product_code,34535,SIMVASTATIN tablets 10mg [GEN (UK)],res56: Lipid lowering agents,drug
+CPRD_product_code,34502,SIMVASTATIN tablets 40mg [HILLCROSS],res56: Lipid lowering agents,drug
+CPRD_product_code,34879,SIMVASTATIN tablets 40mg [NICHE],res56: Lipid lowering agents,drug
+CPRD_product_code,34746,SIMVASTATIN tablets 20mg [NICHE],res56: Lipid lowering agents,drug
+CPRD_product_code,34560,SIMVASTATIN tablets 10mg [RATIOPHARM],res56: Lipid lowering agents,drug
+CPRD_product_code,34820,PRAVASTATIN tablets 40mg [HILLCROSS],res56: Lipid lowering agents,drug
+CPRD_product_code,34814,SIMVASTATIN tablets 20mg [WOCKHARDT],res56: Lipid lowering agents,drug
+CPRD_product_code,40340,SIMVASTATIN tablets 10mg [TEVA],res56: Lipid lowering agents,drug
+CPRD_product_code,36377,PRAVASTATIN tablets 20mg [TEVA],res56: Lipid lowering agents,drug
+CPRD_product_code,34907,SIMVASTATIN tablets 40mg [WOCKHARDT],res56: Lipid lowering agents,drug
+CPRD_product_code,34969,SIMVASTATIN tablets 40mg [ACTAVIS],res56: Lipid lowering agents,drug
+CPRD_product_code,34955,SIMVASTATIN tablets 10mg [HILLCROSS],res56: Lipid lowering agents,drug
+CPRD_product_code,39870,SIMVADOR tablets 80mg [DISCOVERY],res56: Lipid lowering agents,drug
+CPRD_product_code,39060,SIMVASTATIN tablets 20mg [DEXCEL],res56: Lipid lowering agents,drug
+CPRD_product_code,39675,SIMVASTATIN oral suspension 20mg/5ml [MARTINDALE],res56: Lipid lowering agents,drug
+CPRD_product_code,39652,simvastatin oral suspension sugar-free 40mg/5ml ,res56: Lipid lowering agents,drug
+CPRD_product_code,48078,SIMVASTATIN tablets 10mg [ACTAVIS],res56: Lipid lowering agents,drug
+CPRD_product_code,46956,SIMVASTATIN tablets 80mg [ARROW],res56: Lipid lowering agents,drug
+CPRD_product_code,44650,SIMVASTATIN tablets 40mg [DEXCEL],res56: Lipid lowering agents,drug
+CPRD_product_code,40601,SIMVASTATIN tablets 20mg [RANBAXY],res56: Lipid lowering agents,drug
+CPRD_product_code,44528,SIMVASTATIN oral suspension sugar-free 20mg/5ml [ROSEMONT],res56: Lipid lowering agents,drug
+CPRD_product_code,41657,SIMVASTATIN tablets 80mg [TEVA],res56: Lipid lowering agents,drug
+CPRD_product_code,43218,PRAVASTATIN tablets 10mg [TEVA],res56: Lipid lowering agents,drug
+CPRD_product_code,46878,SIMVASTATIN tablets 40mg [ALMUS],res56: Lipid lowering agents,drug
+CPRD_product_code,45219,SIMVASTATIN tablets 40mg [KENT],res56: Lipid lowering agents,drug
+CPRD_product_code,44878,RANZOLONT tablets 10mg [RANBAXY],res56: Lipid lowering agents,drug
+CPRD_product_code,45346,SIMVASTATIN tablets 40mg [ARROW],res56: Lipid lowering agents,drug
+CPRD_product_code,45235,SIMVASTATIN tablets 20mg [SANDOZ],res56: Lipid lowering agents,drug
+CPRD_product_code,45245,SIMVASTATIN tablets 20mg [ACTAVIS],res56: Lipid lowering agents,drug
+CPRD_product_code,48058,SIMVASTATIN tablets 10mg [RANBAXY],res56: Lipid lowering agents,drug
+CPRD_product_code,47721,LIPITOR chewable tablet 10mg [PFIZER],res56: Lipid lowering agents,drug
+CPRD_product_code,47065,atorvastatin chewable tablet 20mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,47630,LIPITOR chewable tablet 20mg [PFIZER],res56: Lipid lowering agents,drug
+CPRD_product_code,47090,atorvastatin chewable tablet 10mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,48051,SIMVASTATIN tablets 10mg [KENT],res56: Lipid lowering agents,drug
+CPRD_product_code,47774,SIMVASTATIN tablets 10mg [ARROW],res56: Lipid lowering agents,drug
+CPRD_product_code,48018,SIMVASTATIN tablets 20mg [ARROW],res56: Lipid lowering agents,drug
+CPRD_product_code,47948,SIMVASTATIN tablets 10mg [TILLOMED],res56: Lipid lowering agents,drug
+CPRD_product_code,47988,PRAVASTATIN tablets 40mg [GEN (UK)],res56: Lipid lowering agents,drug
+CPRD_product_code,52459,Atorvastatin 80mg tablets (Actavis UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,49062,Simvastatin 20mg tablets (Alliance Healthcare (Distribution) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,48431,Simvastatin 40mg/5ml oral suspension sugar free,res56: Lipid lowering agents,drug
+CPRD_product_code,48221,Simvastatin 20mg/5ml oral suspension sugar free,res56: Lipid lowering agents,drug
+CPRD_product_code,48346,Atorvastatin 60mg tablets,res56: Lipid lowering agents,drug
+CPRD_product_code,49061,Simvastatin 40mg tablets (Bristol Laboratories Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,48518,Atorvastatin 10mg/5ml oral solution,res56: Lipid lowering agents,drug
+CPRD_product_code,48973,Atorvastatin 30mg tablets,res56: Lipid lowering agents,drug
+CPRD_product_code,48867,Simvastatin 40mg tablets (Alliance Healthcare (Distribution) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,50703,Simvastatin 40mg tablets (Accord Healthcare Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,50236,Atorvastatin 10mg tablets (Zentiva),res56: Lipid lowering agents,drug
+CPRD_product_code,49558,Atorvastatin 20mg tablets (A A H Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,49751,Atorvastatin 40mg tablets (Alliance Healthcare (Distribution) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,49587,Simvastatin 80mg tablets (Almus Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,50670,Simvastatin 40mg tablets (Aurobindo Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,50272,Atorvastatin 40mg tablets (Pfizer Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,50564,Simvastatin 20mg tablets (Relonchem Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,50483,Simvastatin 40mg tablets (Relonchem Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,52398,Atorvastatin 40mg tablets (A A H Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,51483,Simvastatin 20mg tablets (Aurobindo Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,50963,Atorvastatin 40mg tablets (Teva UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,50788,Atorvastatin 20mg tablets (Pfizer Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,50754,Simvastatin 20mg tablets (Medreich Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,50925,Pravastatin 10mg tablets (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,50790,Atorvastatin 20mg tablets (Dexcel-Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,50882,Simvastatin 40mg tablets (Somex Pharma),res56: Lipid lowering agents,drug
+CPRD_product_code,51359,Atorvastatin 20mg tablets (Arrow Generics Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,51134,Atorvastatin 10mg tablets (A A H Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,51085,Simvastatin 10mg tablets (Medreich Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,51233,Simvastatin 10mg tablets (Alliance Healthcare (Distribution) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,51166,Simvastatin 40mg tablets (Medreich Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,51200,Atorvastatin 40mg tablets (Arrow Generics Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,52397,Atorvastatin 40mg tablets (Dr Reddy's Laboratories (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,51715,Simvastatin 10mg tablets (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,51676,Pravastatin 40mg tablets (Medreich Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,51622,Atorvastatin 20mg tablets (Consilient Health Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,52257,Simvastatin 20mg tablets (Accord Healthcare Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,52097,Atorvastatin 40mg tablets (Wockhardt UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,51876,Atorvastatin 40mg tablets (Consilient Health Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,51890,Pravastatin 20mg tablets (Medreich Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,52211,Atorvastatin 20mg tablets (Actavis UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,52098,Simvastatin 40mg tablets (Ranbaxy (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,52168,Atorvastatin 20mg tablets (Aspire Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,60989,Atorvastatin 80mg tablets (Phoenix Healthcare Distribution Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,56841,Atorvastatin 40mg tablets (Dexcel-Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,54606,Simvastatin 20mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,53594,Lipitor 80mg tablets (Mawdsley-Brooks & Company Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,52812,Simvastatin 20mg tablets (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,52625,Simvastatin 10mg tablets (Wockhardt UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,52755,Pravastatin 20mg tablets (Alliance Healthcare (Distribution) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,52676,Simvastatin 10mg/5ml oral suspension,res56: Lipid lowering agents,drug
+CPRD_product_code,53460,Crestor 10mg tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,52962,Simvastatin 80mg tablets (Medreich Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,52821,Atorvastatin 80mg tablets (Dr Reddy's Laboratories (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,52953,Simvastatin 20mg tablets (Bristol Laboratories Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,53415,Simvastatin 10mg tablets (Aurobindo Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,53087,Simvastatin 20mg tablets (Somex Pharma),res56: Lipid lowering agents,drug
+CPRD_product_code,53340,Zocor 40mg tablets (Lexon (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,54535,Atorvastatin 10mg tablets (Pfizer Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,53887,Atorvastatin 40mg tablets (Actavis UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,53676,Simvastatin 20mg tablets (Tillomed Laboratories Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,53822,Simvastatin 10mg tablets (Bristol Laboratories Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,53770,Fluvastatin 40mg capsules (A A H Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,53772,Atorvastatin 80mg tablets (Alliance Healthcare (Distribution) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,54493,Simvastatin 10mg tablets (Relonchem Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,53966,Simvastatin 40mg tablets (Phoenix Healthcare Distribution Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,53890,Atorvastatin 80mg tablets (Pfizer Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,53908,Simvastatin 10mg tablets (Dexcel-Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,54435,Pravastatin 40mg tablets (Almus Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,54240,Simvastatin 40mg tablets (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,54266,Simvastatin 20mg/5ml oral suspension,res56: Lipid lowering agents,drug
+CPRD_product_code,56735,Pravastatin 20mg tablets (Mylan Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,56016,Lipitor 20mg chewable tablets (Pfizer Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,54992,Atorvastatin 10mg/5ml oral suspension,res56: Lipid lowering agents,drug
+CPRD_product_code,54819,Simvastatin 40mg/5ml oral suspension sugar free (Rosemont Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,54607,Pravastatin 20mg tablets (Almus Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,54655,Simvastatin 10mg tablets (Accord Healthcare Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,54985,Simvastatin 40mg/5ml oral suspension,res56: Lipid lowering agents,drug
+CPRD_product_code,54947,Simvastatin 20mg tablets (Almus Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,54976,Simvastatin 10mg tablets (Somex Pharma),res56: Lipid lowering agents,drug
+CPRD_product_code,55912,Pravastatin 40mg tablets (Alliance Healthcare (Distribution) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,55034,Atorvastatin 40mg/5ml oral suspension,res56: Lipid lowering agents,drug
+CPRD_product_code,55032,Atorvastatin 10mg tablets (Dexcel-Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,55727,Atorvastatin 10mg tablets (Actavis UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,55444,Atorvastatin 40mg tablets (Zentiva),res56: Lipid lowering agents,drug
+CPRD_product_code,55452,Simvastatin 20mg tablets (Phoenix Healthcare Distribution Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,56607,Pravastatin 20mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,56146,Pravastatin 10mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,56097,Atorvastatin 10mg chewable tablets sugar free,res56: Lipid lowering agents,drug
+CPRD_product_code,56065,Simvastatin 20mg/5ml oral suspension sugar free (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,56564,Atorvastatin 20mg tablets (Almus Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,56248,Atorvastatin 20mg tablets (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,56165,Atorvastatin 20mg chewable tablets sugar free,res56: Lipid lowering agents,drug
+CPRD_product_code,56182,Atorvastatin 80mg tablets (Zentiva),res56: Lipid lowering agents,drug
+CPRD_product_code,56494,Zocor 20mg tablets (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,56481,Zocor 10mg tablets (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,60511,Atorvastatin 40mg tablets (Ranbaxy (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,58755,Simvastatin 10mg tablets (Phoenix Healthcare Distribution Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,57397,Pravastatin 10mg tablets (Accord Healthcare Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,57296,Pravastatin 20mg tablets (Phoenix Healthcare Distribution Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,56916,Pravastatin 40mg tablets (PLIVA Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,56893,Pravastatin 40mg tablets (Accord Healthcare Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,57137,Pravastatin 10mg tablets (Almus Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,57108,Pravastatin 40mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,57117,Atorvastatin 80mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,57348,Atorvastatin 10mg tablets (Consilient Health Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,57329,Simvastatin 25mg/5ml oral suspension,res56: Lipid lowering agents,drug
+CPRD_product_code,58742,Atorvastatin 80mg tablets (Arrow Generics Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,57999,Crestor 40mg tablets (Lexon (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,57763,Rosuvastatin 10mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,57568,Zocor 10mg tablets (Lexon (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,57836,Atorvastatin 80mg tablets (Teva UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,57834,Atorvastatin 40mg tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,58617,Rosuvastatin 20mg/5ml oral suspension,res56: Lipid lowering agents,drug
+CPRD_product_code,58110,Atorvastatin 20mg tablets (Zentiva),res56: Lipid lowering agents,drug
+CPRD_product_code,58041,Atorvastatin 20mg tablets (Teva UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,58418,Atorvastatin 80mg tablets (A A H Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,58315,Simvastatin 20mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,58394,Atorvastatin 20mg tablets (Alliance Healthcare (Distribution) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,60464,Atorvastatin 20mg/5ml oral suspension,res56: Lipid lowering agents,drug
+CPRD_product_code,59331,Lipitor 10mg tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,59278,Fluvastatin 20mg capsules (Zentiva),res56: Lipid lowering agents,drug
+CPRD_product_code,58834,Atorvastatin 10mg tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,59272,Atorvastatin 20mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,58868,Atorvastatin 10mg tablets (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,60251,Pravastatin 10mg tablets (Sandoz Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,59452,Rosuvastatin 5mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,59446,Atorvastatin 40mg tablets (Almus Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,59357,Atorvastatin 10mg tablets (Ranbaxy (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,59447,Crestor 20mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,60160,Rosuvastatin 5mg tablets (Mawdsley-Brooks & Company Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,59508,Pravastatin 20mg tablets (Accord Healthcare Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,59859,Atorvastatin 10mg tablets (Teva UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,59776,Atorvastatin 80mg tablets (Aspire Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,37953,CHOLESTAGEL tablets 625mg [GENZYME],res56: Lipid lowering agents,drug
+CPRD_product_code,4928,LIPANTIL MICRO capsules 200mg [ABBOTT],res56: Lipid lowering agents,drug
+CPRD_product_code,64825,Atorvastatin 10mg tablets (Phoenix Healthcare Distribution Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,62429,Atorvastatin 20mg tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,61321,Simvastatin 10mg tablets (Sandoz Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,61149,Atorvastatin 10mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,61155,Simvastatin 40mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,62219,Atorvastatin 20mg tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,61360,Simvastatin 10mg tablets (Almus Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,62148,Fluvastatin 20mg capsules (Actavis UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,61665,Simvastatin 10mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,62137,Simvastatin 40mg tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,64810,Atorvastatin 40mg tablets (Phoenix Healthcare Distribution Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,63469,Atorvastatin 30mg tablets (Consilient Health Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,62979,Pravastatin 40mg tablets (Kent Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,62476,Atorvastatin 80mg tablets (Almus Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,63249,Atorvastatin 80mg tablets (Consilient Health Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,63074,Pravastatin 20mg tablets (PLIVA Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,63140,Atorvastatin 10mg tablets (Alliance Healthcare (Distribution) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,64702,Atorvastatin 30mg tablets (A A H Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,64067,Atorvastatin 20mg/5ml oral solution,res56: Lipid lowering agents,drug
+CPRD_product_code,63787,Pravastatin 10mg tablets (Tillomed Laboratories Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,64307,Simvastatin 40mg tablets (Crescent Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,64104,Simvastatin 20mg tablets (Crescent Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,64180,Simvastatin 10mg tablets (Crescent Pharma Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,4920,fenofibrate micronised capsules 200mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,66963,Atorvastatin 80mg tablets (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,65679,Simvastatin 20mg tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,64968,Simvastatin 10mg tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,64868,Atorvastatin 40mg tablets (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,65193,Atorvastatin 20mg tablets (Ranbaxy (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,65181,Simvastatin 40mg tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,60607,Atorvastatin 80mg tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,65925,Simvastatin 20mg/5ml oral suspension sugar free (Alliance Healthcare (Distribution) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,65901,Simvastatin 40mg tablets (Zentiva),res56: Lipid lowering agents,drug
+CPRD_product_code,4062,LOPID tablets 600mg [PFIZER],res56: Lipid lowering agents,drug
+CPRD_product_code,1215,fenofibrate capsules 100mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,602,bezafibrate modified release tablet 400mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,184,bezafibrate tablets 200mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,1214,BEZALIP mono-tablets 400mg [ROCHE],res56: Lipid lowering agents,drug
+CPRD_product_code,3318,gemfibrozil capsules 300mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,2215,LOPID capsules 300mg [PFIZER],res56: Lipid lowering agents,drug
+CPRD_product_code,1217,LIPANTIL MICRO 200 capsules 200mg [FOURNIER],res56: Lipid lowering agents,drug
+CPRD_product_code,1324,BEZALIP tablets 200mg [ROCHE],res56: Lipid lowering agents,drug
+CPRD_product_code,3159,fenofibrate capsules 200mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,2435,LIPANTIL capsules 100mg [FOURNIER],res56: Lipid lowering agents,drug
+CPRD_product_code,3089,ciprofibrate tablets 100mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,37266,colesevelam hydrochloride tablets 625mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,39576,BEZALIP tablets 200mg [ACTAVIS],res56: Lipid lowering agents,drug
+CPRD_product_code,17614,ZIMBACOL XL modified release tablet 400mg [ARCHIMEDES],res56: Lipid lowering agents,drug
+CPRD_product_code,7540,LIPANTIL MICRO capsules 267mg [ABBOTT],res56: Lipid lowering agents,drug
+CPRD_product_code,5216,BEZALIP MONO modified release tablet 400mg [ROCHE],res56: Lipid lowering agents,drug
+CPRD_product_code,5390,fenofibrate micronised capsules 267mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,14379,LIPANTIL MICRO capsules 67mg [ABBOTT],res56: Lipid lowering agents,drug
+CPRD_product_code,8706,MODALIM tablets 100mg [SANOFI/AVE],res56: Lipid lowering agents,drug
+CPRD_product_code,8082,gemfibrozil tablets 600mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,9716,SUPRALIP tablets 160mg [ABBOTT],res56: Lipid lowering agents,drug
+CPRD_product_code,9491,fenofibrate micronised capsules 67mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,9639,fenofibrate micronised tablets 160mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,39420,BEZALIP MONO modified release tablet 400mg [ACTAVIS],res56: Lipid lowering agents,drug
+CPRD_product_code,31221,BEZAFIBRATE tablets 200mg [GEN (UK)],res56: Lipid lowering agents,drug
+CPRD_product_code,23153,LIPAROL XL modified release tablet 400mg [ASHBOURNE],res56: Lipid lowering agents,drug
+CPRD_product_code,29328,BEZAFIBRATE tablets 200mg [HILLCROSS],res56: Lipid lowering agents,drug
+CPRD_product_code,29213,BEZAGEN XL modified release tablet 400mg [GEN (UK)],res56: Lipid lowering agents,drug
+CPRD_product_code,34277,GEMFIBROZIL tablets 600mg [TEVA],res56: Lipid lowering agents,drug
+CPRD_product_code,33603,FIBRAZATE XL tablets 400mg [SANDOZ],res56: Lipid lowering agents,drug
+CPRD_product_code,31783,FENOGAL capsules 200mg [GENUS],res56: Lipid lowering agents,drug
+CPRD_product_code,34181,BEZAFIBRATE modified release tablet 400mg [HILLCROSS],res56: Lipid lowering agents,drug
+CPRD_product_code,33944,BEZAFIBRATE tablets 200mg [TEVA],res56: Lipid lowering agents,drug
+CPRD_product_code,19938,colestipol with aspartame granules ,res56: Lipid lowering agents,drug
+CPRD_product_code,60385,Bezalip Mono 400mg modified-release tablets (Lexon (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,49609,Bezafibrate 400mg Modified-release tablet (Sandoz Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,42801,BEZAFIBRATE XL modified release tablet 400mg [GEN (UK)],res56: Lipid lowering agents,drug
+CPRD_product_code,41396,FENOFIBRATE MICRO capsules 200mg [HILLCROSS],res56: Lipid lowering agents,drug
+CPRD_product_code,47935,FENOFIBRATE capsules 200mg [TEVA],res56: Lipid lowering agents,drug
+CPRD_product_code,59002,Bezafibrate 400mg modified-release tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,53250,Modalim 100mg tablets (Lexon (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,50071,Fenofibrate 160mg Tablet (Teva UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,52814,Bezafibrate 400mg modified-release tablets (Alliance Healthcare (Distribution) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,58635,Bezalip Mono 400mg modified-release tablets (DE Pharmaceuticals),res56: Lipid lowering agents,drug
+CPRD_product_code,57219,Fenofibrate micronised 200mg capsules (Sandoz Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,57489,Ciprofibrate 100mg tablets (Zentiva),res56: Lipid lowering agents,drug
+CPRD_product_code,18081,COLESTID ORANGE granules [PHARMACIA],res56: Lipid lowering agents,drug
+CPRD_product_code,64984,Fenofibrate micronised 160mg tablets (Phoenix Healthcare Distribution Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,60788,Fenofibrate micronised 267mg capsules (Zentiva),res56: Lipid lowering agents,drug
+CPRD_product_code,64933,Fenofibrate micronised 267mg capsules (Ranbaxy (UK) Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,63737,Fenofibrate micronised 267mg capsules (Sigma Pharmaceuticals Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,64503,Bezalip Mono 400mg modified-release tablets (Waymade Healthcare Plc),res56: Lipid lowering agents,drug
+CPRD_product_code,6365,COLESTID granules [PHARMACIA],res56: Lipid lowering agents,drug
+CPRD_product_code,66425,Bezafibrate 400mg modified-release tablets (A A H Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,65572,Fenofibrate micronised 160mg tablets (Genus Pharmaceuticals Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,66087,Modalim 100mg tablets (Mawdsley-Brooks & Company Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,5564,COLESTID orange sachets [PHARMACIA],res56: Lipid lowering agents,drug
+CPRD_product_code,66564,Bezafibrate 400mg modified-release tablets (Phoenix Healthcare Distribution Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,1212,colestipol granules ,res56: Lipid lowering agents,drug
+CPRD_product_code,40885,nicotinic acid with laropiprant modified release tablet 1g + 20mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,6120,EZETROL tablets 10mg [M S D],res56: Lipid lowering agents,drug
+CPRD_product_code,11785,colestyramine powder sugar-free 4g ,res56: Lipid lowering agents,drug
+CPRD_product_code,644,colestyramine powder 4g ,res56: Lipid lowering agents,drug
+CPRD_product_code,6155,colestyramine with aspartame powder sugar-free 4g ,res56: Lipid lowering agents,drug
+CPRD_product_code,1716,QUESTRAN sachets 4g [BRISTOL],res56: Lipid lowering agents,drug
+CPRD_product_code,1764,QUESTRAN LIGHT sachets 4g [BRISTOL],res56: Lipid lowering agents,drug
+CPRD_product_code,653,ezetimibe tablets 10mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,32110,COLESTYRAMINE sachets 4g [DOMINION],res56: Lipid lowering agents,drug
+CPRD_product_code,24084,COLESTYRAMINE sachets 4g [PLIVA],res56: Lipid lowering agents,drug
+CPRD_product_code,61087,Questran Light 4g oral powder sachets (Mawdsley-Brooks & Company Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,34201,COLESTYRAMINE sachets 4g [ACTAVIS],res56: Lipid lowering agents,drug
+CPRD_product_code,60101,colestyramine 4g oral powder sachets sugar free (Teva UK Ltd),res56: Lipid lowering agents,drug
+CPRD_product_code,40729,TREDAPTIVE modified release tablet 1g + 20mg [M S D],res56: Lipid lowering agents,drug
+CPRD_product_code,12211,nicotinic acid tablets 50mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,7551,NIASPAN modified release tablet 1000mg [ABBOTT],res56: Lipid lowering agents,drug
+CPRD_product_code,4067,OLBETAM capsules 250mg [PHARMACIA],res56: Lipid lowering agents,drug
+CPRD_product_code,7544,NIASPAN modified release tablet 750mg [ABBOTT],res56: Lipid lowering agents,drug
+CPRD_product_code,11976,NIASPAN modified release tablet 500mg [ABBOTT],res56: Lipid lowering agents,drug
+CPRD_product_code,8104,acipimox capsules 250mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,10094,NIASPAN TITRATION PACK modified release tablet 375mg + 500mg + 750mg [ABBOTT],res56: Lipid lowering agents,drug
+CPRD_product_code,24583,nicotinic acid modified release tablet 750mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,17813,nicotinic acid tablets 100mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,14963,nicotinic acid modified release tablet 500mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,18126,nicotinic acid modified release tablet 1000mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,17824,nicotinic acid tablets 25mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,18098,nicotinic acid modified release tablet 375mg + 500mg + 750mg ,res56: Lipid lowering agents,drug
+CPRD_product_code,23956,MAXEPA emulsion [SEVEN SEAS],res56: Lipid lowering agents,drug
+CPRD_product_code,2662,MAXEPA capsules 1g [SEVEN SEAS],res56: Lipid lowering agents,drug
+CPRD_product_code,6572,OMACOR capsules [ABBOTT],res56: Lipid lowering agents,drug
+CPRD_product_code,3204,MAXEPA liquid [SEVEN SEAS],res56: Lipid lowering agents,drug
+CPRD_product_code,37434,SIMVASTATIN tablets 40mg [SANDOZ],res56: Lipid lowering agents,drug

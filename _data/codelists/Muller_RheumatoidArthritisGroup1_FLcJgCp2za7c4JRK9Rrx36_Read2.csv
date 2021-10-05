@@ -1,0 +1,5 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,N04X.00,"Seropositive rheumatoid arthritis, unspecified",res34: rheumatoid_arthritis_group1,diagnostic
+Read,N047.00,Seropositive errosive rheumatoid arthritis,res34: rheumatoid_arthritis_group1,diagnostic
+Read,Nyu1G00,"[X]Seropositive rheumatoid arthritis, unspecified",res34: rheumatoid_arthritis_group1,diagnostic
+Read,Nyu1100,[X]Other seropositive rheumatoid arthritis,res34: rheumatoid_arthritis_group1,diagnostic

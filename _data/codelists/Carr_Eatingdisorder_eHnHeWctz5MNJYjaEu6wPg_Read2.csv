@@ -1,0 +1,39 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,SN42100,Starvation,res36: Eating disorder,diagnostic
+Read,R030z00,[D]Anorexia NOS,res36: Eating disorder,diagnostic
+Read,R030.00,[D]Anorexia,res36: Eating disorder,diagnostic
+Read,Eu50212,[X]Hyperorexia nervosa,res36: Eating disorder,diagnostic
+Read,Eu50z00,"[X]Eating disorder, unspecified",res36: Eating disorder,diagnostic
+Read,E271.00,Anorexia nervosa,res36: Eating disorder,diagnostic
+Read,9Nk9.00,Seen in eating disorder clinic,res36: Eating disorder,diagnostic
+Read,1612.00,Appetite loss - anorexia,res36: Eating disorder,diagnostic
+Read,8HTN.00,Referral to eating disorders clinic,res36: Eating disorder,diagnostic
+Read,1614.12,Polyphagia symptom,res36: Eating disorder,diagnostic
+Read,1612.11,Anorexia symptom,res36: Eating disorder,diagnostic
+Read,1614.00,Excessive eating - polyphagia,res36: Eating disorder,diagnostic
+Read,1614.11,Hyperalimentation - symptom,res36: Eating disorder,diagnostic
+Read,Eu50211,[X]Bulimia NOS,res36: Eating disorder,diagnostic
+Read,Eu50100,[X]Atypical anorexia nervosa,res36: Eating disorder,diagnostic
+Read,E275100,Bulimia (non-organic overeating),res36: Eating disorder,diagnostic
+Read,E275000,Unspecified non-organic eating disorder,res36: Eating disorder,diagnostic
+Read,E275.00,Other and unspecified non-organic eating disorders,res36: Eating disorder,diagnostic
+Read,Eu50000,[X]Anorexia nervosa,res36: Eating disorder,diagnostic
+Read,E275y00,Other specified non-organic eating disorder,res36: Eating disorder,diagnostic
+Read,E275111,Compulsive eating disorder,res36: Eating disorder,diagnostic
+Read,Eu50.00,[X]Eating disorders,res36: Eating disorder,diagnostic
+Read,E275z00,Non-organic eating disorder NOS,res36: Eating disorder,diagnostic
+Read,Eu50200,[X]Bulimia nervosa,res36: Eating disorder,diagnostic
+Read,Eu50y11,[X]Pica in adults,res36: Eating disorder,diagnostic
+Read,Eu50300,[X]Atypical bulimia nervosa,res36: Eating disorder,diagnostic
+Read,Eu50y00,[X]Other eating disorders,res36: Eating disorder,diagnostic
+Read,Eu50400,[X]Overeating associated with other psychological disturbncs,res36: Eating disorder,diagnostic
+Read,Eu50411,[X]Psychogenic overeating,res36: Eating disorder,diagnostic
+Read,Fy05.00,Nocturnal sleep-related eating disorder,res36: Eating disorder,diagnostic
+Read,R036000,[D]Excessive eating,res36: Eating disorder,diagnostic
+Read,R036z00,[D]Polyphagia NOS,res36: Eating disorder,diagnostic
+Read,R036.00,[D]Polyphagia,res36: Eating disorder,diagnostic
+Read,R036100,[D]Hyperalimentation,res36: Eating disorder,diagnostic
+Read,R036011,[D]Bulimia NOS,res36: Eating disorder,diagnostic
+Read,ZC2CD00,Dietary advice for eating disorder,res36: Eating disorder,diagnostic
+Read,U1B3.11,[X]Starvation,res36: Eating disorder,diagnostic
+Read,Z4B5.00,Eating disorder counselling,res36: Eating disorder,diagnostic

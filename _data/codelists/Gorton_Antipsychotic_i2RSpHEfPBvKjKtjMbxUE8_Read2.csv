@@ -1,0 +1,53 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,d4h..,trifluoperazine [antipsychotic,res55: antipsychotic,drug
+Read,d4n..,zuclopenthixol acetate,res55: antipsychotic,drug
+Read,d47..,haloperidol [antipsychotic],res55: antipsychotic,drug
+Read,d4m..,remoxipride,res55: antipsychotic,drug
+Read,d4g..,thioridazine,res55: antipsychotic,drug
+Read,d4a..,pericyazine,res55: antipsychotic,drug
+Read,d46..,fluphenazine hydrochloride,res55: antipsychotic,drug
+Read,d49..,oxypertine,res55: antipsychotic,drug
+Read,d48..,levomepromazine,res55: antipsychotic,drug
+Read,d4k..,loxapine succinate,res55: antipsychotic,drug
+Read,d4b..,perphenazine [cns],res55: antipsychotic,drug
+Read,d4f..,sulpiride,res55: antipsychotic,drug
+Read,d4e..,promazine hydrochloride,res55: antipsychotic,drug
+Read,d4d..,*prochlorperazine [antipsych],res55: antipsychotic,drug
+Read,d4c..,pimozide,res55: antipsychotic,drug
+Read,d4i..,trifluperidol,res55: antipsychotic,drug
+Read,d4j..,zuclopenthixol dihydrochloride,res55: antipsychotic,drug
+Read,d4l..,clozapine,res55: antipsychotic,drug
+Read,d56..,pipotiazine palmitate,res55: antipsychotic,drug
+Read,d4r..,olanzapine,res55: antipsychotic,drug
+Read,d42..,benperidol,res55: antipsychotic,drug
+Read,d4u..,zotepine,res55: antipsychotic,drug
+Read,d4s..,quetiapine,res55: antipsychotic,drug
+Read,d4p..,risperidone,res55: antipsychotic,drug
+Read,o58..,*perphenazine [anaesthesia],res55: antipsychotic,drug
+Read,d4q..,sertindole,res55: antipsychotic,drug
+Read,d55..,haloperidol decanoate,res55: antipsychotic,drug
+Read,d4t..,amisulpride,res55: antipsychotic,drug
+Read,d54..,fluspirilene ,res55: antipsychotic,drug
+Read,d53..,*fluphenazine enanthate,res55: antipsychotic,drug
+Read,d52..,fluphenazine decanoate,res55: antipsychotic,drug
+Read,d51..,flupentixol decanoate,res55: antipsychotic,drug
+Read,d4v..,aripiprazole,res55: antipsychotic,drug
+Read,d4x..,asenapine,res55: antipsychotic,drug
+Read,d5..,antipsychotic depot injections,res55: antipsychotic,drug
+Read,d4w..,paliperidone,res55: antipsychotic,drug
+Read,o52..,chlorpromazine hcl [anaesth],res55: antipsychotic,drug
+Read,ds1..,"*haloperidol [tics, chorea]",res55: antipsychotic,drug
+Read,d57..,zuclopenthixol decanoate,res55: antipsychotic,drug
+Read,dhi..,*trifluoperazine [nausea],res55: antipsychotic,drug
+Read,dhey.,prochlorperazine 10mg m/r capsules,res55: antipsychotic,drug
+Read,d41..,chlorpromazine hydrochloride,res55: antipsychotic,drug
+Read,dhes.,prochlorperazine 25mg tablets,res55: antipsychotic,drug
+Read,da1..,flupentixol [antidepressant],res55: antipsychotic,drug
+Read,d58..,olanzapine pamoate,res55: antipsychotic,drug
+Read,dher.,prochlorperazine 5mg tablets,res55: antipsychotic,drug
+Read,dhd..,*perphenazine [no drugs here],res55: antipsychotic,drug
+Read,dh2..,*chlorpromazine hcl [nausea],res55: antipsychotic,drug
+Read,dhez.,prochlorperazine 15mg m/r capsules,res55: antipsychotic,drug
+Read,d4..,antipsychotric drugs,res55: antipsychotic,drug
+Read,d43..,chlorprothixene,res55: antipsychotic,drug
+Read,d45..,flupentixol [antipsychotic],res55: antipsychotic,drug

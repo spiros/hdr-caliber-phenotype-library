@@ -1,0 +1,30 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,L1420,PLASMA CHOLESTEROL LEVEL (mg/dl),cholesterol_level,test
+OXMIS,L1420N,CHOLESTEROL LEVEL (mmol/l) NORMAL,cholesterol_level,test
+OXMIS,L1420H,CHOLESTEROL LEVEL (mg/dl) RAISED,cholesterol_level,test
+OXMIS,L1420B,PLASMA CHOLESTEROL LEVEL (mmol/l),cholesterol_level,test
+OXMIS,L1420A,CHOLESTEROL LEVEL (mg/dl),cholesterol_level,test
+OXMIS,Y060 BV,SCREENING CHOLESTEROL LEVEL NORMAL,cholesterol_level,test
+OXMIS,Y060 AV,SCREENING CHOLESTEROL LEVEL,cholesterol_level,test
+OXMIS,L1420R,CHOLESTEROL LEVEL (mmol/l) RAISED,cholesterol_level,test
+OXMIS,Y060 CV,SCREENING CHOLESTEROL LEVEL ABNORMAL,cholesterol_level,test
+Read,44P1.00,Serum cholesterol normal,cholesterol_level,test
+Read,44P..00,Serum cholesterol,cholesterol_level,test
+Read,44P..,,cholesterol_level,test
+Read,44OE.00,Plasma total cholesterol level,cholesterol_level,test
+Read,44OE.,,cholesterol_level,test
+Read,44lH.00,Serum cholesterol/LDL ratio,cholesterol_level,test
+Read,44lG.00,Plasma cholesterol/HDL ratio,cholesterol_level,test
+Read,44lF.00,Serum cholesterol/HDL ratio,cholesterol_level,test
+Read,44lK.00,Plasma cholesterol/VLDL ratio,cholesterol_level,test
+Read,44lJ.00,Serum cholesterol/VLDL ratio,cholesterol_level,test
+Read,44lI.00,Plasma cholesterol/LDL ratio,cholesterol_level,test
+Read,44PJ.00,Serum total cholesterol level,cholesterol_level,test
+Read,44PH.00,Total cholesterol measurement,cholesterol_level,test
+Read,44p3.00,Serum cholesterol raised,cholesterol_level,test
+Read,44P3.00,Serum cholesterol raised,cholesterol_level,test
+Read,44P2.00,Serum cholesterol borderline,cholesterol_level,test
+Read,44PG.00,HDL : total cholesterol ratio,cholesterol_level,test
+Read,44PF.00,Total cholesterol:HDL ratio,cholesterol_level,test
+Read,44P4.00,Serum cholesterol very high,cholesterol_level,test
+Read,44PK.00,Serum fasting total cholesterol,cholesterol_level,test

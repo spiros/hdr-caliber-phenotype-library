@@ -1,0 +1,281 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B621.00,Mycosis fungoides,res34: leukaemia,diagnostic
+Read,B630.00,Multiple myeloma,res34: leukaemia,diagnostic
+Read,B64..11,Lymphatic leukaemia,res34: leukaemia,diagnostic
+Read,B61..00,Hodgkin's disease,res34: leukaemia,diagnostic
+Read,B627C11,Follicular lymphoma NOS,res34: leukaemia,diagnostic
+Read,B640.00,Acute lymphoid leukaemia,res34: leukaemia,diagnostic
+Read,B630.11,Kahler's disease,res34: leukaemia,diagnostic
+Read,B627911,Maltoma,res34: leukaemia,diagnostic
+Read,B641.00,Chronic lymphoid leukaemia,res34: leukaemia,diagnostic
+Read,B621z00,Mycosis fungoides NOS,res34: leukaemia,diagnostic
+Read,B630100,Solitary myeloma,res34: leukaemia,diagnostic
+Read,B650.00,Acute myeloid leukaemia,res34: leukaemia,diagnostic
+Read,B627.00,Non - Hodgkin's lymphoma,res34: leukaemia,diagnostic
+Read,B62y.00,Malignant lymphoma NOS,res34: leukaemia,diagnostic
+Read,B62yz00,Malignant lymphoma NOS,res34: leukaemia,diagnostic
+Read,B64..00,Lymphoid leukaemia,res34: leukaemia,diagnostic
+Read,B6y0.00,Myeloproliferative disorder,res34: leukaemia,diagnostic
+Read,B6...00,Malignant neoplasm of lymphatic and haemopoietic tissue,res34: leukaemia,diagnostic
+Read,B68z.00,Leukaemia NOS,res34: leukaemia,diagnostic
+Read,B651.00,Chronic myeloid leukaemia,res34: leukaemia,diagnostic
+Read,B627W00,Unspecified B-cell non-Hodgkin's lymphoma,res34: leukaemia,diagnostic
+Read,B6y0.11,Myeloproliferative disease,res34: leukaemia,diagnostic
+Read,B62x.00,Malignant lymphoma otherwise specified,res34: leukaemia,diagnostic
+Read,B624.11,Leukaemic reticuloendotheliosis,res34: leukaemia,diagnostic
+Read,B630200,Plasmacytoma NOS,res34: leukaemia,diagnostic
+Read,B641.11,Chronic lymphatic leukaemia,res34: leukaemia,diagnostic
+Read,B6z..00,Malignant neoplasm lymphatic or haematopoietic tissue NOS,res34: leukaemia,diagnostic
+Read,B675.00,Acute myelofibrosis,res34: leukaemia,diagnostic
+Read,B680.00,Acute leukaemia NOS,res34: leukaemia,diagnostic
+Read,B691.00,Chronic myelomonocytic leukaemia,res34: leukaemia,diagnostic
+Read,B614.00,"Hodgkin's disease, nodular sclerosis",res34: leukaemia,diagnostic
+Read,B68..00,Leukaemia of unspecified cell type,res34: leukaemia,diagnostic
+Read,B681.00,Chronic leukaemia NOS,res34: leukaemia,diagnostic
+Read,B628.00,Follicular lymphoma,res34: leukaemia,diagnostic
+Read,B602.00,Burkitt's lymphoma,res34: leukaemia,diagnostic
+Read,B630.12,Myelomatosis,res34: leukaemia,diagnostic
+Read,B62y100,"Malignant lymphoma NOS of lymph nodes of head, face and neck",res34: leukaemia,diagnostic
+Read,B630300,Lambda light chain myeloma,res34: leukaemia,diagnostic
+Read,B625.11,"Histiocytosis X (acute, progressive)",res34: leukaemia,diagnostic
+Read,B62y800,Malignant lymphoma NOS of lymph nodes of multiple sites,res34: leukaemia,diagnostic
+Read,B627E00,Diffuse large B-cell lymphoma,res34: leukaemia,diagnostic
+Read,B624.12,Hairy cell leukaemia,res34: leukaemia,diagnostic
+Read,B62..00,Other malignant neoplasm of lymphoid and histiocytic tissue,res34: leukaemia,diagnostic
+Read,B69..00,Myelomonocytic leukaemia,res34: leukaemia,diagnostic
+Read,B620.00,Nodular lymphoma (Brill - Symmers disease),res34: leukaemia,diagnostic
+Read,B65y100,Acute promyelocytic leukaemia,res34: leukaemia,diagnostic
+Read,B651.11,Chronic granulocytic leukaemia,res34: leukaemia,diagnostic
+Read,B601.00,Lymphosarcoma,res34: leukaemia,diagnostic
+Read,B61z.00,Hodgkin's disease NOS,res34: leukaemia,diagnostic
+Read,B627700,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma,res34: leukaemia,diagnostic
+Read,B62xX00,Oth and unspecif peripheral & cutaneous T-cell lymphomas,res34: leukaemia,diagnostic
+Read,B62x200,Peripheral T-cell lymphoma,res34: leukaemia,diagnostic
+Read,B661.00,Chronic monocytic leukaemia,res34: leukaemia,diagnostic
+Read,B61zz00,Hodgkin's disease NOS,res34: leukaemia,diagnostic
+Read,B62F100,Mantle cell lymphoma,res34: leukaemia,diagnostic
+Read,B627000,Follicular non-Hodgkin's small cleaved cell lymphoma,res34: leukaemia,diagnostic
+Read,B627X00,"Diffuse non-Hodgkin's lymphoma, unspecified",res34: leukaemia,diagnostic
+Read,B67..00,Other specified leukaemia,res34: leukaemia,diagnostic
+Read,B61..11,Hodgkin lymphoma,res34: leukaemia,diagnostic
+Read,B631.00,Plasma cell leukaemia,res34: leukaemia,diagnostic
+Read,B677.00,Myelodysplastic and myeloproliferative disease,res34: leukaemia,diagnostic
+Read,B64y100,Prolymphocytic leukaemia,res34: leukaemia,diagnostic
+Read,B627B00,Other types of follicular non-Hodgkin's lymphoma,res34: leukaemia,diagnostic
+Read,B63..00,Multiple myeloma and immunoproliferative neoplasms,res34: leukaemia,diagnostic
+Read,B623.00,Malignant histiocytosis,res34: leukaemia,diagnostic
+Read,B630000,"Malignant plasma cell neoplasm, extramedullary plasmacytoma",res34: leukaemia,diagnostic
+Read,B625.00,Letterer-Siwe disease,res34: leukaemia,diagnostic
+Read,B626.00,Malignant mast cell tumours,res34: leukaemia,diagnostic
+Read,B641000,B-cell chronic lymphocytic leukaemia,res34: leukaemia,diagnostic
+Read,B63z.00,Immunoproliferative neoplasm or myeloma NOS,res34: leukaemia,diagnostic
+Read,B622.00,Sezary's disease,res34: leukaemia,diagnostic
+Read,B651z00,Chronic myeloid leukaemia NOS,res34: leukaemia,diagnostic
+Read,B64z.00,Lymphoid leukaemia NOS,res34: leukaemia,diagnostic
+Read,B640000,B-cell acute lymphoblastic leukaemia,res34: leukaemia,diagnostic
+Read,B627A00,Diffuse non-Hodgkin's large cell lymphoma,res34: leukaemia,diagnostic
+Read,B670.00,Acute erythraemia and erythroleukaemia,res34: leukaemia,diagnostic
+Read,B613.00,"Hodgkin's disease, lymphocytic-histiocytic predominance",res34: leukaemia,diagnostic
+Read,B627.11,Non-Hodgkin lymphoma,res34: leukaemia,diagnostic
+Read,B62F000,Small cell B-cell lymphoma,res34: leukaemia,diagnostic
+Read,B627200,Follicular non-Hodgkin's large cell lymphoma,res34: leukaemia,diagnostic
+Read,B600.00,Reticulosarcoma,res34: leukaemia,diagnostic
+Read,B624.00,Leukaemic reticuloendotheliosis,res34: leukaemia,diagnostic
+Read,B614z00,"Hodgkin's disease, nodular sclerosis NOS",res34: leukaemia,diagnostic
+Read,B615.00,"Hodgkin's disease, mixed cellularity",res34: leukaemia,diagnostic
+Read,B67z.00,Other specified leukaemia NOS,res34: leukaemia,diagnostic
+Read,B660.00,Acute monocytic leukaemia,res34: leukaemia,diagnostic
+Read,B66..00,Monocytic leukaemia,res34: leukaemia,diagnostic
+Read,B671.00,Chronic erythraemia,res34: leukaemia,diagnostic
+Read,B615z00,"Hodgkin's disease, mixed cellularity NOS",res34: leukaemia,diagnostic
+Read,B626800,Mast cell malignancy of lymph nodes of multiple sites,res34: leukaemia,diagnostic
+Read,B6y..00,Malignant neoplasm lymphatic or haematopoietic tissue OS,res34: leukaemia,diagnostic
+Read,B690.00,Acute myelomonocytic leukaemia,res34: leukaemia,diagnostic
+Read,B68y.00,Other leukaemia of unspecified cell type,res34: leukaemia,diagnostic
+Read,B61z100,"Hodgkin's disease NOS of lymph nodes of head, face and neck",res34: leukaemia,diagnostic
+Read,B64y200,Adult T-cell leukaemia,res34: leukaemia,diagnostic
+Read,B65z.00,Myeloid leukaemia NOS,res34: leukaemia,diagnostic
+Read,B627900,Mucosa-associated lymphoma,res34: leukaemia,diagnostic
+Read,B62y000,Malignant lymphoma NOS of unspecified site,res34: leukaemia,diagnostic
+Read,B620z00,Nodular lymphoma NOS,res34: leukaemia,diagnostic
+Read,B653100,Granulocytic sarcoma,res34: leukaemia,diagnostic
+Read,B621000,Mycosis fungoides of unspecified site,res34: leukaemia,diagnostic
+Read,B614100,"Hodgkin's nodular sclerosis of head, face and neck",res34: leukaemia,diagnostic
+Read,B62E.00,T/NK-cell lymphoma,res34: leukaemia,diagnostic
+Read,B61z200,Hodgkin's disease NOS of intrathoracic lymph nodes,res34: leukaemia,diagnostic
+Read,B64yz00,Other lymphoid leukaemia NOS,res34: leukaemia,diagnostic
+Read,B620100,"Nodular lymphoma of lymph nodes of head, face and neck",res34: leukaemia,diagnostic
+Read,B62y700,Malignant lymphoma NOS of spleen,res34: leukaemia,diagnostic
+Read,B64y.00,Other lymphoid leukaemia,res34: leukaemia,diagnostic
+Read,B627800,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),res34: leukaemia,diagnostic
+Read,B653000,Chloroma,res34: leukaemia,diagnostic
+Read,B601z00,Lymphosarcoma NOS,res34: leukaemia,diagnostic
+Read,B627300,Diffuse non-Hodgkin's small cell (diffuse) lymphoma,res34: leukaemia,diagnostic
+Read,B63y.00,Other immunoproliferative neoplasms,res34: leukaemia,diagnostic
+Read,B611.00,Hodgkin's granuloma,res34: leukaemia,diagnostic
+Read,B672.00,Megakaryocytic leukaemia,res34: leukaemia,diagnostic
+Read,B602z00,Burkitt's lymphoma NOS,res34: leukaemia,diagnostic
+Read,B62z.00,Malignant neoplasms of lymphoid and histiocytic tissue NOS,res34: leukaemia,diagnostic
+Read,B61z000,"Hodgkin's disease NOS, unspecified site",res34: leukaemia,diagnostic
+Read,B614200,Hodgkin's nodular sclerosis of intrathoracic lymph nodes,res34: leukaemia,diagnostic
+Read,B614000,"Hodgkin's disease, nodular sclerosis of unspecified site",res34: leukaemia,diagnostic
+Read,B62y300,Malignant lymphoma NOS of intra-abdominal lymph nodes,res34: leukaemia,diagnostic
+Read,B617.00,Nodular lymphocyte predominant Hodgkin lymphoma,res34: leukaemia,diagnostic
+Read,B62y500,Malignant lymphoma NOS of lymph node inguinal region and leg,res34: leukaemia,diagnostic
+Read,B6y1.00,Myelosclerosis with myeloid metaplasia,res34: leukaemia,diagnostic
+Read,B627500,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma,res34: leukaemia,diagnostic
+Read,B627600,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma,res34: leukaemia,diagnostic
+Read,B623z00,Malignant histiocytosis NOS,res34: leukaemia,diagnostic
+Read,B674.00,Acute panmyelosis,res34: leukaemia,diagnostic
+Read,B62y200,Malignant lymphoma NOS of intrathoracic lymph nodes,res34: leukaemia,diagnostic
+Read,B672.11,Thrombocytic leukaemia,res34: leukaemia,diagnostic
+Read,B620000,Nodular lymphoma of unspecified site,res34: leukaemia,diagnostic
+Read,B616.00,"Hodgkin's disease, lymphocytic depletion",res34: leukaemia,diagnostic
+Read,B62x400,Malignant reticulosis,res34: leukaemia,diagnostic
+Read,B624000,Leukaemic reticuloendotheliosis of unspecified sites,res34: leukaemia,diagnostic
+Read,B62z100,Unspec malig neop lymphoid/histiocytic lymph node head/neck,res34: leukaemia,diagnostic
+Read,B67y.00,Other and unspecified leukaemia,res34: leukaemia,diagnostic
+Read,B62D.00,Histiocytic sarcoma,res34: leukaemia,diagnostic
+Read,B671.11,Heilmeyer - Schoner disease,res34: leukaemia,diagnostic
+Read,B653.00,Myeloid sarcoma,res34: leukaemia,diagnostic
+Read,B613100,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck",res34: leukaemia,diagnostic
+Read,B620800,Nodular lymphoma of lymph nodes of multiple sites,res34: leukaemia,diagnostic
+Read,B627G00,Mediastinal (thymic) large B-cell lymphoma,res34: leukaemia,diagnostic
+Read,B61z800,Hodgkin's disease NOS of lymph nodes of multiple sites,res34: leukaemia,diagnostic
+Read,B62zz00,Lymphoid and histiocytic malignancy NOS,res34: leukaemia,diagnostic
+Read,B62x100,Lymphoepithelioid lymphoma,res34: leukaemia,diagnostic
+Read,B6...11,Malignant neoplasm of histiocytic tissue,res34: leukaemia,diagnostic
+Read,B627100,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma,res34: leukaemia,diagnostic
+Read,B65yz00,Other myeloid leukaemia NOS,res34: leukaemia,diagnostic
+Read,B628100,Follicular lymphoma grade 2,res34: leukaemia,diagnostic
+Read,B625z00,Letterer-Siwe disease NOS,res34: leukaemia,diagnostic
+Read,B62E300,Cutaneous T-cell lymphoma,res34: leukaemia,diagnostic
+Read,B61C.00,Other classical Hodgkin lymphoma,res34: leukaemia,diagnostic
+Read,B62y400,Malignant lymphoma NOS of lymph nodes of axilla and arm,res34: leukaemia,diagnostic
+Read,B613z00,"Hodgkin's, lymphocytic-histiocytic predominance NOS",res34: leukaemia,diagnostic
+Read,B670.11,Di Guglielmo's disease,res34: leukaemia,diagnostic
+Read,B601100,"Lymphosarcoma of lymph nodes of head, face and neck",res34: leukaemia,diagnostic
+Read,B62F.00,Nonfollicular lymphoma,res34: leukaemia,diagnostic
+Read,B627D00,Diffuse non-Hodgkin's centroblastic lymphoma,res34: leukaemia,diagnostic
+Read,B630400,Solitary plasmacytoma,res34: leukaemia,diagnostic
+Read,B61z400,Hodgkin's disease NOS of lymph nodes of axilla and arm,res34: leukaemia,diagnostic
+Read,B62x000,T-zone lymphoma,res34: leukaemia,diagnostic
+Read,B620500,Nodular lymphoma of lymph nodes of inguinal region and leg,res34: leukaemia,diagnostic
+Read,B620300,Nodular lymphoma of intra-abdominal lymph nodes,res34: leukaemia,diagnostic
+Read,B618.00,Nodular sclerosis classical Hodgkin lymphoma,res34: leukaemia,diagnostic
+Read,B652.00,Subacute myeloid leukaemia,res34: leukaemia,diagnostic
+Read,B62x500,Malignant immunoproliferative small intestinal disease,res34: leukaemia,diagnostic
+Read,B60..00,Lymphosarcoma and reticulosarcoma,res34: leukaemia,diagnostic
+Read,B6z0.00,Kaposi's sarcoma of lymph nodes,res34: leukaemia,diagnostic
+Read,B62C.00,Unifocal Langerhans-cell histiocytosis,res34: leukaemia,diagnostic
+Read,B62y600,Malignant lymphoma NOS of intrapelvic lymph nodes,res34: leukaemia,diagnostic
+Read,B66..12,Monoblastic leukaemia,res34: leukaemia,diagnostic
+Read,B654.00,Acute myeloblastic leukaemia,res34: leukaemia,diagnostic
+Read,B67yz00,Other and unspecified leukaemia NOS,res34: leukaemia,diagnostic
+Read,B62z800,Unspec malig neop lymphoid/histiocytic of multiple sites,res34: leukaemia,diagnostic
+Read,B614800,Hodgkin's nodular sclerosis of lymph nodes of multiple sites,res34: leukaemia,diagnostic
+Read,B601200,Lymphosarcoma of intrathoracic lymph nodes,res34: leukaemia,diagnostic
+Read,B615200,Hodgkin's mixed cellularity of intrathoracic lymph nodes,res34: leukaemia,diagnostic
+Read,B62z500,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg,res34: leukaemia,diagnostic
+Read,B610.00,Hodgkin's paragranuloma,res34: leukaemia,diagnostic
+Read,B682.00,Subacute leukaemia NOS,res34: leukaemia,diagnostic
+Read,B602100,"Burkitt's lymphoma of lymph nodes of head, face and neck",res34: leukaemia,diagnostic
+Read,B614400,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm,res34: leukaemia,diagnostic
+Read,B614300,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes,res34: leukaemia,diagnostic
+Read,B612.00,Hodgkin's sarcoma,res34: leukaemia,diagnostic
+Read,B62F.11,Non-follicular lymphoma,res34: leukaemia,diagnostic
+Read,B622z00,Sezary's disease NOS,res34: leukaemia,diagnostic
+Read,B621500,Mycosis fungoides of lymph nodes of inguinal region and leg,res34: leukaemia,diagnostic
+Read,B60z.00,Reticulosarcoma or lymphosarcoma NOS,res34: leukaemia,diagnostic
+Read,B615100,"Hodgkin's mixed cellularity of lymph nodes head, face, neck",res34: leukaemia,diagnostic
+Read,B616000,Hodgkin's lymphocytic depletion of unspecified site,res34: leukaemia,diagnostic
+Read,B628000,Follicular lymphoma grade 1,res34: leukaemia,diagnostic
+Read,B64y500,Adult T-cell lymphoma/leukaemia (HTLV-1-associated),res34: leukaemia,diagnostic
+Read,B651000,Chronic eosinophilic leukaemia,res34: leukaemia,diagnostic
+Read,B62F200,Lymphoblastic (diffuse) lymphoma,res34: leukaemia,diagnostic
+Read,B62E100,"Anaplastic large cell lymphoma, ALK-positive",res34: leukaemia,diagnostic
+Read,B628300,Follicular lymphoma grade 3a,res34: leukaemia,diagnostic
+Read,B693.00,Juvenile myelomonocytic leukaemia,res34: leukaemia,diagnostic
+Read,B62z200,Unspec malig neop lymphoid/histiocytic of intrathoracic node,res34: leukaemia,diagnostic
+Read,B62A.00,Sarcoma of dendritic cells,res34: leukaemia,diagnostic
+Read,B66z.00,Monocytic leukaemia NOS,res34: leukaemia,diagnostic
+Read,B624z00,Leukaemic reticuloendotheliosis NOS,res34: leukaemia,diagnostic
+Read,B62zz11,Immunoproliferative neoplasm,res34: leukaemia,diagnostic
+Read,B623300,Malignant histiocytosis of intra-abdominal lymph nodes,res34: leukaemia,diagnostic
+Read,B673.00,Mast cell leukaemia,res34: leukaemia,diagnostic
+Read,B642.00,Subacute lymphoid leukaemia,res34: leukaemia,diagnostic
+Read,B613000,"Hodgkin's, lymphocytic-histiocytic predominance unspec site",res34: leukaemia,diagnostic
+Read,B67y000,Lymphosarcoma cell leukaemia,res34: leukaemia,diagnostic
+Read,B623000,Malignant histiocytosis of unspecified site,res34: leukaemia,diagnostic
+Read,B651200,Chronic neutrophilic leukaemia,res34: leukaemia,diagnostic
+Read,B623100,"Malignant histiocytosis of lymph nodes head, face and neck",res34: leukaemia,diagnostic
+Read,B613500,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg",res34: leukaemia,diagnostic
+Read,B601500,Lymphosarcoma of lymph nodes of inguinal region and leg,res34: leukaemia,diagnostic
+Read,B613600,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes",res34: leukaemia,diagnostic
+Read,B621800,Mycosis fungoides of lymph nodes of multiple sites,res34: leukaemia,diagnostic
+Read,B602200,Burkitt's lymphoma of intrathoracic lymph nodes,res34: leukaemia,diagnostic
+Read,B615000,"Hodgkin's disease, mixed cellularity of unspecified site",res34: leukaemia,diagnostic
+Read,B60y.00,Other specified reticulosarcoma or lymphosarcoma,res34: leukaemia,diagnostic
+Read,B600300,Reticulosarcoma of intra-abdominal lymph nodes,res34: leukaemia,diagnostic
+Read,B629.00,Multifocal multisystemic dissem Langerhans-cell histiocytosi,res34: leukaemia,diagnostic
+Read,B624300,Leukaemic reticuloend of intra-abdominal lymph nodes,res34: leukaemia,diagnostic
+Read,B62E900,Angioimmunoblastic T-cell lymphoma,res34: leukaemia,diagnostic
+Read,B62EA00,Primary cutaneous CD30-positive T-cell proliferations,res34: leukaemia,diagnostic
+Read,B62E800,Blastic NK-cell lymphoma,res34: leukaemia,diagnostic
+Read,B601300,Lymphosarcoma of intra-abdominal lymph nodes,res34: leukaemia,diagnostic
+Read,B61z.11,Hodgkin lymphoma NOS,res34: leukaemia,diagnostic
+Read,B62E200,"Anaplastic large cell lymphoma, ALK-negative",res34: leukaemia,diagnostic
+Read,B651100,"Chronic myeloid leukaemia, BCR/ABL positive",res34: leukaemia,diagnostic
+Read,B600000,Reticulosarcoma of unspecified site,res34: leukaemia,diagnostic
+Read,B641011,Chronic lymphocytic leukaemia of B-cell type,res34: leukaemia,diagnostic
+Read,B625800,Letterer-Siwe disease of lymph nodes of multiple sites,res34: leukaemia,diagnostic
+Read,B621300,Mycosis fungoides of intra-abdominal lymph nodes,res34: leukaemia,diagnostic
+Read,B620200,Nodular lymphoma of intrathoracic lymph nodes,res34: leukaemia,diagnostic
+Read,B626z00,Malignant mast cell tumour NOS,res34: leukaemia,diagnostic
+Read,B61z500,Hodgkin's disease NOS of lymph nodes inguinal region and leg,res34: leukaemia,diagnostic
+Read,B613300,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node",res34: leukaemia,diagnostic
+Read,B600100,"Reticulosarcoma of lymph nodes of head, face and neck",res34: leukaemia,diagnostic
+Read,B601000,Lymphosarcoma of unspecified site,res34: leukaemia,diagnostic
+Read,B611100,"Hodgkin's granuloma of lymph nodes of head, face and neck",res34: leukaemia,diagnostic
+Read,B61z700,Hodgkin's disease NOS of spleen,res34: leukaemia,diagnostic
+Read,B602500,Burkitt's lymphoma of lymph nodes of inguinal region and leg,res34: leukaemia,diagnostic
+Read,B613200,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes",res34: leukaemia,diagnostic
+Read,B610300,Hodgkin's paragranuloma of intra-abdominal lymph nodes,res34: leukaemia,diagnostic
+Read,B62x600,True histiocytic lymphoma,res34: leukaemia,diagnostic
+Read,B600700,Reticulosarcoma of spleen,res34: leukaemia,diagnostic
+Read,B602300,Burkitt's lymphoma of intra-abdominal lymph nodes,res34: leukaemia,diagnostic
+Read,B621400,Mycosis fungoides of lymph nodes of axilla and upper limb,res34: leukaemia,diagnostic
+Read,B66y.00,Other monocytic leukaemia,res34: leukaemia,diagnostic
+Read,B616700,"Hodgkin's disease, lymphocytic depletion of spleen",res34: leukaemia,diagnostic
+Read,B662.00,Subacute monocytic leukaemia,res34: leukaemia,diagnostic
+Read,B610100,"Hodgkin's paragranuloma of lymph nodes of head, face, neck",res34: leukaemia,diagnostic
+Read,B600z00,Reticulosarcoma NOS,res34: leukaemia,diagnostic
+Read,B62Ew00,Other mature T/NK-cell lymphoma,res34: leukaemia,diagnostic
+Read,B616z00,"Hodgkin's disease, lymphocytic depletion NOS",res34: leukaemia,diagnostic
+Read,B626500,Mast cell malignancy of lymph nodes inguinal region and leg,res34: leukaemia,diagnostic
+Read,B601800,Lymphosarcoma of lymph nodes of multiple sites,res34: leukaemia,diagnostic
+Read,B625200,Letterer-Siwe disease of intrathoracic lymph nodes,res34: leukaemia,diagnostic
+Read,B62z300,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes,res34: leukaemia,diagnostic
+Read,B601700,Lymphosarcoma of spleen,res34: leukaemia,diagnostic
+Read,B625000,Letterer-Siwe disease of unspecified sites,res34: leukaemia,diagnostic
+Read,B66yz00,Other monocytic leukaemia NOS,res34: leukaemia,diagnostic
+Read,B613800,"Hodgkin's, lymphocytic-histiocytic pred of multiple sites",res34: leukaemia,diagnostic
+Read,B692.00,Subacute myelomonocytic leukaemia,res34: leukaemia,diagnostic
+Read,B626000,Mast cell malignancy of unspecified site,res34: leukaemia,diagnostic
+Read,B62z400,Unspec malig neop lymphoid/histiocytic lymph node axilla/arm,res34: leukaemia,diagnostic
+Read,B651300,"Atypical chronic myeloid leukaemia, BCR/ABL negative",res34: leukaemia,diagnostic
+Read,B614700,"Hodgkin's disease, nodular sclerosis of spleen",res34: leukaemia,diagnostic
+Read,B628700,Other types of follicular lymphoma,res34: leukaemia,diagnostic
+Read,B627F00,Extranod marg zone B-cell lymphom mucosa-assoc lymphoid tiss,res34: leukaemia,diagnostic
+Read,B62E600,Enteropathy-associated T-cell lymphoma,res34: leukaemia,diagnostic
+Read,B62E700,Subcutaneous panniculitic T-cell lymphoma,res34: leukaemia,diagnostic
+Read,B61B.00,Lymphocyte-rich classical Hodgkin lymphoma,res34: leukaemia,diagnostic
+Read,B628200,Follicular lymphoma grade 3,res34: leukaemia,diagnostic
+Read,B616800,Hodgkin's lymphocytic depletion lymph nodes multiple sites,res34: leukaemia,diagnostic
+Read,B613700,"Hodgkin's, lymphocytic-histiocytic predominance of spleen",res34: leukaemia,diagnostic
+Read,B628500,Diffuse follicle centre lymphoma,res34: leukaemia,diagnostic
+Read,B64y400,T-cell prolymphocytic leukaemia,res34: leukaemia,diagnostic
+Read,B616400,Hodgkin's lymphocytic depletion lymph nodes axilla and arm,res34: leukaemia,diagnostic
+Read,B612400,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,res34: leukaemia,diagnostic
+Read,B627C00,Follicular non-Hodgkin's lymphoma,res34: leukaemia,diagnostic
+Read,B65..00,Myeloid leukaemia,res34: leukaemia,diagnostic

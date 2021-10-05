@@ -1,0 +1,116 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,N146100,Sacroiliac ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N148800,Atlanto-axial instability,res34: ankylosing_spondylitis,diagnostic
+Read,N10z.00,Spondylitis NOS,res34: ankylosing_spondylitis,diagnostic
+Read,N146200,Sacral ankylosis NOS,res34: ankylosing_spondylitis,diagnostic
+Read,N148200,Cervical spine ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N148100,Atlanto-axial ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N148600,Lumbar spine ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,F552100,Ossicle ankylosis (excluding malleus),res34: ankylosing_spondylitis,diagnostic
+Read,N148.00,"Ankylosis/instability of cervical,thoracic or lumbar spine",res34: ankylosing_spondylitis,diagnostic
+Read,N085U00,Ankylosis of toe joint,res34: ankylosing_spondylitis,diagnostic
+Read,N085711,Ankle joint ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N085S00,Ankylosis of other tarsal joint,res34: ankylosing_spondylitis,diagnostic
+Read,N146000,Lumbosacral ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N10..00,Inflammatory spondylopathies,res34: ankylosing_spondylitis,diagnostic
+Read,388p.00,BASDAI - Bath ankylosing spondylitis disease activity index,res34: ankylosing_spondylitis,diagnostic
+Read,N100.00,Ankylosing spondylitis,res34: ankylosing_spondylitis,diagnostic
+Read,N085900,Ankylosis of multiple joints,res34: ankylosing_spondylitis,diagnostic
+Read,N117.00,Ankylosing vertebral hyperostosis,res34: ankylosing_spondylitis,diagnostic
+Read,N085z00,Ankylosis of joint NOS,res34: ankylosing_spondylitis,diagnostic
+Read,N10y000,Inflammatory spondylopathies in diseases EC,res34: ankylosing_spondylitis,diagnostic
+Read,N085.00,Ankylosis of joint,res34: ankylosing_spondylitis,diagnostic
+Read,N085L00,Ankylosis of DIP joint,res34: ankylosing_spondylitis,diagnostic
+Read,N148C00,Lumbar spine instability,res34: ankylosing_spondylitis,diagnostic
+Read,J016.00,Ankylosis of teeth,res34: ankylosing_spondylitis,diagnostic
+Read,N085F00,Ankylosis of the wrist joint,res34: ankylosing_spondylitis,diagnostic
+Read,N045000,Juvenile ankylosing spondylitis,res34: ankylosing_spondylitis,diagnostic
+Read,N14z.11,Ankylosis of spine NOS,res34: ankylosing_spondylitis,diagnostic
+Read,N085K00,Ankylosis of PIP joint,res34: ankylosing_spondylitis,diagnostic
+Read,N100.11,Marie - Strumpell spondylitis,res34: ankylosing_spondylitis,diagnostic
+Read,N10y.00,Other inflammatory spondylopathies,res34: ankylosing_spondylitis,diagnostic
+Read,N085R00,Ankylosis of the subtalar joint,res34: ankylosing_spondylitis,diagnostic
+Read,N085Q00,Ankylosis of the ankle joint,res34: ankylosing_spondylitis,diagnostic
+Read,N085G00,Ankylosis of the 1st CMC joint,res34: ankylosing_spondylitis,diagnostic
+Read,N085P00,Ankylosis of the knee joint,res34: ankylosing_spondylitis,diagnostic
+Read,N10yz00,Other inflammatory spondylopathies NOS,res34: ankylosing_spondylitis,diagnostic
+Read,N085M00,Ankylosis of the hip joint,res34: ankylosing_spondylitis,diagnostic
+Read,N085C00,Ankylosis of the elbow joint,res34: ankylosing_spondylitis,diagnostic
+Read,N102.00,Sacroiliitis NEC,res34: ankylosing_spondylitis,diagnostic
+Read,N101.00,Spinal enthesopathy,res34: ankylosing_spondylitis,diagnostic
+Read,N148300,Cervico-thoracic ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N085611,Knee joint ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N148900,Cervical spine instability,res34: ankylosing_spondylitis,diagnostic
+Read,N085200,Joint ankylosis of the upper arm,res34: ankylosing_spondylitis,diagnostic
+Read,N148A00,Cervico-thoracic instability,res34: ankylosing_spondylitis,diagnostic
+Read,N085511,Hip joint ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N085100,Joint ankylosis of the shoulder region,res34: ankylosing_spondylitis,diagnostic
+Read,N085700,Joint ankylosis of the ankle and foot,res34: ankylosing_spondylitis,diagnostic
+Read,N085800,Joint ankylosis of other specified site,res34: ankylosing_spondylitis,diagnostic
+Read,N085600,Joint ankylosis of the lower leg,res34: ankylosing_spondylitis,diagnostic
+Read,N085300,Joint ankylosis of the forearm,res34: ankylosing_spondylitis,diagnostic
+Read,N085400,Joint ankylosis of the hand,res34: ankylosing_spondylitis,diagnostic
+Read,J046000,Temporomandibular joint ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N148500,Thoraco-lumbar ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N148400,Thoracic spine ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N148B00,Thoracic spine instability,res34: ankylosing_spondylitis,diagnostic
+Read,AD61.00,Behcet's syndrome,res34: ankylosing_spondylitis,diagnostic
+Read,F483511,Oculomotor apraxia - Cogan type,res34: ankylosing_spondylitis,diagnostic
+Read,G754.00,Wegener's granulomatosis,res34: ankylosing_spondylitis,diagnostic
+Read,G42y000,Pulmonary arteritis,res34: ankylosing_spondylitis,diagnostic
+Read,G752z00,Hypersensitivity angiitis NOS,res34: ankylosing_spondylitis,diagnostic
+Read,G750.00,Polyarteritis nodosa,res34: ankylosing_spondylitis,diagnostic
+Read,M2y0X00,"Vasculitis limited to skin, unspecified",res34: ankylosing_spondylitis,diagnostic
+Read,G751000,Kawasaki disease,res34: ankylosing_spondylitis,diagnostic
+Read,G755000,Cranial arteritis,res34: ankylosing_spondylitis,diagnostic
+Read,F421E00,Retinal vasculitis NOS,res34: ankylosing_spondylitis,diagnostic
+Read,G752.00,Hypersensitivity angiitis,res34: ankylosing_spondylitis,diagnostic
+Read,M152.11,Nodular vasculitis,res34: ankylosing_spondylitis,diagnostic
+Read,N200.00,Giant cell arteritis with polymyalgia rheumatica,res34: ankylosing_spondylitis,diagnostic
+Read,G757.00,Takayasu's disease,res34: ankylosing_spondylitis,diagnostic
+Read,G756100,Thrombotic thrombocytopenic purpura,res34: ankylosing_spondylitis,diagnostic
+Read,G752000,Goodpasture's syndrome,res34: ankylosing_spondylitis,diagnostic
+Read,N040N00,Rheumatoid vasculitis,res34: ankylosing_spondylitis,diagnostic
+Read,G674.00,Cerebral arteritis,res34: ankylosing_spondylitis,diagnostic
+Read,G752.11,Hypersensitivity arteritis,res34: ankylosing_spondylitis,diagnostic
+Read,M2y0200,Livedoid vasculitis,res34: ankylosing_spondylitis,diagnostic
+Read,G731.00,Thromboangiitis obliterans,res34: ankylosing_spondylitis,diagnostic
+Read,C332100,Cryoglobulinaemic vasculitis,res34: ankylosing_spondylitis,diagnostic
+Read,F4A5111,Cogan's syndrome,res34: ankylosing_spondylitis,diagnostic
+Read,K425200,Ulceration of vulva in Behcet's disease,res34: ankylosing_spondylitis,diagnostic
+Read,G759.00,Juvenile polyarteritis,res34: ankylosing_spondylitis,diagnostic
+Read,G75A.00,Microscopic polyangiitis,res34: ankylosing_spondylitis,diagnostic
+Read,N012.00,Arthropathy in Behcet's syndrome,res34: ankylosing_spondylitis,diagnostic
+Read,Myu7G00,"[X]Vasculitis limited to skin, unspecified",res34: ankylosing_spondylitis,diagnostic
+Read,G755z00,Giant cell arteritis NOS,res34: ankylosing_spondylitis,diagnostic
+Read,G757.12,Pulseless disease,res34: ankylosing_spondylitis,diagnostic
+Read,N012011,Behcet's syndrome arthropathy,res34: ankylosing_spondylitis,diagnostic
+Read,G757.11,Aortic arch arteritis,res34: ankylosing_spondylitis,diagnostic
+Read,Myu7A00,[X]Other vasculitis limited to the skin,res34: ankylosing_spondylitis,diagnostic
+Read,K01x300,Nephrotic syndrome in polyarteritis nodosa,res34: ankylosing_spondylitis,diagnostic
+Read,F396300,Myopathy due to polyarteritis nodosa,res34: ankylosing_spondylitis,diagnostic
+Read,G75..00,Polyarteritis nodosa and allied conditions,res34: ankylosing_spondylitis,diagnostic
+Read,G755100,Temporal arteritis,res34: ankylosing_spondylitis,diagnostic
+Read,G751z00,Acute febrile mucocutaneous lymph node syndrome NOS,res34: ankylosing_spondylitis,diagnostic
+Read,F371100,Polyneuropathy in polyarteritis nodosa,res34: ankylosing_spondylitis,diagnostic
+Read,Nyu4100,[X]Other giant cell arteritis,res34: ankylosing_spondylitis,diagnostic
+Read,G756000,Moschcowitz syndrome,res34: ankylosing_spondylitis,diagnostic
+Read,N012000,Arthropathy in Behcet's syndrome of unspecified site,res34: ankylosing_spondylitis,diagnostic
+Read,N012x00,Arthropathy in Behcet's syndrome of multiple sites,res34: ankylosing_spondylitis,diagnostic
+Read,G752112,Anti GBM disease - Antiglomerular basement membrane disease,res34: ankylosing_spondylitis,diagnostic
+Read,G731z00,Thromboangiitis obliterans NOS,res34: ankylosing_spondylitis,diagnostic
+Read,G751.00,Acute febrile mucocutaneous lymph node syndrome,res34: ankylosing_spondylitis,diagnostic
+Read,G76B.00,Vasculitis,res34: ankylosing_spondylitis,diagnostic
+Read,G750.11,Necrotising angiitis,res34: ankylosing_spondylitis,diagnostic
+Read,G756z00,Thrombotic microangiopathy NOS,res34: ankylosing_spondylitis,diagnostic
+Read,G755.00,Giant cell arteritis,res34: ankylosing_spondylitis,diagnostic
+Read,G75z.00,Polyarteritis nodosa and allied conditions NOS,res34: ankylosing_spondylitis,diagnostic
+Read,G766.00,Arteritis unspecified,res34: ankylosing_spondylitis,diagnostic
+Read,N012700,Arthropathy in Behcet's syndrome of the ankle and foot,res34: ankylosing_spondylitis,diagnostic
+Read,43b2.00,Immune complex IgM level,res34: ankylosing_spondylitis,diagnostic
+Read,G752111,Antiglomerular basement membrane disease,res34: ankylosing_spondylitis,diagnostic
+Read,N148000,Atlanto-occipital ankylosis,res34: ankylosing_spondylitis,diagnostic
+Read,N148700,Atlanto-occipital instability,res34: ankylosing_spondylitis,diagnostic
+Read,N085500,Joint ankylosis of the pelvic region and thigh,res34: ankylosing_spondylitis,diagnostic
+Read,N085000,Joint ankylosis of unspecified site,res34: ankylosing_spondylitis,diagnostic
+Read,F552000,Malleus ankylosis,res34: ankylosing_spondylitis,diagnostic

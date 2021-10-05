@@ -1,0 +1,136 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B571.00,Secondary malignant neoplasm of mediastinum,res50: Metastatic tumour,diagnostic
+Read,B56..00,Secondary and unspecified malignant neoplasm of lymph nodes,res50: Metastatic tumour,diagnostic
+Read,142..00,H/O: malignant neoplasm (*),res50: Metastatic tumour,diagnostic
+Read,B560000,Secondary and unspec malig neop of superficial parotid LN,res50: Metastatic tumour,diagnostic
+Read,B560200,Secondary and unspec malig neop superficial cervical LN,res50: Metastatic tumour,diagnostic
+Read,B560600,Secondary and unspec malig neop of facial lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B562z00,Secondary and unspec malig neop intra-abdominal LN NOS,res50: Metastatic tumour,diagnostic
+Read,B561200,Secondary and unspec malig neop diaphragmatic lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B562200,Secondary and unspec malig neop inferior mesenteric LN,res50: Metastatic tumour,diagnostic
+Read,B561600,Secondary and unspec malig neop superfic tracheobronchial LN,res50: Metastatic tumour,diagnostic
+Read,B561z00,Secondary and unspec malig neop intrathoracic LN NOS,res50: Metastatic tumour,diagnostic
+Read,B563000,Secondary and unspec malig neop axillary lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B563z00,Secondary and unspec malig neop axilla and upper limb LN NOS,res50: Metastatic tumour,diagnostic
+Read,B564z00,Secondary and unspec malig neop of inguinal and leg LN NOS,res50: Metastatic tumour,diagnostic
+Read,B565.00,Secondary and unspec malig neop intrapelvic lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B583000,Secondary malignant neoplasm of brain,res50: Metastatic tumour,diagnostic
+Read,ByuC000,[X]Malignant neoplasm of other specified sites,res50: Metastatic tumour,diagnostic
+Read,ByuC100,[X]Malignant neoplasm/overlap lesion/other+ill-defined sites,res50: Metastatic tumour,diagnostic
+Read,ByuC400,[X]Secondary malignant neoplasm/oth+unspcfd digestive organs,res50: Metastatic tumour,diagnostic
+Read,ByuC700,[X]Secondary malignant neoplasm of other specified sites,res50: Metastatic tumour,diagnostic
+Read,ByuC500,[X]2ndry malignant neoplasm/bladder+oth+unsp urinary organs,res50: Metastatic tumour,diagnostic
+Read,ByuC200,[X]2ndry+unspcf malignant neoplasm lymph nodes/multi regions,res50: Metastatic tumour,diagnostic
+Read,ByuC300,[X]Secondary malignant neoplasm/oth+unspc respiratory organs,res50: Metastatic tumour,diagnostic
+Read,B583100,Secondary malignant neoplasm of spinal cord,res50: Metastatic tumour,diagnostic
+Read,B58y211,Secondary cancer of the cervix,res50: Metastatic tumour,diagnostic
+Read,B593.00,Primary malignant neoplasm of unknown site,res50: Metastatic tumour,diagnostic
+Read,B5z..00,Malignant neoplasm of other and unspecified site NOS,res50: Metastatic tumour,diagnostic
+Read,B594.00,Secondary malignant neoplasm of unknown site,res50: Metastatic tumour,diagnostic
+Read,B58y300,Secondary malignant neoplasm of vagina,res50: Metastatic tumour,diagnostic
+Read,B58z.00,Secondary malignant neoplasm of other specified site NOS,res50: Metastatic tumour,diagnostic
+Read,B58y400,Secondary malignant neoplasm of vulva,res50: Metastatic tumour,diagnostic
+Read,B583200,Cerebral metastasis,res50: Metastatic tumour,diagnostic
+Read,B585000,Pathological fracture due to metastatic bone disease,res50: Metastatic tumour,diagnostic
+Read,B58y.00,Secondary malignant neoplasm of other specified sites,res50: Metastatic tumour,diagnostic
+Read,B586.00,Secondary malignant neoplasm of ovary,res50: Metastatic tumour,diagnostic
+Read,B583z00,Secondary malignant neoplasm of brain or spinal cord NOS,res50: Metastatic tumour,diagnostic
+Read,B584.00,Secondary malignant neoplasm of other part of nervous system,res50: Metastatic tumour,diagnostic
+Read,B565000,Secondary and unspec malig neop internal iliac lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B576.00,Secondary malig neop of retroperitoneum and peritoneum,res50: Metastatic tumour,diagnostic
+Read,B582.00,Secondary malignant neoplasm of skin,res50: Metastatic tumour,diagnostic
+Read,B582400,Secondary malignant neoplasm of skin of shoulder and arm,res50: Metastatic tumour,diagnostic
+Read,B582600,Secondary malignant neoplasm of skin of breast,res50: Metastatic tumour,diagnostic
+Read,B582500,Secondary malignant neoplasm of skin of hip and leg,res50: Metastatic tumour,diagnostic
+Read,B582000,Secondary malignant neoplasm of skin of head,res50: Metastatic tumour,diagnostic
+Read,B582200,Secondary malignant neoplasm of skin of neck,res50: Metastatic tumour,diagnostic
+Read,B582100,Secondary malignant neoplasm of skin of face,res50: Metastatic tumour,diagnostic
+Read,B576000,Secondary malignant neoplasm of retroperitoneum,res50: Metastatic tumour,diagnostic
+Read,B57z.00,Secondary malig neop of respiratory or digestive system NOS,res50: Metastatic tumour,diagnostic
+Read,B580.00,Secondary malignant neoplasm of kidney,res50: Metastatic tumour,diagnostic
+Read,B58..00,Secondary malignant neoplasm of other specified sites,res50: Metastatic tumour,diagnostic
+Read,B576100,Secondary malignant neoplasm of peritoneum,res50: Metastatic tumour,diagnostic
+Read,B576200,Malignant ascites,res50: Metastatic tumour,diagnostic
+Read,B565200,Secondary and unspec malig neop circumflex iliac LN,res50: Metastatic tumour,diagnostic
+Read,B57..11,Metastases of respiratory and/or digestive systems,res50: Metastatic tumour,diagnostic
+Read,B574.00,Secondary malignant neoplasm of small intestine and duodenum,res50: Metastatic tumour,diagnostic
+Read,B575.00,Secondary malignant neoplasm of large intestine and rectum,res50: Metastatic tumour,diagnostic
+Read,B574000,Secondary malignant neoplasm of duodenum,res50: Metastatic tumour,diagnostic
+Read,B57..12,Secondary carcinoma of respiratory and/or digestive systems,res50: Metastatic tumour,diagnostic
+Read,B570.00,Secondary malignant neoplasm of lung,res50: Metastatic tumour,diagnostic
+Read,B565300,Secondary and unspec malig neop sacral lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B565z00,Secondary and unspec malig neop intrapelvic LN NOS,res50: Metastatic tumour,diagnostic
+Read,B56z.00,Secondary and unspec malig neop lymph nodes NOS,res50: Metastatic tumour,diagnostic
+Read,B56y.00,Secondary and unspec malig neop lymph nodes multiple sites,res50: Metastatic tumour,diagnostic
+Read,B564.00,Secondary and unspec malig neop inguinal and lower limb LN,res50: Metastatic tumour,diagnostic
+Read,B564100,Secondary and unspec malig neop deep inguinal lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B564000,Secondary and unspec malig neop superficial inguinal LN,res50: Metastatic tumour,diagnostic
+Read,B563100,Secondary and unspec malig neop supratrochlear lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B563300,Secondary and unspec malig neop pectoral lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B563200,Secondary and unspec malig neop infraclavicular lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B562300,Secondary and unspec malig neop common iliac lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B563.00,Secondary and unspec malig neop axilla and upper limb LN,res50: Metastatic tumour,diagnostic
+Read,B562400,Secondary and unspec malig neop external iliac lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B562.00,Secondary and unspec malig neop intra-abdominal lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B562100,Secondary and unspec malig neop superficial mesenteric LN,res50: Metastatic tumour,diagnostic
+Read,B562000,Secondary and unspec malig neop coeliac lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B560700,Secondary and unspec malig neop submental lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B561300,Secondary and unspec malig neop ant mediastinal lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B561700,Secondary and unspec malig neop inferior tracheobronchial LN,res50: Metastatic tumour,diagnostic
+Read,B561900,Secondary and unspec malig neop pulmonary lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B561800,Secondary and unspec malig neop bronchopulmonary lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B561400,Secondary and unspec malig neop post mediastinal lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B561500,Secondary and unspec malig neop paratracheal lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B560800,Secondary and unspec malig neop anterior cervical LN,res50: Metastatic tumour,diagnostic
+Read,B561.00,Secondary and unspec malig neop intrathoracic lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B561100,Secondary and unspec malig neop intercostal lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B561000,Secondary and unspec malig neop internal mammary lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B560900,Secondary and unspec malig neop deep cervical LN,res50: Metastatic tumour,diagnostic
+Read,B560z00,Secondary unspec malig neop lymph nodes head/face/neck NOS,res50: Metastatic tumour,diagnostic
+Read,B560300,Secondary and unspec malignant neoplasm occipital lymph node,res50: Metastatic tumour,diagnostic
+Read,B560500,Secondary and unspec malig neop submandibular lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B560400,Secondary and unspec malig neop deep parotid lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B56..11,Lymph node metastases,res50: Metastatic tumour,diagnostic
+Read,B560100,Secondary and unspec malignant neoplasm mastoid lymph nodes,res50: Metastatic tumour,diagnostic
+Read,B560.00,Secondary and unspec malig neop lymph nodes head/face/neck,res50: Metastatic tumour,diagnostic
+Read,B57..00,Secondary malig neop of respiratory and digestive systems,res50: Metastatic tumour,diagnostic
+Read,B574200,Secondary malignant neoplasm of ileum,res50: Metastatic tumour,diagnostic
+Read,B572.00,Secondary malignant neoplasm of pleura,res50: Metastatic tumour,diagnostic
+Read,B573.00,Secondary malignant neoplasm of other respiratory organs,res50: Metastatic tumour,diagnostic
+Read,B575z00,Secondary malig neop of large intestine or rectum NOS,res50: Metastatic tumour,diagnostic
+Read,B575100,Secondary malignant neoplasm of rectum,res50: Metastatic tumour,diagnostic
+Read,B574z00,Secondary malig neop of small intestine or duodenum NOS,res50: Metastatic tumour,diagnostic
+Read,B575000,Secondary malignant neoplasm of colon,res50: Metastatic tumour,diagnostic
+Read,B576z00,Secondary malig neop of retroperitoneum or peritoneum NOS,res50: Metastatic tumour,diagnostic
+Read,B577.11,Liver metastases,res50: Metastatic tumour,diagnostic
+Read,B577.00,Secondary malignant neoplasm of liver,res50: Metastatic tumour,diagnostic
+Read,B57y.00,Secondary malignant neoplasm of other digestive organ,res50: Metastatic tumour,diagnostic
+Read,B581100,Secondary malignant neoplasm of bladder,res50: Metastatic tumour,diagnostic
+Read,B58..11,Secondary carcinoma of other specified sites,res50: Metastatic tumour,diagnostic
+Read,B581000,Secondary malignant neoplasm of ureter,res50: Metastatic tumour,diagnostic
+Read,B581.00,Secondary malignant neoplasm of other urinary organs,res50: Metastatic tumour,diagnostic
+Read,B581z00,Secondary malignant neoplasm of other urinary organ NOS,res50: Metastatic tumour,diagnostic
+Read,B581200,Secondary malignant neoplasm of urethra,res50: Metastatic tumour,diagnostic
+Read,B582300,Secondary malignant neoplasm of skin of trunk,res50: Metastatic tumour,diagnostic
+Read,B583.00,Secondary malignant neoplasm of brain and spinal cord,res50: Metastatic tumour,diagnostic
+Read,B582z00,Secondary malignant neoplasm of skin NOS,res50: Metastatic tumour,diagnostic
+Read,B585.00,Secondary malignant neoplasm of bone and bone marrow,res50: Metastatic tumour,diagnostic
+Read,B587.00,Secondary malignant neoplasm of adrenal gland,res50: Metastatic tumour,diagnostic
+Read,B58y900,Secondary malignant neoplasm of tongue,res50: Metastatic tumour,diagnostic
+Read,B58y100,Secondary malignant neoplasm of uterus,res50: Metastatic tumour,diagnostic
+Read,B58y000,Secondary malignant neoplasm of breast,res50: Metastatic tumour,diagnostic
+Read,B58y200,Secondary malignant neoplasm of cervix uteri,res50: Metastatic tumour,diagnostic
+Read,B58y800,Secondary malignant neoplasm of epididymis and vas deferens,res50: Metastatic tumour,diagnostic
+Read,B58y411,Secondary cancer of the vulva,res50: Metastatic tumour,diagnostic
+Read,B58y700,Secondary malignant neoplasm of penis,res50: Metastatic tumour,diagnostic
+Read,B58y500,Secondary malignant neoplasm of prostate,res50: Metastatic tumour,diagnostic
+Read,B58y600,Secondary malignant neoplasm of testis,res50: Metastatic tumour,diagnostic
+Read,B5y..00,Malignant neoplasm of other and unspecified site OS,res50: Metastatic tumour,diagnostic
+Read,B592.00,Malignant neoplasms of independent (primary) multiple sites,res50: Metastatic tumour,diagnostic
+Read,B58yz00,Secondary malignant neoplasm of other specified site NOS,res50: Metastatic tumour,diagnostic
+Read,B591.00,Other malignant neoplasm NOS,res50: Metastatic tumour,diagnostic
+Read,B59..00,Malignant neoplasm of unspecified site,res50: Metastatic tumour,diagnostic
+Read,B59z.00,Malignant neoplasm of unspecified site NOS,res50: Metastatic tumour,diagnostic
+Read,ByuC.00,"[X]Malignant neoplasm of ill-defined, secondary and unspeci",res50: Metastatic tumour,diagnostic
+Read,ByuC800,[X]Malignant neoplasm without specification of site,res50: Metastatic tumour,diagnostic
+Read,ByuC600,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system,res50: Metastatic tumour,diagnostic

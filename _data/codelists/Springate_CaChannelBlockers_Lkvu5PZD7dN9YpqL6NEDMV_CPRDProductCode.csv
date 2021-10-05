@@ -1,0 +1,444 @@
+Coding System (CPRD_product_code),Codes,Description,Entity type,Category
+CPRD_product_code,37184,VALNI XL tablets 30mg [WINTHROP],res24: ca_channel_blockers,drug
+CPRD_product_code,36620,PARMID XL tablets 10mg [SANDOZ],res24: ca_channel_blockers,drug
+CPRD_product_code,26463,ZEMRET XL capsules 240mg [NEOLAB],res24: ca_channel_blockers,drug
+CPRD_product_code,35697,EXFORGE tablets 5mg + 160mg [NOVARTIS],res24: ca_channel_blockers,drug
+CPRD_product_code,26774,nifedipine oral suspension 10mg/5ml,res24: ca_channel_blockers,drug
+CPRD_product_code,45070,amlodipine oral suspension 10mg/5ml,res24: ca_channel_blockers,drug
+CPRD_product_code,38882,ADIZEM XL capsules 240mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,27295,SECURON IV injection 5mg/2ml [ABBOTT],res24: ca_channel_blockers,drug
+CPRD_product_code,35696,KENZEM SR capsules 120mg [KENT],res24: ca_channel_blockers,drug
+CPRD_product_code,35646,NEOZIPINE XL tablets 60mg [NEOLAB],res24: ca_channel_blockers,drug
+CPRD_product_code,36583,ZEMRET XL capsules 180mg [NEOLAB],res24: ca_channel_blockers,drug
+CPRD_product_code,36202,AMLODIPINE tablets 10mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,35729,VERAPAMIL HYDROCHLORIDE tablets 80mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,26460,DILCARDIA XL modified release capsules 240mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,37025,nifedipine modified release tablet 20mg,res24: ca_channel_blockers,drug
+CPRD_product_code,36664,ZEMRET XL capsules 300mg [NEOLAB],res24: ca_channel_blockers,drug
+CPRD_product_code,26337,CABREN SR tablets 10mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,25132,NIFOPRESS MR tablets 20mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,17474,felodipine with ramipril modified release tablet 5mg + 5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,17406,ZEMTARD XL capsules 180mg [GALEN],res24: ca_channel_blockers,drug
+CPRD_product_code,10267,ADIZEM XL capsules 200mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,25059,BERKATENS tablets 80mg [BERK],res24: ca_channel_blockers,drug
+CPRD_product_code,24228,NIMODREL MR tablets 20mg [OPUS],res24: ca_channel_blockers,drug
+CPRD_product_code,17566,FELOTENS XL tablets 10mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,24366,CARDIOPLEN XL tablets 10mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,24365,CARDIOPLEN XL tablets 5mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,26309,OPTIL XL extra sustained release capsules 240mg [OPUS],res24: ca_channel_blockers,drug
+CPRD_product_code,25919,NIFEDIPINE modified release tablet 20mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,25777,DILCARDIA SR modified release capsules 120mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,25572,FELOGEN XL tablets 5mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,25646,NIVATEN RETARD modified release tablet 20mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,26270,OPTIL XL extra sustained release capsules 300mg [OPUS],res24: ca_channel_blockers,drug
+CPRD_product_code,26265,CALANIF capsules 5mg [BERK],res24: ca_channel_blockers,drug
+CPRD_product_code,26252,BERKATENS tablets 160mg [BERK],res24: ca_channel_blockers,drug
+CPRD_product_code,26269,OPTIL SR sustained release capsules 180mg [OPUS],res24: ca_channel_blockers,drug
+CPRD_product_code,26267,OPTIL SR sustained release capsules 120mg [OPUS],res24: ca_channel_blockers,drug
+CPRD_product_code,38876,TILDIEM LA capsules 300mg [SANOFI/AVE],res24: ca_channel_blockers,drug
+CPRD_product_code,38434,KELOC SR tablets 10mg [APS],res24: ca_channel_blockers,drug
+CPRD_product_code,37726,nifedipine oral suspension 100mg/5ml,res24: ca_channel_blockers,drug
+CPRD_product_code,26759,ZILDIL SR modified release capsules 60mg [CHANELLE],res24: ca_channel_blockers,drug
+CPRD_product_code,26674,verapamil hydrochloride injection 5mg/2ml,res24: ca_channel_blockers,drug
+CPRD_product_code,37530,NEOZIPINE XL tablets 30mg [NEOLAB],res24: ca_channel_blockers,drug
+CPRD_product_code,37897,FELOTENS XL tablets 2.5mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,37774,KENZEM SR capsules 60mg [KENT],res24: ca_channel_blockers,drug
+CPRD_product_code,38066,DILTIAZEM HYDROCHLORIDE modified release tablet 60mg [LAGAP],res24: ca_channel_blockers,drug
+CPRD_product_code,38107,NIFEDIPINE SR tablets 30mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,38545,TILDIEM LA capsules 200mg [SANOFI/AVE],res24: ca_channel_blockers,drug
+CPRD_product_code,27136,DILTIAZEM HYDROCHLORIDE modified release tablet 90mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,38865,ADIZEM XL capsules 120mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,38634,ADIZEM XL capsules 300mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,38632,ADIZEM SR capsules 90mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,38855,ADIZEM XL capsules 180mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,38831,ADIZEM SR capsules 180mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,27135,DILTIAZEM SR capsules 90mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,38818,ADIZEM SR capsules 120mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,27401,KENZEM SR capsules 90mg [KENT],res24: ca_channel_blockers,drug
+CPRD_product_code,34522,NIFEDIPINE capsules 5mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,30242,diltiazem modified release capsules 180mg,res24: ca_channel_blockers,drug
+CPRD_product_code,32658,DILCARDIA XL modified release capsules 120mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,30199,nifedipine modified release tablet 30mg,res24: ca_channel_blockers,drug
+CPRD_product_code,28844,BERKATENS tablets 120mg [BERK],res24: ca_channel_blockers,drug
+CPRD_product_code,28438,TRIAPIN MITE modified release tablet 2.5mg + 2.5mg [AVENTIS],res24: ca_channel_blockers,drug
+CPRD_product_code,27685,DILTIAZEM HYDROCHLORIDE XL capsules 300mg [PLIVA],res24: ca_channel_blockers,drug
+CPRD_product_code,28843,VERAPAMIL HYDROCHLORIDE tablets 80mg [CELLTECH],res24: ca_channel_blockers,drug
+CPRD_product_code,28688,NIFEDIPINE modified release tablet 10mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,28721,NEOFEL XL tablets 5mg [NEOLAB],res24: ca_channel_blockers,drug
+CPRD_product_code,30197,diltiazem modified release capsules 120mg,res24: ca_channel_blockers,drug
+CPRD_product_code,29044,NEOFEL XL tablets 10mg [NEOLAB],res24: ca_channel_blockers,drug
+CPRD_product_code,28949,BI-CARZEM SR capsules 120mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,29676,CALAZEM modified release tablet 60mg [BERK],res24: ca_channel_blockers,drug
+CPRD_product_code,29145,FELENDIL XL modified release tablet 2.5mg [RATIOPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,29637,VERAPRESS MR tablets 240mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,32595,AMLODIPINE tablets 5mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,31489,BI-CARZEM XL capsules 240mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,30557,FELOGEN XL tablets 10mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,30473,CORODAY modified release tablet 20mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,30462,ETHIMIL modified release tablet 240mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,31337,SYSCOR MR modified release tablet 20mg [FOREST],res24: ca_channel_blockers,drug
+CPRD_product_code,30915,CABREN SR tablets 2.5mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,30758,lidoflazine tablets 120mg,res24: ca_channel_blockers,drug
+CPRD_product_code,31336,SYSCOR MR modified release tablet 30mg [FOREST],res24: ca_channel_blockers,drug
+CPRD_product_code,30991,CABREN SR tablets 5mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,32590,VERAPAMIL HYDROCHLORIDE tablets 40mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,31711,VERAPAMIL HYDROCHLORIDE tablets 80mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,31676,DILTIAZEM HYDROCHLORIDE modified release tablet 120mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,31490,ZOLVERA oral solution 40mg/5ml [ROSEMONT],res24: ca_channel_blockers,drug
+CPRD_product_code,32262,DILTIAZEM HYDROCHLORIDE tablets 60mg [CP PHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,31737,ZILDIL SR modified release capsules 120mg [CHANELLE],res24: ca_channel_blockers,drug
+CPRD_product_code,32089,DILTIAZEM HYDROCHLORIDE SR capsules 120mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,31761,AMLOSTIN tablets 10mg [DISCOVERY],res24: ca_channel_blockers,drug
+CPRD_product_code,39009,VERAPAMIL HYDROCHLORIDE tablets 40mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,45051,VERAPAMIL HYDROCHLORIDE modified release tablet 240mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,34475,DILTIAZEM HYDROCHLORIDE modified release tablet 90mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,33091,FELODIPINE modified release tablet 10mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,33471,VERAPAMIL HYDROCHLORIDE tablets 40mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,33025,NIMODREL XL tablets 30mg [ZURICH],res24: ca_channel_blockers,drug
+CPRD_product_code,32922,FELODIPINE modified release tablet 10mg [SANDOZ],res24: ca_channel_blockers,drug
+CPRD_product_code,32870,DILTIAZEM HYDROCHLORIDE tablets 60mg [STERWIN],res24: ca_channel_blockers,drug
+CPRD_product_code,32917,AMLODIPINE tablets 5mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,38964,ADIZEM SR tablets 120mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,35592,CARDIOPLEN XL tablets 2.5mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,34101,NIFEDIPINE MR modified release tablet 20mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,39298,BI-CARZEM SR capsules 90mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,39171,BI-CARZEM SR capsules 60mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,33932,PARMID XL tablets 5mg [SANDOZ],res24: ca_channel_blockers,drug
+CPRD_product_code,34093,AMLODIPINE tablets 10mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,34377,DILTIAZEM HYDROCHLORIDE SR capsules 90mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,34247,NIFEDIPINE capsules 10mg [BERK],res24: ca_channel_blockers,drug
+CPRD_product_code,34115,nifedipine modified release tablet 60mg,res24: ca_channel_blockers,drug
+CPRD_product_code,34187,NIFEDIPINE modified release tablet 10mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,34146,NIFEDIPINE MR modified release tablet 10mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,41203,SEVIKAR film coated tablets 40mg + 10mg [DAIIC-SANK],res24: ca_channel_blockers,drug
+CPRD_product_code,39357,NEOFEL XL tablets 2.5mg [NEOLAB],res24: ca_channel_blockers,drug
+CPRD_product_code,44887,BI-CARZEM XL capsules 300mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,35343,amlodipine with valsartan tablets 5mg + 160mg,res24: ca_channel_blockers,drug
+CPRD_product_code,34581,DILTIAZEM HYDROCHLORIDE modified release tablet 60mg [KENT],res24: ca_channel_blockers,drug
+CPRD_product_code,35174,valsartan with amlodipine tablets 80mg + 5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,35173,valsartan with amlodipine tablets 160mg + 5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,35329,amlodipine with valsartan tablets 5mg + 80mg,res24: ca_channel_blockers,drug
+CPRD_product_code,35096,EXFORGE tablets 10mg + 160mg [NOVARTIS],res24: ca_channel_blockers,drug
+CPRD_product_code,34824,DILTIAZEM HYDROCHLORIDE modified release tablet 120mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,34607,NIFEDIPINE capsules 5mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,35084,VASCALPHA prolonged release tablet 5mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,34959,VERAPAMIL HYDROCHLORIDE tablets 40mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,34975,NIFEDIPINE capsules 5mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,40668,olmesartan medoxomil with amlodipine tablets 40mg + 10mg,res24: ca_channel_blockers,drug
+CPRD_product_code,35189,amlodipine with valsartan tablets 10mg + 160mg,res24: ca_channel_blockers,drug
+CPRD_product_code,39804,AMLODIPINE tablets 5mg [DR REDDY`S],res24: ca_channel_blockers,drug
+CPRD_product_code,35317,EXFORGE tablets 5mg + 80mg [NOVARTIS],res24: ca_channel_blockers,drug
+CPRD_product_code,39800,VALNI XL tablets 60mg [WINTHROP],res24: ca_channel_blockers,drug
+CPRD_product_code,40639,olmesartan medoxomil with amlodipine tablets 40mg + 5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,39984,SEVIKAR film coated tablets 20mg + 5mg [DAIIC-SANK],res24: ca_channel_blockers,drug
+CPRD_product_code,39914,AMLODIPINE tablets 5mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,35304,valsartan with amlodipine tablets 160mg + 10mg,res24: ca_channel_blockers,drug
+CPRD_product_code,40074,nifedipine capsules 20mg,res24: ca_channel_blockers,drug
+CPRD_product_code,40633,VASCALPHA prolonged release tablet 5mg [ALMUS],res24: ca_channel_blockers,drug
+CPRD_product_code,40405,VERAPAMIL HYDROCHLORIDE tablets 120mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,40316,olmesartan medoxomil with amlodipine tablets 20mg + 5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,42912,NIFEDIPINE capsules 10mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,44859,FELODIPINE SR tablets 5mg [APS],res24: ca_channel_blockers,drug
+CPRD_product_code,41679,VERAPAMIL HYDROCHLORIDE tablets 80mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,41635,DILTIAZEM HYDROCHLORIDE tablets 60mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,41586,VERAPAMIL HYDROCHLORIDE tablets 80mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,41205,SEVIKAR film coated tablets 40mg + 5mg [DAIIC-SANK],res24: ca_channel_blockers,drug
+CPRD_product_code,41489,BI-CARZEM SR capsules 120mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,42819,DILTIAZEM XL capsules 240mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,42210,AMLODIPINE tablets 10mg [WINTHROP],res24: ca_channel_blockers,drug
+CPRD_product_code,41693,VERAPAMIL HYDROCHLORIDE tablets 120mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,41979,ADIPINE LA extra modified release tablet 30mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,42804,DILTIAZEM HYDROCHLORIDE XL capsules 180mg [PLIVA],res24: ca_channel_blockers,drug
+CPRD_product_code,42731,DILTIAZEM SR capsules 120mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,42625,VERA-TIL SR tablets 120mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,43470,AMLODIPINE tablets 5mg [WOCKHARDT],res24: ca_channel_blockers,drug
+CPRD_product_code,44192,ZEMRET XL capsules 240mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,43222,VALNI RETARD tablets 20mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,43430,DILTIAZEM HYDROCHLORIDE modified release tablet 120mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,43394,PINEFELD XL tablets 10mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,43410,nifedipine extra modified release tablet 60mg,res24: ca_channel_blockers,drug
+CPRD_product_code,43880,AMLODIPINE tablets 5mg [ALMUS],res24: ca_channel_blockers,drug
+CPRD_product_code,43515,NIFEDIPINE capsules 10mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,43512,FELODIPINE modified release tablet 5mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,43511,NIFEDIPINE capsules 10mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,43879,VERA-TIL SR tablets 240mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,43753,ADALAT LA 30 prolonged release tablet [BAYER],res24: ca_channel_blockers,drug
+CPRD_product_code,43818,ADALAT LA 60 prolonged release tablet [BAYER],res24: ca_channel_blockers,drug
+CPRD_product_code,43790,VASCALPHA prolonged release tablet 10mg [ALMUS],res24: ca_channel_blockers,drug
+CPRD_product_code,45292,NICARDIPINE capsules 30mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,45279,AMLODIPINE tablets 5mg [SANDOZ],res24: ca_channel_blockers,drug
+CPRD_product_code,17342,NIVATEN RETARD modified release tablet 10mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,13302,DILZEM SR capsules 90mg [CEPHALON],res24: ca_channel_blockers,drug
+CPRD_product_code,45685,ADANIF XL prolonged release tablet 30mg [FOCUS],res24: ca_channel_blockers,drug
+CPRD_product_code,46687,olmesartan medoxomil with amlodipine and hydrochlorothiazide tablets 20mg + 5mg + 12.5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,45308,VERAPAMIL SR tablets 240mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,46445,NIFEDIPINE capsules 10mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,45759,DILTIAZEM HYDROCHLORIDE XL capsules 240mg [PLIVA],res24: ca_channel_blockers,drug
+CPRD_product_code,46355,SEVIKAR HCT tablets 20mg + 5mg + 12.5mg [DAIIC-SANK],res24: ca_channel_blockers,drug
+CPRD_product_code,46009,VERAPAMIL HYDROCHLORIDE tablets 120mg [KENT],res24: ca_channel_blockers,drug
+CPRD_product_code,46233,amlodipine oral liquid,res24: ca_channel_blockers,drug
+CPRD_product_code,46937,DILTIAZEM HYDROCHLORIDE tablets 60mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,46887,ADANIF XL prolonged release tablet 60mg [FOCUS],res24: ca_channel_blockers,drug
+CPRD_product_code,46715,olmesartan medoxomil with amlodipine and hydrochlorothiazide tablets 40mg + 10mg + 12.5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,46724,amlodipine oral solution 5mg/5ml,res24: ca_channel_blockers,drug
+CPRD_product_code,47415,DILTIAZEM SR capsules 60mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,46792,olmesartan medoxomil with amlodipine and hydrochlorothiazide tablets 40mg + 5mg + 12.5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,46884,VERAPAMIL HYDROCHLORIDE modified release tablet 240mg [SANDOZ],res24: ca_channel_blockers,drug
+CPRD_product_code,47285,NIFEDIPINE XL tablets 60mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,47002,amlodipine sugar free oral suspension 10mg/5ml,res24: ca_channel_blockers,drug
+CPRD_product_code,46955,VERAPAMIL HYDROCHLORIDE tablets 80mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,47331,LERCANIDIPINE tablets 10mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,47027,NIFEDIPINE modified release tablet 10mg [KENT],res24: ca_channel_blockers,drug
+CPRD_product_code,47230,VERAPAMIL HYDROCHLORIDE MR tablets 240mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,47217,ADIPINE LA extra modified release tablet 60mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,47222,VERAPAMIL HYDROCHLORIDE modified release tablet 120mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,47467,olmesartan medoxomil with amlodipine and hydrochlorothiazide tablets 40mg + 5mg + 25mg,res24: ca_channel_blockers,drug
+CPRD_product_code,13251,VERA-TIL SR tablets 240mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,11966,MOTENS tablets 2mg [BOEH INGL],res24: ca_channel_blockers,drug
+CPRD_product_code,10832,SECURON tablets 80mg [ABBOTT],res24: ca_channel_blockers,drug
+CPRD_product_code,10688,verapamil hydrochloride tablets 160mg,res24: ca_channel_blockers,drug
+CPRD_product_code,10595,NIMOTOP tablets 30mg [BAYER],res24: ca_channel_blockers,drug
+CPRD_product_code,11965,ramipril with felodipine modified release tablet 2.5mg + 2.5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,11547,nimodipine tablets 30mg,res24: ca_channel_blockers,drug
+CPRD_product_code,11512,NIFEDIPRESS MR modified release tablet 10mg [DEXCEL],res24: ca_channel_blockers,drug
+CPRD_product_code,11223,ANGITIL SR capsules 90mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,11943,CARDENE capsules 20mg [ASTELLAS],res24: ca_channel_blockers,drug
+CPRD_product_code,11769,CALCHAN MR tablets 20mg [RANBAXY],res24: ca_channel_blockers,drug
+CPRD_product_code,11567,ramipril with felodipine modified release tablet 5mg + 5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,11922,diltiazem oral suspension 60mg/5ml,res24: ca_channel_blockers,drug
+CPRD_product_code,11777,verapamil hydrochloride sugar free solution 40mg/5ml,res24: ca_channel_blockers,drug
+CPRD_product_code,11770,DILZEM SR capsules 60mg [CEPHALON],res24: ca_channel_blockers,drug
+CPRD_product_code,13243,lercanidipine hydrochloride tablets 20mg,res24: ca_channel_blockers,drug
+CPRD_product_code,11972,VERTAB SR tablets 240mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,12613,UNIPINE XL modified release tablet 30mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,12606,NIFELEASE modified release tablet 20mg [EASTERN],res24: ca_channel_blockers,drug
+CPRD_product_code,11973,CALCICARD CR controlled release tablet 120mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,12392,UNIVER sustained release capsules 180mg [CEPHALON],res24: ca_channel_blockers,drug
+CPRD_product_code,12104,CORDILOX tablets 160mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,12705,ANGIOZEM CR slow-release tablets 90mg [ASHBOURNE],res24: ca_channel_blockers,drug
+CPRD_product_code,13240,DILZEM XL capsules 120mg [CEPHALON],res24: ca_channel_blockers,drug
+CPRD_product_code,12639,DILTIAZEM HYDROCHLORIDE modified release tablet 90mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,13139,ADIPINE XL tablets 30mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,13027,VIAZEM XL capsules 240mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,12875,CARDENE SR capsules 45mg [ASTELLAS],res24: ca_channel_blockers,drug
+CPRD_product_code,13127,DILZEM XL capsules 240mg [CEPHALON],res24: ca_channel_blockers,drug
+CPRD_product_code,13033,ANGITIL XL capsules 240mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,13075,DILZEM XL capsules 180mg [CEPHALON],res24: ca_channel_blockers,drug
+CPRD_product_code,17338,NIFEDOTARD 20 MR modified release tablet 20mg [GALEN],res24: ca_channel_blockers,drug
+CPRD_product_code,15715,GENALAT RETARD modified release tablet 20mg [WYETH PHAR],res24: ca_channel_blockers,drug
+CPRD_product_code,15221,DILCARDIA XL modified release capsules 180mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,13672,ANGIOPINE MR modified release tablet 10mg [ASHBOURNE],res24: ca_channel_blockers,drug
+CPRD_product_code,13410,ANGIOZEM tablets 60mg [ASHBOURNE],res24: ca_channel_blockers,drug
+CPRD_product_code,15117,nifedipine with atenolol capsules 20mg + 50mg,res24: ca_channel_blockers,drug
+CPRD_product_code,13926,diltiazem 24 hour modified release capsules 360mg,res24: ca_channel_blockers,drug
+CPRD_product_code,13856,VERAPRESS MR tablets 240mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,13699,ANGIOPINE LA tablets 40mg [ASHBOURNE],res24: ca_channel_blockers,drug
+CPRD_product_code,14861,CALCHAN MR tablets 10mg [RANBAXY],res24: ca_channel_blockers,drug
+CPRD_product_code,13965,CORDILOX MR tablets 240mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,14305,VASCALPHA prolonged release tablet 10mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,14300,ZANIDIP tablets 20mg [RECORDATI],res24: ca_channel_blockers,drug
+CPRD_product_code,15288,ANGITIL XL capsules 300mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,15652,mibefradil tablets 50mg,res24: ca_channel_blockers,drug
+CPRD_product_code,17325,CARDILATE MR tablets 10mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,16038,DILZEM SR capsules 120mg [CEPHALON],res24: ca_channel_blockers,drug
+CPRD_product_code,16073,NIFEDIPRESS MR modified release tablet 10mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,17006,TRIAPIN modified release tablet 5mg + 5mg [AVENTIS],res24: ca_channel_blockers,drug
+CPRD_product_code,16850,ANGIOZEM CR slow-release tablets 120mg [ASHBOURNE],res24: ca_channel_blockers,drug
+CPRD_product_code,16677,CORDILOX tablets 80mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,16328,VERAPRESS modified release tablet 240mg [DEXCEL],res24: ca_channel_blockers,drug
+CPRD_product_code,16162,amlodipine oral suspension 5mg/5ml,res24: ca_channel_blockers,drug
+CPRD_product_code,17448,NIFEDIPRESS MR modified release tablet 10mg [STERWIN],res24: ca_channel_blockers,drug
+CPRD_product_code,17425,ZEMTARD XL capsules 120mg [GALEN],res24: ca_channel_blockers,drug
+CPRD_product_code,17492,ZEMTARD XL capsules 300mg [GALEN],res24: ca_channel_blockers,drug
+CPRD_product_code,17557,FELOTENS XL tablets 5mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,17586,SLOZEM capsules 300mg [MERCK SER],res24: ca_channel_blockers,drug
+CPRD_product_code,10246,ADIPINE XL tablets 60mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,17640,AMLOSTIN tablets 5mg [DISCOVERY],res24: ca_channel_blockers,drug
+CPRD_product_code,23872,BERKATENS tablets 40mg [BERK],res24: ca_channel_blockers,drug
+CPRD_product_code,17599,VERAPRESS MR tablets 240mg [SANDOZ],res24: ca_channel_blockers,drug
+CPRD_product_code,452,nifedipine capsules 10mg,res24: ca_channel_blockers,drug
+CPRD_product_code,1449,nifedipine 24 hour modified release tablets 30mg,res24: ca_channel_blockers,drug
+CPRD_product_code,5194,DILZEM SR capsules 120mg [ELANPHARMA],res24: ca_channel_blockers,drug
+CPRD_product_code,23823,nisoldipine modified release tablet 30mg,res24: ca_channel_blockers,drug
+CPRD_product_code,1120,verapamil hydrochloride tablets 80mg,res24: ca_channel_blockers,drug
+CPRD_product_code,10136,NIFEDIPRESS MR modified release tablet 20mg [DEXCEL],res24: ca_channel_blockers,drug
+CPRD_product_code,10153,FELENDIL XL modified release tablet 5mg [RATIOPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,219,diltiazem 12 hour modified release tablets 120mg,res24: ca_channel_blockers,drug
+CPRD_product_code,1118,verapamil hydrochloride tablets 40mg,res24: ca_channel_blockers,drug
+CPRD_product_code,71,amlodipine (as besilate) tablets 10mg,res24: ca_channel_blockers,drug
+CPRD_product_code,29,amlodipine (as besilate) tablets 5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,541,ADALAT LA 20 prolonged release tablet [BAYER],res24: ca_channel_blockers,drug
+CPRD_product_code,410,nifedipine 12 hour modified release tablets 10mg,res24: ca_channel_blockers,drug
+CPRD_product_code,269,nifedipine capsules 5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,491,felodipine modified release tablet 2.5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,536,TILDIEM LA capsules 200mg [SANOFI/AVE],res24: ca_channel_blockers,drug
+CPRD_product_code,939,TILDIEM RETARD tablets 90mg [SANOFI/AVE],res24: ca_channel_blockers,drug
+CPRD_product_code,517,ADIZEM SR capsules 120mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,501,felodipine modified release tablet 5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,793,ADIZEM XL capsules 240mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,662,ADALAT capsules 5mg [BAYER],res24: ca_channel_blockers,drug
+CPRD_product_code,636,diltiazem 12 hour modified release capsules 60mg,res24: ca_channel_blockers,drug
+CPRD_product_code,568,felodipine modified release tablet 10mg,res24: ca_channel_blockers,drug
+CPRD_product_code,700,VERA-TIL SR tablets 120mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,749,amlodipine tablets 5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,737,nifedipine 12 hour modified release capsules 20mg,res24: ca_channel_blockers,drug
+CPRD_product_code,729,amlodipine (as maleate) tablets 5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,1300,NIFENSAR XL sustained release tablets 20mg [RHONE],res24: ca_channel_blockers,drug
+CPRD_product_code,1289,TILDIEM RETARD tablets 120mg [SANOFI/AVE],res24: ca_channel_blockers,drug
+CPRD_product_code,5181,ANGIOPINE MR tablets 20mg [ASHBOURNE],res24: ca_channel_blockers,drug
+CPRD_product_code,1262,nifedipine 12 hour modified release tablets 20mg,res24: ca_channel_blockers,drug
+CPRD_product_code,1747,verapamil hydrochloride tablets 120mg,res24: ca_channel_blockers,drug
+CPRD_product_code,2811,ADIZEM SR capsules 180mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,1298,verapamil hydrochloride modified release tablet 240mg,res24: ca_channel_blockers,drug
+CPRD_product_code,1130,VIAZEM XL capsules 300mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,1574,verapamil hydrochloride modified release capsules 120mg,res24: ca_channel_blockers,drug
+CPRD_product_code,1686,diltiazem 12 hour modified release capsules 90mg,res24: ca_channel_blockers,drug
+CPRD_product_code,1538,diltiazem tablets 60mg,res24: ca_channel_blockers,drug
+CPRD_product_code,1529,POSICOR tablets 50mg [ROCHE],res24: ca_channel_blockers,drug
+CPRD_product_code,1684,BETA-ADALAT capsules 50mg + 20mg [BAYER],res24: ca_channel_blockers,drug
+CPRD_product_code,1748,CORDILOX tablets 120mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,2280,ADALAT RETARD tablets 10mg [BAYER],res24: ca_channel_blockers,drug
+CPRD_product_code,2746,CORACTEN SR modified release capsules 10mg [UCB],res24: ca_channel_blockers,drug
+CPRD_product_code,1995,diltiazem 12 hour modified release capsules 120mg,res24: ca_channel_blockers,drug
+CPRD_product_code,1854,ADALAT LA tablets 30mg [BAYER],res24: ca_channel_blockers,drug
+CPRD_product_code,1836,diltiazem 8 hour modified release tablets 60mg,res24: ca_channel_blockers,drug
+CPRD_product_code,2521,ADALAT capsules 10mg [BAYER],res24: ca_channel_blockers,drug
+CPRD_product_code,2686,DILZEM XL MR capsules 240mg [ELANPHARMA],res24: ca_channel_blockers,drug
+CPRD_product_code,2453,diltiazem modified release capsules 60mg,res24: ca_channel_blockers,drug
+CPRD_product_code,2343,ADALAT RETARD tablets 20mg [BAYER],res24: ca_channel_blockers,drug
+CPRD_product_code,2528,SLOZEM capsules 120mg [MERCK SER],res24: ca_channel_blockers,drug
+CPRD_product_code,2663,diltiazem modified release capsules 240mg,res24: ca_channel_blockers,drug
+CPRD_product_code,2605,nifedipine 12 hour modified release capsules 10mg,res24: ca_channel_blockers,drug
+CPRD_product_code,2592,VIAZEM XL capsules 120mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,3061,diltiazem 12 hour modified release capsules 180mg,res24: ca_channel_blockers,drug
+CPRD_product_code,3712,CORACTEN XL modified release capsules 30mg [UCB],res24: ca_channel_blockers,drug
+CPRD_product_code,3057,SECURON tablets 120mg [ABBOTT],res24: ca_channel_blockers,drug
+CPRD_product_code,5162,nifedipine 24 hour modified release capsules 30mg,res24: ca_channel_blockers,drug
+CPRD_product_code,2926,nicardipine hydrochloride capsules 20mg,res24: ca_channel_blockers,drug
+CPRD_product_code,2888,TILDIEM modified release tablet 60mg [SANOFI/AVE],res24: ca_channel_blockers,drug
+CPRD_product_code,3302,CARDENE SR capsules 30mg [ASTELLAS],res24: ca_channel_blockers,drug
+CPRD_product_code,3711,ADIPINE MR 20 modified release tablet 20mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,3221,lacidipine tablets 4mg,res24: ca_channel_blockers,drug
+CPRD_product_code,3118,ADIZEM SR capsules 90mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,3342,SECURON SR tablets 240mg [ABBOTT],res24: ca_channel_blockers,drug
+CPRD_product_code,3676,DILZEM XL MR capsules 180mg [ELANPHARMA],res24: ca_channel_blockers,drug
+CPRD_product_code,3370,DILZEM XL MR capsules 120mg [ELANPHARMA],res24: ca_channel_blockers,drug
+CPRD_product_code,3343,HALF SECURON SR tablets 120mg [ABBOTT],res24: ca_channel_blockers,drug
+CPRD_product_code,4239,ADIPINE MR 10 modified release tablet 10mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,3917,ISTIN tablets 5mg [PFIZER],res24: ca_channel_blockers,drug
+CPRD_product_code,5158,lacidipine tablets 2mg,res24: ca_channel_blockers,drug
+CPRD_product_code,3930,nifedipine 24 hour modified release tablets 60mg,res24: ca_channel_blockers,drug
+CPRD_product_code,4227,ADALAT LA tablets 60mg [BAYER],res24: ca_channel_blockers,drug
+CPRD_product_code,3943,verapamil hydrochloride modified release capsules 240mg,res24: ca_channel_blockers,drug
+CPRD_product_code,3931,POSICOR tablets 100mg [ROCHE],res24: ca_channel_blockers,drug
+CPRD_product_code,5054,ANGITIL SR capsules 180mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,4308,DILZEM SR capsules 90mg [ELANPHARMA],res24: ca_channel_blockers,drug
+CPRD_product_code,4732,diltiazem 12 hour modified release tablets 90mg,res24: ca_channel_blockers,drug
+CPRD_product_code,4635,diltiazem 24 hour modified release capsules 200mg,res24: ca_channel_blockers,drug
+CPRD_product_code,4408,SLOZEM capsules 240mg [MERCK SER],res24: ca_channel_blockers,drug
+CPRD_product_code,4542,atenolol with nifedipine capsules 50mg + 20mg,res24: ca_channel_blockers,drug
+CPRD_product_code,4939,CORACTEN XL modified release capsules 60mg [UCB],res24: ca_channel_blockers,drug
+CPRD_product_code,4852,ADIZEM SR tablets 120mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,4808,diltiazem 24 hour modified release capsules 240mg,res24: ca_channel_blockers,drug
+CPRD_product_code,4923,diltiazem 24 hour modified release capsules 180mg,res24: ca_channel_blockers,drug
+CPRD_product_code,4856,CORACTEN SR modified release capsules 20mg [UCB],res24: ca_channel_blockers,drug
+CPRD_product_code,6510,UNIVER sustained release capsules 120mg [CEPHALON],res24: ca_channel_blockers,drug
+CPRD_product_code,5296,TILDIEM LA capsules 300mg [SANOFI/AVE],res24: ca_channel_blockers,drug
+CPRD_product_code,5277,FORTIPINE LA40 tablets 40mg [GOLDSHIELD],res24: ca_channel_blockers,drug
+CPRD_product_code,5593,lercanidipine hydrochloride tablets 10mg,res24: ca_channel_blockers,drug
+CPRD_product_code,5234,SLOZEM capsules 180mg [MERCK SER],res24: ca_channel_blockers,drug
+CPRD_product_code,10135,NIFEDIPRESS MR modified release tablet 10mg [SANDOZ],res24: ca_channel_blockers,drug
+CPRD_product_code,7681,SYNADRIN tablets 60mg [HOECHST],res24: ca_channel_blockers,drug
+CPRD_product_code,5570,ZANIDIP tablets 10mg [RECORDATI],res24: ca_channel_blockers,drug
+CPRD_product_code,5326,diltiazem 24 hour modified release capsules 300mg,res24: ca_channel_blockers,drug
+CPRD_product_code,5513,DILZEM SR capsules 60mg [ELANPHARMA],res24: ca_channel_blockers,drug
+CPRD_product_code,5477,nicardipine hydrochloride modified release capsules 30mg,res24: ca_channel_blockers,drug
+CPRD_product_code,5348,diltiazem 24 hour modified release capsules 300mg,res24: ca_channel_blockers,drug
+CPRD_product_code,5806,TENSIPINE MR tablets 20mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,6477,amlodipine (as maleate) tablets 10mg,res24: ca_channel_blockers,drug
+CPRD_product_code,5914,ISTIN tablets 10mg [PFIZER],res24: ca_channel_blockers,drug
+CPRD_product_code,6309,ADIZEM XL capsules 300mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,7398,VIAZEM XL capsules 360mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,6856,amlodipine tablets 10mg,res24: ca_channel_blockers,drug
+CPRD_product_code,7562,CARDENE capsules 30mg [ASTELLAS],res24: ca_channel_blockers,drug
+CPRD_product_code,7280,PLENDIL extended release tablets 10mg [ASTRAZENEC],res24: ca_channel_blockers,drug
+CPRD_product_code,7541,NIFOPRESS RETARD modified release tablet 20mg [GOLDSHIELD],res24: ca_channel_blockers,drug
+CPRD_product_code,8524,SECURON tablets 40mg [ABBOTT],res24: ca_channel_blockers,drug
+CPRD_product_code,8213,nifedipine 24 hour modified release tablets 20mg,res24: ca_channel_blockers,drug
+CPRD_product_code,8201,nicardipine hydrochloride capsules 30mg,res24: ca_channel_blockers,drug
+CPRD_product_code,9750,nifedipine 24 hour modified release capsules 60mg,res24: ca_channel_blockers,drug
+CPRD_product_code,8310,isradipine tablets 2.5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,8257,PRESCAL tablets 2.5mg [NOV/CIBA],res24: ca_channel_blockers,drug
+CPRD_product_code,9240,ADIZEM XL capsules 180mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,9723,CALCICARD CR controlled release tablet 90mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,8642,TENIF capsules 50mg + 20mg [ASTRAZENEC],res24: ca_channel_blockers,drug
+CPRD_product_code,8558,ADIZEM XL capsules 120mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,8975,verapamil hydrochloride modified release capsules 180mg,res24: ca_channel_blockers,drug
+CPRD_product_code,8759,verapamil hydrochloride modified release tablet 120mg,res24: ca_channel_blockers,drug
+CPRD_product_code,8945,UNIVER sustained release capsules 240mg [CEPHALON],res24: ca_channel_blockers,drug
+CPRD_product_code,8884,CORDILOX tablets 40mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,9386,nicardipine hydrochloride modified release capsules 45mg,res24: ca_channel_blockers,drug
+CPRD_product_code,9269,nifedipine 24 hour modified release tablets 40mg,res24: ca_channel_blockers,drug
+CPRD_product_code,9374,ADIZEM modified release tablet 60mg [NAPPPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,9334,PLENDIL extended release tablets 2.5mg [ASTRAZENEC],res24: ca_channel_blockers,drug
+CPRD_product_code,9708,diltiazem 24 hour modified release capsules 120mg,res24: ca_channel_blockers,drug
+CPRD_product_code,9485,HYPOLAR RETARD-20 modified release tablet 20mg [SANDOZ],res24: ca_channel_blockers,drug
+CPRD_product_code,9670,MOTENS tablets 4mg [BOEH INGL],res24: ca_channel_blockers,drug
+CPRD_product_code,9437,PLENDIL extended release tablets 5mg [ASTRAZENEC],res24: ca_channel_blockers,drug
+CPRD_product_code,9410,ANGITIL SR capsules 120mg [CHIESI],res24: ca_channel_blockers,drug
+CPRD_product_code,9573,SLOFEDIPINE XL modified release tablet 30mg [WINTHROP],res24: ca_channel_blockers,drug
+CPRD_product_code,9569,verapamil hydrochloride modified release tablet 120mg,res24: ca_channel_blockers,drug
+CPRD_product_code,9553,SLOFEDIPINE XL modified release tablet 60mg [WINTHROP],res24: ca_channel_blockers,drug
+CPRD_product_code,18223,trandolapril with verapamil modified release capsules 2mg + 180mg,res24: ca_channel_blockers,drug
+CPRD_product_code,17666,VIAZEM XL capsules 180mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,23805,nisoldipine modified release tablet 10mg,res24: ca_channel_blockers,drug
+CPRD_product_code,18038,nisoldipine modified release tablet 20mg,res24: ca_channel_blockers,drug
+CPRD_product_code,23233,BI-CARZEM SR capsules 90mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,19426,DISOGRAM SR capsules 240mg [RANBAXY],res24: ca_channel_blockers,drug
+CPRD_product_code,23736,HYPOLAR XL extra modified release tablet 30mg [SANDOZ],res24: ca_channel_blockers,drug
+CPRD_product_code,19325,CORDILOX injection 2.5mg/ml [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,18403,DILTIAZEM HYDROCHLORIDE modified release capsules 180mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,18379,DILCARDIA SR modified release capsules 90mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,19175,VERAPAMIL HYDROCHLORIDE tablets 40mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,18830,DISOGRAM SR capsules 90mg [RANBAXY],res24: ca_channel_blockers,drug
+CPRD_product_code,18404,DILTIAZEM HYDROCHLORIDE SR capsules 60mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,18606,diltiazem and hydrochlorothiazide modified release capsules 150mg + 12.5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,19170,TENSIPINE MR tablets 10mg [GENUS],res24: ca_channel_blockers,drug
+CPRD_product_code,18874,DISOGRAM SR capsules 180mg [RANBAXY],res24: ca_channel_blockers,drug
+CPRD_product_code,18834,DISOGRAM SR capsules 60mg [RANBAXY],res24: ca_channel_blockers,drug
+CPRD_product_code,18852,DISOGRAM SR capsules 120mg [RANBAXY],res24: ca_channel_blockers,drug
+CPRD_product_code,19129,SYSCOR MR modified release tablet 10mg [FOREST],res24: ca_channel_blockers,drug
+CPRD_product_code,18975,CALCICARD tablets 60mg [3M],res24: ca_channel_blockers,drug
+CPRD_product_code,19013,CLINIUM tablets 120mg [LEO],res24: ca_channel_blockers,drug
+CPRD_product_code,21763,DILTIAZEM HYDROCHLORIDE tablets 60mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,19440,DISOGRAM SR capsules 300mg [RANBAXY],res24: ca_channel_blockers,drug
+CPRD_product_code,19690,verapamil hydrochloride with trandolapril modified release capsules 180mg + 2mg,res24: ca_channel_blockers,drug
+CPRD_product_code,19457,RANVERA MR tablets 240mg [RANBAXY],res24: ca_channel_blockers,drug
+CPRD_product_code,19459,VERAPAMIL HYDROCHLORIDE modified release tablet 240mg [HILLCROSS],res24: ca_channel_blockers,drug
+CPRD_product_code,22826,SECURON tablets 160mg [ABBOTT],res24: ca_channel_blockers,drug
+CPRD_product_code,21245,NIFEDIPRESS MR modified release tablet 10mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,20257,CARDILATE MR tablets 20mg [IVAX],res24: ca_channel_blockers,drug
+CPRD_product_code,20591,NIFEDIPRESS MR modified release tablet 20mg [TEVA],res24: ca_channel_blockers,drug
+CPRD_product_code,20579,TARKA capsules 180mg + 2mg [ABBOTT],res24: ca_channel_blockers,drug
+CPRD_product_code,20311,NIFEDIPRESS MR modified release tablet 20mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,20459,FELENDIL XL modified release tablet 10mg [RATIOPHARM],res24: ca_channel_blockers,drug
+CPRD_product_code,21216,HYPOLAR RETARD-10 modified release tablet 10mg [SANDOZ],res24: ca_channel_blockers,drug
+CPRD_product_code,20878,ANGIOPINE capsules 10mg [ASHBOURNE],res24: ca_channel_blockers,drug
+CPRD_product_code,20642,BI-CARZEM SR capsules 60mg [TILLOMED],res24: ca_channel_blockers,drug
+CPRD_product_code,21162,felodipine with ramipril modified release tablet 2.5mg + 2.5mg,res24: ca_channel_blockers,drug
+CPRD_product_code,20890,ZEMTARD XL capsules 240mg [GALEN],res24: ca_channel_blockers,drug
+CPRD_product_code,21145,DILCARDIA SR modified release capsules 60mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,22696,SLOFEDIPINE SR modified release tablet 20mg [STERWIN],res24: ca_channel_blockers,drug
+CPRD_product_code,21778,DILTIAZEM HYDROCHLORIDE tablets 60mg [APS],res24: ca_channel_blockers,drug
+CPRD_product_code,22241,mibefradil tablets 100mg,res24: ca_channel_blockers,drug
+CPRD_product_code,21773,DILTIAZEM HYDROCHLORIDE tablets 60mg [GEN (UK)],res24: ca_channel_blockers,drug
+CPRD_product_code,22217,NIMODREL MR tablets 10mg [OPUS],res24: ca_channel_blockers,drug
+CPRD_product_code,21886,NIFEDIPRESS MR modified release tablet 20mg [ACTAVIS],res24: ca_channel_blockers,drug
+CPRD_product_code,21795,RETALZEM modified release tablet 60mg [KENT],res24: ca_channel_blockers,drug
+CPRD_product_code,21872,ANGIOPINE capsules 5mg [ASHBOURNE],res24: ca_channel_blockers,drug
+CPRD_product_code,22142,CALCILAT capsules 10mg [EASTERN],res24: ca_channel_blockers,drug
+CPRD_product_code,21918,OPTIL modified release tablet 60mg [OPUS],res24: ca_channel_blockers,drug
+CPRD_product_code,22019,CALANIF capsules 10mg [BERK],res24: ca_channel_blockers,drug
+CPRD_product_code,22619,BRITIAZIM modified release tablet 60mg [THAMES],res24: ca_channel_blockers,drug
+CPRD_product_code,23733,OPTIL SR sustained release capsules 90mg [OPUS],res24: ca_channel_blockers,drug
+CPRD_product_code,23505,ADIZEM XL PLUS controlled release capsules 150mg + 12.5mg [NAPP],res24: ca_channel_blockers,drug

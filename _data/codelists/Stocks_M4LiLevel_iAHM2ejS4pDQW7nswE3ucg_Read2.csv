@@ -1,0 +1,7 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,44W8000,Lithium level therapeutic,res25: M4_Li_level,test
+Read,44W8.11,Lithium: blood level,res25: M4_Li_level,test
+Read,44W8.00,Serum lithium level,res25: M4_Li_level,test
+Read,44vE.00,Lithium level therapeutic,res25: M4_Li_level,test
+Read,44W8200,Lithium level low,res25: M4_Li_level,test
+Read,44W8100,Lithium level high - toxic,res25: M4_Li_level,test

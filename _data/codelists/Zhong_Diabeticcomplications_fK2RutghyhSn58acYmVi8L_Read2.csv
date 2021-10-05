@@ -1,0 +1,219 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,C10FM11,Type II diabetes mellitus with persistent microalbuminuria,res50: diabetic complications,diagnostic
+Read,C10E700,Type 1 diabetes mellitus with retinopathy,res50: diabetic complications,diagnostic
+Read,C108700,Insulin dependent diabetes mellitus with retinopathy,res50: diabetic complications,diagnostic
+Read,C105.00,Diabetes mellitus with ophthalmic manifestation,res50: diabetic complications,diagnostic
+Read,2BBl.00,O/E - left eye stable treated prolif diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,2BBQ.00,O/E - left eye background diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,2BBM.00,O/E - diabetic maculopathy absent both eyes,res50: diabetic complications,diagnostic
+Read,F372.11,Diabetic polyneuropathy,res50: diabetic complications,diagnostic
+Read,2BBL.00,O/E - diabetic maculopathy present both eyes,res50: diabetic complications,diagnostic
+Read,2BBP.00,O/E - right eye background diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,2BBk.00,O/E - right eye stable treated prolif diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,2BBS.00,O/E - left eye preproliferative diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,2BBR.00,O/E - right eye preproliferative diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,2BBX.00,O/E - left eye diabetic maculopathy,res50: diabetic complications,diagnostic
+Read,2BBV.00,O/E - left eye proliferative diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,2BBT.00,O/E - right eye proliferative diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,2BBW.00,O/E - right eye diabetic maculopathy,res50: diabetic complications,diagnostic
+Read,C104z00,Diabetes mellitus with nephropathy NOS,res50: diabetic complications,diagnostic
+Read,2G5W.00,O/E - left chronic diabetic foot ulcer,res50: diabetic complications,diagnostic
+Read,2BBr.00,Impaired vision due to diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,2BBo.00,O/E - sight threatening diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,2G5V.00,O/E - right chronic diabetic foot ulcer,res50: diabetic complications,diagnostic
+Read,2G5L.00,O/E - Left diabetic foot - ulcerated,res50: diabetic complications,diagnostic
+Read,C104y00,Other specified diabetes mellitus with renal complications,res50: diabetic complications,diagnostic
+Read,C104.11,Diabetic nephropathy,res50: diabetic complications,diagnostic
+Read,C104.00,Diabetes mellitus with renal manifestation,res50: diabetic complications,diagnostic
+Read,C108600,Insulin dependent diabetes mellitus with gangrene,res50: diabetic complications,diagnostic
+Read,C106.13,Diabetes mellitus with polyneuropathy,res50: diabetic complications,diagnostic
+Read,C105z00,Diabetes mellitus NOS with ophthalmic manifestation,res50: diabetic complications,diagnostic
+Read,C105y00,Other specified diabetes mellitus with ophthalmic complicatn,res50: diabetic complications,diagnostic
+Read,C106.12,Diabetes mellitus with neuropathy,res50: diabetic complications,diagnostic
+Read,C106.00,Diabetes mellitus with neurological manifestation,res50: diabetic complications,diagnostic
+Read,C106.11,Diabetic amyotrophy,res50: diabetic complications,diagnostic
+Read,C108512,Type 1 diabetes mellitus with ulcer,res50: diabetic complications,diagnostic
+Read,C108100,Insulin-dependent diabetes mellitus with ophthalmic comps,res50: diabetic complications,diagnostic
+Read,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder,res50: diabetic complications,diagnostic
+Read,C106z00,Diabetes mellitus NOS with neurological manifestation,res50: diabetic complications,diagnostic
+Read,C106y00,Other specified diabetes mellitus with neurological comps,res50: diabetic complications,diagnostic
+Read,C107.11,Diabetes mellitus with gangrene,res50: diabetic complications,diagnostic
+Read,C107.00,Diabetes mellitus with peripheral circulatory disorder,res50: diabetic complications,diagnostic
+Read,C108012,Type 1 diabetes mellitus with renal complications,res50: diabetic complications,diagnostic
+Read,C108000,Insulin-dependent diabetes mellitus with renal complications,res50: diabetic complications,diagnostic
+Read,C108011,Type I diabetes mellitus with renal complications,res50: diabetic complications,diagnostic
+Read,C108511,Type I diabetes mellitus with ulcer,res50: diabetic complications,diagnostic
+Read,C108200,Insulin-dependent diabetes mellitus with neurological comps,res50: diabetic complications,diagnostic
+Read,C108112,Type 1 diabetes mellitus with ophthalmic complications,res50: diabetic complications,diagnostic
+Read,C108500,Insulin dependent diabetes mellitus with ulcer,res50: diabetic complications,diagnostic
+Read,C108212,Type 1 diabetes mellitus with neurological complications,res50: diabetic complications,diagnostic
+Read,C108211,Type I diabetes mellitus with neurological complications,res50: diabetic complications,diagnostic
+Read,C108311,Type I diabetes mellitus with multiple complications,res50: diabetic complications,diagnostic
+Read,C108300,Insulin dependent diabetes mellitus with multiple complicatn,res50: diabetic complications,diagnostic
+Read,C10E612,Insulin dependent diabetes mellitus with gangrene,res50: diabetic complications,diagnostic
+Read,C109B11,Type II diabetes mellitus with polyneuropathy,res50: diabetic complications,diagnostic
+Read,C109212,Type 2 diabetes mellitus with neurological complications,res50: diabetic complications,diagnostic
+Read,C108J11,Type I diabetes mellitus with neuropathic arthropathy,res50: diabetic complications,diagnostic
+Read,C108C00,Insulin dependent diabetes mellitus with polyneuropathy,res50: diabetic complications,diagnostic
+Read,C108712,Type 1 diabetes mellitus with retinopathy,res50: diabetic complications,diagnostic
+Read,C108711,Type I diabetes mellitus with retinopathy,res50: diabetic complications,diagnostic
+Read,C108B11,Type I diabetes mellitus with mononeuropathy,res50: diabetic complications,diagnostic
+Read,C108B00,Insulin dependent diabetes mellitus with mononeuropathy,res50: diabetic complications,diagnostic
+Read,C108H11,Type I diabetes mellitus with arthropathy,res50: diabetic complications,diagnostic
+Read,C108D11,Type I diabetes mellitus with nephropathy,res50: diabetic complications,diagnostic
+Read,C108D00,Insulin dependent diabetes mellitus with nephropathy,res50: diabetic complications,diagnostic
+Read,C108H00,Insulin dependent diabetes mellitus with arthropathy,res50: diabetic complications,diagnostic
+Read,C108F00,Insulin dependent diabetes mellitus with diabetic cataract,res50: diabetic complications,diagnostic
+Read,C108F11,Type I diabetes mellitus with diabetic cataract,res50: diabetic complications,diagnostic
+Read,C109211,Type II diabetes mellitus with neurological complications,res50: diabetic complications,diagnostic
+Read,C108z00,Unspecified diabetes mellitus with multiple complications,res50: diabetic complications,diagnostic
+Read,C108y00,Other specified diabetes mellitus with multiple comps,res50: diabetic complications,diagnostic
+Read,C108J12,Type 1 diabetes mellitus with neuropathic arthropathy,res50: diabetic complications,diagnostic
+Read,C109200,Non-insulin-dependent diabetes mellitus with neuro comps,res50: diabetic complications,diagnostic
+Read,C109012,Type 2 diabetes mellitus with renal complications,res50: diabetic complications,diagnostic
+Read,C109000,Non-insulin-dependent diabetes mellitus with renal comps,res50: diabetic complications,diagnostic
+Read,C109011,Type II diabetes mellitus with renal complications,res50: diabetic complications,diagnostic
+Read,C109112,Type 2 diabetes mellitus with ophthalmic complications,res50: diabetic complications,diagnostic
+Read,C109100,Non-insulin-dependent diabetes mellitus with ophthalm comps,res50: diabetic complications,diagnostic
+Read,C109111,Type II diabetes mellitus with ophthalmic complications,res50: diabetic complications,diagnostic
+Read,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy,res50: diabetic complications,diagnostic
+Read,C109412,Type 2 diabetes mellitus with ulcer,res50: diabetic complications,diagnostic
+Read,C109312,Type 2 diabetes mellitus with multiple complications,res50: diabetic complications,diagnostic
+Read,C109300,Non-insulin-dependent diabetes mellitus with multiple comps,res50: diabetic complications,diagnostic
+Read,C109411,Type II diabetes mellitus with ulcer,res50: diabetic complications,diagnostic
+Read,C109400,Non-insulin dependent diabetes mellitus with ulcer,res50: diabetic complications,diagnostic
+Read,C109A11,Type II diabetes mellitus with mononeuropathy,res50: diabetic complications,diagnostic
+Read,C109512,Type 2 diabetes mellitus with gangrene,res50: diabetic complications,diagnostic
+Read,C109511,Type II diabetes mellitus with gangrene,res50: diabetic complications,diagnostic
+Read,C109500,Non-insulin dependent diabetes mellitus with gangrene,res50: diabetic complications,diagnostic
+Read,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy,res50: diabetic complications,diagnostic
+Read,C109611,Type II diabetes mellitus with retinopathy,res50: diabetic complications,diagnostic
+Read,C109600,Non-insulin-dependent diabetes mellitus with retinopathy,res50: diabetic complications,diagnostic
+Read,C109612,Type 2 diabetes mellitus with retinopathy,res50: diabetic complications,diagnostic
+Read,C10E611,Type I diabetes mellitus with gangrene,res50: diabetic complications,diagnostic
+Read,C109H00,Non-insulin dependent d m with neuropathic arthropathy,res50: diabetic complications,diagnostic
+Read,C109E11,Type II diabetes mellitus with diabetic cataract,res50: diabetic complications,diagnostic
+Read,C109C00,Non-insulin dependent diabetes mellitus with nephropathy,res50: diabetic complications,diagnostic
+Read,C109E00,Non-insulin depend diabetes mellitus with diabetic cataract,res50: diabetic complications,diagnostic
+Read,C109C11,Type II diabetes mellitus with nephropathy,res50: diabetic complications,diagnostic
+Read,C109C12,Type 2 diabetes mellitus with nephropathy,res50: diabetic complications,diagnostic
+Read,C109G12,Type 2 diabetes mellitus with arthropathy,res50: diabetic complications,diagnostic
+Read,C109E12,Type 2 diabetes mellitus with diabetic cataract,res50: diabetic complications,diagnostic
+Read,C109G11,Type II diabetes mellitus with arthropathy,res50: diabetic complications,diagnostic
+Read,C109F11,Type II diabetes mellitus with peripheral angiopathy,res50: diabetic complications,diagnostic
+Read,C109F00,Non-insulin-dependent d m with peripheral angiopath,res50: diabetic complications,diagnostic
+Read,C109G00,Non-insulin dependent diabetes mellitus with arthropathy,res50: diabetic complications,diagnostic
+Read,C109F12,Type 2 diabetes mellitus with peripheral angiopathy,res50: diabetic complications,diagnostic
+Read,C10E600,Type 1 diabetes mellitus with gangrene,res50: diabetic complications,diagnostic
+Read,C10E200,Type 1 diabetes mellitus with neurological complications,res50: diabetic complications,diagnostic
+Read,C109H12,Type 2 diabetes mellitus with neuropathic arthropathy,res50: diabetic complications,diagnostic
+Read,C109H11,Type II diabetes mellitus with neuropathic arthropathy,res50: diabetic complications,diagnostic
+Read,C10E112,Insulin-dependent diabetes mellitus with ophthalmic comps,res50: diabetic complications,diagnostic
+Read,C10E012,Insulin-dependent diabetes mellitus with renal complications,res50: diabetic complications,diagnostic
+Read,C10E000,Type 1 diabetes mellitus with renal complications,res50: diabetic complications,diagnostic
+Read,C10E111,Type I diabetes mellitus with ophthalmic complications,res50: diabetic complications,diagnostic
+Read,C10E100,Type 1 diabetes mellitus with ophthalmic complications,res50: diabetic complications,diagnostic
+Read,C10E512,Insulin dependent diabetes mellitus with ulcer,res50: diabetic complications,diagnostic
+Read,C10E311,Type I diabetes mellitus with multiple complications,res50: diabetic complications,diagnostic
+Read,C10E212,Insulin-dependent diabetes mellitus with neurological comps,res50: diabetic complications,diagnostic
+Read,C10E300,Type 1 diabetes mellitus with multiple complications,res50: diabetic complications,diagnostic
+Read,F372.12,Diabetic neuropathy,res50: diabetic complications,diagnostic
+Read,C10E511,Type I diabetes mellitus with ulcer,res50: diabetic complications,diagnostic
+Read,C10E312,Insulin dependent diabetes mellitus with multiple complicat,res50: diabetic complications,diagnostic
+Read,C10E500,Type 1 diabetes mellitus with ulcer,res50: diabetic complications,diagnostic
+Read,C10FM00,Type 2 diabetes mellitus with persistent microalbuminuria,res50: diabetic complications,diagnostic
+Read,C10F600,Type 2 diabetes mellitus with retinopathy,res50: diabetic complications,diagnostic
+Read,C10EL11,Type I diabetes mellitus with persistent microalbuminuria,res50: diabetic complications,diagnostic
+Read,C10EF12,Insulin dependent diabetes mellitus with diabetic cataract,res50: diabetic complications,diagnostic
+Read,C10EC00,Type 1 diabetes mellitus with polyneuropathy,res50: diabetic complications,diagnostic
+Read,C10E712,Insulin dependent diabetes mellitus with retinopathy,res50: diabetic complications,diagnostic
+Read,C10E711,Type I diabetes mellitus with retinopathy,res50: diabetic complications,diagnostic
+Read,C10EB00,Type 1 diabetes mellitus with mononeuropathy,res50: diabetic complications,diagnostic
+Read,C10EA11,Type I diabetes mellitus without complication,res50: diabetic complications,diagnostic
+Read,C10EA00,Type 1 diabetes mellitus without complication,res50: diabetic complications,diagnostic
+Read,C10EF00,Type 1 diabetes mellitus with diabetic cataract,res50: diabetic complications,diagnostic
+Read,C10ED00,Type 1 diabetes mellitus with nephropathy,res50: diabetic complications,diagnostic
+Read,C10EC11,Type I diabetes mellitus with polyneuropathy,res50: diabetic complications,diagnostic
+Read,C10EC12,Insulin dependent diabetes mellitus with polyneuropathy,res50: diabetic complications,diagnostic
+Read,C10ED12,Insulin dependent diabetes mellitus with nephropathy,res50: diabetic complications,diagnostic
+Read,C10EL00,Type 1 diabetes mellitus with persistent microalbuminuria,res50: diabetic complications,diagnostic
+Read,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy,res50: diabetic complications,diagnostic
+Read,C10EK00,Type 1 diabetes mellitus with persistent proteinuria,res50: diabetic complications,diagnostic
+Read,C10EJ00,Type 1 diabetes mellitus with neuropathic arthropathy,res50: diabetic complications,diagnostic
+Read,C10EH00,Type 1 diabetes mellitus with arthropathy,res50: diabetic complications,diagnostic
+Read,C10F511,Type II diabetes mellitus with gangrene,res50: diabetic complications,diagnostic
+Read,C10F011,Type II diabetes mellitus with renal complications,res50: diabetic complications,diagnostic
+Read,C10EQ00,Type 1 diabetes mellitus with gastroparesis,res50: diabetic complications,diagnostic
+Read,C10EP11,Type I diabetes mellitus with exudative maculopathy,res50: diabetic complications,diagnostic
+Read,C10EP00,Type 1 diabetes mellitus with exudative maculopathy,res50: diabetic complications,diagnostic
+Read,C10F000,Type 2 diabetes mellitus with renal complications,res50: diabetic complications,diagnostic
+Read,C10EQ11,Type I diabetes mellitus with gastroparesis,res50: diabetic complications,diagnostic
+Read,C10F500,Type 2 diabetes mellitus with gangrene,res50: diabetic complications,diagnostic
+Read,C10F211,Type II diabetes mellitus with neurological complications,res50: diabetic complications,diagnostic
+Read,C10F111,Type II diabetes mellitus with ophthalmic complications,res50: diabetic complications,diagnostic
+Read,C10F100,Type 2 diabetes mellitus with ophthalmic complications,res50: diabetic complications,diagnostic
+Read,C10F200,Type 2 diabetes mellitus with neurological complications,res50: diabetic complications,diagnostic
+Read,C10F411,Type II diabetes mellitus with ulcer,res50: diabetic complications,diagnostic
+Read,C10F311,Type II diabetes mellitus with multiple complications,res50: diabetic complications,diagnostic
+Read,C10F300,Type 2 diabetes mellitus with multiple complications,res50: diabetic complications,diagnostic
+Read,C10F400,Type 2 diabetes mellitus with ulcer,res50: diabetic complications,diagnostic
+Read,C10FL11,Type II diabetes mellitus with persistent proteinuria,res50: diabetic complications,diagnostic
+Read,C10FB11,Type II diabetes mellitus with polyneuropathy,res50: diabetic complications,diagnostic
+Read,C10FA11,Type II diabetes mellitus with mononeuropathy,res50: diabetic complications,diagnostic
+Read,C10FA00,Type 2 diabetes mellitus with mononeuropathy,res50: diabetic complications,diagnostic
+Read,C10F611,Type II diabetes mellitus with retinopathy,res50: diabetic complications,diagnostic
+Read,C10FB00,Type 2 diabetes mellitus with polyneuropathy,res50: diabetic complications,diagnostic
+Read,C10FL00,Type 2 diabetes mellitus with persistent proteinuria,res50: diabetic complications,diagnostic
+Read,C10FE11,Type II diabetes mellitus with diabetic cataract,res50: diabetic complications,diagnostic
+Read,C10FE00,Type 2 diabetes mellitus with diabetic cataract,res50: diabetic complications,diagnostic
+Read,C10FC11,Type II diabetes mellitus with nephropathy,res50: diabetic complications,diagnostic
+Read,C10FC00,Type 2 diabetes mellitus with nephropathy,res50: diabetic complications,diagnostic
+Read,C10FH11,Type II diabetes mellitus with neuropathic arthropathy,res50: diabetic complications,diagnostic
+Read,C10FG00,Type 2 diabetes mellitus with arthropathy,res50: diabetic complications,diagnostic
+Read,C10FF11,Type II diabetes mellitus with peripheral angiopathy,res50: diabetic complications,diagnostic
+Read,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy,res50: diabetic complications,diagnostic
+Read,C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy,res50: diabetic complications,diagnostic
+Read,C10FG11,Type II diabetes mellitus with arthropathy,res50: diabetic complications,diagnostic
+Read,N030011,Diabetic cheiropathy,res50: diabetic complications,diagnostic
+Read,F420000,Background diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,C10z.00,Diabetes mellitus with unspecified complication,res50: diabetic complications,diagnostic
+Read,C10FQ00,Type 2 diabetes mellitus with exudative maculopathy,res50: diabetic complications,diagnostic
+Read,C10yz00,Diabetes mellitus NOS with other specified manifestation,res50: diabetic complications,diagnostic
+Read,C10y.00,Diabetes mellitus with other specified manifestation,res50: diabetic complications,diagnostic
+Read,C10FR00,Type 2 diabetes mellitus with gastroparesis,res50: diabetic complications,diagnostic
+Read,C10yy00,Other specified diabetes mellitus with other spec comps,res50: diabetic complications,diagnostic
+Read,F420.00,Diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,F345000,Diabetic mononeuritis multiplex,res50: diabetic complications,diagnostic
+Read,F35z000,Diabetic mononeuritis NOS,res50: diabetic complications,diagnostic
+Read,C10zy00,Other specified diabetes mellitus with unspecified comps,res50: diabetic complications,diagnostic
+Read,Cyu2300,[X]Unspecified diabetes mellitus with renal complications,res50: diabetic complications,diagnostic
+Read,C10zz00,Diabetes mellitus NOS with unspecified complication,res50: diabetic complications,diagnostic
+Read,F372100,Chronic painful diabetic neuropathy,res50: diabetic complications,diagnostic
+Read,F372000,Acute painful diabetic neuropathy,res50: diabetic complications,diagnostic
+Read,F3y0.00,Diabetic mononeuropathy,res50: diabetic complications,diagnostic
+Read,F381300,Myasthenic syndrome due to diabetic amyotrophy,res50: diabetic complications,diagnostic
+Read,F372200,Asymptomatic diabetic neuropathy,res50: diabetic complications,diagnostic
+Read,F381311,Diabetic amyotrophy,res50: diabetic complications,diagnostic
+Read,N030000,Diabetic cheiroarthropathy,res50: diabetic complications,diagnostic
+Read,F440700,Diabetic iritis,res50: diabetic complications,diagnostic
+Read,F420500,Advanced diabetic retinal disease,res50: diabetic complications,diagnostic
+Read,F420300,Advanced diabetic maculopathy,res50: diabetic complications,diagnostic
+Read,F420200,Preproliferative diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,F420100,Proliferative diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,F420400,Diabetic maculopathy,res50: diabetic complications,diagnostic
+Read,F420z00,Diabetic retinopathy NOS,res50: diabetic complications,diagnostic
+Read,F420800,High risk non proliferative diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,F420700,High risk proliferative diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,F420600,Non proliferative diabetic retinopathy,res50: diabetic complications,diagnostic
+Read,M271200,Mixed diabetic ulcer - foot,res50: diabetic complications,diagnostic
+Read,K08yA11,Clinical diabetic nephropathy,res50: diabetic complications,diagnostic
+Read,F464000,Diabetic cataract,res50: diabetic complications,diagnostic
+Read,K08yA00,Proteinuric diabetic nephropathy,res50: diabetic complications,diagnostic
+Read,K01x111,Kimmelstiel - Wilson disease,res50: diabetic complications,diagnostic
+Read,G73y000,Diabetic peripheral angiopathy,res50: diabetic complications,diagnostic
+Read,M271100,Neuropathic diabetic ulcer - foot,res50: diabetic complications,diagnostic
+Read,M037200,Cellulitis in diabetic foot,res50: diabetic complications,diagnostic
+Read,M271000,Ischaemic ulcer diabetic foot,res50: diabetic complications,diagnostic
+Read,R054200,[D]Gangrene of toe in diabetic,res50: diabetic complications,diagnostic
+Read,N030100,Diabetic Charcot arthropathy,res50: diabetic complications,diagnostic
+Read,R054300,[D]Widespread diabetic foot gangrene,res50: diabetic complications,diagnostic

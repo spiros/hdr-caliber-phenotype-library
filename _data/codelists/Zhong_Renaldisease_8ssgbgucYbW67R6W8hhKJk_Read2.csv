@@ -1,0 +1,382 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,14D1.00,H/O: nephritis,res50: renal disease,diagnostic
+Read,K100z00,Chronic pyelonephritis NOS,res50: renal disease,diagnostic
+Read,1Z16.00,Chronic kidney disease stage 3B,res50: renal disease,diagnostic
+Read,1Z1L.00,Chronic kidney disease stage 5 without proteinuria,res50: renal disease,diagnostic
+Read,1Z15.00,Chronic kidney disease stage 3A,res50: renal disease,diagnostic
+Read,14V2.11,H/O: kidney dialysis,res50: renal disease,diagnostic
+Read,1Z14.00,Chronic kidney disease stage 5,res50: renal disease,diagnostic
+Read,14V2.00,H/O: renal dialysis,res50: renal disease,diagnostic
+Read,1Z13.00,Chronic kidney disease stage 4,res50: renal disease,diagnostic
+Read,1Z12.00,Chronic kidney disease stage 3,res50: renal disease,diagnostic
+Read,1Z10.00,Chronic kidney disease stage 1,res50: renal disease,diagnostic
+Read,1Z1K.11,CKD stage 5 with proteinuria,res50: renal disease,diagnostic
+Read,1Z1B.11,CKD stage 3 with proteinuria,res50: renal disease,diagnostic
+Read,1Z1B.00,Chronic kidney disease stage 3 with proteinuria,res50: renal disease,diagnostic
+Read,1Z18.00,Chronic kidney disease stage 1 without proteinuria,res50: renal disease,diagnostic
+Read,1Z17.00,Chronic kidney disease stage 1 with proteinuria,res50: renal disease,diagnostic
+Read,1Z17.11,CKD stage 1 with proteinuria,res50: renal disease,diagnostic
+Read,1Z1A.00,Chronic kidney disease stage 2 without proteinuria,res50: renal disease,diagnostic
+Read,1Z19.00,Chronic kidney disease stage 2 with proteinuria,res50: renal disease,diagnostic
+Read,1Z19.11,CKD stage 2 with proteinuria,res50: renal disease,diagnostic
+Read,1Z11.00,Chronic kidney disease stage 2,res50: renal disease,diagnostic
+Read,1Z1G.11,CKD stage 3B without proteinuria,res50: renal disease,diagnostic
+Read,1Z1A.11,CKD stage 2 without proteinuria,res50: renal disease,diagnostic
+Read,1Z1C.00,Chronic kidney disease stage 3 without proteinuria,res50: renal disease,diagnostic
+Read,1Z1G.00,Chronic kidney disease stage 3B without proteinuria,res50: renal disease,diagnostic
+Read,1Z1F.11,CKD stage 3B with proteinuria,res50: renal disease,diagnostic
+Read,1Z1C.11,CKD stage 3 without proteinuria,res50: renal disease,diagnostic
+Read,1Z1F.00,Chronic kidney disease stage 3B with proteinuria,res50: renal disease,diagnostic
+Read,1Z1D.00,Chronic kidney disease stage 3A with proteinuria,res50: renal disease,diagnostic
+Read,1Z1E.00,Chronic kidney disease stage 3A without proteinuria,res50: renal disease,diagnostic
+Read,1Z1D.11,CKD stage 3A with proteinuria,res50: renal disease,diagnostic
+Read,1Z1K.00,Chronic kidney disease stage 5 with proteinuria,res50: renal disease,diagnostic
+Read,1Z1E.11,CKD stage 3A without proteinuria,res50: renal disease,diagnostic
+Read,1Z1H.00,Chronic kidney disease stage 4 with proteinuria,res50: renal disease,diagnostic
+Read,1Z1J.11,CKD stage 4 without proteinuria,res50: renal disease,diagnostic
+Read,1Z1H.11,CKD stage 4 with proteinuria,res50: renal disease,diagnostic
+Read,1Z1J.00,Chronic kidney disease stage 4 without proteinuria,res50: renal disease,diagnostic
+Read,K032300,Anaphylactoid glomerulonephritis,res50: renal disease,diagnostic
+Read,7L1B200,Flushing of peritoneal dialysis catheter,res50: renal disease,diagnostic
+Read,7L1A500,Continuous ambulatory peritoneal dialysis,res50: renal disease,diagnostic
+Read,7B06300,Exploration of renal transplant,res50: renal disease,diagnostic
+Read,7A61900,Ligation of arteriovenous dialysis fistula,res50: renal disease,diagnostic
+Read,7261011,Cyclodialysis,res50: renal disease,diagnostic
+Read,7B00212,Cadaveric renal transplant,res50: renal disease,diagnostic
+Read,7L1A400,Automated peritoneal dialysis,res50: renal disease,diagnostic
+Read,7L1A011,Thomas intravascular shunt for dialysis,res50: renal disease,diagnostic
+Read,7L1A.00,Compensation for renal failure,res50: renal disease,diagnostic
+Read,7L1A000,Renal dialysis,res50: renal disease,diagnostic
+Read,7L1A.11,Dialysis for renal failure,res50: renal disease,diagnostic
+Read,7L1A100,Peritoneal dialysis,res50: renal disease,diagnostic
+Read,7B00600,Xenograft renal transplant,res50: renal disease,diagnostic
+Read,7L1Az00,Compensation for renal failure NOS,res50: renal disease,diagnostic
+Read,7L1A600,Peritoneal dialysis NEC,res50: renal disease,diagnostic
+Read,7L1B100,Removal of ambulatory peritoneal dialysis catheter,res50: renal disease,diagnostic
+Read,7L1B000,Insertion of ambulatory peritoneal dialysis catheter,res50: renal disease,diagnostic
+Read,7L1B.00,Placement ambulatory apparatus compensation renal failure,res50: renal disease,diagnostic
+Read,7L1Ay00,Other specified compensation for renal failure,res50: renal disease,diagnostic
+Read,7L1B.11,Placement ambulatory dialysis apparatus - compens renal fail,res50: renal disease,diagnostic
+Read,7L1A200,Haemodialysis NEC,res50: renal disease,diagnostic
+Read,C372500,Acute urate nephropathy,res50: renal disease,diagnostic
+Read,C372411,Uric acid nephropathy,res50: renal disease,diagnostic
+Read,7L1Cz00,Placement other apparatus- compensate for renal failure NOS,res50: renal disease,diagnostic
+Read,7A60600,Creation of graft fistula for dialysis,res50: renal disease,diagnostic
+Read,7A61A00,Ligation of arteriovenous dialysis graft,res50: renal disease,diagnostic
+Read,7L1By00,Placement ambulatory apparatus- compensate renal failure OS,res50: renal disease,diagnostic
+Read,7L1C.00,Placement other apparatus for compensation for renal failure,res50: renal disease,diagnostic
+Read,7L1Cy00,Placement other apparatus- compensate for renal failure OS,res50: renal disease,diagnostic
+Read,7L1C000,Insertion of temporary peritoneal dialysis catheter,res50: renal disease,diagnostic
+Read,1Z1L.11,CKD stage 5 without proteinuria,res50: renal disease,diagnostic
+Read,A786.00,Haemorrhagic nephrosonephritis,res50: renal disease,diagnostic
+Read,A160200,Tuberculous pyelonephritis,res50: renal disease,diagnostic
+Read,7L1f000,Extracorporeal albumin haemodialysis,res50: renal disease,diagnostic
+Read,A160000,Tuberculous nephropathy,res50: renal disease,diagnostic
+Read,8882,Intestinal dialysis,res50: renal disease,diagnostic
+Read,C372400,Urate nephropathy,res50: renal disease,diagnostic
+Read,C341z00,Gouty nephropathy NOS,res50: renal disease,diagnostic
+Read,C341.00,Gouty nephropathy,res50: renal disease,diagnostic
+Read,C353600,Renal failure-associated hyperphosphataemia,res50: renal disease,diagnostic
+Read,K101000,Acute pyelonephritis without medullary necrosis,res50: renal disease,diagnostic
+Read,K00..00,Acute glomerulonephritis,res50: renal disease,diagnostic
+Read,A844100,Plasmodium malariae malaria with nephropathy,res50: renal disease,diagnostic
+Read,F374A00,Polyneuropathy in uraemia,res50: renal disease,diagnostic
+Read,F410400,New partial retinal detachment with retinal dialysis,res50: renal disease,diagnostic
+Read,Cyu2300,[X]Unspecified diabetes mellitus with renal complications,res50: renal disease,diagnostic
+Read,D310100,Henoch-Schonlein nephritis,res50: renal disease,diagnostic
+Read,D011100,Vit B12 defic anaemia due to malabsorption with proteinuria,res50: renal disease,diagnostic
+Read,D215.00,Anaemia secondary to renal failure,res50: renal disease,diagnostic
+Read,G233.00,Hypertensive heart and renal disease with renal failure,res50: renal disease,diagnostic
+Read,G222.00,Hypertensive renal disease with renal failure,res50: renal disease,diagnostic
+Read,F447C00,Iridodialysis,res50: renal disease,diagnostic
+Read,G72D200,Aneurysm of anastomotic site of dialysis AV fistula,res50: renal disease,diagnostic
+Read,G72C.00,Ruptured aneurysm of dialysis vascular access,res50: renal disease,diagnostic
+Read,D215000,Anaemia secondary to chronic renal failure,res50: renal disease,diagnostic
+Read,G72D100,Aneurysm of needle site of dialysis arteriovenous fistula,res50: renal disease,diagnostic
+Read,G72D.00,Aneurysm of dialysis arteriovenous fistula,res50: renal disease,diagnostic
+Read,K0...00,"Nephritis, nephrosis and nephrotic syndrome",res50: renal disease,diagnostic
+Read,Gy3..00,Occlusion of dialysis vascular access,res50: renal disease,diagnostic
+Read,Gy10.00,Stenosis of dialysis arteriovenous graft,res50: renal disease,diagnostic
+Read,Gy1..00,Stenosis of dialysis vascular access,res50: renal disease,diagnostic
+Read,Gy21.00,Thrombosis of dialysis arteriovenous fistula,res50: renal disease,diagnostic
+Read,Gy60.00,Rupture of dialysis arteriovenous graft,res50: renal disease,diagnostic
+Read,Gy40.00,Infection of dialysis arteriovenous graft,res50: renal disease,diagnostic
+Read,Gy30.00,Occlusion of dialysis arteriovenous graft,res50: renal disease,diagnostic
+Read,Gy31.00,Occlusion of dialysis arteriovenous fistula,res50: renal disease,diagnostic
+Read,Gy51.00,Haemorrhage of dialysis arteriovenous fistula,res50: renal disease,diagnostic
+Read,Gy5..00,Haemorrhage of dialysis vascular access,res50: renal disease,diagnostic
+Read,Gy41.00,Infection of dialysis arteriovenous fistula,res50: renal disease,diagnostic
+Read,K032000,Focal membranoproliferative glomerulonephritis,res50: renal disease,diagnostic
+Read,K00z.00,Acute glomerulonephritis NOS,res50: renal disease,diagnostic
+Read,K00y.00,Other acute glomerulonephritis,res50: renal disease,diagnostic
+Read,K000100,Crescentic glomerulonephritis,res50: renal disease,diagnostic
+Read,K000.00,Acute proliferative glomerulonephritis,res50: renal disease,diagnostic
+Read,K00..11,Acute nephritis,res50: renal disease,diagnostic
+Read,A160100,Tuberculous pyelitis,res50: renal disease,diagnostic
+Read,K000111,CGN - Crescentic glomerulonephritis,res50: renal disease,diagnostic
+Read,K001.00,Acute nephritis with lesions of necrotising glomerulitis,res50: renal disease,diagnostic
+Read,K00yz00,Other acute glomerulonephritis NOS,res50: renal disease,diagnostic
+Read,K00y200,Acute focal nephritis,res50: renal disease,diagnostic
+Read,K00y000,Acute glomerulonephritis in diseases EC,res50: renal disease,diagnostic
+Read,K00y100,Acute exudative nephritis,res50: renal disease,diagnostic
+Read,K00y300,Acute diffuse nephritis,res50: renal disease,diagnostic
+Read,K018.00,"Nephrotic syn,difus endocapilary proliftv glomerulonephritis",res50: renal disease,diagnostic
+Read,K017.00,Nephrotic syn difus mesangial prolifertiv glomerulonephritis,res50: renal disease,diagnostic
+Read,K010.00,Nephrotic syndrome with proliferative glomerulonephritis,res50: renal disease,diagnostic
+Read,K01..00,Nephrotic syndrome,res50: renal disease,diagnostic
+Read,K016.00,"Nephrotic syndrome, diffuse membranous glomerulonephritis",res50: renal disease,diagnostic
+Read,K011.00,Nephrotic syndrome with membranous glomerulonephritis,res50: renal disease,diagnostic
+Read,K015.00,"Nephrotic syndrome, focal and segmental glomerular lesions",res50: renal disease,diagnostic
+Read,K013.00,Nephrotic syndrome with minimal change glomerulonephritis,res50: renal disease,diagnostic
+Read,K012.00,Nephrotic syndrome+membranoproliferative glomerulonephritis,res50: renal disease,diagnostic
+Read,K014.00,"Nephrotic syndrome, minor glomerular abnormality",res50: renal disease,diagnostic
+Read,K013.11,Lipoid nephrosis,res50: renal disease,diagnostic
+Read,K013.12,Steroid sensitive nephrotic syndrome,res50: renal disease,diagnostic
+Read,K032200,Focal glomerulon + focal recurr macroscop glomerulonephritis,res50: renal disease,diagnostic
+Read,K021.00,Chronic membranous glomerulonephritis,res50: renal disease,diagnostic
+Read,K01x200,Nephrotic syndrome in malaria,res50: renal disease,diagnostic
+Read,K01w112,Wilms' tumour + nephrotic syndrome + pseudohermaphroditism,res50: renal disease,diagnostic
+Read,K01w000,Finnish nephrosis syndrome,res50: renal disease,diagnostic
+Read,K01A.00,"Nephrotic syndrome, dense deposit disease",res50: renal disease,diagnostic
+Read,K019.00,"Nephrotic syn,diffuse mesangiocapillary glomerulonephritis",res50: renal disease,diagnostic
+Read,K01w.00,Congenital nephrotic syndrome,res50: renal disease,diagnostic
+Read,K01B.00,"Nephrotic syndrome, diffuse crescentic glomerulonephritis",res50: renal disease,diagnostic
+Read,K01x111,Kimmelstiel - Wilson disease,res50: renal disease,diagnostic
+Read,K01x.00,Nephrotic syndrome in diseases EC,res50: renal disease,diagnostic
+Read,K01x000,Nephrotic syndrome in amyloidosis,res50: renal disease,diagnostic
+Read,K020.00,Chronic proliferative glomerulonephritis,res50: renal disease,diagnostic
+Read,K01x411,Lupus nephritis,res50: renal disease,diagnostic
+Read,K01x300,Nephrotic syndrome in polyarteritis nodosa,res50: renal disease,diagnostic
+Read,K01x100,Nephrotic syndrome in diabetes mellitus,res50: renal disease,diagnostic
+Read,K01x400,Nephrotic syndrome in systemic lupus erythematosus,res50: renal disease,diagnostic
+Read,K02..12,Nephropathy - chronic,res50: renal disease,diagnostic
+Read,K01y.00,Nephrotic syndrome with other pathological kidney lesions,res50: renal disease,diagnostic
+Read,K02..11,Nephritis - chronic,res50: renal disease,diagnostic
+Read,K01z.00,Nephrotic syndrome NOS,res50: renal disease,diagnostic
+Read,K02..00,Chronic glomerulonephritis,res50: renal disease,diagnostic
+Read,K032.00,Membranoproliferative nephritis unspecified,res50: renal disease,diagnostic
+Read,K02z.00,Chronic glomerulonephritis NOS,res50: renal disease,diagnostic
+Read,K023.00,Chronic rapidly progressive glomerulonephritis,res50: renal disease,diagnostic
+Read,K022.00,Chronic membranoproliferative glomerulonephritis,res50: renal disease,diagnostic
+Read,K02yz00,Other chronic glomerulonephritis NOS,res50: renal disease,diagnostic
+Read,K02y000,Chronic glomerulonephritis + diseases EC,res50: renal disease,diagnostic
+Read,K02y.00,Other chronic glomerulonephritis,res50: renal disease,diagnostic
+Read,K02y300,Chronic diffuse glomerulonephritis,res50: renal disease,diagnostic
+Read,K02y200,Chronic focal glomerulonephritis,res50: renal disease,diagnostic
+Read,K031.00,Membranous nephritis unspecified,res50: renal disease,diagnostic
+Read,K030.00,Proliferative nephritis unspecified,res50: renal disease,diagnostic
+Read,K03..00,Nephritis and nephropathy unspecified,res50: renal disease,diagnostic
+Read,K03..12,"Nephropathy, unspecified",res50: renal disease,diagnostic
+Read,K03..11,Nephritis and nephropathy unspecified,res50: renal disease,diagnostic
+Read,K101.00,Acute pyelonephritis,res50: renal disease,diagnostic
+Read,K0A1.00,Rapidly progressive nephritic syndrome,res50: renal disease,diagnostic
+Read,K053.00,Chronic kidney disease stage 3,res50: renal disease,diagnostic
+Read,K03W.00,"Unsp nephrit synd, diff endocap prolif glomerulonephritis",res50: renal disease,diagnostic
+Read,K03V.00,"Unspecified nephritic syndrome, dense deposit disease",res50: renal disease,diagnostic
+Read,K032z00,Nephritis unsp+membranoprolif glomerulonephritis lesion NOS,res50: renal disease,diagnostic
+Read,K032500,Other familial glomerulonephritis,res50: renal disease,diagnostic
+Read,K032400,Familial glomerulonephritis in Alport's syndrome,res50: renal disease,diagnostic
+Read,K032y15,Mixed membranous and proliferative glomerulonephritis NEC,res50: renal disease,diagnostic
+Read,K032y11,Hypocomplementaemic persistent glomerulonephritis NEC,res50: renal disease,diagnostic
+Read,K032600,Berger's IgA or IgG nephropathy,res50: renal disease,diagnostic
+Read,K032y00,Nephritis unsp+OS membranoprolif glomerulonephritis lesion,res50: renal disease,diagnostic
+Read,K032y14,Mesangiocapillary glomerulonephritis NEC,res50: renal disease,diagnostic
+Read,K032y13,Mesangioproliferative glomerulonephritis NEC,res50: renal disease,diagnostic
+Read,K03U.00,"Unspecif nephr synd, diff concentric glomerulonephritis",res50: renal disease,diagnostic
+Read,K034.00,Renal cortical necrosis unspecified,res50: renal disease,diagnostic
+Read,K033.00,Rapidly progressive nephritis unspecified,res50: renal disease,diagnostic
+Read,K03T.00,"Tubulo-interstit nephritis, not specif as acute or chron",res50: renal disease,diagnostic
+Read,K035.00,Renal medullary necrosis unspecified,res50: renal disease,diagnostic
+Read,K051.00,Chronic kidney disease stage 1,res50: renal disease,diagnostic
+Read,K043300,Acute renal failure induced by cyclosporin A,res50: renal disease,diagnostic
+Read,K042.00,Acute renal medullary necrosis,res50: renal disease,diagnostic
+Read,K03y000,Other nephritis and nephrosis in diseases EC,res50: renal disease,diagnostic
+Read,K03X.00,"Unsp nephrit synd, diff mesang prolif glomerulonephritis",res50: renal disease,diagnostic
+Read,K04..11,ARF - Acute renal failure,res50: renal disease,diagnostic
+Read,K03z.00,Unspecified glomerulonephritis NOS,res50: renal disease,diagnostic
+Read,K03y200,Other interstitial nephritis,res50: renal disease,diagnostic
+Read,K04..00,Acute renal failure,res50: renal disease,diagnostic
+Read,K043100,Acute renal failure induced by aminoglycoside,res50: renal disease,diagnostic
+Read,K043000,Acute renal failure due to ACE inhibitor,res50: renal disease,diagnostic
+Read,K050.00,End stage renal failure,res50: renal disease,diagnostic
+Read,K04B.00,Acute renal failure due to traumatic rhabdomyolysis,res50: renal disease,diagnostic
+Read,K045.00,Acute renal failure due to non-traumatic rhabdomyolysis,res50: renal disease,diagnostic
+Read,K043.00,Acute drug-induced renal failure,res50: renal disease,diagnostic
+Read,K043400,Acute renal failure induced by non-steroid anti-inflamm drug,res50: renal disease,diagnostic
+Read,K05..12,End stage renal failure,res50: renal disease,diagnostic
+Read,K04z.00,Acute renal failure NOS,res50: renal disease,diagnostic
+Read,K04y.00,Other acute renal failure,res50: renal disease,diagnostic
+Read,K05..11,Chronic uraemia,res50: renal disease,diagnostic
+Read,K0A0700,Acute nephrotic syndrm diffuse crescentic glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A0400,Ac neph syn difus endocaplry prolifrative glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A0.00,Acute nephritic syndrome,res50: renal disease,diagnostic
+Read,K08..00,Impaired renal function disorder,res50: renal disease,diagnostic
+Read,K06..11,Uraemia NOS,res50: renal disease,diagnostic
+Read,K06..00,Renal failure unspecified,res50: renal disease,diagnostic
+Read,K054.00,Chronic kidney disease stage 4,res50: renal disease,diagnostic
+Read,K055.00,Chronic kidney disease stage 5,res50: renal disease,diagnostic
+Read,K060.11,Impaired renal function,res50: renal disease,diagnostic
+Read,K06..12,Kidney failure unspecified,res50: renal disease,diagnostic
+Read,K08z.00,Impaired renal function disorder NOS,res50: renal disease,diagnostic
+Read,K08y.00,Other impaired renal function disorder,res50: renal disease,diagnostic
+Read,K080200,Renal infantilism,res50: renal disease,diagnostic
+Read,K080.00,Renal osteodystrophy,res50: renal disease,diagnostic
+Read,K080100,Renal dwarfism,res50: renal disease,diagnostic
+Read,K081.00,Nephrogenic diabetes insipidus,res50: renal disease,diagnostic
+Read,K080300,Renal rickets,res50: renal disease,diagnostic
+Read,K080z00,Renal osteodystrophy NOS,res50: renal disease,diagnostic
+Read,K08yz00,Other impaired renal function disorder NOS,res50: renal disease,diagnostic
+Read,K08y511,AIN - Acute interstitial nephritis,res50: renal disease,diagnostic
+Read,K08y000,Hypokalaemic nephropathy,res50: renal disease,diagnostic
+Read,K08y500,Acute interstitial nephritis,res50: renal disease,diagnostic
+Read,K08yA11,Clinical diabetic nephropathy,res50: renal disease,diagnostic
+Read,K08y513,Acute tubulo-interstitial nephritis,res50: renal disease,diagnostic
+Read,K08y700,Acute infective interstitial nephritis,res50: renal disease,diagnostic
+Read,K05..13,Chronic kidney disease,res50: renal disease,diagnostic
+Read,K0A0200,"Acute nephritic syn, diffuse membranous glomerulonephritis",res50: renal disease,diagnostic
+Read,K0A0000,"Acute nephritic syndrome, minor glomerular abnormality",res50: renal disease,diagnostic
+Read,K052.00,Chronic kidney disease stage 2,res50: renal disease,diagnostic
+Read,K080000,Phosphate-losing tubular disorders,res50: renal disease,diagnostic
+Read,K0A0100,"Acute nephritic syndrome, focal+segmental glomerular lesions",res50: renal disease,diagnostic
+Read,K0A0300,"Acut neph syn, diffuse mesangial prolifrative glomnephritis",res50: renal disease,diagnostic
+Read,K041.00,Acute renal cortical necrosis,res50: renal disease,diagnostic
+Read,K05..00,Chronic renal failure,res50: renal disease,diagnostic
+Read,K0A0600,"Acute nephritic syndrome, dense deposit disease",res50: renal disease,diagnostic
+Read,K044.00,Acute renal failure due to urinary obstruction,res50: renal disease,diagnostic
+Read,K0A0500,"Acute neph syn, diffuse mesangiocapillary glomerulonephritis",res50: renal disease,diagnostic
+Read,K100600,Calculous pyelonephritis,res50: renal disease,diagnostic
+Read,K0A5.00,Hereditary nephropathy not elsewhere classified,res50: renal disease,diagnostic
+Read,K0A1200,Rapid progres neph syn diffuse membranous glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A1100,Rapid progres nephritic syn focal+segmental glomerulr lesion,res50: renal disease,diagnostic
+Read,K0A4X00,"Isolated proteinuria, with oth specif morpholog changes",res50: renal disease,diagnostic
+Read,K0A2700,Recur+persist haematuria difus crescentic glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A1600,"Rapid progressive nephritic syndrome, dense deposit disease",res50: renal disease,diagnostic
+Read,K03y.00,Other nephritis and nephrosis unspecified,res50: renal disease,diagnostic
+Read,K03yz00,Other nephritis and nephrosis NOS,res50: renal disease,diagnostic
+Read,K0A1300,Rpd prog neph syn df mesangial prolifratv glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A2500,Recur+persist hmuria df mesangiocapilary glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A2300,Recur+persist haemuria df mesangial prolif glomerulnephritis,res50: renal disease,diagnostic
+Read,K0A2200,Recur+persist haematuria difus membranous glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A1700,Rapid progres nephritic syn df crescentic glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A4W00,"Isolated proteinuria, with unspecified morpholog changes",res50: renal disease,diagnostic
+Read,K0A3200,Chron nephritic syndrom difuse membranous glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A2800,IgA nephropathy,res50: renal disease,diagnostic
+Read,K0A3100,Chronic nephritic syndrm focal+segmental glomerular lesions,res50: renal disease,diagnostic
+Read,K0A3000,"Chronic nephritic syndrome, minor glomerular abnormality",res50: renal disease,diagnostic
+Read,K0A3.00,Chronic nephritic syndrome,res50: renal disease,diagnostic
+Read,K0A4.00,Isolated proteinuria with specified morphological lesion,res50: renal disease,diagnostic
+Read,K0A3500,Chronic neph syn difus mesangiocapillary glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A3300,Chron neph syn difus mesangial prolifrtiv glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A3700,Chronic nephritic syn diffuse crescentic glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A3600,"Chronic nephritic syndrome, dense deposit disease",res50: renal disease,diagnostic
+Read,K100500,Chronic obstructive pyelonephritis,res50: renal disease,diagnostic
+Read,K0B6.00,Balkan nephropathy,res50: renal disease,diagnostic
+Read,K0A5600,"Hereditary nephropathy, NEC, dense deposit disease",res50: renal disease,diagnostic
+Read,K0A5500,[X]Heredtry nephrpthy NEC difus mesangiocapilry glomneph,res50: renal disease,diagnostic
+Read,K0A5000,"Hereditary nephropathy NEC, minor glomerular abnormality",res50: renal disease,diagnostic
+Read,K0A5300,Heredtry nephrpthy NEC difus mesangial prolif glomnephrit,res50: renal disease,diagnostic
+Read,K0A5100,"Hereditary nephropathy NEC,focal+segmnt glomerular lesion",res50: renal disease,diagnostic
+Read,K0A5200,"Hereditry nephropathy NEC,difus membran glomerulnephritis",res50: renal disease,diagnostic
+Read,K0A8.00,Rapidly progressive glomerulonephritis,res50: renal disease,diagnostic
+Read,K0A5X00,"Hereditary nephropathy, unspecif morphological changes",res50: renal disease,diagnostic
+Read,K100100,Chronic pyelonephritis with medullary necrosis,res50: renal disease,diagnostic
+Read,K0D..00,End-stage renal disease,res50: renal disease,diagnostic
+Read,K0C0.00,Analgesic nephropathy,res50: renal disease,diagnostic
+Read,K0C5.00,Acute drug-induced interstitial nephritis,res50: renal disease,diagnostic
+Read,K0C1.00,Nephropathy induced by other drugs meds and biologl substncs,res50: renal disease,diagnostic
+Read,K0C4.00,"Toxic nephropathy, not elsewhere classified",res50: renal disease,diagnostic
+Read,K0C2.00,Nephropathy induced by unspec drug medicament or biol subs,res50: renal disease,diagnostic
+Read,K100400,Nonobstructive reflux-associated chronic pyelonephritis,res50: renal disease,diagnostic
+Read,K100.00,Chronic pyelonephritis,res50: renal disease,diagnostic
+Read,K0E..00,Acute-on-chronic renal failure,res50: renal disease,diagnostic
+Read,K0z..00,"Nephritis, nephrosis and nephrotic syndrome NOS",res50: renal disease,diagnostic
+Read,K0G..00,Sickle cell nephropathy,res50: renal disease,diagnostic
+Read,K0y..00,"Other specified nephritis, nephrosis or nephrotic syndrome",res50: renal disease,diagnostic
+Read,K100300,Chronic pyonephrosis,res50: renal disease,diagnostic
+Read,K100000,Chronic pyelonephritis without medullary necrosis,res50: renal disease,diagnostic
+Read,K100200,Chronic pyelitis,res50: renal disease,diagnostic
+Read,SP01500,Mechanical complication of dialysis catheter,res50: renal disease,diagnostic
+Read,K101200,Acute pyelitis,res50: renal disease,diagnostic
+Read,K113.11,Hydronephrosis with pelviureteric junction obstruction,res50: renal disease,diagnostic
+Read,K112.00,Hydronephrosis with renal and ureteral calculous obstruction,res50: renal disease,diagnostic
+Read,K105.00,Chronic infective interstitial nephritis,res50: renal disease,diagnostic
+Read,K101300,Acute pyonephrosis,res50: renal disease,diagnostic
+Read,K101z00,Acute pyelonephritis NOS,res50: renal disease,diagnostic
+Read,K111.00,Hydroureteronephrosis,res50: renal disease,diagnostic
+Read,K10y000,Pyelonephritis unspecified,res50: renal disease,diagnostic
+Read,K10y.00,Pyelonephritis and pyonephrosis unspecified,res50: renal disease,diagnostic
+Read,K106.00,Candida pyelonephritis,res50: renal disease,diagnostic
+Read,K10yz00,Unspecified pyelonephritis NOS,res50: renal disease,diagnostic
+Read,K10y400,Pyelitis in diseases EC,res50: renal disease,diagnostic
+Read,K10y200,Pyonephrosis unspecified,res50: renal disease,diagnostic
+Read,K10y300,Pyelonephritis in diseases EC,res50: renal disease,diagnostic
+Read,K10y100,Pyelitis unspecified,res50: renal disease,diagnostic
+Read,K113.00,Hydronephrosis with ureteropelvic junction obstruction,res50: renal disease,diagnostic
+Read,K11..00,Hydronephrosis,res50: renal disease,diagnostic
+Read,Kyu1400,[X]Nephropathy induced by other drugs+biological substances,res50: renal disease,diagnostic
+Read,K190X00,"Persistent proteinuria, unspecified",res50: renal disease,diagnostic
+Read,K136.11,Orthostatic proteinuria,res50: renal disease,diagnostic
+Read,K11X.00,Hydronephrosis with ureteral stricture NEC,res50: renal disease,diagnostic
+Read,K104.00,Xanthogranulomatous pyelonephritis,res50: renal disease,diagnostic
+Read,K136.00,Benign postural proteinuria,res50: renal disease,diagnostic
+Read,K13yB00,Ischaemic nephropathy,res50: renal disease,diagnostic
+Read,Kyu1100,[X]Other and unspecified hydronephrosis,res50: renal disease,diagnostic
+Read,Kyu0F00,"[X]Hereditary nephropathy, unspecif morphological changes",res50: renal disease,diagnostic
+Read,Kyu0900,"[X]Unsp nephrit synd, diff mesang prolif glomerulonephritis",res50: renal disease,diagnostic
+Read,K13yz11,Salt-losing nephritis,res50: renal disease,diagnostic
+Read,Kyu1000,[X]Other chronic tubulo-interstitial nephritis,res50: renal disease,diagnostic
+Read,K11z.00,Hydronephrosis NOS,res50: renal disease,diagnostic
+Read,SK08.00,Acute renal failure due to rhabdomyolysis,res50: renal disease,diagnostic
+Read,L16C100,Gestational oedema with proteinuria,res50: renal disease,diagnostic
+Read,Kyu2000,[X]Other acute renal failure,res50: renal disease,diagnostic
+Read,Kyu2.00,[X]Renal failure,res50: renal disease,diagnostic
+Read,Kyu1F00,[X]Hydronephrosis with ureteral stricture NEC,res50: renal disease,diagnostic
+Read,Kyu1E00,"[X]Tubulo-interstit nephritis, not specif as acute or chron",res50: renal disease,diagnostic
+Read,L16C000,Gestational proteinuria,res50: renal disease,diagnostic
+Read,L093400,Uraemia following abortive pregnancy,res50: renal disease,diagnostic
+Read,L093.00,Renal failure following abortive pregnancy,res50: renal disease,diagnostic
+Read,Kyu5G00,"[X]Persistent proteinuria, unspecified",res50: renal disease,diagnostic
+Read,Kyu2100,[X]Other chronic renal failure,res50: renal disease,diagnostic
+Read,L070300,Unspecified abortion with renal failure,res50: renal disease,diagnostic
+Read,L16C.00,Pregnancy induced oedema+proteinuria without hypertension,res50: renal disease,diagnostic
+Read,L162.13,Uraemia in pregnancy without hypertension,res50: renal disease,diagnostic
+Read,L162.12,Nephropathy NOS in pregnancy without hypertension,res50: renal disease,diagnostic
+Read,SK05.11,Renal failure after crushing,res50: renal disease,diagnostic
+Read,L393200,Post-delivery acute renal failure with postnatal problem,res50: renal disease,diagnostic
+Read,L393.00,Acute renal failure following labour and delivery,res50: renal disease,diagnostic
+Read,L393100,Post-delivery acute renal failure - delivered with p/n prob,res50: renal disease,diagnostic
+Read,L393000,Post-delivery acute renal failure unspecified,res50: renal disease,diagnostic
+Read,SK05.00,Renal failure following crush syndrome,res50: renal disease,diagnostic
+Read,Q48y000,Congenital renal failure,res50: renal disease,diagnostic
+Read,Lyu1.00,"[X]Oedema,proteinuria+hypertens in pregnancy,childbrth,puerp",res50: renal disease,diagnostic
+Read,PD23.00,Congenital hydronephrosis,res50: renal disease,diagnostic
+Read,R08z000,[D]Extrarenal uraemia,res50: renal disease,diagnostic
+Read,SP15412,Post operative renal failure,res50: renal disease,diagnostic
+Read,SP08H00,Acute rejection of renal transplant,res50: renal disease,diagnostic
+Read,SP08D00,Acute-on-chronic rejection of renal transplant,res50: renal disease,diagnostic
+Read,SP05613,[X] Peritoneal dialysis associated peritonitis,res50: renal disease,diagnostic
+Read,SP07G00,Stenosis of arteriovenous dialysis fistula,res50: renal disease,diagnostic
+Read,SP06B00,Continuous ambulatory peritoneal dialysis associated perit,res50: renal disease,diagnostic
+Read,SP08300,Kidney transplant failure and rejection,res50: renal disease,diagnostic
+Read,SP08E00,Acute rejection of renal transplant - grade I,res50: renal disease,diagnostic
+Read,SP08G00,Acute rejection of renal transplant - grade III,res50: renal disease,diagnostic
+Read,SP08F00,Acute rejection of renal transplant - grade II,res50: renal disease,diagnostic
+Read,SP15411,Kidney failure as a complication of care,res50: renal disease,diagnostic
+Read,SP08N00,Unexplained episode of renal transplant dysfunction,res50: renal disease,diagnostic
+Read,SP08J00,Chronic rejection of renal transplant,res50: renal disease,diagnostic
+Read,SP15400,Renal failure as a complication of care,res50: renal disease,diagnostic
+Read,SP08T00,Urological complication of renal transplant,res50: renal disease,diagnostic
+Read,SP08R00,Renal transplant rejection,res50: renal disease,diagnostic
+Read,SP0G.00,Anaphylactoid reaction due to haemodialysis,res50: renal disease,diagnostic
+Read,SP08V00,Very mild acute rejection of renal transplant,res50: renal disease,diagnostic
+Read,SP0F.00,Haemodialysis first use syndrome,res50: renal disease,diagnostic
+Read,SP0E.00,Disorders associated with peritoneal dialysis,res50: renal disease,diagnostic
+Read,SP08W00,Vascular complication of renal transplant,res50: renal disease,diagnostic
+Read,TB11.00,"Kidney dialysis with complication, without blame",res50: renal disease,diagnostic
+Read,TB00100,"Kidney transplant with complication, without blame",res50: renal disease,diagnostic
+Read,TA02000,"Accid cut,puncture,perf,h'ge - kidney dialysis",res50: renal disease,diagnostic
+Read,SP15413,Uraemia - post operative,res50: renal disease,diagnostic
+Read,TA22000,Failure of sterile precautions during kidney dialysis,res50: renal disease,diagnostic
+Read,TB00111,"Renal transplant with complication, without blame",res50: renal disease,diagnostic
+Read,ZV42000,[V]Kidney transplanted,res50: renal disease,diagnostic
+Read,TB11.11,"Renal dialysis with complication, without blame",res50: renal disease,diagnostic

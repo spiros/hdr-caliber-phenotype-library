@@ -1,0 +1,25 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,M16..00,Psoriasis and similar disorders,psoriasis,diagnostic
+Read,M161600,Guttate psoriasis,psoriasis,diagnostic
+Read,M161B00,Psoriasis plantaris,psoriasis,diagnostic
+Read,M161z00,Psoriasis NOS,psoriasis,diagnostic
+Read,M161000,Psoriasis unspecified,psoriasis,diagnostic
+Read,M161200,Psoriasis circinata,psoriasis,diagnostic
+Read,M16y000,Scalp psoriasis,psoriasis,diagnostic
+Read,M161A00,Psoriasis palmaris,psoriasis,diagnostic
+Read,M161400,Psoriasis discoidea,psoriasis,diagnostic
+Read,M161H00,Erythrodermic psoriasis,psoriasis,diagnostic
+Read,M161F00,Psoriasis vulgaris,psoriasis,diagnostic
+Read,M161C00,Psoriasis punctata,psoriasis,diagnostic
+Read,M161100,Psoriasis annularis,psoriasis,diagnostic
+Read,M161E00,Psoriasis universalis,psoriasis,diagnostic
+Read,M161.00,Other psoriasis,psoriasis,diagnostic
+Read,M161500,Psoriasis geographica,psoriasis,diagnostic
+Read,M16z.00,Psoriasis and similar disorders NOS,psoriasis,diagnostic
+Read,M161900,Psoriasis ostracea,psoriasis,diagnostic
+Read,M161800,Psoriasis inveterata,psoriasis,diagnostic
+Read,M161300,Psoriasis diffusa,psoriasis,diagnostic
+Read,M16y.00,Other psoriasis and similar disorders,psoriasis,diagnostic
+Read,M161F11,Chronic large plaque psoriasis,psoriasis,diagnostic
+Read,M161700,Psoriasis gyrata,psoriasis,diagnostic
+Read,Myu3000,[X]Other psoriasis,psoriasis,diagnostic

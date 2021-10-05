@@ -1,0 +1,59 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,G350.00,Subsequent myocardial infarction of anterior wall,myocardial infarction - read,diagnostic
+Read,G30..17,Silent myocardial infarction,myocardial infarction - read,diagnostic
+Read,G30..16,Thrombosis - coronary,myocardial infarction - read,diagnostic
+Read,G30..15,MI - acute myocardial infarction,myocardial infarction - read,diagnostic
+Read,323..00,ECG: myocardial infarction,myocardial infarction - read,diagnostic
+Read,G30..13,Cardiac rupture following myocardial infarction (MI),myocardial infarction - read,diagnostic
+Read,323Z.00,ECG: myocardial infarct NOS,myocardial infarction - read,diagnostic
+Read,G30..12,Coronary thrombosis,myocardial infarction - read,diagnostic
+Read,G30..00,Acute myocardial infarction,myocardial infarction - read,diagnostic
+Read,G307100,Acute non-ST segment elevation myocardial infarction,myocardial infarction - read,diagnostic
+Read,G301100,Acute anteroseptal infarction,myocardial infarction - read,diagnostic
+Read,G300.00,Acute anterolateral infarction,myocardial infarction - read,diagnostic
+Read,G301000,Acute anteroapical infarction,myocardial infarction - read,diagnostic
+Read,G301.00,Other specified anterior myocardial infarction,myocardial infarction - read,diagnostic
+Read,G35..00,Subsequent myocardial infarction,myocardial infarction - read,diagnostic
+Read,G307000,Acute non-Q wave infarction,myocardial infarction - read,diagnostic
+Read,G303.00,Acute inferoposterior infarction,myocardial infarction - read,diagnostic
+Read,G302.00,Acute inferolateral infarction,myocardial infarction - read,diagnostic
+Read,G301z00,Anterior myocardial infarction NOS,myocardial infarction - read,diagnostic
+Read,G307.00,Acute subendocardial infarction,myocardial infarction - read,diagnostic
+Read,G304.00,Posterior myocardial infarction NOS,myocardial infarction - read,diagnostic
+Read,G306.00,True posterior myocardial infarction,myocardial infarction - read,diagnostic
+Read,G305.00,Lateral myocardial infarction NOS,myocardial infarction - read,diagnostic
+Read,G309.00,Acute Q-wave infarct,myocardial infarction - read,diagnostic
+Read,G311500,Acute coronary syndrome,myocardial infarction - read,diagnostic
+Read,G30y.00,Other acute myocardial infarction,myocardial infarction - read,diagnostic
+Read,G308.00,Inferior myocardial infarction NOS,myocardial infarction - read,diagnostic
+Read,G30B.00,Acute posterolateral myocardial infarction,myocardial infarction - read,diagnostic
+Read,G30X.00,Acute transmural myocardial infarction of unspecif site,myocardial infarction - read,diagnostic
+Read,G30X000,Acute ST segment elevation myocardial infarction,myocardial infarction - read,diagnostic
+Read,G311011,MI - myocardial infarction aborted,myocardial infarction - read,diagnostic
+Read,G30y200,Acute septal infarction,myocardial infarction - read,diagnostic
+Read,G30y100,Acute papillary muscle infarction,myocardial infarction - read,diagnostic
+Read,G30yz00,Other acute myocardial infarction NOS,myocardial infarction - read,diagnostic
+Read,G311000,Myocardial infarction aborted,myocardial infarction - read,diagnostic
+Read,G30z.00,Acute myocardial infarction NOS,myocardial infarction - read,diagnostic
+Read,G360.00,Haemopericardium/current comp folow acut myocard infarct,myocardial infarction - read,diagnostic
+Read,G38z.00,"Postoperative myocardial infarction, unspecified",myocardial infarction - read,diagnostic
+Read,G351.00,Subsequent myocardial infarction of inferior wall,myocardial infarction - read,diagnostic
+Read,G353.00,Subsequent myocardial infarction of other sites,myocardial infarction - read,diagnostic
+Read,G35X.00,Subsequent myocardial infarction of unspecified site,myocardial infarction - read,diagnostic
+Read,G384.00,Postoperative subendocardial myocardial infarction,myocardial infarction - read,diagnostic
+Read,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,myocardial infarction - read,diagnostic
+Read,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,myocardial infarction - read,diagnostic
+Read,G381.00,Postoperative transmural myocardial infarction inferior wall,myocardial infarction - read,diagnostic
+Read,G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,myocardial infarction - read,diagnostic
+Read,G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,myocardial infarction - read,diagnostic
+Read,G380.00,Postoperative transmural myocardial infarction anterior wall,myocardial infarction - read,diagnostic
+Read,G38..00,Postoperative myocardial infarction,myocardial infarction - read,diagnostic
+Read,G574011,Cardiac arrest-ventricular fibrillation,myocardial infarction - read,diagnostic
+Read,G575.12,Asystole,myocardial infarction - read,diagnostic
+Read,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site,myocardial infarction - read,diagnostic
+Read,G575.00,Cardiac arrest,myocardial infarction - read,diagnostic
+Read,G575.11,Cardio-respiratory arrest,myocardial infarction - read,diagnostic
+Read,G575z00,"Cardiac arrest, unspecified",myocardial infarction - read,diagnostic
+Read,G575000,Cardiac arrest with successful resuscitation,myocardial infarction - read,diagnostic
+Read,G575100,"Sudden cardiac death, so described",myocardial infarction - read,diagnostic
+Read,Gyu3600,[X]Subsequent myocardial infarction of unspecified site,myocardial infarction - read,diagnostic

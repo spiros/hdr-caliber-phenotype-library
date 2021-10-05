@@ -1,0 +1,21 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B140.00,Malig neop rectosigmoid junct,res24: colon cancer,diagnostic
+Read,B141.00,Malig neop of rectum,res24: colon cancer,diagnostic
+Read,B135.00,Malig neop of appendix,res24: colon cancer,diagnostic
+Read,B134.00,Malig neop of caecum,res24: colon cancer,diagnostic
+Read,B13..00,Malig neop of colon,res24: colon cancer,diagnostic
+Read,B133.00,Malig neop of sigmoid colon,res24: colon cancer,diagnostic
+Read,B132.00,Malig neop of descending colon,res24: colon cancer,diagnostic
+Read,B130.00,Malig neop hepatic flex colon,res24: colon cancer,diagnostic
+Read,B131.00,Malig neop of transverse colon,res24: colon cancer,diagnostic
+Read,B13y.00,Malig neop oth spec site colon,res24: colon cancer,diagnostic
+Read,B136.00,Malig neop of ascending colon,res24: colon cancer,diagnostic
+Read,B138.00,Mal neop overlap lesn of colon,res24: colon cancer,diagnostic
+Read,B137.00,Malig neop splenic flex colon,res24: colon cancer,diagnostic
+Read,B14z.00,Malig neop rectum and anus NOS,res24: colon cancer,diagnostic
+Read,B142.00,Malig neop of anal canal,res24: colon cancer,diagnostic
+Read,B13z.00,Malig neop of colon NOS,res24: colon cancer,diagnostic
+Read,B14..00,Malig neop of rectum and anus,res24: colon cancer,diagnostic
+Read,B14y.00,Malig neop oth rectum and anus,res24: colon cancer,diagnostic
+Read,B142000,Mal neopl of cloacogenic zone,res24: colon cancer,diagnostic
+Read,B143.00,Malig neop of anus unspecified,res24: colon cancer,diagnostic

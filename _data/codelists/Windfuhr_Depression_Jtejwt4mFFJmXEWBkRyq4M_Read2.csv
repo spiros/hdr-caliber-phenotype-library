@@ -1,0 +1,106 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,E112200,"Single major depressive episode, moderate",res38: Depression,diagnostic
+Read,E113300,"Recurrent major depressive episodes, severe, no psychosis",res38: Depression,diagnostic
+Read,2257.00,O/E - depressed,res38: Depression,diagnostic
+Read,Eu34113,[X]Neurotic depression,res38: Depression,diagnostic
+Read,Eu33400,"[X]Recurrent depressive disorder, currently in remission",res38: Depression,diagnostic
+Read,Eu32z14,[X] Reactive depression NOS,res38: Depression,diagnostic
+Read,Eu32z13,[X]Prolonged single episode of reactive depression,res38: Depression,diagnostic
+Read,Eu33313,[X]Recurr severe episodes/major depression+psychotic symptom,res38: Depression,diagnostic
+Read,Eu33312,"[X]Manic-depress psychosis,depressed type+psychotic symptoms",res38: Depression,diagnostic
+Read,Eu33300,[X]Recurrent depress disorder cur epi severe with psyc symp,res38: Depression,diagnostic
+Read,Eu33.13,[X]Recurrent episodes of reactive depression,res38: Depression,diagnostic
+Read,Eu33.12,[X]Recurrent episodes of psychogenic depression,res38: Depression,diagnostic
+Read,Eu33.11,[X]Recurrent episodes of depressive reaction,res38: Depression,diagnostic
+Read,Eu33.00,[X]Recurrent depressive disorder,res38: Depression,diagnostic
+Read,Eu33214,"[X]Vital depression, recurrent without psychotic symptoms",res38: Depression,diagnostic
+Read,Eu33.14,[X]Seasonal depressive disorder,res38: Depression,diagnostic
+Read,Eu33100,"[X]Recurrent depressive disorder, current episode moderate",res38: Depression,diagnostic
+Read,Eu33000,"[X]Recurrent depressive disorder, current episode mild",res38: Depression,diagnostic
+Read,Eu33.15,[X]SAD - Seasonal affective disorder,res38: Depression,diagnostic
+Read,Eu33200,[X]Recurr depress disorder cur epi severe without psyc sympt,res38: Depression,diagnostic
+Read,Eu33212,"[X]Major depression, recurrent without psychotic symptoms",res38: Depression,diagnostic
+Read,Eu33211,[X]Endogenous depression without psychotic symptoms,res38: Depression,diagnostic
+Read,Eu33311,[X]Endogenous depression with psychotic symptoms,res38: Depression,diagnostic
+Read,Eu33314,[X]Recurr severe episodes/psychogenic depressive psychosis,res38: Depression,diagnostic
+Read,Eu33315,[X]Recurrent severe episodes of psychotic depression,res38: Depression,diagnostic
+Read,E11y200,Atypical depressive disorder,res38: Depression,diagnostic
+Read,Eu32z00,"[X]Depressive episode, unspecified",res38: Depression,diagnostic
+Read,9kQ..00,On full dose long term treatment depression - enh serv admin,res38: Depression,diagnostic
+Read,E113.00,Recurrent major depressive episode,res38: Depression,diagnostic
+Read,E001300,Presenile dementia with depression,res38: Depression,diagnostic
+Read,1B17.00,Depressed,res38: Depression,diagnostic
+Read,E113z00,Recurrent major depressive episode NOS,res38: Depression,diagnostic
+Read,Eu33z11,[X]Monopolar depression NOS,res38: Depression,diagnostic
+Read,Eu34100,[X]Dysthymia,res38: Depression,diagnostic
+Read,Eu33z00,"[X]Recurrent depressive disorder, unspecified",res38: Depression,diagnostic
+Read,E118.00,Seasonal affective disorder,res38: Depression,diagnostic
+Read,Eu32y00,[X]Other depressive episodes,res38: Depression,diagnostic
+Read,Eu34111,[X]Depressive neurosis,res38: Depression,diagnostic
+Read,Eu33y00,[X]Other recurrent depressive disorders,res38: Depression,diagnostic
+Read,Eu32A00,"[X]Recurr major depr ep, severe with psych, psych in remiss",res38: Depression,diagnostic
+Read,Eu33316,[X]Recurrent severe episodes/reactive depressive psychosis,res38: Depression,diagnostic
+Read,Eu32y12,[X]Single episode of masked depression NOS,res38: Depression,diagnostic
+Read,E113700,Recurrent depression,res38: Depression,diagnostic
+Read,E112.12,Endogenous depression first episode,res38: Depression,diagnostic
+Read,Eu32600,"[X]Major depression, moderately severe",res38: Depression,diagnostic
+Read,Eu32213,[X]Single episode vital depression w'out psychotic symptoms,res38: Depression,diagnostic
+Read,Eu32800,"[X]Major depression, severe with psychotic symptoms",res38: Depression,diagnostic
+Read,Eu32314,[X]Single episode of reactive depressive psychosis,res38: Depression,diagnostic
+Read,Eu32311,[X]Single episode of major depression and psychotic symptoms,res38: Depression,diagnostic
+Read,E113.11,Endogenous depression - recurrent,res38: Depression,diagnostic
+Read,Eu32211,[X]Single episode agitated depressn w'out psychotic symptoms,res38: Depression,diagnostic
+Read,Eu32.00,[X]Depressive episode,res38: Depression,diagnostic
+Read,Eu20400,[X]Post-schizophrenic depression,res38: Depression,diagnostic
+Read,E204.11,Postnatal depression,res38: Depression,diagnostic
+Read,Eu32212,[X]Single episode major depression w'out psychotic symptoms,res38: Depression,diagnostic
+Read,E2B1.00,Chronic depression,res38: Depression,diagnostic
+Read,E112.13,Endogenous depression first episode,res38: Depression,diagnostic
+Read,E112400,"Single major depressive episode, severe, with psychosis",res38: Depression,diagnostic
+Read,Eu34114,[X]Persistant anxiety depression,res38: Depression,diagnostic
+Read,Eu32y11,[X]Atypical depression,res38: Depression,diagnostic
+Read,E135.00,Agitated depression,res38: Depression,diagnostic
+Read,E112100,"Single major depressive episode, mild",res38: Depression,diagnostic
+Read,E113000,"Recurrent major depressive episodes, unspecified",res38: Depression,diagnostic
+Read,E113400,"Recurrent major depressive episodes, severe, with psychosis",res38: Depression,diagnostic
+Read,E2B0.00,Postviral depression,res38: Depression,diagnostic
+Read,E290.00,Brief depressive reaction,res38: Depression,diagnostic
+Read,E2B..00,Depressive disorder NEC,res38: Depression,diagnostic
+Read,E112z00,Single major depressive episode NOS,res38: Depression,diagnostic
+Read,Eu32.12,[X]Single episode of psychogenic depression,res38: Depression,diagnostic
+Read,E112.14,Endogenous depression,res38: Depression,diagnostic
+Read,Eu32900,"[X]Single major depr ep, severe with psych, psych in remiss",res38: Depression,diagnostic
+Read,E113100,"Recurrent major depressive episodes, mild",res38: Depression,diagnostic
+Read,E11..12,Depressive psychoses,res38: Depression,diagnostic
+Read,E112300,"Single major depressive episode, severe, without psychosis",res38: Depression,diagnostic
+Read,E112.11,Agitated depression,res38: Depression,diagnostic
+Read,E112.00,Single major depressive episode,res38: Depression,diagnostic
+Read,E004300,Arteriosclerotic dementia with depression,res38: Depression,diagnostic
+Read,E200300,Anxiety with depression,res38: Depression,diagnostic
+Read,E11z200,Masked depression,res38: Depression,diagnostic
+Read,E290z00,Brief depressive reaction NOS,res38: Depression,diagnostic
+Read,E291.00,Prolonged depressive reaction,res38: Depression,diagnostic
+Read,E113200,"Recurrent major depressive episodes, moderate",res38: Depression,diagnostic
+Read,Eu32.13,[X]Single episode of reactive depression,res38: Depression,diagnostic
+Read,Eu32.11,[X]Single episode of depressive reaction,res38: Depression,diagnostic
+Read,Eu3y111,[X]Recurrent brief depressive episodes,res38: Depression,diagnostic
+Read,Eu41200,[X]Mixed anxiety and depressive disorder,res38: Depression,diagnostic
+Read,Eu92000,[X]Depressive conduct disorder,res38: Depression,diagnostic
+Read,Eu32200,[X]Severe depressive episode without psychotic symptoms,res38: Depression,diagnostic
+Read,Eu32100,[X]Moderate depressive episode,res38: Depression,diagnostic
+Read,Eu32312,[X]Single episode of psychogenic depressive psychosis,res38: Depression,diagnostic
+Read,E204.00,Neurotic depression reactive type,res38: Depression,diagnostic
+Read,Eu32000,[X]Mild depressive episode,res38: Depression,diagnostic
+Read,Eu53012,[X]Postpartum depression NOS,res38: Depression,diagnostic
+Read,Eu53011,[X]Postnatal depression NOS,res38: Depression,diagnostic
+Read,Eu41211,[X]Mild anxiety depression,res38: Depression,diagnostic
+Read,Eu32300,[X]Severe depressive episode with psychotic symptoms,res38: Depression,diagnostic
+Read,E112000,"Single major depressive episode, unspecified",res38: Depression,diagnostic
+Read,Eu32z11,[X]Depression NOS,res38: Depression,diagnostic
+Read,62T1.00,Puerperal depression,res38: Depression,diagnostic
+Read,Eu32z12,[X]Depressive disorder NOS,res38: Depression,diagnostic
+Read,Eu32313,[X]Single episode of psychotic depression,res38: Depression,diagnostic
+Read,Eu32500,"[X]Major depression, mild",res38: Depression,diagnostic
+Read,Eu32700,"[X]Major depression, severe without psychotic symptoms",res38: Depression,diagnostic
+Read,Eu32400,[X]Mild depression,res38: Depression,diagnostic
+Read,E002100,Senile dementia with depression,res38: Depression,diagnostic

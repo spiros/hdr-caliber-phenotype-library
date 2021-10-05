@@ -1,0 +1,43 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,d7e..,trazodone hydrochloride,res55: antidepressant,drug
+Read,d76..,doxepin,res55: antidepressant,drug
+Read,d7a..,maprotiline,res55: antidepressant,drug
+Read,d79..,lofepramine,res55: antidepressant,drug
+Read,d78..,iprindole,res55: antidepressant,drug
+Read,d71..,amitriptyline hcl [antidepres],res55: antidepressant,drug
+Read,d7..,tricylcic antidepressants ,res55: antidepressant,drug
+Read,d77..,imipramine hcl [antidepress],res55: antidepressant,drug
+Read,d7b..,mianserin hydrochloride,res55: antidepressant,drug
+Read,d72..,butriptyline,res55: antidepressant,drug
+Read,d7d..,protriptyline,res55: antidepressant,drug
+Read,d7c..,nortriptyline,res55: antidepressant,drug
+Read,d7f..,trimipramine,res55: antidepressant,drug
+Read,d73..,clomipramine hydrochloride,res55: antidepressant,drug
+Read,d74..,desipramine,res55: antidepressant,drug
+Read,d75..,dosulepin hydrochloride,res55: antidepressant,drug
+Read,da5..,sertraline hydrochloride,res55: antidepressant,drug
+Read,d7g..,viloxazine,res55: antidepressant,drug
+Read,d8..,monoamine-oxidase inhibitors,res55: antidepressant,drug
+Read,da3..,fluvoxamine maleate,res55: antidepressant,drug
+Read,d9..,compound antidepressant drugs,res55: antidepressant,drug
+Read,d7h..,amoxapine,res55: antidepressant,drug
+Read,d81..,phenelzine,res55: antidepressant,drug
+Read,d85..,moclobemide,res55: antidepressant,drug
+Read,d82..,iproniazid,res55: antidepressant,drug
+Read,da2..,tryptophan,res55: antidepressant,drug
+Read,da..,other antidepressant drugs,res55: antidepressant,drug
+Read,gd1..,*amitriptyline hcl [enuresis],res55: antidepressant,drug
+Read,daA..,reboxetine,res55: antidepressant,drug
+Read,da9..,citalopram,res55: antidepressant,drug
+Read,d83..,isocarboxazid,res55: antidepressant,drug
+Read,d84..,tranylcypromine,res55: antidepressant,drug
+Read,da4..,fluoxetine hydrochloride,res55: antidepressant,drug
+Read,da6..,paroxetine hydrochloride,res55: antidepressant,drug
+Read,da7..,venlafaxine,res55: antidepressant,drug
+Read,da8.,nefazodone,res55: antidepressant,drug
+Read,daB..,mirtazapine,res55: antidepressant,drug
+Read,daC..,escitalopram,res55: antidepressant,drug
+Read,daD..,agomelatine,res55: antidepressant,drug
+Read,gd5..,*imipramine hcl [enuresis],res55: antidepressant,drug
+Read,gde..,duloxetine,res55: antidepressant,drug
+Read,daE.,vortioxetine,res55: antidepressant,drug

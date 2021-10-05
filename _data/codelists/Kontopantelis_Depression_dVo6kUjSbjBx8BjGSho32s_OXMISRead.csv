@@ -1,0 +1,125 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,3004ER,REACTIVE DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3000E,ANXIETY DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3004B,PREGNANCY DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3091PL,DEPRESSION POSTVIRAL,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3004,NEUROSIS DEPRESSIVE,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,7902DC,POSTVIRAL DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,2962R,RECURRENT DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,2962EN,ENDOGENOUS DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3091PF,POSTINFECTIVE DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3004PP,POSTOPERATIVE DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,2962B,DEPRESSION ACUTE,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3091N,INFLUENZAL DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,2962AF,REACTION DEPRESSIVE AFFECTIVE,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3091PN,POSTINFLUENZA DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,2962A,DEPRESSION CHRONIC,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,2960AD,DEPRESSION AGITATED,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,2960AC,CHRONIC AGITATED DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3004A,DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3004AB,OBSERVED DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3004M,MORNING DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3004C,PUERPERAL DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3004AM,MOOD DEPRESSED,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3004E,EXOGENOUS DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+OXMIS,3004CA,POSTNATAL DEPRESSION,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32400,[X]Mild depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E112000,"Single major depressive episode, unspecified",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33.15,[X]SAD - Seasonal affective disorder,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E113z00,Recurrent major depressive episode NOS,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32212,[X]Single episode major depression w'out psychotic symptoms,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32y12,[X]Single episode of masked depression NOS,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E113300,"Recurrent major depressive episodes, severe, no psychosis",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33212,"[X]Major depression, recurrent without psychotic symptoms",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32z00,"[X]Depressive episode, unspecified",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,212S.00,Depression resolved,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E112600,"Single major depressive episode, in full remission",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,1B17.00,Depressed,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E113.00,Recurrent major depressive episode,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,2257.00,O/E - depressed,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32z11,[X]Depression NOS,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33.13,[X]Recurrent episodes of reactive depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32.00,[X]Depressive episode,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E112500,"Single major depressive episode, partial or unspec remission",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33.14,[X]Seasonal depressive disorder,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E204.00,Neurotic depression reactive type,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E290z00,Brief depressive reaction NOS,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33.00,[X]Recurrent depressive disorder,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33211,[X]Endogenous depression without psychotic symptoms,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32z13,[X]Prolonged single episode of reactive depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E113000,"Recurrent major depressive episodes, unspecified",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32z12,[X]Depressive disorder NOS,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,1B1U.00,Symptoms of depression,res43: depression_kontopantelis_bmjqs2012,symptom
+Read,9H92.00,Depression interim review,res43: depression_kontopantelis_bmjqs2012,test
+Read,E113600,"Recurrent major depressive episodes, in full remission",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E113500,"Recurrent major depressive episodes,partial/unspec remission",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E112.14,Endogenous depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,9HA1.00,Removed from depression register,res43: depression_kontopantelis_bmjqs2012,test
+Read,E2B0.00,Postviral depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E113.11,Endogenous depression - recurrent,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33.11,[X]Recurrent episodes of depressive reaction,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E204.11,Postnatal depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E001300,Presenile dementia with depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E290.00,Brief depressive reaction,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E112.11,Agitated depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32000,[X]Mild depressive episode,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E002100,Senile dementia with depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E2B..00,Depressive disorder NEC,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,62T1.00,Puerperal depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32200,[X]Severe depressive episode without psychotic symptoms,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33z00,"[X]Recurrent depressive disorder, unspecified",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33.12,[X]Recurrent episodes of psychogenic depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E118.00,Seasonal affective disorder,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E112z00,Single major depressive episode NOS,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E113100,"Recurrent major depressive episodes, mild",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu34100,[X]Dysthymia,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu53012,[X]Postpartum depression NOS,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E11z200,Masked depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33z11,[X]Monopolar depression NOS,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32.12,[X]Single episode of psychogenic depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E2B1.00,Chronic depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu41200,[X]Mixed anxiety and depressive disorder,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu34114,[X]Persistant anxiety depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33214,"[X]Vital depression, recurrent without psychotic symptoms",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu3y111,[X]Recurrent brief depressive episodes,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E135.00,Agitated depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E004300,Arteriosclerotic dementia with depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E112300,"Single major depressive episode, severe, without psychosis",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33y00,[X]Other recurrent depressive disorders,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32.13,[X]Single episode of reactive depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33200,[X]Recurr depress disorder cur epi severe without psyc sympt,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33000,"[X]Recurrent depressive disorder, current episode mild",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E112.12,Endogenous depression first episode,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32y11,[X]Atypical depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E113200,"Recurrent major depressive episodes, moderate",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32213,[X]Single episode vital depression w'out psychotic symptoms,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E291.00,Prolonged depressive reaction,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu53011,[X]Postnatal depression NOS,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E11y200,Atypical depressive disorder,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E112.13,Endogenous depression first episode,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32211,[X]Single episode agitated depressn w'out psychotic symptoms,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33400,"[X]Recurrent depressive disorder, currently in remission",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E112100,"Single major depressive episode, mild",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E113700,Recurrent depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu34111,[X]Depressive neurosis,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32z14,[X] Reactive depression NOS,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu41211,[X]Mild anxiety depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu92000,[X]Depressive conduct disorder,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E200300,Anxiety with depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E211200,Depressive personality disorder,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,1465.00,H/O: depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,9HA0.00,On depression register,res43: depression_kontopantelis_bmjqs2012,test
+Read,8HHq.00,Referral for guided self-help for depression,res43: depression_kontopantelis_bmjqs2012,test
+Read,9H91.00,Depression medication review,res43: depression_kontopantelis_bmjqs2012,test
+Read,E112200,"Single major depressive episode, moderate",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu33100,"[X]Recurrent depressive disorder, current episode moderate",res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,1B17.11,C/O - feeling depressed,res43: depression_kontopantelis_bmjqs2012,symptom
+Read,Eu32y00,[X]Other depressive episodes,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32.11,[X]Single episode of depressive reaction,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu34113,[X]Neurotic depression,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,Eu32100,[X]Moderate depressive episode,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,E112.00,Single major depressive episode,res43: depression_kontopantelis_bmjqs2012,diagnostic
+Read,1BT..00,Depressed mood,res43: depression_kontopantelis_bmjqs2012,symptom
+Read,1B1U.11,Depressive symptoms,res43: depression_kontopantelis_bmjqs2012,symptom
+Read,9H90.00,Depression annual review,res43: depression_kontopantelis_bmjqs2012,test
+Read,8CAa.00,Patient given advice about management of depression,res43: depression_kontopantelis_bmjqs2012,test

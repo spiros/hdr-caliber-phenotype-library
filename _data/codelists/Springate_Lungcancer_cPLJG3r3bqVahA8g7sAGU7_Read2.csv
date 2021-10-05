@@ -1,0 +1,25 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B220100,Malig neop mucosa of trachea,res24: lung cancer,diagnostic
+Read,B220.00,Malig neop trachea,res24: lung cancer,diagnostic
+Read,B22..00,Malig neop trachea/bronch/lung,res24: lung cancer,diagnostic
+Read,B221000,Malig neop carina of bronchus,res24: lung cancer,diagnostic
+Read,B221.00,Malig neop main bronchus,res24: lung cancer,diagnostic
+Read,B220z00,Malig neop trachea NOS,res24: lung cancer,diagnostic
+Read,B224.00,Malig neop low lobe bronc/lung,res24: lung cancer,diagnostic
+Read,B223z00,Malig neop mid lobe bronc/lung,res24: lung cancer,diagnostic
+Read,B222.00,Malig neop upp lobe bronc/lung,res24: lung cancer,diagnostic
+Read,B221100,Malig neop hilus of lung,res24: lung cancer,diagnostic
+Read,B221z00,Malig neop main bronchus NOS,res24: lung cancer,diagnostic
+Read,B223100,Malig neop middle lobe of lung,res24: lung cancer,diagnostic
+Read,B222100,Malig neop upper lobe of lung,res24: lung cancer,diagnostic
+Read,B222000,Malig neop upper lobe bronchus,res24: lung cancer,diagnostic
+Read,B223000,Malig neop mid lobe bronchus,res24: lung cancer,diagnostic
+Read,B222z00,Malig neop upp bronc/lung NOS,res24: lung cancer,diagnostic
+Read,B223.00,Malig neop mid lobe bronc/lung,res24: lung cancer,diagnostic
+Read,B224z00,Malig neop low lobe bronc/lung,res24: lung cancer,diagnostic
+Read,B224100,Malig neop lower lobe of lung,res24: lung cancer,diagnostic
+Read,B224000,Malig neop lower bronchus,res24: lung cancer,diagnostic
+Read,B226.00,Mesothelioma,res24: lung cancer,diagnostic
+Read,B225.00,Mal neop overlap les bron/lung,res24: lung cancer,diagnostic
+Read,B22y.00,Malig neop oth site bronc/lung,res24: lung cancer,diagnostic
+Read,B22z.00,Malig neop bronchus/lung NOS,res24: lung cancer,diagnostic

@@ -1,0 +1,108 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,Eu34114,[x]persistant anxiety depression,res59: Depression,diagnostic
+Read,Eu32z00,"[x]depressive episode, unspecified",res59: Depression,diagnostic
+Read,Eu32900,"[X]Single major depr ep, severe with psych, psych in remiss",res59: Depression,diagnostic
+Read,Eu33400,"[x]recurrent depressive disorder, currently in remission",res59: Depression,diagnostic
+Read,Eu33211,[x]endogenous depression without psychotic symptoms,res59: Depression,diagnostic
+Read,Eu33300,[X]Recurrent depress disorder cur epi severe with psyc symp,res59: Depression,diagnostic
+Read,Eu33316,[x]recurrent severe episodes/reactive depressive psychosis,res59: Depression,diagnostic
+Read,Eu33313,[x]recurr severe episodes/major depression+psychotic symptom,res59: Depression,diagnostic
+Read,Eu20400,[x]post-schizophrenic depression,res59: Depression,diagnostic
+Read,9kQ..00,on full dose long term treatment depression - enh serv admin,res59: Depression,diagnostic
+Read,Eu33z00,"[x]recurrent depressive disorder, unspecified",res59: Depression,diagnostic
+Read,Eu53011,[X]Postnatal depression NOS,res59: Depression,diagnostic
+Read,E112000,"single major depressive episode, unspecified",res59: Depression,diagnostic
+Read,Eu41211,[x]mild anxiety depression,res59: Depression,diagnostic
+Read,Eu32y12,[x]single episode of masked depression nos,res59: Depression,diagnostic
+Read,Eu33000,"[x]recurrent depressive disorder, current episode mild",res59: Depression,diagnostic
+Read,E112.00,single major depressive episode,res59: Depression,diagnostic
+Read,Eu32400,[x]mild depression,res59: Depression,diagnostic
+Read,Eu33214,"[x]vital depression, recurrent without psychotic symptoms",res59: Depression,diagnostic
+Read,Eu32700,"[x]major depression, severe without psychotic symptoms",res59: Depression,diagnostic
+Read,Eu32313,[x]single episode of psychotic depression,res59: Depression,diagnostic
+Read,Eu32y00,[x]other depressive episodes,res59: Depression,diagnostic
+Read,E113z00,recurrent major depressive episode nos,res59: Depression,diagnostic
+Read,Eu33312,"[x]manic-depress psychosis,depressed type+psychotic symptoms",res59: Depression,diagnostic
+Read,Eu32.11,[x]single episode of depressive reaction,res59: Depression,diagnostic
+Read,E11y200,atypical depressive disorder,res59: Depression,diagnostic
+Read,E2B..00,depressive disorder nec,res59: Depression,diagnostic
+Read,Eu53012,[X]Postpartum depression NOS,res59: Depression,diagnostic
+Read,Eu32z13,[x]prolonged single episode of reactive depression,res59: Depression,diagnostic
+Read,Eu33200,[X]Recurr depress disorder cur epi severe without psyc sympt,res59: Depression,diagnostic
+Read,E118.00,Seasonal affective disorder,res59: Depression,diagnostic
+Read,E112.11,agitated depression,res59: Depression,diagnostic
+Read,E290z00,brief depressive reaction nos,res59: Depression,diagnostic
+Read,Eu32800,"[x]major depression, severe with psychotic symptoms",res59: Depression,diagnostic
+Read,E112400,"single major depressive episode, severe, with psychosis",res59: Depression,diagnostic
+Read,E112100,"single major depressive episode, mild",res59: Depression,diagnostic
+Read,E200300,anxiety with depression,res59: Depression,diagnostic
+Read,E2B1.00,chronic depression,res59: Depression,diagnostic
+Read,E204.11,Postnatal depression,res59: Depression,diagnostic
+Read,Eu32.12,[x]single episode of psychogenic depression,res59: Depression,diagnostic
+Read,E130.11,psychotic reactive depression,res59: Depression,diagnostic
+Read,Eu32211,[X]Single episode agitated depressn w'out psychotic symptoms,res59: Depression,diagnostic
+Read,Eu32600,"[x]major depression, moderately severe",res59: Depression,diagnostic
+Read,E113000,"recurrent major depressive episodes, unspecified",res59: Depression,diagnostic
+Read,Eu32311,[x]single episode of major depression and psychotic symptoms,res59: Depression,diagnostic
+Read,Eu32300,[x]severe depressive episode with psychotic symptoms,res59: Depression,diagnostic
+Read,Eu32.13,[x]single episode of reactive depression,res59: Depression,diagnostic
+Read,Eu32200,[x]severe depressive episode without psychotic symptoms,res59: Depression,diagnostic
+Read,Eu32213,[x]single episode vital depression w'out psychotic symptoms,res59: Depression,diagnostic
+Read,E112200,"single major depressive episode, moderate",res59: Depression,diagnostic
+Read,Eu33.11,[x]recurrent episodes of depressive reaction,res59: Depression,diagnostic
+Read,Eu33315,[x]recurrent severe episodes of psychotic depression,res59: Depression,diagnostic
+Read,Eu33314,[x]recurr severe episodes/psychogenic depressive psychosis,res59: Depression,diagnostic
+Read,Eu32.00,[x]depressive episode,res59: Depression,diagnostic
+Read,Eu32500,"[x]major depression, mild",res59: Depression,diagnostic
+Read,Eu33.00,[x]recurrent depressive disorder,res59: Depression,diagnostic
+Read,E113400,"recurrent major depressive episodes, severe, with psychosis",res59: Depression,diagnostic
+Read,E135.00,agitated depression,res59: Depression,diagnostic
+Read,Eu32z14,[x] reactive depression nos,res59: Depression,diagnostic
+Read,E113.11,endogenous depression - recurrent,res59: Depression,diagnostic
+Read,E113.00,recurrent major depressive episode,res59: Depression,diagnostic
+Read,E113100,"recurrent major depressive episodes, mild",res59: Depression,diagnostic
+Read,E113200,"recurrent major depressive episodes, moderate",res59: Depression,diagnostic
+Read,E112300,"single major depressive episode, severe, without psychosis",res59: Depression,diagnostic
+Read,E112.14,endogenous depression,res59: Depression,diagnostic
+Read,E112.12,endogenous depression first episode,res59: Depression,diagnostic
+Read,E113300,"recurrent major depressive episodes, severe, no psychosis",res59: Depression,diagnostic
+Read,Eu32312,[x]single episode of psychogenic depressive psychosis,res59: Depression,diagnostic
+Read,E112z00,single major depressive episode nos,res59: Depression,diagnostic
+Read,E112.13,endogenous depression first episode,res59: Depression,diagnostic
+Read,E290.00,brief depressive reaction,res59: Depression,diagnostic
+Read,E204.00,neurotic depression reactive type,res59: Depression,diagnostic
+Read,E001300,presenile dementia with depression,res59: Depression,diagnostic
+Read,E113700,recurrent depression,res59: Depression,diagnostic
+Read,Eu33100,"[x]recurrent depressive disorder, current episode moderate",res59: Depression,diagnostic
+Read,E2B0.00,postviral depression,res59: Depression,diagnostic
+Read,E004300,Arteriosclerotic dementia with depression,res59: Depression,diagnostic
+Read,E002100,Senile dementia with depression,res59: Depression,diagnostic
+Read,1B17.00,depressed,res59: Depression,diagnostic
+Read,E291.00,prolonged depressive reaction,res59: Depression,diagnostic
+Read,Eu33.15,[X]SAD - Seasonal affective disorder,res59: Depression,diagnostic
+Read,Eu33.14,[x]seasonal depressive disorder,res59: Depression,diagnostic
+Read,Eu32y11,[x]atypical depression,res59: Depression,diagnostic
+Read,Eu32A00,"[X]Recurr major depr ep, severe with psych, psych in remiss",res59: Depression,diagnostic
+Read,Eu32z12,[x]depressive disorder nos,res59: Depression,diagnostic
+Read,Eu32000,[x]mild depressive episode,res59: Depression,diagnostic
+Read,Eu33311,[x]endogenous depression with psychotic symptoms,res59: Depression,diagnostic
+Read,Eu32100,[x]moderate depressive episode,res59: Depression,diagnostic
+Read,Eu33212,"[x]major depression, recurrent without psychotic symptoms",res59: Depression,diagnostic
+Read,Eu32314,[x]single episode of reactive depressive psychosis,res59: Depression,diagnostic
+Read,Eu32z11,[x]depression nos,res59: Depression,diagnostic
+Read,Eu33z11,[x]monopolar depression nos,res59: Depression,diagnostic
+Read,2257.00,o/e - depressed,res59: Depression,diagnostic
+Read,E11z200,masked depression,res59: Depression,diagnostic
+Read,Eu32212,[x]single episode major depression w'out psychotic symptoms,res59: Depression,diagnostic
+Read,Eu33.12,[x]recurrent episodes of psychogenic depression,res59: Depression,diagnostic
+Read,Eu33.13,[x]recurrent episodes of reactive depression,res59: Depression,diagnostic
+Read,Eu33y00,[x]other recurrent depressive disorders,res59: Depression,diagnostic
+Read,E11..12,depressive psychoses,res59: Depression,diagnostic
+Read,Eu92000,[x]depressive conduct disorder,res59: Depression,diagnostic
+Read,Eu34113,[x]neurotic depression,res59: Depression,diagnostic
+Read,Eu41200,[x]mixed anxiety and depressive disorder,res59: Depression,diagnostic
+Read,62T1.00,puerperal depression,res59: Depression,diagnostic
+Read,Eu34111,[x]depressive neurosis,res59: Depression,diagnostic
+Read,Eu3y111,[x]recurrent brief depressive episodes,res59: Depression,diagnostic
+Read,Eu34100,[x]dysthymia,res59: Depression,diagnostic
+Read,E130.00,reactive depressive psychosis,res59: Depression,diagnostic

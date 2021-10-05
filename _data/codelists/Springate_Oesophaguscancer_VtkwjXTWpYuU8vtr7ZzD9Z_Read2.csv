@@ -1,0 +1,11 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,B105.00,Malig neop low 1/3 oesophagus,res24: oesophagus cancer,diagnostic
+Read,B104.00,Malig neop mid 1/3 oesophagus,res24: oesophagus cancer,diagnostic
+Read,B100.00,Malig neop cervical oesophagus,res24: oesophagus cancer,diagnostic
+Read,B103.00,Malig neop upp 1/3 oesophagus,res24: oesophagus cancer,diagnostic
+Read,B101.00,Malig neop thoracic oesophagus,res24: oesophagus cancer,diagnostic
+Read,B102.00,Malig neop abdominal oesophag,res24: oesophagus cancer,diagnostic
+Read,B10z.00,Malig neop oesophagus NOS,res24: oesophagus cancer,diagnostic
+Read,B10y.00,Malig neop oth spec part oesop,res24: oesophagus cancer,diagnostic
+Read,B106.00,Mal neopl overlap lesn oesoph,res24: oesophagus cancer,diagnostic
+Read,B10..00,Malig neop oesophagus,res24: oesophagus cancer,diagnostic

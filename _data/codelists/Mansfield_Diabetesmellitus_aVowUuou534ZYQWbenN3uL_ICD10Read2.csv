@@ -1,0 +1,699 @@
+Coding System (ICD-10 Read),Codes,Description,Entity type,Category
+ICD-10,E13.1,other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E13.0,other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E13,other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E11.9,non-insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E11.8,non-insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E11.7,non-insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E11.4,non-insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E11,non-insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E10.9,insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E10.7,insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E10.8,insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E11.3,non-insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E11.6,non-insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E11.2,non-insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E11.1,non-insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E11.0,non-insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E11.5,non-insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,H28.0,diabetic cataract,res30: Diabetes mellitus,diagnostic
+ICD-10,E14.4,unspecified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E13.7,other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E14.3,unspecified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E13.6,other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E13.2,other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E13.5,other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E13.3,other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E13.4,other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E13.8,other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E14.2,unspecified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E13.9,other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E14.1,unspecified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E14.0,unspecified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E14,unspecified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,G63.2,diabetic polyneuropathy,res30: Diabetes mellitus,diagnostic
+ICD-10,E14.5,unspecified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,G59.0,diabetic mononeuropathy,res30: Diabetes mellitus,diagnostic
+ICD-10,E14.6,unspecified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E14.8,unspecified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E14.7,unspecified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E14.9,unspecified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,H36.0,diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+ICD-10,M14.2,diabetic arthropathy,res30: Diabetes mellitus,diagnostic
+ICD-10,Y42.3,insulin and oral hypoglycaemic [antidiabetic] drugs,res30: Diabetes mellitus,diagnostic
+ICD-10,N08.3,glomerular disorders in diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E10,insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E10.0,insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E10.6,insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E10.2,insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E10.1,insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E10.5,insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E10.3,insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+ICD-10,E10.4,insulin-dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,9OL5.00,diabetes monitoring 2nd letter,res30: Diabetes mellitus,diagnostic
+Read,C110.11,insulin coma,res30: Diabetes mellitus,diagnostic
+Read,2BBL.00,o/e - diabetic maculopathy present both eyes,res30: Diabetes mellitus,diagnostic
+Read,C10F211,type ii diabetes mellitus with neurological complications,res30: Diabetes mellitus,diagnostic
+Read,C109700,non-insulin dependent diabetes mellitus - poor control,res30: Diabetes mellitus,diagnostic
+Read,C10E112,insulin-dependent diabetes mellitus with ophthalmic comps,res30: Diabetes mellitus,diagnostic
+Read,C109.11,niddm - non-insulin dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,9NiD.00,did not attend desmond diabetes structured education program,res30: Diabetes mellitus,diagnostic
+Read,8BL2.00,patient on maximal tolerated therapy for diabetes,res30: Diabetes mellitus,diagnostic
+Read,C10EL11,type i diabetes mellitus with persistent microalbuminuria,res30: Diabetes mellitus,diagnostic
+Read,2BBS.00,o/e - left eye preproliferative diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,9b92000,diabetic medicine,res30: Diabetes mellitus,diagnostic
+Read,C109012,type 2 diabetes mellitus with renal complications,res30: Diabetes mellitus,diagnostic
+Read,8I81.00,did not complete diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,C109F00,non-insulin-dependent d m with peripheral angiopath,res30: Diabetes mellitus,diagnostic
+Read,8I2S.00,glitazones contraindicated,res30: Diabetes mellitus,diagnostic
+Read,C104y00,other specified diabetes mellitus with renal complications,res30: Diabetes mellitus,diagnostic
+Read,C10FM11,type ii diabetes mellitus with persistent microalbuminuria,res30: Diabetes mellitus,diagnostic
+Read,C10EJ00,type 1 diabetes mellitus with neuropathic arthropathy,res30: Diabetes mellitus,diagnostic
+Read,66Ae.00,hba1c target,res30: Diabetes mellitus,diagnostic
+Read,C109011,type ii diabetes mellitus with renal complications,res30: Diabetes mellitus,diagnostic
+Read,C108000,insulin-dependent diabetes mellitus with renal complications,res30: Diabetes mellitus,diagnostic
+Read,C108400,unstable insulin dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,TJ23500,adverse reaction to glipizide,res30: Diabetes mellitus,diagnostic
+Read,M271000,ischaemic ulcer diabetic foot,res30: Diabetes mellitus,diagnostic
+Read,C10EG00,type 1 diabetes mellitus with peripheral angiopathy,res30: Diabetes mellitus,diagnostic
+Read,C106z00,diabetes mellitus nos with neurological manifestation,res30: Diabetes mellitus,diagnostic
+Read,8I83.00,did not complete desmond diabetes structured educat program,res30: Diabetes mellitus,diagnostic
+Read,C350011,bronzed diabetes,res30: Diabetes mellitus,diagnostic
+Read,ZRB4.11,csq - diabetes clinic satisfaction questionnaire,res30: Diabetes mellitus,diagnostic
+Read,C10FD00,type 2 diabetes mellitus with hypoglycaemic coma,res30: Diabetes mellitus,diagnostic
+Read,66Ag.00,insulin needles changed daily,res30: Diabetes mellitus,diagnostic
+Read,C104100,"diabetes mellitus, adult onset, with renal manifestation",res30: Diabetes mellitus,diagnostic
+Read,C10EC11,type i diabetes mellitus with polyneuropathy,res30: Diabetes mellitus,diagnostic
+Read,C10EK00,type 1 diabetes mellitus with persistent proteinuria,res30: Diabetes mellitus,diagnostic
+Read,C10N100,cystic fibrosis related diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C108812,type 1 diabetes mellitus - poor control,res30: Diabetes mellitus,diagnostic
+Read,C10E311,type i diabetes mellitus with multiple complications,res30: Diabetes mellitus,diagnostic
+Read,C106100,"diabetes mellitus, adult onset, + neurological manifestation",res30: Diabetes mellitus,diagnostic
+Read,C10F411,type ii diabetes mellitus with ulcer,res30: Diabetes mellitus,diagnostic
+Read,C109B00,non-insulin dependent diabetes mellitus with polyneuropathy,res30: Diabetes mellitus,diagnostic
+Read,9OLM.00,diabetes structured education programme declined,res30: Diabetes mellitus,diagnostic
+Read,C103z00,diabetes mellitus nos with ketoacidotic coma,res30: Diabetes mellitus,diagnostic
+Read,9NiE.00,did not attend xpert diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,C107z00,diabetes mellitus nos with peripheral circulatory disorder,res30: Diabetes mellitus,diagnostic
+Read,9OLJ.00,dafne diabetes structured education programme completed,res30: Diabetes mellitus,diagnostic
+Read,C101100,"diabetes mellitus, adult onset, with ketoacidosis",res30: Diabetes mellitus,diagnostic
+Read,C10FE11,type ii diabetes mellitus with diabetic cataract,res30: Diabetes mellitus,diagnostic
+Read,C10FL11,type ii diabetes mellitus with persistent proteinuria,res30: Diabetes mellitus,diagnostic
+Read,8Hj4.00,referral to desmond diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,C10E012,insulin-dependent diabetes mellitus with renal complications,res30: Diabetes mellitus,diagnostic
+Read,9OLE.00,attended desmond structured programme,res30: Diabetes mellitus,diagnostic
+Read,C10E511,type i diabetes mellitus with ulcer,res30: Diabetes mellitus,diagnostic
+Read,ZRB5.00,diabetes treatment satisfaction questionnaire,res30: Diabetes mellitus,diagnostic
+Read,66Aj.00,insulin needles changed less than once a day,res30: Diabetes mellitus,diagnostic
+Read,U602317,[x] adverse reaction to glipzide,res30: Diabetes mellitus,diagnostic
+Read,9OLH.00,attended dafne diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,C10E712,insulin dependent diabetes mellitus with retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C10FC11,type ii diabetes mellitus with nephropathy,res30: Diabetes mellitus,diagnostic
+Read,C104000,"diabetes mellitus, juvenile type, with renal manifestation",res30: Diabetes mellitus,diagnostic
+Read,8H4e.00,referral to diabetes special interest general practitioner,res30: Diabetes mellitus,diagnostic
+Read,9Oy..00,diabetes screening administration,res30: Diabetes mellitus,diagnostic
+Read,C108B11,type i diabetes mellitus with mononeuropathy,res30: Diabetes mellitus,diagnostic
+Read,C10N000,secondary diabetes mellitus without complication,res30: Diabetes mellitus,diagnostic
+Read,2G5E.00,o/e - right diabetic foot at low risk,res30: Diabetes mellitus,diagnostic
+Read,9OLF.00,diabetes structured education programme completed,res30: Diabetes mellitus,diagnostic
+Read,2G5B.00,o/e - left diabetic foot at risk,res30: Diabetes mellitus,diagnostic
+Read,C10D.00,diabetes mellitus autosomal dominant type 2,res30: Diabetes mellitus,diagnostic
+Read,9OLB.00,attended diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,ZRB6.11,dwbq - diabetes wellbeing questionnaire,res30: Diabetes mellitus,diagnostic
+Read,66AY.00,diabetic diet - good compliance,res30: Diabetes mellitus,diagnostic
+Read,C10N.00,secondary diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,ZC2CA00,dietary advice for type ii diabetes,res30: Diabetes mellitus,diagnostic
+Read,C10E911,type i diabetes mellitus maturity onset,res30: Diabetes mellitus,diagnostic
+Read,C108.13,type i diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C10EP11,type i diabetes mellitus with exudative maculopathy,res30: Diabetes mellitus,diagnostic
+Read,8A13.00,diabetic stabilisation,res30: Diabetes mellitus,diagnostic
+Read,C10ER00,latent autoimmune diabetes mellitus in adult,res30: Diabetes mellitus,diagnostic
+Read,C109C12,type 2 diabetes mellitus with nephropathy,res30: Diabetes mellitus,diagnostic
+Read,C10E711,type i diabetes mellitus with retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C100000,"diabetes mellitus, juvenile type, no mention of complication",res30: Diabetes mellitus,diagnostic
+Read,9kL..00,insulin initiation - enhanced services administration,res30: Diabetes mellitus,diagnostic
+Read,C109711,type ii diabetes mellitus - poor control,res30: Diabetes mellitus,diagnostic
+Read,9NiA.00,did not attend diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,C108B00,insulin dependent diabetes mellitus with mononeuropathy,res30: Diabetes mellitus,diagnostic
+Read,C10FS00,maternally inherited diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,F372200,asymptomatic diabetic neuropathy,res30: Diabetes mellitus,diagnostic
+Read,C108A11,type i diabetes mellitus without complication,res30: Diabetes mellitus,diagnostic
+Read,C109G00,non-insulin dependent diabetes mellitus with arthropathy,res30: Diabetes mellitus,diagnostic
+Read,8I2P.00,sulphonylureas contraindicated,res30: Diabetes mellitus,diagnostic
+Read,9OL2.00,refuses diabetes monitoring,res30: Diabetes mellitus,diagnostic
+Read,66Ap.00,insulin treatment initiated,res30: Diabetes mellitus,diagnostic
+Read,C10F700,type 2 diabetes mellitus - poor control,res30: Diabetes mellitus,diagnostic
+Read,66Aq.00,diabetic foot screen,res30: Diabetes mellitus,diagnostic
+Read,C10FQ00,type 2 diabetes mellitus with exudative maculopathy,res30: Diabetes mellitus,diagnostic
+Read,8I82.00,did not complete dafne diabetes structured education program,res30: Diabetes mellitus,diagnostic
+Read,44UZ.00,blood glucose 14+ mmol/l,res30: Diabetes mellitus,diagnostic
+Read,9OL3.00,diabetes monitoring default,res30: Diabetes mellitus,diagnostic
+Read,U60231C,[x] adverse reaction to metformin hydrochloride,res30: Diabetes mellitus,diagnostic
+Read,C108412,unstable type 1 diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,66Aa.00,diabetic diet - poor compliance,res30: Diabetes mellitus,diagnostic
+Read,C108912,type 1 diabetes mellitus maturity onset,res30: Diabetes mellitus,diagnostic
+Read,C10B000,steroid induced diabetes mellitus without complication,res30: Diabetes mellitus,diagnostic
+Read,9Nl4.00,seen by general practitioner special interest in diabetes,res30: Diabetes mellitus,diagnostic
+Read,C10FL00,type 2 diabetes mellitus with persistent proteinuria,res30: Diabetes mellitus,diagnostic
+Read,66AJz00,diabetic - poor control nos,res30: Diabetes mellitus,diagnostic
+Read,G73y000,diabetic peripheral angiopathy,res30: Diabetes mellitus,diagnostic
+Read,C100011,insulin dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,2G5F.00,o/e - right diabetic foot at moderate risk,res30: Diabetes mellitus,diagnostic
+Read,66b1.00,diabetic monitoring not required,res30: Diabetes mellitus,diagnostic
+Read,8CP2.00,transition of diabetes care options discussed,res30: Diabetes mellitus,diagnostic
+Read,66AJ000,chronic hyperglycaemia,res30: Diabetes mellitus,diagnostic
+Read,66AV.00,diabetic on insulin and oral treatment,res30: Diabetes mellitus,diagnostic
+Read,8I7B.00,metformin not tolerated,res30: Diabetes mellitus,diagnostic
+Read,2G5I.00,o/e - left diabetic foot at low risk,res30: Diabetes mellitus,diagnostic
+Read,C10EP00,type 1 diabetes mellitus with exudative maculopathy,res30: Diabetes mellitus,diagnostic
+Read,9h4..00,exception reporting: diabetes quality indicators,res30: Diabetes mellitus,diagnostic
+Read,66Ab.00,diabetic foot examination,res30: Diabetes mellitus,diagnostic
+Read,N030100,diabetic charcot arthropathy,res30: Diabetes mellitus,diagnostic
+Read,C10E800,type 1 diabetes mellitus - poor control,res30: Diabetes mellitus,diagnostic
+Read,2G51000,foot abnormality - diabetes related,res30: Diabetes mellitus,diagnostic
+Read,2BBF.00,retinal abnormality - diabetes related,res30: Diabetes mellitus,diagnostic
+Read,2G5J.00,o/e - left diabetic foot at moderate risk,res30: Diabetes mellitus,diagnostic
+Read,F372100,chronic painful diabetic neuropathy,res30: Diabetes mellitus,diagnostic
+Read,TJ23000,adverse reaction to insulins,res30: Diabetes mellitus,diagnostic
+Read,C104z00,diabetes mellitus with nephropathy nos,res30: Diabetes mellitus,diagnostic
+Read,66Ai.00,diabetic 6 month review,res30: Diabetes mellitus,diagnostic
+Read,C107.00,diabetes mellitus with peripheral circulatory disorder,res30: Diabetes mellitus,diagnostic
+Read,C109900,non-insulin-dependent diabetes mellitus without complication,res30: Diabetes mellitus,diagnostic
+Read,C10FH00,type 2 diabetes mellitus with neuropathic arthropathy,res30: Diabetes mellitus,diagnostic
+Read,66AN.00,date diabetic treatment start,res30: Diabetes mellitus,diagnostic
+Read,8H3O.00,non-urgent diabetic admission,res30: Diabetes mellitus,diagnostic
+Read,42W2.00,hb. a1c 7-10% - borderline,res30: Diabetes mellitus,diagnostic
+Read,C10EE00,type 1 diabetes mellitus with hypoglycaemic coma,res30: Diabetes mellitus,diagnostic
+Read,9OL8.00,diabetes monitor.phone invite,res30: Diabetes mellitus,diagnostic
+Read,C10C.00,diabetes mellitus autosomal dominant,res30: Diabetes mellitus,diagnostic
+Read,F420700,high risk proliferative diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C10C.12,maturity onset diabetes in youth type 1,res30: Diabetes mellitus,diagnostic
+Read,C10EL00,type 1 diabetes mellitus with persistent microalbuminuria,res30: Diabetes mellitus,diagnostic
+Read,C101y00,other specified diabetes mellitus with ketoacidosis,res30: Diabetes mellitus,diagnostic
+Read,R054300,[d]widespread diabetic foot gangrene,res30: Diabetes mellitus,diagnostic
+Read,M21yC00,insulin lipohypertrophy,res30: Diabetes mellitus,diagnostic
+Read,9N4p.00,did not attend diabetic retinopathy clinic,res30: Diabetes mellitus,diagnostic
+Read,C109J11,insulin treated non-insulin dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C107200,"diabetes mellitus, adult with gangrene",res30: Diabetes mellitus,diagnostic
+Read,F3y0.00,diabetic mononeuropathy,res30: Diabetes mellitus,diagnostic
+Read,F372.00,polyneuropathy in diabetes,res30: Diabetes mellitus,diagnostic
+Read,66A9.00,understands diet - diabetes,res30: Diabetes mellitus,diagnostic
+Read,2G5K.00,o/e - left diabetic foot at high risk,res30: Diabetes mellitus,diagnostic
+Read,ZRB6.00,diabetes wellbeing questionnaire,res30: Diabetes mellitus,diagnostic
+Read,2G5G.00,o/e - right diabetic foot at high risk,res30: Diabetes mellitus,diagnostic
+Read,9N0m.00,seen in diabetic nurse consultant clinic,res30: Diabetes mellitus,diagnostic
+Read,U602315,[x] adverse reaction to glibenclamide,res30: Diabetes mellitus,diagnostic
+Read,C108712,type 1 diabetes mellitus with retinopathy,res30: Diabetes mellitus,diagnostic
+Read,9OL7.00,diabetes monitor.verbal invite,res30: Diabetes mellitus,diagnostic
+Read,C102000,"diabetes mellitus, juvenile type, with hyperosmolar coma",res30: Diabetes mellitus,diagnostic
+Read,U602300,[x]insul/oral hypoglyc drugs caus adverse eff therapeut use,res30: Diabetes mellitus,diagnostic
+Read,C108J00,insulin dependent diab mell with neuropathic arthropathy,res30: Diabetes mellitus,diagnostic
+Read,9OLZ.00,diabetes monitoring admin.nos,res30: Diabetes mellitus,diagnostic
+Read,C10F311,type ii diabetes mellitus with multiple complications,res30: Diabetes mellitus,diagnostic
+Read,C108900,insulin dependent diabetes maturity onset,res30: Diabetes mellitus,diagnostic
+Read,C10EN00,type 1 diabetes mellitus with ketoacidotic coma,res30: Diabetes mellitus,diagnostic
+Read,C10y.00,diabetes mellitus with other specified manifestation,res30: Diabetes mellitus,diagnostic
+Read,42c1.00,hba1 7 - 10% - borderline control,res30: Diabetes mellitus,diagnostic
+Read,C107.11,diabetes mellitus with gangrene,res30: Diabetes mellitus,diagnostic
+Read,42c0.00,hba1 < 7% - good control,res30: Diabetes mellitus,diagnostic
+Read,ZRbH.00,perceived control of insulin-dependent diabetes,res30: Diabetes mellitus,diagnostic
+Read,Cyu2000,[x]other specified diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C11y000,steroid induced diabetes,res30: Diabetes mellitus,diagnostic
+Read,C103000,"diabetes mellitus, juvenile type, with ketoacidotic coma",res30: Diabetes mellitus,diagnostic
+Read,C105.00,diabetes mellitus with ophthalmic manifestation,res30: Diabetes mellitus,diagnostic
+Read,C108E11,type i diabetes mellitus with hypoglycaemic coma,res30: Diabetes mellitus,diagnostic
+Read,66Af.00,patient diabetes education review,res30: Diabetes mellitus,diagnostic
+Read,C10M.00,lipoatrophic diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C107.12,diabetes with gangrene,res30: Diabetes mellitus,diagnostic
+Read,C10C.11,maturity onset diabetes in youth,res30: Diabetes mellitus,diagnostic
+Read,44V3.00,glucose tol. test diabetic,res30: Diabetes mellitus,diagnostic
+Read,C109D00,non-insulin dependent diabetes mellitus with hypoglyca coma,res30: Diabetes mellitus,diagnostic
+Read,C10FN00,type 2 diabetes mellitus with ketoacidosis,res30: Diabetes mellitus,diagnostic
+Read,9M10.00,informed dissent for diabetes national audit,res30: Diabetes mellitus,diagnostic
+Read,9N0n.00,seen in community diabetes specialist clinic,res30: Diabetes mellitus,diagnostic
+Read,C108500,insulin dependent diabetes mellitus with ulcer,res30: Diabetes mellitus,diagnostic
+Read,C10FK00,hyperosmolar non-ketotic state in type 2 diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,F345000,diabetic mononeuritis multiplex,res30: Diabetes mellitus,diagnostic
+Read,C105z00,diabetes mellitus nos with ophthalmic manifestation,res30: Diabetes mellitus,diagnostic
+Read,66AK.00,diabetic - cooperative patient,res30: Diabetes mellitus,diagnostic
+Read,C10F200,type 2 diabetes mellitus with neurological complications,res30: Diabetes mellitus,diagnostic
+Read,C10E400,unstable type 1 diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,3882,diabetes well being questionnaire,res30: Diabetes mellitus,diagnostic
+Read,C10FE00,type 2 diabetes mellitus with diabetic cataract,res30: Diabetes mellitus,diagnostic
+Read,C109400,non-insulin dependent diabetes mellitus with ulcer,res30: Diabetes mellitus,diagnostic
+Read,K01x111,kimmelstiel - wilson disease,res30: Diabetes mellitus,diagnostic
+Read,8HVU.00,private referral to diabetologist,res30: Diabetes mellitus,diagnostic
+Read,C109E12,type 2 diabetes mellitus with diabetic cataract,res30: Diabetes mellitus,diagnostic
+Read,C10z.00,diabetes mellitus with unspecified complication,res30: Diabetes mellitus,diagnostic
+Read,ZL22500,under care of diabetic liaison nurse,res30: Diabetes mellitus,diagnostic
+Read,9N2d.00,seen by diabetologist,res30: Diabetes mellitus,diagnostic
+Read,C108y00,other specified diabetes mellitus with multiple comps,res30: Diabetes mellitus,diagnostic
+Read,C109212,type 2 diabetes mellitus with neurological complications,res30: Diabetes mellitus,diagnostic
+Read,C109512,type 2 diabetes mellitus with gangrene,res30: Diabetes mellitus,diagnostic
+Read,42c2.00,hba1 > 10% - bad control,res30: Diabetes mellitus,diagnostic
+Read,8HLE.00,diabetology d.v. done,res30: Diabetes mellitus,diagnostic
+Read,66At111,type 2 diabetic dietary review,res30: Diabetes mellitus,diagnostic
+Read,C10F100,type 2 diabetes mellitus with ophthalmic complications,res30: Diabetes mellitus,diagnostic
+Read,C109E00,non-insulin depend diabetes mellitus with diabetic cataract,res30: Diabetes mellitus,diagnostic
+Read,66An.00,diabetes type 1 review,res30: Diabetes mellitus,diagnostic
+Read,66AA.11,injection sites - diabetic,res30: Diabetes mellitus,diagnostic
+Read,2BBM.00,o/e - diabetic maculopathy absent both eyes,res30: Diabetes mellitus,diagnostic
+Read,8Hg4.00,discharged from care of diabetes specialist nurse,res30: Diabetes mellitus,diagnostic
+Read,9OLA.11,diabetes monitored,res30: Diabetes mellitus,diagnostic
+Read,8CS0.00,diabetes care plan agreed,res30: Diabetes mellitus,diagnostic
+Read,889A.00,diab mellit insulin-glucose infus acute myocardial infarct,res30: Diabetes mellitus,diagnostic
+Read,8HTi.00,referral to multidisciplinary diabetic clinic,res30: Diabetes mellitus,diagnostic
+Read,C109000,non-insulin-dependent diabetes mellitus with renal comps,res30: Diabetes mellitus,diagnostic
+Read,C108200,insulin-dependent diabetes mellitus with neurological comps,res30: Diabetes mellitus,diagnostic
+Read,C10E000,type 1 diabetes mellitus with renal complications,res30: Diabetes mellitus,diagnostic
+Read,2BBk.00,o/e - right eye stable treated prolif diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C106000,"diabetes mellitus, juvenile, + neurological manifestation",res30: Diabetes mellitus,diagnostic
+Read,66Ah.00,insulin needles changed for each injection,res30: Diabetes mellitus,diagnostic
+Read,C107300,iddm with peripheral circulatory disorder,res30: Diabetes mellitus,diagnostic
+Read,C108D11,type i diabetes mellitus with nephropathy,res30: Diabetes mellitus,diagnostic
+Read,U602316,[x] adverse reaction to gliclazide,res30: Diabetes mellitus,diagnostic
+Read,ZRBa.00,education score - diabetes,res30: Diabetes mellitus,diagnostic
+Read,C109H12,type 2 diabetes mellitus with neuropathic arthropathy,res30: Diabetes mellitus,diagnostic
+Read,TJ23800,adverse reaction to tolazamide,res30: Diabetes mellitus,diagnostic
+Read,C10EB00,type 1 diabetes mellitus with mononeuropathy,res30: Diabetes mellitus,diagnostic
+Read,TJ23.00,adverse reaction to insulins and antidiabetic agents,res30: Diabetes mellitus,diagnostic
+Read,C109211,type ii diabetes mellitus with neurological complications,res30: Diabetes mellitus,diagnostic
+Read,C108512,type 1 diabetes mellitus with ulcer,res30: Diabetes mellitus,diagnostic
+Read,C103100,"diabetes mellitus, adult onset, with ketoacidotic coma",res30: Diabetes mellitus,diagnostic
+Read,ZRB4.00,diabetes clinic satisfaction questionnaire,res30: Diabetes mellitus,diagnostic
+Read,ZRB5.11,dtsq - diabetes treatment satisfaction questionnaire,res30: Diabetes mellitus,diagnostic
+Read,C10z000,"diabetes mellitus, juvenile type, + unspecified complication",res30: Diabetes mellitus,diagnostic
+Read,9Oy0400,diabetic foot screening invitation third letter,res30: Diabetes mellitus,diagnostic
+Read,C102z00,diabetes mellitus nos with hyperosmolar coma,res30: Diabetes mellitus,diagnostic
+Read,C10EA00,type 1 diabetes mellitus without complication,res30: Diabetes mellitus,diagnostic
+Read,U602318,[x] adverse reaction to gliquidone,res30: Diabetes mellitus,diagnostic
+Read,66Ao.00,diabetes type 2 review,res30: Diabetes mellitus,diagnostic
+Read,C105y00,other specified diabetes mellitus with ophthalmic complicatn,res30: Diabetes mellitus,diagnostic
+Read,C10E600,type 1 diabetes mellitus with gangrene,res30: Diabetes mellitus,diagnostic
+Read,C10yz00,diabetes mellitus nos with other specified manifestation,res30: Diabetes mellitus,diagnostic
+Read,C105000,"diabetes mellitus, juvenile type, + ophthalmic manifestation",res30: Diabetes mellitus,diagnostic
+Read,C108E12,type 1 diabetes mellitus with hypoglycaemic coma,res30: Diabetes mellitus,diagnostic
+Read,C109112,type 2 diabetes mellitus with ophthalmic complications,res30: Diabetes mellitus,diagnostic
+Read,C107000,"diabetes mellitus, juvenile +peripheral circulatory disorder",res30: Diabetes mellitus,diagnostic
+Read,C109A00,non-insulin dependent diabetes mellitus with mononeuropathy,res30: Diabetes mellitus,diagnostic
+Read,8HME.00,listed for diabetology admissn,res30: Diabetes mellitus,diagnostic
+Read,TJ23200,adverse reaction to chlorpropamide,res30: Diabetes mellitus,diagnostic
+Read,8Hl4.00,referral to community diabetes specialist nurse,res30: Diabetes mellitus,diagnostic
+Read,C10FB11,type ii diabetes mellitus with polyneuropathy,res30: Diabetes mellitus,diagnostic
+Read,C10F900,type 2 diabetes mellitus without complication,res30: Diabetes mellitus,diagnostic
+Read,66AW.00,diabetic foot risk assessment,res30: Diabetes mellitus,diagnostic
+Read,66Av.00,diabetic assessment of erectile dysfunction,res30: Diabetes mellitus,diagnostic
+Read,C109H11,type ii diabetes mellitus with neuropathic arthropathy,res30: Diabetes mellitus,diagnostic
+Read,C10E300,type 1 diabetes mellitus with multiple complications,res30: Diabetes mellitus,diagnostic
+Read,C10E100,type 1 diabetes mellitus with ophthalmic complications,res30: Diabetes mellitus,diagnostic
+Read,C108100,insulin-dependent diabetes mellitus with ophthalmic comps,res30: Diabetes mellitus,diagnostic
+Read,F372000,acute painful diabetic neuropathy,res30: Diabetes mellitus,diagnostic
+Read,6761,diabetic pre-pregnancy counselling,res30: Diabetes mellitus,diagnostic
+Read,C109E11,type ii diabetes mellitus with diabetic cataract,res30: Diabetes mellitus,diagnostic
+Read,C10F400,type 2 diabetes mellitus with ulcer,res30: Diabetes mellitus,diagnostic
+Read,ZV6DA00,[v]admitted for commencement of insulin,res30: Diabetes mellitus,diagnostic
+Read,C10F611,type ii diabetes mellitus with retinopathy,res30: Diabetes mellitus,diagnostic
+Read,TJ23900,adverse reaction to tolbutamide,res30: Diabetes mellitus,diagnostic
+Read,C10EF00,type 1 diabetes mellitus with diabetic cataract,res30: Diabetes mellitus,diagnostic
+Read,C10E111,type i diabetes mellitus with ophthalmic complications,res30: Diabetes mellitus,diagnostic
+Read,66Au.00,diabetic erectile dysfunction review,res30: Diabetes mellitus,diagnostic
+Read,C108300,insulin dependent diabetes mellitus with multiple complicatn,res30: Diabetes mellitus,diagnostic
+Read,9NiC.00,did not attend dafne diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,2BBl.00,o/e - left eye stable treated prolif diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,ZV6DB00,[v]admitted for conversion to insulin,res30: Diabetes mellitus,diagnostic
+Read,3883,diabetes treatment satisfaction questionnaire,res30: Diabetes mellitus,diagnostic
+Read,C10FD11,type ii diabetes mellitus with hypoglycaemic coma,res30: Diabetes mellitus,diagnostic
+Read,C109A11,type ii diabetes mellitus with mononeuropathy,res30: Diabetes mellitus,diagnostic
+Read,Cyu2.00,[x]diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,L180600,"pre-existing diabetes mellitus, non-insulin-dependent",res30: Diabetes mellitus,diagnostic
+Read,C10FP00,type 2 diabetes mellitus with ketoacidotic coma,res30: Diabetes mellitus,diagnostic
+Read,C10E512,insulin dependent diabetes mellitus with ulcer,res30: Diabetes mellitus,diagnostic
+Read,8HTe.00,referral to diabetes preconception counselling clinic,res30: Diabetes mellitus,diagnostic
+Read,C10G.00,secondary pancreatic diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,9360,patient held diabetic record issued,res30: Diabetes mellitus,diagnostic
+Read,C10E.12,insulin dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C100z00,diabetes mellitus nos with no mention of complication,res30: Diabetes mellitus,diagnostic
+Read,C10EF12,insulin dependent diabetes mellitus with diabetic cataract,res30: Diabetes mellitus,diagnostic
+Read,C10EE12,insulin dependent diabetes mellitus with hypoglycaemic coma,res30: Diabetes mellitus,diagnostic
+Read,66AQ000,unsuitable for diabetes year of care programme,res30: Diabetes mellitus,diagnostic
+Read,679L000,education in self management of diabetes,res30: Diabetes mellitus,diagnostic
+Read,U60231B,[x] adverse reaction to tolbutamide,res30: Diabetes mellitus,diagnostic
+Read,C10E611,type i diabetes mellitus with gangrene,res30: Diabetes mellitus,diagnostic
+Read,8HgC.00,discharged from diabetes shared care programme,res30: Diabetes mellitus,diagnostic
+Read,Cyu2300,[x]unspecified diabetes mellitus with renal complications,res30: Diabetes mellitus,diagnostic
+Read,7L19J00,subcutaneous injection of exenatide,res30: Diabetes mellitus,diagnostic
+Read,66At100,type ii diabetic dietary review,res30: Diabetes mellitus,diagnostic
+Read,C10E212,insulin-dependent diabetes mellitus with neurological comps,res30: Diabetes mellitus,diagnostic
+Read,8IAs.00,diabetic dietary review declined,res30: Diabetes mellitus,diagnostic
+Read,9OLN.00,diabetes monitor invitation by sms (short message service),res30: Diabetes mellitus,diagnostic
+Read,C10EC12,insulin dependent diabetes mellitus with polyneuropathy,res30: Diabetes mellitus,diagnostic
+Read,66At.00,diabetic dietary review,res30: Diabetes mellitus,diagnostic
+Read,9m0A.00,declined diabetic retinopathy screening,res30: Diabetes mellitus,diagnostic
+Read,9NiZ.00,did not attend diabetes foot screening,res30: Diabetes mellitus,diagnostic
+Read,9NN8.00,under care of diabetologist,res30: Diabetes mellitus,diagnostic
+Read,C10D.11,maturity onset diabetes in youth type 2,res30: Diabetes mellitus,diagnostic
+Read,2BBo.00,o/e - sight threatening diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C101000,"diabetes mellitus, juvenile type, with ketoacidosis",res30: Diabetes mellitus,diagnostic
+Read,68AB.00,diabetic digital retinopathy screening offered,res30: Diabetes mellitus,diagnostic
+Read,C10E412,unstable insulin dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C10F911,type ii diabetes mellitus without complication,res30: Diabetes mellitus,diagnostic
+Read,66At000,type i diabetic dietary review,res30: Diabetes mellitus,diagnostic
+Read,TJ23300,adverse reaction to glibenclamide,res30: Diabetes mellitus,diagnostic
+Read,C109111,type ii diabetes mellitus with ophthalmic complications,res30: Diabetes mellitus,diagnostic
+Read,C109F11,type ii diabetes mellitus with peripheral angiopathy,res30: Diabetes mellitus,diagnostic
+Read,9OL9.00,diabetes monitoring deleted,res30: Diabetes mellitus,diagnostic
+Read,C10F011,type ii diabetes mellitus with renal complications,res30: Diabetes mellitus,diagnostic
+Read,C10EQ00,type 1 diabetes mellitus with gastroparesis,res30: Diabetes mellitus,diagnostic
+Read,C108A00,insulin-dependent diabetes without complication,res30: Diabetes mellitus,diagnostic
+Read,C109D11,type ii diabetes mellitus with hypoglycaemic coma,res30: Diabetes mellitus,diagnostic
+Read,C109200,non-insulin-dependent diabetes mellitus with neuro comps,res30: Diabetes mellitus,diagnostic
+Read,8I3k.00,insulin therapy declined,res30: Diabetes mellitus,diagnostic
+Read,8I57.00,patient held diabetic record declined,res30: Diabetes mellitus,diagnostic
+Read,F420.00,diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C103y00,other specified diabetes mellitus with coma,res30: Diabetes mellitus,diagnostic
+Read,8HHy.00,referral to diabetic register,res30: Diabetes mellitus,diagnostic
+Read,C108D00,insulin dependent diabetes mellitus with nephropathy,res30: Diabetes mellitus,diagnostic
+Read,C10E811,type i diabetes mellitus - poor control,res30: Diabetes mellitus,diagnostic
+Read,C106y00,other specified diabetes mellitus with neurological comps,res30: Diabetes mellitus,diagnostic
+Read,8BAj.00,informed dissent not to carry insulin passport,res30: Diabetes mellitus,diagnostic
+Read,66Aw.00,insulin dose,res30: Diabetes mellitus,diagnostic
+Read,C108112,type 1 diabetes mellitus with ophthalmic complications,res30: Diabetes mellitus,diagnostic
+Read,8CE0200,insulin passport given,res30: Diabetes mellitus,diagnostic
+Read,C108600,insulin dependent diabetes mellitus with gangrene,res30: Diabetes mellitus,diagnostic
+Read,2BBr.00,impaired vision due to diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C108411,unstable type i diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C10EA12,insulin-dependent diabetes without complication,res30: Diabetes mellitus,diagnostic
+Read,66AQ100,declined consent for diabetes year of care programme,res30: Diabetes mellitus,diagnostic
+Read,U60231E,[x] adverse reaction to insulins and antidiabetic agents nos,res30: Diabetes mellitus,diagnostic
+Read,C10G000,secondary pancreatic diabetes mellitus without complication,res30: Diabetes mellitus,diagnostic
+Read,C10FA11,type ii diabetes mellitus with mononeuropathy,res30: Diabetes mellitus,diagnostic
+Read,8BAi.00,insulin passport completed,res30: Diabetes mellitus,diagnostic
+Read,9M00.00,informed consent for diabetes national audit,res30: Diabetes mellitus,diagnostic
+Read,C110000,iatrogenic hyperinsulinism,res30: Diabetes mellitus,diagnostic
+Read,9OLK.00,desmond diabetes structured education programme completed,res30: Diabetes mellitus,diagnostic
+Read,8Hj3.00,referral to dafne diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,9OLG.00,attended xpert diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,8Hj5.00,referral to xpert diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,TJ23z00,adverse reaction to insulins and antidiabetic agents nos,res30: Diabetes mellitus,diagnostic
+Read,C109D12,type 2 diabetes mellitus with hypoglycaemic coma,res30: Diabetes mellitus,diagnostic
+Read,8IE2.00,diabetes care plan declined,res30: Diabetes mellitus,diagnostic
+Read,C10E812,insulin dependent diabetes mellitus - poor control,res30: Diabetes mellitus,diagnostic
+Read,66Ak.00,diabetic monitoring - lower risk albumin excretion,res30: Diabetes mellitus,diagnostic
+Read,C108H11,type i diabetes mellitus with arthropathy,res30: Diabetes mellitus,diagnostic
+Read,ZL62500,referral to diabetes nurse,res30: Diabetes mellitus,diagnostic
+Read,66Al.00,diabetic monitoring - higher risk albumin excretion,res30: Diabetes mellitus,diagnostic
+Read,C108911,type i diabetes mellitus maturity onset,res30: Diabetes mellitus,diagnostic
+Read,66AJ200,loss of hypoglycaemic warning,res30: Diabetes mellitus,diagnostic
+Read,U60231A,[x] adverse reaction to tolazamide,res30: Diabetes mellitus,diagnostic
+Read,93C4.00,patient consent given for addition to diabetic register,res30: Diabetes mellitus,diagnostic
+Read,C108212,type 1 diabetes mellitus with neurological complications,res30: Diabetes mellitus,diagnostic
+Read,C108011,type i diabetes mellitus with renal complications,res30: Diabetes mellitus,diagnostic
+Read,8HKE.00,diabetology d.v. requested,res30: Diabetes mellitus,diagnostic
+Read,C108J11,type i diabetes mellitus with neuropathic arthropathy,res30: Diabetes mellitus,diagnostic
+Read,C106.11,diabetic amyotrophy,res30: Diabetes mellitus,diagnostic
+Read,C10FG00,type 2 diabetes mellitus with arthropathy,res30: Diabetes mellitus,diagnostic
+Read,C109C00,non-insulin dependent diabetes mellitus with nephropathy,res30: Diabetes mellitus,diagnostic
+Read,C109611,type ii diabetes mellitus with retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C107400,niddm with peripheral circulatory disorder,res30: Diabetes mellitus,diagnostic
+Read,C109411,type ii diabetes mellitus with ulcer,res30: Diabetes mellitus,diagnostic
+Read,2G5L.00,o/e - left diabetic foot - ulcerated,res30: Diabetes mellitus,diagnostic
+Read,C108511,type i diabetes mellitus with ulcer,res30: Diabetes mellitus,diagnostic
+Read,66AG.00,diabetic drug side effects,res30: Diabetes mellitus,diagnostic
+Read,66AH200,conversion to insulin by diabetes specialist nurse,res30: Diabetes mellitus,diagnostic
+Read,C10E411,unstable type i diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,F420500,advanced diabetic retinal disease,res30: Diabetes mellitus,diagnostic
+Read,8Hj0.00,referral to diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,C109712,type 2 diabetes mellitus - poor control,res30: Diabetes mellitus,diagnostic
+Read,C108E00,insulin dependent diabetes mellitus with hypoglycaemic coma,res30: Diabetes mellitus,diagnostic
+Read,M21yC11,insulin site lipohypertrophy,res30: Diabetes mellitus,diagnostic
+Read,C108C00,insulin dependent diabetes mellitus with polyneuropathy,res30: Diabetes mellitus,diagnostic
+Read,C102100,"diabetes mellitus, adult onset, with hyperosmolar coma",res30: Diabetes mellitus,diagnostic
+Read,C109500,non-insulin dependent diabetes mellitus with gangrene,res30: Diabetes mellitus,diagnostic
+Read,C100.00,diabetes mellitus with no mention of complication,res30: Diabetes mellitus,diagnostic
+Read,F381300,myasthenic syndrome due to diabetic amyotrophy,res30: Diabetes mellitus,diagnostic
+Read,2G5H.00,o/e - right diabetic foot - ulcerated,res30: Diabetes mellitus,diagnostic
+Read,9N0o.00,seen in community diabetic specialist nurse clinic,res30: Diabetes mellitus,diagnostic
+Read,7L10000,continuous subcutaneous infusion of insulin,res30: Diabetes mellitus,diagnostic
+Read,9OLD.00,diabetic patient unsuitable for digital retinal photography,res30: Diabetes mellitus,diagnostic
+Read,C109K00,hyperosmolar non-ketotic state in type 2 diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,67D8.00,provision of diabetes clinical summary,res30: Diabetes mellitus,diagnostic
+Read,C10F.11,type ii diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,8Hlc.00,referral to community diabetes service,res30: Diabetes mellitus,diagnostic
+Read,C10FG11,type ii diabetes mellitus with arthropathy,res30: Diabetes mellitus,diagnostic
+Read,8Hl1.00,referral for diabetic retinopathy screening,res30: Diabetes mellitus,diagnostic
+Read,8I7C.00,sulphonylureas not tolerated,res30: Diabetes mellitus,diagnostic
+Read,8CE0100,insulin alert patient information booklet given,res30: Diabetes mellitus,diagnostic
+Read,C10EN11,type i diabetes mellitus with ketoacidotic coma,res30: Diabetes mellitus,diagnostic
+Read,8BAm.00,insulin passport checked,res30: Diabetes mellitus,diagnostic
+Read,66At011,type 1 diabetic dietary review,res30: Diabetes mellitus,diagnostic
+Read,K08yA00,proteinuric diabetic nephropathy,res30: Diabetes mellitus,diagnostic
+Read,C109312,type 2 diabetes mellitus with multiple complications,res30: Diabetes mellitus,diagnostic
+Read,K27y700,erectile dysfunction due to diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,8HTE100,referral to community diabetes clinic,res30: Diabetes mellitus,diagnostic
+Read,C10FP11,type ii diabetes mellitus with ketoacidotic coma,res30: Diabetes mellitus,diagnostic
+Read,2G5d.00,o/e - left diabetic foot at increased risk,res30: Diabetes mellitus,diagnostic
+Read,679c.00,insulin administration education,res30: Diabetes mellitus,diagnostic
+Read,C109912,type 2 diabetes mellitus without complication,res30: Diabetes mellitus,diagnostic
+Read,9m00.00,eligible for diabetic retinopathy screening,res30: Diabetes mellitus,diagnostic
+Read,8IEa.00,referral to dafne diabetes structured educn prog declined,res30: Diabetes mellitus,diagnostic
+Read,8OA3.00,provision of written information about diabetes and driving,res30: Diabetes mellitus,diagnostic
+Read,K08yA11,clinical diabetic nephropathy,res30: Diabetes mellitus,diagnostic
+Read,9Oy0300,diabetic foot screening invitation second letter,res30: Diabetes mellitus,diagnostic
+Read,9Oy0200,diabetic foot screening invitation first letter,res30: Diabetes mellitus,diagnostic
+Read,679L211,advice about diabetes and driving,res30: Diabetes mellitus,diagnostic
+Read,66o..00,further diabetic monitoring,res30: Diabetes mellitus,diagnostic
+Read,661N400,diabetes self-management plan review,res30: Diabetes mellitus,diagnostic
+Read,66AH100,conversion to insulin in secondary care,res30: Diabetes mellitus,diagnostic
+Read,C10FK11,hyperosmolar non-ketotic state in type ii diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,66AS000,diabetes year of care annual review,res30: Diabetes mellitus,diagnostic
+Read,2G5V.00,o/e - right chronic diabetic foot ulcer,res30: Diabetes mellitus,diagnostic
+Read,TJ23400,adverse reaction to gliclazide,res30: Diabetes mellitus,diagnostic
+Read,C10z100,"diabetes mellitus, adult onset, + unspecified complication",res30: Diabetes mellitus,diagnostic
+Read,C10FF00,type 2 diabetes mellitus with peripheral angiopathy,res30: Diabetes mellitus,diagnostic
+Read,C108711,type i diabetes mellitus with retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C10E900,type 1 diabetes mellitus maturity onset,res30: Diabetes mellitus,diagnostic
+Read,C109H00,non-insulin dependent d m with neuropathic arthropathy,res30: Diabetes mellitus,diagnostic
+Read,C105100,"diabetes mellitus, adult onset, + ophthalmic manifestation",res30: Diabetes mellitus,diagnostic
+Read,C101z00,diabetes mellitus nos with ketoacidosis,res30: Diabetes mellitus,diagnostic
+Read,C109612,type 2 diabetes mellitus with retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C10E200,type 1 diabetes mellitus with neurological complications,res30: Diabetes mellitus,diagnostic
+Read,C108F00,insulin dependent diabetes mellitus with diabetic cataract,res30: Diabetes mellitus,diagnostic
+Read,C10E312,insulin dependent diabetes mellitus with multiple complicat,res30: Diabetes mellitus,diagnostic
+Read,C10EC00,type 1 diabetes mellitus with polyneuropathy,res30: Diabetes mellitus,diagnostic
+Read,C108811,type i diabetes mellitus - poor control,res30: Diabetes mellitus,diagnostic
+Read,C10F711,type ii diabetes mellitus - poor control,res30: Diabetes mellitus,diagnostic
+Read,8A12.00,diabetic crisis monitoring,res30: Diabetes mellitus,diagnostic
+Read,C109B11,type ii diabetes mellitus with polyneuropathy,res30: Diabetes mellitus,diagnostic
+Read,C108211,type i diabetes mellitus with neurological complications,res30: Diabetes mellitus,diagnostic
+Read,2G5W.00,o/e - left chronic diabetic foot ulcer,res30: Diabetes mellitus,diagnostic
+Read,C109G12,type 2 diabetes mellitus with arthropathy,res30: Diabetes mellitus,diagnostic
+Read,C109100,non-insulin-dependent diabetes mellitus with ophthalm comps,res30: Diabetes mellitus,diagnostic
+Read,L180500,"pre-existing diabetes mellitus, insulin-dependent",res30: Diabetes mellitus,diagnostic
+Read,C108012,type 1 diabetes mellitus with renal complications,res30: Diabetes mellitus,diagnostic
+Read,R054200,[d]gangrene of toe in diabetic,res30: Diabetes mellitus,diagnostic
+Read,L180X00,"pre-existing diabetes mellitus, unspecified",res30: Diabetes mellitus,diagnostic
+Read,C10F500,type 2 diabetes mellitus with gangrene,res30: Diabetes mellitus,diagnostic
+Read,N030011,diabetic cheiropathy,res30: Diabetes mellitus,diagnostic
+Read,ZLD7500,discharge by diabetic liaison nurse,res30: Diabetes mellitus,diagnostic
+Read,C109F12,type 2 diabetes mellitus with peripheral angiopathy,res30: Diabetes mellitus,diagnostic
+Read,C109300,non-insulin-dependent diabetes mellitus with multiple comps,res30: Diabetes mellitus,diagnostic
+Read,C10y100,"diabetes mellitus, adult, + other specified manifestation",res30: Diabetes mellitus,diagnostic
+Read,C10FR00,type 2 diabetes mellitus with gastroparesis,res30: Diabetes mellitus,diagnostic
+Read,C10zy00,other specified diabetes mellitus with unspecified comps,res30: Diabetes mellitus,diagnostic
+Read,F420800,high risk non proliferative diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C109412,type 2 diabetes mellitus with ulcer,res30: Diabetes mellitus,diagnostic
+Read,C10EM11,type i diabetes mellitus with ketoacidosis,res30: Diabetes mellitus,diagnostic
+Read,ZC2C900,dietary advice for type i diabetes,res30: Diabetes mellitus,diagnostic
+Read,66Am.00,insulin dose changed,res30: Diabetes mellitus,diagnostic
+Read,9OLL.00,xpert diabetes structured education programme completed,res30: Diabetes mellitus,diagnostic
+Read,8I84.00,did not complete xpert diabetes structured education program,res30: Diabetes mellitus,diagnostic
+Read,9N1o.00,seen in multidisciplinary diabetic clinic,res30: Diabetes mellitus,diagnostic
+Read,C10E912,insulin dependent diabetes maturity onset,res30: Diabetes mellitus,diagnostic
+Read,Kyu0300,[x]glomerular disorders in diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,TJ23B00,adverse reaction to glucagon,res30: Diabetes mellitus,diagnostic
+Read,C10F111,type ii diabetes mellitus with ophthalmic complications,res30: Diabetes mellitus,diagnostic
+Read,66As.00,diabetic on subcutaneous treatment,res30: Diabetes mellitus,diagnostic
+Read,C10ED12,insulin dependent diabetes mellitus with nephropathy,res30: Diabetes mellitus,diagnostic
+Read,C109511,type ii diabetes mellitus with gangrene,res30: Diabetes mellitus,diagnostic
+Read,7L10011,subcutaneous infusion with insulin pump,res30: Diabetes mellitus,diagnostic
+Read,C10F511,type ii diabetes mellitus with gangrene,res30: Diabetes mellitus,diagnostic
+Read,C10FF11,type ii diabetes mellitus with peripheral angiopathy,res30: Diabetes mellitus,diagnostic
+Read,8CMW700,diabetes clinical pathway,res30: Diabetes mellitus,diagnostic
+Read,2G5e.00,o/e - right diabetic foot at increased risk,res30: Diabetes mellitus,diagnostic
+Read,8IEQ.00,referral to community diabetes specialist nurse declined,res30: Diabetes mellitus,diagnostic
+Read,C10FN11,type ii diabetes mellitus with ketoacidosis,res30: Diabetes mellitus,diagnostic
+Read,9Oy0000,diabetic foot screening invitation,res30: Diabetes mellitus,diagnostic
+Read,679L200,education about diabetes and driving,res30: Diabetes mellitus,diagnostic
+Read,C108311,type i diabetes mellitus with multiple complications,res30: Diabetes mellitus,diagnostic
+Read,C108G00,insulin dependent diab mell with peripheral angiopathy,res30: Diabetes mellitus,diagnostic
+Read,66AS.00,diabetic annual review,res30: Diabetes mellitus,diagnostic
+Read,C10EA11,type i diabetes mellitus without complication,res30: Diabetes mellitus,diagnostic
+Read,F372.11,diabetic polyneuropathy,res30: Diabetes mellitus,diagnostic
+Read,3881,education score - diabetes,res30: Diabetes mellitus,diagnostic
+Read,C100112,non-insulin dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C101.00,diabetes mellitus with ketoacidosis,res30: Diabetes mellitus,diagnostic
+Read,C10F.00,type 2 diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,66A2.00,follow-up diabetic assessment,res30: Diabetes mellitus,diagnostic
+Read,C10..00,diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C108.00,insulin dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C10E.00,type 1 diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C10FJ00,insulin treated type 2 diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C109.00,non-insulin dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,9N1Q.00,seen in diabetic clinic,res30: Diabetes mellitus,diagnostic
+Read,R105712,[d]hyperglycaemia,res30: Diabetes mellitus,diagnostic
+Read,66A4.00,diabetic on oral treatment,res30: Diabetes mellitus,diagnostic
+Read,66AJ.00,diabetic - poor control,res30: Diabetes mellitus,diagnostic
+Read,F381311,diabetic amyotrophy,res30: Diabetes mellitus,diagnostic
+Read,F372.12,diabetic neuropathy,res30: Diabetes mellitus,diagnostic
+Read,F420400,diabetic maculopathy,res30: Diabetes mellitus,diagnostic
+Read,66AJ100,brittle diabetes,res30: Diabetes mellitus,diagnostic
+Read,K01x100,nephrotic syndrome in diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C104.11,diabetic nephropathy,res30: Diabetes mellitus,diagnostic
+Read,66A..00,diabetic monitoring,res30: Diabetes mellitus,diagnostic
+Read,F420200,preproliferative diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,F420100,proliferative diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C107100,"diabetes mellitus, adult, + peripheral circulatory disorder",res30: Diabetes mellitus,diagnostic
+Read,9N1v.00,seen in diabetic eye clinic,res30: Diabetes mellitus,diagnostic
+Read,9NM0.00,attending diabetes clinic,res30: Diabetes mellitus,diagnostic
+Read,66A3.00,diabetic on diet only,res30: Diabetes mellitus,diagnostic
+Read,U602312,[x] adverse reaction to insulins,res30: Diabetes mellitus,diagnostic
+Read,M037200,cellulitis in diabetic foot,res30: Diabetes mellitus,diagnostic
+Read,1434,h/o: diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C108700,insulin dependent diabetes mellitus with retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C108800,insulin dependent diabetes mellitus - poor control,res30: Diabetes mellitus,diagnostic
+Read,F420000,background diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,14F4.00,h/o: admission in last year for diabetes foot problem,res30: Diabetes mellitus,diagnostic
+Read,8H2J.00,admit diabetic emergency,res30: Diabetes mellitus,diagnostic
+Read,42W..00,hb. a1c - diabetic control,res30: Diabetes mellitus,diagnostic
+Read,ZLA2500,seen by diabetic liaison nurse,res30: Diabetes mellitus,diagnostic
+Read,8H7f.00,referral to diabetes nurse,res30: Diabetes mellitus,diagnostic
+Read,8H4F.00,referral to diabetologist,res30: Diabetes mellitus,diagnostic
+Read,C106.12,diabetes mellitus with neuropathy,res30: Diabetes mellitus,diagnostic
+Read,8CA4100,pt advised re diabetic diet,res30: Diabetes mellitus,diagnostic
+Read,9OL..00,diabetes monitoring admin.,res30: Diabetes mellitus,diagnostic
+Read,66AJ.11,unstable diabetes,res30: Diabetes mellitus,diagnostic
+Read,66AR.00,diabetes management plan given,res30: Diabetes mellitus,diagnostic
+Read,66A5.00,diabetic on insulin,res30: Diabetes mellitus,diagnostic
+Read,M271200,mixed diabetic ulcer - foot,res30: Diabetes mellitus,diagnostic
+Read,9N4I.00,dna - did not attend diabetic clinic,res30: Diabetes mellitus,diagnostic
+Read,Ryu8A00,"[x]hyperglycaemia, unspecified",res30: Diabetes mellitus,diagnostic
+Read,C10FA00,type 2 diabetes mellitus with mononeuropathy,res30: Diabetes mellitus,diagnostic
+Read,ZC2C800,dietary advice for diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,66AH000,conversion to insulin,res30: Diabetes mellitus,diagnostic
+Read,C10ED00,type 1 diabetes mellitus with nephropathy,res30: Diabetes mellitus,diagnostic
+Read,C10yy00,other specified diabetes mellitus with other spec comps,res30: Diabetes mellitus,diagnostic
+Read,F420300,advanced diabetic maculopathy,res30: Diabetes mellitus,diagnostic
+Read,9h41.00,excepted from diabetes qual indicators: patient unsuitable,res30: Diabetes mellitus,diagnostic
+Read,F420600,non proliferative diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,F464000,diabetic cataract,res30: Diabetes mellitus,diagnostic
+Read,C10EM00,type 1 diabetes mellitus with ketoacidosis,res30: Diabetes mellitus,diagnostic
+Read,8HBG.00,diabetic retinopathy 12 month review,res30: Diabetes mellitus,diagnostic
+Read,9N1i.00,seen in diabetic foot clinic,res30: Diabetes mellitus,diagnostic
+Read,66Ac.00,diabetic peripheral neuropathy screening,res30: Diabetes mellitus,diagnostic
+Read,9NN9.00,under care of diabetes specialist nurse,res30: Diabetes mellitus,diagnostic
+Read,8H7r.00,refer to diabetic foot screener,res30: Diabetes mellitus,diagnostic
+Read,2BBP.00,o/e - right eye background diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,44Uz.11,blood hyperglycaemia nos,res30: Diabetes mellitus,diagnostic
+Read,9h42.00,excepted from diabetes quality indicators: informed dissent,res30: Diabetes mellitus,diagnostic
+Read,9NND.00,under care of diabetic foot screener,res30: Diabetes mellitus,diagnostic
+Read,2BBQ.00,o/e - left eye background diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C314.11,renal diabetes,res30: Diabetes mellitus,diagnostic
+Read,M271100,neuropathic diabetic ulcer - foot,res30: Diabetes mellitus,diagnostic
+Read,8B3l.00,diabetes medication review,res30: Diabetes mellitus,diagnostic
+Read,F420z00,diabetic retinopathy nos,res30: Diabetes mellitus,diagnostic
+Read,C10B.00,diabetes mellitus induced by steroids,res30: Diabetes mellitus,diagnostic
+Read,7276,pan retinal photocoagulation for diabetes,res30: Diabetes mellitus,diagnostic
+Read,66AP.00,diabetes: practice programme,res30: Diabetes mellitus,diagnostic
+Read,8H7C.00,"refer, diabetic liaison nurse",res30: Diabetes mellitus,diagnostic
+Read,8CAQ.00,advice about blood glucose control,res30: Diabetes mellitus,diagnostic
+Read,9OL6.00,diabetes monitoring 3rd letter,res30: Diabetes mellitus,diagnostic
+Read,8CR2.00,diabetes clinical management plan,res30: Diabetes mellitus,diagnostic
+Read,679R.00,patient offered diabetes structured education programme,res30: Diabetes mellitus,diagnostic
+Read,66AU.00,diabetes care by hospital only,res30: Diabetes mellitus,diagnostic
+Read,8I3X.00,diabetic retinopathy screening refused,res30: Diabetes mellitus,diagnostic
+Read,8I6G.00,diabetic foot examination not indicated,res30: Diabetes mellitus,diagnostic
+Read,C10E.11,type i diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,66AQ.00,diabetes: shared care programme,res30: Diabetes mellitus,diagnostic
+Read,C10FC00,type 2 diabetes mellitus with nephropathy,res30: Diabetes mellitus,diagnostic
+Read,9N2i.00,seen by diabetic liaison nurse,res30: Diabetes mellitus,diagnostic
+Read,66AC.00,blood sugar charts,res30: Diabetes mellitus,diagnostic
+Read,2BBR.00,o/e - right eye preproliferative diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,2BBK.00,o/e - no left diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,9OLA.00,diabetes monitor. check done,res30: Diabetes mellitus,diagnostic
+Read,13AC.00,diabetic weight reducing diet,res30: Diabetes mellitus,diagnostic
+Read,679L.00,health education - diabetes,res30: Diabetes mellitus,diagnostic
+Read,13B1.00,diabetic diet,res30: Diabetes mellitus,diagnostic
+Read,66AI.00,diabetic - good control,res30: Diabetes mellitus,diagnostic
+Read,66A1.00,initial diabetic assessment,res30: Diabetes mellitus,diagnostic
+Read,66AZ.00,diabetic monitoring nos,res30: Diabetes mellitus,diagnostic
+Read,66A8.00,has seen dietician - diabetes,res30: Diabetes mellitus,diagnostic
+Read,2BBT.00,o/e - right eye proliferative diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,2BBV.00,o/e - left eye proliferative diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,2BBW.00,o/e - right eye diabetic maculopathy,res30: Diabetes mellitus,diagnostic
+Read,2BBJ.00,o/e - no right diabetic retinopathy,res30: Diabetes mellitus,diagnostic
+Read,C10FJ11,insulin treated type ii diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,U602311,[x] adverse reaction to insulins and antidiabetic agents,res30: Diabetes mellitus,diagnostic
+Read,2BBX.00,o/e - left eye diabetic maculopathy,res30: Diabetes mellitus,diagnostic
+Read,13AB.00,diabetic lipid lowering diet,res30: Diabetes mellitus,diagnostic
+Read,9OL..11,diabetes clinic administration,res30: Diabetes mellitus,diagnostic
+Read,C109C11,type ii diabetes mellitus with nephropathy,res30: Diabetes mellitus,diagnostic
+Read,C108z00,unspecified diabetes mellitus with multiple complications,res30: Diabetes mellitus,diagnostic
+Read,C10zz00,diabetes mellitus nos with unspecified complication,res30: Diabetes mellitus,diagnostic
+Read,ZV65312,[v]dietary counselling in diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C102.00,diabetes mellitus with hyperosmolar coma,res30: Diabetes mellitus,diagnostic
+Read,66AD.00,fundoscopy - diabetic check,res30: Diabetes mellitus,diagnostic
+Read,9OL4.00,diabetes monitoring 1st letter,res30: Diabetes mellitus,diagnostic
+Read,C104.00,diabetes mellitus with renal manifestation,res30: Diabetes mellitus,diagnostic
+Read,ZL62600,referral to diabetic liaison nurse,res30: Diabetes mellitus,diagnostic
+Read,42W3.00,hb. a1c > 10% - bad control,res30: Diabetes mellitus,diagnostic
+Read,42W1.00,hb. a1c < 7% - good control,res30: Diabetes mellitus,diagnostic
+Read,66AE.00,feet examination,res30: Diabetes mellitus,diagnostic
+Read,9OL1.00,attends diabetes monitoring,res30: Diabetes mellitus,diagnostic
+Read,42WZ.00,hb. a1c - diabetic control nos,res30: Diabetes mellitus,diagnostic
+Read,C106.13,diabetes mellitus with polyneuropathy,res30: Diabetes mellitus,diagnostic
+Read,44T9.00,glucometer blood sugar,res30: Diabetes mellitus,diagnostic
+Read,66AH.00,diabetic treatment changed,res30: Diabetes mellitus,diagnostic
+Read,C100100,"diabetes mellitus, adult onset, no mention of complication",res30: Diabetes mellitus,diagnostic
+Read,42c..00,hba1 - diabetic control,res30: Diabetes mellitus,diagnostic
+Read,C106.00,diabetes mellitus with neurological manifestation,res30: Diabetes mellitus,diagnostic
+Read,C100111,maturity onset diabetes,res30: Diabetes mellitus,diagnostic
+Read,C103.00,diabetes mellitus with ketoacidotic coma,res30: Diabetes mellitus,diagnostic
+Read,C108H00,insulin dependent diabetes mellitus with arthropathy,res30: Diabetes mellitus,diagnostic
+Read,2G5A.00,o/e - right diabetic foot at risk,res30: Diabetes mellitus,diagnostic
+Read,C10F300,type 2 diabetes mellitus with multiple complications,res30: Diabetes mellitus,diagnostic
+Read,C109J12,insulin treated type ii diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,F171100,autonomic neuropathy due to diabetes,res30: Diabetes mellitus,diagnostic
+Read,13L4.11,diabetic child,res30: Diabetes mellitus,diagnostic
+Read,C108F11,type i diabetes mellitus with diabetic cataract,res30: Diabetes mellitus,diagnostic
+Read,8A17.00,self monitoring of blood glucose,res30: Diabetes mellitus,diagnostic
+Read,F35z000,diabetic mononeuritis nos,res30: Diabetes mellitus,diagnostic
+Read,C109600,non-insulin-dependent diabetes mellitus with retinopathy,res30: Diabetes mellitus,diagnostic
+Read,14P3.00,h/o: insulin therapy,res30: Diabetes mellitus,diagnostic
+Read,F440700,diabetic iritis,res30: Diabetes mellitus,diagnostic
+Read,66AM.00,diabetic - follow-up default,res30: Diabetes mellitus,diagnostic
+Read,C108.12,type 1 diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C108J12,type 1 diabetes mellitus with neuropathic arthropathy,res30: Diabetes mellitus,diagnostic
+Read,7L19800,subcutaneous injection of insulin,res30: Diabetes mellitus,diagnostic
+Read,66AL.00,diabetic-uncooperative patient,res30: Diabetes mellitus,diagnostic
+Read,C109.12,type 2 diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C109G11,type ii diabetes mellitus with arthropathy,res30: Diabetes mellitus,diagnostic
+Read,N030000,diabetic cheiroarthropathy,res30: Diabetes mellitus,diagnostic
+Read,C109.13,type ii diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,2G5C.00,foot abnormality - diabetes related,res30: Diabetes mellitus,diagnostic
+Read,66AT.00,annual diabetic blood test,res30: Diabetes mellitus,diagnostic
+Read,C109J00,insulin treated type 2 diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,68A9.00,diabetic retinopathy screening offered,res30: Diabetes mellitus,diagnostic
+Read,C10FB00,type 2 diabetes mellitus with polyneuropathy,res30: Diabetes mellitus,diagnostic
+Read,C10E700,type 1 diabetes mellitus with retinopathy,res30: Diabetes mellitus,diagnostic
+Read,TJ23A00,adverse reaction to metformin hydrochloride,res30: Diabetes mellitus,diagnostic
+Read,68A7.00,diabetic retinopathy screening,res30: Diabetes mellitus,diagnostic
+Read,C10FM00,type 2 diabetes mellitus with persistent microalbuminuria,res30: Diabetes mellitus,diagnostic
+Read,8HTk.00,referral to diabetic eye clinic,res30: Diabetes mellitus,diagnostic
+Read,C10EH00,type 1 diabetes mellitus with arthropathy,res30: Diabetes mellitus,diagnostic
+Read,C108.11,iddm-insulin dependent diabetes mellitus,res30: Diabetes mellitus,diagnostic
+Read,C10F600,type 2 diabetes mellitus with retinopathy,res30: Diabetes mellitus,diagnostic
+Read,8HBH.00,diabetic retinopathy 6 month review,res30: Diabetes mellitus,diagnostic
+Read,8I3W.00,diabetic foot examination declined,res30: Diabetes mellitus,diagnostic
+Read,C10F000,type 2 diabetes mellitus with renal complications,res30: Diabetes mellitus,diagnostic
+Read,8I6F.00,diabetic retinopathy screening not indicated,res30: Diabetes mellitus,diagnostic
+Read,C10E500,type 1 diabetes mellitus with ulcer,res30: Diabetes mellitus,diagnostic

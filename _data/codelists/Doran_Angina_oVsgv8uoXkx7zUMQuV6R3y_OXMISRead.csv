@@ -1,0 +1,44 @@
+Coding System (OXMIS Read),Codes,Description,Entity type,Category
+OXMIS,4130,ANGINA PECTORIS WITH HYPERTENSION,angina,diagnostic
+OXMIS,4139M,SYNDROME ANGINAL,angina,diagnostic
+OXMIS,4139AT,ANGINA ATYPICAL,angina,diagnostic
+OXMIS,4139PA,ANGINA INVERSA,angina,diagnostic
+OXMIS,4139,ANGINA PECTORIS,angina,diagnostic
+OXMIS,4139AA,ANGINA ATTACK,angina,diagnostic
+OXMIS,4130E,ANGINA EFFORT WITH HYPERTENSION,angina,diagnostic
+OXMIS,4139CO,ANGINA CRESCENDO,angina,diagnostic
+OXMIS,4139E,ANGINA EFFORT,angina,diagnostic
+OXMIS,4139C,CARDIAC ANGINA,angina,diagnostic
+OXMIS,4139U,UNSTABLE ANGINA,angina,diagnostic
+OXMIS,4139N,ANGINA,angina,diagnostic
+Read,G33zz00,Angina pectoris NOS,angina,diagnostic
+Read,G33z200,Syncope anginosa,angina,diagnostic
+Read,G33..00,Angina pectoris,angina,diagnostic
+Read,G311.11,Crescendo angina,angina,diagnostic
+Read,662K300,Angina control - worsening,angina,diagnostic
+Read,G33z500,Post infarct angina,angina,diagnostic
+Read,G33z000,Status anginosus,angina,diagnostic
+Read,G311100,Unstable angina,angina,diagnostic
+Read,G33z400,Ischaemic chest pain,angina,diagnostic
+Read,G330.00,Angina decubitus,angina,diagnostic
+Read,662K000,Angina control - good,angina,diagnostic
+Read,662K100,Angina control - poor,angina,diagnostic
+Read,G343.00,Ischaemic cardiomyopathy,angina,diagnostic
+Read,G33z300,Angina on effort,angina,diagnostic
+Read,G33z100,Stenocardia,angina,diagnostic
+Read,662K200,Angina control - improving,angina,diagnostic
+Read,Gyu3000,[X]Other forms of angina pectoris,angina,diagnostic
+Read,662K.00,Angina control,angina,diagnostic
+Read,G330z00,Angina decubitus NOS,angina,diagnostic
+Read,G311200,Angina at rest,angina,diagnostic
+Read,8B27.00,Antianginal therapy,angina,diagnostic
+Read,14AJ.00,H/O: Angina in last year,angina,diagnostic
+Read,G330000,Nocturnal angina,angina,diagnostic
+Read,662Kz00,Angina control NOS,angina,diagnostic
+Read,G33z.00,Angina pectoris NOS,angina,diagnostic
+Read,G311.13,Unstable angina,angina,diagnostic
+Read,G33z700,Stable angina,angina,diagnostic
+Read,G311.14,Angina at rest,angina,diagnostic
+Read,G33z600,New onset angina,angina,diagnostic
+Read,G311400,Worsening angina,angina,diagnostic
+Read,G311300,Refractory angina,angina,diagnostic

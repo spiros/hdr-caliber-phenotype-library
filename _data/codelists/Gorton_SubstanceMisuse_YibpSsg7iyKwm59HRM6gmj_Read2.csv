@@ -1,0 +1,394 @@
+Coding System (Read),Codes,Description,Entity type,Category
+Read,1T03.00,H/O infrequent heroin misuse,res55: substance_misuse,diagnostic
+Read,1T10.00,H/O daily methadone misuse,res55: substance_misuse,diagnostic
+Read,E24..11,Drug addiction,res55: substance_misuse,diagnostic
+Read,1T0..00,H/O heroin misuse,res55: substance_misuse,diagnostic
+Read,1T01.00,H/O weekly heroin misuse,res55: substance_misuse,diagnostic
+Read,13cC.00,Continuous use of drugs,res55: substance_misuse,diagnostic
+Read,146F.00,H/O: drug abuse,res55: substance_misuse,diagnostic
+Read,13cM.00,Substance misuse,res55: substance_misuse,diagnostic
+Read,13cH.00,Persistent substance misuse,res55: substance_misuse,diagnostic
+Read,13cE.00,Prolonged high dose use of cannabis,res55: substance_misuse,diagnostic
+Read,13c9.00,Subcutaneous drug user,res55: substance_misuse,diagnostic
+Read,13c7.00,Current drug user,res55: substance_misuse,diagnostic
+Read,13c4.00,Intranasal drug user,res55: substance_misuse,diagnostic
+Read,13c..00,Drug user,res55: substance_misuse,diagnostic
+Read,13c6.00,Substance misuse decreased,res55: substance_misuse,diagnostic
+Read,13c3.00,Intramuscular drug user,res55: substance_misuse,diagnostic
+Read,13c8.00,Reduced drugs misuse,res55: substance_misuse,diagnostic
+Read,1T...00,History of substance misuse,res55: substance_misuse,diagnostic
+Read,1T1..00,H/O methadone misuse,res55: substance_misuse,diagnostic
+Read,1T02.00,Previous history of heroin misuse,res55: substance_misuse,diagnostic
+Read,13cA.00,Smokes drugs,res55: substance_misuse,diagnostic
+Read,13cB.00,Misuses drugs orally,res55: substance_misuse,diagnostic
+Read,146C.00,Failed heroin detoxification,res55: substance_misuse,diagnostic
+Read,13cJ.00,Previously injecting drug user,res55: substance_misuse,diagnostic
+Read,13cD.00,Episodic use of drugs,res55: substance_misuse,diagnostic
+Read,13cF.00,Preoccupied with substance misuse,res55: substance_misuse,diagnostic
+Read,1T00.00,H/O daily heroin misuse,res55: substance_misuse,diagnostic
+Read,1T5..00,H/O cocaine misuse,res55: substance_misuse,diagnostic
+Read,9s...00,Drug misuse clinic administration,res55: substance_misuse,diagnostic
+Read,1T60.00,H/O daily crack cocaine misuse,res55: substance_misuse,diagnostic
+Read,9k51.11,Shared care drug misuse treatment,res55: substance_misuse,diagnostic
+Read,1T53.00,Previous history of cocaine misuse,res55: substance_misuse,diagnostic
+Read,1T52.00,H/O infrequent cocaine misuse,res55: substance_misuse,diagnostic
+Read,1T22.00,H/O infrequent ecstasy misuse,res55: substance_misuse,diagnostic
+Read,1T21.00,H/O weekly ecstasy misuse,res55: substance_misuse,diagnostic
+Read,1T12.00,H/O infrequent methadone misuse,res55: substance_misuse,diagnostic
+Read,1T2..00,H/O ecstasy misuse,res55: substance_misuse,diagnostic
+Read,1T51.00,H/O weekly cocaine misuse,res55: substance_misuse,diagnostic
+Read,1T3..00,H/O benzodiazepine misuse,res55: substance_misuse,diagnostic
+Read,1T31.00,H/O weekly benzodiazepine misuse,res55: substance_misuse,diagnostic
+Read,1T50.00,H/O daily cocaine misuse,res55: substance_misuse,diagnostic
+Read,1T40.00,H/O daily amphetamine misuse,res55: substance_misuse,diagnostic
+Read,9HC3.00,Substance misuse clinical management plan reviewed,res55: substance_misuse,diagnostic
+Read,1T81.00,H/O weekly cannabis misuse,res55: substance_misuse,diagnostic
+Read,1T61.00,H/O weekly crack cocaine misuse,res55: substance_misuse,diagnostic
+Read,1T62.00,H/O infrequent crack cocaine misuse,res55: substance_misuse,diagnostic
+Read,1T7..00,H/O hallucinogen misuse,res55: substance_misuse,diagnostic
+Read,1TC0.00,H/O daily anti-depressant misuse,res55: substance_misuse,diagnostic
+Read,1T90.00,H/O daily solvent misuse,res55: substance_misuse,diagnostic
+Read,1TA..00,H/O barbiturate misuse,res55: substance_misuse,diagnostic
+Read,1V6..00,Drug-related offending behaviour,res55: substance_misuse,diagnostic
+Read,1TD1.00,H/O weekly opiate misuse,res55: substance_misuse,diagnostic
+Read,1V00.00,Occasional drug user,res55: substance_misuse,diagnostic
+Read,1V0..00,Misuses drugs,res55: substance_misuse,diagnostic
+Read,1V38.00,Sharing of drug injecting equipment,res55: substance_misuse,diagnostic
+Read,1V08.00,Smokes drugs in cigarette form,res55: substance_misuse,diagnostic
+Read,1V0C.00,Drug addict,res55: substance_misuse,diagnostic
+Read,1V0E.00,Health problem secondary to drug misuse,res55: substance_misuse,diagnostic
+Read,9HC2.00,Substance misuse clinical management plan agreed,res55: substance_misuse,diagnostic
+Read,8B23.11,Drug addictn therap-methadone,res55: substance_misuse,diagnostic
+Read,8B23.00,Drug addiction therapy,res55: substance_misuse,diagnostic
+Read,8BAX.00,Drug dependence home detoxification,res55: substance_misuse,diagnostic
+Read,8B2R.00,Drug addiction detoxification therapy - buprenorphine,res55: substance_misuse,diagnostic
+Read,9G2..00,Drug addiction notification,res55: substance_misuse,diagnostic
+Read,8Hh1.00,Self referral to substance misuse service,res55: substance_misuse,diagnostic
+Read,9G24.00,Drug addict-notify local SMR22,res55: substance_misuse,diagnostic
+Read,9G21.00,Drug addict notific to CMO,res55: substance_misuse,diagnostic
+Read,9G23.00,Drug addict re-notif to CMO,res55: substance_misuse,diagnostic
+Read,9G22.00,Drug addict re-notific due,res55: substance_misuse,diagnostic
+Read,9k51.00,Shared care drug misuse treatment - enhanced services admin,res55: substance_misuse,diagnostic
+Read,9N1yJ00,Seen in drug misuse clinic,res55: substance_misuse,diagnostic
+Read,9K4..00,SMR25a drug misuse initial assessment form,res55: substance_misuse,diagnostic
+Read,9k5..00,Drug misuse - enhanced services administration,res55: substance_misuse,diagnostic
+Read,9k52.00,Drug misuse treatment primary care - enhanced services admin,res55: substance_misuse,diagnostic
+Read,13c5.00,Substance misuse increased,res55: substance_misuse,diagnostic
+Read,13c0.00,Injecting drug user,res55: substance_misuse,diagnostic
+Read,13c1.00,Intravenous drug user,res55: substance_misuse,diagnostic
+Read,1T11.00,H/O weekly methadone misuse,res55: substance_misuse,diagnostic
+Read,1T13.00,Previous history of methadone misuse,res55: substance_misuse,diagnostic
+Read,1T20.00,H/O daily ecstasy misuse,res55: substance_misuse,diagnostic
+Read,1T23.00,Previous history of ecstasy misuse,res55: substance_misuse,diagnostic
+Read,1T30.00,H/O daily benzodiazepine misuse,res55: substance_misuse,diagnostic
+Read,1T32.00,H/O infrequent benzodiazepine misuse,res55: substance_misuse,diagnostic
+Read,1T33.00,Previous history of benzodiazepine misuse,res55: substance_misuse,diagnostic
+Read,1T4..00,H/O amphetamine misuse,res55: substance_misuse,diagnostic
+Read,1T41.00,H/O weekly amphetamine misuse,res55: substance_misuse,diagnostic
+Read,1T42.00,H/O infrequent amphetamine misuse,res55: substance_misuse,diagnostic
+Read,1T43.00,Previous history of amphetamine misuse,res55: substance_misuse,diagnostic
+Read,1T6..00,H/O crack cocaine misuse,res55: substance_misuse,diagnostic
+Read,1T63.00,Previous history of crack cocaine misuse,res55: substance_misuse,diagnostic
+Read,1T73.00,Previous history of hallucinogen misuse,res55: substance_misuse,diagnostic
+Read,1T8..00,H/O cannabis misuse,res55: substance_misuse,diagnostic
+Read,1T80.00,H/O daily cannabis misuse,res55: substance_misuse,diagnostic
+Read,1T82.00,H/O infrequent cannabis misuse,res55: substance_misuse,diagnostic
+Read,1T83.00,Previous history of cannabis misuse,res55: substance_misuse,diagnostic
+Read,1T9..00,H/O solvent misuse,res55: substance_misuse,diagnostic
+Read,1T91.00,H/O weekly solvent misuse,res55: substance_misuse,diagnostic
+Read,1T92.00,H/O infrequent solvent misuse,res55: substance_misuse,diagnostic
+Read,1T93.00,Previous history of solvent misuse,res55: substance_misuse,diagnostic
+Read,1TA3.00,Previous history of barbiturate misuse,res55: substance_misuse,diagnostic
+Read,1TB..00,H/O major tranquilliser misuse,res55: substance_misuse,diagnostic
+Read,1TB0.00,H/O daily major tranquilliser misuse,res55: substance_misuse,diagnostic
+Read,1TC..00,H/O anti-depressant misuse,res55: substance_misuse,diagnostic
+Read,1TC3.00,Previous history of anti-depressant misuse,res55: substance_misuse,diagnostic
+Read,1TD..00,H/O opiate misuse,res55: substance_misuse,diagnostic
+Read,1TD0.00,H/O daily opiate misuse,res55: substance_misuse,diagnostic
+Read,1TD2.00,H/O infrequent opiate misuse,res55: substance_misuse,diagnostic
+Read,1TD3.00,Previous history of opiate misuse,res55: substance_misuse,diagnostic
+Read,1TE..00,Uses heroin on top of substitution therapy,res55: substance_misuse,diagnostic
+Read,1TF..00,Does not use heroin on top of substitution therapy,res55: substance_misuse,diagnostic
+Read,1V...00,Drug misuse behaviour,res55: substance_misuse,diagnostic
+Read,1V01.00,Long-term drug misuser,res55: substance_misuse,diagnostic
+Read,1V02.00,Poly-drug misuser,res55: substance_misuse,diagnostic
+Read,1V07.00,Notified addict,res55: substance_misuse,diagnostic
+Read,1V09.00,Smokes drugs through a pipe,res55: substance_misuse,diagnostic
+Read,1V0A.00,Chases the dragon,res55: substance_misuse,diagnostic
+Read,1V0B.00,Sniffs drugs,res55: substance_misuse,diagnostic
+Read,1V22.00,Age at starting drug misuse,res55: substance_misuse,diagnostic
+Read,1V26.00,Misused drugs in past,res55: substance_misuse,diagnostic
+Read,1V35.00,Shares drug equipment,res55: substance_misuse,diagnostic
+Read,1V63.00,Possession of drugs,res55: substance_misuse,diagnostic
+Read,1V64.00,Illicit drug use,res55: substance_misuse,diagnostic
+Read,1V65.00,Heroin misuse,res55: substance_misuse,diagnostic
+Read,1V66.00,Ecstasy misuse,res55: substance_misuse,diagnostic
+Read,677T.00,Substance misuse structured counselling,res55: substance_misuse,diagnostic
+Read,7P22000,Delivery of rehabilitation for drug addiction,res55: substance_misuse,diagnostic
+Read,8AA..00,Drug abuse monitoring,res55: substance_misuse,diagnostic
+Read,8B2N.00,Drug addiction detoxification therapy - methadone,res55: substance_misuse,diagnostic
+Read,8B2P.00,Drug addiction maintenance therapy - methadone,res55: substance_misuse,diagnostic
+Read,8B2Q.00,Drug addiction maintenance therapy - buprenorphine,res55: substance_misuse,diagnostic
+Read,8B2S.00,Opioid agonist substitution therapy,res55: substance_misuse,diagnostic
+Read,8B2T.00,Opioid antagonist therapy,res55: substance_misuse,diagnostic
+Read,8BAW.00,Drug dependence self detoxification,res55: substance_misuse,diagnostic
+Read,8BAd.00,Opiate dependence detoxification,res55: substance_misuse,diagnostic
+Read,8BAo.00,Benzodiazepine dependence detoxification,res55: substance_misuse,diagnostic
+Read,8H7x.00,Referral to drug abuse counsellor,res55: substance_misuse,diagnostic
+Read,8HkF.00,Referral to substance misuse service,res55: substance_misuse,diagnostic
+Read,8Hq..00,Admission to substance misuse detoxification centre,res55: substance_misuse,diagnostic
+Read,9G2..11,Drug addict notific admin,res55: substance_misuse,diagnostic
+Read,9G2Z.00,Drug addiction notif NOS,res55: substance_misuse,diagnostic
+Read,9HC..00,Substance misuse monitoring,res55: substance_misuse,diagnostic
+Read,9HC1.00,Follow up substance misuse assessment,res55: substance_misuse,diagnostic
+Read,9HC4.00,Substance misuse treatment withdrawn,res55: substance_misuse,diagnostic
+Read,9HC5.00,Substance misuse treatment programme completed,res55: substance_misuse,diagnostic
+Read,9HC6.00,Substance misuse treatment declined,res55: substance_misuse,diagnostic
+Read,9N4i.00,DNA - Did not attend substance misuse clinic,res55: substance_misuse,diagnostic
+Read,9NdN.00,Declined consent for notification of drug misuse,res55: substance_misuse,diagnostic
+Read,9No5.00,Seen in substance misuse clinic,res55: substance_misuse,diagnostic
+Read,9k50.00,Drug misuse - enhanced service completed,res55: substance_misuse,diagnostic
+Read,9k53.00,Pharmacy attended for drug misuse - enhanced services admin,res55: substance_misuse,diagnostic
+Read,9kS..00,Drug misuse assessment declined - enhanced services administ,res55: substance_misuse,diagnostic
+Read,E24..00,Drug dependence,res55: substance_misuse,diagnostic
+Read,E240.00,Opioid type drug dependence,res55: substance_misuse,diagnostic
+Read,E240.11,Heroin dependence,res55: substance_misuse,diagnostic
+Read,E240.12,Methadone dependence,res55: substance_misuse,diagnostic
+Read,E240.13,Morphine dependence,res55: substance_misuse,diagnostic
+Read,E240200,Episodic opioid dependence,res55: substance_misuse,diagnostic
+Read,E240300,Opioid dependence in remission,res55: substance_misuse,diagnostic
+Read,E241.15,Librium dependence,res55: substance_misuse,diagnostic
+Read,E242000,"Cocaine dependence, unspecified",res55: substance_misuse,diagnostic
+Read,E242100,"Cocaine dependence, continuous",res55: substance_misuse,diagnostic
+Read,E242200,"Cocaine dependence, episodic",res55: substance_misuse,diagnostic
+Read,E243.00,Cannabis type drug dependence,res55: substance_misuse,diagnostic
+Read,E243.13,Marihuana dependence,res55: substance_misuse,diagnostic
+Read,E243000,"Cannabis dependence, unspecified",res55: substance_misuse,diagnostic
+Read,E243100,"Cannabis dependence, continuous",res55: substance_misuse,diagnostic
+Read,E243300,Cannabis dependence in remission,res55: substance_misuse,diagnostic
+Read,E243z00,Cannabis drug dependence NOS,res55: substance_misuse,diagnostic
+Read,E244.00,Amphetamine or other psychostimulant dependence,res55: substance_misuse,diagnostic
+Read,E244.11,Psychostimulant dependence,res55: substance_misuse,diagnostic
+Read,E244011,"Amfetamine or psychostimulant dependence, unspecified",res55: substance_misuse,diagnostic
+Read,E244100,"Amphetamine or psychostimulant dependence, continuous",res55: substance_misuse,diagnostic
+Read,E244200,"Amphetamine or psychostimulant dependence, episodic",res55: substance_misuse,diagnostic
+Read,E244z11,Amfetamine or psychostimulant dependence NOS,res55: substance_misuse,diagnostic
+Read,E245.00,Hallucinogen dependence,res55: substance_misuse,diagnostic
+Read,E245.11,LSD dependence,res55: substance_misuse,diagnostic
+Read,E245.12,Lysergic acid diethylamide dependence,res55: substance_misuse,diagnostic
+Read,E245000,"Hallucinogen dependence, unspecified",res55: substance_misuse,diagnostic
+Read,E245100,"Hallucinogen dependence, continuous",res55: substance_misuse,diagnostic
+Read,E245200,"Hallucinogen dependence, episodic",res55: substance_misuse,diagnostic
+Read,E245z00,Hallucinogen dependence NOS,res55: substance_misuse,diagnostic
+Read,E246.00,Glue sniffing dependence,res55: substance_misuse,diagnostic
+Read,E246000,"Glue sniffing dependence, unspecified",res55: substance_misuse,diagnostic
+Read,E246200,"Glue sniffing dependence, episodic",res55: substance_misuse,diagnostic
+Read,E246300,Glue sniffing dependence in remission,res55: substance_misuse,diagnostic
+Read,E247100,"Other specified drug dependence, continuous",res55: substance_misuse,diagnostic
+Read,E247300,Other specified drug dependence in remission,res55: substance_misuse,diagnostic
+Read,E248.00,Combined opioid with other drug dependence,res55: substance_misuse,diagnostic
+Read,E248000,"Combined opioid with other drug dependence, unspecified",res55: substance_misuse,diagnostic
+Read,E248300,Combined opioid with other drug dependence in remission,res55: substance_misuse,diagnostic
+Read,E248z00,Combined opioid with other drug dependence NOS,res55: substance_misuse,diagnostic
+Read,E249.00,"Combined drug dependence, excluding opioids",res55: substance_misuse,diagnostic
+Read,E249300,"Combined drug dependence, excluding opioid, in remission",res55: substance_misuse,diagnostic
+Read,E249z00,"Combined drug dependence, excluding opioid, NOS",res55: substance_misuse,diagnostic
+Read,E24A.00,Ecstasy type drug dependence,res55: substance_misuse,diagnostic
+Read,E25..00,Nondependent abuse of drugs,res55: substance_misuse,diagnostic
+Read,E252.00,Nondependent cannabis abuse,res55: substance_misuse,diagnostic
+Read,E252z00,Nondependent cannabis abuse NOS,res55: substance_misuse,diagnostic
+Read,E253000,"Nondependent hallucinogen abuse, unspecified",res55: substance_misuse,diagnostic
+Read,E253100,"Nondependent hallucinogen abuse, continuous",res55: substance_misuse,diagnostic
+Read,E253200,"Nondependent hallucinogen abuse, episodic",res55: substance_misuse,diagnostic
+Read,E253z00,Nondependent hallucinogen abuse NOS,res55: substance_misuse,diagnostic
+Read,E254.00,Nondependent hypnotic or anxiolytic abuse,res55: substance_misuse,diagnostic
+Read,E254.11,Barbiturate abuse,res55: substance_misuse,diagnostic
+Read,E254.13,Sedative abuse,res55: substance_misuse,diagnostic
+Read,E254.14,Tranquilliser abuse,res55: substance_misuse,diagnostic
+Read,E254100,"Nondependent hypnotic or anxiolytic abuse, continuous",res55: substance_misuse,diagnostic
+Read,E254300,Nondependent hypnotic or anxiolytic abuse in remission,res55: substance_misuse,diagnostic
+Read,E254z00,Nondependent hypnotic or anxiolytic abuse NOS,res55: substance_misuse,diagnostic
+Read,E255.00,Nondependent opioid abuse,res55: substance_misuse,diagnostic
+Read,E255100,"Nondependent opioid abuse, continuous",res55: substance_misuse,diagnostic
+Read,E255200,"Nondependent opioid abuse, episodic",res55: substance_misuse,diagnostic
+Read,E255300,Nondependent opioid abuse in remission,res55: substance_misuse,diagnostic
+Read,E255z00,Nondependent opioid abuse NOS,res55: substance_misuse,diagnostic
+Read,E256000,"Nondependent cocaine abuse, unspecified",res55: substance_misuse,diagnostic
+Read,E256100,"Nondependent cocaine abuse, continuous",res55: substance_misuse,diagnostic
+Read,E256200,"Nondependent cocaine abuse, episodic",res55: substance_misuse,diagnostic
+Read,E256z00,Nondependent cocaine abuse NOS,res55: substance_misuse,diagnostic
+Read,E257.00,Nondependent amphetamine or other psychostimulant abuse,res55: substance_misuse,diagnostic
+Read,E257.11,Psychostimulant abuse,res55: substance_misuse,diagnostic
+Read,E257200,"Nondependent amphetamine or psychostimulant abuse, episodic",res55: substance_misuse,diagnostic
+Read,E257300,Nondependent amphetamine/psychostimulant abuse in remission,res55: substance_misuse,diagnostic
+Read,E257z00,Nondependent amphetamine or psychostimulant abuse NOS,res55: substance_misuse,diagnostic
+Read,E258z00,Nondependent antidepressant type drug abuse NOS,res55: substance_misuse,diagnostic
+Read,E259.00,Nondependent mixed drug abuse,res55: substance_misuse,diagnostic
+Read,E259000,"Nondependent mixed drug abuse, unspecified",res55: substance_misuse,diagnostic
+Read,E259100,"Nondependent mixed drug abuse, continuous",res55: substance_misuse,diagnostic
+Read,E259200,"Nondependent mixed drug abuse, episodic",res55: substance_misuse,diagnostic
+Read,E259300,Nondependent mixed drug abuse in remission,res55: substance_misuse,diagnostic
+Read,E259400,Misuse of prescription only drugs,res55: substance_misuse,diagnostic
+Read,E25y.00,Nondependent other drug abuse,res55: substance_misuse,diagnostic
+Read,E25y.11,Analgesic abuse,res55: substance_misuse,diagnostic
+Read,E25y.13,Steroid abuse,res55: substance_misuse,diagnostic
+Read,E25y000,"Nondependent other drug abuse, unspecified",res55: substance_misuse,diagnostic
+Read,E25yz00,Nondependent other drug abuse NOS,res55: substance_misuse,diagnostic
+Read,E25z.00,Misuse of drugs NOS,res55: substance_misuse,diagnostic
+Read,E29y500,Other adjustment reaction with withdrawal,res55: substance_misuse,diagnostic
+Read,Eu11211,[X]Drug addiction - opioids,res55: substance_misuse,diagnostic
+Read,Eu11212,[X]Heroin addiction,res55: substance_misuse,diagnostic
+Read,Eu11300,[X]Mental and behav dis due to use opioids: withdrawal state,res55: substance_misuse,diagnostic
+Read,Eu11311,"[X]Cold turkey, opiate withdrawal",res55: substance_misuse,diagnostic
+Read,Eu11400,[X]Men & behav dis due opioid: withdrawl state with delirium,res55: substance_misuse,diagnostic
+Read,Eu11500,[X]Mental & behav dis due to use opioids: psychotic disorder,res55: substance_misuse,diagnostic
+Read,Eu11600,[X]Mental and behav dis due to use opioids: amnesic syndrome,res55: substance_misuse,diagnostic
+Read,Eu11z00,[X]Ment & behav dis due use opioids: unsp ment & behav dis,res55: substance_misuse,diagnostic
+Read,Eu12.00,[X]Mental and behavioural disorders due to use cannabinoids,res55: substance_misuse,diagnostic
+Read,Eu12000,[X]Mental & behav dis due cannabinoids: acute intoxication,res55: substance_misuse,diagnostic
+Read,Eu12200,[X]Mental and behav dis due to cannabinoids: dependence synd,res55: substance_misuse,diagnostic
+Read,Eu12211,[X]Drug addiction - cannabis,res55: substance_misuse,diagnostic
+Read,Eu12500,[X]Mental & behav dis due to cannabinoids: psychotic disordr,res55: substance_misuse,diagnostic
+Read,Eu12y00,[X]Men/behav dis due to use cannabinoids: oth men/behav disd,res55: substance_misuse,diagnostic
+Read,Eu12z00,[X]Ment/behav dis due use cannabinoids: unsp ment/behav disd,res55: substance_misuse,diagnostic
+Read,Eu13.00,[X]Mental and behavioural dis due use sedatives/hypnotics,res55: substance_misuse,diagnostic
+Read,Eu13000,[X]Mental & behav dis due seds/hypntcs: acute intoxication,res55: substance_misuse,diagnostic
+Read,Eu13100,[X]Mental and behav dis due to use seds/hypntcs: harmful use,res55: substance_misuse,diagnostic
+Read,Eu13200,[X]Mental and behav dis due to seds/hypntcs: dependence synd,res55: substance_misuse,diagnostic
+Read,Eu14.00,[X]Mental and behavioural disorders due to use of cocaine,res55: substance_misuse,diagnostic
+Read,Eu14300,[X]Mental and behav dis due to use cocaine: withdrawal state,res55: substance_misuse,diagnostic
+Read,Eu14500,[X]Mental & behav dis due to use cocaine: psychotic disorder,res55: substance_misuse,diagnostic
+Read,Eu14700,[X]Men & beh dis due cocaine: resid & late-onset psychot dis,res55: substance_misuse,diagnostic
+Read,Eu15100,[X]Ment/behav dis due to use oth stims inc caff: harmful use,res55: substance_misuse,diagnostic
+Read,Eu15200,[X]Mental and behav dis oth stim inc caffein: dependnce synd,res55: substance_misuse,diagnostic
+Read,Eu15211,[X]Drug addiction-other stimul,res55: substance_misuse,diagnostic
+Read,Eu15500,[X]Mental/behav dis oth stims inc caffeine: psychotic dis,res55: substance_misuse,diagnostic
+Read,Eu15700,[X]Mnt/bh dis oth stm inc caffne resid/late-onset psycht dis,res55: substance_misuse,diagnostic
+Read,Eu15z00,[X]Ment/beh dis oth stims inc caffeine: unsp ment/behav disd,res55: substance_misuse,diagnostic
+Read,Eu16.00,[X]Mental and behavioural disorders due to use hallucinogens,res55: substance_misuse,diagnostic
+Read,Eu16200,[X]Mental and behav dis due to hallucinogens: dependence syn,res55: substance_misuse,diagnostic
+Read,Eu16211,[X]Drug addiction - hallucinogen,res55: substance_misuse,diagnostic
+Read,Eu16711,[X]Post hallucinogen perception disorder,res55: substance_misuse,diagnostic
+Read,Eu16z00,[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis,res55: substance_misuse,diagnostic
+Read,Eu17200,[X]Mental and behav dis due to use tobacco: dependence syndr,res55: substance_misuse,diagnostic
+Read,Eu18.00,[X]Mental & behav disorders due to use of volatile solvents,res55: substance_misuse,diagnostic
+Read,Eu18000,[X]Mental & behav dis due vol solvents: acute intoxication,res55: substance_misuse,diagnostic
+Read,Eu18400,[X]Men & beh dis vol solvents: withdrawal state wth delirium,res55: substance_misuse,diagnostic
+Read,Eu18z00,[X]Ment/behav dis due use vol solvents: unsp ment/behav dis,res55: substance_misuse,diagnostic
+Read,Eu19.00,[X]Men & behav disorder multiple drug use/psychoactive subst,res55: substance_misuse,diagnostic
+Read,Eu19000,[X]Mental/behav dis multi drg use/psychoac subs: acute intox,res55: substance_misuse,diagnostic
+Read,Eu19100,[X]Mental and behav dis mlti drg/oth psychoa sbs: harmfl use,res55: substance_misuse,diagnostic
+Read,Eu19211,[X]Drug addiction NOS,res55: substance_misuse,diagnostic
+Read,Eu19300,[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state,res55: substance_misuse,diagnostic
+Read,Eu19400,[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium,res55: substance_misuse,diagnostic
+Read,Eu19700,[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis,res55: substance_misuse,diagnostic
+Read,Eu19y00,[X]Men/beh dis mlt drg use/oth psy sbs: oth men & behav dis,res55: substance_misuse,diagnostic
+Read,Eu19z00,[X]Ment/beh dis multi drug use/oth psy sbs unsp mnt/beh dis,res55: substance_misuse,diagnostic
+Read,Eu1A100,[X]Mental behav disorders due use crack cocaine: harmful use,res55: substance_misuse,diagnostic
+Read,Eu1A200,[X]Mental behav disorders due use crack cocaine: depend synd,res55: substance_misuse,diagnostic
+Read,Eu1A300,[X]Mental behav disord due crack cocaine: withdrawal state,res55: substance_misuse,diagnostic
+Read,Eu1Az00,[X]Ment behav dis due crack cocaine: unsp ment and behav dis,res55: substance_misuse,diagnostic
+Read,Eu55.00,[X]Abuse of non-dependence-producing substances,res55: substance_misuse,diagnostic
+Read,Eu55.13,[X]Abuse of steroids or hormones,res55: substance_misuse,diagnostic
+Read,L183.00,"Drug dependence in pregnancy, childbirth and the puerperium",res55: substance_misuse,diagnostic
+Read,L183z00,Drug dependence during pregnancy/childbirth/puerperium NOS,res55: substance_misuse,diagnostic
+Read,Z192100,Drug withdrawal regime,res55: substance_misuse,diagnostic
+Read,Z1Q6.00,Substitute prescribing,res55: substance_misuse,diagnostic
+Read,Z1Q6214,Heroin maintenance,res55: substance_misuse,diagnostic
+Read,Z1Q6300,Dexamphetamine maintenance,res55: substance_misuse,diagnostic
+Read,Z416.00,Substance abuse counselling,res55: substance_misuse,diagnostic
+Read,ZR3Z.00,Cocaine abuse assessment profile,res55: substance_misuse,diagnostic
+Read,ZRBK.11,DAST - Drug abuse screening test,res55: substance_misuse,diagnostic
+Read,ZRVn.00,Maudsley addiction profile,res55: substance_misuse,diagnostic
+Read,ZRVn.11,MAP - Maudsley addiction profile,res55: substance_misuse,diagnostic
+Read,ZRk7.11,SODQ - Severity of opiate dependence questionnaire,res55: substance_misuse,diagnostic
+Read,Eu16500,[X]Mental & behav dis due to hallucinogens: psychotic disord,res55: substance_misuse,diagnostic
+Read,ZRl..00,Substance use disorder diagnostic schedule,res55: substance_misuse,diagnostic
+Read,ZRl..11,SUDDS - Substance use disorder diagnostic schedule,res55: substance_misuse,diagnostic
+Read,ZV11400,[V]Personal history of psychoactive substance abuse,res55: substance_misuse,diagnostic
+Read,E240.14,Opium dependence,res55: substance_misuse,diagnostic
+Read,E244.12,Stimulant dependence,res55: substance_misuse,diagnostic
+Read,E242z00,Cocaine drug dependence NOS,res55: substance_misuse,diagnostic
+Read,E240z00,Opioid drug dependence NOS,res55: substance_misuse,diagnostic
+Read,E240100,Continuous opioid dependence,res55: substance_misuse,diagnostic
+Read,E240000,Unspecified opioid dependence,res55: substance_misuse,diagnostic
+Read,E242300,Cocaine dependence in remission,res55: substance_misuse,diagnostic
+Read,E242.00,Cocaine type drug dependence,res55: substance_misuse,diagnostic
+Read,E244000,"Amphetamine or psychostimulant dependence, unspecified",res55: substance_misuse,diagnostic
+Read,E243.11,Hashish dependence,res55: substance_misuse,diagnostic
+Read,E243.12,Hemp dependence,res55: substance_misuse,diagnostic
+Read,E243200,"Cannabis dependence, episodic",res55: substance_misuse,diagnostic
+Read,E247200,"Other specified drug dependence, episodic",res55: substance_misuse,diagnostic
+Read,E244300,Amphetamine or psychostimulant dependence in remission,res55: substance_misuse,diagnostic
+Read,E244z00,Amphetamine or psychostimulant dependence NOS,res55: substance_misuse,diagnostic
+Read,E246z00,Glue sniffing dependence NOS,res55: substance_misuse,diagnostic
+Read,E246100,"Glue sniffing dependence, continuous",res55: substance_misuse,diagnostic
+Read,E245300,Hallucinogen dependence in remission,res55: substance_misuse,diagnostic
+Read,E249100,"Combined drug dependence, excluding opioid, continuous",res55: substance_misuse,diagnostic
+Read,E248100,"Combined opioid with other drug dependence, continuous",res55: substance_misuse,diagnostic
+Read,E248200,"Combined opioid with other drug dependence, episodic",res55: substance_misuse,diagnostic
+Read,E249000,"Combined drug dependence, excluding opioid, unspecified",res55: substance_misuse,diagnostic
+Read,E253.00,Nondependent hallucinogen abuse,res55: substance_misuse,diagnostic
+Read,E24z.00,Drug dependence NOS,res55: substance_misuse,diagnostic
+Read,E249200,"Combined drug dependence, excluding opioid, episodic",res55: substance_misuse,diagnostic
+Read,E252300,Nondependent cannabis abuse in remission,res55: substance_misuse,diagnostic
+Read,E252100,"Nondependent cannabis abuse, continuous",res55: substance_misuse,diagnostic
+Read,E252000,"Nondependent cannabis abuse, unspecified",res55: substance_misuse,diagnostic
+Read,E252200,"Nondependent cannabis abuse, episodic",res55: substance_misuse,diagnostic
+Read,E257000,"Nondependent amphetamine/psychostimulant abuse, unspecified",res55: substance_misuse,diagnostic
+Read,E257.12,Stimulant abuse,res55: substance_misuse,diagnostic
+Read,E254000,"Nondependent hypnotic or anxiolytic abuse, unspecified",res55: substance_misuse,diagnostic
+Read,E253300,Nondependent hallucinogen abuse in remission,res55: substance_misuse,diagnostic
+Read,E254.12,Hypnotic or anxiolytic abuse,res55: substance_misuse,diagnostic
+Read,E255000,"Nondependent opioid abuse, unspecified",res55: substance_misuse,diagnostic
+Read,E254200,"Nondependent hypnotic or anxiolytic abuse, episodic",res55: substance_misuse,diagnostic
+Read,E256300,Nondependent cocaine abuse in remission,res55: substance_misuse,diagnostic
+Read,E256.00,Nondependent cocaine abuse,res55: substance_misuse,diagnostic
+Read,Eu16300,[X]Mental and behav dis due hallucinogens: withdrawal state,res55: substance_misuse,diagnostic
+Read,E257100,"Nondependent amphetamine/psychostimulant abuse, continuous",res55: substance_misuse,diagnostic
+Read,Eu11700,[X]Men & beh dis due opioids: resid & late-onset psychot dis,res55: substance_misuse,diagnostic
+Read,E259z00,Nondependent mixed drug abuse NOS,res55: substance_misuse,diagnostic
+Read,E258.00,Nondependent antidepressant type drug abuse,res55: substance_misuse,diagnostic
+Read,E25y100,"Nondependent other drug abuse, continuous",res55: substance_misuse,diagnostic
+Read,Eu11200,[X]Mental and behav dis due to use opioids: dependence syndr,res55: substance_misuse,diagnostic
+Read,E25y200,"Nondependent other drug abuse, episodic",res55: substance_misuse,diagnostic
+Read,E25y300,Nondependent other drug abuse in remission,res55: substance_misuse,diagnostic
+Read,Eu16100,[X]Mental and behav dis due to use hallucinogens: harmfl use,res55: substance_misuse,diagnostic
+Read,Eu14100,[X]Mental and behav dis due to use of cocaine: harmful use,res55: substance_misuse,diagnostic
+Read,Eu12600,[X]Mental and behav dis due to use cannabinoids: amnesic syn,res55: substance_misuse,diagnostic
+Read,Eu11y00,[X]Men & behav dis due to use opioids: oth men & behav dis,res55: substance_misuse,diagnostic
+Read,Eu12300,[X]Mental and behav dis due cannabinoids: withdrawal state,res55: substance_misuse,diagnostic
+Read,Eu12100,[X]Mental and behav dis due to use cannabinoids: harmful use,res55: substance_misuse,diagnostic
+Read,Eu14000,[X]Mental & behav dis due to use cocaine: acute intoxication,res55: substance_misuse,diagnostic
+Read,Eu13211,[X]Drug addiction- sedative / hypnotics,res55: substance_misuse,diagnostic
+Read,Eu12700,[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis,res55: substance_misuse,diagnostic
+Read,Eu13500,[X]Mental & behav dis due to seds/hypntcs: psychotic disordr,res55: substance_misuse,diagnostic
+Read,Eu13400,[X]Men & beh dis due seds/hypns: withdrwl state wth delirium,res55: substance_misuse,diagnostic
+Read,Eu13300,[X]Mental and behav dis due seds/hypntcs: withdrawal state,res55: substance_misuse,diagnostic
+Read,Eu16000,[X]Mental & behav dis due hallucinogens: acute intoxicatn,res55: substance_misuse,diagnostic
+Read,Eu14211,[X]Drug addiction - cocaine,res55: substance_misuse,diagnostic
+Read,Eu14200,[X]Mental and behav dis due to use cocaine: dependence syndr,res55: substance_misuse,diagnostic
+Read,Eu15300,[X]Mnt/behav dis other stimlnts inc caffeine: withdrwl state,res55: substance_misuse,diagnostic
+Read,Eu15000,[X]Mnt/beh dis due oth stim inc caffein: acute intoxication,res55: substance_misuse,diagnostic
+Read,Eu15.00,[X]Mental & behav disorder due other stimulants inc caffein,res55: substance_misuse,diagnostic
+Read,ZR3Z.11,CAAP - Cocaine abuse assessment profile,res55: substance_misuse,diagnostic
+Read,Eu19600,[X]Mental/behav dis multi drg use/oth psy sbs: amnesic syndr,res55: substance_misuse,diagnostic
+Read,Eu16700,[X]Mnt/bh dis due hallucngns: resid & late-onset psychot dis,res55: substance_misuse,diagnostic
+Read,Eu17300,[X]Mental and behav dis due to use tobacco: withdrawal state,res55: substance_misuse,diagnostic
+Read,Eu19500,[X]Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis,res55: substance_misuse,diagnostic
+Read,Eu18200,[X]Mental and behav dis due to vol solvents: dependence synd,res55: substance_misuse,diagnostic
+Read,Eu18100,[X]Mental and behav dis due volatile solvents: harmful use,res55: substance_misuse,diagnostic
+Read,Eu18500,[X]Mental & behav dis due to vol solvents: psychotic disordr,res55: substance_misuse,diagnostic
+Read,Eu18211,[X]Drug addiction - solvent,res55: substance_misuse,diagnostic
+Read,Eu19200,[X]Mental and behav dis mlti/oth psych sbs: dependence syndr,res55: substance_misuse,diagnostic
+Read,ZG23200,Advice on drugs of addiction,res55: substance_misuse,diagnostic
+Read,Eu1A.00,[X]Mental and behavioural disorders due use of crack cocaine,res55: substance_misuse,diagnostic
+Read,Eu1A000,[X]Ment behav dis due use crack cocaine: acute intoxication,res55: substance_misuse,diagnostic
+Read,L183300,Drug dependence during pregnancy - baby not yet delivered,res55: substance_misuse,diagnostic
+Read,Eu1A500,[X]Mental behav disord due crack cocaine: psychotic disorder,res55: substance_misuse,diagnostic
+Read,L183100,Drug dependence during pregnancy - baby delivered,res55: substance_misuse,diagnostic
+Read,L183.11,Pregnancy and drug dependence,res55: substance_misuse,diagnostic
+Read,Z1Q6200,Methadone maintenance,res55: substance_misuse,diagnostic
+Read,Z1Q6212,Methadone therapy,res55: substance_misuse,diagnostic
+Read,ZRk7.00,Severity of opiate dependence questionnaire,res55: substance_misuse,diagnostic
+Read,ZV11500,[V]Personal history of drug abuse by injection,res55: substance_misuse,diagnostic
