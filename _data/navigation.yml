@@ -27,7 +27,7 @@
       url: /hubs/breathe
     - title: BHF Data Science Centre
       url: /collections/bhf-data-science-centre
-    # - title: ClinicalCodes.org
-    #   url: /collections/clinicalcodes
+    - title: ClinicalCodes.org
+      url: /collections/clinicalcodes
 - title: Search
   url: /search
