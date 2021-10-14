@@ -9,7 +9,7 @@ sources:
     - clinicalcodes
 data_sources:
     - Clinical Practice Research Datalink GOLD
-    - Clinical Practice Research Datalink AURUM
+    - Clinical Practice Research Datalink Aurum
 clinical_terminologies:
     - Read Version 2
 validation:
