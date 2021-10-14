@@ -7,7 +7,7 @@ type: Lifestyle Risk Factor
 group: Lifestyle Risk Factor
 data_sources: 
     - Clinical Practice Research Datalink GOLD
-    - Clinical Practice Research Datalink AURUM
+    - Clinical Practice Research Datalink Aurum
 clinical_terminologies: 
     - SNOMED-CT
     - Read Version 2
