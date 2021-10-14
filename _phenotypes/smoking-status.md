@@ -5,7 +5,7 @@ phenotype_id: DoxdyHm6MDv7fHP4HQut5M
 name: Smoking Status
 type: Lifestyle Risk Factor
 group: 
-data_sources:
+data_sources: 
     - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
     - Read Version 2
