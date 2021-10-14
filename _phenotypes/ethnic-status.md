@@ -5,9 +5,9 @@ phenotype_id: PMD762GQ76BscDn5YK3Mwe
 name: Ethnic Status
 type: Lifestyle Risk Factor
 group: Demographics
-data_sources: 
-    - Clinical Practice Research Datalink GOLD
-    - Hospital Episode Statistics APC for CPRD GOLD
+data_sources:
+    - Primary care (Clinical Practice Research Datalink GOLD)
+    - Hospital Episode Statistics (HES)
 validation: aetiology, prognosis
 codelists:
     - caliber_ethnic_status_PMD762GQ76BscDn5YK3Mwe_Read2.csv
