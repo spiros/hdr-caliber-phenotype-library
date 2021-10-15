@@ -6,7 +6,7 @@ name: Alcohol Consumption
 type: Lifestyle Risk Factor
 group: Lifestyle Risk Factor
 data_sources:
-    - Primary care (Clinical Practice Research Datalink GOLD)
+    - Clinical Practice Research Datalink GOLD
 clinical_terminologies:
     - Read Version 2
 validation: prognosis
