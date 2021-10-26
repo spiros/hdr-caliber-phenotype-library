@@ -6,6 +6,7 @@ phenotype_id: aaiAomRQ2RTZ53gSNbhHpm
 type: Disease or Syndrome
 group: Endocrine
 data_sources: 
+    - Clinical Practice Research Datalink GOLD
 clinical_terminologies: 
 validation: 
     - cross-source
