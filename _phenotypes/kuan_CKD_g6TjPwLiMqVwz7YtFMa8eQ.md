@@ -6,6 +6,7 @@ phenotype_id: g6TjPwLiMqVwz7YtFMa8eQ
 type: Disease or Syndrome
 group: Genitourinary
 data_sources: 
+    - Clinical Practice Research Datalink GOLD
 clinical_terminologies: 
 validation: 
     - cross-source
