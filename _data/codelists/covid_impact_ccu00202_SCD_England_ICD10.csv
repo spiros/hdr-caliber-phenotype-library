@@ -1,0 +1,7 @@
+terminology,code,term,code_type
+ICD10,I461,"Sudden cardiac death, so described",1.0
+ICD10,I472,Ventricular tachycardia,1.0
+ICD10,I490,Ventricular fibrillation and flutter,1.0
+ICD10,I460,Cardiac arrest with successful resuscitation,1.0
+ICD10,I469,"Cardiac arrest, unspecified",1.0
+ICD10,I470,Re-entry ventricular arrhythmia,1.0

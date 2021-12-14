@@ -1,0 +1,32 @@
+terminology,code,term,code_type
+SNOMEDCT,166831007,Serum cholesterol very high,1.0
+SNOMEDCT,238077000,Polygenic hypercholesterolaemia,1.0
+SNOMEDCT,267432004,Pure hypercholesterolaemia,1.0
+SNOMEDCT,397915002,Fredrickson type IIa hyperlipoproteinemia (disorder),1.0
+SNOMEDCT,398036000,Familial hypercholesterolemia (disorder),1.0
+SNOMEDCT,238038003,Familial hyperlipoproteinemia (disorder),1.0
+SNOMEDCT,238040008,Familial combined hyperlipidemia (disorder),1.0
+SNOMEDCT,238076009,Primary hypercholesterolemia (disorder),1.0
+SNOMEDCT,238078005,Familial hypercholesterolemia - homozygous (disorder),1.0
+SNOMEDCT,238079002,Familial hypercholesterolemia - heterozygous (disorder),1.0
+SNOMEDCT,238086005,Fredrickson type I hyperlipoproteinemia (disorder),1.0
+SNOMEDCT,34349009,Familial type 5 hyperlipoproteinemia (disorder),1.0
+SNOMEDCT,34528009,Familial hypertriglyceridemia (disorder),1.0
+SNOMEDCT,398796005,Familial type 3 hyperlipoproteinemia (disorder),1.0
+SNOMEDCT,403829002,Familial hypercholesterolemia due to heterozygous low density lipoprotein receptor mutation (disorder),1.0
+SNOMEDCT,190773008,Hyperbetalipoproteinemia (disorder),1.0
+SNOMEDCT,190774002,"Hyperlipidemia, group A (disorder)",1.0
+SNOMEDCT,238081000,Familial defective apolipoprotein B-100 (disorder),1.0
+SNOMEDCT,238083002,Primary hypertriglyceridemia (disorder),1.0
+SNOMEDCT,238088006,Primary combined hyperlipidemia (disorder),1.0
+SNOMEDCT,267434003,Mixed hyperlipidemia (disorder),1.0
+SNOMEDCT,267435002,Familial hyperchylomicronemia (disorder),1.0
+SNOMEDCT,33513003,Familial apolipoprotein C-II deficiency (disorder),1.0
+SNOMEDCT,403830007,Familial hypercholesterolemia due to homozygous low density lipoprotein receptor mutation (disorder),1.0
+SNOMEDCT,403831006,Familial hypercholesterolemia due to genetic defect of apolipoprotein B (disorder),1.0
+SNOMEDCT,445010006,Low density lipoprotein receptor mutation (disorder),1.0
+SNOMEDCT,57218003,Cholesterol ester storage disease (disorder),1.0
+SNOMEDCT,867261000000106,Probable familial hypercholesterolaemia (situation),1.0
+SNOMEDCT,473145005,Possible familial hypercholesterolemia (situation),1.0
+SNOMEDCT,513831000000107,Possible heterozygous familial hypercholesterolaemia (situation),1.0
+SNOMEDCT,925211000000100,Familial hypercholesterolaemia targeted genetic test (procedure),1.0

@@ -1,0 +1,5 @@
+covid_phenotype,clinical_code,terminology,description,covid_status,source
+03_IMV_treatment,E85.1,OPCS,Invasive ventilation,confirmed,HES APC
+03_IMV_treatment,X56,OPCS,Intubation of trachea,confirmed,HES APC
+03_IMV_treatment,E85.1,OPCS,Invasive ventilation,confirmed,SUS
+03_IMV_treatment,X56,OPCS,Intubation of trachea,confirmed,SUS

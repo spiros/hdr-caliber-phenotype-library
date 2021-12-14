@@ -1,0 +1,6 @@
+terminology,code,term,code_type
+ICD10,D69.3,Idiopathic thrombocytopenic purpura,1.0
+ICD10,D69.4,Other primary thrombocytopenia,1.0
+ICD10,D69.5,Secondary thrombocytopenia,1.0
+ICD10,D69.6,"Thrombocytopenia, unspecified",1.0
+ICD10,M31.1,Thrombotic microangiopathy,1.0

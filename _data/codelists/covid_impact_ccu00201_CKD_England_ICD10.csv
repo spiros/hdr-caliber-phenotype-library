@@ -1,0 +1,27 @@
+terminology,code,term,code_type
+ICD10,N181,"Chronic kidney disease, stage 1",1
+ICD10,N182,"Chronic kidney disease, stage 2",1
+ICD10,N00,Acute nephritic syndrome,1
+ICD10,N10,Acute tubulo-interstitial nephritis,1
+ICD10,N17,Acute renal failure,1
+ICD10,N01,Rapidly progressive nephritic syndrome,1
+ICD10,N03,Chronic nephritic syndrome,1
+ICD10,N052,Unspecified nephritic syndrome ;  Diffuse membranous glomerulonephritis,1
+ICD10,N053,Unspecified nephritic syndrome ;  Diffuse mesangial proliferative glomerulonephritis,1
+ICD10,N054,Unspecified nephritic syndrome ;  Diffuse endocapillary proliferative glomerulonephritis,1
+ICD10,N055,Unspecified nephritic syndrome ;  Diffuse mesangiocapillary glomerulonephritis,1
+ICD10,N056,Unspecified nephritic syndrome ;  Dense deposit disease,1
+ICD10,N072,"Hereditary nephropathy, not elsewhere classified ;  Diffuse membranous glomerulonephritis",1
+ICD10,N073,"Hereditary nephropathy, not elsewhere classified ;  Diffuse mesangial proliferative glomerulonephritis",1
+ICD10,N074,"Hereditary nephropathy, not elsewhere classified ;  Diffuse endocapillary proliferative glomerulonephritis",1
+ICD10,N183,"Chronic kidney disease, stage 3",1
+ICD10,N184,"Chronic kidney disease, stage 4",1
+ICD10,N185,"Chronic kidney disease, stage 5",1
+ICD10,N189,"Chronic kidney disease, unspecified",1
+ICD10,N19,Unspecified kidney failure,1
+ICD10,N25,Disorders resulting from impaired renal tubular function,1
+ICD10,Y841,Kidney dialysis,1
+ICD10,Z49,Care involving dialysis,1
+ICD10,Z992,Dependence on renal dialysis,1
+ICD10,T861,Kidney transplant failure and rejection,1
+ICD10,Z940,Kidney transplant status,1

@@ -1,0 +1,11 @@
+terminology,code,term,code_type
+ICD10,K70.1,Alcoholic hepatitis,1
+ICD10,K70.2,Alcoholic fibrosis and sclerosis of liver,1
+ICD10,K70.3,Alcoholic cirrhosis of liver,1
+ICD10,K71.7,Toxic liver disease with fibrosis and cirrhosis of liver,1
+ICD10,K74.0,Hepatic fibrosis,1
+ICD10,K74.1,Hepatic sclerosis,1
+ICD10,K74.2,Hepatic fibrosis with hepatic sclerosis,1
+ICD10,K74.4,Secondary biliary cirrhosis,1
+ICD10,K74.5,"Biliary cirrhosis, unspecified",1
+ICD10,K74.6,Other and unspecified cirrhosis of liver,1

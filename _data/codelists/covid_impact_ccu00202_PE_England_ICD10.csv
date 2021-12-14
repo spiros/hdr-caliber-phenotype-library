@@ -1,0 +1,4 @@
+terminology,code,term,code_type
+ICD10,I26,Pulmonary embolism,1.0
+ICD10,I26.0,Pulmonary embolism without mention of acute cor pulmonale,1.0
+ICD10,I26.9,Pulmonary embolism with mention of acute cor pulmonale,1.0

@@ -1,0 +1,13 @@
+terminology,code,term,code_type
+ICD10,G45.0,Vertebro-basilar artery syndrome,1.0
+ICD10,G45.1,Carotid artery syndrome (hemispheric),1.0
+ICD10,G45.2,Multiple and bilateral precerebral artery syndromes,1.0
+ICD10,G45.3,Amaurosis fugax,1.0
+ICD10,G45.4,Transient global amnesia,1.0
+ICD10,G45.8,Other transient cerebral ischaemic attacks and related syndromes,1.0
+ICD10,G45.9,"Transient cerebral ischaemic attack, unspecified",1.0
+ICD10,G46.0,"Middle cerebral artery syndrome""""",1.0
+ICD10,G46.1,"Anterior cerebral artery syndrome""""",1.0
+ICD10,G46.2,"Posterior cerebral artery syndrome""""",1.0
+ICD10,I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",1.0
+ICD10,I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",1.0

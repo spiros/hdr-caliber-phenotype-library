@@ -1,0 +1,8 @@
+terminology,code,term,code_type
+SNOMEDCT,162864005,Body mass index 30+ - obesity (finding),1
+SNOMEDCT,408512008,Body mass index 40+ - severely obese (finding),1
+SNOMEDCT,914721000000105,Obese class I (body mass index 30.0 - 34.9) (finding),1
+SNOMEDCT,914731000000107,Obese class II (body mass index 35.0 - 39.9) (finding),1
+SNOMEDCT,914741000000103,Obese class III (body mass index equal to or greater than 40.0) (finding),1
+SNOMEDCT,921031000000102,Child body mass index 98.1st-99.6th centile (finding),1
+SNOMEDCT,921051000000109,Child body mass index greater than 99.6th centile (finding),1

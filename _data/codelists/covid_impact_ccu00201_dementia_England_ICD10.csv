@@ -1,0 +1,5 @@
+terminology,code,term,code_type
+ICD10,F00,Dementia in Alzheimer's disease,1
+ICD10,F03,Unspecified dementia,1
+ICD10,F05.1,Delirium superimposed on dementia,1
+ICD10,G30,Alzheimer's disease,1

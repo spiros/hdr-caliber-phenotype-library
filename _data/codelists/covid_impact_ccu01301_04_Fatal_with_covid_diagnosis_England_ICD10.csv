@@ -1,0 +1,3 @@
+covid_phenotype,clinical_code,terminology,description,covid_status,source
+04_Fatal_with_covid_diagnosis,U071,ICD10,,confirmed,deaths
+04_Fatal_with_covid_diagnosis,U072,ICD10,,suspected,deaths

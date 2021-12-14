@@ -1,0 +1,42 @@
+covid_phenotype,clinical_code,terminology,description,covid_status,source
+01_GP_covid_diagnosis,1008541000000105,SNOMEDCT,Coronavirus ribonucleic acid detection assay (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,1029481000000103,SNOMEDCT,Coronavirus nucleic acid detection assay (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,120814005,SNOMEDCT,Coronavirus antibody (substance),confirmed,GDPPR
+01_GP_covid_diagnosis,1240381000000105,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 (organism),confirmed,GDPPR
+01_GP_covid_diagnosis,1240391000000107,SNOMEDCT,Antigen of severe acute respiratory syndrome coronavirus 2 (substance),confirmed,GDPPR
+01_GP_covid_diagnosis,1240401000000105,SNOMEDCT,Antibody to severe acute respiratory syndrome coronavirus 2 (substance),confirmed,GDPPR
+01_GP_covid_diagnosis,1240411000000107,SNOMEDCT,Ribonucleic acid of severe acute respiratory syndrome coronavirus 2 (substance),confirmed,GDPPR
+01_GP_covid_diagnosis,1240421000000101,SNOMEDCT,Serotype severe acute respiratory syndrome coronavirus 2 (qualifier value),confirmed,GDPPR
+01_GP_covid_diagnosis,1240511000000106,SNOMEDCT,Detection of severe acute respiratory syndrome coronavirus 2 using polymerase chain reaction technique (procedure),confirmed,GDPPR
+01_GP_covid_diagnosis,1240521000000100,SNOMEDCT,Otitis media caused by severe acute respiratory syndrome coronavirus 2 (disorder),confirmed,GDPPR
+01_GP_covid_diagnosis,1240531000000103,SNOMEDCT,Myocarditis caused by severe acute respiratory syndrome coronavirus 2 (disorder),confirmed,GDPPR
+01_GP_covid_diagnosis,1240541000000107,SNOMEDCT,Infection of upper respiratory tract caused by severe acute respiratory syndrome coronavirus 2 (disorder),confirmed,GDPPR
+01_GP_covid_diagnosis,1240551000000105,SNOMEDCT,Pneumonia caused by severe acute respiratory syndrome coronavirus 2 (disorder),confirmed,GDPPR
+01_GP_covid_diagnosis,1240561000000108,SNOMEDCT,Encephalopathy caused by severe acute respiratory syndrome coronavirus 2 (disorder),confirmed,GDPPR
+01_GP_covid_diagnosis,1240571000000101,SNOMEDCT,Gastroenteritis caused by severe acute respiratory syndrome coronavirus 2 (disorder),confirmed,GDPPR
+01_GP_covid_diagnosis,1240581000000104,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 ribonucleic acid detected (finding),confirmed,GDPPR
+01_GP_covid_diagnosis,1240741000000103,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 serology (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,1240751000000100,SNOMEDCT,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 (disorder),confirmed,GDPPR
+01_GP_covid_diagnosis,1300631000000101,SNOMEDCT,Coronavirus disease 19 severity score (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,1300671000000104,SNOMEDCT,Coronavirus disease 19 severity scale (assessment scale),confirmed,GDPPR
+01_GP_covid_diagnosis,1300681000000102,SNOMEDCT,Assessment using coronavirus disease 19 severity scale (procedure),confirmed,GDPPR
+01_GP_covid_diagnosis,1300721000000109,SNOMEDCT,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 confirmed by laboratory test (situation),confirmed,GDPPR
+01_GP_covid_diagnosis,1300731000000106,SNOMEDCT,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 confirmed using clinical diagnostic criteria (situation),confirmed,GDPPR
+01_GP_covid_diagnosis,1321181000000108,SNOMEDCT,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 record extraction simple reference set (foundation metadata concept),confirmed,GDPPR
+01_GP_covid_diagnosis,1321191000000105,SNOMEDCT,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 procedures simple reference set (foundation metadata concept),confirmed,GDPPR
+01_GP_covid_diagnosis,1321201000000107,SNOMEDCT,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 health issues simple reference set (foundation metadata concept),confirmed,GDPPR
+01_GP_covid_diagnosis,1321241000000105,SNOMEDCT,Cardiomyopathy caused by severe acute respiratory syndrome coronavirus 2 (disorder),confirmed,GDPPR
+01_GP_covid_diagnosis,1321301000000101,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 ribonucleic acid qualitative existence in specimen (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,1321311000000104,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 immunoglobulin M qualitative existence in specimen (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,1321321000000105,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 immunoglobulin G qualitative existence in specimen (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,1321331000000107,SNOMEDCT,Arbitrary concentration of severe acute respiratory syndrome coronavirus 2 total immunoglobulin in serum (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,1321341000000103,SNOMEDCT,Arbitrary concentration of severe acute respiratory syndrome coronavirus 2 immunoglobulin G in serum (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,1321351000000100,SNOMEDCT,Arbitrary concentration of severe acute respiratory syndrome coronavirus 2 immunoglobulin M in serum (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,1321541000000108,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 immunoglobulin G detected (finding),confirmed,GDPPR
+01_GP_covid_diagnosis,1321551000000106,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 immunoglobulin M detected (finding),confirmed,GDPPR
+01_GP_covid_diagnosis,1321761000000103,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 immunoglobulin A detected (finding),confirmed,GDPPR
+01_GP_covid_diagnosis,1321801000000108,SNOMEDCT,Arbitrary concentration of severe acute respiratory syndrome coronavirus 2 immunoglobulin A in serum (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,1321811000000105,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 immunoglobulin A qualitative existence in specimen (observable entity),confirmed,GDPPR
+01_GP_covid_diagnosis,1322781000000102,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 antigen detection result positive (finding),confirmed,GDPPR
+01_GP_covid_diagnosis,1322871000000109,SNOMEDCT,Severe acute respiratory syndrome coronavirus 2 antibody detection result positive (finding),confirmed,GDPPR
+01_GP_covid_diagnosis,186747009,SNOMEDCT,Coronavirus infection (disorder),confirmed,GDPPR

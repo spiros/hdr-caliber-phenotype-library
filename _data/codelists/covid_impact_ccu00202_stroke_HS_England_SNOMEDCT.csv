@@ -1,0 +1,20 @@
+terminology,code,term,code_type
+SNOMEDCT,7713009,Intrapontine hemorrhage,1.0
+SNOMEDCT,49422009,Cortical hemorrhage,1.0
+SNOMEDCT,52201006,Internal capsule hemorrhage,1.0
+SNOMEDCT,75038005,Cerebellar hemorrhage,1.0
+SNOMEDCT,195165005,Basal ganglia hemorrhage,1.0
+SNOMEDCT,195167002,External capsule hemorrhage,1.0
+SNOMEDCT,195168007,"Intracerebral haemorrhage, intraventricular",1.0
+SNOMEDCT,195169004,"Intracerebral hemorrhage, multiple localized",1.0
+SNOMEDCT,230710000,Lobar cerebral hemorrhage,1.0
+SNOMEDCT,274100004,Cerebral hemorrhage,1.0
+SNOMEDCT,308128006,"Right sided intracerebral hemorrhage, unspecified",1.0
+SNOMEDCT,732923001,Hemorrhage of medulla oblongata (disorder),1.0
+SNOMEDCT,230712008,Lacunar hemorrhage (disorder),1.0
+SNOMEDCT,276722003,Intracerebellar and posterior fossa hemorrhage (disorder),1.0
+SNOMEDCT,95454007,Brain stem hemorrhage (disorder),1.0
+SNOMEDCT,1078001000000105,Haemorrhagic stroke (disorder),1.0
+SNOMEDCT,20908003,Subcortical cerebral hemorrhage (disorder),1.0
+SNOMEDCT,230709005,Massive supratentorial cerebral hemorrhage (disorder),1.0
+SNOMEDCT,230711001,Thalamic hemorrhage (disorder),1.0

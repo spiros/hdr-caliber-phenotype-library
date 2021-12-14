@@ -1,0 +1,12 @@
+terminology,code,term,code_type
+ICD10,G95.1,Avascular myelopathies (arterial or venous),1
+ICD10,I63.1,Cerebral infarction,1
+ICD10,I63.8,Cerebral infarction,1
+ICD10,I63.3,Cerebral infarction,1
+ICD10,I64,"Stroke, not specified as haemorrhage or infarction",1
+ICD10,I63.4,Cerebral infarction,1
+ICD10,I63.2,Cerebral infarction,1
+ICD10,I63.9,Cerebral infarction,1
+ICD10,I63.5,Cerebral infarction,1
+ICD10,I63.0,Cerebral infarction,1
+ICD10,H34,Retinal vascular occlusions,1

@@ -1,0 +1,182 @@
+terminology,code,term,code_type
+CTV3,7609.,Open operations on oesophageal varices,1.0
+CTV3,76093,Local ligation of oesophageal varices,1.0
+CTV3,76094,Open injection sclerotherapy to oesophageal varices,1.0
+CTV3,7609y,Oesophageal varices operation: [OS open] or [Tanner],1.0
+CTV3,7609z,Open operation on oesophageal varices NOS,1.0
+CTV3,760C3,Fibreoptic oesophagoscopy & injection sclerotherapy varices,1.0
+CTV3,760C5,Fibreoptic oesophagoscopy and banding of oesophageal varices,1.0
+CTV3,760F3,Rigid oesophagoscopy and injection sclerotherapy of varices,1.0
+CTV3,760F4,Rigid oesophagoscopy and banding of oesophageal varices,1.0
+CTV3,760J4,Balloon tamponade of oesophagus,1.0
+CTV3,7800.,Liver transplant,1.0
+CTV3,78000,Orthotopic liver transplant,1.0
+CTV3,78001,Heterotopic liver transplant,1.0
+CTV3,78001,Heterotopic liver transplant,1.0
+CTV3,78002,Replacement of previous liver transplant,1.0
+CTV3,7800y,Other specified transplantation of liver,1.0
+CTV3,7800z,Transplantation of liver NOS,1.0
+CTV3,78052,Exploration liver (& transplanted),1.0
+CTV3,A704.,Other specified viral hepatitis with coma,1.0
+CTV3,A7040,Viral hepatitis C with coma,1.0
+CTV3,A704z,Other specified viral hepatitis with hepatic coma NOS,1.0
+CTV3,A706.,Unspecified viral hepatitis with coma,1.0
+CTV3,A7071,Chronic viral hepatitis B without delta-agent,1.0
+CTV3,A7072,Chronic viral hepatitis C,1.0
+CTV3,AyuB1,[X]Other chronic viral hepatitis,1.0
+CTV3,AyuB2,"[X]Chronic viral hepatitis, unspecified",1.0
+CTV3,AyuB3,[X]Unspecified viral hepatitis with coma,1.0
+CTV3,F10y0,Progressive neuronal degeneration with liver cirrhosis,1.0
+CTV3,G850.,Bleeding oesophageal varices,1.0
+CTV3,G851.,Oesophageal varices without bleeding,1.0
+CTV3,G852.,Oesophageal varices in diseases EC,1.0
+CTV3,G8520,Oesophageal varices with bleeding in diseases EC,1.0
+CTV3,G8521,Oesophageal varices without bleeding in diseases EC,1.0
+CTV3,G852z,Oesophageal varices in diseases EC NOS,1.0
+CTV3,G857.,Gastric varices,1.0
+CTV3,Gyu94,[X]Oesophageal varices in diseases classified elsewhere,1.0
+CTV3,J6000,Acute hepatic failure,1.0
+CTV3,J6010,Subacute hepatic failure,1.0
+CTV3,J61..,Cirrhosis and chronic liver disease,1.0
+CTV3,J610.,Alcoholic fatty liver,1.0
+CTV3,J611.,Acute alcoholic hepatitis,1.0
+CTV3,J612.,Cirrhosis: [florid] or [alcoholic],1.0
+CTV3,J613.,Alcoholic liver damage unspecified,1.0
+CTV3,J614.,Chronic hepatitis,1.0
+CTV3,J6140,Chronic persistent hepatitis,1.0
+CTV3,J6141,Chronic active hepatitis,1.0
+CTV3,J6142,Chronic aggressive hepatitis,1.0
+CTV3,J6143,Recurrent hepatitis,1.0
+CTV3,J614y,Chronic hepatitis unspecified,1.0
+CTV3,J614z,Chronic hepatitis NOS,1.0
+CTV3,J615.,(Cirrhosis - non alcoholic) or (portal cirrhosis),1.0
+CTV3,J6150,Unilobular portal cirrhosis,1.0
+CTV3,J6151,Cirrhosis of liver: [multilobular portal] or [postnecrotic],1.0
+CTV3,J6152,Mixed portal cirrhosis,1.0
+CTV3,J6153,Diffuse nodular cirrhosis,1.0
+CTV3,J6154,Fatty portal cirrhosis,1.0
+CTV3,J6155,Macronodular cirrhosis,1.0
+CTV3,J6156,Capsular portal cirrhosis,1.0
+CTV3,J6157,Cirrhosis: [cardiac portal] or [congestive],1.0
+CTV3,J6158,Cirrhosis: [juv portal] or [childh funct] or [Indian childh],1.0
+CTV3,J6159,Pigmentary portal cirrhosis,1.0
+CTV3,J615A,Pipestem portal cirrhosis,1.0
+CTV3,J615B,Toxic portal cirrhosis,1.0
+CTV3,J615D,Bacterial portal cirrhosis,1.0
+CTV3,J615F,Syphilitic portal cirrhosis,1.0
+CTV3,J615G,Zooparasitic portal cirrhosis,1.0
+CTV3,J615H,Infectious cirrhosis NOS,1.0
+CTV3,J615y,Portal cirrhosis unspecified,1.0
+CTV3,J615z,(Liver cirrhos: [named vars] or [NOS]) or (hepat fibrosis),1.0
+CTV3,J616.,Biliary cirrhosis,1.0
+CTV3,J6160,Primary biliary cirrhosis,1.0
+CTV3,J6161,Secondary biliary cirrhosis,1.0
+CTV3,J6162,Biliary cirrhosis of children,1.0
+CTV3,J616z,Biliary cirrhosis NOS,1.0
+CTV3,J617.,Alcoholic hepatitis,1.0
+CTV3,J61y.,Other non-alcoholic chronic liver disease,1.0
+CTV3,J61y0,Chronic yellow atrophy,1.0
+CTV3,J61y3,Portal fibrosis without cirrhosis,1.0
+CTV3,J61yz,Other non-alcoholic chronic liver disease NOS,1.0
+CTV3,J61z.,Chronic liver disease NOS,1.0
+CTV3,J62..,Liver abscess and sequelae of chronic liver disease,1.0
+CTV3,J623.,Portal hypertension,1.0
+CTV3,J624.,Hepatorenal syndrome,1.0
+CTV3,J62z.,Liver abscess and chronic liver disease causing sequelae NOS,1.0
+CTV3,J630.,Chronic passive congestion of liver,1.0
+CTV3,J6353,Toxic liver disease with chronic persistent hepatitis,1.0
+CTV3,J6354,Toxic liver disease with chronic lobular hepatitis,1.0
+CTV3,J6355,Toxic liver disease with chronic active hepatitis,1.0
+CTV3,J6356,Toxic liver disease with fibrosis and cirrhosis of liver,1.0
+CTV3,J63A.,Hepatic granulomas in sarcoidosis,1.0
+CTV3,J6617,Primary sclerosing cholangitis,1.0
+CTV3,Jyu71,[X]Other and unspecified cirrhosis of liver,1.0
+CTV3,PB61.,Atresia of bile ducts,1.0
+CTV3,PB610,Congenital absence of bile duct,1.0
+CTV3,PB611,Congenital hypoplasia of bile duct,1.0
+CTV3,PB614,Atresia of bile duct (& [intrahepatic] or [extrahepatic],1.0
+CTV3,PB615,Congenital absence of hepatic ducts,1.0
+CTV3,PB616,Atresia of hepatic ducts,1.0
+CTV3,PB61z,Biliary atresia NOS,1.0
+CTV3,PB635,Alagille syndrome,1.0
+CTV3,SP086,Liver transplant failure and rejection,1.0
+CTV3,SP142,Hepatic failure as a complication of care,1.0
+CTV3,SP143,Hepatorenal syndrome as a complication of care,1.0
+CTV3,X2063,Oesophageal varices,1.0
+CTV3,X20Uu,Balln tamponade oesophagus using Sengstaken-Blakemore tube,1.0
+CTV3,X20Uv,Balloon tamponade of oesophagus using Minnesota tube,1.0
+CTV3,X20Zz,Exploration of liver transplant,1.0
+CTV3,X306h,Chronic viral hepatitis,1.0
+CTV3,X306i,Chronic viral hepatitis B,1.0
+CTV3,X306j,Chronic viral hepatitis B with hepatitis D,1.0
+CTV3,X306k,Chronic viral hepatitis C,1.0
+CTV3,X306l,Chronic non-A non-B hepatitis,1.0
+CTV3,X306r,Alcoholic hepatitis,1.0
+CTV3,X3071,Alcoholic liver disease,1.0
+CTV3,X3072,Alcoholic fibrosis and sclerosis of liver,1.0
+CTV3,X3073,Alcoholic hepatic failure,1.0
+CTV3,X3076,Hepatic failure,1.0
+CTV3,X3077,Liver failure NOS,1.0
+CTV3,X3078,Hepatic failure NOS,1.0
+CTV3,X3079,Fulminant hepatic failure,1.0
+CTV3,X307A,Subfulminant hepatic failure,1.0
+CTV3,X307C,Chronic hepatic failure,1.0
+CTV3,X307G,Chronic lobular hepatitis,1.0
+CTV3,X307I,Drug-induced chronic hepatitis,1.0
+CTV3,X307L,Cirrhosis of liver,1.0
+CTV3,X307M,Cirrhosis of liver NOS,1.0
+CTV3,X307N,Florid cirrhosis,1.0
+CTV3,X307O,Cryptogenic cirrhosis,1.0
+CTV3,X307P,Indian childhood cirrhosis,1.0
+CTV3,X307Q,Micronodular cirrhosis,1.0
+CTV3,X307R,Portal cirrhosis,1.0
+CTV3,X307S,"Laennec's cirrhosis, non-alcoholic",1.0
+CTV3,X307T,Infectious cirrhosis,1.0
+CTV3,X307U,Hypoxia-associated cirrhosis,1.0
+CTV3,X307V,Toxic cirrhosis,1.0
+CTV3,X307W,Fibrosis of liver,1.0
+CTV3,X307X,Congenital hepatic fibrosis,1.0
+CTV3,X307Y,Pericellular fibrosis of congenital syphilis,1.0
+CTV3,X307Z,Hepatic sclerosis,1.0
+CTV3,X307a,Portal and splenic vein sclerosis,1.0
+CTV3,X307b,Hepatic fibrosis with hepatic sclerosis,1.0
+CTV3,X307c,Intrahepatic phlebosclerosis and fibrosis,1.0
+CTV3,X307x,Liver transplant disorder,1.0
+CTV3,X307y,Liver transplant rejection,1.0
+CTV3,X307z,Liver transplant failure,1.0
+CTV3,X3085,Ichthyosis congenita with biliary atresia,1.0
+CTV3,X7847,Intrahepatic biliary atresia,1.0
+CTV3,X7848,Extrahepatic biliary atresia,1.0
+CTV3,XE0CP,Other specified open operation on oesophageal varices,1.0
+CTV3,XE0b4,Alcoholic cirrhosis of liver,1.0
+CTV3,XE0b5,Cirrhosis - non-alcoholic,1.0
+CTV3,XE0b6,Multilobular portal cirrhosis,1.0
+CTV3,XE0b7,Cardiac portal cirrhosis,1.0
+CTV3,XE0b8,Juvenile portal cirrhosis,1.0
+CTV3,XE0bA,Non-alcoholic cirrhosis NOS,1.0
+CTV3,XE0bC,Other sequelae of chronic liver disease,1.0
+CTV3,XE0dD,(Cirrhos &/or chron liver dis) or (alcoholic liver disease),1.0
+CTV3,XE0dF,Alcoholic liver damage NOS,1.0
+CTV3,XE0dH,Chronic hepatitis (& [NOS]/[active B]/[active]/[persistent]),1.0
+CTV3,XE0dJ,Biliary cirrhosis (& [primary]),1.0
+CTV3,XE2up,Cirrhosis secondary to cholestasis,1.0
+CTV3,Xa9C7,Cardiac cirrhosis,1.0
+CTV3,XaBE3,Chronic alcoholic hepatitis,1.0
+CTV3,XaBM6,Oesophageal varices in cirrhosis of the liver,1.0
+CTV3,XaC1d,Oesophageal varices in alcoholic cirrhosis of the liver,1.0
+CTV3,XaE6u,Oesophageal varices NOS,1.0
+CTV3,XaJTk,Autoimmune hepatitis,1.0
+CTV3,XaJxp,Acute hepatic failure due to drugs,1.0
+CTV3,XaLdJ,Fibreopt endoscop rubber band ligation of upper GIT varices,1.0
+CTV3,XaLde,Transplantation of liver cells,1.0
+CTV3,XaLdf,Orthotopic transplantation of whole liver,1.0
+CTV3,XaMMe,Orthotopic transplantation of liver NEC,1.0
+CTV3,XaMuG,Compensation for liver failure,1.0
+CTV3,XaMuH,Other specified compensation for liver failure,1.0
+CTV3,XaMuI,Compensation for liver failure NOS,1.0
+CTV3,XaPLW,Chronic hepatitis annual review,1.0
+CTV3,XaREa,Liver disease due to cystic fibrosis,1.0
+CTV3,XaXi9,Cystic fibrosis related cirrhosis,1.0
+CTV3,XaYbp,Viral hepatitis with hepatic coma,1.0
+CTV3,ZV427,[V]Liver transplanted,1.0
+CTV3,ZV7C0,[V]Assessment for liver transplant,1.0

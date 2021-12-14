@@ -1,0 +1,1907 @@
+terminology,code,term,code_type
+SNOMEDCT,109264009,Overlapping malignant neoplasm of skin,1.0
+SNOMEDCT,109267002,Overlapping malignant melanoma of skin,1.0
+SNOMEDCT,109347009,Overlapping malignant neoplasm of bone and articular cartilage,1.0
+SNOMEDCT,109358000,Overlapping malignant neoplasm of ill-defined site,1.0
+SNOMEDCT,109367000,Overlapping malignant neoplasm of nasopharynx,1.0
+SNOMEDCT,109369002,Overlapping malignant neoplasm of larynx,1.0
+SNOMEDCT,109371002,Overlapping malignant neoplasm of bronchus and lung,1.0
+SNOMEDCT,109378008,Mesothelioma (malignant)(clinical),1.0
+SNOMEDCT,109383000,Mesothelioma of pericardium,1.0
+SNOMEDCT,109384006,"Overlapping malignant neoplasm of heart, mediastinum and pleura",1.0
+SNOMEDCT,109385007,Kaposi's sarcoma (clinical),1.0
+SNOMEDCT,109388009,Kaposi's sarcoma of palate,1.0
+SNOMEDCT,109391009,Kaposi's sarcoma of lymph nodes,1.0
+SNOMEDCT,109392002,Kaposi's sarcoma of multiple organs,1.0
+SNOMEDCT,109823006,Overlapping malignant neoplasm of tongue,1.0
+SNOMEDCT,109830000,Overlapping malignant neoplasm of floor of mouth,1.0
+SNOMEDCT,109835005,Overlapping malignant neoplasm of esophagus,1.0
+SNOMEDCT,109836006,Overlapping malignant neoplasm of stomach,1.0
+SNOMEDCT,109837002,Overlapping malignant neoplasm of small intestine,1.0
+SNOMEDCT,109841003,Liver cell carcinoma (clinical),1.0
+SNOMEDCT,109843000,Hepatoblastoma (clinical),1.0
+SNOMEDCT,109844006,Angiosarcoma of liver,1.0
+SNOMEDCT,109847004,Overlapping malignant neoplasm of biliary tract,1.0
+SNOMEDCT,109848009,Overlapping malignant neoplasm of pancreas,1.0
+SNOMEDCT,109853004,Mesothelioma of peritoneum,1.0
+SNOMEDCT,109874003,Overlapping malignant neoplasm of male genital organs,1.0
+SNOMEDCT,109875002,Overlapping malignant neoplasm of penis,1.0
+SNOMEDCT,109876001,Malignant neoplasm of descended testis,1.0
+SNOMEDCT,109878000,Overlapping malignant neoplasm of female genital organs,1.0
+SNOMEDCT,109885001,Overlapping malignant neoplasm of vulva,1.0
+SNOMEDCT,1098961000119105,History of cancer metastatic to lung,0.0
+SNOMEDCT,109911004,Overlapping malignant neoplasm of brain and other parts of the central nervous system,1.0
+SNOMEDCT,109912006,Overlapping malignant neoplasm of brain,1.0
+SNOMEDCT,109919002,Overlapping malignant neoplasm of peripheral nerves and autonomic nervous system,1.0
+SNOMEDCT,109948008,Overlapping malignant neoplasm of eye and adnexa (primary),1.0
+SNOMEDCT,109962001,Diffuse non-Hodgkin's lymphoma,1.0
+SNOMEDCT,109965004,"Diffuse non-Hodgkin's lymphoma, lymphoblastic (clinical)",1.0
+SNOMEDCT,109966003,"Diffuse non-Hodgkin's lymphoma, immunoblastic (clinical)",1.0
+SNOMEDCT,109969005,"Diffuse non-Hodgkin's lymphoma, large cell (clinical)",1.0
+SNOMEDCT,109975001,T-zone lymphoma (clinical),1.0
+SNOMEDCT,109976000,Lymphoepithelioid lymphoma (clinical),1.0
+SNOMEDCT,109977009,Peripheral T-cell lymphoma (clinical),1.0
+SNOMEDCT,109978004,T-cell lymphoma (clinical),1.0
+SNOMEDCT,109979007,B-cell lymphoma (clinical),1.0
+SNOMEDCT,109980005,Malignant immunoproliferative disease (clinical),1.0
+SNOMEDCT,109988003,True histiocytic lymphoma (clinical),1.0
+SNOMEDCT,109989006,Multiple myeloma (clinical),1.0
+SNOMEDCT,109991003,Acute myelofibrosis (clinical),1.0
+SNOMEDCT,109992005,Vaquez's disease,1.0
+SNOMEDCT,110002002,Mast cell leukemia (clinical),1.0
+SNOMEDCT,110004001,Acute promyelocytic leukaemia (clinical),1.0
+SNOMEDCT,110005000,Acute myelomonocytic leukaemia (clinical),1.0
+SNOMEDCT,110006004,Prolymphocytic leukemia (clinical),1.0
+SNOMEDCT,110013004,Overlapping malignant neoplasm of tonsil,1.0
+SNOMEDCT,118599009,Hodgkin's disease (clinical),1.0
+SNOMEDCT,118600007,Lymphoma (clinical),1.0
+SNOMEDCT,118601006,Non-Hodgkin's lymphoma (clinical),1.0
+SNOMEDCT,118602004,Hodgkin's granuloma (clinical),1.0
+SNOMEDCT,118605002,Hodgkin's paragranuloma (clinical),1.0
+SNOMEDCT,118606001,Hodgkin's sarcoma (clinical),1.0
+SNOMEDCT,118607005,"Hodgkin's disease, lymphocytic-histiocytic predominance (clinical)",1.0
+SNOMEDCT,118608000,"Hodgkin's disease, nodular sclerosis (clinical)",1.0
+SNOMEDCT,118609008,"Hodgkin's disease, mixed cellularity (clinical)",1.0
+SNOMEDCT,118610003,"Hodgkin's disease, lymphocytic depletion (clinical)",1.0
+SNOMEDCT,118611004,Sézary's disease (clinical),1.0
+SNOMEDCT,118612006,Malignant histiocytosis (clinical),1.0
+SNOMEDCT,118613001,Leukemic reticuloendotheliosis (clinical) [obs],1.0
+SNOMEDCT,118614007,Letterer-Siwe disease (clinical),1.0
+SNOMEDCT,118615008,Malignant mast cell tumor (clinical),1.0
+SNOMEDCT,118617000,Burkitt's lymphoma (clinical),1.0
+SNOMEDCT,118618005,Mycosis fungoides (clinical),1.0
+SNOMEDCT,127225006,Chronic myelomonocytic leukemia,1.0
+SNOMEDCT,128462008,Metastatic neoplasm (disease),1.0
+SNOMEDCT,134421000,Pathological fracture due to metastatic bone disease,1.0
+SNOMEDCT,161436008,H/O: * leukemia,0.0
+SNOMEDCT,187601000,"Malignant neoplasm of upper lip, lipstick area",1.0
+SNOMEDCT,187604008,"Malignant neoplasm of lower lip, external",1.0
+SNOMEDCT,187606005,Malignant tumour of oral aspect of upper lip,1.0
+SNOMEDCT,187613005,"Malignant neoplasm of lower lip, buccal aspect",1.0
+SNOMEDCT,187614004,Malignant tumor of frenum of lower lip,1.0
+SNOMEDCT,187622006,Malignant tumor of labial mucosa,1.0
+SNOMEDCT,187624007,Malignant neoplasm of overlapping lesion of lip,1.0
+SNOMEDCT,187631006,Malignant neoplasm of base of tongue dorsal surface,1.0
+SNOMEDCT,187633009,Malignant neoplasm of dorsal surface of tongue,1.0
+SNOMEDCT,187637005,"Malignant neoplasm of tongue, tip and lateral border",1.0
+SNOMEDCT,187640005,Malignant neoplasm of anterior 2/3 of tongue ventral surface,1.0
+SNOMEDCT,187641009,Malignant tumor of frenum linguae,1.0
+SNOMEDCT,187644001,Malignant tumour of junctional zone of tongue,1.0
+SNOMEDCT,187652003,Malignant tumour of anterior floor of mouth,1.0
+SNOMEDCT,187653008,Malignant neoplasm of lateral portion of floor of mouth,1.0
+SNOMEDCT,187658004,Malignant tumour of vestibule of mouth,1.0
+SNOMEDCT,187659007,Malignant neoplasm of upper buccal sulcus,1.0
+SNOMEDCT,187660002,Malignant tumor of lower buccal sulcus,1.0
+SNOMEDCT,187666008,Malignant neoplasm of junction of hard and soft palate,1.0
+SNOMEDCT,187675005,Malignant tumour of palatopharyngeal arch,1.0
+SNOMEDCT,187681002,Malignant neoplasm of anterior epiglottis,1.0
+SNOMEDCT,187682009,"Malignant neoplasm of epiglottis, free border",1.0
+SNOMEDCT,187683004,Malignant neoplasm of glossoepiglottic fold,1.0
+SNOMEDCT,187685006,Malignant neoplasm of junctional region of epiglottis,1.0
+SNOMEDCT,187688008,Malignant tumour of posterior wall of oropharynx,1.0
+SNOMEDCT,187692001,Malignant tumor of epipharynx,1.0
+SNOMEDCT,187693006,Malignant tumour of posterior wall of nasopharynx,1.0
+SNOMEDCT,187694000,Malignant tumor of adenoid,1.0
+SNOMEDCT,187697007,Malignant tumour of fossa of Rosenmuller,1.0
+SNOMEDCT,187700006,Malignant tumor of anterior wall of nasopharynx,1.0
+SNOMEDCT,187708004,Malignant tumor aryepiglottic fold - hypopharyngeal aspect,1.0
+SNOMEDCT,187709007,Malignant neoplasm of posterior pharynx,1.0
+SNOMEDCT,187716008,Malignant tumour of Waldeyer's ring,1.0
+SNOMEDCT,187722004,Malignant tumour of cervical part of oesophagus,1.0
+SNOMEDCT,187723009,Malignant neoplasm of thoracic esophagus,1.0
+SNOMEDCT,187724003,Malignant tumour of abdominal part of oesophagus,1.0
+SNOMEDCT,187725002,Malignant neoplasm of upper third of esophagus,1.0
+SNOMEDCT,187726001,Malignant tumor of middle third of esophagus,1.0
+SNOMEDCT,187727005,Malignant neoplasm of lower third of oesophagus,1.0
+SNOMEDCT,187732006,Malignant neoplasm of cardia of stomach,1.0
+SNOMEDCT,187733001,Malignant neoplasm of cardiac orifice of stomach,1.0
+SNOMEDCT,187734007,Malignant neoplasm of cardio-esophageal junction of stomach,1.0
+SNOMEDCT,187736009,Malignant tumor of pylorus,1.0
+SNOMEDCT,187738005,Malignant neoplasm of pyloric canal of stomach,1.0
+SNOMEDCT,187740000,Malignant tumor of pyloric antrum,1.0
+SNOMEDCT,187741001,Malignant tumour of fundus of stomach,1.0
+SNOMEDCT,187742008,Malignant tumor of body of stomach,1.0
+SNOMEDCT,187752007,Malignant tumor of Meckel's diverticulum,1.0
+SNOMEDCT,187757001,"Malignant neoplasm, overlapping lesion of colon",1.0
+SNOMEDCT,187760008,"Malignant neoplasm of rectum, rectosigmoid junction and anus",1.0
+SNOMEDCT,187767006,Malignant neoplasm of liver and intrahepatic bile ducts,1.0
+SNOMEDCT,187769009,Primary carcinoma of liver,1.0
+SNOMEDCT,187773007,Malignant neoplasm of interlobular bile ducts,1.0
+SNOMEDCT,187777008,Malignant neoplasm of intrahepatic gall duct,1.0
+SNOMEDCT,187784000,Malignant neoplasm of hepatic duct,1.0
+SNOMEDCT,187791002,Malignant tumor of body of pancreas,1.0
+SNOMEDCT,187792009,Malignant tumour of tail of pancreas,1.0
+SNOMEDCT,187793004,Malignant tumor of pancreatic duct,1.0
+SNOMEDCT,187794005,Malignant tumour of Islets of Langerhans,1.0
+SNOMEDCT,187798008,Malignant neoplasm of ectopic pancreatic tissue,1.0
+SNOMEDCT,187801002,Malignant tumour of peritoneum and retroperitoneum,1.0
+SNOMEDCT,187803004,Malignant neoplasm of perinephric tissue,1.0
+SNOMEDCT,187804005,Malignant neoplasm of retrocaecal tissue,1.0
+SNOMEDCT,187807003,Overlapping malignant lesion of retroperitoneum and peritoneum,1.0
+SNOMEDCT,187808008,Malignant neoplasm of specified parts of peritoneum,1.0
+SNOMEDCT,187811009,Malignant neoplasm of mesorectum,1.0
+SNOMEDCT,187814001,Malignant neoplasm of the pouch of Douglas,1.0
+SNOMEDCT,187822008,Fibrosarcoma of spleen,1.0
+SNOMEDCT,187824009,"Malignant neoplasm, overlapping lesion of digestive system",1.0
+SNOMEDCT,187828007,"Malignant neoplasm of nasal cavities, middle ear and accessory sinuses",1.0
+SNOMEDCT,187829004,Malignant neoplasm of cartilage of nose,1.0
+SNOMEDCT,187830009,Malignant neoplasm of nasal conchae,1.0
+SNOMEDCT,187831008,Malignant tumour of nasal vestibule,1.0
+SNOMEDCT,187833006,"Malignant neoplasm of auditory tube, middle ear and mastoid air cells",1.0
+SNOMEDCT,187835004,Malignant tumour of tympanic cavity,1.0
+SNOMEDCT,187836003,Malignant tumor of tympanic antrum,1.0
+SNOMEDCT,187838002,"Malignant neoplasm, overlapping lesion of accessory sinuses",1.0
+SNOMEDCT,187841006,Malignant tumor of glottis,1.0
+SNOMEDCT,187842004,Malignant tumour of supraglottis,1.0
+SNOMEDCT,187843009,Malignant neoplasm of arytenoid cartilage,1.0
+SNOMEDCT,187844003,Malignant neoplasm of cricoid cartilage,1.0
+SNOMEDCT,187846001,Malignant neoplasm of thyroid cartilage,1.0
+SNOMEDCT,187854004,Malignant neoplasm of mucosa of trachea,1.0
+SNOMEDCT,187857006,Malignant neoplasm of carina of bronchus,1.0
+SNOMEDCT,187861000,Malignant neoplasm of upper lobe bronchus,1.0
+SNOMEDCT,187862007,Malignant neoplasm of upper lobe of lung,1.0
+SNOMEDCT,187864008,"Malignant neoplasm of middle lobe, bronchus or lung",1.0
+SNOMEDCT,187865009,Malignant neoplasm of middle lobe bronchus,1.0
+SNOMEDCT,187866005,Malignant neoplasm of middle lobe of lung,1.0
+SNOMEDCT,187868006,"Malignant neoplasm of lower lobe, bronchus or lung",1.0
+SNOMEDCT,187869003,Malignant neoplasm of lower lobe bronchus,1.0
+SNOMEDCT,187870002,Malignant neoplasm of lower lobe of lung,1.0
+SNOMEDCT,187881004,"Malignant neoplasm of thymus, heart and mediastinum",1.0
+SNOMEDCT,187900002,Malignant neoplasm of bones of skull and face,1.0
+SNOMEDCT,187903000,Malignant neoplasm of malar bone,1.0
+SNOMEDCT,187906008,Malignant neoplasm of orbital bone,1.0
+SNOMEDCT,187916000,Malignant neoplasm of cervical vertebra,1.0
+SNOMEDCT,187917009,Malignant neoplasm of thoracic vertebra,1.0
+SNOMEDCT,187918004,Malignant neoplasm of lumbar vertebra,1.0
+SNOMEDCT,187920001,"Malignant neoplasm of ribs, sternum and clavicle",1.0
+SNOMEDCT,187925006,Malignant neoplasm of costal cartilage,1.0
+SNOMEDCT,187926007,Malignant neoplasm of costovertebral joint,1.0
+SNOMEDCT,187927003,Malignant neoplasm of xiphoid process,1.0
+SNOMEDCT,187929000,Malignant neoplasm of scapula and long bones of upper arm,1.0
+SNOMEDCT,187932002,Malignant neoplasm of humerus,1.0
+SNOMEDCT,187937008,Malignant neoplasm of carpal bone - scaphoid,1.0
+SNOMEDCT,187938003,Malignant neoplasm of carpal bone - lunate,1.0
+SNOMEDCT,187949009,Malignant neoplasm of fifth metacarpal bone,1.0
+SNOMEDCT,187950009,Malignant neoplasm of phalanges of hand,1.0
+SNOMEDCT,187952001,"Malignant neoplasm of pelvic bones, sacrum and coccyx",1.0
+SNOMEDCT,187956003,Malignant neoplasm of sacral vertebra,1.0
+SNOMEDCT,187957007,Malignant neoplasm of coccygeal vertebra,1.0
+SNOMEDCT,187967002,Malignant neoplasm of calcaneum,1.0
+SNOMEDCT,187968007,Malignant neoplasm of medial cuneiform,1.0
+SNOMEDCT,187973001,Malignant neoplasm of first metatarsal bone,1.0
+SNOMEDCT,187976009,Malignant neoplasm of fourth metatarsal bone,1.0
+SNOMEDCT,187978005,Malignant neoplasm of phalanges of foot,1.0
+SNOMEDCT,187987001,Malignant neoplasm of cartilage of ear,1.0
+SNOMEDCT,187988006,Malignant neoplasm of tarsus of eyelid,1.0
+SNOMEDCT,187991006,Malignant neoplasm of connective and soft tissue of upper limb and shoulder,1.0
+SNOMEDCT,187992004,Malignant neoplasm of connective and soft tissue of shoulder,1.0
+SNOMEDCT,187993009,"Malignant neoplasm of connective and soft tissue, upper arm",1.0
+SNOMEDCT,187994003,Malignant neoplasm of connective and soft tissue of fore-arm,1.0
+SNOMEDCT,187995002,Malignant neoplasm of connective and soft tissue of hand,1.0
+SNOMEDCT,187996001,Malignant neoplasm of connective and soft tissue of finger,1.0
+SNOMEDCT,187997005,Malignant neoplasm of connective and soft tissue of thumb,1.0
+SNOMEDCT,187999008,Malignant neoplasm of connective and soft tissue of hip and lower limb,1.0
+SNOMEDCT,188000002,Malignant neoplasm of connective and soft tissue of hip,1.0
+SNOMEDCT,188001003,Malignant neoplasm of connective and soft tissue of thigh and upper leg,1.0
+SNOMEDCT,188002005,Malignant neoplasm of connective and soft tissue of popliteal space,1.0
+SNOMEDCT,188003000,Malignant neoplasm of connective and soft tissue of lower leg,1.0
+SNOMEDCT,188004006,Malignant neoplasm of connective and soft tissue of foot,1.0
+SNOMEDCT,188005007,Malignant neoplasm of connective and soft tissue of toe,1.0
+SNOMEDCT,188009001,Malignant neoplasm of connective and soft tissue of thorax,1.0
+SNOMEDCT,188010006,Malignant neoplasm of connective and soft tissue of axilla,1.0
+SNOMEDCT,188013008,Malignant neoplasm of connective and soft tissues of thoracic spine,1.0
+SNOMEDCT,188015001,Malignant neoplasm of connective and soft tissue of abdomen,1.0
+SNOMEDCT,188016000,Malignant neoplasm of connective and soft tissue of abdominal wall,1.0
+SNOMEDCT,188017009,Malignant neoplasm of connective and soft tissues of lumbar spine,1.0
+SNOMEDCT,188019007,Malignant neoplasm of connective and soft tissue of pelvis,1.0
+SNOMEDCT,188020001,Malignant neoplasm of connective and soft tissue of buttock,1.0
+SNOMEDCT,188021002,Malignant neoplasm of connective and soft tissue of inguinal region,1.0
+SNOMEDCT,188022009,Malignant neoplasm of connective and soft tissue of perineum,1.0
+SNOMEDCT,188029000,Kaposi's sarcoma of soft tissue,1.0
+SNOMEDCT,188030005,Malignant melanoma of lip,1.0
+SNOMEDCT,188032002,Malignant melanoma of ear and external auricular canal,1.0
+SNOMEDCT,188033007,Malignant melanoma of auricle (ear),1.0
+SNOMEDCT,188034001,Malignant melanoma of external auditory meatus,1.0
+SNOMEDCT,188038003,Malignant melanoma of chin,1.0
+SNOMEDCT,188040008,Malignant melanoma of forehead,1.0
+SNOMEDCT,188042000,Malignant melanoma of temple,1.0
+SNOMEDCT,188044004,Malignant melanoma of scalp and neck,1.0
+SNOMEDCT,188045003,Malignant melanoma of scalp,1.0
+SNOMEDCT,188046002,Malignant melanoma of neck,1.0
+SNOMEDCT,188049009,Malignant melanoma of axilla,1.0
+SNOMEDCT,188050009,Malignant melanoma of breast,1.0
+SNOMEDCT,188051008,Malignant melanoma of buttock,1.0
+SNOMEDCT,188052001,Malignant melanoma of groin,1.0
+SNOMEDCT,188054000,Malignant melanoma of perineum,1.0
+SNOMEDCT,188055004,Malignant melanoma of umbilicus,1.0
+SNOMEDCT,188060000,Malignant melanoma of shoulder,1.0
+SNOMEDCT,188061001,Malignant melanoma of upper arm,1.0
+SNOMEDCT,188062008,Malignant melanoma of fore-arm,1.0
+SNOMEDCT,188063003,Malignant melanoma of hand,1.0
+SNOMEDCT,188064009,Malignant melanoma of finger,1.0
+SNOMEDCT,188065005,Malignant melanoma of thumb,1.0
+SNOMEDCT,188067002,Malignant melanoma of lower limb and hip,1.0
+SNOMEDCT,188068007,Malignant melanoma of hip,1.0
+SNOMEDCT,188069004,Malignant melanoma of thigh,1.0
+SNOMEDCT,188070003,Malignant melanoma of knee,1.0
+SNOMEDCT,188071004,Malignant melanoma of popliteal fossa area,1.0
+SNOMEDCT,188072006,Malignant melanoma of lower leg,1.0
+SNOMEDCT,188073001,Malignant melanoma of ankle,1.0
+SNOMEDCT,188074007,Malignant melanoma of heel,1.0
+SNOMEDCT,188075008,Malignant melanoma of foot,1.0
+SNOMEDCT,188076009,Malignant melanoma of toe,1.0
+SNOMEDCT,188077000,Malignant melanoma of great toe,1.0
+SNOMEDCT,188147009,Malignant neoplasm of nipple and areola of female breast,1.0
+SNOMEDCT,188151006,Malignant neoplasm of central part of female breast,1.0
+SNOMEDCT,188152004,Malignant neoplasm of upper-inner quadrant of female breast,1.0
+SNOMEDCT,188153009,Malignant neoplasm of lower-inner quadrant of female breast,1.0
+SNOMEDCT,188154003,Malignant neoplasm of upper-outer quadrant of female breast,1.0
+SNOMEDCT,188155002,Malignant neoplasm of lower-outer quadrant of female breast,1.0
+SNOMEDCT,188156001,Malignant neoplasm of axillary tail of female breast,1.0
+SNOMEDCT,188157005,"Malignant neoplasm, overlapping lesion of breast",1.0
+SNOMEDCT,188159008,Malignant neoplasm of ectopic site of female breast,1.0
+SNOMEDCT,188163001,Malignant neoplasm of nipple and areola of male breast,1.0
+SNOMEDCT,188168005,Malignant neoplasm of ectopic site of male breast,1.0
+SNOMEDCT,188176007,Malignant neoplasm of endocervical canal,1.0
+SNOMEDCT,188177003,Malignant neoplasm of endocervical gland,1.0
+SNOMEDCT,188180002,"Malignant neoplasm, overlapping lesion of cervix uteri",1.0
+SNOMEDCT,188183000,Malignant neoplasm of cervical stump,1.0
+SNOMEDCT,188184006,Malignant neoplasm of squamocolumnar junction of cervix,1.0
+SNOMEDCT,188188009,Choriocarcinoma,1.0
+SNOMEDCT,188189001,"Malignant neoplasm of corpus uteri, excluding isthmus",1.0
+SNOMEDCT,188190005,Malignant neoplasm of cornu of corpus uteri,1.0
+SNOMEDCT,188191009,Malignant neoplasm of fundus of corpus uteri,1.0
+SNOMEDCT,188192002,Malignant neoplasm of endometrium of corpus uteri,1.0
+SNOMEDCT,188193007,Malignant neoplasm of myometrium of corpus uteri,1.0
+SNOMEDCT,188195000,Malignant neoplasm of isthmus of uterine body,1.0
+SNOMEDCT,188198003,Malignant neoplasm of overlapping lesion of corpus uteri,1.0
+SNOMEDCT,188209005,Malignant neoplasm of vaginal vault,1.0
+SNOMEDCT,188211001,Malignant neoplasm of greater vestibular (Bartholin's) gland,1.0
+SNOMEDCT,188219004,Malignant tumour of undescended testis,1.0
+SNOMEDCT,188230001,Malignant tumour of shaft of penis,1.0
+SNOMEDCT,188234005,Malignant neoplasm of seminal vesicle,1.0
+SNOMEDCT,188235006,Malignant tumor of tunica vaginalis,1.0
+SNOMEDCT,188239000,Malignant tumor of trigone of urinary bladder,1.0
+SNOMEDCT,188240003,Malignant tumour of vault of bladder,1.0
+SNOMEDCT,188241004,Malignant neoplasm of lateral wall of urinary bladder,1.0
+SNOMEDCT,188242006,Malignant neoplasm of anterior wall of urinary bladder,1.0
+SNOMEDCT,188243001,Malignant neoplasm of posterior wall of urinary bladder,1.0
+SNOMEDCT,188244007,Malignant tumour of bladder neck,1.0
+SNOMEDCT,188245008,Malignant neoplasm of ureteric orifice,1.0
+SNOMEDCT,188247000,"Malignant neoplasm, overlapping lesion of bladder",1.0
+SNOMEDCT,188250002,Malignant neoplasm of kidney parenchyma,1.0
+SNOMEDCT,188252005,Malignant neoplasm of renal calyx,1.0
+SNOMEDCT,188253000,Malignant tumour of pelviureteric junction,1.0
+SNOMEDCT,188256008,Malignant neoplasm of overlapping lesion of urinary organs,1.0
+SNOMEDCT,188261005,"Malignant neoplasm of eyeball excluding conjunctiva, cornea, retina and choroid",1.0
+SNOMEDCT,188263008,Malignant neoplasm of ciliary body,1.0
+SNOMEDCT,188264002,Malignant neoplasm of iris,1.0
+SNOMEDCT,188268004,Malignant neoplasm of connective tissue of orbit,1.0
+SNOMEDCT,188272000,Malignant neoplasm of lacrimal gland,1.0
+SNOMEDCT,188273005,Malignant neoplasm of lacrimal sac,1.0
+SNOMEDCT,188274004,Malignant neoplasm of nasolacrimal duct,1.0
+SNOMEDCT,188280007,Malignant neoplasm of cerebrum (excluding lobes and ventricles),1.0
+SNOMEDCT,188281006,Malignant neoplasm of basal ganglia,1.0
+SNOMEDCT,188282004,Malignant neoplasm of cerebral cortex,1.0
+SNOMEDCT,188285002,Malignant neoplasm of globus pallidus,1.0
+SNOMEDCT,188286001,Malignant tumor of hypothalamus,1.0
+SNOMEDCT,188287005,Malignant neoplasm of thalamus,1.0
+SNOMEDCT,188289008,Malignant neoplasm of hippocampus,1.0
+SNOMEDCT,188292007,Malignant tumour of choroid plexus,1.0
+SNOMEDCT,188295009,Malignant neoplasm of cerebral peduncle,1.0
+SNOMEDCT,188296005,Malignant neoplasm of medulla oblongata,1.0
+SNOMEDCT,188297001,Malignant neoplasm of midbrain,1.0
+SNOMEDCT,188298006,Malignant neoplasm of pons,1.0
+SNOMEDCT,188301005,Malignant neoplasm of corpus callosum,1.0
+SNOMEDCT,188307009,Malignant tumour of cranial nerve,1.0
+SNOMEDCT,188308004,Malignant neoplasm of olfactory bulb,1.0
+SNOMEDCT,188321006,Malignant neoplasm of peripheral nerves and autonomic nervous system,1.0
+SNOMEDCT,188322004,"Malignant neoplasm of peripheral nerves of head, face and neck",1.0
+SNOMEDCT,188323009,"Malignant neoplasm of peripheral nerves of upper limb, including shoulder",1.0
+SNOMEDCT,188324003,"Malignant neoplasm of peripheral nerves of lower limb, including hip",1.0
+SNOMEDCT,188325002,Malignant neoplasm of peripheral nerve of thorax,1.0
+SNOMEDCT,188326001,Malignant neoplasm of peripheral nerve of abdomen,1.0
+SNOMEDCT,188327005,Malignant neoplasm of peripheral nerve of pelvis,1.0
+SNOMEDCT,188339002,Malignant neoplasm of pituitary gland and craniopharyngeal duct,1.0
+SNOMEDCT,188340000,Malignant tumor of craniopharyngeal duct,1.0
+SNOMEDCT,188353002,"Malignant neoplasm of head, neck and face",1.0
+SNOMEDCT,188361007,Malignant neoplasm of thorax,1.0
+SNOMEDCT,188366002,Malignant tumor of abdomen,1.0
+SNOMEDCT,188445006,Secondary malignant neoplasm of retroperitoneum and peritoneum,1.0
+SNOMEDCT,188454009,Secondary malignant neoplasm of skin of head,1.0
+SNOMEDCT,188458007,Secondary malignant neoplasm of skin of shoulder and arm,1.0
+SNOMEDCT,188459004,Secondary malignant neoplasm of skin of hip and leg,1.0
+SNOMEDCT,188462001,Secondary malignant neoplasm of brain and spinal cord,1.0
+SNOMEDCT,188469005,Secondary malignant neoplasm of cervix uteri,1.0
+SNOMEDCT,188478004,Malignant neoplasms of independent (primary) multiple sites,1.0
+SNOMEDCT,188487008,Lymphosarcoma and reticulosarcoma,1.0
+SNOMEDCT,188489006,"Reticulosarcoma of lymph nodes of head, face and neck",1.0
+SNOMEDCT,188498009,Lymphosarcoma,1.0
+SNOMEDCT,188500005,"Lymphosarcoma of lymph nodes of head, face and neck",1.0
+SNOMEDCT,188501009,Lymphosarcoma of intrathoracic lymph nodes,1.0
+SNOMEDCT,188502002,Lymphosarcoma of intra-abdominal lymph nodes,1.0
+SNOMEDCT,188504001,Lymphosarcoma of lymph nodes of inguinal region and lower limb,1.0
+SNOMEDCT,188506004,Lymphosarcoma of spleen,1.0
+SNOMEDCT,188510001,"Burkitt's lymphoma of lymph nodes of head, face and neck",1.0
+SNOMEDCT,188511002,Burkitt's lymphoma of intrathoracic lymph nodes,1.0
+SNOMEDCT,188512009,Burkitt's lymphoma of intra-abdominal lymph nodes,1.0
+SNOMEDCT,188514005,Burkitt's lymphoma of lymph nodes of inguinal region and lower limb,1.0
+SNOMEDCT,188534006,"Hodgkin's granuloma of lymph nodes of head, face and neck",1.0
+SNOMEDCT,188547001,Hodgkin's sarcoma of lymph nodes of axilla and upper limb,1.0
+SNOMEDCT,188554007,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and neck",1.0
+SNOMEDCT,188559002,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and lower limb",1.0
+SNOMEDCT,188565002,"Hodgkin's disease, nodular sclerosis of lymph nodes of head, face and neck",1.0
+SNOMEDCT,188566001,"Hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes",1.0
+SNOMEDCT,188567005,"Hodgkin's disease, nodular sclerosis of intra-abdominal lymph nodes",1.0
+SNOMEDCT,188568000,"Hodgkin's disease, nodular sclerosis of lymph nodes of axilla and upper limb",1.0
+SNOMEDCT,188572001,"Hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites",1.0
+SNOMEDCT,188575004,"Hodgkin's disease, mixed cellularity of lymph nodes of head, face and neck",1.0
+SNOMEDCT,188576003,"Hodgkin's disease, mixed cellularity of intrathoracic lymph nodes",1.0
+SNOMEDCT,188589009,"Hodgkin's disease, lymphocytic depletion of lymph nodes of axilla and upper limb",1.0
+SNOMEDCT,188592008,"Hodgkin's disease, lymphocytic depletion of spleen",1.0
+SNOMEDCT,188609000,"Nodular lymphoma of lymph nodes of head, face and neck",1.0
+SNOMEDCT,188613007,Nodular lymphoma of lymph nodes of inguinal region and lower limb,1.0
+SNOMEDCT,188627002,Mycosis fungoides of lymph nodes of multiple sites,1.0
+SNOMEDCT,188640007,"Malignant histiocytosis of lymph nodes of head, face and neck",1.0
+SNOMEDCT,188645002,"Leukaemic reticuloendotheliosis of lymph nodes of head, face and neck",1.0
+SNOMEDCT,188660004,Malignant mast cell tumours,1.0
+SNOMEDCT,188666005,Mast cell malignancy of lymph nodes of inguinal region and lower limb,1.0
+SNOMEDCT,188669003,Mast cell malignancy of lymph nodes of multiple sites,1.0
+SNOMEDCT,188672005,Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma,1.0
+SNOMEDCT,188674006,Diffuse malignant lymphoma - small non-cleaved cell,1.0
+SNOMEDCT,188676008,Malignant lymphoma - mixed small and large cell,1.0
+SNOMEDCT,188679001,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse),1.0
+SNOMEDCT,188691005,Malignant immunoproliferative small intestinal disease,1.0
+SNOMEDCT,188718006,Extramedullary plasmacytoma (clinical),1.0
+SNOMEDCT,188725004,Lymphatic leukaemia,1.0
+SNOMEDCT,188726003,Subacute lymphoid leukemia,1.0
+SNOMEDCT,188729005,Adult T-cell leukaemia,1.0
+SNOMEDCT,188732008,Myeloid leukemia,1.0
+SNOMEDCT,188733003,Chronic eosinophilic leukaemia,1.0
+SNOMEDCT,188734009,Chronic neutrophilic leukemia,1.0
+SNOMEDCT,188736006,Subacute myeloid leukaemia,1.0
+SNOMEDCT,188737002,Chloroma,1.0
+SNOMEDCT,188738007,Granulocytic sarcoma,1.0
+SNOMEDCT,188744006,Histiocytic leukemia,1.0
+SNOMEDCT,188745007,Chronic monocytic leukemia,1.0
+SNOMEDCT,188746008,Subacute monocytic leukaemia,1.0
+SNOMEDCT,188754005,Thrombocytic leukemia,1.0
+SNOMEDCT,188768003,Myelomonocytic leukaemia,1.0
+SNOMEDCT,188770007,Subacute myelomonocytic leukaemia,1.0
+SNOMEDCT,230257000,Paraneoplastic motor neurone disease,1.0
+SNOMEDCT,230586003,Neuropathy due to multiple myeloma,1.0
+SNOMEDCT,231834005,Malignant melanoma of eyelid,1.0
+SNOMEDCT,236005001,Malignant ascites,1.0
+SNOMEDCT,239898008,Polymyositis with malignant disease,1.0
+SNOMEDCT,239901009,Dermatopolymyositis in neoplastic disease,1.0
+SNOMEDCT,254459004,Malignant tumour of anterior pillar of fauces,1.0
+SNOMEDCT,254484001,Malignant tumor of posterior margin of nasal septum and choanae,1.0
+SNOMEDCT,254582000,Carcinoma of rectum,1.0
+SNOMEDCT,254645002,Malignant mesothelioma of pleura,1.0
+SNOMEDCT,254792006,Proliferating angioendotheliomatosis,1.0
+SNOMEDCT,254837009,Malignant tumor of breast,1.0
+SNOMEDCT,254980001,Malignant tumor of acoustic vestibular nerve,1.0
+SNOMEDCT,254986007,Malignant tumour of peripheral nerve,1.0
+SNOMEDCT,255052006,Malignant tumor of unknown origin,1.0
+SNOMEDCT,255056009,Malignant tumor of head and neck,1.0
+SNOMEDCT,255066001,Carcinoma of genitourinary organ,1.0
+SNOMEDCT,255067005,Sarcoma of bone and connective tissue,1.0
+SNOMEDCT,255068000,"Carcinoma of bone, connective tissue, skin and breast",1.0
+SNOMEDCT,255069008,"Carcinoma of lip, oral cavity and pharynx",1.0
+SNOMEDCT,255073006,"Malignant tumor of ear, nose and throat",1.0
+SNOMEDCT,255077007,Malignant tumour of digestive organ,1.0
+SNOMEDCT,255081007,Carcinoma of cecum,1.0
+SNOMEDCT,255083005,Malignant tumor of anus and anal canal,1.0
+SNOMEDCT,255084004,Squamous cell carcinoma of anal margin,1.0
+SNOMEDCT,255086002,Carcinoma common bile duct,1.0
+SNOMEDCT,255090000,Malignant neoplasm of carpal bones,1.0
+SNOMEDCT,255091001,Malignant neoplasm of metacarpal bones,1.0
+SNOMEDCT,255107005,Seminoma of testis,1.0
+SNOMEDCT,269459004,Malignant tumour of lesser curve of stomach,1.0
+SNOMEDCT,269460009,Malignant tumor of greater curve of stomach,1.0
+SNOMEDCT,269463006,Malignant tumor of middle ear and mastoid,1.0
+SNOMEDCT,269464000,"Malignant neoplasm of upper lobe, bronchus or lung",1.0
+SNOMEDCT,269467007,Malignant neoplasm of hand bones,1.0
+SNOMEDCT,269469005,Malignant neoplasm of soft tissue,1.0
+SNOMEDCT,269473008,Secondary malignant neoplasm of respiratory and digestive systems,1.0
+SNOMEDCT,269475001,Malignant neoplasm of lymphatic and haemopoietic tissue,1.0
+SNOMEDCT,269476000,Nodular lymphoma,1.0
+SNOMEDCT,269515006,Carcinoma of lip,1.0
+SNOMEDCT,269578002,Malignant melanoma of head and neck,1.0
+SNOMEDCT,269579005,Malignant melanoma of trunk,1.0
+SNOMEDCT,269580008,Malignant melanoma of upper limb,1.0
+SNOMEDCT,271323007,"Malignant neoplasm of lip, oral cavity and pharynx",1.0
+SNOMEDCT,271467005,"Malignant neoplasm of bone, connective tissue, skin and breast",1.0
+SNOMEDCT,271468000,Malignant neoplasm of genitourinary organ,1.0
+SNOMEDCT,271568003,"Malig neoplasm of lower lip, oral aspect",1.0
+SNOMEDCT,274088005,Secondary malignant neoplasm of unknown site,1.0
+SNOMEDCT,274905008,"Malignant lymphoma - lymphocytic, intermediate differentiation",1.0
+SNOMEDCT,275399006,Malignant tumour of lipstick area of lip,1.0
+SNOMEDCT,275419009,Primary vulval cancer,1.0
+SNOMEDCT,275524009,Immunoproliferative neoplasm,1.0
+SNOMEDCT,277473004,B-CLL - B-cell chronic lymphocytic leukemia,1.0
+SNOMEDCT,277474005,B-cell chronic lymphocytic leukaemia variant,1.0
+SNOMEDCT,277545003,T-cell chronic lymphocytic leukaemia,1.0
+SNOMEDCT,277549009,Chronic lymphocytic prolymphocytic leukemia syndrome,1.0
+SNOMEDCT,277550009,Richter's syndrome,1.0
+SNOMEDCT,277551008,Splenic lymphoma with villous lymphocytes,1.0
+SNOMEDCT,277567002,T-cell prolymphocytic leukemia,1.0
+SNOMEDCT,277568007,Hairy cell leukaemia variant,1.0
+SNOMEDCT,277569004,Large granular lymphocytic leukemia,1.0
+SNOMEDCT,277570003,Lymphoma with spill,1.0
+SNOMEDCT,277571004,B-cell acute lymphoblastic leukemia,1.0
+SNOMEDCT,277613000,Cutaneous/peripheral T-cell lymphoma,1.0
+SNOMEDCT,277615007,Low grade B-cell lymphoma,1.0
+SNOMEDCT,277619001,B-cell prolymphocytic leukaemia,1.0
+SNOMEDCT,277622004,Mucosa-associated lymphoma,1.0
+SNOMEDCT,277625002,Follicular non-Hodgkin's small cleaved cell lymphoma,1.0
+SNOMEDCT,277641001,"Malignant lymphoma - histiocytic, nodular",1.0
+SNOMEDCT,278065000,Superior pulmonary sulcus syndrome,1.0
+SNOMEDCT,281560004,Neuroblastoma of brain,1.0
+SNOMEDCT,281562007,Adrenal neuroblastoma,1.0
+SNOMEDCT,281563002,Thoracic neuroblastoma,1.0
+SNOMEDCT,281564008,Pelvic neuroblastoma,1.0
+SNOMEDCT,281565009,Paraspinal neuroblastoma,1.0
+SNOMEDCT,281566005,Abdominothoracic neuroblastoma,1.0
+SNOMEDCT,285432005,Carcinoma of cervix,1.0
+SNOMEDCT,302816009,"Malignant tumour of soft tissue of head, face and neck",1.0
+SNOMEDCT,302817000,Malignant tumor of unknown origin or ill-defined site,1.0
+SNOMEDCT,302835009,Phaeochromocytoma,1.0
+SNOMEDCT,302842009,Diffuse malignant lymphoma - centroblastic,1.0
+SNOMEDCT,302855005,Subacute leukemia,1.0
+SNOMEDCT,303194003,Metastasis to head and neck lymph node,1.0
+SNOMEDCT,303201005,Metastasis to multiple lymph nodes,1.0
+SNOMEDCT,307341004,Atypical hairy cell leukemia,1.0
+SNOMEDCT,307576001,Osteosarcoma of bone,1.0
+SNOMEDCT,307593001,Disseminated carcinomatosis,1.0
+SNOMEDCT,307651005,Myelosclerosis with myeloid metaplasia,1.0
+SNOMEDCT,308121000,Follicular non-Hodgkin's lymphoma,1.0
+SNOMEDCT,310498001,Malignant melanoma of back,1.0
+SNOMEDCT,310504009,Primary malignant neoplasm of unknown site,1.0
+SNOMEDCT,313248004,Malignant melanoma of chest wall,1.0
+SNOMEDCT,313427003,Lambda light chain myeloma,1.0
+SNOMEDCT,313428008,Seminoma of undescended testis,1.0
+SNOMEDCT,313429000,Seminoma of descended testis,1.0
+SNOMEDCT,315058005,Hereditary nonpolyposis colon cancer,1.0
+SNOMEDCT,32278006,Myeloma kidney,1.0
+SNOMEDCT,363346000,Malignant tumour,1.0
+SNOMEDCT,363348004,Malignant tumour of lip,1.0
+SNOMEDCT,363349007,Malignant tumor of stomach,1.0
+SNOMEDCT,363350007,Malignant tumour of caecum,1.0
+SNOMEDCT,363351006,Malignant tumor of rectum,1.0
+SNOMEDCT,363352004,Malignant tumour of anal canal,1.0
+SNOMEDCT,363353009,Malignant tumor of gallbladder,1.0
+SNOMEDCT,363354003,Malignant tumour of cervix,1.0
+SNOMEDCT,363355002,Malignant tumor of adrenal gland,1.0
+SNOMEDCT,363358000,Malignant tumor of lung,1.0
+SNOMEDCT,363360003,Malignant tumor of anterior two-thirds of tongue,1.0
+SNOMEDCT,363365008,Malignant tumor of soft tissue of thorax,1.0
+SNOMEDCT,363366009,Malignant tumour of soft tissue of pelvis,1.0
+SNOMEDCT,363367000,Malignant tumor of vulva,1.0
+SNOMEDCT,363370001,Malignant neoplasm of mesentery,1.0
+SNOMEDCT,363372009,Malignant tumor of vermilion border of upper lip,1.0
+SNOMEDCT,363373004,Malignant tumour of vermilion border of lower lip,1.0
+SNOMEDCT,363374005,Malignant tumor of commissure of lip,1.0
+SNOMEDCT,363375006,Malignant tumour of tongue,1.0
+SNOMEDCT,363376007,Malignant tumor of base of tongue,1.0
+SNOMEDCT,363377003,Malignant tumour of lingual tonsil,1.0
+SNOMEDCT,363378008,Malignant tumor of major salivary gland,1.0
+SNOMEDCT,363379000,Malignant tumour of parotid gland,1.0
+SNOMEDCT,363380002,Malignant tumor of submandibular gland,1.0
+SNOMEDCT,363381003,Malignant tumour of sublingual gland,1.0
+SNOMEDCT,363382005,Malignant tumor of gum,1.0
+SNOMEDCT,363383000,Malignant tumour of upper gingiva,1.0
+SNOMEDCT,363384006,Malignant tumour of lower gingiva,1.0
+SNOMEDCT,363385007,Malignant tumor of floor of mouth,1.0
+SNOMEDCT,363386008,Malignant tumour of buccal mucosa,1.0
+SNOMEDCT,363387004,Malignant tumor of hard palate,1.0
+SNOMEDCT,363388009,Malignant tumour of soft palate,1.0
+SNOMEDCT,363389001,Malignant tumor of uvula,1.0
+SNOMEDCT,363390005,Malignant tumour of palate,1.0
+SNOMEDCT,363391009,Malignant tumor of retromolar area,1.0
+SNOMEDCT,363392002,Malignant tumour of oropharynx,1.0
+SNOMEDCT,363393007,Malignant tumor of tonsil,1.0
+SNOMEDCT,363394001,Malignant tumour of tonsillar fossa,1.0
+SNOMEDCT,363395000,Malignant tumor of vallecula,1.0
+SNOMEDCT,363397008,Malignant tumor of roof of nasopharynx,1.0
+SNOMEDCT,363398003,Malignant tumour of lateral wall of nasopharynx,1.0
+SNOMEDCT,363399006,Malignant tumor of hypopharynx,1.0
+SNOMEDCT,363400004,Malignant tumour of postcricoid region,1.0
+SNOMEDCT,363401000,Malignant tumor of pyriform fossa,1.0
+SNOMEDCT,363402007,Malignant tumour of oesophagus,1.0
+SNOMEDCT,363403002,Malignant tumor of duodenum,1.0
+SNOMEDCT,363404008,Malignant tumour of jejunum,1.0
+SNOMEDCT,363405009,Malignant tumor of ileum,1.0
+SNOMEDCT,363406005,Malignant tumour of colon,1.0
+SNOMEDCT,363407001,Malignant tumor of hepatic flexure,1.0
+SNOMEDCT,363408006,Malignant tumour of transverse colon,1.0
+SNOMEDCT,363409003,Malignant tumor of descending colon,1.0
+SNOMEDCT,363410008,Malignant tumour of sigmoid colon,1.0
+SNOMEDCT,363411007,Malignant tumor of appendix,1.0
+SNOMEDCT,363412000,Malignant tumour of ascending colon,1.0
+SNOMEDCT,363413005,Malignant tumor of splenic flexure,1.0
+SNOMEDCT,363414004,Malignant tumour of rectosigmoid junction,1.0
+SNOMEDCT,363415003,Malignant tumor of biliary tract,1.0
+SNOMEDCT,363416002,Malignant tumour of extrahepatic bile duct,1.0
+SNOMEDCT,363417006,Malignant tumor of ampulla of Vater,1.0
+SNOMEDCT,363418001,Malignant tumour of pancreas,1.0
+SNOMEDCT,363419009,Malignant tumor of head of pancreas,1.0
+SNOMEDCT,363420003,Malignant retroperitoneal tumour,1.0
+SNOMEDCT,363421004,Malignant neoplasm of omentum,1.0
+SNOMEDCT,363422006,Malignant tumor of nasal cavity,1.0
+SNOMEDCT,363423001,Malignant tumour of nasal septum,1.0
+SNOMEDCT,363424007,Malignant tumor of mastoid air cells,1.0
+SNOMEDCT,363425008,Malignant tumour of maxillary sinus,1.0
+SNOMEDCT,363426009,Malignant tumor of ethmoid sinus,1.0
+SNOMEDCT,363427000,Malignant tumour of frontal sinus,1.0
+SNOMEDCT,363428005,Malignant tumor of sphenoid sinus,1.0
+SNOMEDCT,363429002,Malignant tumour of larynx,1.0
+SNOMEDCT,363430007,Malignant tumor of subglottis,1.0
+SNOMEDCT,363431006,Malignant tumour of laryngeal cartilage,1.0
+SNOMEDCT,363432004,Malignant tumor of trachea,1.0
+SNOMEDCT,363433009,Malignant tumour of pleura,1.0
+SNOMEDCT,363434003,Malignant tumor of thymus,1.0
+SNOMEDCT,363435002,Malignant tumour of heart,1.0
+SNOMEDCT,363436001,Malignant tumor of endocardium,1.0
+SNOMEDCT,363438000,Malignant tumor of vertebral column,1.0
+SNOMEDCT,363439008,Malignant tumour of soft tissue of head,1.0
+SNOMEDCT,363440005,Malignant tumor of soft tissue of face,1.0
+SNOMEDCT,363441009,Malignant tumour of soft tissue of neck,1.0
+SNOMEDCT,363443007,Malignant tumour of ovary,1.0
+SNOMEDCT,363444001,Malignant tumor of fallopian tube,1.0
+SNOMEDCT,363445000,Malignant tumour of vagina,1.0
+SNOMEDCT,363446004,Malignant neoplasm of labia majora,1.0
+SNOMEDCT,363447008,Malignant neoplasm of labia minora,1.0
+SNOMEDCT,363449006,Malignant tumour of testis,1.0
+SNOMEDCT,363451005,Malignant tumour of glans penis,1.0
+SNOMEDCT,363452003,Malignant tumor of epididymis,1.0
+SNOMEDCT,363453008,Malignant tumour of spermatic cord,1.0
+SNOMEDCT,363454002,Malignant tumor of scrotum,1.0
+SNOMEDCT,363456000,Malignant tumor of urachus,1.0
+SNOMEDCT,363457009,Malignant tumour of renal pelvis,1.0
+SNOMEDCT,363458004,Malignant tumor of ureter,1.0
+SNOMEDCT,363459007,Malignant tumour of urethra,1.0
+SNOMEDCT,363460002,Malignant tumor of paraurethral gland,1.0
+SNOMEDCT,363461003,Malignant tumour of eye,1.0
+SNOMEDCT,363462005,Malignant tumor of orbit,1.0
+SNOMEDCT,363463000,Malignant tumour of conjunctiva,1.0
+SNOMEDCT,363464006,Malignant tumor of cornea,1.0
+SNOMEDCT,363465007,Malignant tumour of retina,1.0
+SNOMEDCT,363466008,Malignant tumor of choroid,1.0
+SNOMEDCT,363467004,Malignant neoplasm of frontal lobe,1.0
+SNOMEDCT,363468009,Malignant neoplasm of temporal lobe,1.0
+SNOMEDCT,363469001,Malignant neoplasm of parietal lobe,1.0
+SNOMEDCT,363470000,Malignant neoplasm of occipital lobe,1.0
+SNOMEDCT,363471001,Malignant neoplasm of cerebral ventricles,1.0
+SNOMEDCT,363473003,Malignant neoplasm of brainstem,1.0
+SNOMEDCT,363474009,Malignant neoplasm of cerebral meninges,1.0
+SNOMEDCT,363475005,Malignant tumour of spinal cord,1.0
+SNOMEDCT,363476006,Malignant neoplasm of spinal meninges,1.0
+SNOMEDCT,363477002,Malignant neoplasm of cauda equina,1.0
+SNOMEDCT,363478007,Malignant tumor of thyroid gland,1.0
+SNOMEDCT,363481002,Malignant tumour of parathyroid gland,1.0
+SNOMEDCT,363482009,Malignant tumor of pituitary gland,1.0
+SNOMEDCT,363483004,Malignant tumour of pineal gland,1.0
+SNOMEDCT,363484005,Malignant tumor of pelvis,1.0
+SNOMEDCT,363489000,Malignant tumour of neck,1.0
+SNOMEDCT,363490009,Malignant tumor of anus,1.0
+SNOMEDCT,363491008,Malignant tumour of cloacogenic zone,1.0
+SNOMEDCT,363492001,Malignant tumor of peritoneum,1.0
+SNOMEDCT,363494000,Malignant tumor of mediastinum,1.0
+SNOMEDCT,363497007,Malignant tumour of meninges,1.0
+SNOMEDCT,363498002,Malignant tumor of optic nerve,1.0
+SNOMEDCT,363499005,Malignant tumour of spleen,1.0
+SNOMEDCT,363501002,Malignant tumor of face,1.0
+SNOMEDCT,363502009,Malignant tumour of axilla,1.0
+SNOMEDCT,363503004,Malignant tumor of upper limb,1.0
+SNOMEDCT,363504005,Malignant tumour of lower limb,1.0
+SNOMEDCT,363505006,Malignant tumor of oral cavity,1.0
+SNOMEDCT,363506007,Malignant tumour of nasal sinuses,1.0
+SNOMEDCT,363507003,Malignant tumor of pharynx,1.0
+SNOMEDCT,363508008,Malignant tumour of intestine,1.0
+SNOMEDCT,363509000,Malignant tumor of small intestine,1.0
+SNOMEDCT,363514001,Malignant tumour of female genital organ,1.0
+SNOMEDCT,363515000,Malignant tumor of male genital organ,1.0
+SNOMEDCT,363516004,Malignant tumour of penis,1.0
+SNOMEDCT,363518003,Malignant tumour of kidney,1.0
+SNOMEDCT,371964008,Malignant neoplasm of adrenal cortex (disorder),1.0
+SNOMEDCT,371965009,Malignant neoplasm of adrenal medulla (disorder),1.0
+SNOMEDCT,371972005,Malignant neoplasm of body of uterus (disorder),1.0
+SNOMEDCT,371973000,Malignant neoplasm of uterus (disorder),1.0
+SNOMEDCT,371979001,Malignant neoplasm of clitoris (disorder),1.0
+SNOMEDCT,371982006,Malignant neoplasm of endocrine gland (disorder),1.0
+SNOMEDCT,372062007,Malignant neoplasm of central nervous system (disorder),1.0
+SNOMEDCT,372063002,Malignant neoplasm of nervous system (disorder),1.0
+SNOMEDCT,372064008,Malignant neoplasm of female breast (disorder),1.0
+SNOMEDCT,372065009,Malignant neoplasm of main bronchus (disorder),1.0
+SNOMEDCT,372095001,Malignant neoplasm of male breast (disorder),1.0
+SNOMEDCT,372097009,Malignant neoplasm of endocervix (disorder),1.0
+SNOMEDCT,372099007,Malignant neoplasm of exocervix (disorder),1.0
+SNOMEDCT,372140005,Carcinoma of gallbladder (disorder),1.0
+SNOMEDCT,373168002,Reticulosarcoma (disorder),1.0
+SNOMEDCT,38216008,Infusion chemotherapy for malignant neoplasm,1.0
+SNOMEDCT,397009000,Mast cell malignancy (disorder),1.0
+SNOMEDCT,399068003,Malignant tumor of prostate (disorder),1.0
+SNOMEDCT,399326009,Malignant tumor of urinary bladder (disorder),1.0
+SNOMEDCT,405546008,Malignant pericardial effusion (disorder),1.0
+SNOMEDCT,405843009,Widespread metastatic malignant neoplastic disease (disorder),1.0
+SNOMEDCT,413441006,"Acute monocytic leukemia, FAB M5b (disorder)",1.0
+SNOMEDCT,415082004,Personal history of primary malignant neoplasm of lung (context-dependent category),1.0
+SNOMEDCT,415112005,Plasmacytoma (disorder),1.0
+SNOMEDCT,416769008,Malignant teratoma of testis (disorder),1.0
+SNOMEDCT,416842003,Malignant sacral teratoma (disorder),1.0
+SNOMEDCT,417036008,Liquid based cervical cytology screening (procedure),1.0
+SNOMEDCT,417417007,Malignant teratoma of undescended testis (disorder),1.0
+SNOMEDCT,417554000,Malignant teratoma of descended testis (disorder),1.0
+SNOMEDCT,419052002,Malignant tumor of urinary system (disorder),1.0
+SNOMEDCT,421249001,Malignant tumor of vermilion border of lip (disorder),1.0
+SNOMEDCT,426336007,Solitary osseous myeloma (disorder),1.0
+SNOMEDCT,428061005,Malignant neoplasm of brain (disorder),1.0
+SNOMEDCT,428100006,Malignant neoplasm of thoracic cavity structure (disorder),1.0
+SNOMEDCT,428281000,Malignant neoplasm of bone (disorder),1.0
+SNOMEDCT,428322007,Malignant neoplasm of uterine adnexa (disorder),1.0
+SNOMEDCT,428905002,Malignant neoplasm of gastrointestinal tract (disorder),1.0
+SNOMEDCT,429014004,History of malignant lymphoma (situation),0.0
+SNOMEDCT,430621000,Malignant neoplasm of lower respiratory tract (disorder),1.0
+SNOMEDCT,443487006,Mantle cell lymphoma (disorder),1.0
+SNOMEDCT,443679004,Malignant neoplasm of skeletal system (disorder),1.0
+SNOMEDCT,445738007,Myelodysplastic/myeloproliferative disease (disorder),1.0
+SNOMEDCT,447883002,Malignant neoplasm of carotid body (disorder),1.0
+SNOMEDCT,447949005,Malignant epithelial neoplasm of cheek (disorder),1.0
+SNOMEDCT,448233000,Malignant neoplasm of urinary organ (disorder),1.0
+SNOMEDCT,448668007,Malignant neoplasm of mandible (disorder),1.0
+SNOMEDCT,448670003,Malignant neoplasm of posterior mediastinum (disorder),1.0
+SNOMEDCT,448674007,Malignant neoplasm of parametrium (disorder),1.0
+SNOMEDCT,448868009,Malignant neoplasm of lateral wall of oropharynx (disorder),1.0
+SNOMEDCT,449067008,Malignant neoplasm of parietal pleura (disorder),1.0
+SNOMEDCT,449096009,Malignant neoplasm of respiratory system (disorder),1.0
+SNOMEDCT,449224009,Malignant neoplasm of anterior mediastinum (disorder),1.0
+SNOMEDCT,449377002,Malignant neoplasm of pelvic peritoneum (disorder),1.0
+SNOMEDCT,449420002,Malignant neoplasm of cerebellum (disorder),1.0
+SNOMEDCT,449627008,Malignant neoplasm of long bone of lower limb (disorder),1.0
+SNOMEDCT,699005005,History of malignant hematologic neoplasm,0.0
+SNOMEDCT,702391001,Renal cell carcinoma,1.0
+SNOMEDCT,712525007,Malignant neoplasm of short bone of lower limb,1.0
+SNOMEDCT,712750007,Malignant neoplasm of chest wall,1.0
+SNOMEDCT,721567004,Primary malignant neoplasm of placenta (disorder),1.0
+SNOMEDCT,739301006,Osteoporosis co-occurrent and due to multiple myeloma,1.0
+SNOMEDCT,91855006,Acute leukemia,1.0
+SNOMEDCT,91857003,Acute lymphoid leukemia,1.0
+SNOMEDCT,91861009,Acute myeloid leukemia,1.0
+SNOMEDCT,92812005,Chronic leukemia,1.0
+SNOMEDCT,92814006,Chronic lymphoid leukemia,1.0
+SNOMEDCT,92818009,Chronic myeloid leukemia,1.0
+SNOMEDCT,93135004,Letterer-Siwe disease of intrathoracic lymph nodes,1.0
+SNOMEDCT,93139005,Letterer-Siwe disease of lymph nodes of multiple sites,1.0
+SNOMEDCT,93143009,Leukaemia,1.0
+SNOMEDCT,93146001,Leukemic reticuloendotheliosis of intrathoracic lymph nodes,1.0
+SNOMEDCT,93182006,Malignant histiocytosis of intra-abdominal lymph nodes,1.0
+SNOMEDCT,93191005,Malignant lymphoma of intra-abdominal lymph nodes,1.0
+SNOMEDCT,93192003,Malignant lymphoma of intrapelvic lymph nodes,1.0
+SNOMEDCT,93193008,Malignant lymphoma of intrathoracic lymph nodes,1.0
+SNOMEDCT,93194002,Malignant lymphoma of lymph nodes of axilla AND/OR upper limb,1.0
+SNOMEDCT,93195001,"Malignant lymphoma of lymph nodes of head, face AND/OR neck",1.0
+SNOMEDCT,93196000,Malignant lymphoma of lymph nodes of inguinal region AND/OR lower limb,1.0
+SNOMEDCT,93197009,Malignant lymphoma of lymph nodes of multiple sites,1.0
+SNOMEDCT,93198004,Malignant lymphoma of spleen,1.0
+SNOMEDCT,93217003,Malignant melanoma of skin of cheek,1.0
+SNOMEDCT,93223008,Malignant melanoma of skin of eyebrow,1.0
+SNOMEDCT,93225001,Malignant melanoma of skin of face,1.0
+SNOMEDCT,93451002,Erythroleukaemia,1.0
+SNOMEDCT,93493001,"Hodgkin's disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes",1.0
+SNOMEDCT,93494007,"Hodgkin's disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes",1.0
+SNOMEDCT,93495008,"Hodgkin's disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes",1.0
+SNOMEDCT,93522004,Hodgkin's disease of intrathoracic lymph nodes,1.0
+SNOMEDCT,93523009,Hodgkin's disease of lymph nodes of axilla AND/OR upper limb,1.0
+SNOMEDCT,93524003,"Hodgkin's disease of lymph nodes of head, face AND/OR neck",1.0
+SNOMEDCT,93525002,Hodgkin's disease of lymph nodes of inguinal region AND/OR lower limb,1.0
+SNOMEDCT,93526001,Hodgkin's disease of lymph nodes of multiple sites,1.0
+SNOMEDCT,93527005,Hodgkin's disease of spleen,1.0
+SNOMEDCT,93542008,"Hodgkin's paragranuloma of lymph nodes of head, face AND/OR neck",1.0
+SNOMEDCT,93643005,Malignant melanoma of skin of nose,1.0
+SNOMEDCT,93651008,Malignant melanoma of skin of trunk,1.0
+SNOMEDCT,93655004,Malignant melanoma of skin,1.0
+SNOMEDCT,93677000,Malignant neoplasm of aortic body,1.0
+SNOMEDCT,93680004,Malignant neoplasm of areola of female breast,1.0
+SNOMEDCT,93681000,Malignant neoplasm of areola of male breast,1.0
+SNOMEDCT,93725000,Malignant neoplasm of bone,1.0
+SNOMEDCT,93728003,Malignant neoplasm of broad ligament,1.0
+SNOMEDCT,93746009,Malignant neoplasm of cerebellum,1.0
+SNOMEDCT,93757004,Malignant neoplasm of clavicle,1.0
+SNOMEDCT,93759001,Malignant neoplasm of coccygeal body,1.0
+SNOMEDCT,93763008,Malignant neoplasm of common bile duct,1.0
+SNOMEDCT,93770008,Malignant neoplasm of cystic duct,1.0
+SNOMEDCT,93772000,Malignant neoplasm of diaphragm,1.0
+SNOMEDCT,93779009,Malignant neoplasm of endocervix,1.0
+SNOMEDCT,93786001,Malignant neoplasm of ethmoid bone,1.0
+SNOMEDCT,93789008,Malignant neoplasm of exocervix,1.0
+SNOMEDCT,93798006,Malignant neoplasm of femur,1.0
+SNOMEDCT,93799003,Malignant neoplasm of fibula,1.0
+SNOMEDCT,93806005,Malignant neoplasm of frontal bone,1.0
+SNOMEDCT,93814004,Malignant neoplasm of glomus jugulare,1.0
+SNOMEDCT,93817006,Malignant neoplasm of great vessels,1.0
+SNOMEDCT,93827000,Malignant neoplasm of hilus of lung,1.0
+SNOMEDCT,93833009,Malignant neoplasm of ilium,1.0
+SNOMEDCT,93841009,Malignant neoplasm of intrathoracic organs,1.0
+SNOMEDCT,93842002,Malignant neoplasm of ischium,1.0
+SNOMEDCT,93870000,Malignant neoplasm of liver,1.0
+SNOMEDCT,93880001,Malignant neoplasm of lung,1.0
+SNOMEDCT,93884005,Malignant neoplasm of male breast,1.0
+SNOMEDCT,93888008,Malignant neoplasm of maxilla,1.0
+SNOMEDCT,93916003,Malignant neoplasm of nasal bone,1.0
+SNOMEDCT,93924008,Malignant neoplasm of nipple of female breast,1.0
+SNOMEDCT,93925009,Malignant neoplasm of nipple of male breast,1.0
+SNOMEDCT,93927001,Malignant neoplasm of occipital bone,1.0
+SNOMEDCT,93941005,Malignant neoplasm of paraganglion,1.0
+SNOMEDCT,93945001,Malignant neoplasm of parietal bone,1.0
+SNOMEDCT,93947009,Malignant neoplasm of parietal peritoneum,1.0
+SNOMEDCT,93952004,Malignant neoplasm of pelvic peritoneum,1.0
+SNOMEDCT,93957005,Malignant neoplasm of pericardium,1.0
+SNOMEDCT,93973004,Malignant neoplasm of presacral region,1.0
+SNOMEDCT,93975006,Malignant neoplasm of pubis,1.0
+SNOMEDCT,93979000,Malignant neoplasm of radius,1.0
+SNOMEDCT,93986008,Malignant neoplasm of respiratory tract,1.0
+SNOMEDCT,93990005,Malignant neoplasm of rib,1.0
+SNOMEDCT,93997008,Malignant neoplasm of scapula,1.0
+SNOMEDCT,94066004,Malignant neoplasm of sphenoid bone,1.0
+SNOMEDCT,94073009,Malignant neoplasm of sternum,1.0
+SNOMEDCT,94083008,Malignant neoplasm of talus,1.0
+SNOMEDCT,94085001,Malignant neoplasm of temporal bone,1.0
+SNOMEDCT,94099002,Malignant neoplasm of tibia,1.0
+SNOMEDCT,94112009,Malignant neoplasm of ulna,1.0
+SNOMEDCT,94134006,Malignant neoplasm of ventral surface of tongue,1.0
+SNOMEDCT,94142007,Malignant neoplasm of vomer,1.0
+SNOMEDCT,94145009,Malignant neoplasm of zygomatic bone,1.0
+SNOMEDCT,94161006,Secondary malignant neoplasm of adrenal gland,1.0
+SNOMEDCT,94181007,Secondary malignant neoplasm of axillary lymph nodes,1.0
+SNOMEDCT,94186002,Secondary malignant neoplasm of bladder,1.0
+SNOMEDCT,94222008,Secondary malignant neoplasm of bone,1.0
+SNOMEDCT,94225005,Secondary malignant neoplasm of brain,1.0
+SNOMEDCT,94227002,Secondary malignant neoplasm of bronchopulmonary lymph nodes,1.0
+SNOMEDCT,94248000,Secondary malignant neoplasm of cerebrum,1.0
+SNOMEDCT,94260004,Secondary malignant neoplasm of colon,1.0
+SNOMEDCT,94275007,Secondary malignant neoplasm of duodenum,1.0
+SNOMEDCT,94297009,Secondary malignant neoplasm of female breast,1.0
+SNOMEDCT,94313005,Secondary malignant neoplasm of gastrointestinal tract,1.0
+SNOMEDCT,94335002,Secondary malignant neoplasm of ileum,1.0
+SNOMEDCT,94336001,Secondary malignant neoplasm of iliac lymph nodes,1.0
+SNOMEDCT,94338000,Secondary malignant neoplasm of infraclavicular lymph nodes,1.0
+SNOMEDCT,94347008,Secondary malignant neoplasm of intra-abdominal lymph nodes,1.0
+SNOMEDCT,94350006,Secondary malignant neoplasm of intrapelvic lymph nodes,1.0
+SNOMEDCT,94351005,Secondary malignant neoplasm of intrathoracic lymph nodes,1.0
+SNOMEDCT,94360002,Secondary malignant neoplasm of kidney,1.0
+SNOMEDCT,94365007,Secondary malignant neoplasm of large intestine,1.0
+SNOMEDCT,94381002,Secondary malignant neoplasm of liver,1.0
+SNOMEDCT,94391008,Secondary malignant neoplasm of lung,1.0
+SNOMEDCT,94392001,Secondary malignant neoplasm of lymph node,1.0
+SNOMEDCT,94393006,Secondary malignant neoplasm of lymph nodes of face,1.0
+SNOMEDCT,94395004,Secondary malignant neoplasm of lymph nodes of lower limb,1.0
+SNOMEDCT,94396003,Secondary malignant neoplasm of lymph nodes of multiple sites,1.0
+SNOMEDCT,94398002,Secondary malignant neoplasm of lymph nodes of upper limb,1.0
+SNOMEDCT,94408005,Secondary malignant neoplasm of mediastinal lymph nodes,1.0
+SNOMEDCT,94409002,Secondary malignant neoplasm of mediastinum,1.0
+SNOMEDCT,94410007,Secondary malignant neoplasm of mesenteric lymph nodes,1.0
+SNOMEDCT,94442001,Secondary malignant neoplasm of nervous system,1.0
+SNOMEDCT,94449005,Secondary malignant neoplasm of occipital lymph nodes,1.0
+SNOMEDCT,94455000,Secondary malignant neoplasm of ovary,1.0
+SNOMEDCT,94475009,Secondary malignant neoplasm of parotid lymph nodes,1.0
+SNOMEDCT,94477001,Secondary malignant neoplasm of pectoral axillary lymph nodes,1.0
+SNOMEDCT,94481001,Secondary malignant neoplasm of penis,1.0
+SNOMEDCT,94493005,Secondary malignant neoplasm of pleura,1.0
+SNOMEDCT,94503003,Secondary malignant neoplasm of prostate,1.0
+SNOMEDCT,94513006,Secondary malignant neoplasm of rectum,1.0
+SNOMEDCT,94515004,Secondary malignant neoplasm of respiratory tract,1.0
+SNOMEDCT,94544002,Secondary malignant neoplasm of skin of breast,1.0
+SNOMEDCT,94554003,Secondary malignant neoplasm of skin of face,1.0
+SNOMEDCT,94566009,Secondary malignant neoplasm of skin of neck,1.0
+SNOMEDCT,94575006,Secondary malignant neoplasm of skin of trunk,1.0
+SNOMEDCT,94579000,Secondary malignant neoplasm of skin,1.0
+SNOMEDCT,94580002,Secondary malignant neoplasm of small intestine,1.0
+SNOMEDCT,94600009,Secondary malignant neoplasm of spinal cord,1.0
+SNOMEDCT,94602001,Secondary malignant neoplasm of vertebral column,1.0
+SNOMEDCT,94609005,Secondary malignant neoplasm of submandibular lymph nodes,1.0
+SNOMEDCT,94611001,Secondary malignant neoplasm of submental lymph nodes,1.0
+SNOMEDCT,94612008,Secondary malignant neoplasm of superficial inguinal lymph nodes,1.0
+SNOMEDCT,94623007,Secondary malignant neoplasm of testis,1.0
+SNOMEDCT,94627008,Secondary malignant neoplasm of the peritoneum,1.0
+SNOMEDCT,94628003,Secondary malignant neoplasm of the retroperitoneum,1.0
+SNOMEDCT,94638008,Secondary malignant neoplasm of tongue,1.0
+SNOMEDCT,94642006,Secondary malignant neoplasm of tracheobronchial lymph nodes,1.0
+SNOMEDCT,94659001,Secondary malignant neoplasm of ureter,1.0
+SNOMEDCT,94661005,Secondary malignant neoplasm of urethra,1.0
+SNOMEDCT,94663008,Secondary malignant neoplasm of urinary system,1.0
+SNOMEDCT,94665001,Secondary malignant neoplasm of uterus,1.0
+SNOMEDCT,94668004,Secondary malignant neoplasm of vagina,1.0
+SNOMEDCT,94681006,Secondary malignant neoplasm of vulva,1.0
+SNOMEDCT,94710006,Mycosis fungoides of lymph nodes of axilla AND/OR upper limb,1.0
+SNOMEDCT,94712003,Mycosis fungoides of lymph nodes of inguinal region AND/OR lower limb,1.0
+SNOMEDCT,94719007,Myeloid sarcoma,1.0
+SNOMEDCT,95186006,Nodular lymphoma of intra-abdominal lymph nodes,1.0
+SNOMEDCT,95192000,Nodular lymphoma of lymph nodes of multiple sites,1.0
+SNOMEDCT,95210003,Plasma cell leukemia,1.0
+SNOMEDCT,95214007,Primary malignant neoplasm of liver,1.0
+SNOMEDCT,95224004,Reticulosarcoma of intra-abdominal lymph nodes,1.0
+SNOMEDCT,95231000,Reticulosarcoma of spleen,1.0
+SNOMEDCT,105121000119102,Squamous cell carcinoma of vagina (disorder),1.0
+SNOMEDCT,107771000119106,Primary malignant clear cell neoplasm of endometrium (disorder),1.0
+SNOMEDCT,1078961000119104,Primary adenocarcinoma of upper lobe of right lung (disorder),1.0
+SNOMEDCT,1081781000119105,Primary seminoma of left testis (disorder),1.0
+SNOMEDCT,1082301000119109,Transitional cell carcinoma of right renal pelvis (disorder),1.0
+SNOMEDCT,1090091000000108,Secondary malignant neoplasm of internal mammary lymph nodes (disorder),1.0
+SNOMEDCT,1090101000000100,Secondary malignant neoplasm of supratrochlear lymph nodes (disorder),1.0
+SNOMEDCT,1090121000000109,Secondary malignant neoplasm of deep cervical lymph nodes (disorder),1.0
+SNOMEDCT,1090141000000102,Secondary malignant neoplasm of superficial cervical lymph nodes (disorder),1.0
+SNOMEDCT,1090151000000104,Secondary malignant neoplasm of mastoid lymph nodes (disorder),1.0
+SNOMEDCT,1090161000000101,Secondary malignant neoplasm of diaphragmatic lymph nodes (disorder),1.0
+SNOMEDCT,1090221000000100,Secondary malignant neoplasm of internal iliac lymph nodes (disorder),1.0
+SNOMEDCT,1090281000000104,Malignant neoplasm of genital labia (disorder),1.0
+SNOMEDCT,1090871000000102,Malignant neoplasm of bone and articular cartilage of limb (disorder),1.0
+SNOMEDCT,1090931000000108,Malignant neoplasm of multiple endocrine glands (disorder),1.0
+SNOMEDCT,1090951000000101,Malignant neoplasm of supraclavicular fossa (disorder),1.0
+SNOMEDCT,1090961000000103,Malignant neoplasm of soft tissues of lower limb (disorder),1.0
+SNOMEDCT,1090971000000105,Malignant neoplasm of posterior wall of stomach (disorder),1.0
+SNOMEDCT,1090981000000107,Malignant neoplasm of anterior wall of stomach (disorder),1.0
+SNOMEDCT,1092831000000100,Overlapping malignant neoplasm of mouth (disorder),1.0
+SNOMEDCT,109368005,Overlapping malignant neoplasm of hypopharynx (disorder),1.0
+SNOMEDCT,109996008,"Myelodysplastic syndrome: Refractory anemia, without ringed sideroblasts, without excess blasts (disorder)",1.0
+SNOMEDCT,110000005,Refractory anemia with excess blasts in transformation (disorder),1.0
+SNOMEDCT,11010461000119101,Small cell carcinoma (disorder),1.0
+SNOMEDCT,12240991000119102,Squamous cell carcinoma of right lung (disorder),1.0
+SNOMEDCT,129000002,"Langerhans cell histiocytosis, unifocal (disorder)",1.0
+SNOMEDCT,15956341000119105,Adenocarcinoma of left lung (disorder),1.0
+SNOMEDCT,15956381000119100,Adenocarcinoma of right lung (disorder),1.0
+SNOMEDCT,16260631000119101,Secondary malignant neoplasm of lymph node from neoplasm of female breast (disorder),1.0
+SNOMEDCT,16341002,Parapsoriasis lichenoides (disorder),1.0
+SNOMEDCT,1691000119104,Metastasis to liver from adenocarcinoma (disorder),1.0
+SNOMEDCT,1701000119104,Primary adenocarcinoma of colon (disorder),1.0
+SNOMEDCT,184881000119106,Primary adenocarcinoma of rectosigmoid junction (disorder),1.0
+SNOMEDCT,187662005,Malignant tumor of lower labial sulcus (disorder),1.0
+SNOMEDCT,187698002,Malignant tumor of opening of auditory tube (disorder),1.0
+SNOMEDCT,187701005,Malignant neoplasm of floor of nasopharynx (disorder),1.0
+SNOMEDCT,187702003,Malignant tumor of nasopharyngeal soft palate surface (disorder),1.0
+SNOMEDCT,187776004,Malignant neoplasm of intrahepatic canaliculi (disorder),1.0
+SNOMEDCT,187786003,Malignant neoplasm of sphincter of Oddi (disorder),1.0
+SNOMEDCT,187845002,Malignant neoplasm of cuneiform cartilage (disorder),1.0
+SNOMEDCT,187853005,Malignant neoplasm of cartilage of trachea (disorder),1.0
+SNOMEDCT,187944004,Malignant neoplasm of carpal bone - hamate (disorder),1.0
+SNOMEDCT,187945003,Malignant neoplasm of first metacarpal bone (disorder),1.0
+SNOMEDCT,187947006,Malignant neoplasm of third metacarpal bone (disorder),1.0
+SNOMEDCT,187975008,Malignant neoplasm of third metatarsal bone (disorder),1.0
+SNOMEDCT,187989003,Malignant neoplasm soft tissues of cervical spine (disorder),1.0
+SNOMEDCT,188102008,Malignant neoplasm of scalp AND/OR skin of neck (disorder),1.0
+SNOMEDCT,188204000,Malignant neoplasm of round ligament (disorder),1.0
+SNOMEDCT,188220005,Malignant tumor of ectopic testis (disorder),1.0
+SNOMEDCT,188269007,Malignant neoplasm of extraocular muscle of orbit (disorder),1.0
+SNOMEDCT,188293002,Malignant neoplasm of floor of cerebral ventricle (disorder),1.0
+SNOMEDCT,188312005,Malignant neoplasm of cerebral dura mater (disorder),1.0
+SNOMEDCT,188315007,Malignant neoplasm of cerebral pia mater (disorder),1.0
+SNOMEDCT,188317004,Malignant neoplasm of spinal dura mater (disorder),1.0
+SNOMEDCT,188319001,Malignant neoplasm of spinal pia mater (disorder),1.0
+SNOMEDCT,188641006,Malignant histiocytosis of lymph nodes of axilla and upper limb (disorder),1.0
+SNOMEDCT,188642004,Malignant histiocytosis of lymph nodes of inguinal region and lower limb (disorder),1.0
+SNOMEDCT,188665009,Mast cell malignancy of lymph nodes of axilla and upper limb (disorder),1.0
+SNOMEDCT,189509003,"Refractory anemia without sideroblasts, so stated (disorder)",1.0
+SNOMEDCT,190818004,WaldenstrÃ¶m macroglobulinemia (disorder),1.0
+SNOMEDCT,230156002,Malignant meningitis (disorder),1.0
+SNOMEDCT,231829006,Malignant neoplasm of eyelid (disorder),1.0
+SNOMEDCT,231831002,Squamous cell carcinoma of eyelid (disorder),1.0
+SNOMEDCT,233940007,Pulmonary tumor embolism (disorder),1.0
+SNOMEDCT,235966007,Cystadenocarcinoma of pancreas (disorder),1.0
+SNOMEDCT,237252008,Placental site trophoblastic tumor (disorder),1.0
+SNOMEDCT,253000007,Neuroendocrine carcinoma (disorder),1.0
+SNOMEDCT,253001006,Merkel cell carcinoma (disorder),1.0
+SNOMEDCT,253003009,Carcinoid bronchial adenoma (disorder),1.0
+SNOMEDCT,253006001,Somatostatinoma (disorder),1.0
+SNOMEDCT,253017000,Klatskin's tumor (disorder),1.0
+SNOMEDCT,253018005,Fibrolamellar hepatocellular carcinoma (disorder),1.0
+SNOMEDCT,253096008,Peripheral neuroectodermal tumor (disorder),1.0
+SNOMEDCT,254423005,Carcinoma of lingual tonsil (disorder),1.0
+SNOMEDCT,254431000,Carcinoma of lateral part of floor of mouth (disorder),1.0
+SNOMEDCT,254435009,Carcinoma of soft palate (disorder),1.0
+SNOMEDCT,254436005,Carcinoma of uvula (disorder),1.0
+SNOMEDCT,254437001,Squamous cell carcinoma of buccal mucosa (disorder),1.0
+SNOMEDCT,254441002,Carcinoma of upper buccal sulcus (disorder),1.0
+SNOMEDCT,254445006,Carcinoma of lower buccal sulcus (disorder),1.0
+SNOMEDCT,254454009,Carcinoma of lower labial sulcus (disorder),1.0
+SNOMEDCT,254462001,Carcinoma of parotid gland (disorder),1.0
+SNOMEDCT,254465004,Carcinoma of submandibular gland (disorder),1.0
+SNOMEDCT,254520006,Malignant tumor of infrahyoid epiglottis (disorder),1.0
+SNOMEDCT,254526000,Malignant tumor of laryngeal ventricle (disorder),1.0
+SNOMEDCT,254530002,Malignant tumor of parapharyngeal space (disorder),1.0
+SNOMEDCT,254535007,Carcinoma of cervical part of esophagus (disorder),1.0
+SNOMEDCT,254549003,Carcinoma of middle third of esophagus (disorder),1.0
+SNOMEDCT,254551004,Carcinoma of lower third of esophagus (disorder),1.0
+SNOMEDCT,254553001,Carcinoma of cardia (disorder),1.0
+SNOMEDCT,254559002,Carcinoma of pyloric antrum (disorder),1.0
+SNOMEDCT,254563009,Carcinoma of lesser curve of stomach (disorder),1.0
+SNOMEDCT,254601002,Sarcoma of liver (disorder),1.0
+SNOMEDCT,254620000,Squamous cell carcinoma of trachea (disorder),1.0
+SNOMEDCT,254626006,Adenocarcinoma of lung (disorder),1.0
+SNOMEDCT,254629004,Large cell carcinoma of lung (disorder),1.0
+SNOMEDCT,254634000,Squamous cell carcinoma of lung (disorder),1.0
+SNOMEDCT,254637007,Non-small cell lung cancer (disorder),1.0
+SNOMEDCT,254638002,Pancoast tumor (disorder),1.0
+SNOMEDCT,254653005,Spindle cell squamous carcinoma of skin (disorder),1.0
+SNOMEDCT,254709009,Digital papillary eccrine carcinoma of skin (disorder),1.0
+SNOMEDCT,254712007,Microcystic adnexal carcinoma of skin (disorder),1.0
+SNOMEDCT,254713002,Mucoepidermoid carcinoma of skin (disorder),1.0
+SNOMEDCT,254714008,Mucinous eccrine carcinoma of skin (disorder),1.0
+SNOMEDCT,254730000,Superficial spreading malignant melanoma of skin (disorder),1.0
+SNOMEDCT,254731001,Nodular malignant melanoma of skin (disorder),1.0
+SNOMEDCT,254733003,Malignant melanoma arising in intradermal nevus (disorder),1.0
+SNOMEDCT,254748009,Cutaneous fibrosarcoma (disorder),1.0
+SNOMEDCT,254797000,Malignant hemangiopericytoma of skin (disorder),1.0
+SNOMEDCT,254800003,Epithelioid cell sarcoma of skin (disorder),1.0
+SNOMEDCT,254824006,Malignant tumor of mesothelial tissue (disorder),1.0
+SNOMEDCT,254839007,Scirrhous carcinoma of breast (disorder),1.0
+SNOMEDCT,254843006,Familial cancer of breast (disorder),1.0
+SNOMEDCT,254844000,Malignant phyllodes tumor of breast (disorder),1.0
+SNOMEDCT,254860001,Malignant sex cord tumor of ovary (disorder),1.0
+SNOMEDCT,254861002,Malignant granulosa cell tumor of ovary (disorder),1.0
+SNOMEDCT,254863004,Granulosa cell tumor of ovary (disorder),1.0
+SNOMEDCT,254874008,Dysgerminoma of ovary (disorder),1.0
+SNOMEDCT,254876005,Endodermal sinus tumor of ovary (disorder),1.0
+SNOMEDCT,254887002,Adenocarcinoma of cervix (disorder),1.0
+SNOMEDCT,254889004,Carcinoma of cervix stage 0 (disorder),1.0
+SNOMEDCT,254895003,Squamous cell carcinoma of vulva (disorder),1.0
+SNOMEDCT,254897006,Sarcoma of vulva (disorder),1.0
+SNOMEDCT,254904008,Carcinoma of glans penis (disorder),1.0
+SNOMEDCT,254912000,Regressed malignant testicular tumor (disorder),1.0
+SNOMEDCT,254915003,Clear cell carcinoma of kidney (disorder),1.0
+SNOMEDCT,254917006,Papillary cystadenocarcinoma of kidney (disorder),1.0
+SNOMEDCT,254955001,Pituitary carcinoma (disorder),1.0
+SNOMEDCT,254973003,Malignant astrocytoma of optic nerve (disorder),1.0
+SNOMEDCT,254974009,Malignant tumor of optic nerve sheath (disorder),1.0
+SNOMEDCT,254975005,Malignant meningioma of optic nerve sheath (disorder),1.0
+SNOMEDCT,254993006,Liposarcoma of orbit (disorder),1.0
+SNOMEDCT,254995004,Malignant hemangiopericytoma of orbit (disorder),1.0
+SNOMEDCT,255003007,Squamous cell carcinoma of conjunctiva (disorder),1.0
+SNOMEDCT,255004001,Malignant melanoma of conjunctiva (disorder),1.0
+SNOMEDCT,255015006,Malignant melanoma of ciliary body (disorder),1.0
+SNOMEDCT,255016007,Adenocarcinoma of pigmented epithelium of ciliary body (disorder),1.0
+SNOMEDCT,255017003,Adenocarcinoma of non-pigmented epithelium of ciliary body (disorder),1.0
+SNOMEDCT,255028004,Follicular thyroid carcinoma (disorder),1.0
+SNOMEDCT,255029007,Papillary thyroid carcinoma (disorder),1.0
+SNOMEDCT,255030002,Mixed follicular and papillary thyroid carcinoma (disorder),1.0
+SNOMEDCT,255035007,Adrenal carcinoma (disorder),1.0
+SNOMEDCT,255037004,Parathyroid carcinoma (disorder),1.0
+SNOMEDCT,255071008,Squamous cell carcinoma of lip (disorder),1.0
+SNOMEDCT,255088001,Malignant tumor of exocrine pancreas (disorder),1.0
+SNOMEDCT,255102004,Angioendotheliomatosis (disorder),1.0
+SNOMEDCT,255108000,Carcinoma of bladder (disorder),1.0
+SNOMEDCT,255111004,Squamous cell carcinoma of bladder (disorder),1.0
+SNOMEDCT,255121007,Carcinomatosis of peritoneal cavity (disorder),1.0
+SNOMEDCT,255123005,Metastasis to nervous system and eye (disorder),1.0
+SNOMEDCT,255124004,Metastasis to peripheral nerve (disorder),1.0
+SNOMEDCT,269544008,Carcinoma of the rectosigmoid junction (disorder),1.0
+SNOMEDCT,269616004,Secondary nodes - axilla/arm (disorder),1.0
+SNOMEDCT,271943005,Carcinoma of base of tongue (disorder),1.0
+SNOMEDCT,275394001,Carcinoma ventral surface of tongue (disorder),1.0
+SNOMEDCT,275490009,Carcinoma of tongue base - dorsal surface (disorder),1.0
+SNOMEDCT,276803003,Adenocarcinoma of esophagus (disorder),1.0
+SNOMEDCT,276804009,Squamous cell carcinoma of esophagus (disorder),1.0
+SNOMEDCT,276809004,Early gastric cancer (disorder),1.0
+SNOMEDCT,276810009,Late gastric cancer (disorder),1.0
+SNOMEDCT,276821000,Malignant melanoma of anus (disorder),1.0
+SNOMEDCT,276822007,Malignant melanoma of rectum (disorder),1.0
+SNOMEDCT,276827001,Malignant glioma of spinal cord (disorder),1.0
+SNOMEDCT,276828006,Glioblastoma multiforme of brain (disorder),1.0
+SNOMEDCT,276829003,Glioblastoma multiforme of spinal cord (disorder),1.0
+SNOMEDCT,276870001,Carcinoma of fallopian tube (disorder),1.0
+SNOMEDCT,276876007,Carcinoma of Bartholin's gland (disorder),1.0
+SNOMEDCT,276953005,Squamous cell carcinoma of gum (disorder),1.0
+SNOMEDCT,276975007,Carcinoma of larynx (disorder),1.0
+SNOMEDCT,277466009,Lymphoproliferative disorder (disorder),1.0
+SNOMEDCT,278024000,Rhabdomyosarcoma of bladder (disorder),1.0
+SNOMEDCT,278043000,Malignant seminoma of mediastinum (disorder),1.0
+SNOMEDCT,278044006,Malignant neuroma of mediastinum (disorder),1.0
+SNOMEDCT,278046008,Sarcoma of bladder (disorder),1.0
+SNOMEDCT,278050001,Sarcoma of breast (disorder),1.0
+SNOMEDCT,278054005,Lobular carcinoma of breast (disorder),1.0
+SNOMEDCT,278433008,Malignant infiltration of soft tissue (disorder),1.0
+SNOMEDCT,278491007,Mixed seminoma teratoma of testis (disorder),1.0
+SNOMEDCT,281702006,Tibial adamantinoma (disorder),1.0
+SNOMEDCT,285310000,Carcinoma of anal canal (disorder),1.0
+SNOMEDCT,285604008,Metastasis to lung of unknown primary (disorder),1.0
+SNOMEDCT,285605009,Metastasis to pleura of unknown primary (disorder),1.0
+SNOMEDCT,285609003,Metastasis to small intestine of unknown primary (disorder),1.0
+SNOMEDCT,285610008,Metastasis to large intestine of unknown primary (disorder),1.0
+SNOMEDCT,285612000,Metastasis to rectum of unknown primary (disorder),1.0
+SNOMEDCT,285614004,Metastasis to pancreas of unknown primary (disorder),1.0
+SNOMEDCT,285618001,Metastasis to bone of unknown primary (disorder),1.0
+SNOMEDCT,285619009,Metastasis to vertebral column of unknown primary (disorder),1.0
+SNOMEDCT,285631006,Metastasis to skin of unknown primary (disorder),1.0
+SNOMEDCT,285633009,Metastasis to soft tissue of unknown primary (disorder),1.0
+SNOMEDCT,285634003,Metastasis to breast of unknown primary (disorder),1.0
+SNOMEDCT,285635002,Metastasis to uterus of unknown primary (disorder),1.0
+SNOMEDCT,285637005,Metastasis to ovary of unknown primary (disorder),1.0
+SNOMEDCT,285639008,Metastasis to kidney of unknown primary (disorder),1.0
+SNOMEDCT,285641009,Metastasis to brain of unknown primary (disorder),1.0
+SNOMEDCT,285643007,Metastasis to adrenal gland of unknown primary (disorder),1.0
+SNOMEDCT,285644001,Metastasis to lymph node of unknown primary (disorder),1.0
+SNOMEDCT,286887005,Carcinoma liver and/or biliary system (disorder),1.0
+SNOMEDCT,286889008,Carcinoma of upper limb bones/scapula (disorder),1.0
+SNOMEDCT,286895009,"Carcinoma of breast - upper, outer quadrant (disorder)",1.0
+SNOMEDCT,286896005,"Carcinoma breast - lower, outer quadrant (disorder)",1.0
+SNOMEDCT,286897001,Carcinoma of breast - axillary tail (disorder),1.0
+SNOMEDCT,286899003,Carcinoma of genital organ (disorder),1.0
+SNOMEDCT,286902000,Secondary carcinoma of gastrointestinal tract (disorder),1.0
+SNOMEDCT,300988009,Transitional cell carcinoma of ureter (disorder),1.0
+SNOMEDCT,301756000,Adenocarcinoma of sigmoid colon (disorder),1.0
+SNOMEDCT,302851001,Synovial sarcoma (disorder),1.0
+SNOMEDCT,307216009,Perforated carcinoma of esophagus (disorder),1.0
+SNOMEDCT,307226002,Metastatic adenocarcinoma of unknown origin (disorder),1.0
+SNOMEDCT,307502000,Squamous cell carcinoma of mouth (disorder),1.0
+SNOMEDCT,307599002,Sebaceous adenocarcinoma (disorder),1.0
+SNOMEDCT,307608006,Ewing's sarcoma of bone (disorder),1.0
+SNOMEDCT,307609003,Adamantinoma of long bone (disorder),1.0
+SNOMEDCT,307610008,Pilomatrix carcinoma of skin (disorder),1.0
+SNOMEDCT,31047003,Lymphomatoid papulosis (disorder),1.0
+SNOMEDCT,312112002,Carcinoma of transverse colon (disorder),1.0
+SNOMEDCT,312114001,Carcinoma of hepatic flexure (disorder),1.0
+SNOMEDCT,313249007,Malignant neoplasm of upper eyelid (disorder),1.0
+SNOMEDCT,313353007,Squamous cell carcinoma of bronchus in left lower lobe (disorder),1.0
+SNOMEDCT,314418005,Leukemic infiltrate of retina (disorder),1.0
+SNOMEDCT,314953008,Local recurrence of malignant tumor of thyroid gland (disorder),1.0
+SNOMEDCT,314962005,Local recurrence of malignant tumor of gallbladder (disorder),1.0
+SNOMEDCT,314965007,Local recurrence of malignant tumor of colon (disorder),1.0
+SNOMEDCT,314974009,Local recurrence of malignant tumor of soft tissue (disorder),1.0
+SNOMEDCT,314989000,Metastasis from malignant tumor of soft tissues (disorder),1.0
+SNOMEDCT,314991008,Metastasis from malignant tumor of adrenal gland (disorder),1.0
+SNOMEDCT,314992001,Metastasis from malignant tumor of cervix (disorder),1.0
+SNOMEDCT,314994000,Metastasis from malignant tumor of prostate (disorder),1.0
+SNOMEDCT,314999005,Metastasis from malignant tumor of pancreas (disorder),1.0
+SNOMEDCT,315000005,Metastasis from malignant tumor of liver (disorder),1.0
+SNOMEDCT,315002002,Metastasis from malignant tumor of stomach (disorder),1.0
+SNOMEDCT,315003007,Metastasis from malignant tumor of esophagus (disorder),1.0
+SNOMEDCT,315004001,Metastasis from malignant tumor of breast (disorder),1.0
+SNOMEDCT,315005000,Metastasis from malignant tumor of bronchus (disorder),1.0
+SNOMEDCT,315007008,Metastasis from malignant tumor of thyroid (disorder),1.0
+SNOMEDCT,315009006,Metastasis from malignant tumor of tongue (disorder),1.0
+SNOMEDCT,342511000000104,Siewert type II adenocarcinoma (disorder),1.0
+SNOMEDCT,354351000119105,Primary malignant neoplasm of left kidney (disorder),1.0
+SNOMEDCT,354361000119107,Primary malignant neoplasm of right kidney (disorder),1.0
+SNOMEDCT,363357005,Malignant tumor of ill-defined site (disorder),1.0
+SNOMEDCT,363363001,Malignant tumor of soft tissue of shoulder (disorder),1.0
+SNOMEDCT,363364007,Malignant tumor of soft tissue of hip (disorder),1.0
+SNOMEDCT,363500001,Multiple malignancy (disorder),1.0
+SNOMEDCT,363510005,Malignant tumor of large intestine (disorder),1.0
+SNOMEDCT,363517008,Malignant tumor of urinary tract proper (disorder),1.0
+SNOMEDCT,371974006,Malignant neoplasm of border of tongue (disorder),1.0
+SNOMEDCT,371984007,Primary malignant neoplasm of esophagus (disorder),1.0
+SNOMEDCT,372004005,Primary malignant neoplasm of parotid gland (disorder),1.0
+SNOMEDCT,372011009,Malignant tumor of soft tissue of upper limb (disorder),1.0
+SNOMEDCT,372094002,Malignant neoplasm of axillary tail of breast (disorder),1.0
+SNOMEDCT,372096000,Carcinoma of male breast (disorder),1.0
+SNOMEDCT,372101000,Carcinoma of extrahepatic bile duct (disorder),1.0
+SNOMEDCT,372108006,Malignant neoplasm of bone of lower limb (disorder),1.0
+SNOMEDCT,372111007,"Carcinoma of lower lobe, bronchus or lung (disorder)",1.0
+SNOMEDCT,372113005,"Carcinoma of middle lobe, bronchus or lung (disorder)",1.0
+SNOMEDCT,372131006,Malignant neoplasm of upper limb bones and scapula (disorder),1.0
+SNOMEDCT,372136001,"Carcinoma of upper lobe, bronchus or lung (disorder)",1.0
+SNOMEDCT,372138000,Carcinoma of esophagus (disorder),1.0
+SNOMEDCT,372139008,Primary malignant neoplasm of gallbladder (disorder),1.0
+SNOMEDCT,372142002,Carcinoma of pancreas (disorder),1.0
+SNOMEDCT,372143007,Carcinoma of stomach (disorder),1.0
+SNOMEDCT,372244006,Malignant melanoma (disorder),1.0
+SNOMEDCT,393563007,Glioblastoma multiforme (disorder),1.0
+SNOMEDCT,399490008,Adenocarcinoma of prostate (disorder),1.0
+SNOMEDCT,399660006,Ring melanoma of ciliary body (disorder),1.0
+SNOMEDCT,403900000,Spindle cell squamous cell carcinoma (disorder),1.0
+SNOMEDCT,403923002,Spindle cell malignant melanoma (disorder),1.0
+SNOMEDCT,403924008,Desmoplastic malignant melanoma (disorder),1.0
+SNOMEDCT,403927001,Malignant melanoma of nail apparatus (disorder),1.0
+SNOMEDCT,404037002,Malignant peripheral nerve sheath tumor (disorder),1.0
+SNOMEDCT,404051002,Embryonal rhabdomyosarcoma (disorder),1.0
+SNOMEDCT,405945003,Malignant neoplasm of metatarsal bone of foot (disorder),1.0
+SNOMEDCT,408642003,Transitional cell carcinoma of kidney (disorder),1.0
+SNOMEDCT,408643008,Infiltrating duct carcinoma of breast (disorder),1.0
+SNOMEDCT,408646000,Adenocarcinoma of liver (disorder),1.0
+SNOMEDCT,408647009,Adenocarcinoma of stomach (disorder),1.0
+SNOMEDCT,409231000000104,[X]Malignant neoplasm of mesothelial and soft tissue (disorder),1.0
+SNOMEDCT,413446001,Adenocarcinoma of cecum (disorder),1.0
+SNOMEDCT,415110002,Plasma cell myeloma/plasmacytoma (disorder),1.0
+SNOMEDCT,416402001,Gestational trophoblastic disease (disorder),1.0
+SNOMEDCT,416712009,Clear cell (mesonephric) neoplasm of ovary (disorder),1.0
+SNOMEDCT,417570003,Gestational choriocarcinoma (disorder),1.0
+SNOMEDCT,423158009,Hurthle cell carcinoma of thyroid (disorder),1.0
+SNOMEDCT,423746001,Adenocarcinoma of pelvis (disorder),1.0
+SNOMEDCT,424151006,Anaplastic glioma of brain (disorder),1.0
+SNOMEDCT,425066001,"Carcinoma of urinary bladder, invasive (disorder)",1.0
+SNOMEDCT,425111000000106,[X]Additional neoplasm classification terms (disorder),1.0
+SNOMEDCT,425178004,Adenocarcinoma of rectosigmoid junction (disorder),1.0
+SNOMEDCT,427141003,Malignant lymphoma in remission (disorder),1.0
+SNOMEDCT,427492003,Hormone refractory prostate cancer (disorder),1.0
+SNOMEDCT,427685000,Human epidermal growth factor 2 positive carcinoma of breast (disorder),1.0
+SNOMEDCT,443144000,Metastatic sarcoma (disorder),1.0
+SNOMEDCT,443493003,Metastatic malignant melanoma (disorder),1.0
+SNOMEDCT,443520009,Chondrosarcoma (disorder),1.0
+SNOMEDCT,443719001,Leiomyosarcoma (disorder),1.0
+SNOMEDCT,444604002,Carcinoma of breast with ductal and lobular features (disorder),1.0
+SNOMEDCT,446022000,Malignant epithelial neoplasm of uterus (disorder),1.0
+SNOMEDCT,447706001,Leiomyosarcoma of scalp (disorder),1.0
+SNOMEDCT,447882007,Malignant epithelial neoplasm of vulva (disorder),1.0
+SNOMEDCT,448216007,Malignant epithelial neoplasm of thyroid (disorder),1.0
+SNOMEDCT,448992002,Malignant epithelial neoplasm of appendix (disorder),1.0
+SNOMEDCT,448993007,Malignant epithelial neoplasm of lung (disorder),1.0
+SNOMEDCT,449066004,Malignant neoplasm of upper respiratory tract (disorder),1.0
+SNOMEDCT,449153001,Adenocarcinoma of lower esophagus (disorder),1.0
+SNOMEDCT,45221000119105,Primary invasive malignant neoplasm of female breast (disorder),1.0
+SNOMEDCT,462461000000100,[X]Malignant neoplasm of female genital organs (disorder),1.0
+SNOMEDCT,65399007,Langerhans cell histiocytosis (disorder),1.0
+SNOMEDCT,67821000119109,"Primary small cell malignant neoplasm of lung, TNM stage 2 (disorder)",1.0
+SNOMEDCT,681601000119101,Primary adenocarcinoma of ascending colon (disorder),1.0
+SNOMEDCT,684911000119105,Primary glioblastoma multiforme of frontal lobe (disorder),1.0
+SNOMEDCT,68979007,Heavy chain disease (disorder),1.0
+SNOMEDCT,700423003,Adenocarcinoma of pancreas (disorder),1.0
+SNOMEDCT,707357005,Primary squamous cell carcinoma of laryngeal cartilage (disorder),1.0
+SNOMEDCT,707358000,Primary squamous cell carcinoma of larynx (disorder),1.0
+SNOMEDCT,707452003,Primary mucinous adenocarcinoma of lung (disorder),1.0
+SNOMEDCT,707492001,Primary squamous cell carcinoma of hypopharynx (disorder),1.0
+SNOMEDCT,708921005,Carcinoma of central portion of breast (disorder),1.0
+SNOMEDCT,711414003,Primary clear cell adenocarcinoma of lung (disorder),1.0
+SNOMEDCT,713609000,Invasive carcinoma of breast (disorder),1.0
+SNOMEDCT,716649003,Extraovarian primary peritoneal carcinoma (disorder),1.0
+SNOMEDCT,716659002,Squamous cell carcinoma of head and neck (disorder),1.0
+SNOMEDCT,719052006,Recurrent squamous cell carcinoma (disorder),1.0
+SNOMEDCT,721304007,Refractory thrombocytopenia (disorder),1.0
+SNOMEDCT,721575005,Primary angiosarcoma of heart (disorder),1.0
+SNOMEDCT,721618006,Primary squamous cell carcinoma of upper third of esophagus (disorder),1.0
+SNOMEDCT,721619003,Primary squamous cell carcinoma of middle third of esophagus (disorder),1.0
+SNOMEDCT,721628002,Primary adenocarcinoma of esophagogastric junction (disorder),1.0
+SNOMEDCT,721636006,Primary malignant neuroendocrine neoplasm of body of stomach (disorder),1.0
+SNOMEDCT,721696009,Primary adenocarcinoma of transverse colon (disorder),1.0
+SNOMEDCT,721716004,Primary cholangiocarcinoma of intrahepatic biliary tract (disorder),1.0
+SNOMEDCT,722103009,Hormone sensitive prostate cancer (disorder),1.0
+SNOMEDCT,722528008,Primary malignant neuroendocrine neoplasm of lung (disorder),1.0
+SNOMEDCT,722542000,Primary squamous cell carcinoma of anal canal (disorder),1.0
+SNOMEDCT,722672002,Primary squamous cell carcinoma of base of tongue (disorder),1.0
+SNOMEDCT,722682001,Primary small cell carcinoma of endometrium (disorder),1.0
+SNOMEDCT,723265000,Primary squamous cell carcinoma of anus (disorder),1.0
+SNOMEDCT,723301009,Squamous non-small cell lung cancer (disorder),1.0
+SNOMEDCT,724059003,Malignant neoplasm of lower lobe of left lung (disorder),1.0
+SNOMEDCT,724060008,Malignant neoplasm of right upper lobe of lung (disorder),1.0
+SNOMEDCT,724649000,Langerhans cell sarcoma (disorder),1.0
+SNOMEDCT,737310005,Primary squamous cell carcinoma of submandibular gland (disorder),1.0
+SNOMEDCT,762458004,Primary endometrioid carcinoma of endometrium of body of uterus (disorder),1.0
+SNOMEDCT,766979005,Squamous cell carcinoma of rectum (disorder),1.0
+SNOMEDCT,813671000000107,Secondary malignant neoplasm of liver and intrahepatic bile duct (disorder),1.0
+SNOMEDCT,83270006,Neoplastic pleural effusion (disorder),1.0
+SNOMEDCT,91281000119103,Secondary adenocarcinoma of bone (disorder),1.0
+SNOMEDCT,93133006,Letterer-Siwe disease of intra-abdominal lymph nodes (disorder),1.0
+SNOMEDCT,93137007,"Letterer-Siwe disease of lymph nodes of head, face AND/OR neck (disorder)",1.0
+SNOMEDCT,93140007,Letterer-Siwe disease of spleen (disorder),1.0
+SNOMEDCT,93184007,Malignant histiocytosis of intrathoracic lymph nodes (disorder),1.0
+SNOMEDCT,93209006,Malignant melanoma of perianal skin (disorder),1.0
+SNOMEDCT,93210001,Malignant melanoma of skin of abdomen (disorder),1.0
+SNOMEDCT,93661001,Primary malignant neoplasm of acromion (disorder),1.0
+SNOMEDCT,93665005,Primary malignant neoplasm of adrenal gland (disorder),1.0
+SNOMEDCT,93669004,Primary malignant neoplasm of anal canal (disorder),1.0
+SNOMEDCT,93676009,Primary malignant neoplasm of anus (disorder),1.0
+SNOMEDCT,93679002,Primary malignant neoplasm of appendix (disorder),1.0
+SNOMEDCT,93683002,Primary malignant neoplasm of ascending colon (disorder),1.0
+SNOMEDCT,93734005,Primary malignant neoplasm of bronchus (disorder),1.0
+SNOMEDCT,93753000,Primary malignant neoplasm of cheek (disorder),1.0
+SNOMEDCT,93761005,Primary malignant neoplasm of colon (disorder),1.0
+SNOMEDCT,93769007,Primary malignant neoplasm of cuboid (disorder),1.0
+SNOMEDCT,93771007,Primary malignant neoplasm of descending colon (disorder),1.0
+SNOMEDCT,93775003,Primary malignant neoplasm of duodenum (disorder),1.0
+SNOMEDCT,93782004,Primary malignant neoplasm of epicardium (disorder),1.0
+SNOMEDCT,93784003,Primary malignant neoplasm of epiglottis (disorder),1.0
+SNOMEDCT,93796005,Primary malignant neoplasm of female breast (disorder),1.0
+SNOMEDCT,93889000,Primary malignant neoplasm of maxillary sinus (disorder),1.0
+SNOMEDCT,93934004,Primary malignant neoplasm of ovary (disorder),1.0
+SNOMEDCT,93950007,Primary malignant neoplasm of patella (disorder),1.0
+SNOMEDCT,93974005,Primary malignant neoplasm of prostate (disorder),1.0
+SNOMEDCT,93980002,Primary malignant neoplasm of rectosigmoid junction (disorder),1.0
+SNOMEDCT,93984006,Primary malignant neoplasm of rectum (disorder),1.0
+SNOMEDCT,93995000,Primary malignant neoplasm of sacrococcygeal region (disorder),1.0
+SNOMEDCT,94000008,Primary malignant neoplasm of sebaceous gland (disorder),1.0
+SNOMEDCT,94087009,Primary malignant neoplasm of testis (disorder),1.0
+SNOMEDCT,94101009,Primary malignant neoplasm of tongue (disorder),1.0
+SNOMEDCT,94102002,Primary malignant neoplasm of tonsillar fossa (disorder),1.0
+SNOMEDCT,94105000,Primary malignant neoplasm of transverse colon (disorder),1.0
+SNOMEDCT,94125001,Primary malignant neoplasm of urinary system (disorder),1.0
+SNOMEDCT,94143002,Primary malignant neoplasm of vulva (disorder),1.0
+SNOMEDCT,94243009,Secondary malignant neoplasm of central nervous system (disorder),1.0
+SNOMEDCT,94280003,Secondary malignant neoplasm of endocrine gland (disorder),1.0
+SNOMEDCT,94300004,Secondary malignant neoplasm of femur (disorder),1.0
+SNOMEDCT,94326009,Secondary malignant neoplasm of head (disorder),1.0
+SNOMEDCT,94344001,Secondary malignant neoplasm of intercostal lymph nodes (disorder),1.0
+SNOMEDCT,94361000000105,Breast cancer detected by national screening programme (disorder),1.0
+SNOMEDCT,94376006,Secondary malignant neoplasm of left upper lobe of lung (disorder),1.0
+SNOMEDCT,94389000,Secondary malignant neoplasm of lumbar vertebral column (disorder),1.0
+SNOMEDCT,94397007,Secondary malignant neoplasm of lymph nodes of neck (disorder),1.0
+SNOMEDCT,94454001,Secondary malignant neoplasm of oropharynx (disorder),1.0
+SNOMEDCT,94478006,Secondary malignant neoplasm of pelvic bone (disorder),1.0
+SNOMEDCT,94480000,Secondary malignant neoplasm of pelvis (disorder),1.0
+SNOMEDCT,94494004,Secondary malignant neoplasm of popliteal lymph nodes (disorder),1.0
+SNOMEDCT,94514000,Secondary malignant neoplasm of renal pelvis (disorder),1.0
+SNOMEDCT,94531007,Secondary malignant neoplasm of scrotum (disorder),1.0
+SNOMEDCT,94634005,Secondary malignant neoplasm of thyroid gland (disorder),1.0
+SNOMEDCT,94641004,Secondary malignant neoplasm of trachea (disorder),1.0
+SNOMEDCT,9541000119105,Primary adenocarcinoma of gallbladder (disorder),1.0
+SNOMEDCT,956351000000100,Malignant melanoma stage IB (finding),1.0
+SNOMEDCT,956411000000108,Malignant melanoma stage IIC (finding),1.0
+SNOMEDCT,956451000000107,Malignant melanoma stage IIIB (finding),1.0
+SNOMEDCT,956471000000103,Malignant melanoma stage IIIC (finding),1.0
+SNOMEDCT,956551000000106,Malignant melanoma stage IV M1c (finding),1.0
+SNOMEDCT,255096006,Malignant tumor of dermis (disorder),1.0
+SNOMEDCT,402537005,Metastatic basal cell carcinoma (disorder),1.0
+SNOMEDCT,93956001,Primary malignant neoplasm of perianal skin (disorder),1.0
+SNOMEDCT,107691000119101,Non-seminomatous germ cell neoplasm of testis (disorder),1.0
+SNOMEDCT,1078881000119102,Primary adenocarcinoma of lower lobe of left lung (disorder),1.0
+SNOMEDCT,1078901000119100,Primary adenocarcinoma of upper lobe of left lung (disorder),1.0
+SNOMEDCT,1080941000119109,Malignant melanoma of left choroid (disorder),1.0
+SNOMEDCT,1081551000119106,Recurrent primary malignant neoplasm of left female breast (disorder),1.0
+SNOMEDCT,1081561000119108,Recurrent primary malignant neoplasm of right female breast (disorder),1.0
+SNOMEDCT,1082311000119107,Transitional cell carcinoma of right ureter (disorder),1.0
+SNOMEDCT,1090081000000106,Secondary malignant neoplasm of paratracheal lymph nodes (disorder),1.0
+SNOMEDCT,1090131000000106,Secondary malignant neoplasm of anterior cervical lymph nodes (disorder),1.0
+SNOMEDCT,1090171000000108,Secondary malignant neoplasm of sacral lymph nodes (disorder),1.0
+SNOMEDCT,1090181000000105,Secondary malignant neoplasm of inferior epigastric lymph nodes (disorder),1.0
+SNOMEDCT,1090191000000107,Secondary malignant neoplasm of coeliac lymph nodes (disorder),1.0
+SNOMEDCT,1090201000000109,Secondary malignant neoplasm of deep inguinal lymph nodes (disorder),1.0
+SNOMEDCT,1090251000000105,Malignant neoplasm of nose (disorder),1.0
+SNOMEDCT,1090261000000108,Malignant neoplasm of descended testis (disorder),1.0
+SNOMEDCT,1090271000000101,Malignant neoplasm of ventral surface of tongue (disorder),1.0
+SNOMEDCT,1090291000000102,Malignant neoplasm of prepylorus of stomach (disorder),1.0
+SNOMEDCT,1090301000000103,Malignant neoplasm of flank (disorder),1.0
+SNOMEDCT,1090821000000101,Malignant neoplasm of bone and articular cartilage (disorder),1.0
+SNOMEDCT,1090881000000100,Malignant neoplasm of bronchus or lung (disorder),1.0
+SNOMEDCT,1090891000000103,Malignant neoplasm of connective and soft tissues of trunk (disorder),1.0
+SNOMEDCT,1090901000000102,Malignant neoplasm of peripheral nerves of trunk (disorder),1.0
+SNOMEDCT,1090921000000106,Malignant neoplasm of jaw (disorder),1.0
+SNOMEDCT,1090941000000104,Malignant neoplasm of inguinal region (disorder),1.0
+SNOMEDCT,109348004,Overlapping malignant neoplasm of bone and articular cartilage of limbs (disorder),1.0
+SNOMEDCT,109386008,Kaposi's sarcoma of skin (disorder),1.0
+SNOMEDCT,109824000,Overlapping malignant neoplasm of major salivary gland (disorder),1.0
+SNOMEDCT,109842005,Intrahepatic bile duct carcinoma (disorder),1.0
+SNOMEDCT,1098981000119101,Recurrent malignant neoplasm of prostate (disorder),1.0
+SNOMEDCT,109982002,Alpha heavy chain disease (disorder),1.0
+SNOMEDCT,109984001,Gamma heavy chain disease (disorder),1.0
+SNOMEDCT,109994006,Essential thrombocythemia (disorder),1.0
+SNOMEDCT,109998009,Refractory anemia with ringed sideroblasts (disorder),1.0
+SNOMEDCT,116381000119105,Ganglioneuroblastoma (disorder),1.0
+SNOMEDCT,12240951000119107,Squamous cell carcinoma of left lung (disorder),1.0
+SNOMEDCT,123845008,Adenocarcinoma of endometrium (disorder),1.0
+SNOMEDCT,128041000119107,Primary adenocarcinoma of distal third of esophagus (disorder),1.0
+SNOMEDCT,15635721000119108,Primary malignant neoplasm of both ovaries (disorder),1.0
+SNOMEDCT,18121000119104,Primary squamous cell carcinoma of palatine tonsil (disorder),1.0
+SNOMEDCT,187634003,Malignant tumor of anterior two-thirds of tongue - dorsal surface (disorder),1.0
+SNOMEDCT,187635002,Malignant neoplasm of midline of tongue (disorder),1.0
+SNOMEDCT,187809000,Malignant neoplasm of mesocolon (disorder),1.0
+SNOMEDCT,187834000,Malignant tumor of Eustachian tube (disorder),1.0
+SNOMEDCT,187940008,Malignant neoplasm of carpal bone - pisiform (disorder),1.0
+SNOMEDCT,187941007,Malignant neoplasm of carpal bone - trapezium (disorder),1.0
+SNOMEDCT,187946002,Malignant neoplasm of second metacarpal bone (disorder),1.0
+SNOMEDCT,187948001,Malignant neoplasm of fourth metacarpal bone (disorder),1.0
+SNOMEDCT,187977000,Malignant neoplasm of fifth metatarsal bone (disorder),1.0
+SNOMEDCT,188006008,Malignant neoplasm of connective and soft tissue of great toe (disorder),1.0
+SNOMEDCT,188023004,Malignant neoplasm of connective and soft tissue of sacrum or coccyx (disorder),1.0
+SNOMEDCT,188208002,Malignant neoplasm of Gartner's duct (disorder),1.0
+SNOMEDCT,188265001,Malignant neoplasm of crystalline lens (disorder),1.0
+SNOMEDCT,188266000,Malignant neoplasm of sclera (disorder),1.0
+SNOMEDCT,188302003,Malignant neoplasm of tapetum (disorder),1.0
+SNOMEDCT,188313000,Malignant neoplasm of cerebral arachnoid mater (disorder),1.0
+SNOMEDCT,188318009,Malignant neoplasm of spinal arachnoid mater (disorder),1.0
+SNOMEDCT,188662007,"Mast cell malignancy of lymph nodes of head, face and neck (disorder)",1.0
+SNOMEDCT,188664008,Mast cell malignancy of intra-abdominal lymph nodes (disorder),1.0
+SNOMEDCT,188668006,Mast cell malignancy of spleen (disorder),1.0
+SNOMEDCT,230685009,Myasthenia gravis associated with thymoma (disorder),1.0
+SNOMEDCT,231833004,Sebaceous adenocarcinoma of eyelid (disorder),1.0
+SNOMEDCT,231835006,Kaposi's sarcoma of eyelid (disorder),1.0
+SNOMEDCT,237833006,Carcinoid crisis (disorder),1.0
+SNOMEDCT,253042009,Myxoid dermatofibrosarcoma protuberans (disorder),1.0
+SNOMEDCT,254389005,Carcinoma of vermilion border of upper lip (disorder),1.0
+SNOMEDCT,254412006,Malignant tumor of tip of tongue (disorder),1.0
+SNOMEDCT,254424004,Carcinoma of upper gum (disorder),1.0
+SNOMEDCT,254425003,Carcinoma of lower gum (disorder),1.0
+SNOMEDCT,254427006,Carcinoma of anterior part of floor of mouth (disorder),1.0
+SNOMEDCT,254434008,Carcinoma of hard palate (disorder),1.0
+SNOMEDCT,254457002,Carcinoma of retromolar area (disorder),1.0
+SNOMEDCT,254466003,Carcinoma of sublingual gland (disorder),1.0
+SNOMEDCT,254474002,Malignant tumor of nasal skeleton (disorder),1.0
+SNOMEDCT,254478004,Malignant tumor of inferior turbinate (disorder),1.0
+SNOMEDCT,254503007,Malignant tumor of inferior surface of soft palate (disorder),1.0
+SNOMEDCT,254509006,Malignant tumor of anterior commissure (disorder),1.0
+SNOMEDCT,254517003,Malignant tumor of suprahyoid epiglottis (disorder),1.0
+SNOMEDCT,254539001,Carcinoma of thoracic part of esophagus (disorder),1.0
+SNOMEDCT,254543002,Carcinoma of abdominal part of esophagus (disorder),1.0
+SNOMEDCT,254547001,Carcinoma of upper third of esophagus (disorder),1.0
+SNOMEDCT,254555008,Carcinoma of fundus of stomach (disorder),1.0
+SNOMEDCT,254557000,Carcinoma of body of stomach (disorder),1.0
+SNOMEDCT,254561006,Carcinoma of pylorus (disorder),1.0
+SNOMEDCT,254567005,Carcinoma of greater curve of stomach (disorder),1.0
+SNOMEDCT,254570009,Carcinoma of duodenum (disorder),1.0
+SNOMEDCT,254586002,Malignant tumor of anorectal junction (disorder),1.0
+SNOMEDCT,254609000,Carcinoma of ampulla of Vater (disorder),1.0
+SNOMEDCT,254611009,Malignant tumor of endocrine pancreas (disorder),1.0
+SNOMEDCT,254612002,Carcinoma of endocrine pancreas (disorder),1.0
+SNOMEDCT,254619006,Adenoid cystic carcinoma of trachea (disorder),1.0
+SNOMEDCT,254622008,Squamous cell carcinoma of bronchus (disorder),1.0
+SNOMEDCT,254625005,Malignant tumor of lung parenchyma (disorder),1.0
+SNOMEDCT,254627002,Carcinoid tumor of lung (disorder),1.0
+SNOMEDCT,254628007,Carcinoma of lung parenchyma (disorder),1.0
+SNOMEDCT,254631008,Giant cell carcinoma of lung (disorder),1.0
+SNOMEDCT,254632001,Small cell carcinoma of lung (disorder),1.0
+SNOMEDCT,254633006,Oat cell carcinoma of lung (disorder),1.0
+SNOMEDCT,254635004,Epithelioid hemangioendothelioma of lung (disorder),1.0
+SNOMEDCT,254707006,Malignant skin tumor with eccrine differentiation (disorder),1.0
+SNOMEDCT,254708001,Eccrine porocarcinoma of skin (disorder),1.0
+SNOMEDCT,254711000,Adenoid cystic eccrine carcinoma of skin (disorder),1.0
+SNOMEDCT,254726003,Malignant skin tumor with apocrine differentiation (disorder),1.0
+SNOMEDCT,254732008,Acral lentiginous malignant melanoma of skin (disorder),1.0
+SNOMEDCT,254734009,Malignant melanoma arising in congenital nevus (disorder),1.0
+SNOMEDCT,254764001,Peripheral neuroepithelioma (disorder),1.0
+SNOMEDCT,254771006,Cutaneous leiomyosarcoma (disorder),1.0
+SNOMEDCT,254794007,Angiosarcoma of skin (disorder),1.0
+SNOMEDCT,254828009,Malignant lipomatous tumor (disorder),1.0
+SNOMEDCT,254829001,Liposarcoma (disorder),1.0
+SNOMEDCT,254838004,Carcinoma of breast (disorder),1.0
+SNOMEDCT,254840009,Inflammatory carcinoma of breast (disorder),1.0
+SNOMEDCT,254841008,Cancer en cuirasse (disorder),1.0
+SNOMEDCT,254849005,Malignant epithelial tumor of ovary (disorder),1.0
+SNOMEDCT,254850005,Serous papillary cystadenocarcinoma ovary (disorder),1.0
+SNOMEDCT,254851009,Mucinous cystadenocarcinoma of ovary (disorder),1.0
+SNOMEDCT,254852002,Endometrioid carcinoma ovary (disorder),1.0
+SNOMEDCT,254855000,Mixed epithelial tumor of ovary (disorder),1.0
+SNOMEDCT,254856004,Undifferentiated carcinoma of ovary (disorder),1.0
+SNOMEDCT,254869000,Malignant germ cell tumor of ovary (disorder),1.0
+SNOMEDCT,254870004,Choriocarcinoma of ovary (disorder),1.0
+SNOMEDCT,254871000,Immature teratoma of ovary (disorder),1.0
+SNOMEDCT,254872007,Embryonal carcinoma of ovary (disorder),1.0
+SNOMEDCT,254877001,Sarcoma of uterus (disorder),1.0
+SNOMEDCT,254878006,Endometrial carcinoma (disorder),1.0
+SNOMEDCT,254886006,Squamous cell carcinoma of cervix (disorder),1.0
+SNOMEDCT,254888007,Adenosquamous carcinoma of cervix (disorder),1.0
+SNOMEDCT,254893005,Carcinoma of vagina (disorder),1.0
+SNOMEDCT,254896002,Malignant melanoma of vulva (disorder),1.0
+SNOMEDCT,254900004,Carcinoma of prostate (disorder),1.0
+SNOMEDCT,254918001,Sarcoma of kidney (disorder),1.0
+SNOMEDCT,254934003,Malignant tumor of urethral stump (disorder),1.0
+SNOMEDCT,254938000,Astrocytoma of brain (disorder),1.0
+SNOMEDCT,254940005,Oligodendroglioma of brain (disorder),1.0
+SNOMEDCT,254948003,Astrocytoma of spinal cord (disorder),1.0
+SNOMEDCT,254950006,Oligodendroglioma of spinal cord (disorder),1.0
+SNOMEDCT,254969001,Malignant tumor of olfactory tract (disorder),1.0
+SNOMEDCT,254972008,Malignant tumor of optic nerve and sheath (disorder),1.0
+SNOMEDCT,254983004,Malignant tumor of spinal nerve and sheath (disorder),1.0
+SNOMEDCT,254987003,Adenoid cystic carcinoma of lacrimal gland (disorder),1.0
+SNOMEDCT,254988008,Adenocarcinoma of lacrimal gland (disorder),1.0
+SNOMEDCT,254989000,Carcinoma ex pleomorphic adenoma of lacrimal gland (disorder),1.0
+SNOMEDCT,254990009,Mucoepidermoid tumor of lacrimal gland (disorder),1.0
+SNOMEDCT,254994000,Rhabdomyosarcoma of orbit (disorder),1.0
+SNOMEDCT,254996003,Malignant fibrous histiocytoma of orbit (disorder),1.0
+SNOMEDCT,255008003,Squamous cell carcinoma of cornea (disorder),1.0
+SNOMEDCT,255012009,Malignant melanoma of iris (disorder),1.0
+SNOMEDCT,255021005,Malignant melanoma of choroid (disorder),1.0
+SNOMEDCT,255031003,Anaplastic thyroid carcinoma (disorder),1.0
+SNOMEDCT,255032005,Medullary thyroid carcinoma (disorder),1.0
+SNOMEDCT,255044008,Malignant pinealoma (disorder),1.0
+SNOMEDCT,255072001,Malignant tumor of salivary gland (disorder),1.0
+SNOMEDCT,255074000,Malignant tumor of nasal cavity and nasopharynx (disorder),1.0
+SNOMEDCT,255075004,Malignant tumor of lateral nasal wall (disorder),1.0
+SNOMEDCT,255078002,"Malignant tumor of esophagus, stomach and duodenum (disorder)",1.0
+SNOMEDCT,255087006,Malignant polyp of biliary tract (disorder),1.0
+SNOMEDCT,255093003,Malignant skin tumor with adnexal differentiation (disorder),1.0
+SNOMEDCT,255101006,SÃ©zary disease of skin (disorder),1.0
+SNOMEDCT,255109008,Transitional cell carcinoma of bladder (disorder),1.0
+SNOMEDCT,255110003,Adenocarcinoma of bladder (disorder),1.0
+SNOMEDCT,255114007,Kaposi's sarcoma of conjunctiva (disorder),1.0
+SNOMEDCT,255118005,Secondary lymphangitic carcinoma (disorder),1.0
+SNOMEDCT,255119002,Lymphangitis carcinomatosa (disorder),1.0
+SNOMEDCT,255127006,Local tumor spread (disorder),1.0
+SNOMEDCT,255128001,Malignant infiltration of peripheral nerve (disorder),1.0
+SNOMEDCT,255129009,Malignant infiltration of peripheral nerve plexus (disorder),1.0
+SNOMEDCT,269516007,Tongue carcinoma (disorder),1.0
+SNOMEDCT,269533000,Carcinoma of colon (disorder),1.0
+SNOMEDCT,269581007,Malignant melanoma of lower limb (disorder),1.0
+SNOMEDCT,269617008,Secondary nodes - inguinal/leg (disorder),1.0
+SNOMEDCT,274084007,Palate carcinoma (disorder),1.0
+SNOMEDCT,274085008,Tonsil carcinoma (disorder),1.0
+SNOMEDCT,274087000,Malignant melanoma of eye (disorder),1.0
+SNOMEDCT,274902006,Combined hepatocellular carcinoma and cholangiocarcinoma (disorder),1.0
+SNOMEDCT,275266006,Metastasis to digestive organs (disorder),1.0
+SNOMEDCT,275395000,Carcinoma anterior 2/3 tongue ventrum (disorder),1.0
+SNOMEDCT,275396004,Carcinoma of anterior two-thirds of tongue - dorsal surface (disorder),1.0
+SNOMEDCT,276420005,Malignant tumor of corpus cavernosum (disorder),1.0
+SNOMEDCT,276751004,Amelanotic malignant melanoma of skin (disorder),1.0
+SNOMEDCT,276797002,Malignant tumor of fibrous tissue (disorder),1.0
+SNOMEDCT,276799004,Dermatofibrosarcoma protuberans (disorder),1.0
+SNOMEDCT,276826005,Malignant glioma of brain (disorder),1.0
+SNOMEDCT,276952000,Squamous cell carcinoma of tongue (disorder),1.0
+SNOMEDCT,276954004,Squamous cell carcinoma of floor of mouth (disorder),1.0
+SNOMEDCT,276962007,Squamous cell carcinoma of palate (disorder),1.0
+SNOMEDCT,277156006,Malignant tumor of external ear (disorder),1.0
+SNOMEDCT,277461004,Anaplastic astrocytoma of brain (disorder),1.0
+SNOMEDCT,277505007,Medulloblastoma of cerebellum (disorder),1.0
+SNOMEDCT,277530005,Malignant melanoma of meninges (disorder),1.0
+SNOMEDCT,277597005,Myelodysplastic syndrome with isolated del(5q) (disorder),1.0
+SNOMEDCT,277605001,Tumor lysis syndrome (disorder),1.0
+SNOMEDCT,277782009,Malignant peritoneal local recurrence (disorder),1.0
+SNOMEDCT,278042005,Malignant teratoma of mediastinum (disorder),1.0
+SNOMEDCT,278053004,Intraductal carcinoma of breast (disorder),1.0
+SNOMEDCT,278055006,Malignant Leydig cell tumor of testis (disorder),1.0
+SNOMEDCT,278057003,Sertoli cell tumor of testis (disorder),1.0
+SNOMEDCT,278060005,Endometrioid carcinoma of prostate (disorder),1.0
+SNOMEDCT,280959007,Malignant tumor of lacrimal drainage structure (disorder),1.0
+SNOMEDCT,285312008,Carcinoma of sigmoid colon (disorder),1.0
+SNOMEDCT,285603002,Metastasis to bronchus of unknown primary (disorder),1.0
+SNOMEDCT,285607001,Metastasis to mediastinum of unknown primary (disorder),1.0
+SNOMEDCT,285611007,Metastasis to colon of unknown primary (disorder),1.0
+SNOMEDCT,285613005,Metastasis to liver of unknown primary (disorder),1.0
+SNOMEDCT,285616002,Metastasis to peritoneum of unknown primary (disorder),1.0
+SNOMEDCT,285617006,Metastasis to retroperitoneum of unknown primary (disorder),1.0
+SNOMEDCT,285640005,Metastasis to bladder of unknown primary (disorder),1.0
+SNOMEDCT,285645000,Disseminated malignancy of unknown primary (disorder),1.0
+SNOMEDCT,286890004,Carcinoma of lower limb bones (disorder),1.0
+SNOMEDCT,286893002,"Carcinoma of breast - upper, inner quadrant (disorder)",1.0
+SNOMEDCT,286894008,"Carcinoma of breast - lower, inner quadrant (disorder)",1.0
+SNOMEDCT,286900008,Carcinoma of epididymis/spermatic cord (disorder),1.0
+SNOMEDCT,294301000000103,Bowel cancer detected by national screening programme (disorder),1.0
+SNOMEDCT,302837001,Lentigo maligna melanoma (disorder),1.0
+SNOMEDCT,302847003,Rhabdomyosarcoma (disorder),1.0
+SNOMEDCT,302849000,Nephroblastoma (disorder),1.0
+SNOMEDCT,303012000,Malignant tumor of posterior wall of hypopharynx (disorder),1.0
+SNOMEDCT,304545002,Adenocarcinoma of ileum (disorder),1.0
+SNOMEDCT,30664006,"Multiple endocrine neoplasia, type 1 (disorder)",1.0
+SNOMEDCT,307219002,Retroperitoneal sarcoma (disorder),1.0
+SNOMEDCT,307601000,Pseudomyxoma peritonei (disorder),1.0
+SNOMEDCT,307603002,Malignant blue nevus of skin (disorder),1.0
+SNOMEDCT,309245001,Adenocarcinoma of uterus (disorder),1.0
+SNOMEDCT,310526005,Malignant tumor of soft tissue of back (disorder),1.0
+SNOMEDCT,310599006,Malignant neoplasm of canthus (disorder),1.0
+SNOMEDCT,312104005,Cholangiocarcinoma of biliary tract (disorder),1.0
+SNOMEDCT,312111009,Carcinoma of ascending colon (disorder),1.0
+SNOMEDCT,312113007,Carcinoma of descending colon (disorder),1.0
+SNOMEDCT,312115000,Carcinoma of splenic flexure (disorder),1.0
+SNOMEDCT,312949007,Retinal pigment epithelial adenocarcinoma (disorder),1.0
+SNOMEDCT,313250007,Malignant neoplasm of lower eyelid (disorder),1.0
+SNOMEDCT,313354001,Squamous cell carcinoma of bronchus in left upper lobe (disorder),1.0
+SNOMEDCT,313355000,Squamous cell carcinoma of bronchus in right lower lobe (disorder),1.0
+SNOMEDCT,313356004,Squamous cell carcinoma of bronchus in right middle lobe (disorder),1.0
+SNOMEDCT,313357008,Squamous cell carcinoma of bronchus in right upper lobe (disorder),1.0
+SNOMEDCT,314191009,Cystadenocarcinoma of ovary (disorder),1.0
+SNOMEDCT,314951005,Local recurrence of malignant tumor of tongue (disorder),1.0
+SNOMEDCT,314952003,Local recurrence of malignant tumor of buccal cavity (disorder),1.0
+SNOMEDCT,314954002,Local recurrence of malignant tumor of lung (disorder),1.0
+SNOMEDCT,314955001,Local recurrence of malignant tumor of breast (disorder),1.0
+SNOMEDCT,314960002,Local recurrence of malignant tumor of esophagus (disorder),1.0
+SNOMEDCT,314961003,Local recurrence of malignant tumor of stomach (disorder),1.0
+SNOMEDCT,314963000,Local recurrence of malignant tumor of liver (disorder),1.0
+SNOMEDCT,314964006,Local recurrence of malignant tumor of pancreas (disorder),1.0
+SNOMEDCT,314966008,Local recurrence of malignant tumor of rectum (disorder),1.0
+SNOMEDCT,314967004,Local recurrence of malignant tumor of kidney (disorder),1.0
+SNOMEDCT,314968009,Local recurrence of malignant tumor of urinary bladder (disorder),1.0
+SNOMEDCT,314969001,Local recurrence of malignant tumor of prostate (disorder),1.0
+SNOMEDCT,314970000,Local recurrence of malignant tumor of cervix (disorder),1.0
+SNOMEDCT,314973003,Local recurrence of malignant tumor of bone (disorder),1.0
+SNOMEDCT,314976006,Local recurrence of malignant melanoma of skin (disorder),1.0
+SNOMEDCT,314987003,Metastasis from malignant melanoma of skin (disorder),1.0
+SNOMEDCT,314988008,Metastasis from malignant tumor of skin (disorder),1.0
+SNOMEDCT,314990009,Metastasis from malignant tumor of bone (disorder),1.0
+SNOMEDCT,314993006,Metastasis from malignant tumor of uterus (disorder),1.0
+SNOMEDCT,314995004,Metastasis from malignant tumor of bladder (disorder),1.0
+SNOMEDCT,314996003,Metastasis from malignant tumor of kidney (disorder),1.0
+SNOMEDCT,314997007,Metastasis from malignant tumor of rectum (disorder),1.0
+SNOMEDCT,314998002,Metastasis from malignant tumor of colon (disorder),1.0
+SNOMEDCT,315001009,Metastasis from malignant tumor of gallbladder (disorder),1.0
+SNOMEDCT,315006004,Metastasis from malignant tumor of lung (disorder),1.0
+SNOMEDCT,315008003,Metastasis from malignant tumor of buccal cavity (disorder),1.0
+SNOMEDCT,326072005,Carcinoma of head of pancreas (disorder),1.0
+SNOMEDCT,342561000000102,Siewert type III adenocarcinoma (disorder),1.0
+SNOMEDCT,342571000000109,Siewert type I adenocarcinoma (disorder),1.0
+SNOMEDCT,35868009,Carcinoid syndrome (disorder),1.0
+SNOMEDCT,359785002,Metastatic malignant neoplasm to dome of urinary bladder (disorder),1.0
+SNOMEDCT,359987004,Krukenberg tumor (disorder),1.0
+SNOMEDCT,363359008,Malignant tumor of middle ear (disorder),1.0
+SNOMEDCT,363368005,Carcinoma of body of pancreas (disorder),1.0
+SNOMEDCT,363369002,Carcinoma of tail of pancreas (disorder),1.0
+SNOMEDCT,363396004,Malignant tumor of branchial cleft (disorder),1.0
+SNOMEDCT,363485006,Malignant tumor of minor salivary gland (disorder),1.0
+SNOMEDCT,363486007,Malignant tumor of vocal cord (disorder),1.0
+SNOMEDCT,363487003,Malignant tumor of aryepiglottic fold - laryngeal aspect (disorder),1.0
+SNOMEDCT,363488008,Malignant tumor of false cord (disorder),1.0
+SNOMEDCT,363493006,Malignant tumor of bronchus (disorder),1.0
+SNOMEDCT,363495004,Malignant tumor of muscle (disorder),1.0
+SNOMEDCT,363496003,Malignant tumor of soft tissue of abdomen (disorder),1.0
+SNOMEDCT,370967009,Retinoblastoma (disorder),1.0
+SNOMEDCT,371967001,Primary malignant neoplasm of ampulla of Vater (disorder),1.0
+SNOMEDCT,371977004,Primary malignant neoplasm of cecum (disorder),1.0
+SNOMEDCT,372001002,Primary malignant neoplasm of oral cavity (disorder),1.0
+SNOMEDCT,372003004,Primary malignant neoplasm of pancreas (disorder),1.0
+SNOMEDCT,372005006,Primary malignant neoplasm of penis (disorder),1.0
+SNOMEDCT,372014001,Primary malignant neoplasm of stomach (disorder),1.0
+SNOMEDCT,372016004,Primary malignant neoplasm of the peritoneum (disorder),1.0
+SNOMEDCT,372020000,Primary malignant neoplasm of tonsil (disorder),1.0
+SNOMEDCT,372023003,Primary malignant neoplasm of upper third of esophagus (disorder),1.0
+SNOMEDCT,372030009,Primary malignant neoplasm of vocal cord (disorder),1.0
+SNOMEDCT,372087000,Primary malignant neoplasm (disorder),1.0
+SNOMEDCT,372100004,Carcinoma of exocervix (disorder),1.0
+SNOMEDCT,372106005,Carcinoma of penis (disorder),1.0
+SNOMEDCT,372119009,Primary malignant neoplasm of head of pancreas (disorder),1.0
+SNOMEDCT,372137005,Primary malignant neoplasm of breast (disorder),1.0
+SNOMEDCT,372141009,Carcinoma of vocal cord (disorder),1.0
+SNOMEDCT,373080008,Malignant neoplasm of breast lower inner quadrant (disorder),1.0
+SNOMEDCT,373082000,Malignant neoplasm of breast upper inner quadrant (disorder),1.0
+SNOMEDCT,373083005,Malignant neoplasm of breast upper outer quadrant (disorder),1.0
+SNOMEDCT,396181000000106,[X]Melanoma and other malignant neoplasms of skin (disorder),1.0
+SNOMEDCT,398670003,Pigmented dermatofibrosarcoma protuberans of skin (disorder),1.0
+SNOMEDCT,402558004,Malignant melanoma (vertical growth phase) (disorder),1.0
+SNOMEDCT,402561003,Malignant melanoma of soft tissues (disorder),1.0
+SNOMEDCT,402815007,Squamous cell carcinoma (disorder),1.0
+SNOMEDCT,403906006,Metastatic squamous cell carcinoma (disorder),1.0
+SNOMEDCT,403977003,Angiosarcoma (disorder),1.0
+SNOMEDCT,404071006,Pleomorphic liposarcoma (disorder),1.0
+SNOMEDCT,408645001,Adenocarcinoma of large intestine (disorder),1.0
+SNOMEDCT,413445002,Adenocarcinoma of appendix (disorder),1.0
+SNOMEDCT,416669000,Invasive hydatidiform mole (disorder),1.0
+SNOMEDCT,416901002,Malignant medulloepithelioma of ciliary body (disorder),1.0
+SNOMEDCT,422599000,Squamous cell carcinoma of back (disorder),1.0
+SNOMEDCT,422691006,Squamous cell carcinoma of nasopharynx (disorder),1.0
+SNOMEDCT,423464009,Squamous cell carcinoma of oropharynx (disorder),1.0
+SNOMEDCT,423973006,"Carcinoma of uterine cervix, invasive (disorder)",1.0
+SNOMEDCT,424413001,Sarcoma (disorder),1.0
+SNOMEDCT,424952003,Sarcoma of soft tissue (disorder),1.0
+SNOMEDCT,425231005,"Carcinoma of urinary bladder, superficial (disorder)",1.0
+SNOMEDCT,426071002,Hodgkin's disease in remission (disorder),1.0
+SNOMEDCT,426964009,"Non-small cell lung cancer, positive for epidermal growth factor receptor expression (disorder)",1.0
+SNOMEDCT,429033009,Malignant neoplasm of cerebrum (disorder),1.0
+SNOMEDCT,430556008,Malignant neoplasm of genital structure (disorder),1.0
+SNOMEDCT,431396003,Human epidermal growth factor 2 negative carcinoma of breast (disorder),1.0
+SNOMEDCT,443488001,Malignant neoplasm of anorectum (disorder),1.0
+SNOMEDCT,443675005,Seminoma (disorder),1.0
+SNOMEDCT,443961001,Malignant adenomatous neoplasm (disorder),1.0
+SNOMEDCT,445238008,Malignant carcinoid tumor (disorder),1.0
+SNOMEDCT,448882009,Malignant neoplasm of intraabdominal organ (disorder),1.0
+SNOMEDCT,448930008,Squamous cell carcinoma of nose (disorder),1.0
+SNOMEDCT,448931007,Squamous cell carcinoma of shoulder (disorder),1.0
+SNOMEDCT,448952004,Infiltrating duct carcinoma of female breast (disorder),1.0
+SNOMEDCT,448994001,Malignant epithelial neoplasm of upper rectum (disorder),1.0
+SNOMEDCT,449077005,Malignant epithelial neoplasm of maxilla (disorder),1.0
+SNOMEDCT,449101009,Sarcoma of sternum (disorder),1.0
+SNOMEDCT,449248000,Nasopharyngeal carcinoma (disorder),1.0
+SNOMEDCT,449308006,Malignant neoplasm of visceral pleura (disorder),1.0
+SNOMEDCT,449472007,Malignant epithelial neoplasm of alveolus dentalis (disorder),1.0
+SNOMEDCT,449578008,Malignant neoplasm of alveolus of mandible (disorder),1.0
+SNOMEDCT,449635006,Primary malignant neoplasm of lower leg (disorder),1.0
+SNOMEDCT,462401000000104,"[X]Malignant neoplasms of lymphoid, haematopoietic and related tissue (disorder)",1.0
+SNOMEDCT,62497000,Stewart-Treves syndrome (disorder),1.0
+SNOMEDCT,683991000119103,Extensive stage primary small cell carcinoma of lung (disorder),1.0
+SNOMEDCT,69408002,Gorlin syndrome (disorder),1.0
+SNOMEDCT,698040004,Malignant melanoma of nasal cavity (disorder),1.0
+SNOMEDCT,699357004,Low grade endometrial stromal sarcoma (disorder),1.0
+SNOMEDCT,702369008,Carcinosarcoma of uterus (disorder),1.0
+SNOMEDCT,702392008,Metastatic renal cell carcinoma (disorder),1.0
+SNOMEDCT,706970001,Triple negative malignant neoplasm of breast (disorder),1.0
+SNOMEDCT,707422006,Primary spindle cell squamous cell carcinoma of larynx (disorder),1.0
+SNOMEDCT,707456000,Primary undifferentiated carcinoma of lung (disorder),1.0
+SNOMEDCT,707538002,Primary squamous cell carcinoma of vallecula (disorder),1.0
+SNOMEDCT,707582006,Primary spindle cell squamous cell carcinoma of oropharynx (disorder),1.0
+SNOMEDCT,707664003,Primary squamous cell carcinoma of glottis (disorder),1.0
+SNOMEDCT,709830006,Malignant carcinoid tumor of stomach (disorder),1.0
+SNOMEDCT,71111000119109,Recurrent primary malignant neoplasm of vulva (disorder),1.0
+SNOMEDCT,712849003,Primary malignant neoplasm of prostate metastatic to bone (disorder),1.0
+SNOMEDCT,717735006,Renal cell carcinoma of kidney except renal pelvis (disorder),1.0
+SNOMEDCT,721629005,Linitis plastica of stomach (disorder),1.0
+SNOMEDCT,721638007,Primary neuroendocrine carcinoma of stomach (disorder),1.0
+SNOMEDCT,722524005,Primary invasive pleomorphic lobular carcinoma of breast (disorder),1.0
+SNOMEDCT,722685004,Primary high grade serous adenocarcinoma of ovary (disorder),1.0
+SNOMEDCT,726654006,Malignant carcinoid tumor of colon (disorder),1.0
+SNOMEDCT,733343005,Primary squamous cell carcinoma of oral cavity (disorder),1.0
+SNOMEDCT,733361001,Primary mucinous adenocarcinoma of ovary (disorder),1.0
+SNOMEDCT,733608000,Papillary renal cell carcinoma (disorder),1.0
+SNOMEDCT,735735001,Primary malignant neuroendocrine neoplasm of pancreas (disorder),1.0
+SNOMEDCT,764694005,MiT family translocation renal cell carcinoma (disorder),1.0
+SNOMEDCT,80914001,Anaplasia of cervix (disorder),1.0
+SNOMEDCT,820601000000103,Refractory anaemia with multilineage dysplasia (disorder),1.0
+SNOMEDCT,884601000000103,Bowel scope (flexible sigmoidoscopy) screen: cancer detected (finding),1.0
+SNOMEDCT,91151000119103,Primary squamous cell carcinoma of chest wall (disorder),1.0
+SNOMEDCT,92767001,Carcinoma in situ of thyroid gland (disorder),1.0
+SNOMEDCT,93138002,Letterer-Siwe disease of lymph nodes of inguinal region AND/OR lower limb (disorder),1.0
+SNOMEDCT,93183001,Malignant histiocytosis of intrapelvic lymph nodes (disorder),1.0
+SNOMEDCT,93188005,Malignant histiocytosis of lymph nodes of multiple sites (disorder),1.0
+SNOMEDCT,93189002,Malignant histiocytosis of spleen (disorder),1.0
+SNOMEDCT,93230002,Malignant melanoma of skin of groin (disorder),1.0
+SNOMEDCT,93647006,Malignant melanoma of skin of shoulder (disorder),1.0
+SNOMEDCT,93687001,Primary malignant neoplasm of base of tongue (disorder),1.0
+SNOMEDCT,93689003,Primary malignant neoplasm of bladder (disorder),1.0
+SNOMEDCT,93727008,Primary malignant neoplasm of brain (disorder),1.0
+SNOMEDCT,93745008,Primary malignant neoplasm of central portion of female breast (disorder),1.0
+SNOMEDCT,93781006,Primary malignant neoplasm of endometrium (disorder),1.0
+SNOMEDCT,93849006,Primary malignant neoplasm of kidney (disorder),1.0
+SNOMEDCT,93933005,Primary malignant neoplasm of oropharynx (disorder),1.0
+SNOMEDCT,93955002,Primary malignant neoplasm of periadrenal tissue (disorder),1.0
+SNOMEDCT,93961004,Primary malignant neoplasm of pharynx (disorder),1.0
+SNOMEDCT,93985007,Primary malignant neoplasm of renal pelvis (disorder),1.0
+SNOMEDCT,94006002,Primary malignant neoplasm of sigmoid colon (disorder),1.0
+SNOMEDCT,94081005,Primary malignant neoplasm of sweat gland (disorder),1.0
+SNOMEDCT,94096009,Primary malignant neoplasm of thymus (disorder),1.0
+SNOMEDCT,94098005,Primary malignant neoplasm of thyroid gland (disorder),1.0
+SNOMEDCT,94180008,Secondary malignant neoplasm of axilla (disorder),1.0
+SNOMEDCT,94217008,Secondary malignant neoplasm of bone marrow (disorder),1.0
+SNOMEDCT,94220000,Secondary malignant neoplasm of bone of skull (disorder),1.0
+SNOMEDCT,94230009,Secondary malignant neoplasm of bronchus of right lower lobe (disorder),1.0
+SNOMEDCT,94233006,Secondary malignant neoplasm of bronchus (disorder),1.0
+SNOMEDCT,94235004,Secondary malignant neoplasm of cecum (disorder),1.0
+SNOMEDCT,94246001,Secondary malignant neoplasm of cerebral meninges (disorder),1.0
+SNOMEDCT,94253005,Secondary malignant neoplasm of chest wall (disorder),1.0
+SNOMEDCT,94254004,Secondary malignant neoplasm of choroid (disorder),1.0
+SNOMEDCT,94264008,Secondary malignant neoplasm of soft tissues (disorder),1.0
+SNOMEDCT,94274006,Secondary malignant neoplasm of thoracic vertebral column (disorder),1.0
+SNOMEDCT,94281004,Secondary malignant neoplasm of endometrium (disorder),1.0
+SNOMEDCT,94286009,Secondary malignant neoplasm of esophagus (disorder),1.0
+SNOMEDCT,94291000119103,Mucinous adenocarcinoma of gastrointestinal tract (disorder),1.0
+SNOMEDCT,94292003,Secondary malignant neoplasm of eye (disorder),1.0
+SNOMEDCT,94298004,Secondary malignant neoplasm of female genital organ (disorder),1.0
+SNOMEDCT,94312000,Secondary malignant neoplasm of gallbladder (disorder),1.0
+SNOMEDCT,94327000,Secondary malignant neoplasm of heart (disorder),1.0
+SNOMEDCT,94357009,Secondary malignant neoplasm of jejunum (disorder),1.0
+SNOMEDCT,94402006,Secondary malignant neoplasm of male genital organ (disorder),1.0
+SNOMEDCT,94416001,Secondary malignant neoplasm of mouth (disorder),1.0
+SNOMEDCT,94418000,Secondary malignant neoplasm of muscle of abdomen (disorder),1.0
+SNOMEDCT,94432003,Secondary malignant neoplasm of muscle (disorder),1.0
+SNOMEDCT,94446003,Secondary malignant neoplasm of obturator lymph nodes (disorder),1.0
+SNOMEDCT,94453007,Secondary malignant neoplasm of orbit proper (disorder),1.0
+SNOMEDCT,94459006,Secondary malignant neoplasm of pancreas (disorder),1.0
+SNOMEDCT,94460001,Secondary malignant neoplasm of pancreatic duct (disorder),1.0
+SNOMEDCT,94491007,Secondary malignant neoplasm of pituitary gland (disorder),1.0
+SNOMEDCT,94521000,Secondary malignant neoplasm of rib (disorder),1.0
+SNOMEDCT,94527001,Secondary malignant neoplasm of sacrum (disorder),1.0
+SNOMEDCT,94537006,Secondary malignant neoplasm of shoulder (disorder),1.0
+SNOMEDCT,94538001,Secondary malignant neoplasm of sigmoid colon (disorder),1.0
+SNOMEDCT,94582005,Secondary malignant neoplasm of soft tissues of abdomen (disorder),1.0
+SNOMEDCT,94597008,Secondary malignant neoplasm of spermatic cord (disorder),1.0
+SNOMEDCT,94604000,Secondary malignant neoplasm of splenic flexure of colon (disorder),1.0
+SNOMEDCT,94606003,Secondary malignant neoplasm of stomach (disorder),1.0
+SNOMEDCT,94626004,Secondary malignant neoplasm of omentum (disorder),1.0
+SNOMEDCT,94632009,Secondary malignant neoplasm of thymus (disorder),1.0
+SNOMEDCT,956331000000107,Malignant melanoma stage IA (finding),1.0
+SNOMEDCT,956371000000109,Malignant melanoma stage IIA (finding),1.0
+SNOMEDCT,956391000000108,Malignant melanoma stage IIB (finding),1.0
+SNOMEDCT,956431000000100,Malignant melanoma stage IIIA (finding),1.0
+SNOMEDCT,956511000000107,Malignant melanoma stage IV M1a (finding),1.0
+SNOMEDCT,956531000000104,Malignant melanoma stage IV M1b (finding),1.0
+SNOMEDCT,276738009,Primary signet ring carcinoma of skin (disorder),1.0
+SNOMEDCT,276750003,Malignant tumor of skin with pilar differentiation (disorder),1.0
+SNOMEDCT,276808007,Carcinoid tumor of stomach (disorder),1.0
+SNOMEDCT,71985006,Carcinomatous myopathic syndrome (disorder),1.0
+SNOMEDCT,1091921000000103,B-cell non-Hodgkin's lymphoma (disorder),1.0
+SNOMEDCT,128875000,Primary cutaneous CD30 antigen positive large T-cell lymphoma (disorder),1.0
+SNOMEDCT,188492005,Reticulosarcoma of lymph nodes of axilla and upper limb (disorder),1.0
+SNOMEDCT,188493000,Reticulosarcoma of lymph nodes of inguinal region and lower limb (disorder),1.0
+SNOMEDCT,188507008,Lymphosarcoma of lymph nodes of multiple sites (disorder),1.0
+SNOMEDCT,188513004,Burkitt's lymphoma of lymph nodes of axilla and upper limb (disorder),1.0
+SNOMEDCT,188515006,Burkitt's lymphoma of intrapelvic lymph nodes (disorder),1.0
+SNOMEDCT,188516007,Burkitt's lymphoma of spleen (disorder),1.0
+SNOMEDCT,188517003,Burkitt's lymphoma of lymph nodes of multiple sites (disorder),1.0
+SNOMEDCT,188524002,Hodgkin's paragranuloma of intrathoracic lymph nodes (disorder),1.0
+SNOMEDCT,188536008,Hodgkin's granuloma of intra-abdominal lymph nodes (disorder),1.0
+SNOMEDCT,188537004,Hodgkin's granuloma of lymph nodes of axilla and upper limb (disorder),1.0
+SNOMEDCT,188548006,Hodgkin's sarcoma of lymph nodes of inguinal region and lower limb (disorder),1.0
+SNOMEDCT,188562004,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites (disorder)",1.0
+SNOMEDCT,188569008,"Hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region and lower limb (disorder)",1.0
+SNOMEDCT,188570009,"Hodgkin's disease, nodular sclerosis of intrapelvic lymph nodes (disorder)",1.0
+SNOMEDCT,188578002,"Hodgkin's disease, mixed cellularity of lymph nodes of axilla and upper limb (disorder)",1.0
+SNOMEDCT,188590000,"Hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region and lower limb (disorder)",1.0
+SNOMEDCT,188741003,Aleukemic myeloid leukemia (disorder),1.0
+SNOMEDCT,190030009,Compound leukemias (disorder),1.0
+SNOMEDCT,232075002,Lymphoma of retina (disorder),1.0
+SNOMEDCT,239297008,Lymphomatoid granulomatosis of the lung (disorder),1.0
+SNOMEDCT,277543005,Malignant white blood cell disorder (disorder),1.0
+SNOMEDCT,277574007,Null cell acute lymphoblastic leukemia (disorder),1.0
+SNOMEDCT,277601005,Acute monoblastic leukemia (disorder),1.0
+SNOMEDCT,277602003,Acute megakaryoblastic leukemia (disorder),1.0
+SNOMEDCT,277609007,"Hodgkin's disease, lymphocytic predominance - diffuse (disorder)",1.0
+SNOMEDCT,277617004,High grade B-cell lymphoma (disorder),1.0
+SNOMEDCT,277618009,Follicular low grade B-cell lymphoma (disorder),1.0
+SNOMEDCT,277623009,Monocytoid B-cell lymphoma (disorder),1.0
+SNOMEDCT,277624003,Follicular malignant lymphoma - mixed cell type (disorder),1.0
+SNOMEDCT,277627005,Nodular high grade B-cell lymphoma (disorder),1.0
+SNOMEDCT,277643003,High grade T-cell lymphoma (disorder),1.0
+SNOMEDCT,277653002,Peripheral T-cell lymphoma - pleomorphic medium and large cell (disorder),1.0
+SNOMEDCT,277664004,Malignant lymphoma of testis (disorder),1.0
+SNOMEDCT,278051002,Malignant lymphoma of thyroid gland (disorder),1.0
+SNOMEDCT,278453007,Acute biphenotypic leukemia (disorder),1.0
+SNOMEDCT,285421005,Immunoglobulin G myeloma (disorder),1.0
+SNOMEDCT,285422003,Immunoglobulin D myeloma (disorder),1.0
+SNOMEDCT,285615003,Metastasis to spleen of unknown primary (disorder),1.0
+SNOMEDCT,285769009,Acute promyelocytic leukemia - hypogranular variant (disorder),1.0
+SNOMEDCT,285776004,Intermediate grade B-cell lymphoma (disorder),1.0
+SNOMEDCT,302841002,Malignant lymphoma - small lymphocytic (disorder),1.0
+SNOMEDCT,302845006,"Nodular malignant lymphoma, lymphocytic - well differentiated (disorder)",1.0
+SNOMEDCT,307636001,"Malignant lymphoma, mixed lymphocytic-histiocytic, nodular (disorder)",1.0
+SNOMEDCT,307647008,"Malignant lymphoma, centroblastic type, follicular (disorder)",1.0
+SNOMEDCT,398623004,Refractory anemia with excess blasts (disorder),1.0
+SNOMEDCT,400001003,Primary cutaneous lymphoma (disorder),1.0
+SNOMEDCT,404133000,Subcutaneous panniculitic cutaneous T-cell lymphoma (disorder),1.0
+SNOMEDCT,413537009,Angioimmunoblastic T-cell lymphoma (disorder),1.0
+SNOMEDCT,413842007,Chronic myeloid leukemia in lymphoid blast crisis (disorder),1.0
+SNOMEDCT,413847001,Chronic phase chronic myeloid leukemia (disorder),1.0
+SNOMEDCT,414553000,Kappa light chain myeloma (disorder),1.0
+SNOMEDCT,414785000,Multiple solitary plasmacytomas (disorder),1.0
+SNOMEDCT,420788006,Intraocular non-Hodgkin malignant lymphoma (disorder),1.0
+SNOMEDCT,426202004,Immune reconstitution syndrome (disorder),1.0
+SNOMEDCT,441313008,Indolent multiple myeloma (disorder),1.0
+SNOMEDCT,444910004,Primary mediastinal (thymic) large B-cell lymphoma (disorder),1.0
+SNOMEDCT,445105005,Blastic plasmacytoid dendritic cell neoplasm (disorder),1.0
+SNOMEDCT,445269007,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue (disorder),1.0
+SNOMEDCT,445448008,Acute myeloid leukemia with myelodysplasia-related changes (disorder),1.0
+SNOMEDCT,446643000,Sarcoma of dendritic cells (accessory cells) (disorder),1.0
+SNOMEDCT,448212009,Anaplastic lymphoma kinase negative anaplastic large cell lymphoma (disorder),1.0
+SNOMEDCT,449108003,Philadelphia chromosome positive chronic myelogenous leukemia (disorder),1.0
+SNOMEDCT,449386007,Philadelphia chromosome negative chronic myelogenous leukemia (disorder),1.0
+SNOMEDCT,58961005,Lethal midline granuloma (disorder),1.0
+SNOMEDCT,699818003,T-cell large granular lymphocytic leukemia (disorder),1.0
+SNOMEDCT,736322001,Pediatric follicular lymphoma (disorder),1.0
+SNOMEDCT,738770003,Anaplastic lymphoma kinase positive anaplastic large cell lymphoma (disorder),1.0
+SNOMEDCT,762690000,Classical Hodgkin lymphoma (disorder),1.0
+SNOMEDCT,847691000000108,Follicular lymphoma grade 3a (disorder),1.0
+SNOMEDCT,847701000000108,Follicular lymphoma grade 3b (disorder),1.0
+SNOMEDCT,847741000000106,Diffuse large B-cell lymphoma (disorder),1.0
+SNOMEDCT,863781000000100,Clinical stage C chronic lymphocytic leukaemia (disorder),1.0
+SNOMEDCT,92754004,Carcinoma in situ of spleen (disorder),1.0
+SNOMEDCT,93518009,"Hodgkin's disease, nodular sclerosis of spleen (disorder)",1.0
+SNOMEDCT,93521006,Hodgkin's disease of intrapelvic lymph nodes (disorder),1.0
+SNOMEDCT,93536009,Hodgkin's granuloma of spleen (disorder),1.0
+SNOMEDCT,93541001,Hodgkin's paragranuloma of lymph nodes of axilla AND/OR upper limb (disorder),1.0
+SNOMEDCT,93545005,Hodgkin's paragranuloma of spleen (disorder),1.0
+SNOMEDCT,93547002,Hodgkin's sarcoma of intra-abdominal lymph nodes (disorder),1.0
+SNOMEDCT,93549004,Hodgkin's sarcoma of intrathoracic lymph nodes (disorder),1.0
+SNOMEDCT,94603006,Secondary malignant neoplasm of spleen (disorder),1.0
+SNOMEDCT,95111006,Neoplasm of uncertain behavior of spleen (disorder),1.0
+SNOMEDCT,95188007,Nodular lymphoma of intrathoracic lymph nodes (disorder),1.0
+SNOMEDCT,95263006,SÃ©zary's disease of spleen (disorder),1.0
+SNOMEDCT,169396008,Radiomimetic chemotherapy (procedure),1.0
+SNOMEDCT,169398009,Radiochemotherapy: to stop spread (procedure),1.0
+SNOMEDCT,169400008,Radiochemotherapy via intravenous route (procedure),1.0
+SNOMEDCT,169402000,Radiochemotherapy: local artery (procedure),1.0
+SNOMEDCT,190955000,Histiocytosis X syndrome (disorder),1.0
+SNOMEDCT,235331000000103,Delivery of oral chemotherapy for neoplasm (regime/therapy),1.0
+SNOMEDCT,235391000000102,Delivery of chemotherapy for neoplasm (procedure),1.0
+SNOMEDCT,23833000,Poisoning caused by antineoplastic AND/OR immunosuppressive drug (disorder),1.0
+SNOMEDCT,238851000000105,Delivery of complex parenteral chemotherapy for neoplasm at first attendance (procedure),1.0
+SNOMEDCT,239071000000100,Delivery of subsequent element of cycle of chemotherapy for neoplasm (procedure),1.0
+SNOMEDCT,265760000,Intravenous chemotherapy (procedure),1.0
+SNOMEDCT,265761001,Intramuscular chemotherapy (procedure),1.0
+SNOMEDCT,265762008,Subcutaneous chemotherapy (procedure),1.0
+SNOMEDCT,267540007,Neutropenia caused by irradiation (disorder),1.0
+SNOMEDCT,53523003,Poisoning caused by cactinomycin (disorder),1.0
+SNOMEDCT,703423002,Combined chemotherapy and radiation therapy (procedure),1.0
+SNOMEDCT,79268002,"Polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, and skin changes syndrome (disorder)",1.0
+SNOMEDCT,829591000000101,Neoadjuvant chemotherapy (procedure),1.0
+SNOMEDCT,1090241000000107,Angioimmunoblastic T-cell lymphoma with dysproteinaemia (disorder),1.0
+SNOMEDCT,1091861000000100,"Follicular lymphoma, cutaneous follicle centre (disorder)",1.0
+SNOMEDCT,110007008,Adult T-cell leukemia/lymphoma (disorder),1.0
+SNOMEDCT,127230005,Neoplasm of spleen (disorder),1.0
+SNOMEDCT,187821001,Angiosarcoma of spleen (disorder),1.0
+SNOMEDCT,188503007,Lymphosarcoma of lymph nodes of axilla and upper limb (disorder),1.0
+SNOMEDCT,188531003,Hodgkin's paragranuloma of lymph nodes of multiple sites (disorder),1.0
+SNOMEDCT,188538009,Hodgkin's granuloma of lymph nodes of inguinal region and lower limb (disorder),1.0
+SNOMEDCT,188541000,Hodgkin's granuloma of lymph nodes of multiple sites (disorder),1.0
+SNOMEDCT,188544008,"Hodgkin's sarcoma of lymph nodes of head, face and neck (disorder)",1.0
+SNOMEDCT,188551004,Hodgkin's sarcoma of lymph nodes of multiple sites (disorder),1.0
+SNOMEDCT,188558005,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and upper limb (disorder)",1.0
+SNOMEDCT,188577007,"Hodgkin's disease, mixed cellularity of intra-abdominal lymph nodes (disorder)",1.0
+SNOMEDCT,188579005,"Hodgkin's disease, mixed cellularity of lymph nodes of inguinal region and lower limb (disorder)",1.0
+SNOMEDCT,188580008,"Hodgkin's disease, mixed cellularity of intrapelvic lymph nodes (disorder)",1.0
+SNOMEDCT,188582000,"Hodgkin's disease, mixed cellularity of lymph nodes of multiple sites (disorder)",1.0
+SNOMEDCT,188585003,"Hodgkin's disease, lymphocytic depletion of lymph nodes of head, face and neck (disorder)",1.0
+SNOMEDCT,188586002,"Hodgkin's disease, lymphocytic depletion of intrathoracic lymph nodes (disorder)",1.0
+SNOMEDCT,188587006,"Hodgkin's disease, lymphocytic depletion of intra-abdominal lymph nodes (disorder)",1.0
+SNOMEDCT,188593003,"Hodgkin's disease, lymphocytic depletion of lymph nodes of multiple sites (disorder)",1.0
+SNOMEDCT,188612002,Nodular lymphoma of lymph nodes of axilla and upper limb (disorder),1.0
+SNOMEDCT,188633006,SÃ©zary's disease of lymph nodes of axilla and upper limb (disorder),1.0
+SNOMEDCT,188637007,SÃ©zary's disease of lymph nodes of multiple sites (disorder),1.0
+SNOMEDCT,188675007,Malignant lymphoma - small cleaved cell (disorder),1.0
+SNOMEDCT,188728002,Aleukemic lymphoid leukemia (disorder),1.0
+SNOMEDCT,236513009,Lymphoma of kidney (disorder),1.0
+SNOMEDCT,240531002,African Burkitt's lymphoma (disorder),1.0
+SNOMEDCT,240794006,Splenic schistosomal giant cell lymphoma (disorder),1.0
+SNOMEDCT,276811008,Gastric lymphoma (disorder),1.0
+SNOMEDCT,276815004,Lymphoma of intestine (disorder),1.0
+SNOMEDCT,276836002,Primary cerebral lymphoma (disorder),1.0
+SNOMEDCT,277572006,Pre B-cell acute lymphoblastic leukemia (disorder),1.0
+SNOMEDCT,277573001,Common acute lymphoblastic leukemia (disorder),1.0
+SNOMEDCT,277575008,T-cell acute lymphoblastic leukemia (disorder),1.0
+SNOMEDCT,277579002,Light chain myeloma (disorder),1.0
+SNOMEDCT,277580004,Non-secretory myeloma (disorder),1.0
+SNOMEDCT,277587001,Juvenile chronic myeloid leukemia (disorder),1.0
+SNOMEDCT,277589003,Atypical chronic myeloid leukemia (disorder),1.0
+SNOMEDCT,277604002,Acute eosinophilic leukemia (disorder),1.0
+SNOMEDCT,277610002,"Hodgkin's disease, nodular sclerosis - lymphocytic predominance (disorder)",1.0
+SNOMEDCT,277612005,"Hodgkin's disease, nodular sclerosis - lymphocytic depletion (disorder)",1.0
+SNOMEDCT,277616008,Diffuse low grade B-cell lymphoma (disorder),1.0
+SNOMEDCT,277626001,Diffuse high grade B-cell lymphoma (disorder),1.0
+SNOMEDCT,277628000,Diffuse malignant lymphoma - large cleaved cell (disorder),1.0
+SNOMEDCT,277629008,Diffuse malignant lymphoma - large non-cleaved cell (disorder),1.0
+SNOMEDCT,277637000,Large cell anaplastic lymphoma (disorder),1.0
+SNOMEDCT,277642008,Low grade T-cell lymphoma (disorder),1.0
+SNOMEDCT,277651000,Peripheral T-cell lymphoma - pleomorphic small cell (disorder),1.0
+SNOMEDCT,277654008,Enteropathy-associated T-cell lymphoma (disorder),1.0
+SNOMEDCT,278052009,Malignant lymphoma of breast (disorder),1.0
+SNOMEDCT,285420006,Immunoglobulin A myeloma (disorder),1.0
+SNOMEDCT,285839005,Acute myelomonocytic leukemia - eosinophilic variant (disorder),1.0
+SNOMEDCT,303017006,"Malignant lymphoma, convoluted cell type (disorder)",1.0
+SNOMEDCT,303055001,"Malignant lymphoma, follicular center cell (disorder)",1.0
+SNOMEDCT,303057009,"Malignant lymphoma, follicular center cell, non-cleaved (disorder)",1.0
+SNOMEDCT,307617006,Neutrophilic leukemia (disorder),1.0
+SNOMEDCT,307623001,Malignant lymphoma - lymphoplasmacytic (disorder),1.0
+SNOMEDCT,307635002,"Hodgkin's disease, nodular sclerosis - cellular phase (disorder)",1.0
+SNOMEDCT,307637005,"Malignant lymphoma, centroblastic-centrocytic, follicular (disorder)",1.0
+SNOMEDCT,307646004,"Malignant lymphoma, lymphocytic, poorly differentiated, nodular (disorder)",1.0
+SNOMEDCT,307649006,Microglioma (disorder),1.0
+SNOMEDCT,359631009,"Acute myeloid leukemia, minimal differentiation, FAB M0 (disorder)",1.0
+SNOMEDCT,400122007,Primary cutaneous T-cell lymphoma (disorder),1.0
+SNOMEDCT,404149003,"Lymphoplasmacytic B-cell lymphoma, nodal/systemic with skin involvement (disorder)",1.0
+SNOMEDCT,413587002,Smoldering myeloma (disorder),1.0
+SNOMEDCT,413843002,Chronic myeloid leukemia in myeloid blast crisis (disorder),1.0
+SNOMEDCT,414166008,"Extranodal natural killer/T-cell lymphoma, nasal type (disorder)",1.0
+SNOMEDCT,440422002,Asymptomatic multiple myeloma (disorder),1.0
+SNOMEDCT,445227008,Juvenile myelomonocytic leukemia (disorder),1.0
+SNOMEDCT,445406001,Hepatosplenic T-cell lymphoma (disorder),1.0
+SNOMEDCT,449220000,Diffuse follicle center lymphoma (disorder),1.0
+SNOMEDCT,763477007,Primary lymphoma of conjunctiva (disorder),1.0
+SNOMEDCT,763666008,Splenic marginal zone B-cell lymphoma (disorder),1.0
+SNOMEDCT,815361000000107,Acute myeloid leukaemia with 11q23 abnormality (disorder),1.0
+SNOMEDCT,847481000000109,Follicular lymphoma grade 1 (disorder),1.0
+SNOMEDCT,847631000000107,Follicular lymphoma grade 2 (disorder),1.0
+SNOMEDCT,847651000000100,Follicular lymphoma grade 3 (disorder),1.0
+SNOMEDCT,863741000000108,Clinical stage A chronic lymphocytic leukaemia (disorder),1.0
+SNOMEDCT,863761000000109,Clinical stage B chronic lymphocytic leukaemia (disorder),1.0
+SNOMEDCT,93520007,Hodgkin's disease of intra-abdominal lymph nodes (disorder),1.0
+SNOMEDCT,93531004,Hodgkin's granuloma of intrathoracic lymph nodes (disorder),1.0
+SNOMEDCT,94709001,Mycosis fungoides of intrathoracic lymph nodes (disorder),1.0
+SNOMEDCT,94711005,"Mycosis fungoides of lymph nodes of head, face AND/OR neck (disorder)",1.0
+SNOMEDCT,95193005,Nodular lymphoma of spleen (disorder),1.0
+SNOMEDCT,9893005,Immunodeficiency with thymoma (disorder),1.0
+SNOMEDCT,169397004,Radiochemotherapy: local infiltration (procedure),1.0
+SNOMEDCT,169399001,Radiochemotherapy: oral route (procedure),1.0
+SNOMEDCT,169401007,Radiochemotherapy: for immunosuppression (procedure),1.0
+SNOMEDCT,169403005,Radiochemotherapy: into cavity (procedure),1.0
+SNOMEDCT,232681000000103,Chemotherapy delivery (procedure),1.0
+SNOMEDCT,238831000000103,Delivery of exclusively oral chemotherapy for neoplasm (regime/therapy),1.0
+SNOMEDCT,238841000000107,Delivery of complex chemotherapy for neoplasm including prolonged infusional treatment at first attendance (procedure),1.0
+SNOMEDCT,238861000000108,Delivery of simple parenteral chemotherapy for neoplasm at first attendance (procedure),1.0
+SNOMEDCT,266719004,Oral chemotherapy (procedure),1.0
+SNOMEDCT,268500004,Prophylactic chemotherapy (procedure),1.0
+SNOMEDCT,315601005,Ambulatory chemotherapy (procedure),1.0
+SNOMEDCT,367336001,Chemotherapy (procedure),1.0
+SNOMEDCT,394894008,Pre-operative chemotherapy (procedure),1.0
+SNOMEDCT,394895009,Postoperative chemotherapy (procedure),1.0
+SNOMEDCT,39795003,Hand-SchÃ¼ller-Christian disease (disorder),1.0
+SNOMEDCT,398271008,Predominantly T-cell defect (finding),1.0
+SNOMEDCT,399042005,Chemotherapy cycle (procedure),1.0
+SNOMEDCT,716872004,Antineoplastic chemotherapy regimen (regime/therapy),1.0
+SNOMEDCT,722482005,"Doxorubicin, bleomycin, vinblastine and dacarbazine chemotherapy regimen (regime/therapy)",1.0
+SNOMEDCT,843671000000104,Electrochemotherapy (procedure),1.0
+SNOMEDCT,87776000,Intra-arterial infusion of antineoplastic agent (procedure),1.0
+SNOMEDCT,720006006,Cancer care review (procedure),1.0
+SNOMEDCT,1110871000000109,Quality and Outcomes Framework cancer quality indicator-related care invitation (procedure),1.0
+SNOMEDCT,248331000000109,Cancer monitoring telephone invitation (procedure),1.0
+SNOMEDCT,413740006,Cancer monitoring second letter (procedure),1.0
+SNOMEDCT,413741005,Cancer monitoring third letter (procedure),1.0
+SNOMEDCT,417084004,Cancer monitoring verbal invitation (procedure),1.0
+SNOMEDCT,413738001,Cancer monitoring first letter (procedure),1.0
+SNOMEDCT,413739009,Cancer monitoring invitation (procedure),1.0

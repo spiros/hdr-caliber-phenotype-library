@@ -1,0 +1,53 @@
+terminology,code,term,code_type
+SNOMEDCT,1201005,Benign essential hypertension,1.0
+SNOMEDCT,5148006,Hypertensive heart disease with congestive heart failure,1.0
+SNOMEDCT,10725009,Benign hypertension,1.0
+SNOMEDCT,31992008,Secondary hypertension,1.0
+SNOMEDCT,36221001,Benign hypertensive heart disease,1.0
+SNOMEDCT,36315003,Malignant hypertensive heart disease without congestive heart failure,1.0
+SNOMEDCT,38341003,Hypertensive disease,1.0
+SNOMEDCT,48146000,Diastolic hypertension,1.0
+SNOMEDCT,54225002,Malignant hypertensive heart disease,1.0
+SNOMEDCT,56218007,Systolic hypertension,1.0
+SNOMEDCT,59621000,Essential hypertension,1.0
+SNOMEDCT,64715009,Hypertensive heart disease,1.0
+SNOMEDCT,66052004,Benign hypertensive heart AND renal disease,1.0
+SNOMEDCT,66610008,Malignant hypertensive heart AND renal disease,1.0
+SNOMEDCT,70272006,Malignant hypertension,1.0
+SNOMEDCT,73410007,Benign secondary renovascular hypertension,1.0
+SNOMEDCT,77970009,Benign hypertensive heart disease without congestive heart failure,1.0
+SNOMEDCT,78975002,Malignant essential hypertension,1.0
+SNOMEDCT,83105008,Malignant hypertensive heart disease with congestive heart failure,1.0
+SNOMEDCT,86234004,Hypertensive heart AND renal disease,1.0
+SNOMEDCT,89242004,Malignant secondary hypertension,1.0
+SNOMEDCT,123799005,Renovascular hypertension,1.0
+SNOMEDCT,169465000,Hypertension induced by oral contraceptive pill,1.0
+SNOMEDCT,194767001,Benign hypertensive heart disease with congestive cardiac failure,1.0
+SNOMEDCT,194779001,Hypertensive heart and renal disease with (congestive) heart failure,1.0
+SNOMEDCT,194780003,Hypertensive heart and renal disease with renal failure,1.0
+SNOMEDCT,194781004,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,1.0
+SNOMEDCT,194783001,Secondary malignant renovascular hypertension,1.0
+SNOMEDCT,194785008,Secondary benign hypertension,1.0
+SNOMEDCT,194788005,Hypertension secondary to endocrine disorders,1.0
+SNOMEDCT,194791005,Hypertension secondary to drug,1.0
+SNOMEDCT,275516004,Cardiomegaly - hypertensive,1.0
+SNOMEDCT,371125006,Labile essential hypertension (disorder),1.0
+SNOMEDCT,401047000,Hypertension treatment refused (context-dependent category),1.0
+SNOMEDCT,407567007,Patient on maximal tolerated antihypertensive therapy (finding),1.0
+SNOMEDCT,428163005,Hypertensive left ventricular hypertrophy (disorder),1.0
+SNOMEDCT,443402002,Lifestyle education regarding hypertension (procedure),1.0
+SNOMEDCT,443482000,Hypertensive urgency (disorder),1.0
+SNOMEDCT,706882009,Hypertensive crisis (disorder),1.0
+SNOMEDCT,712832005,Supine hypertension,1.0
+SNOMEDCT,762463000,Diastolic hypertension co-occurrent with systolic hypertension (disorder),1.0
+SNOMEDCT,129151000119102,Chronic kidney disease stage 4 due to hypertension,1.0
+SNOMEDCT,129171000119106,Chronic kidney disease stage 3 due to hypertension,1.0
+SNOMEDCT,132721000119104,Hypertensive emergency,1.0
+SNOMEDCT,471521000000108,[X]Hypertensive diseases (disorder),1.0
+SNOMEDCT,843821000000102,Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),1.0
+SNOMEDCT,846371000000103,Stage 2 hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),1.0
+SNOMEDCT,863191000000102,Nocturnal hypertension (disorder),1.0
+SNOMEDCT,908631000000108,Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) without evidence of end organ damage (disorder),1.0
+SNOMEDCT,908651000000101,Stage 1 hypertension (National Institute for Health and Clinical Excellence 2011) with evidence of end organ damage (disorder),1.0
+SNOMEDCT,843841000000109,Severe hypertension (National Institute for Health and Clinical Excellence 2011) (disorder),1.0
+SNOMEDCT,845891000000103,Hypertension resistant to drug therapy (disorder),1.0

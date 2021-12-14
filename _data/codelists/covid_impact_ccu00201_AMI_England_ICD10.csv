@@ -1,0 +1,4 @@
+terminology,code,term,code_type
+ICD10,I21,Acute myocardial infarction,1
+ICD10,I22,Subsequent myocardial infarction,1
+ICD10,I23,Certain current complications following acute myocardial infarction,1

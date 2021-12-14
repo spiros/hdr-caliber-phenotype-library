@@ -1,0 +1,30 @@
+terminology,code,term,code_type
+SNOMEDCT,5370000,Atrial flutter,1.0
+SNOMEDCT,49436004,Atrial fibrillation,1.0
+SNOMEDCT,134377004,Atrial fibrillation monitoring,1.0
+SNOMEDCT,164889003,ECG: atrial fibrillation,1.0
+SNOMEDCT,164890007,ECG: atrial flutter,1.0
+SNOMEDCT,195080001,Atrial fibrillation and flutter,1.0
+SNOMEDCT,233911009,Non-rheumatic atrial fibrillation,1.0
+SNOMEDCT,282825002,AF - Paroxysmal atrial fibrillation,1.0
+SNOMEDCT,312442005,H/O: atrial fibrillation,0.0
+SNOMEDCT,428076002,History of atrial flutter (situation),0.0
+SNOMEDCT,440028005,Permanent atrial fibrillation (disorder),1.0
+SNOMEDCT,440059007,Persistent atrial fibrillation (disorder),1.0
+SNOMEDCT,120041000119109,Atrial fibrillation with rapid ventricular response (disorder),1.0
+SNOMEDCT,15964901000119107,Atypical atrial flutter (disorder),1.0
+SNOMEDCT,233910005,Lone atrial fibrillation (disorder),1.0
+SNOMEDCT,300996004,Controlled atrial fibrillation (disorder),1.0
+SNOMEDCT,720448006,Typical atrial flutter (disorder),1.0
+SNOMEDCT,314208002,Rapid atrial fibrillation (disorder),1.0
+SNOMEDCT,425615007,Chronic atrial flutter (disorder),1.0
+SNOMEDCT,426749004,Chronic atrial fibrillation (disorder),1.0
+SNOMEDCT,427665004,Paroxysmal atrial flutter (disorder),1.0
+SNOMEDCT,248411000000105,Atrial fibrillation annual review (regime/therapy),1.0
+SNOMEDCT,1110851000000100,Quality and Outcomes Framework atrial fibrillation quality indicator-related care invitation (procedure),1.0
+SNOMEDCT,711411000000101,Atrial fibrillation monitoring invitation (procedure),1.0
+SNOMEDCT,716981000000106,Atrial fibrillation monitoring second letter (procedure),1.0
+SNOMEDCT,717011000000100,Atrial fibrillation monitoring verbal invitation (procedure),1.0
+SNOMEDCT,717221000000101,Atrial fibrillation monitoring first letter (procedure),1.0
+SNOMEDCT,716181000000109,Atrial fibrillation monitoring third letter (procedure),1.0
+SNOMEDCT,716721000000107,Atrial fibrillation monitoring telephone invitation (procedure),1.0

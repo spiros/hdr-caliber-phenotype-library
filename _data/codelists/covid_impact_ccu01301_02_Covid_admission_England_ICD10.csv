@@ -1,0 +1,5 @@
+covid_phenotype,clinical_code,terminology,description,covid_status,source
+02_Covid_admission,U07.1,ICD10,Confirmed_COVID19,confirmed,HES APC
+02_Covid_admission,U07.2,ICD10,Suspected_COVID19,suspected,HES APC
+02_Covid_admission,U07.1,ICD10,Confirmed_COVID19,confirmed,SUS
+02_Covid_admission,U07.2,ICD10,Suspected_COVID19,suspected,SUS

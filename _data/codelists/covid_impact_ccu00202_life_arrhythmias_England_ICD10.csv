@@ -1,0 +1,6 @@
+terminology,code,term,code_type
+ICD10,I47.2,Ventricular tachycardia,1.0
+ICD10,I49.0,Ventricular fibrillation and flutter,1.0
+ICD10,I46.0,Cardiac arrest with successful resuscitation,1.0
+ICD10,I46.9,"Cardiac arrest, unspecified",1.0
+ICD10,I47.0,Re-entry ventricular arrhythmia,1.0

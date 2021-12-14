@@ -1,0 +1,35 @@
+terminology,code,term,code_type
+SNOMEDCT,82190001,Thrombocytopenia due to defective platelet production,1.0
+SNOMEDCT,78345002,Thrombocytopenia due to diminished platelet production,1.0
+SNOMEDCT,417626001,Thrombocytopenic purpura associated with metabolic disorder,1.0
+SNOMEDCT,402653004,Thrombocytopenic purpura due to defective platelet production,1.0
+SNOMEDCT,866152006,Thrombocytopenia due to 2019 novel coronavirus,1.0
+SNOMEDCT,111588002,Heparin associated thrombotic thrombocytopenia,1.0
+SNOMEDCT,73397007,Heparin induced thrombocytopaenia,1.0
+SNOMEDCT,441322009,Drug induced thrombotic thrombocytopenic purpura,1.0
+SNOMEDCT,438476003,Autoimmune thrombotic thrombocytopenic purpura,1.0
+SNOMEDCT,19307009,Drug-induced immune thrombocytopenia,1.0
+SNOMEDCT,783251006,Hereditary thrombocytopenia with normal platelets,1.0
+SNOMEDCT,402654005,Thrombocytopenic purpura due to platelet consumption,1.0
+SNOMEDCT,78129009,Thrombotic thrombocytopenic purpura,1.0
+SNOMEDCT,439007008,Acquired thrombotic thrombocytopenic purpura,1.0
+SNOMEDCT,28505005,Acute idiopathic thrombocytopenic purpura,1.0
+SNOMEDCT,726769004,HIT (Heparin induced thrombocytopenia) antibody,1.0
+SNOMEDCT,371106008,Idiopathic maternal thrombocytopenia,1.0
+SNOMEDCT,32273002,Idiopathic thrombocytopenic purpura,1.0
+SNOMEDCT,2897005,Immune thrombocytopenia,1.0
+SNOMEDCT,267534000,Primary thrombocytopenia,1.0
+SNOMEDCT,154826009,Secondary thrombocytopenia,1.0
+SNOMEDCT,32273002,Immune thrombocytopenic purpura,1.0
+SNOMEDCT,128091003,Autoimmune thrombocytopenia,1.0
+SNOMEDCT,13172003,Autoimmune thrombocytopenic purpura,1.0
+SNOMEDCT,191322006,Thrombocytopenia caused by drugs,1.0
+SNOMEDCT,49341000119108,History of thrombocytopaenia,1.0
+SNOMEDCT,302873008,Thrombocytopenic purpura,1.0
+SNOMEDCT,36070007,Immunodeficiency with thrombocytopenia AND eczema,1.0
+SNOMEDCT,33183004,Post infectious thrombocytopenic purpura,1.0
+SNOMEDCT,438492008,Hereditary thrombocytopenic disorder,1.0
+SNOMEDCT,441511006,History of immune thrombocytopenia,1.0
+SNOMEDCT,74576004,Acquired thrombocytopenia,1.0
+SNOMEDCT,191323001,Thrombocytopenia due to extracorporeal circulation of blood,1.0
+SNOMEDCT,87902006,Thrombocytopenia due to non-immune destruction,1.0

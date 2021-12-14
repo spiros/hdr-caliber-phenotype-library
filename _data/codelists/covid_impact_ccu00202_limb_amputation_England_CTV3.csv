@@ -1,0 +1,91 @@
+terminology,code,term,code_type
+CTV3,XE0J7,Above knee amputation,1.0
+CTV3,7L062,Above knee amputation (& Kirk),1.0
+CTV3,Xa7GU,Amputated above knee,1.0
+CTV3,Xa7Gb,Amputated at ankle,1.0
+CTV3,Xa7GS,Amputated at hindquarter,1.0
+CTV3,Xa7GT,Amputated at hip,1.0
+CTV3,Xa7GY,Amputated at knee,1.0
+CTV3,Xa7GX,Amputated at lower thigh,1.0
+CTV3,Xa7GW,Amputated at mid thigh,1.0
+CTV3,Xa7Gc,Amputated at midfoot,1.0
+CTV3,Xa7GV,Amputated at upper thigh,1.0
+CTV3,Xa7GZ,Amputated below knee,1.0
+CTV3,XaBYB,Amputated big toe,1.0
+CTV3,Xa7Ga,Amputated foot,1.0
+CTV3,Xa7Gd,Amputated forefoot,1.0
+CTV3,XaBYC,Amputated leg,1.0
+CTV3,XaBYD,Amputated little toe,1.0
+CTV3,Xa7Ge,Amputated toe,1.0
+CTV3,7L083,Amputation lesser toe,1.0
+CTV3,7L080,Amputation of hallux,1.0
+CTV3,7L06z,Amputation of leg NOS,1.0
+CTV3,XE07v,Amputation of lower limb (& disarticulation),1.0
+CTV3,7L081,Amputation of phalanx of toe,1.0
+CTV3,7L0L2,Amputation of supernumerary toe,1.0
+CTV3,7L07.,Amputation of the foot,1.0
+CTV3,7L06.,Amputation of the lower limb,1.0
+CTV3,XE0JF,Amputation of toe,1.0
+CTV3,7L08.,Amputation of toe (& disarticulation),1.0
+CTV3,XaKK7,Amputation of toe NOS,1.0
+CTV3,XaJhA,Amputation of toe and metatarsal,1.0
+CTV3,7L063,Amputation through knee (& named variants),1.0
+CTV3,XE0JD,Amputation through metatarsal bones,1.0
+CTV3,X76p7,Amputee gait,1.0
+CTV3,XE0J9,Below knee amputation,1.0
+CTV3,XaE1L,Debridement of above knee amputation stump,1.0
+CTV3,XaE1K,Debridement of below knee amputation stump,1.0
+CTV3,7L061,Disarticulation hip (& [Boyd] or [Fitzmaurice Kelly]),1.0
+CTV3,XE0JB,Disarticulation of the tarsal bones,1.0
+CTV3,XE0JC,Disarticulation of the tarsometatarsal joints,1.0
+CTV3,XM1JX,Disarticulation of toe,1.0
+CTV3,XaKK8,Disarticulation of toe NOS,1.0
+CTV3,X6082,Forefoot amputation,1.0
+CTV3,14N41,H/O: lower limb amputation,0.0
+CTV3,XE0J5,Hindquarter amputation,1.0
+CTV3,7L060,Hindquarter amputation (& [Ferre] or [Gordon-Taylor] or [Jaboulay] or [King] or [Sorrondo] or [Steelquist]),1.0
+CTV3,8D471,Hip disarticulation prosthesis,1.0
+CTV3,Ub1Qp,Lower limb amputee mobility practice,1.0
+CTV3,Xa4CT,Lower limb amputee transfer practice,1.0
+CTV3,Xa6oo,Lower thigh amputation,1.0
+CTV3,Xa6on,Mid thigh amputation,1.0
+CTV3,X6081,Midfoot amputation,1.0
+CTV3,8D476,Midfoot amputation prosthesis,1.0
+CTV3,XaBLW,O/E - Amputated left above knee,1.0
+CTV3,XaBLY,O/E - Amputated left below knee,1.0
+CTV3,XaBLc,O/E - Amputated left forefoot,1.0
+CTV3,XaBLU,O/E - Amputated left leg,1.0
+CTV3,XaBLj,O/E - Amputated left toe,1.0
+CTV3,XaBLV,O/E - Amputated right above knee,1.0
+CTV3,XaBLX,O/E - Amputated right below knee,1.0
+CTV3,XaBLb,O/E - Amputated right forefoot,1.0
+CTV3,XaBLT,O/E - Amputated right leg,1.0
+CTV3,XaBLi,O/E - Amputated right toe,1.0
+CTV3,XaXhG,O/E - amputated left midfoot,1.0
+CTV3,XaXfV,O/E - amputated right midfoot,1.0
+CTV3,7L08y,Other specified amputation of toe,1.0
+CTV3,X6083,Partial amputation of hallux,1.0
+CTV3,X6085,Partial amputation of lesser toe,1.0
+CTV3,X76p8,Prosthetic limb gait,1.0
+CTV3,Ub1Qr,Re-education lower limb amputee free knee gait,1.0
+CTV3,Ub1Qq,Re-education lower limb amputee lock knee gait,1.0
+CTV3,Xa3r0,Supramalleolar ankle amputation,1.0
+CTV3,XM1JW,Syme through ankle amputation,1.0
+CTV3,7L072,Tarsometatarsal amputation (& Lisfranc),1.0
+CTV3,X6084,Terminalisation of hallux,1.0
+CTV3,X6086,Terminalisation of lesser toe,1.0
+CTV3,XE0JA,Through ankle amputation,1.0
+CTV3,7L070,Through ankle amputation (& [Pirogoff] or [Syme]),1.0
+CTV3,XE0J8,Through knee amputation,1.0
+CTV3,7L073,Transmetatarsal amputation (& [Chopart] or [Ray]),1.0
+CTV3,Xa6om,Upper thigh amputation,1.0
+CTV3,XM1R6,Amputee - limb,1.0
+CTV3,XaLsg,Delivery of rehabilitation for amputation of limb,1.0
+CTV3,XE2tf,H/O: limb amputation,0.0
+CTV3,14N4Z,H/O: limb amputation NOS,0.0
+CTV3,X607j,Limb amputation,1.0
+CTV3,14N4.,Limb: [H/O amputation] or [amputee],0.0
+CTV3,Xa9nc,Terminalisation - action,1.0
+CTV3,Xa394,Trimming of amputated tip of terminal phalanx,1.0
+CTV3,U635.,"[X]Amputation of limb(s) as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure",1.0
+CTV3,XE0J6,Disarticulation of the hip,1.0

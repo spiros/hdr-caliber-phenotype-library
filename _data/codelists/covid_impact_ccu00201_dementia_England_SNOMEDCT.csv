@@ -1,0 +1,80 @@
+terminology,code,term,code_type
+SNOMEDCT,281004,Dementia associated with alcoholism,1
+SNOMEDCT,792004,Jakob-Creutzfeldt disease,1
+SNOMEDCT,12348006,Presenile dementia,1
+SNOMEDCT,13092008,Pick's disease,1
+SNOMEDCT,15662003,Senile dementia,1
+SNOMEDCT,20484008,Prion disease,1
+SNOMEDCT,26929004,Alzheimer's disease,1
+SNOMEDCT,52448006,Dementia,1
+SNOMEDCT,66108005,"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated",1
+SNOMEDCT,67155006,Gerstmann-Straussler-Scheinker syndrome,1
+SNOMEDCT,80098002,Diffuse Lewy body disease,1
+SNOMEDCT,83157008,Fatal familial insomnia,1
+SNOMEDCT,191449005,Uncomplicated senile dementia,1
+SNOMEDCT,191451009,Uncomplicated presenile dementia,1
+SNOMEDCT,191452002,Presenile dementia with delirium,1
+SNOMEDCT,191454001,Presenile dementia with paranoia,1
+SNOMEDCT,191455000,Presenile dementia with depression,1
+SNOMEDCT,191457008,Senile dementia with depressive or paranoid features,1
+SNOMEDCT,191458003,Senile dementia with paranoia,1
+SNOMEDCT,191459006,Senile dementia with depression,1
+SNOMEDCT,191461002,Senile dementia with delirium,1
+SNOMEDCT,191519005,Dementia in conditions EC,1
+SNOMEDCT,230265002,Familial Alzheimer's disease of early onset,1
+SNOMEDCT,230266001,Non-familial Alzheimer's disease of early onset,1
+SNOMEDCT,230267005,Familial Alzheimer's disease of late onset,1
+SNOMEDCT,230268000,Non-familial Alzheimer's disease of late onset,1
+SNOMEDCT,230269008,Focal Alzheimer's disease,1
+SNOMEDCT,230280008,Progressive aphasia in Alzheimer's disease,1
+SNOMEDCT,230284004,Spongiform encephalopathy,1
+SNOMEDCT,230287006,Mixed cortical and subcortical vascular dementia,1
+SNOMEDCT,279982005,Cerebral degeneration presenting primarily with dementia,1
+SNOMEDCT,304603007,New variant of Creutzfeldt-Jakob disease,1
+SNOMEDCT,312991009,Senile dementia of the Lewy body type,1
+SNOMEDCT,416780008,"Primary degenerative dementia of the Alzheimer type, presenile onset (disorder)",1
+SNOMEDCT,416975007,"Primary degenerative dementia of the Alzheimer type, senile onset (disorder)",1
+SNOMEDCT,425390006,Dementia associated with Parkinson's Disease (disorder),1
+SNOMEDCT,429458009,Dementia due to Creutzfeldt Jakob disease (disorder),1
+SNOMEDCT,442344002,Dementia due to Huntington chorea,1
+SNOMEDCT,21921000119103,Dementia due to Pick's disease,1
+SNOMEDCT,22381000119105,Primary degenerative dementia,1
+SNOMEDCT,101421000119107,Dementia due to Parkinson's disease (disorder),1
+SNOMEDCT,135811000119107,Lewy body dementia with behavioral disturbance (disorder),1
+SNOMEDCT,230271008,Pick's disease with Pick bodies (disorder),1
+SNOMEDCT,230283005,Punch drunk syndrome (disorder),1
+SNOMEDCT,230288001,Semantic dementia (disorder),1
+SNOMEDCT,230289009,Patchy dementia (disorder),1
+SNOMEDCT,45864009,Senile degeneration of brain (disorder),1
+SNOMEDCT,62239001,Parkinson-dementia complex of Guam (disorder),1
+SNOMEDCT,713060000,Sporadic Creutzfeldt-Jakob disease (disorder),1
+SNOMEDCT,1089521000000106,Predominantly cortical dementia (disorder),1
+SNOMEDCT,142001000119106,Depressed mood in Alzheimer's disease (disorder),1
+SNOMEDCT,191493005,Drug-induced dementia (disorder),1
+SNOMEDCT,230270009,Frontotemporal dementia (disorder),1
+SNOMEDCT,230273006,Frontotemporal degeneration (disorder),1
+SNOMEDCT,230274000,Frontal lobe degeneration with motor neurone disease (disorder),1
+SNOMEDCT,230282000,Post-traumatic dementia (disorder),1
+SNOMEDCT,278855005,Frontal lobe degeneration (disorder),1
+SNOMEDCT,278857002,Dementia of frontal lobe type (disorder),1
+SNOMEDCT,419261000000107,"[X]Dementia in Alzheimer's dis, atypical or mixed type (disorder)",1
+SNOMEDCT,698626001,Dementia associated with multiple sclerosis (disorder),1
+SNOMEDCT,723390000,Rapidly progressive dementia (disorder),1
+SNOMEDCT,79341000119107,Mixed dementia (disorder),1
+SNOMEDCT,9345005,Dialysis dementia (disorder),1
+SNOMEDCT,1095121000000102,Dementia advance care plan agreed (finding),1
+SNOMEDCT,956841000000106,Dementia care plan agreed (finding),1
+SNOMEDCT,956861000000107,Dementia care plan reviewed (situation),1
+SNOMEDCT,1095111000000108,Review of dementia advance care plan (procedure),1
+SNOMEDCT,956881000000103,Dementia care plan declined (situation),1
+SNOMEDCT,956901000000100,Dementia care plan review declined (situation),1
+SNOMEDCT,959461000000102,Dementia advance care plan review declined (situation),1
+SNOMEDCT,1095101000000106,Offer of dementia advance care planning review declined (situation),1
+SNOMEDCT,716991000000108,Dementia monitoring telephone invitation (procedure),1
+SNOMEDCT,717471000000101,Dementia monitoring second letter (procedure),1
+SNOMEDCT,1110901000000109,Quality and Outcomes Framework dementia quality indicator-related care invitation (procedure),1
+SNOMEDCT,711441000000100,Dementia monitoring invitation (procedure),1
+SNOMEDCT,715821000000107,Dementia monitoring first letter (procedure),1
+SNOMEDCT,716221000000104,Dementia monitoring verbal invitation (procedure),1
+SNOMEDCT,716671000000102,Dementia monitoring third letter (procedure),1
+SNOMEDCT,938551000000108,Dementia medication review (procedure),1

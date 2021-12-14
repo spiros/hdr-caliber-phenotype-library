@@ -1,0 +1,78 @@
+terminology,code,term,code_type
+SNOMEDCT,71444005,Cerebral thrombosis,1
+SNOMEDCT,75543006,Cerebral embolism,1
+SNOMEDCT,78569004,Posterior inferior cerebellar artery syndrome,1
+SNOMEDCT,95457000,Brain stem infarction,1
+SNOMEDCT,95460007,Cerebellar infarction,1
+SNOMEDCT,195185009,Cerebral infarct due to thrombosis of precerebral arteries,1
+SNOMEDCT,195186005,Cerebral infarction due to embolism of precerebral arteries,1
+SNOMEDCT,195189003,Cerebral infarction due to thrombosis of cerebral arteries,1
+SNOMEDCT,195190007,Cerebral infarction due to embolism of cerebral arteries,1
+SNOMEDCT,195200006,Carotid artery syndrome hemispheric,1
+SNOMEDCT,195201005,Multiple and bilateral precerebral artery syndromes,1
+SNOMEDCT,195209007,Middle cerebral artery syndrome,1
+SNOMEDCT,195210002,Anterior cerebral artery syndrome,1
+SNOMEDCT,195211003,Posterior cerebral artery syndrome,1
+SNOMEDCT,230691006,CVA - cerebrovascular accident due to cerebral artery occlusion,1
+SNOMEDCT,230692004,Infarction - precerebral,1
+SNOMEDCT,230698000,Lacunar infarction,1
+SNOMEDCT,230699008,Pure motor lacunar syndrome,1
+SNOMEDCT,230700009,Pure sensory lacunar infarction,1
+SNOMEDCT,307766002,Left sided cerebral infarction,1
+SNOMEDCT,307767006,Right sided cerebral infarction,1
+SNOMEDCT,373606000,Occlusive stroke (disorder),1
+SNOMEDCT,413102000,Infarction of basal ganglia (disorder),1
+SNOMEDCT,432504007,Cerebral infarction (disorder),1
+SNOMEDCT,724424009,Cerebral ischemic stroke due to small artery occlusion (disorder),1
+SNOMEDCT,125081000119106,Cerebral infarction due to occlusion of precerebral artery,1
+SNOMEDCT,140921000119102,Ischaemic stroke without coma,1
+SNOMEDCT,1089421000000105,Cerebral infarction due to stenosis of cerebral artery (disorder),1
+SNOMEDCT,16000511000119103,Cerebrovascular accident due to occlusion of left middle cerebral artery (disorder),1
+SNOMEDCT,16002031000119102,Cerebrovascular accident due to thrombus of right middle cerebral artery (disorder),1
+SNOMEDCT,16002111000119106,Cerebrovascular accident due to thrombus of left middle cerebral artery (disorder),1
+SNOMEDCT,195230003,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic (disorder)",1
+SNOMEDCT,20059004,Occlusion of cerebral artery (disorder),1
+SNOMEDCT,230693009,Anterior cerebral circulation infarction (disorder),1
+SNOMEDCT,230696001,Posterior cerebral circulation infarction (disorder),1
+SNOMEDCT,230701008,Pure sensorimotor lacunar infarction (disorder),1
+SNOMEDCT,307363008,Multiple lacunar infarcts (disorder),1
+SNOMEDCT,329641000119104,Cerebrovascular accident due to thrombus of basilar artery (disorder),1
+SNOMEDCT,371041009,Embolic stroke (disorder),1
+SNOMEDCT,734383005,Thrombosis of left middle cerebral artery (disorder),1
+SNOMEDCT,87555007,Claude's syndrome (disorder),1
+SNOMEDCT,1089411000000104,Cerebral infarction due to occlusion of cerebral artery (disorder),1
+SNOMEDCT,195213000,Cerebellar stroke syndrome (disorder),1
+SNOMEDCT,230694003,Total anterior cerebral circulation infarction (disorder),1
+SNOMEDCT,230695002,Partial anterior cerebral circulation infarction (disorder),1
+SNOMEDCT,230702001,Lacunar ataxic hemiparesis (disorder),1
+SNOMEDCT,230703006,Dysarthria-clumsy hand syndrome (disorder),1
+SNOMEDCT,230704000,Multi-infarct state (disorder),1
+SNOMEDCT,24654003,Weber-Gubler syndrome (disorder),1
+SNOMEDCT,25133001,Completed stroke (disorder),1
+SNOMEDCT,276219001,Occipital cerebral infarction (disorder),1
+SNOMEDCT,276220007,Foville syndrome (disorder),1
+SNOMEDCT,276221006,Millard-Gubler syndrome (disorder),1
+SNOMEDCT,276222004,Top of basilar syndrome (disorder),1
+SNOMEDCT,413758000,Cardioembolic stroke (disorder),1
+SNOMEDCT,426107000,Acute lacunar infarction (disorder),1
+SNOMEDCT,734384004,Thrombosis of right middle cerebral artery (disorder),1
+SNOMEDCT,90099008,Subcortical leukoencephalopathy (disorder),1
+SNOMEDCT,195212005,Brainstem stroke syndrome,1
+SNOMEDCT,195213000,Cerebellar stroke syndrome,1
+SNOMEDCT,195216008,Left sided cerebral hemisphere cerebrovascular accident,1
+SNOMEDCT,195217004,Right sided CVA,1
+SNOMEDCT,230690007,CVA - Cerebrovascular accident,1
+SNOMEDCT,275434003,Stroke in the puerperium,1
+SNOMEDCT,16371781000119100,Cerebellar stroke (disorder),1
+SNOMEDCT,195209007,Middle cerebral artery syndrome (disorder),1
+SNOMEDCT,195210002,Anterior cerebral artery syndrome (disorder),1
+SNOMEDCT,195211003,Posterior cerebral artery syndrome (disorder),1
+SNOMEDCT,230706003,Hemorrhagic cerebral infarction (disorder),1
+SNOMEDCT,230708002,Posterior cerebral circulation hemorrhagic infarction (disorder),1
+SNOMEDCT,281240008,Extension of cerebrovascular accident (disorder),1
+SNOMEDCT,297138001,Embolus of circle of Willis (disorder),1
+SNOMEDCT,444172003,Recurrent transient cerebral ischemic attack (disorder),1
+SNOMEDCT,230707007,Anterior cerebral circulation hemorrhagic infarction (disorder),1
+SNOMEDCT,230713003,Stroke of uncertain pathology (disorder),1
+SNOMEDCT,230714009,Anterior circulation stroke of uncertain pathology (disorder),1
+SNOMEDCT,230715005,Posterior circulation stroke of uncertain pathology (disorder),1

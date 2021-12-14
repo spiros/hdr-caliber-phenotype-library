@@ -1,0 +1,44 @@
+terminology,code,term,code_type
+SNOMEDCT,129151000119102,Chronic kidney disease stage 4 due to hypertension (disorder),1.0
+SNOMEDCT,129171000119106,Chronic kidney disease stage 3 due to hypertension (disorder),1.0
+SNOMEDCT,324251000000105,Chronic kidney disease stage 3 with proteinuria (disorder),1.0
+SNOMEDCT,324281000000104,Chronic kidney disease stage 3 without proteinuria (disorder),1.0
+SNOMEDCT,324411000000105,Chronic kidney disease stage 3B without proteinuria (disorder),1.0
+SNOMEDCT,324501000000107,Chronic kidney disease stage 5 with proteinuria (disorder),1.0
+SNOMEDCT,324541000000105,Chronic kidney disease stage 5 without proteinuria (disorder),1.0
+SNOMEDCT,431857002,Chronic kidney disease stage 4 (disorder),1.0
+SNOMEDCT,433144002,Chronic kidney disease stage 3 (disorder),1.0
+SNOMEDCT,433146000,Chronic kidney disease stage 5 (disorder),1.0
+SNOMEDCT,700379002,Chronic kidney disease stage 3B (disorder),1.0
+SNOMEDCT,949881000000106,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A1 (disorder),1.0
+SNOMEDCT,949901000000109,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A2 (disorder),1.0
+SNOMEDCT,949921000000100,Chronic kidney disease with glomerular filtration rate category G3a and albuminuria category A3 (disorder),1.0
+SNOMEDCT,950061000000103,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A1 (disorder),1.0
+SNOMEDCT,950081000000107,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A2 (disorder),1.0
+SNOMEDCT,950101000000101,Chronic kidney disease with glomerular filtration rate category G3b and albuminuria category A3 (disorder),1.0
+SNOMEDCT,324311000000101,Chronic kidney disease stage 3A with proteinuria (disorder),1.0
+SNOMEDCT,324341000000100,Chronic kidney disease stage 3A without proteinuria (disorder),1.0
+SNOMEDCT,324371000000106,Chronic kidney disease stage 3B with proteinuria (disorder),1.0
+SNOMEDCT,324441000000106,Chronic kidney disease stage 4 with proteinuria (disorder),1.0
+SNOMEDCT,324471000000100,Chronic kidney disease stage 4 without proteinuria (disorder),1.0
+SNOMEDCT,700378005,Chronic kidney disease stage 3A (disorder),1.0
+SNOMEDCT,714152005,Chronic kidney disease stage 5 on dialysis (disorder),1.0
+SNOMEDCT,731000119105,Chronic kidney disease stage 3 due to type 2 diabetes mellitus (disorder),1.0
+SNOMEDCT,950181000000106,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A1 (disorder),1.0
+SNOMEDCT,950211000000107,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A2 (disorder),1.0
+SNOMEDCT,950231000000104,Chronic kidney disease with glomerular filtration rate category G4 and albuminuria category A3 (disorder),1.0
+SNOMEDCT,950251000000106,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A1 (disorder),1.0
+SNOMEDCT,950291000000103,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A2 (disorder),1.0
+SNOMEDCT,950311000000102,Chronic kidney disease with glomerular filtration rate category G5 and albuminuria category A3 (disorder),1.0
+SNOMEDCT,324121000000109,Chronic kidney disease stage 1 with proteinuria (disorder),1.0
+SNOMEDCT,324151000000104,Chronic kidney disease stage 1 without proteinuria (disorder),1.0
+SNOMEDCT,324211000000106,Chronic kidney disease stage 2 without proteinuria (disorder),1.0
+SNOMEDCT,431855005,Chronic kidney disease stage 1 (disorder),1.0
+SNOMEDCT,949421000000107,Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A2 (disorder),1.0
+SNOMEDCT,949521000000108,Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A1 (disorder),1.0
+SNOMEDCT,949561000000100,Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A2 (disorder),1.0
+SNOMEDCT,324181000000105,Chronic kidney disease stage 2 with proteinuria (disorder),1.0
+SNOMEDCT,431856006,Chronic kidney disease stage 2 (disorder),1.0
+SNOMEDCT,949401000000103,Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A1 (disorder),1.0
+SNOMEDCT,949481000000108,Chronic kidney disease with glomerular filtration rate category G1 and albuminuria category A3 (disorder),1.0
+SNOMEDCT,949621000000109,Chronic kidney disease with glomerular filtration rate category G2 and albuminuria category A3 (disorder),1.0

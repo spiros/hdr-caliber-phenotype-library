@@ -1,0 +1,5 @@
+covid_phenotype,clinical_code,terminology,description,covid_status,source
+03_NIV_treatment,E85.2,OPCS,Non-invasive ventilation NEC,confirmed,HES APC
+03_NIV_treatment,E85.6,OPCS,Continuous positive airway pressure,confirmed,HES APC
+03_NIV_treatment,E85.2,OPCS,Non-invasive ventilation NEC,confirmed,SUS
+03_NIV_treatment,E85.6,OPCS,Continuous positive airway pressure,confirmed,SUS

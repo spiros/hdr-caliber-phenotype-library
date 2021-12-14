@@ -1,0 +1,71 @@
+terminology,code,term,code_type
+ICD10,C00,C00 Malignant neoplasm of lip,1.0
+ICD10,C01,C01 Malignant neoplasm of base of tongue,1.0
+ICD10,C02,C02 Malignant neoplasm of other and unspecified parts of tongue,1.0
+ICD10,C03,C03 Malignant neoplasm of gum,1.0
+ICD10,C04,C04 Malignant neoplasm of floor of mouth,1.0
+ICD10,C05,C05 Malignant neoplasm of palate,1.0
+ICD10,C06,C06 Malignant neoplasm of other and unspecified parts of mouth,1.0
+ICD10,C07,C07 Malignant neoplasm of parotid gland,1.0
+ICD10,C08,C08 Malignant neoplasm of other and unspecified major salivary glands,1.0
+ICD10,C09,C09 Malignant neoplasm of tonsil,1.0
+ICD10,C10,C10 Malignant neoplasm of oropharynx,1.0
+ICD10,C11,C11 Malignant neoplasm of nasopharynx,1.0
+ICD10,C12,C12 Malignant neoplasm of pyriform sinus,1.0
+ICD10,C13,C13 Malignant neoplasm of hypopharynx,1.0
+ICD10,C14,"C14 Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",1.0
+ICD10,C15,C15 Malignant neoplasm of oesophagus,1.0
+ICD10,C16,C16 Malignant neoplasm of stomach,1.0
+ICD10,C17,C17 Malignant neoplasm of small intestine,1.0
+ICD10,C18,C18 Malignant neoplasm of colon,1.0
+ICD10,C19,C19 Malignant neoplasm of rectosigmoid junction,1.0
+ICD10,C20,C20 Malignant neoplasm of rectum,1.0
+ICD10,C21,C21 Malignant neoplasm of anus and anal canal,1.0
+ICD10,C22,C22 Malignant neoplasm of liver and intrahepatic bile ducts,1.0
+ICD10,C23,C23 Malignant neoplasm of gallbladder,1.0
+ICD10,C24,C24 Malignant neoplasm of other and unspecified parts of biliary tract,1.0
+ICD10,C25,C25 Malignant neoplasm of pancreas,1.0
+ICD10,C26,C26 Malignant neoplasm of other and ill-defined digestive organs,1.0
+ICD10,C30,C30 Malignant neoplasm of nasal cavity and middle ear,1.0
+ICD10,C31,C31 Malignant neoplasm of accessory sinuses,1.0
+ICD10,C32,C32 Malignant neoplasm of larynx,1.0
+ICD10,C33,C33 Malignant neoplasm of trachea,1.0
+ICD10,C34,C34 Malignant neoplasm of bronchus and lung,1.0
+ICD10,C37,C37 Malignant neoplasm of thymus,1.0
+ICD10,C38,"C38 Malignant neoplasm of heart, mediastinum and pleura",1.0
+ICD10,C39,C39 Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs,1.0
+ICD10,C40,C40 Malignant neoplasm of bone and articular cartilage of limbs,1.0
+ICD10,C41,C41 Malignant neoplasm of bone and articular cartilage of other and unspecified sites,1.0
+ICD10,C42,C42 hematopoietic and reticuloendothelial systems (ICD-O-3 specific),1.0
+ICD10,C43,C43 Malignant melanoma of skin,1.0
+ICD10,C44,C44 Other malignant neoplasms of skin,1.0
+ICD10,C45,C45 Mesothelioma,1.0
+ICD10,C46,C46 Kaposi's sarcoma,1.0
+ICD10,C47,C47 Malignant neoplasm of peripheral nerves and autonomic nervous system,1.0
+ICD10,C48,C48 Malignant neoplasm of retroperitoneum and peritoneum,1.0
+ICD10,C49,C49 Malignant neoplasm of other connective and soft tissue,1.0
+ICD10,C50,C50 Malignant neoplasm of breast,1.0
+ICD10,C51,C51 Malignant neoplasm of vulva,1.0
+ICD10,C52,C52 Malignant neoplasm of vagina,1.0
+ICD10,C53,C53 Malignant neoplasm of cervix uteri,1.0
+ICD10,C54,C54 Malignant neoplasm of corpus uteri,1.0
+ICD10,C55,"C55 Malignant neoplasm of uterus, part unspecified",1.0
+ICD10,C56,C56 Malignant neoplasm of ovary,1.0
+ICD10,C57,C57 Malignant neoplasm of other and unspecified female genital organs,1.0
+ICD10,C58,C58 Malignant neoplasm of placenta,1.0
+ICD10,C60,C60 Malignant neoplasm of penis,1.0
+ICD10,C61,C61 Malignant neoplasm of prostate,1.0
+ICD10,C62,C62 Malignant neoplasm of testis,1.0
+ICD10,C63,C63 Malignant neoplasm of other and unspecified male genital organs,1.0
+ICD10,C64,"C64 Malignant neoplasm of kidney, except renal pelvis",1.0
+ICD10,C65,C65 Malignant neoplasm of renal pelvis,1.0
+ICD10,C66,C66 Malignant neoplasm of ureter,1.0
+ICD10,C67,C67 Malignant neoplasm of bladder,1.0
+ICD10,C68,C68 Malignant neoplasm of other and unspecified urinary organs,1.0
+ICD10,C69,C69 Malignant neoplasm of eye and adnexa,1.0
+ICD10,C70,C70 Malignant neoplasm of meninges,1.0
+ICD10,C71,C71 Malignant neoplasm of brain,1.0
+ICD10,C72,"C72 Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",1.0
+ICD10,C73,C73 Malignant neoplasm of thyroid gland,1.0
+ICD10,C74,C74 Malignant neoplasm of adrenal gland,1.0
+ICD10,C75,C75 Malignant neoplasm of other endocrine glands and related structures,1.0

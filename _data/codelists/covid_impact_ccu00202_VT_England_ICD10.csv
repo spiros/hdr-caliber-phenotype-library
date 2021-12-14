@@ -1,0 +1,17 @@
+terminology,code,term,code_type
+ICD10,I80.1,Phlebitis and thrombophlebitis of femoral vein,1.0
+ICD10,O87.1,Deep phlebothrombosis in the puerperium,1.0
+ICD10,O08.2,Embolism following abortion and ectopic and molar pregnancy,1.0
+ICD10,I82.3,Embolism and thrombosis of renal vein,1.0
+ICD10,I82.0,Budd-Chiari syndrome,1.0
+ICD10,I80.2,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,1.0
+ICD10,I81,Portal vein thrombosis,1.0
+ICD10,I80.3,"Phlebitis and thrombophlebitis of lower extremities, unspecified",1.0
+ICD10,O22.3,Deep phlebothrombosis in pregnancy,1.0
+ICD10,I82.2,Embolism and thrombosis of vena cava,1.0
+ICD10,O87.9,"Venous complication in the puerperium, unspecified",1.0
+ICD10,O88.2,Obstetric blood-clot embolism,1.0
+ICD10,O22.5,Cerebral venous thrombosis in pregnancy,1.0
+ICD10,O87.3,Cerebral venous thrombosis in the puerperium,1.0
+ICD10,I82.8,Embolism and thrombosis of other specified veins,1.0
+ICD10,I82.9,Embolism and thrombosis of unspecified vein,1.0

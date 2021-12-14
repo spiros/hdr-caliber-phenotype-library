@@ -1,0 +1,23 @@
+terminology,code,term,code_type
+SNOMEDCT,8762007,Chronic hypertension in obstetric context,1.0
+SNOMEDCT,67359005,Pre-eclampsia added to pre-existing hypertension,1.0
+SNOMEDCT,86041002,Pre-existing hypertension in obstetric context,1.0
+SNOMEDCT,198942000,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium",1.0
+SNOMEDCT,198944004,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered",1.0
+SNOMEDCT,198945003,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication",1.0
+SNOMEDCT,198946002,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered",1.0
+SNOMEDCT,198947006,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication",1.0
+SNOMEDCT,198949009,"Renal hypertension complicating pregnancy, childbirth and the puerperium",1.0
+SNOMEDCT,198951008,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered",1.0
+SNOMEDCT,198952001,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication",1.0
+SNOMEDCT,198953006,"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered",1.0
+SNOMEDCT,198954000,"Renal hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication",1.0
+SNOMEDCT,198997005,Pre-eclampsia or eclampsia with pre-existing hypertension,1.0
+SNOMEDCT,198999008,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered,1.0
+SNOMEDCT,199000005,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication,1.0
+SNOMEDCT,199002002,Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered,1.0
+SNOMEDCT,199003007,Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication,1.0
+SNOMEDCT,199005000,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium",0.0
+SNOMEDCT,199006004,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",0.0
+SNOMEDCT,199007008,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",0.0
+SNOMEDCT,199008003,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium",0.0

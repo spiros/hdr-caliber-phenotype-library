@@ -1,0 +1,42 @@
+terminology,code,term,code_type
+SNOMEDCT,717491000000102,Excepted from heart failure quality indicators - informed dissent (finding),1
+SNOMEDCT,420300004,New York Heart Association Classification - Class I (finding),1
+SNOMEDCT,430396006,Chronic systolic dysfunction of left ventricle (disorder),1
+SNOMEDCT,703272007,Heart failure with reduced ejection fraction (disorder),1
+SNOMEDCT,446221000,Heart failure with normal ejection fraction (disorder),1
+SNOMEDCT,233924009,Heart failure as a complication of care (disorder),1
+SNOMEDCT,10335000,Chronic right-sided heart failure (disorder),1
+SNOMEDCT,194767001,Benign hypertensive heart disease with congestive cardiac failure,1
+SNOMEDCT,83105008,Malignant hypertensive heart disease with congestive heart failure,1
+SNOMEDCT,426611007,Congestive heart failure due to valvular disease (disorder),1
+SNOMEDCT,275514001,Impaired left ventricular function,1
+SNOMEDCT,134440006,Referral to heart failure clinic,1
+SNOMEDCT,314206003,Refractory heart failure (disorder),1
+SNOMEDCT,92506005,Biventricular congestive heart failure,1
+SNOMEDCT,43736008,Rheumatic left ventricular failure,1
+SNOMEDCT,10633002,Acute congestive heart failure,1
+SNOMEDCT,88805009,Chronic congestive heart failure,1
+SNOMEDCT,87837008,Chronic pulmonary heart disease,1
+SNOMEDCT,195114002,Acute left ventricular failure,1
+SNOMEDCT,206586007,Congenital cardiac failure,1
+SNOMEDCT,56675007,Acute heart failure,1
+SNOMEDCT,85232009,Left heart failure,1
+SNOMEDCT,426263006,Congestive heart failure due to left ventricular systolic dysfunction (disorder),1
+SNOMEDCT,194781004,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,1
+SNOMEDCT,194779001,Hypertensive heart and renal disease with (congestive) heart failure,1
+SNOMEDCT,421704003,New York Heart Association Classification - Class II (finding),1
+SNOMEDCT,407596008,Echocardiogram shows left ventricular systolic dysfunction (finding),1
+SNOMEDCT,420913000,New York Heart Association Classification - Class III (finding),1
+SNOMEDCT,422293003,New York Heart Association Classification - Class IV (finding),1
+SNOMEDCT,698592004,Asymptomatic left ventricular systolic dysfunction (disorder),1
+SNOMEDCT,134401001,Left ventricular systolic dysfunction,1
+SNOMEDCT,48447003,Chronic heart failure (disorder),1
+SNOMEDCT,367363000,Right ventricular failure,1
+SNOMEDCT,42343007,Congestive heart failure,1
+SNOMEDCT,79955004,Chronic cor pulmonale,1
+SNOMEDCT,128404006,Right heart failure,1
+SNOMEDCT,195112003,Compensated cardiac failure,1
+SNOMEDCT,760361000000100,Fast track heart failure referral for transthoracic two dimensional echocardiogram,1
+SNOMEDCT,195111005,Decompensated cardiac failure,1
+SNOMEDCT,71892000,Cardiac asthma,1
+SNOMEDCT,84114007,Heart failure,1
