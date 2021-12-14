@@ -52,7 +52,8 @@ layout: post
         <td><strong>Codelists</strong></td>
         <td>
             {% for codelist in page.codelists %}
-                {% if codelist contains 'Read2' %}
+                <a href="/codelists/{{codelist}}">{{codelist}}</a>
+                <!-- {% if codelist contains 'Read2' %}
                     <button type="button" class="btn btn-sm">
                         <a href="/codelists/{{codelist}}">Read2</a>
                     </button>                    
@@ -80,8 +81,7 @@ layout: post
                 <button type="button" class="btn btn-sm">
                     <a href="/codelists/{{codelist}}">UK Biobank</a>
                 </button>                    
-
-            {% endif %}          
+                {% endif %}           -->
 
             {% endfor %}       
         </td>
