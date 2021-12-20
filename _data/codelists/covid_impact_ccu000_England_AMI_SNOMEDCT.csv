@@ -1,0 +1,76 @@
+conceptId,term,type
+1755008,Old myocardial infarction,0
+10273003,Acute infarction of papillary muscle,1
+15990001,Acute myocardial infarction of posterolateral wall,1
+22298006,Myocardial infarction,1
+42531007,Microinfarct of heart,0
+52035003,Acute anteroapical myocardial infarction,1
+54329005,Acute myocardial infarction of anterior wall,1
+57054005,Acute myocardial infarction,1
+58612006,Acute myocardial infarction of lateral wall,1
+62695002,Acute anteroseptal myocardial infarction,1
+65547006,Acute myocardial infarction of inferolateral wall,1
+66189004,Postmyocardial infarction syndrome,0
+70211005,Acute myocardial infarction of anterolateral wall,1
+70422006,Acute subendocardial infarction,1
+73795002,Acute myocardial infarction of inferior wall,1
+76593002,Acute myocardial infarction of inferoposterior wall,1
+79009004,Acute myocardial infarction of septum,1
+129574000,Postoperative myocardial infarction,1
+161502000,H/O: myocardial infarct at less than 60,0
+161503005,H/O: myocardial infarct at greater than 60,0
+194802003,True posterior myocardial infarction,1
+194809007,Acute atrial infarction,1
+194856005,Subsequent myocardial infarction,1
+194857001,Subsequent myocardial infarction of anterior wall,1
+194858006,Subsequent myocardial infarction of inferior wall,1
+194862000,Haemopericardium as current complication following acute myocardial infarction,1
+194863005,Atrial septal defect as current complication following acute myocardial infarction,1
+194865003,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction,1
+194866002,Rupture of chordae tendinae as current complication following acute myocardial infarction,1
+194867006,Rupture of papillary muscle as current complication following acute myocardial infarction,1
+194868001,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction",1
+233838001,Acute posterior myocardial infarction,1
+233843008,Silent myocardial infarction,0
+233846000,Ventricular septal defect as current complication following acute myocardial infarction,0
+233847009,Cardiac rupture after acute myocardial infarction,1
+304914007,Acute Q wave myocardial infarction,1
+307140009,Acute non-Q wave infarction,1
+308065005,H/O: Myocardial infarction in last year,0
+311792005,Postoperative transmural myocardial infarction of anterior wall,1
+311793000,Postoperative transmural myocardial infarction of inferior wall,1
+311796008,Postoperative subendocardial myocardial infarction,1
+314116003,Post infarct angina,0
+315287002,Diabetes mellitus insulin-glucose infusion in acute myocardial infarction,1
+371068009,Myocardial infarction with complication (disorder),1
+398274000,Coronary artery thrombosis (disorder),1
+399211009,History of - myocardial infarction (context-dependent category),0
+401303003,Acute ST segment elevation myocardial infarction (disorder),1
+401314000,Acute non-ST segment elevation myocardial infarction (disorder),1
+428752002,Recent myocardial infarction (situation),1
+698593009,History of non-ST segment elevation myocardial infarction (situation),0
+15712881000119105,Acute ST segment elevation myocardial infarction of anterolateral wall (disorder),1
+15712921000119103,Acute ST segment elevation myocardial infarction of lateral wall (disorder),1
+233825009,Acute Q wave infarction - anteroseptal (disorder),1
+233826005,Acute non-Q wave infarction - anteroseptal (disorder),1
+233832000,Acute non-Q wave infarction - inferolateral (disorder),1
+285991000119100,Acute ST segment elevation myocardial infarction involving left main coronary artery (disorder),1
+394659003,Acute coronary syndrome (disorder),1
+394710008,First myocardial infarction (disorder),1
+428196007,Mixed myocardial ischemia and infarction (disorder),1
+703213009,Acute ST segment elevation myocardial infarction of inferior wall (disorder),1
+1089471000000109,Acute transmural myocardial infarction (disorder),1
+12238151000119107,Acute ST segment elevation myocardial infarction of inferoposterior wall (disorder),1
+233827001,Acute Q wave infarction - anterolateral (disorder),1
+233828006,Acute non-Q wave infarction - anterolateral (disorder),1
+233829003,Acute Q wave infarction - inferior (disorder),1
+233830008,Acute non-Q wave infarction - inferior (disorder),1
+233831007,Acute Q wave infarction - inferolateral (disorder),1
+233833005,Acute Q wave infarction - lateral (disorder),1
+233834004,Acute non-Q wave infarction - lateral (disorder),1
+233835003,Acute widespread myocardial infarction (disorder),1
+314207007,Non-Q wave myocardial infarction (disorder),1
+703164000,Acute ST segment elevation myocardial infarction of anterior wall (disorder),1
+703209002,Subsequent ST segment elevation myocardial infarction of inferior wall (disorder),1
+703211006,Subsequent ST segment elevation myocardial infarction (disorder),1
+703360004,Subsequent non-ST segment elevation myocardial infarction (disorder),1

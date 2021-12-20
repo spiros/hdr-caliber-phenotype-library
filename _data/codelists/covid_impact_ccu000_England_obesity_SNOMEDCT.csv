@@ -1,0 +1,74 @@
+conceptId,term,type
+18692006,Bypass gastroenterostomy,1
+30803004,"Printen and Mason operation, high gastric bypass",1
+49245001,Bypass gastrojejunostomy,1
+63702009,Alstrom syndrome,1
+87604009,Sleeve resection of stomach,1
+161453001,H/O: obesity,0
+162690006,O/E - obese,1
+162864005,Body mass index 30+ - obesity,1
+170794003,Initial obesity assessment,1
+170795002,Follow-up obesity assessment,1
+170797005,Has seen dietitian - obesity,1
+170798000,Treatment of obesity changed,1
+170799008,Treatment of obesity started,1
+170807005,Reason for obesity therapy - occupational,1
+173748000,Bypass of stomach by anastomosis of stomach to transposed jejunum,1
+173911002,Bypass of jejunum,1
+173913004,Bypass of jejunum by anastomosis of jejunum to ileum,1
+173914005,Jejunocolostomy (& [Dewind] or [Payne] or [Scott]),1
+185741002,Attends obesity monitoring,1
+185742009,Refuses obesity monitoring,1
+185743004,Obesity monitoring default,1
+185744005,Obesity monitoring first letter,1
+185745006,Obesity monitoring second letter,1
+185746007,Obesity monitoring third letter,1
+185747003,Obesity monitoring verbal invite,1
+185748008,Obesity monitoring telephone invite,1
+185750000,Obesity monitoring check done,1
+190965006,Drug-induced obesity,1
+190966007,Extreme obesity with alveolar hypoventilation,1
+235408004,Jejunocolostomy,1
+238134004,Generalized obesity,1
+238136002,Morbid obesity,1
+248311001,Centripetal obesity,1
+248325000,Undernourished,1
+265364006,Partitioning of stomach,1
+265365007,Bypass of stomach by anastomosis of stomach to duodenum,1
+265380001,Jejunojejunal bypass,1
+265381002,Bypass of jejunum by anastomosis of jejunum to colon,1
+266724001,Patient advised about weight-reducing diet,1
+268522006,Obesity monitoring,1
+268551005,Obesity screening,1
+268916007,O/E - weight greater than 20% over ideal,1
+275919002,Weight loss advised,1
+276792008,Pulmonary hypertension with extreme obesity,1
+284352003,Dietary advice for obesity,1
+294493008,Lifelong obesity,1
+296526005,Adult-onset obesit,1
+302872003,Disorder of hyperalimentation,1
+307818003,Weight monitoring,1
+363247006,Obesity associated disorder,1
+408512008,Body mass index 40+ - severely obese (finding),1
+414574004,Laparoscopic adjustable gastric banding (procedure),1
+414916001,Obesity (disorder),1
+415530009,Simple obesity (disorder),1
+424753004,"Dietary management education, guidance, and counseling (procedure)",1
+426738005,Duodenal switch (procedure),1
+427074001,Laparoscopic sleeve gastrectomy (procedure),1
+426273008,Partitioning of stomach using band (procedure),1
+427029008,Partitioning of stomach using staples (procedure),1
+426559000,Removal of gastric band (procedure),1
+428754001,Dietary education for food intolerance (procedure),1
+427980007,Sleeve gastrectomy with duodenal switch (procedure),1
+429538006,History of laparoscopic adjustable gastric banding (situation),0
+442261001,Maintenance of gastric band,0
+698450007,History of bypass of stomach (situation),0
+703316004,Lymphedema associated with obesity (disorder),1
+708983005,Laparoscopic bypass of stomach,1
+329281000119107,History of sleeve gastrectomy,0
+10977641000119108,History of removal of gastric banding device (situation),0
+715279006,Telehealth obesity monitoring (regime/therapy),1
+722051004,"Obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome (disorder)",1
+16093531000119101,History of adult obesity (situation),0
+763085007,Obesity monitoring refused,1

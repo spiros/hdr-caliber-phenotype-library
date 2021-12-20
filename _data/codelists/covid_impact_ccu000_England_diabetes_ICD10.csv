@@ -1,0 +1,16 @@
+icd10code,icd10term,type
+E10,Insulin-dependent diabetes mellitus,1
+E11,Non-insulin-dependent diabetes mellitus,1
+E12,Malnutrition-related diabetes mellitus,1
+O242,Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus,1
+E13,Other specified diabetes mellitus,1
+E14,Unspecified diabetes mellitus,1
+G590,Diabetic mononeuropathy,1
+G632,Diabetic polyneuropathy,1
+H280,Diabetic cataract,1
+H360,Diabetic retinopathy,1
+M142,Diabetic arthropathy,1
+N083,Glomerular disorders in diabetes mellitus,1
+O240,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, insulin-dependent",1
+O241,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent",1
+O243,"Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified",1

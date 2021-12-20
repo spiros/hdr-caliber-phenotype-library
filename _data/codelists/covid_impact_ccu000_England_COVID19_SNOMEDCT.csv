@@ -1,0 +1,44 @@
+conceptId,term,flag,type
+1321181000000108,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 record extraction simple reference set (foundation metadata concept),Clinically confirmed,1
+1321201000000107,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 health issues simple reference set (foundation metadata concept),Clinically confirmed,1
+1321191000000105,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 procedures simple reference set (foundation metadata concept),Clinically confirmed,1
+1321331000000107,Arbitrary concentration of severe acute respiratory syndrome coronavirus 2 total immunoglobulin in serum (observable entity),Lab confirmed historic,0
+1321301000000101,Severe acute respiratory syndrome coronavirus 2 ribonucleic acid qualitative existence in specimen (observable entity),Lab confirmed incidence,1
+1321811000000105,Severe acute respiratory syndrome coronavirus 2 immunoglobulin A qualitative existence in specimen (observable entity),Lab confirmed historic,0
+1321311000000104,Severe acute respiratory syndrome coronavirus 2 immunoglobulin M qualitative existence in specimen (observable entity),Lab confirmed historic,0
+1321321000000105,Severe acute respiratory syndrome coronavirus 2 immunoglobulin G qualitative existence in specimen (observable entity),Lab confirmed historic,0
+1322871000000109,Severe acute respiratory syndrome coronavirus 2 antibody detection result positive (finding),Lab confirmed historic,0
+1240751000000100,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 (disorder),Clinically confirmed,1
+1321551000000106,Severe acute respiratory syndrome coronavirus 2 immunoglobulin M detected (finding),Lab confirmed historic,0
+1321241000000105,Cardiomyopathy caused by severe acute respiratory syndrome coronavirus 2 (disorder),Clinically confirmed,1
+1240411000000107,Ribonucleic acid of severe acute respiratory syndrome coronavirus 2 (substance),Lab confirmed incidence,1
+1240421000000101,Serotype severe acute respiratory syndrome coronavirus 2 (qualifier value),Lab confirmed historic,0
+1240391000000107,Antigen of severe acute respiratory syndrome coronavirus 2 (substance),Lab confirmed incidence,1
+1008541000000105,Coronavirus ribonucleic acid detection assay (observable entity),Lab confirmed incidence,1
+1029481000000103,Coronavirus nucleic acid detection assay (observable entity),Lab confirmed incidence,1
+1300631000000101,Coronavirus disease 19 severity score (observable entity),Clinically confirmed,1
+1300671000000104,Coronavirus disease 19 severity scale (assessment scale),Clinically confirmed,1
+121973000,Measurement of coronavirus antibody (procedure),Lab confirmed historic,0
+120814005,Coronavirus antibody (substance),Lab confirmed historic,0
+186747009,Coronavirus infection (disorder),Clinically confirmed,1
+1321211000000109,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 presenting complaints simple reference set (foundation metadata concept),Clinically confirmed,1
+1300731000000106,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 confirmed using clinical diagnostic criteria (situation),Clinically confirmed,1
+1321351000000100,Arbitrary concentration of severe acute respiratory syndrome coronavirus 2 immunoglobulin M in serum (observable entity),Lab confirmed historic,0
+1321801000000108,Arbitrary concentration of severe acute respiratory syndrome coronavirus 2 immunoglobulin A in serum (observable entity),Lab confirmed historic,0
+1321341000000103,Arbitrary concentration of severe acute respiratory syndrome coronavirus 2 immunoglobulin G in serum (observable entity),Lab confirmed historic,0
+1300721000000109,Coronavirus disease 19 caused by severe acute respiratory syndrome coronavirus 2 confirmed by laboratory test (situation),Lab confirmed unclear,1
+1240511000000106,Detection of severe acute respiratory syndrome coronavirus 2 using polymerase chain reaction technique (procedure),Lab confirmed incidence,1
+1240541000000107,Infection of upper respiratory tract caused by severe acute respiratory syndrome coronavirus 2 (disorder),Clinically confirmed,1
+1322781000000102,Severe acute respiratory syndrome coronavirus 2 antigen detection result positive (finding),Lab confirmed incidence,1
+1240581000000104,Severe acute respiratory syndrome coronavirus 2 ribonucleic acid detected (finding),Lab confirmed incidence,1
+1321761000000103,Severe acute respiratory syndrome coronavirus 2 immunoglobulin A detected (finding),Lab confirmed historic,0
+1321541000000108,Severe acute respiratory syndrome coronavirus 2 immunoglobulin G detected (finding),Lab confirmed historic,0
+1240571000000101,Gastroenteritis caused by severe acute respiratory syndrome coronavirus 2 (disorder),Clinically confirmed,1
+1240561000000108,Encephalopathy caused by severe acute respiratory syndrome coronavirus 2 (disorder),Clinically confirmed,1
+1240521000000100,Otitis media caused by severe acute respiratory syndrome coronavirus 2 (disorder),Clinically confirmed,1
+1240531000000103,Myocarditis caused by severe acute respiratory syndrome coronavirus 2 (disorder),Clinically confirmed,1
+1240551000000105,Pneumonia caused by severe acute respiratory syndrome coronavirus 2 (disorder),Clinically confirmed,1
+1240741000000103,Severe acute respiratory syndrome coronavirus 2 serology (observable entity),Lab confirmed historic,0
+1240401000000105,Antibody to severe acute respiratory syndrome coronavirus 2 (substance),Lab confirmed historic,0
+1300681000000102,Assessment using coronavirus disease 19 severity scale (procedure),Clinically confirmed,1
+1240381000000105,Severe acute respiratory syndrome coronavirus 2 (organism),Clinically confirmed,1

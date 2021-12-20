@@ -1,0 +1,6 @@
+icd10code,icd10term,type
+I25.2,Old myocardial infarction,0
+I21,Acute myocardial infarction,1
+I22,Subsequent myocardial infarction,1
+I23,Certain current complications following acute myocardial infarction,1
+I24.1,Dressler's syndrome,1

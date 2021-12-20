@@ -1,0 +1,59 @@
+conceptId,term,type
+71444005,Cerebral thrombosis,1
+75543006,Cerebral embolism,1
+78569004,Posterior inferior cerebellar artery syndrome,1
+95457000,Brain stem infarction,1
+95460007,Cerebellar infarction,1
+195185009,Cerebral infarct due to thrombosis of precerebral arteries,1
+195186005,Cerebral infarction due to embolism of precerebral arteries,1
+195189003,Cerebral infarction due to thrombosis of cerebral arteries,1
+195190007,Cerebral infarction due to embolism of cerebral arteries,1
+195200006,Carotid artery syndrome hemispheric,1
+195201005,Multiple and bilateral precerebral artery syndromes,1
+195209007,Middle cerebral artery syndrome,1
+195210002,Anterior cerebral artery syndrome,1
+195211003,Posterior cerebral artery syndrome,1
+230691006,CVA - cerebrovascular accident due to cerebral artery occlusion,1
+230692004,Infarction - precerebral,1
+230698000,Lacunar infarction,1
+230699008,Pure motor lacunar syndrome,1
+230700009,Pure sensory lacunar infarction,1
+307766002,Left sided cerebral infarction,1
+307767006,Right sided cerebral infarction,1
+373606000,Occlusive stroke (disorder),1
+413102000,Infarction of basal ganglia (disorder),1
+432504007,Cerebral infarction (disorder),1
+724424009,Cerebral ischemic stroke due to small artery occlusion (disorder),1
+125081000119106,Cerebral infarction due to occlusion of precerebral artery,1
+140921000119102,Ischaemic stroke without coma,1
+1089421000000105,Cerebral infarction due to stenosis of cerebral artery (disorder),1
+16000511000119103,Cerebrovascular accident due to occlusion of left middle cerebral artery (disorder),1
+16002031000119102,Cerebrovascular accident due to thrombus of right middle cerebral artery (disorder),1
+16002111000119106,Cerebrovascular accident due to thrombus of left middle cerebral artery (disorder),1
+195230003,"Cerebral infarction due to cerebral venous thrombosis, non-pyogenic (disorder)",1
+20059004,Occlusion of cerebral artery (disorder),1
+230693009,Anterior cerebral circulation infarction (disorder),1
+230696001,Posterior cerebral circulation infarction (disorder),1
+230701008,Pure sensorimotor lacunar infarction (disorder),1
+307363008,Multiple lacunar infarcts (disorder),1
+329641000119104,Cerebrovascular accident due to thrombus of basilar artery (disorder),1
+371041009,Embolic stroke (disorder),1
+734383005,Thrombosis of left middle cerebral artery (disorder),1
+87555007,Claude's syndrome (disorder),1
+1089411000000104,Cerebral infarction due to occlusion of cerebral artery (disorder),1
+195213000,Cerebellar stroke syndrome (disorder),1
+230694003,Total anterior cerebral circulation infarction (disorder),1
+230695002,Partial anterior cerebral circulation infarction (disorder),1
+230702001,Lacunar ataxic hemiparesis (disorder),1
+230703006,Dysarthria-clumsy hand syndrome (disorder),1
+230704000,Multi-infarct state (disorder),1
+24654003,Weber-Gubler syndrome (disorder),1
+25133001,Completed stroke (disorder),1
+276219001,Occipital cerebral infarction (disorder),1
+276220007,Foville syndrome (disorder),1
+276221006,Millard-Gubler syndrome (disorder),1
+276222004,Top of basilar syndrome (disorder),1
+413758000,Cardioembolic stroke (disorder),1
+426107000,Acute lacunar infarction (disorder),1
+734384004,Thrombosis of right middle cerebral artery (disorder),1
+90099008,Subcortical leukoencephalopathy (disorder),1
