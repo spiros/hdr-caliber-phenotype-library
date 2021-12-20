@@ -43,23 +43,25 @@ version: Revision 1
 
 ---
 
+### Phenotypes
+
+#### England hospitalization EHR: COVID-19 diagnosis 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_01_GP_covid_diagnosis_England_SNOMEDCT %}
+#### England hospitalization EHR: COVID-19 hospitalization 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_02_Covid_admission_England_ICD10 %}
+#### England hospitalization EHR: Extracorporeal membrane oxygenation 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_03_ECMO_treatment_England_OPCS %}
+#### England hospitalization EHR: Invasive ventilation 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_03_IMV_treatment_England_OPCS %}
+#### England hospitalization EHR: Continuous positive airway pressure 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_03_NIV_treatment_England_OPCS %}
+#### England hospitalization EHR: COVID-19 death 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_04_Fatal_with_covid_diagnosis_England_ICD10 %}
+
 ### Publication
 
 Understanding COVID-19 trajectories from a nationwide linked electronic health record cohort of 56 million people: phenotypes, severity, waves & vaccination
 
 Johan H Thygesen, Christopher Tomlinson, Sam Hollings, Mehrdad Mizani, Alex Handy, Ashley Akbari, Amitava Banerjee, Jennifer Cooper, Alvina Lai, Ken Li, Bilal Mateen, Naveed Sattar, Reecha Sofat, Ana Torralbo, Honghan Wu, Angela Wood, Jonathan A C Sterne, Christina Pagel, William Whiteley, Cathie Sudlow, Harry Hemingway, Spiros Denaxas
 
-medRxiv 2021.11.08.21265312; doi: https://doi.org/10.1101/2021.11.08.21265312
-
-### Primary care EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_01_GP_covid_diagnosis_England_SNOMEDCT %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_02_Covid_admission_England_ICD10 %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_03_ECMO_treatment_England_OPCS %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_03_IMV_treatment_England_OPCS %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_03_NIV_treatment_England_OPCS %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu01301_04_Fatal_with_covid_diagnosis_England_ICD10 %}
+medRxiv 2021.11.08.21265312; doi: [https://doi.org/10.1101/2021.11.08.21265312](https://doi.org/10.1101/2021.11.08.21265312)
