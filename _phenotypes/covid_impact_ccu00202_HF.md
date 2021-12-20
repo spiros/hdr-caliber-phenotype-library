@@ -13,7 +13,6 @@ data_sources:
     - Hospital Episode Statistics Admitted Patient Care
     - Secondary Uses Services Payment By Results
     - Civil Registration - Deaths
-    - Covid-19 Second Generation Surveillance System
 clinical_terminologies:
     - SNOMED-CT
     - ICD-10
@@ -52,14 +51,20 @@ version: Revision 1
 
 ---
 
+### Phenotypes
+
+Code type is set to 1 for incident events, and 0 for prevalent events.
+
+#### England primary care EHR: Heart failure diagnosis 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00202_HF_England_SNOMEDCT %}
+#### England hospitalization EHR: Heart failure diagnosis 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00202_HF_England_ICD10 %}
+
 ### Publication
 
 Association of COVID-19 vaccines ChAdOx1 and BNT162b2 with major venous, arterial, and thrombocytopenic events: whole population cohort study in 46 million adults in England
 
 CVD-COVID-UK consortium, William N Whiteley, Samantha Ip, Jennifer A Cooper, Thomas Bolton, Spencer Keene, Venexia Walker, Rachel Denholm, Ashley Akbari, Efosa Omigie, Sam Hollings, Emanuele Di Angelantonio, Spiros Denaxas, Angela Wood, Jonathan A C Sterne, Cathie Sudlow
 
-medRxiv 2021.08.18.21262222; doi: https://doi.org/10.1101/2021.08.18.21262222
-### Primary care EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00202_HF_England_SNOMEDCT %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00202_HF_England_ICD10 %}
+medRxiv 2021.08.18.21262222; doi: [https://doi.org/10.1101/2021.08.18.21262222](https://doi.org/10.1101/2021.08.18.21262222)
+
