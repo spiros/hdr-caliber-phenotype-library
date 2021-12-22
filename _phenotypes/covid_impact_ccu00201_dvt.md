@@ -75,25 +75,29 @@ version: Revision 1
 
 ---
 
+### Phenotypes
+
+#### England hospitalization EHR: DVT 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_DVT_DVT_England_ICD10 %}
+#### England hospitalization EHR: Cerebral venous thrombosis 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_DVT_ICVT_England_ICD10 %}
+#### England primary care EHR: Cerebral venous thrombosis (as covariate) 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_DVT_ICVT_covariate_only_England_SNOMEDCT %}
+#### England hospitalization EHR: DVT during pregnancy 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_DVT_pregnancy_England_ICD10 %}
+#### England hospitalization EHR: Cerebral venous thrombosis during pregnancy 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_ICVT_pregnancy_England_ICD10 %}
+#### England hospitalization EHR: Other deep vein thrombosis 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_other_DVT_England_ICD10 %}
+#### England hospitalization EHR: Venous thromboembolism (as covariate) 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_VT_covariate_only_England_ICD10 %}
+#### Wales primary care EHR: Cerebral venous thrombosis 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_DVT_ICVT_Wales_Read2 %}
+
+
 ### Publication
 
 Rochelle Knight, Venexia Walker, Samantha Ip, Jennifer A Cooper, Thomas Bolton, Spencer Keene, Rachel Denholm, Ashley Akbari, Hoda Abbasizanjani, Fatemeh Torabi, Efosa Omigie, Sam Hollings, Teri-Louise North, Renin Toms, Emanuele Di Angelantonio, Spiros Denaxas, Johan H Thygesen, Christopher Tomlinson, Ben Bray, Craig J Smith, Mark Barber, George Davey Smith, Nishi Chaturvedi, Cathie Sudlow, William N Whiteley, Angela Wood, Jonathan A C Sterne, for the CVD-COVID-UK/COVID-IMPACT consortium and the Longitudinal Health and Wellbeing COVID-19 National Core Study. Association of COVID-19 with arterial and venous vascular diseases: a population-wide cohort study of 48 million adults in England and Wales
 
-medRxiv 2021.11.22.21266512; doi: https://doi.org/10.1101/2021.11.22.21266512.
+medRxiv 2021.11.22.21266512; doi: [https://doi.org/10.1101/2021.11.22.21266512](https://doi.org/10.1101/2021.11.22.21266512)
 
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_DVT_DVT_England_ICD10 %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_DVT_ICVT_England_ICD10 %}
-### Primary care EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_DVT_ICVT_covariate_only_England_SNOMEDCT %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_DVT_pregnancy_England_ICD10 %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_ICVT_pregnancy_England_ICD10 %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_other_DVT_England_ICD10 %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_VT_covariate_only_England_ICD10 %}
-### Primary care EHR Wales
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_DVT_ICVT_Wales_Read2 %}

@@ -75,21 +75,25 @@ version: Revision 1
 
 ---
 
+### Phenotypes
+
+#### England hospitalization EHR: Hypertension diagnosis 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_hypertension_England_ICD10 %}
+#### England primary care EHR: Hypertension diagnosis 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_hypertension_England_SNOMEDCT %}
+#### England primary care EHR: Blood pressure lowering medication 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_bp_lowering_England_BNF %}
+#### England primary care EHR: Hypertension medication 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_hypertension_drugs_England_DMD %}
+#### England primary care EHR: Hypertension during pregnancy 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_hypertension_pregnancy_England_SNOMEDCT %}
+#### Wales primary care EHR: Hypertension diagnosis 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_HYPERTENSION_Wales_Read2 %}
+
+
 ### Publication
 
 Rochelle Knight, Venexia Walker, Samantha Ip, Jennifer A Cooper, Thomas Bolton, Spencer Keene, Rachel Denholm, Ashley Akbari, Hoda Abbasizanjani, Fatemeh Torabi, Efosa Omigie, Sam Hollings, Teri-Louise North, Renin Toms, Emanuele Di Angelantonio, Spiros Denaxas, Johan H Thygesen, Christopher Tomlinson, Ben Bray, Craig J Smith, Mark Barber, George Davey Smith, Nishi Chaturvedi, Cathie Sudlow, William N Whiteley, Angela Wood, Jonathan A C Sterne, for the CVD-COVID-UK/COVID-IMPACT consortium and the Longitudinal Health and Wellbeing COVID-19 National Core Study. Association of COVID-19 with arterial and venous vascular diseases: a population-wide cohort study of 48 million adults in England and Wales
 
-medRxiv 2021.11.22.21266512; doi: https://doi.org/10.1101/2021.11.22.21266512.
+medRxiv 2021.11.22.21266512; doi: [https://doi.org/10.1101/2021.11.22.21266512](https://doi.org/10.1101/2021.11.22.21266512)
 
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_hypertension_England_ICD10 %}
-### Primary care EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_hypertension_England_SNOMEDCT %}
-### Primary care EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_bp_lowering_England_BNF %}
-### Primary care EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_hypertension_drugs_England_DMD %}
-### Primary care EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_hypertension_pregnancy_England_SNOMEDCT %}
-### Primary care EHR Wales
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_HYPERTENSION_Wales_Read2 %}

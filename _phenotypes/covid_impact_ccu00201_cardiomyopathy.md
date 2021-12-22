@@ -1,7 +1,7 @@
 ---
 layout: phenotype
-title: CCU002_01 Sardiomyopathy
-name: CCU002_01 Sardiomyopathy
+title: CCU002_01 Cardiomyopathy
+name: CCU002_01 Cardiomyopathy
 phenotype_id: COVID-IMPACT
 type: Disease or Syndrome
 group: Disease or Syndrome
@@ -26,7 +26,7 @@ valid_event_data_range: 01/01/1997 - 07/12/2020
 codelists: 
     - covid_impact_ccu00201_cardiomyopathy_England_ICD10.csv
     - covid_impact_ccu00201_cardiomyopathy_England_SNOMEDCT.csv
-    - covid_impact_ccu00201_DVT_ICVT_Wales_Read2.csv
+    - covid_impact_ccu00201_CARDIOMYOPATHY_Wales_Read2.csv
 
 sex:
     - Female
@@ -70,15 +70,19 @@ version: Revision 1
 
 ---
 
+### Phenotypes
+
+#### England hospitalization EHR: Cardiomyopathy 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_cardiomyopathy_England_ICD10 %}
+#### England primary care EHR: Cardiomyopathy 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_cardiomyopathy_England_SNOMEDCT %}
+#### Wales primary care EHR: Cardiomyopathy 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_CARDIOMYOPATHY_Wales_Read2 %}
+
+
 ### Publication
 
 Rochelle Knight, Venexia Walker, Samantha Ip, Jennifer A Cooper, Thomas Bolton, Spencer Keene, Rachel Denholm, Ashley Akbari, Hoda Abbasizanjani, Fatemeh Torabi, Efosa Omigie, Sam Hollings, Teri-Louise North, Renin Toms, Emanuele Di Angelantonio, Spiros Denaxas, Johan H Thygesen, Christopher Tomlinson, Ben Bray, Craig J Smith, Mark Barber, George Davey Smith, Nishi Chaturvedi, Cathie Sudlow, William N Whiteley, Angela Wood, Jonathan A C Sterne, for the CVD-COVID-UK/COVID-IMPACT consortium and the Longitudinal Health and Wellbeing COVID-19 National Core Study. Association of COVID-19 with arterial and venous vascular diseases: a population-wide cohort study of 48 million adults in England and Wales
 
-medRxiv 2021.11.22.21266512; doi: https://doi.org/10.1101/2021.11.22.21266512.
+medRxiv 2021.11.22.21266512; doi: [https://doi.org/10.1101/2021.11.22.21266512](https://doi.org/10.1101/2021.11.22.21266512)
 
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_cardiomyopathy_England_ICD10 %}
-### Primary care EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_cardiomyopathy_England_SNOMEDCT %}
-### Primary care EHR Wales
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_DVT_ICVT_Wales_Read2 %}

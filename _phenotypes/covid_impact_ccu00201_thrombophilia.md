@@ -70,15 +70,19 @@ version: Revision 1
 
 ---
 
+### Phenotypes
+
+#### England primary care EHR: Thrombophilia 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_thrombophilia_England_SNOMEDCT %}
+#### England hospitalization EHR: Thrombophilia 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_thrombophilia_England_ICD10 %}
+#### Wales primary care EHR: Thrombophilia 
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_THROMBOPHILIA_Wales_Read2 %}
+
+
 ### Publication
 
 Rochelle Knight, Venexia Walker, Samantha Ip, Jennifer A Cooper, Thomas Bolton, Spencer Keene, Rachel Denholm, Ashley Akbari, Hoda Abbasizanjani, Fatemeh Torabi, Efosa Omigie, Sam Hollings, Teri-Louise North, Renin Toms, Emanuele Di Angelantonio, Spiros Denaxas, Johan H Thygesen, Christopher Tomlinson, Ben Bray, Craig J Smith, Mark Barber, George Davey Smith, Nishi Chaturvedi, Cathie Sudlow, William N Whiteley, Angela Wood, Jonathan A C Sterne, for the CVD-COVID-UK/COVID-IMPACT consortium and the Longitudinal Health and Wellbeing COVID-19 National Core Study. Association of COVID-19 with arterial and venous vascular diseases: a population-wide cohort study of 48 million adults in England and Wales
 
-medRxiv 2021.11.22.21266512; doi: https://doi.org/10.1101/2021.11.22.21266512.
+medRxiv 2021.11.22.21266512; doi: [https://doi.org/10.1101/2021.11.22.21266512](https://doi.org/10.1101/2021.11.22.21266512)
 
-### Primary care EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_thrombophilia_England_SNOMEDCT %}
-### Hospitalization EHR England
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_thrombophilia_England_ICD10 %}
-### Primary care EHR Wales
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu00201_THROMBOPHILIA_Wales_Read2 %}
