@@ -1,132 +1,132 @@
-terminology,code,term,code_type
-BNF,0212000ABAAAAAA,Eicosapentaenoic acid 460mg/Docosahexaenoic acid 380mg caps,
-BNF,0212000Y0AAALAL,Simvastatin 40mg/5ml oral suspension sugar free,
-BNF,0212000ALAAAAAA,Bempedoic acid 180mg / Ezetimibe 10mg tablets,
-BNF,0212000B0BBAAAA,Lipitor 10mg tablets,
-BNF,0212000AHAAABAB,Evolocumab 140mg/1ml inj pre-filled syringes,
-BNF,0212000ACAAACAC,Simvastatin 80mg / Ezetimibe 10mg tablets,
-BNF,0212000ACAAAAAA,Simvastatin 20mg / Ezetimibe 10mg tablets,
-BNF,0212000F0AAAEAE,Colestyramine 4g oral powder sachets sugar free,
-BNF,0212000B0AAAMAM,Atorvastatin 20mg chewable tablets sugar free,
-BNF,0212000ACAAABAB,Simvastatin 40mg / Ezetimibe 10mg tablets,
-BNF,0212000D0BBAAAA,Bezalip 200mg tablets,
-BNF,0212000AHAAAAAA,Evolocumab 140mg/1ml inj pre-filled disposable devices,
-BNF,0212000AIBBABAB,Praluent 150mg/1ml solution for injection pre-filled pens,
-BNF,0212000B0AAAFAF,Atorvastatin 20mg/5ml oral solution,
-BNF,0212000F0BBAAAB,Questran 4g oral powder sachets,
-BNF,0212000Y0AAAKAK,Simvastatin 20mg/5ml oral suspension sugar free,
-BNF,0212000AIAAAAAA,Alirocumab 75mg/1ml inj pre-filled disposable devices,
-BNF,0212000K0BBABAA,Colestid Orange 5g granules sachets,
-BNF,0212000M0BGAAAD,Nandovar XL 80mg tablets,
-BNF,0212000ABBIAAAA,G & G Omega 3 1000mg softgels capsules,
-BNF,0212000D0AAABAB,Bezafibrate 400mg modified-release tablets,
-BNF,0212000Q0BBABAB,Lopid 600mg tablets,
-BNF,0212000P0AAABAB,Fenofibrate micronised 200mg capsules,
-BNF,0212000P0AAAFAF,Fenofibrate 200mg capsules,
-BNF,0212000M0BCAAAD,Luvinsta XL 80mg tablets,
-BNF,0212000P0BBABAB,Lipantil Micro 200 capsules,
-BNF,0212000P0BBADAD,Lipantil Micro 267 capsules,
-BNF,0212000B0AAAPAP,Atorvastatin 60mg tablets,
-BNF,0212000AAAAABAB,Rosuvastatin 20mg tablets,
-BNF,0212000AAAAACAC,Rosuvastatin 40mg tablets,
-BNF,0212000AGAAAAAA,Policosanol 10mg capsules,
-BNF,0212000X0AAAKAK,Pravastatin 5mg/5ml oral liquid,
-BNF,0212000X0BBACAD,Lipostat 40mg tablets,
-BNF,0212000M0AAADAD,Fluvastatin 80mg modified-release tablets,
-BNF,0212000ABBHAAAA,Dualtis 1000mg capsules,
-BNF,0212000Y0BBAEAA,Zocor Heart-Pro 10mg tablets,
-BNF,0212000B0AAAAAA,Atorvastatin 10mg tablets,
-BNF,0212000Y0BBAAAA,Zocor 10mg tablets,
-BNF,0212000U0AAAVAV,Nicotinic acid 500mg modified-release tablets,
-BNF,0212000M0BBABAB,Lescol 40mg capsules,
-BNF,0212000D0AAACAC,Bezafibrate 200mg/5ml oral suspension,
-BNF,0212000M0AAABAB,Fluvastatin 40mg capsules,
-BNF,0212000D0AAAAAA,Bezafibrate 200mg tablets,
-BNF,0212000B0AAADAD,Atorvastatin 80mg tablets,
-BNF,0212000P0AAAEAE,Fenofibrate micronised 160mg tablets,
-BNF,0212000AAAAAAAA,Rosuvastatin 10mg tablets,
-BNF,0212000K0AAACAC,Colestipol 1g tablets,
-BNF,0212000K0AAAAAA,Colestipol 5g granules sachets sugar free,
-BNF,0212000P0BBACAC,Lipantil Micro 67 capsules,
-BNF,0212000ALBBAAAA,Nustendi 180mg/10mg tablets,
-BNF,021200010AAAAAA,Ciprofibrate 100mg tablets,
-BNF,0212000B0AAAGAG,Atorvastatin 40mg/5ml oral liquid,
-BNF,0212000D0BFAAAB,Fibrazate XL 400mg tablets,
-BNF,0212000Q0AAAAAA,Gemfibrozil 300mg capsules,
-BNF,0212000ADAAAAAA,Colesevelam 625mg tablets,
-BNF,0212000X0AAABAB,Pravastatin 20mg tablets,
-BNF,0212000Q0AAABAB,Gemfibrozil 600mg tablets,
-BNF,0212000X0AAADAD,Pravastatin 40mg tablets,
-BNF,0212000Y0AAADAD,Simvastatin 40mg tablets,
-BNF,0212000AAAAADAD,Rosuvastatin 5mg tablets,
-BNF,0212000Y0AAABAB,Simvastatin 20mg tablets,
-BNF,0212000ABBCAAAA,Teromeg 1000mg capsules,
-BNF,0212000ABBJAAAA,AceOmeg 1000mg capsules,
-BNF,0212000P0BDAAAF,Fenogal 200mg capsules,
-BNF,0212000B0AAABAB,Atorvastatin 20mg tablets,
-BNF,0212000B0AAACAC,Atorvastatin 40mg tablets,
-BNF,0212000M0AAAAAA,Fluvastatin 20mg capsules,
-BNF,0212000Y0AAAAAA,Simvastatin 10mg tablets,
-BNF,0212000X0AAAAAA,Pravastatin 10mg tablets,
-BNF,0212000A0AAAAAA,Acipimox 250mg capsules,
-BNF,0212000M0BBACAD,Lescol XL 80mg tablets,
-BNF,0212000ABBDAAAA,Prestylon 1g capsules,
-BNF,0212000AABBAAAA,Crestor 10mg tablets,
-BNF,0212000V0BBABAB,MaxEPA 1g capsules,
-BNF,0212000ABBFAAAA,Nebbaro 1000mg capsules,
-BNF,0212000M0BEAAAD,Dorisin XL 80mg tablets,
-BNF,0212000ACBBACAC,Inegy 10mg/80mg tablets,
-BNF,0212000L0AAAAAA,Ezetimibe 10mg tablets,
-BNF,0212000Y0BDACAD,Simvador 40mg tablets,
-BNF,021200010BBAAAA,Modalim 100mg tablets,
-BNF,0212000Y0BDADAH,Simvador 80mg tablets,
-BNF,0212000Y0BDAAAA,Simvador 10mg tablets,
-BNF,0212000B0BBADAD,Lipitor 80mg tablets,
-BNF,0212000B0BBABAB,Lipitor 20mg tablets,
-BNF,0212000B0BBACAC,Lipitor 40mg tablets,
-BNF,0212000AABBABAB,Crestor 20mg tablets,
-BNF,0212000Y0BBACAD,Zocor 40mg tablets,
-BNF,0212000AABBACAC,Crestor 40mg tablets,
-BNF,0212000V0AAABAB,Eicosapentaenoic acid 170mg/Docosahexaenoic acid 115mg caps,
-BNF,0212000AIBBAAAA,Praluent 75mg/1ml solution for injection pre-filled pens,
-BNF,0212000AHBBAAAA,Repatha SureClick 140mg/1ml inj pre-filled pens,
-BNF,0212000F0AAABAB,Colestyramine 4g oral powder sachets,
-BNF,0212000ABBEAAAA,Omega 3-acid-ethyl esters 1000mg capsules,
-BNF,0212000K0BBAAAA,Colestid 5g granules sachets plain,
-BNF,0212000AJBBAAAA,Cholib 145mg/20mg tablets,
-BNF,0212000P0AAADAD,Fenofibrate micronised 267mg capsules,
-BNF,0212000D0BBABAB,Bezalip Mono 400mg modified-release tablets,
-BNF,0212000AJAAAAAA,Fenofibrate 145mg / Simvastatin 20mg tablets,
-BNF,0212000B0AAAIAI,Atorvastatin 80mg/5ml oral suspension,
-BNF,0212000F0BBACAE,Questran Light 4g oral powder sachets,
-BNF,0212000ACBBABAB,Inegy 10mg/40mg tablets,
-BNF,0212000AIAAABAB,Alirocumab 150mg/1ml inj pre-filled disposable devices,
-BNF,0212000P0AAACAC,Fenofibrate micronised 67mg capsules,
-BNF,0212000B0AAAQAQ,Atorvastatin 20mg/5ml oral suspension,
-BNF,0212000B0AAALAL,Atorvastatin 10mg chewable tablets sugar free,
-BNF,0212000B0AAAHAH,Atorvastatin 10mg/5ml oral liquid,
-BNF,0212000B0BBAEAL,Lipitor 10mg chewable tablets,
-BNF,0212000ADBBAAAA,Cholestagel 625mg tablets,
-BNF,0212000B0AAANAN,Atorvastatin 30mg tablets,
-BNF,0212000AABBADAD,Crestor 5mg tablets,
-BNF,0212000A0BBAAAA,Olbetam 250mg capsules,
-BNF,0212000ABBBAAAA,Omacor capsules,
-BNF,0212000AKAAAAAA,Bempedoic acid 180mg tablets,
-BNF,0212000X0BBABAB,Lipostat 20mg tablets,
-BNF,0212000M0BBAAAA,Lescol 20mg capsules,
-BNF,0212000Q0BBAAAA,Lopid 300mg capsules,
-BNF,0212000Y0BBADAH,Zocor 80mg tablets,
-BNF,0212000Y0BBABAB,Zocor 20mg tablets,
-BNF,0212000AHBBABAB,Repatha 140mg/1ml solution for injection pre-filled syringes,
-BNF,0212000K0BBACAC,Colestid 1g tablets,
-BNF,0212000X0AAAHAH,Pravastatin 40mg/5ml oral liquid,
-BNF,0212000AJAAABAB,Fenofibrate 145mg / Simvastatin 40mg tablets,
-BNF,0212000U0AAABAB,Nicotinic acid 50mg tablets,
-BNF,0212000B0BBAFAM,Lipitor 20mg chewable tablets,
-BNF,0212000AKBBAAAA,Nilemdo 180mg tablets,
-BNF,0212000Y0AAAHAH,Simvastatin 80mg tablets,
-BNF,0212000ACBBAAAA,Inegy 10mg/20mg tablets,
-BNF,0212000ABBGAAAA,Omega 3 1000mg capsules,
-BNF,0212000P0BCAAAE,Supralip 160mg tablets,
-BNF,0212000Y0BDABAB,Simvador 20mg tablets,
-BNF,0212000L0BBAAAA,Ezetrol 10mg tablets,
+terminology,code,term
+BNF,0212000ABAAAAAA,Eicosapentaenoic acid 460mg/Docosahexaenoic acid 380mg caps
+BNF,0212000Y0AAALAL,Simvastatin 40mg/5ml oral suspension sugar free
+BNF,0212000ALAAAAAA,Bempedoic acid 180mg / Ezetimibe 10mg tablets
+BNF,0212000B0BBAAAA,Lipitor 10mg tablets
+BNF,0212000AHAAABAB,Evolocumab 140mg/1ml inj pre-filled syringes
+BNF,0212000ACAAACAC,Simvastatin 80mg / Ezetimibe 10mg tablets
+BNF,0212000ACAAAAAA,Simvastatin 20mg / Ezetimibe 10mg tablets
+BNF,0212000F0AAAEAE,Colestyramine 4g oral powder sachets sugar free
+BNF,0212000B0AAAMAM,Atorvastatin 20mg chewable tablets sugar free
+BNF,0212000ACAAABAB,Simvastatin 40mg / Ezetimibe 10mg tablets
+BNF,0212000D0BBAAAA,Bezalip 200mg tablets
+BNF,0212000AHAAAAAA,Evolocumab 140mg/1ml inj pre-filled disposable devices
+BNF,0212000AIBBABAB,Praluent 150mg/1ml solution for injection pre-filled pens
+BNF,0212000B0AAAFAF,Atorvastatin 20mg/5ml oral solution
+BNF,0212000F0BBAAAB,Questran 4g oral powder sachets
+BNF,0212000Y0AAAKAK,Simvastatin 20mg/5ml oral suspension sugar free
+BNF,0212000AIAAAAAA,Alirocumab 75mg/1ml inj pre-filled disposable devices
+BNF,0212000K0BBABAA,Colestid Orange 5g granules sachets
+BNF,0212000M0BGAAAD,Nandovar XL 80mg tablets
+BNF,0212000ABBIAAAA,G & G Omega 3 1000mg softgels capsules
+BNF,0212000D0AAABAB,Bezafibrate 400mg modified-release tablets
+BNF,0212000Q0BBABAB,Lopid 600mg tablets
+BNF,0212000P0AAABAB,Fenofibrate micronised 200mg capsules
+BNF,0212000P0AAAFAF,Fenofibrate 200mg capsules
+BNF,0212000M0BCAAAD,Luvinsta XL 80mg tablets
+BNF,0212000P0BBABAB,Lipantil Micro 200 capsules
+BNF,0212000P0BBADAD,Lipantil Micro 267 capsules
+BNF,0212000B0AAAPAP,Atorvastatin 60mg tablets
+BNF,0212000AAAAABAB,Rosuvastatin 20mg tablets
+BNF,0212000AAAAACAC,Rosuvastatin 40mg tablets
+BNF,0212000AGAAAAAA,Policosanol 10mg capsules
+BNF,0212000X0AAAKAK,Pravastatin 5mg/5ml oral liquid
+BNF,0212000X0BBACAD,Lipostat 40mg tablets
+BNF,0212000M0AAADAD,Fluvastatin 80mg modified-release tablets
+BNF,0212000ABBHAAAA,Dualtis 1000mg capsules
+BNF,0212000Y0BBAEAA,Zocor Heart-Pro 10mg tablets
+BNF,0212000B0AAAAAA,Atorvastatin 10mg tablets
+BNF,0212000Y0BBAAAA,Zocor 10mg tablets
+BNF,0212000U0AAAVAV,Nicotinic acid 500mg modified-release tablets
+BNF,0212000M0BBABAB,Lescol 40mg capsules
+BNF,0212000D0AAACAC,Bezafibrate 200mg/5ml oral suspension
+BNF,0212000M0AAABAB,Fluvastatin 40mg capsules
+BNF,0212000D0AAAAAA,Bezafibrate 200mg tablets
+BNF,0212000B0AAADAD,Atorvastatin 80mg tablets
+BNF,0212000P0AAAEAE,Fenofibrate micronised 160mg tablets
+BNF,0212000AAAAAAAA,Rosuvastatin 10mg tablets
+BNF,0212000K0AAACAC,Colestipol 1g tablets
+BNF,0212000K0AAAAAA,Colestipol 5g granules sachets sugar free
+BNF,0212000P0BBACAC,Lipantil Micro 67 capsules
+BNF,0212000ALBBAAAA,Nustendi 180mg/10mg tablets
+BNF,021200010AAAAAA,Ciprofibrate 100mg tablets
+BNF,0212000B0AAAGAG,Atorvastatin 40mg/5ml oral liquid
+BNF,0212000D0BFAAAB,Fibrazate XL 400mg tablets
+BNF,0212000Q0AAAAAA,Gemfibrozil 300mg capsules
+BNF,0212000ADAAAAAA,Colesevelam 625mg tablets
+BNF,0212000X0AAABAB,Pravastatin 20mg tablets
+BNF,0212000Q0AAABAB,Gemfibrozil 600mg tablets
+BNF,0212000X0AAADAD,Pravastatin 40mg tablets
+BNF,0212000Y0AAADAD,Simvastatin 40mg tablets
+BNF,0212000AAAAADAD,Rosuvastatin 5mg tablets
+BNF,0212000Y0AAABAB,Simvastatin 20mg tablets
+BNF,0212000ABBCAAAA,Teromeg 1000mg capsules
+BNF,0212000ABBJAAAA,AceOmeg 1000mg capsules
+BNF,0212000P0BDAAAF,Fenogal 200mg capsules
+BNF,0212000B0AAABAB,Atorvastatin 20mg tablets
+BNF,0212000B0AAACAC,Atorvastatin 40mg tablets
+BNF,0212000M0AAAAAA,Fluvastatin 20mg capsules
+BNF,0212000Y0AAAAAA,Simvastatin 10mg tablets
+BNF,0212000X0AAAAAA,Pravastatin 10mg tablets
+BNF,0212000A0AAAAAA,Acipimox 250mg capsules
+BNF,0212000M0BBACAD,Lescol XL 80mg tablets
+BNF,0212000ABBDAAAA,Prestylon 1g capsules
+BNF,0212000AABBAAAA,Crestor 10mg tablets
+BNF,0212000V0BBABAB,MaxEPA 1g capsules
+BNF,0212000ABBFAAAA,Nebbaro 1000mg capsules
+BNF,0212000M0BEAAAD,Dorisin XL 80mg tablets
+BNF,0212000ACBBACAC,Inegy 10mg/80mg tablets
+BNF,0212000L0AAAAAA,Ezetimibe 10mg tablets
+BNF,0212000Y0BDACAD,Simvador 40mg tablets
+BNF,021200010BBAAAA,Modalim 100mg tablets
+BNF,0212000Y0BDADAH,Simvador 80mg tablets
+BNF,0212000Y0BDAAAA,Simvador 10mg tablets
+BNF,0212000B0BBADAD,Lipitor 80mg tablets
+BNF,0212000B0BBABAB,Lipitor 20mg tablets
+BNF,0212000B0BBACAC,Lipitor 40mg tablets
+BNF,0212000AABBABAB,Crestor 20mg tablets
+BNF,0212000Y0BBACAD,Zocor 40mg tablets
+BNF,0212000AABBACAC,Crestor 40mg tablets
+BNF,0212000V0AAABAB,Eicosapentaenoic acid 170mg/Docosahexaenoic acid 115mg caps
+BNF,0212000AIBBAAAA,Praluent 75mg/1ml solution for injection pre-filled pens
+BNF,0212000AHBBAAAA,Repatha SureClick 140mg/1ml inj pre-filled pens
+BNF,0212000F0AAABAB,Colestyramine 4g oral powder sachets
+BNF,0212000ABBEAAAA,Omega 3-acid-ethyl esters 1000mg capsules
+BNF,0212000K0BBAAAA,Colestid 5g granules sachets plain
+BNF,0212000AJBBAAAA,Cholib 145mg/20mg tablets
+BNF,0212000P0AAADAD,Fenofibrate micronised 267mg capsules
+BNF,0212000D0BBABAB,Bezalip Mono 400mg modified-release tablets
+BNF,0212000AJAAAAAA,Fenofibrate 145mg / Simvastatin 20mg tablets
+BNF,0212000B0AAAIAI,Atorvastatin 80mg/5ml oral suspension
+BNF,0212000F0BBACAE,Questran Light 4g oral powder sachets
+BNF,0212000ACBBABAB,Inegy 10mg/40mg tablets
+BNF,0212000AIAAABAB,Alirocumab 150mg/1ml inj pre-filled disposable devices
+BNF,0212000P0AAACAC,Fenofibrate micronised 67mg capsules
+BNF,0212000B0AAAQAQ,Atorvastatin 20mg/5ml oral suspension
+BNF,0212000B0AAALAL,Atorvastatin 10mg chewable tablets sugar free
+BNF,0212000B0AAAHAH,Atorvastatin 10mg/5ml oral liquid
+BNF,0212000B0BBAEAL,Lipitor 10mg chewable tablets
+BNF,0212000ADBBAAAA,Cholestagel 625mg tablets
+BNF,0212000B0AAANAN,Atorvastatin 30mg tablets
+BNF,0212000AABBADAD,Crestor 5mg tablets
+BNF,0212000A0BBAAAA,Olbetam 250mg capsules
+BNF,0212000ABBBAAAA,Omacor capsules
+BNF,0212000AKAAAAAA,Bempedoic acid 180mg tablets
+BNF,0212000X0BBABAB,Lipostat 20mg tablets
+BNF,0212000M0BBAAAA,Lescol 20mg capsules
+BNF,0212000Q0BBAAAA,Lopid 300mg capsules
+BNF,0212000Y0BBADAH,Zocor 80mg tablets
+BNF,0212000Y0BBABAB,Zocor 20mg tablets
+BNF,0212000AHBBABAB,Repatha 140mg/1ml solution for injection pre-filled syringes
+BNF,0212000K0BBACAC,Colestid 1g tablets
+BNF,0212000X0AAAHAH,Pravastatin 40mg/5ml oral liquid
+BNF,0212000AJAAABAB,Fenofibrate 145mg / Simvastatin 40mg tablets
+BNF,0212000U0AAABAB,Nicotinic acid 50mg tablets
+BNF,0212000B0BBAFAM,Lipitor 20mg chewable tablets
+BNF,0212000AKBBAAAA,Nilemdo 180mg tablets
+BNF,0212000Y0AAAHAH,Simvastatin 80mg tablets
+BNF,0212000ACBBAAAA,Inegy 10mg/20mg tablets
+BNF,0212000ABBGAAAA,Omega 3 1000mg capsules
+BNF,0212000P0BCAAAE,Supralip 160mg tablets
+BNF,0212000Y0BDABAB,Simvador 20mg tablets
+BNF,0212000L0BBAAAA,Ezetrol 10mg tablets
