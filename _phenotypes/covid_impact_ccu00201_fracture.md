@@ -14,9 +14,7 @@ data_sources:
     - Secondary Uses Services Payment By Results
     - Civil Registration - Deaths
     - Covid-19 Second Generation Surveillance System
-    - COVID-19 Test Results (PATD)
-    - Patient Episode Dataset for Wales (PEDW)
-    - Welsh Longitudinal GP Dataset - Welsh Primary Care (WLGP)
+
 clinical_terminologies:
     - ICD-10
 
