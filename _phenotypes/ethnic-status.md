@@ -11,12 +11,18 @@ data_sources:
 validation: aetiology, prognosis
 codelists:
     - caliber_ethnic_status_PMD762GQ76BscDn5YK3Mwe_Read2.csv
+    - opensafely-ethnicity-2020-04-27_CTV3.csv
+    - nhs_ethnic_category_DMD.csv
+    - ethnicity_SNOMEDCT.csv
 clinical_terminologies: 
     - Read Version 2
+    - Read version 3 (CTV3)
+    - NHS Data Model and Dictionary
+    - SNOMED CT
 sex: 
     - Female
     - Male
-author: Julie George, Rohini Mathur, Anoop Dinesh Shah, Mar Pujades-Rodriguez, Spiros Denaxas, Liam Smeeth, Adam Timmis, Harry Hemingway
+author: Julie George, Rohini Mathur, Anoop Dinesh Shah, Mar Pujades-Rodriguez, Spiros Denaxas, Liam Smeeth, Adam Timmis, Harry Hemingway, Ieva Lipsa, Alex J Walker, Brian MacKenna, Susheel Varma
 status: DRAFT
 date: 2012-11-23
 modified_date: 2012-11-23
@@ -25,45 +31,22 @@ version: Revision 2
 
 ### Primary Care
 
+#### Read Codes (version 2)
 {% include csv.html csvdata=site.data.codelists.caliber_ethnic_status_PMD762GQ76BscDn5YK3Mwe_Read2 %}
+
+#### Read Codes (version 3) - (CTV3)
+{% include csv.html csvdata=site.data.codelists.opensafely-ethnicity-2020-04-27_CTV3 %}
 
 ### Secondary Care
 
-<div id="secondarycare" class="tab-pane active">
-                  
-Ethnicity information was recorded in the HES <i>patient</i> table which uses the <a href="https://www.datadictionary.nhs.uk/data_dictionary/attributes/e/end/ethnic_category_code_de.asp?shownav=0">2001 census categorization</a>. 
+Ethnicity information was recorded in the HES <i>patient</i> table which uses the <a href="https://datadictionary.nhs.uk/data_elements/ethnic_category.html">2001 census categorization</a>. 
 
-<br>
 
-<pre>White
-A	British
-B	Irish
-C	Any other White background
- 
-Mixed
-D	White and Black Caribbean
-E	White and Black African
-F	White and Asian
-G	Any other mixed background
- 
-Asian or Asian British
-H	Indian
-J	Pakistani
-K	Bangladeshi
-L	Any other Asian background
- 
-Black or Black British
-M	Caribbean
-N	African
-P	Any other Black background
- 
-Other Ethnic Groups
-R	Chinese
-S	Any other ethnic group
- 
-Z	Not stated
-</pre>
-           </div>
+{% include csv.html csvdata=site.data.codelists.nhs_ethnic_category_DMD %}
+
+#### SNOMED CT
+
+{% include csv.html csvdata=site.data.codelists.ethnicity_SNOMEDCT %}
 
 ### Implementation
 
@@ -77,16 +60,16 @@ Patients were categorised as White, South Asian, Black, or Other/Mixed ethnic gr
     <figcaption>Flow chart diagram illustrating the CALIBER phenotype algorithm for ethnicity </figcaption>
 </figure>
 
-
-
-            </div>
+</div>
 
 
 ### Publications
 
 <div id="publications" class="tab-pane active">
-                  
-<pre>Gho JMIH et al. An electronic health records cohort study on heart failure following myocardial infarction in England: incidence and predictors. BMJ Open. 2018 Mar 3;8(3):e018331. doi: 10.1136/bmjopen-2017-018331. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29502083">29502083</a>
+
+<pre>Mathur R, Bhaskaran K, Chaturvedi N, Leon DA, vanStaa T, Grundy E, Smeeth L. Completeness and usability of ethnicity data in UK-based primary care and hospital databases. J Public Health (Oxf). 2014 Dec;36(4):684-92. doi: <a href="https://doi.org/10.1093/pubmed/fdt116">10.1093/pubmed/fdt116</a>. Epub 2013 Dec 8. PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/24323951/">24323951</a>; PMCID: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/pmc4245896/">PMC4245896</a>.              
+
+Gho JMIH et al. An electronic health records cohort study on heart failure following myocardial infarction in England: incidence and predictors. BMJ Open. 2018 Mar 3;8(3):e018331. doi: 10.1136/bmjopen-2017-018331. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29502083">29502083</a>
 
 
 Steele AJ et al. Machine learning models in electronic health records can outperform conventional survival models for predicting patient mortality in coronary artery disease. PLoS One. 2018 Aug 31;13(8):e0202344. doi: 10.1371/journal.pone.0202344. eCollection 2018. PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/30169498">30169498</a>
