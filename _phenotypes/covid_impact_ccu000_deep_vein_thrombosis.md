@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU000 Deep Vein Thrombosis (dvt)
 name: CCU000 Deep Vein Thrombosis (dvt)
-phenotype_id: COVID-IMPACT
+phenotype_id: fvf5U7kDUGQy86QxHmdyPS
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

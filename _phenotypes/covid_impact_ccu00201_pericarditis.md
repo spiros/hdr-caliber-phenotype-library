@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Pericarditis
 name: CCU002_01 Pericarditis
-phenotype_id: COVID-IMPACT
+phenotype_id: fJxg3fYjYHVR2uwuwBT7nS
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

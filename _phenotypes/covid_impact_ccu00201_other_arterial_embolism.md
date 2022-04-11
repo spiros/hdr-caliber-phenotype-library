@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Other arterial embolism and thrombosis
 name: CCU002_01 Other arterial embolism and thrombosis
-phenotype_id: COVID-IMPACT
+phenotype_id: AuSSF8zgfLPGafEbFS8YDN
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

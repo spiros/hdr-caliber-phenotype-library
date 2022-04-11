@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Heart failure
 name: CCU002_01 Heart failure
-phenotype_id: COVID-IMPACT
+phenotype_id: eH5XRyLwd9U9JABNbzf8J4
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

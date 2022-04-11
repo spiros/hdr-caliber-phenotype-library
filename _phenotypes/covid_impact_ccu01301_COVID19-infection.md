@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU013_01 COVID-19 infection
 name: CCU013_01 COVID-19 infection
-phenotype_id: COVID-IMPACT
+phenotype_id: AxcNj8ncFxkUraPBzcLwnk
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

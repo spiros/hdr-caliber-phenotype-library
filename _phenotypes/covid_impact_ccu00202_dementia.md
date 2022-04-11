@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Dementia
 name: CCU002_02 Dementia
-phenotype_id: COVID-IMPACT
+phenotype_id: Skxqa9nPdVMJU3RGSKWeHv
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU000 COVID-19
 name: CCU000 COVID-19
-phenotype_id: COVID-IMPACT
+phenotype_id: GdzwkJQd7BeC8RQ5aX6c3e
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

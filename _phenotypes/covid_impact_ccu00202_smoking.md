@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Smoking status
 name: CCU002_02 Smoking status
-phenotype_id: COVID-IMPACT
+phenotype_id: 2ESgZr6T6fcVqZiuqHJANT
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Deep vein thrombosis, intracranial venous thrombosis
 name: CCU002_01 Deep vein thrombosis, intracranial venous thrombosis
-phenotype_id: COVID-IMPACT
+phenotype_id: 8xYWaSujLHVBCsrgZQXnCE
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

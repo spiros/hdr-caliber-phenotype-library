@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Lipid lowering medication
 name: CCU002_02 Lipid lowering medication
-phenotype_id: COVID-IMPACT
+phenotype_id: KeEJBF8VR2gUTVaRJwjNqX
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

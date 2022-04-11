@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Pulmonary Embolism (PE)
 name: CCU002_02 Pulmonary Embolism (PE)
-phenotype_id: COVID-IMPACT
+phenotype_id: GaFmQ7F9ZZTaHhUQ3Axf7v
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

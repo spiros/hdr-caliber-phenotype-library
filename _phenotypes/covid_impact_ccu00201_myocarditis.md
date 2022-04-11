@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Myocarditis
 name: CCU002_01 Myocarditis
-phenotype_id: COVID-IMPACT
+phenotype_id: dRjrF55oFqSZcpyemhijES
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

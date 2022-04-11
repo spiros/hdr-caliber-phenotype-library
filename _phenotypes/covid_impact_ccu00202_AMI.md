@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Acute Myocardial Infarction (AMI)
 name: CCU002_02 Acute Myocardial Infarction (AMI)
-phenotype_id: COVID-IMPACT
+phenotype_id: m4dgeHbYTHCXKJbzJ2qWwf
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

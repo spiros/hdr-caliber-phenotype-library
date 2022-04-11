@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Acute myocardial infarction
 name: CCU002_01 Acute myocardial infarction
-phenotype_id: COVID-IMPACT
+phenotype_id: eT9wjPTGxbjHH8uHdAoxF9
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

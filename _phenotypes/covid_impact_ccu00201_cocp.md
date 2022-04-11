@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Contraceptive medication
 name: CCU002_01 Contraceptive medication
-phenotype_id: COVID-IMPACT
+phenotype_id: PEKRoEWpQ2ncjqWYqQa5cf
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

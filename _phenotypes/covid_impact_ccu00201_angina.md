@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Angina
 name: CCU002_01 Angina
-phenotype_id: COVID-IMPACT
+phenotype_id: iLSq6brn3paXdb5mbxd3CM
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

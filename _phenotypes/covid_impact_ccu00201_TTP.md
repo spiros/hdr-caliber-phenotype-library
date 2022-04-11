@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Thrombotic microangiopathy
 name: CCU002_01 Thrombotic microangiopathy
-phenotype_id: COVID-IMPACT
+phenotype_id: FB4zBxxsMrzRBJXVMFskZi
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Thrombocytopenia
 name: CCU002_01 Thrombocytopenia
-phenotype_id: COVID-IMPACT
+phenotype_id: 95vpCQMJ7ECKPYeaxP2v2t
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

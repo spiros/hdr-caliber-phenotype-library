@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Obesity, body mass index (BMI)
 name: CCU002_02 Obesity, body mass index (BMI)
-phenotype_id: COVID-IMPACT
+phenotype_id: F2B6EponVXTMcnxonKvu4h
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

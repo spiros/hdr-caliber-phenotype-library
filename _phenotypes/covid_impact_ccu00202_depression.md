@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Depression
 name: CCU002_02 Depression
-phenotype_id: COVID-IMPACT
+phenotype_id: WLdXJiEbQHtafJAFgv2C9V
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Confirmed COVID-19 diagnoses
 name: CCU002_01 Confirmed COVID-19 diagnoses
-phenotype_id: COVID-IMPACT
+phenotype_id: nrzT33aixQofaj7X9kDPNU
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

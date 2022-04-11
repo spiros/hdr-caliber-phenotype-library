@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Portal vein thrombosis
 name: CCU002_01 Portal vein thrombosis
-phenotype_id: COVID-IMPACT
+phenotype_id: NnrP5jBGMRqHUjKH38qHs3
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

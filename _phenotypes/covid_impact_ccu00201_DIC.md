@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Disseminated intravascular coagulation
 name: CCU002_01 Disseminated intravascular coagulation
-phenotype_id: COVID-IMPACT
+phenotype_id: FuwadZ7YgrgoByHEZwkj9v
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

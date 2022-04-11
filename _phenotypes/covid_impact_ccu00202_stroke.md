@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Stroke
 name: CCU002_02 Stroke
-phenotype_id: COVID-IMPACT
+phenotype_id: An9AJ7yPqzvcdtG3MygLzp
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

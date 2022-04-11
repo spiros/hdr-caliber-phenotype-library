@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Atrial Fibrillation (AF)
 name: CCU002_02 Atrial Fibrillation (AF)
-phenotype_id: COVID-IMPACT
+phenotype_id: XRGFmpoCpHW9PbMZC2seVg
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

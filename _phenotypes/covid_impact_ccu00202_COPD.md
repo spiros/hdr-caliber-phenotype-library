@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Chronic obstructive pulmonary disease (COPD)
 name: CCU002_02 Chronic obstructive pulmonary disease (COPD)
-phenotype_id: COVID-IMPACT
+phenotype_id: my8NMxk8hVvzLYGiyUbBzo
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Diabetes and diabates medication
 name: CCU002_01 Diabetes and diabates medication
-phenotype_id: COVID-IMPACT
+phenotype_id: 5jKMYmP7CX5G6VV3WL3FGt
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Chronic Kidney Disease (CKD)
 name: CCU002_02 Chronic Kidney Disease (CKD)
-phenotype_id: COVID-IMPACT
+phenotype_id: Bp4eDHDzcwu5HHkwim7n5Z
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

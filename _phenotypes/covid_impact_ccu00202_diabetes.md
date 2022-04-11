@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Diabetes
 name: CCU002_02 Diabetes
-phenotype_id: COVID-IMPACT
+phenotype_id: KtNAmzv5zmbHoCYrQZSxRb
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

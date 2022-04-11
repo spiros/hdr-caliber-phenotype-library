@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Cancer
 name: CCU002_01 Cancer
-phenotype_id: COVID-IMPACT
+phenotype_id: jTyUSQ6GmyGeGSuoytx7Vk
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

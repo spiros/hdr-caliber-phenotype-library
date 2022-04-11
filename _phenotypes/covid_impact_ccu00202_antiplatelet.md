@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Antiplatelet medication
 name: CCU002_02 Antiplatelet medication
-phenotype_id: COVID-IMPACT
+phenotype_id: PtiJAmdNudBcgwLSsf6YhK
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

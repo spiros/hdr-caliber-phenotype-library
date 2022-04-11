@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Hormone replacement therapy (HRT)
 name: CCU002_01 Hormone replacement therapy (HRT)
-phenotype_id: COVID-IMPACT
+phenotype_id: FdLWZfq6tvNPsrcwFLxztm
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

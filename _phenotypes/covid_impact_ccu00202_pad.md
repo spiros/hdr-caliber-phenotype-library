@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Peripheral arterial disease (PAD)
 name: CCU002_02 Peripheral arterial disease (PAD)
-phenotype_id: COVID-IMPACT
+phenotype_id: dwEejLaq7gLkZbB7LiwGXZ
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Thrombophilia
 name: CCU002_01 Thrombophilia
-phenotype_id: COVID-IMPACT
+phenotype_id: E2DYebk9fjtCdjJpAJCg32
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

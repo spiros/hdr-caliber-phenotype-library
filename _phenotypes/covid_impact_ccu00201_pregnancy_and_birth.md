@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Pregnancy and birth
 name: CCU002_01 Pregnancy and birth
-phenotype_id: COVID-IMPACT
+phenotype_id: 5QGnXJGbRzujKhPqPV36YD
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

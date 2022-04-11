@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Lower limb fracture
 name: CCU002_01 Lower limb fracture
-phenotype_id: COVID-IMPACT
+phenotype_id: HSEwas7c8VrqBuHuqjNdmG
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

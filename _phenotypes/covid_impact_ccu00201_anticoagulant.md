@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Anticoagulant medication
 name: CCU002_01 Anticoagulant medication
-phenotype_id: COVID-IMPACT
+phenotype_id: D3SgoozkHD46cckDwESBSz
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

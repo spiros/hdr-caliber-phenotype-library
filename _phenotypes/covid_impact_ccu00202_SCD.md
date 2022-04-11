@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Sudden Cardiac Death (SCD)
 name: CCU002_02 Sudden Cardiac Death (SCD)
-phenotype_id: COVID-IMPACT
+phenotype_id: BV5v9TC7X6nQFAFv3hqjfC
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

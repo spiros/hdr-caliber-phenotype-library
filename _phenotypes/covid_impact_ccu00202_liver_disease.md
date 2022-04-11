@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Liver disease
 name: CCU002_02 Liver disease
-phenotype_id: COVID-IMPACT
+phenotype_id: BrPVWajNb5rWWVgcLJAKVo
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Mesenteric anaemia
 name: CCU002_02 Mesenteric anaemia
-phenotype_id: COVID-IMPACT
+phenotype_id: mvxcWey66AkZYfnqC9mgW9
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

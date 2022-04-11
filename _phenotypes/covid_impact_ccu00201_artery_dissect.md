@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Dissection of artery
 name: CCU002_01 Dissection of artery
-phenotype_id: COVID-IMPACT
+phenotype_id: oCcSmZcv2JHykM4HbRTp9p
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

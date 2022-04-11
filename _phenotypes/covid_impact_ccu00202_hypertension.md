@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Hypertension
 name: CCU002_02 Hypertension
-phenotype_id: COVID-IMPACT
+phenotype_id: VUrgY3KT6WDCE933KeC7YE
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

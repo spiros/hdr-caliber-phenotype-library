@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Cardiomyopathy
 name: CCU002_01 Cardiomyopathy
-phenotype_id: COVID-IMPACT
+phenotype_id: SfiDYkPzhTf4wYJQcaLWKy
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

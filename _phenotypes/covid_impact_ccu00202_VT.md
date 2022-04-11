@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Venous Thrombosis
 name: CCU002_02 Venous Thrombosis
-phenotype_id: COVID-IMPACT
+phenotype_id: DuaAi2qF7BnC9boEexRUUN
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

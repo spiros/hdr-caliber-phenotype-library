@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Unstable angina
 name: CCU002_01 Unstable angina
-phenotype_id: COVID-IMPACT
+phenotype_id: aUNopuTtLKtsqK56pmCtUH
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

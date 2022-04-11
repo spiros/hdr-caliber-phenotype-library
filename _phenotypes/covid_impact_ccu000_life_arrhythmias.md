@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU000 Life threatening arrhythmias
 name: CCU000 Life threatening arrhythmias
-phenotype_id: COVID-IMPACT
+phenotype_id: 2uYKBdZpgkRFQFif6qWJei
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

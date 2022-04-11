@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Mesenteric thrombosis
 name: CCU002_01 Mesenteric thrombosis
-phenotype_id: COVID-IMPACT
+phenotype_id: oBgwCM2RaaVygD4nLCT3GG
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

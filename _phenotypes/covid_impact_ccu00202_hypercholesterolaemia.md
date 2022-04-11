@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Hypercholesterolaemia
 name: CCU002_02 Hypercholesterolaemia
-phenotype_id: COVID-IMPACT
+phenotype_id: W58f7Y4SRanxzrpoYdKomC
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

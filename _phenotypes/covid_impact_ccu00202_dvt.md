@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_02 Deep vein thrombosis (DVT)
 name: CCU002_02 Deep vein thrombosis (DVT)
-phenotype_id: COVID-IMPACT
+phenotype_id: BBEFwzBymQEeeGQoQUc4uN
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:

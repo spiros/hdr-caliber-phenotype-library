@@ -2,7 +2,7 @@
 layout: phenotype
 title: CCU002_01 Obesity
 name: CCU002_01 Obesity
-phenotype_id: COVID-IMPACT
+phenotype_id: H8Y3wjFNLRWDfg4J9vTMsS
 type: Disease or Syndrome
 group: Disease or Syndrome
 sources:
