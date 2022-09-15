@@ -1,0 +1,11 @@
+Phenotype,Terminology,Code,Description,Filter,Lookback
+green_book_severe_respiratory_diseases,ICD-10,J380,Paralysis of vocal cords and larynx,Include,
+green_book_severe_respiratory_diseases,ICD-10,J386,Stenosis of larynx,Include,
+green_book_severe_respiratory_diseases,ICD-10,J44,Other chronic obstructive pulmonary disease,Include,
+green_book_severe_respiratory_diseases,ICD-10,J45,Asthma,Include,
+green_book_severe_respiratory_diseases,ICD-10,J46,,Include,
+green_book_severe_respiratory_diseases,ICD-10,J47,,Include,
+green_book_severe_respiratory_diseases,ICD-10,J82,,Include,
+green_book_severe_respiratory_diseases,ICD-10,J84,Other interstitial pulmonary diseases,Include,
+green_book_severe_respiratory_diseases,ICD-10,J99,Respiratory disorders in diseases classified elsewhere,Include,
+green_book_severe_respiratory_diseases,ICD-10,P27,Chronic respiratory disease originating in the perinatal period,Include,5 years

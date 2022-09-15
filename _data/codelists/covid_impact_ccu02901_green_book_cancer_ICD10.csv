@@ -1,0 +1,5 @@
+Phenotype,Terminology,Code,Description,Filter,Lookback
+green_book_cancer,ICD-10,C,,Include,5 years
+green_book_cancer,ICD-10,D0,,Include,5 years
+green_book_cancer,ICD-10,D4,,Include,5 years
+green_book_cancer,ICD-10,D473,Essential (haemorrhagic) thrombocythaemia,Filter,5 years

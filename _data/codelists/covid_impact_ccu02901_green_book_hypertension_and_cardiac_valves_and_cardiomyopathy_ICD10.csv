@@ -1,0 +1,13 @@
+Phenotype,Terminology,Code,Description,Filter,Lookback
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I10,,Include,
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I11,Hypertensive heart disease,Include,
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I12,Hypertensive renal disease,Include,
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I13,Hypertensive heart and renal disease,Include,
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I15,Secondary hypertension,Include,
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I27,Other pulmonary heart diseases,Include,
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I34,Nonrheumatic mitral valve disorders,Include,
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I35,Nonrheumatic aortic valve disorders,Include,
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I36,Nonrheumatic tricuspid valve disorders,Include,
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I37,Pulmonary valve disorders,Include,
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I42,Cardiomyopathy,Include,
+green_book_hypertension_and_cardiac_valves_and_cardiomyopathy,ICD-10,I43,Cardiomyopathy in diseases classified elsewhere,Include,
