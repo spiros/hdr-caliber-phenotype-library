@@ -44,7 +44,7 @@ version: Version 1
 ### Phenotypes
 
 #### England hospitalization EHR: Blood disorders & immune deficiencies  
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu02901_uhc_blood_disorders_and_immune_deficiencies_ICD10. %}
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu02901_uhc_blood_disorders_and_immune_deficiencies_ICD10 %}
 #### England hospitalization EHR: Cancer & neoplasms 
 {% include csv.html csvdata=site.data.codelists.covid_impact_ccu02901_uhc_cancer_and_neoplasms_ICD10 %}
 #### England hospitalization EHR: Congenital heart disease and hypertension and acquired heart disease 
@@ -66,7 +66,7 @@ version: Version 1
 #### England hospitalization EHR: Renal & genitourinary conditions
 {% include csv.html csvdata=site.data.codelists.covid_impact_ccu02901_uhc_renal_and_genitourinary_conditions_ICD10 %}
 #### England hospitalization EHR: Respiratory conditions 
-{% include csv.html csvdata=site.data.codelists.covid_impact_ccu02901_uhc_respiratory_conditions_ICD10. %}
+{% include csv.html csvdata=site.data.codelists.covid_impact_ccu02901_uhc_respiratory_conditions_ICD10 %}
 
 ### Publication
 
