@@ -1,0 +1,193 @@
+Phenotype,Terminology,Code,Description,Position,Filter
+covid-19_type_c,ICD-10,A00,Cholera,Primary,Include
+covid-19_type_c,ICD-10,A01,Typhoid and paratyphoid fevers,Primary,Include
+covid-19_type_c,ICD-10,A02,Other salmonella infections,Primary,Include
+covid-19_type_c,ICD-10,A03,Shigellosis,Primary,Include
+covid-19_type_c,ICD-10,A04,Other bacterial intestinal infections,Primary,Include
+covid-19_type_c,ICD-10,A05,"Other bacterial foodborne intoxications, not elsewhere classified",Primary,Include
+covid-19_type_c,ICD-10,A06,Amoebiasis,Primary,Include
+covid-19_type_c,ICD-10,A07,Other protozoal intestinal diseases,Primary,Include
+covid-19_type_c,ICD-10,A080,Rotaviral enteritis,Primary,Include
+covid-19_type_c,ICD-10,A081,Acute gastroenteropathy due to Norwalk agent,Primary,Include
+covid-19_type_c,ICD-10,A082,Adenoviral enteritis,Primary,Include
+covid-19_type_c,ICD-10,A15,"Respiratory tuberculosis, bacteriologically and histologically confirmed",Primary,Include
+covid-19_type_c,ICD-10,A16,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",Primary,Include
+covid-19_type_c,ICD-10,A17,Tuberculosis of nervous system,Primary,Include
+covid-19_type_c,ICD-10,A18,Tuberculosis of other organs,Primary,Include
+covid-19_type_c,ICD-10,A19,Miliary tuberculosis,Primary,Include
+covid-19_type_c,ICD-10,A2,,Primary,Include
+covid-19_type_c,ICD-10,A3,,Primary,Include
+covid-19_type_c,ICD-10,A5,,Primary,Include
+covid-19_type_c,ICD-10,A6,,Primary,Include
+covid-19_type_c,ICD-10,B00,Herpesviral [herpes simplex] infections,Primary,Include
+covid-19_type_c,ICD-10,B01,Varicella [chickenpox],Primary,Include
+covid-19_type_c,ICD-10,B02,Zoster [herpes zoster],Primary,Include
+covid-19_type_c,ICD-10,B03,,Primary,Include
+covid-19_type_c,ICD-10,B04,,Primary,Include
+covid-19_type_c,ICD-10,B05,Measles,Primary,Include
+covid-19_type_c,ICD-10,B06,Rubella [German measles],Primary,Include
+covid-19_type_c,ICD-10,B07,,Primary,Include
+covid-19_type_c,ICD-10,B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",Primary,Include
+covid-19_type_c,ICD-10,B1,,Primary,Include
+covid-19_type_c,ICD-10,B2,,Primary,Include
+covid-19_type_c,ICD-10,B3,,Primary,Include
+covid-19_type_c,ICD-10,B4,,Primary,Include
+covid-19_type_c,ICD-10,B5,,Primary,Include
+covid-19_type_c,ICD-10,B6,,Primary,Include
+covid-19_type_c,ICD-10,B7,,Primary,Include
+covid-19_type_c,ICD-10,B8,,Primary,Include
+covid-19_type_c,ICD-10,D50,Iron deficiency anaemia,Primary,Include
+covid-19_type_c,ICD-10,D51,Vitamin B₁₂ deficiency anaemia,Primary,Include
+covid-19_type_c,ICD-10,D52,Folate deficiency anaemia,Primary,Include
+covid-19_type_c,ICD-10,D53,Other nutritional anaemias,Primary,Include
+covid-19_type_c,ICD-10,D73,Diseases of spleen,Primary,Include
+covid-19_type_c,ICD-10,E0,,Primary,Include
+covid-19_type_c,ICD-10,E2,,Primary,Include
+covid-19_type_c,ICD-10,E3,,Primary,Include
+covid-19_type_c,ICD-10,E5,,Primary,Include
+covid-19_type_c,ICD-10,F,,Primary,Include
+covid-19_type_c,ICD-10,G0,,Primary,Include
+covid-19_type_c,ICD-10,G5,,Primary,Include
+covid-19_type_c,ICD-10,G6,,Primary,Include
+covid-19_type_c,ICD-10,G9,,Primary,Include
+covid-19_type_c,ICD-10,H,,Primary,Include
+covid-19_type_c,ICD-10,I0,,Primary,Include
+covid-19_type_c,ICD-10,I60,Subarachnoid haemorrhage,Primary,Include
+covid-19_type_c,ICD-10,I61,Intracerebral haemorrhage,Primary,Include
+covid-19_type_c,ICD-10,I62,Other nontraumatic intracranial haemorrhage,Primary,Include
+covid-19_type_c,ICD-10,I7,,Primary,Include
+covid-19_type_c,ICD-10,I8,,Primary,Include
+covid-19_type_c,ICD-10,J6,,Primary,Include
+covid-19_type_c,ICD-10,J95,"Postprocedural respiratory disorders, not elsewhere classified",Primary,Include
+covid-19_type_c,ICD-10,K0,,Primary,Include
+covid-19_type_c,ICD-10,K1,,Primary,Include
+covid-19_type_c,ICD-10,K20,,Primary,Include
+covid-19_type_c,ICD-10,K25,Gastric ulcer,Primary,Include
+covid-19_type_c,ICD-10,K26,Duodenal ulcer,Primary,Include
+covid-19_type_c,ICD-10,K27,"Peptic ulcer, site unspecified",Primary,Include
+covid-19_type_c,ICD-10,K28,Gastrojejunal ulcer,Primary,Include
+covid-19_type_c,ICD-10,K29,Gastritis and duodenitis,Primary,Include
+covid-19_type_c,ICD-10,K3,,Primary,Include
+covid-19_type_c,ICD-10,K4,,Primary,Include
+covid-19_type_c,ICD-10,K55,Vascular disorders of intestine,Primary,Include
+covid-19_type_c,ICD-10,K56,Paralytic ileus and intestinal obstruction without hernia,Primary,Include
+covid-19_type_c,ICD-10,K590,Constipation,Primary,Include
+covid-19_type_c,ICD-10,K58,Irritable bowel syndrome,Primary,Include
+covid-19_type_c,ICD-10,K59,Other functional intestinal disorders,Primary,Include
+covid-19_type_c,ICD-10,K6,,Primary,Include
+covid-19_type_c,ICD-10,K8,,Primary,Include
+covid-19_type_c,ICD-10,K9,,Primary,Include
+covid-19_type_c,ICD-10,L0,,Primary,Include
+covid-19_type_c,ICD-10,L2,,Primary,Include
+covid-19_type_c,ICD-10,L3,,Primary,Include
+covid-19_type_c,ICD-10,L4,,Primary,Include
+covid-19_type_c,ICD-10,L5,,Primary,Include
+covid-19_type_c,ICD-10,L6,,Primary,Include
+covid-19_type_c,ICD-10,L72,Follicular cysts of skin and subcutaneous tissue,Primary,Include
+covid-19_type_c,ICD-10,L73,Other follicular disorders,Primary,Include
+covid-19_type_c,ICD-10,L8,,Primary,Include
+covid-19_type_c,ICD-10,L9,,Primary,Include
+covid-19_type_c,ICD-10,M0,,Primary,Include
+covid-19_type_c,ICD-10,M1,,Primary,Include
+covid-19_type_c,ICD-10,M2,,Primary,Include
+covid-19_type_c,ICD-10,M4,,Primary,Include
+covid-19_type_c,ICD-10,M5,,Primary,Include
+covid-19_type_c,ICD-10,M6,,Primary,Include
+covid-19_type_c,ICD-10,M7,,Primary,Include
+covid-19_type_c,ICD-10,M8,,Primary,Include
+covid-19_type_c,ICD-10,M9,,Primary,Include
+covid-19_type_c,ICD-10,N141,"Nephropathy induced by other drugs, medicaments and biological substances",Primary,Include
+covid-19_type_c,ICD-10,N2,,Primary,Include
+covid-19_type_c,ICD-10,N3,,Primary,Include
+covid-19_type_c,ICD-10,N39,Other disorders of urinary system,Primary,Include
+covid-19_type_c,ICD-10,N4,,Primary,Include
+covid-19_type_c,ICD-10,N5,,Primary,Include
+covid-19_type_c,ICD-10,N6,,Primary,Include
+covid-19_type_c,ICD-10,N7,,Primary,Include
+covid-19_type_c,ICD-10,N8,,Primary,Include
+covid-19_type_c,ICD-10,N9,,Primary,Include
+covid-19_type_c,ICD-10,O,,Primary,Include
+covid-19_type_c,ICD-10,P1,,Primary,Include
+covid-19_type_c,ICD-10,P20,Intrauterine hypoxia,Primary,Include
+covid-19_type_c,ICD-10,P21,Birth asphyxia,Primary,Include
+covid-19_type_c,ICD-10,P50,Fetal blood loss,Primary,Include
+covid-19_type_c,ICD-10,P51,Umbilical haemorrhage of newborn,Primary,Include
+covid-19_type_c,ICD-10,P52,Intracranial nontraumatic haemorrhage of fetus and newborn,Primary,Include
+covid-19_type_c,ICD-10,P53,,Primary,Include
+covid-19_type_c,ICD-10,P54,Other neonatal haemorrhages,Primary,Include
+covid-19_type_c,ICD-10,P55,Haemolytic disease of fetus and newborn,Primary,Include
+covid-19_type_c,ICD-10,P56,Hydrops fetalis due to haemolytic disease,Primary,Include
+covid-19_type_c,ICD-10,P57,Kernicterus,Primary,Include
+covid-19_type_c,ICD-10,P58,Neonatal jaundice due to other excessive haemolysis,Primary,Include
+covid-19_type_c,ICD-10,P59,Neonatal jaundice from other and unspecified causes,Primary,Include
+covid-19_type_c,ICD-10,P6,,Primary,Include
+covid-19_type_c,ICD-10,P70,Transitory disorders of carbohydrate metabolism specific to fetus and newborn,Primary,Include
+covid-19_type_c,ICD-10,P71,Transitory neonatal disorders of calcium and magnesium metabolism,Primary,Include
+covid-19_type_c,ICD-10,P72,Other transitory neonatal endocrine disorders,Primary,Include
+covid-19_type_c,ICD-10,P75,,Primary,Include
+covid-19_type_c,ICD-10,P76,Other intestinal obstruction of newborn,Primary,Include
+covid-19_type_c,ICD-10,P77,,Primary,Include
+covid-19_type_c,ICD-10,P78,Other perinatal digestive system disorders,Primary,Include
+covid-19_type_c,ICD-10,P8,,Primary,Include
+covid-19_type_c,ICD-10,P90,,Primary,Include
+covid-19_type_c,ICD-10,P91,Other disturbances of cerebral status of newborn,Primary,Include
+covid-19_type_c,ICD-10,P94,Disorders of muscle tone of newborn,Primary,Include
+covid-19_type_c,ICD-10,P95,,Primary,Include
+covid-19_type_c,ICD-10,P96,Other conditions originating in the perinatal period,Primary,Include
+covid-19_type_c,ICD-10,Q1,,Primary,Include
+covid-19_type_c,ICD-10,Q4,,Primary,Include
+covid-19_type_c,ICD-10,Q5,,Primary,Include
+covid-19_type_c,ICD-10,Q6,,Primary,Include
+covid-19_type_c,ICD-10,Q7,,Primary,Include
+covid-19_type_c,ICD-10,Q8,,Primary,Include
+covid-19_type_c,ICD-10,R12,,Primary,Include
+covid-19_type_c,ICD-10,R14,,Primary,Include
+covid-19_type_c,ICD-10,R15,,Primary,Include
+covid-19_type_c,ICD-10,R19,Other symptoms and signs involving the digestive system and abdomen,Primary,Include
+covid-19_type_c,ICD-10,R20,Disturbances of skin sensation,Primary,Include
+covid-19_type_c,ICD-10,R22,"Localized swelling, mass and lump of skin and subcutaneous tissue",Primary,Include
+covid-19_type_c,ICD-10,R23,Other skin changes,Primary,Include
+covid-19_type_c,ICD-10,R29,Other symptoms and signs involving the nervous and musculoskeletal systems,Primary,Include
+covid-19_type_c,ICD-10,R30,Pain associated with micturition,Primary,Include
+covid-19_type_c,ICD-10,R31,,Primary,Include
+covid-19_type_c,ICD-10,R32,,Primary,Include
+covid-19_type_c,ICD-10,R33,,Primary,Include
+covid-19_type_c,ICD-10,R35,,Primary,Include
+covid-19_type_c,ICD-10,R39,Other symptoms and signs involving the urinary system,Primary,Include
+covid-19_type_c,ICD-10,R45,Symptoms and signs involving emotional state,Primary,Include
+covid-19_type_c,ICD-10,R46,Symptoms and signs involving appearance and behaviour,Primary,Include
+covid-19_type_c,ICD-10,R80,,Primary,Include
+covid-19_type_c,ICD-10,R81,,Primary,Include
+covid-19_type_c,ICD-10,R82,Other abnormal findings in urine,Primary,Include
+covid-19_type_c,ICD-10,R93,Abnormal findings on diagnostic imaging of other body structures,Primary,Include
+covid-19_type_c,ICD-10,U076,Emergency use of U07.6,Primary,Include
+covid-19_type_c,ICD-10,U82,Resistance to betalactam antibiotics,Primary,Include
+covid-19_type_c,ICD-10,U83,Resistance to other antibiotics,Primary,Include
+covid-19_type_c,ICD-10,S,,Primary,Include
+covid-19_type_c,ICD-10,T,,Primary,Include
+covid-19_type_c,ICD-10,V,,Primary,Include
+covid-19_type_c,ICD-10,W,,Primary,Include
+covid-19_type_c,ICD-10,X,,Primary,Include
+covid-19_type_c,ICD-10,Y,,Primary,Include
+covid-19_type_c,ICD-10,Z,,Primary,Include
+covid-19_type_c,ICD-10,B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,Primary,Exclude
+covid-19_type_c,ICD-10,B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,Primary,Exclude
+covid-19_type_c,ICD-10,B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,Primary,Exclude
+covid-19_type_c,ICD-10,B23,Human immunodeficiency virus [HIV] disease resulting in other conditions,Primary,Exclude
+covid-19_type_c,ICD-10,B24,,Primary,Exclude
+covid-19_type_c,ICD-10,F7,,Primary,Exclude
+covid-19_type_c,ICD-10,F8,,Primary,Exclude
+covid-19_type_c,ICD-10,H669,"Otitis media, unspecified",Primary,Exclude
+covid-19_type_c,ICD-10,K44,Diaphragmatic hernia,Primary,Exclude
+covid-19_type_c,ICD-10,Y4,,Primary,Exclude
+covid-19_type_c,ICD-10,Y5,,Primary,Exclude
+covid-19_type_c,ICD-10,Z038,Observation for other suspected diseases and conditions,Primary,Exclude
+covid-19_type_c,ICD-10,Z039,"Observation for suspected disease or condition, unspecified",Primary,Exclude
+covid-19_type_c,ICD-10,U075,Emergency use of U07.5,Primary,Exclude
+covid-19_type_c,ICD-10,U109,,Primary,Exclude
+covid-19_type_c,ICD-10,M303,Mucocutaneous lymph node syndrome [Kawasaki],Primary,Exclude
+covid-19_type_c,ICD-10,R65,Systemic Inflammatory Response Syndrome [SIRS],Primary,Exclude
+covid-19_type_c,ICD-10,U075,Emergency use of U07.5,Non-Primary,Exclude
+covid-19_type_c,ICD-10,U109,,Non-Primary,Exclude
+covid-19_type_c,ICD-10,M303,Mucocutaneous lymph node syndrome [Kawasaki],Non-Primary,Exclude
+covid-19_type_c,ICD-10,R65,Systemic Inflammatory Response Syndrome [SIRS],Non-Primary,Exclude

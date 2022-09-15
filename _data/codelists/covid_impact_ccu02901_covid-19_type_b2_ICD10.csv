@@ -1,0 +1,113 @@
+Phenotype,Terminology,Code,Description,Position,Filter
+covid-19_type_b2,ICD-10,B20,Human immunodeficiency virus [HIV] disease resulting in infectious and parasitic diseases,Primary,Include
+covid-19_type_b2,ICD-10,B21,Human immunodeficiency virus [HIV] disease resulting in malignant neoplasms,Primary,Include
+covid-19_type_b2,ICD-10,B22,Human immunodeficiency virus [HIV] disease resulting in other specified diseases,Primary,Include
+covid-19_type_b2,ICD-10,B24,,Primary,Include
+covid-19_type_b2,ICD-10,D3,,Primary,Include
+covid-19_type_b2,ICD-10,C,,Primary,Include
+covid-19_type_b2,ICD-10,D0,,Primary,Include
+covid-19_type_b2,ICD-10,D1,,Primary,Include
+covid-19_type_b2,ICD-10,D2,,Primary,Include
+covid-19_type_b2,ICD-10,D4,,Primary,Include
+covid-19_type_b2,ICD-10,D55,Anaemia due to enzyme disorders,Primary,Include
+covid-19_type_b2,ICD-10,D56,Thalassaemia,Primary,Include
+covid-19_type_b2,ICD-10,D57,Sickle-cell disorders,Primary,Include
+covid-19_type_b2,ICD-10,D58,Other hereditary haemolytic anaemias,Primary,Include
+covid-19_type_b2,ICD-10,D59,Acquired haemolytic anaemia,Primary,Include
+covid-19_type_b2,ICD-10,D6,,Primary,Include
+covid-19_type_b2,ICD-10,D70,,Primary,Include
+covid-19_type_b2,ICD-10,D71,,Primary,Include
+covid-19_type_b2,ICD-10,D72,Other disorders of white blood cells,Primary,Include
+covid-19_type_b2,ICD-10,D730,Hyposplenism,Primary,Include
+covid-19_type_b2,ICD-10,D731,Hypersplenism,Primary,Include
+covid-19_type_b2,ICD-10,D761,Haemophagocytic lymphohistiocytosis,Primary,Include
+covid-19_type_b2,ICD-10,D76,Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue,Primary,Include
+covid-19_type_b2,ICD-10,D8,,Primary,Include
+covid-19_type_b2,ICD-10,E10,Type 1 diabetes mellitus,Primary,Include
+covid-19_type_b2,ICD-10,E11,Type 2 diabetes mellitus,Primary,Include
+covid-19_type_b2,ICD-10,E12,Malnutrition-related diabetes mellitus,Primary,Include
+covid-19_type_b2,ICD-10,E13,Other specified diabetes mellitus,Primary,Include
+covid-19_type_b2,ICD-10,E14,Unspecified diabetes mellitus,Primary,Include
+covid-19_type_b2,ICD-10,E20,Hypoparathyroidism,Primary,Include
+covid-19_type_b2,ICD-10,E21,Hyperparathyroidism and other disorders of parathyroid gland,Primary,Include
+covid-19_type_b2,ICD-10,E22,Hyperfunction of pituitary gland,Primary,Include
+covid-19_type_b2,ICD-10,E23,Hypofunction and other disorders of pituitary gland,Primary,Include
+covid-19_type_b2,ICD-10,E24,Cushing syndrome,Primary,Include
+covid-19_type_b2,ICD-10,E25,Adrenogenital disorders,Primary,Include
+covid-19_type_b2,ICD-10,E26,Hyperaldosteronism,Primary,Include
+covid-19_type_b2,ICD-10,E27,Other disorders of adrenal gland,Primary,Include
+covid-19_type_b2,ICD-10,E6,,Primary,Include
+covid-19_type_b2,ICD-10,E7,,Primary,Include
+covid-19_type_b2,ICD-10,E80,Disorders of porphyrin and bilirubin metabolism,Primary,Include
+covid-19_type_b2,ICD-10,E81,,Primary,Include
+covid-19_type_b2,ICD-10,E82,,Primary,Include
+covid-19_type_b2,ICD-10,E83,Disorders of mineral metabolism,Primary,Include
+covid-19_type_b2,ICD-10,E84,Cystic fibrosis,Primary,Include
+covid-19_type_b2,ICD-10,E850,Non-neuropathic heredofamilial amyloidosis,Primary,Include
+covid-19_type_b2,ICD-10,E88,Other metabolic disorders,Primary,Include
+covid-19_type_b2,ICD-10,E89,"Postprocedural endocrine and metabolic disorders, not elsewhere classified",Primary,Include
+covid-19_type_b2,ICD-10,F7,,Primary,Include
+covid-19_type_b2,ICD-10,F8,,Primary,Include
+covid-19_type_b2,ICD-10,G1,,Primary,Include
+covid-19_type_b2,ICD-10,G2,,Primary,Include
+covid-19_type_b2,ICD-10,G3,,Primary,Include
+covid-19_type_b2,ICD-10,G7,,Primary,Include
+covid-19_type_b2,ICD-10,G8,,Primary,Include
+covid-19_type_b2,ICD-10,I10,,Primary,Include
+covid-19_type_b2,ICD-10,I11,Hypertensive heart disease,Primary,Include
+covid-19_type_b2,ICD-10,I12,Hypertensive renal disease,Primary,Include
+covid-19_type_b2,ICD-10,I13,Hypertensive heart and renal disease,Primary,Include
+covid-19_type_b2,ICD-10,I15,Secondary hypertension,Primary,Include
+covid-19_type_b2,ICD-10,I27,Other pulmonary heart diseases,Primary,Include
+covid-19_type_b2,ICD-10,I34,Nonrheumatic mitral valve disorders,Primary,Include
+covid-19_type_b2,ICD-10,I35,Nonrheumatic aortic valve disorders,Primary,Include
+covid-19_type_b2,ICD-10,I36,Nonrheumatic tricuspid valve disorders,Primary,Include
+covid-19_type_b2,ICD-10,I37,Pulmonary valve disorders,Primary,Include
+covid-19_type_b2,ICD-10,I42,Cardiomyopathy,Primary,Include
+covid-19_type_b2,ICD-10,I43,Cardiomyopathy in diseases classified elsewhere,Primary,Include
+covid-19_type_b2,ICD-10,I675,Moyamoya disease,Primary,Include
+covid-19_type_b2,ICD-10,J380,Paralysis of vocal cords and larynx,Primary,Include
+covid-19_type_b2,ICD-10,J386,Stenosis of larynx,Primary,Include
+covid-19_type_b2,ICD-10,J41,Simple and mucopurulent chronic bronchitis,Primary,Include
+covid-19_type_b2,ICD-10,J42,,Primary,Include
+covid-19_type_b2,ICD-10,J43,Emphysema,Primary,Include
+covid-19_type_b2,ICD-10,J44,Other chronic obstructive pulmonary disease,Primary,Include
+covid-19_type_b2,ICD-10,J45,Asthma,Primary,Include
+covid-19_type_b2,ICD-10,J46,,Primary,Include
+covid-19_type_b2,ICD-10,J47,,Primary,Include
+covid-19_type_b2,ICD-10,J82,,Primary,Include
+covid-19_type_b2,ICD-10,J84,Other interstitial pulmonary diseases,Primary,Include
+covid-19_type_b2,ICD-10,J99,Respiratory disorders in diseases classified elsewhere,Primary,Include
+covid-19_type_b2,ICD-10,K21,Gastro-oesophageal reflux disease,Primary,Include
+covid-19_type_b2,ICD-10,K22,Other diseases of oesophagus,Primary,Include
+covid-19_type_b2,ICD-10,K44,Diaphragmatic hernia,Primary,Include
+covid-19_type_b2,ICD-10,K50,Crohn disease [regional enteritis],Primary,Include
+covid-19_type_b2,ICD-10,K51,Ulcerative colitis,Primary,Include
+covid-19_type_b2,ICD-10,K52,Other noninfective gastroenteritis and colitis,Primary,Include
+covid-19_type_b2,ICD-10,K71,Toxic liver disease,Primary,Include
+covid-19_type_b2,ICD-10,K720,Acute and subacute hepatic failure,Primary,Include
+covid-19_type_b2,ICD-10,K721,Chronic hepatic failure,Primary,Include
+covid-19_type_b2,ICD-10,K740,Hepatic fibrosis,Primary,Include
+covid-19_type_b2,ICD-10,K741,Hepatic sclerosis,Primary,Include
+covid-19_type_b2,ICD-10,K744,Secondary biliary cirrhosis,Primary,Include
+covid-19_type_b2,ICD-10,K745,"Biliary cirrhosis, unspecified",Primary,Include
+covid-19_type_b2,ICD-10,K746,Other and unspecified cirrhosis of liver,Primary,Include
+covid-19_type_b2,ICD-10,K75,Other inflammatory liver diseases,Primary,Include
+covid-19_type_b2,ICD-10,K76,Other diseases of liver,Primary,Include
+covid-19_type_b2,ICD-10,K9,,Primary,Include
+covid-19_type_b2,ICD-10,M3,,Primary,Include
+covid-19_type_b2,ICD-10,N0,,Primary,Include
+covid-19_type_b2,ICD-10,N10,,Primary,Include
+covid-19_type_b2,ICD-10,N11,Chronic tubulo-interstitial nephritis,Primary,Include
+covid-19_type_b2,ICD-10,N12,,Primary,Include
+covid-19_type_b2,ICD-10,N13,Obstructive and reflux uropathy,Primary,Include
+covid-19_type_b2,ICD-10,N15,Other renal tubulo-interstitial diseases,Primary,Include
+covid-19_type_b2,ICD-10,N18,Chronic kidney disease,Primary,Include
+covid-19_type_b2,ICD-10,P0,,Primary,Include
+covid-19_type_b2,ICD-10,Q0,,Primary,Include
+covid-19_type_b2,ICD-10,Q2,,Primary,Include
+covid-19_type_b2,ICD-10,Q3,,Primary,Include
+covid-19_type_b2,ICD-10,Q60,Renal agenesis and other reduction defects of kidney,Primary,Include
+covid-19_type_b2,ICD-10,Q61,Cystic kidney disease,Primary,Include
+covid-19_type_b2,ICD-10,Q9,,Primary,Include
+covid-19_type_b2,ICD-10,R161,"Splenomegaly, not elsewhere classified",Primary,Include

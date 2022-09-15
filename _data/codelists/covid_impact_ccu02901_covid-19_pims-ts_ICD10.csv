@@ -1,0 +1,31 @@
+Phenotype,Terminology,Code,Description,Position,Filter
+covid-19_pims-ts,ICD-10,U075,Emergency use of U07.5,Primary,Include
+covid-19_pims-ts,ICD-10,U109,,Primary,Include
+covid-19_pims-ts,ICD-10,M303,Mucocutaneous lymph node syndrome [Kawasaki],Primary,Include
+covid-19_pims-ts,ICD-10,R65,Systemic Inflammatory Response Syndrome [SIRS],Primary,Include
+covid-19_pims-ts,ICD-10,A01,Typhoid and paratyphoid fevers,Primary,Exclude
+covid-19_pims-ts,ICD-10,A02,Other salmonella infections,Primary,Exclude
+covid-19_pims-ts,ICD-10,A03,Shigellosis,Primary,Exclude
+covid-19_pims-ts,ICD-10,A04,Other bacterial intestinal infections,Primary,Exclude
+covid-19_pims-ts,ICD-10,A05,"Other bacterial foodborne intoxications, not elsewhere classified",Primary,Exclude
+covid-19_pims-ts,ICD-10,A37,Whooping cough,Primary,Exclude
+covid-19_pims-ts,ICD-10,A38,,Primary,Exclude
+covid-19_pims-ts,ICD-10,A39,Meningococcal infection,Primary,Exclude
+covid-19_pims-ts,ICD-10,A40,Streptococcal sepsis,Primary,Exclude
+covid-19_pims-ts,ICD-10,A41,Other sepsis,Primary,Exclude
+covid-19_pims-ts,ICD-10,B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Primary,Exclude
+covid-19_pims-ts,ICD-10,U075,Emergency use of U07.5,Non-Primary,Include
+covid-19_pims-ts,ICD-10,U109,,Non-Primary,Include
+covid-19_pims-ts,ICD-10,M303,Mucocutaneous lymph node syndrome [Kawasaki],Non-Primary,Include
+covid-19_pims-ts,ICD-10,R65,Systemic Inflammatory Response Syndrome [SIRS],Non-Primary,Include
+covid-19_pims-ts,ICD-10,A01,Typhoid and paratyphoid fevers,Non-Primary,Exclude
+covid-19_pims-ts,ICD-10,A02,Other salmonella infections,Non-Primary,Exclude
+covid-19_pims-ts,ICD-10,A03,Shigellosis,Non-Primary,Exclude
+covid-19_pims-ts,ICD-10,A04,Other bacterial intestinal infections,Non-Primary,Exclude
+covid-19_pims-ts,ICD-10,A05,"Other bacterial foodborne intoxications, not elsewhere classified",Non-Primary,Exclude
+covid-19_pims-ts,ICD-10,A37,Whooping cough,Non-Primary,Exclude
+covid-19_pims-ts,ICD-10,A38,,Non-Primary,Exclude
+covid-19_pims-ts,ICD-10,A39,Meningococcal infection,Non-Primary,Exclude
+covid-19_pims-ts,ICD-10,A40,Streptococcal sepsis,Non-Primary,Exclude
+covid-19_pims-ts,ICD-10,A41,Other sepsis,Non-Primary,Exclude
+covid-19_pims-ts,ICD-10,B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Non-Primary,Exclude
