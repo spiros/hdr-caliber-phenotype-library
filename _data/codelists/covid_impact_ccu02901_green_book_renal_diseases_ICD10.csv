@@ -1,0 +1,7 @@
+Phenotype,Terminology,Code,Description,Filter,Lookback
+green_book_renal_diseases,ICD-10,N0,,Include,
+green_book_renal_diseases,ICD-10,N11,Chronic tubulo-interstitial nephritis,Include,
+green_book_renal_diseases,ICD-10,N12,,Include,
+green_book_renal_diseases,ICD-10,N13,Obstructive and reflux uropathy,Include,
+green_book_renal_diseases,ICD-10,N15,Other renal tubulo-interstitial diseases,Include,
+green_book_renal_diseases,ICD-10,N18,Chronic kidney disease,Include,

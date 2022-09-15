@@ -1,0 +1,5 @@
+Phenotype,Terminology,Code,Description,Position,Filter
+covid-19_type_a1,ICD-10,U071,Emergency use of U07.1,Primary,Include
+covid-19_type_a1,ICD-10,U072,Emergency use of U07.2,Primary,Include
+covid-19_type_a1,ICD-10,U073,Emergency use of U07.3,Primary,Include
+covid-19_type_a1,ICD-10,U074,Emergency use of U07.4,Primary,Include

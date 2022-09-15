@@ -1,0 +1,95 @@
+Phenotype,Terminology,Code,Description,Position,Filter
+covid-19_type_a2,ICD-10,A084,"Viral intestinal infection, unspecified",Primary,Include
+covid-19_type_a2,ICD-10,A083,Other viral enteritis,Primary,Include
+covid-19_type_a2,ICD-10,A085,Other specified intestinal infections,Primary,Include
+covid-19_type_a2,ICD-10,A090,Other and unspecified gastroenteritis and colitis of infectious origin,Primary,Include
+covid-19_type_a2,ICD-10,A099,Gastroenteritis and colitis of unspecified origin,Primary,Include
+covid-19_type_a2,ICD-10,A419,"Sepsis, unspecified",Primary,Include
+covid-19_type_a2,ICD-10,B348,Other viral infections of unspecified site,Primary,Include
+covid-19_type_a2,ICD-10,B309,"Viral conjunctivitis, unspecified",Primary,Include
+covid-19_type_a2,ICD-10,B338,Other specified viral diseases,Primary,Include
+covid-19_type_a2,ICD-10,B349,"Viral infection, unspecified",Primary,Include
+covid-19_type_a2,ICD-10,B972,Coronavirus as the cause of diseases classified to other chapters,Primary,Include
+covid-19_type_a2,ICD-10,B99,,Primary,Include
+covid-19_type_a2,ICD-10,D762,"Haemophagocytic syndrome, infection-associated",Primary,Include
+covid-19_type_a2,ICD-10,E86,,Primary,Include
+covid-19_type_a2,ICD-10,E87,"Other disorders of fluid, electrolyte and acid-base balance",Primary,Include
+covid-19_type_a2,ICD-10,H669,"Otitis media, unspecified",Primary,Include
+covid-19_type_a2,ICD-10,I1254,,Primary,Include
+covid-19_type_a2,ICD-10,I126,,Primary,Include
+covid-19_type_a2,ICD-10,I1471,,Primary,Include
+covid-19_type_a2,ICD-10,I254,Coronary artery aneurysm and dissection,Primary,Include
+covid-19_type_a2,ICD-10,I26,Pulmonary embolism,Primary,Include
+covid-19_type_a2,ICD-10,I288,Other specified diseases of pulmonary vessels,Primary,Include
+covid-19_type_a2,ICD-10,I30,Acute pericarditis,Primary,Include
+covid-19_type_a2,ICD-10,I31,Other diseases of pericardium,Primary,Include
+covid-19_type_a2,ICD-10,I32,Pericarditis in diseases classified elsewhere,Primary,Include
+covid-19_type_a2,ICD-10,I33,Acute and subacute endocarditis,Primary,Include
+covid-19_type_a2,ICD-10,I40,Acute myocarditis,Primary,Include
+covid-19_type_a2,ICD-10,I41,Myocarditis in diseases classified elsewhere,Primary,Include
+covid-19_type_a2,ICD-10,I42,Cardiomyopathy,Primary,Include
+covid-19_type_a2,ICD-10,I44,Atrioventricular and left bundle-branch block,Primary,Include
+covid-19_type_a2,ICD-10,I45,Other conduction disorders,Primary,Include
+covid-19_type_a2,ICD-10,I46,Cardiac arrest,Primary,Include
+covid-19_type_a2,ICD-10,I47,Paroxysmal tachycardia,Primary,Include
+covid-19_type_a2,ICD-10,I48,Atrial fibrillation and flutter,Primary,Include
+covid-19_type_a2,ICD-10,I49,Other cardiac arrhythmias,Primary,Include
+covid-19_type_a2,ICD-10,I50,Heart failure,Primary,Include
+covid-19_type_a2,ICD-10,I51,Complications and ill-defined descriptions of heart disease,Primary,Include
+covid-19_type_a2,ICD-10,I63,Cerebral infarction,Primary,Include
+covid-19_type_a2,ICD-10,I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",Primary,Include
+covid-19_type_a2,ICD-10,I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",Primary,Include
+covid-19_type_a2,ICD-10,I67,Other cerebrovascular diseases,Primary,Include
+covid-19_type_a2,ICD-10,I880,Nonspecific mesenteric lymphadenitis,Primary,Include
+covid-19_type_a2,ICD-10,I9,,Primary,Include
+covid-19_type_a2,ICD-10,J00,,Primary,Include
+covid-19_type_a2,ICD-10,J01,Acute sinusitis,Primary,Include
+covid-19_type_a2,ICD-10,J04,Acute laryngitis and tracheitis,Primary,Include
+covid-19_type_a2,ICD-10,J05,Acute obstructive laryngitis [croup] and epiglottitis,Primary,Include
+covid-19_type_a2,ICD-10,J06,Acute upper respiratory infections of multiple and unspecified sites,Primary,Include
+covid-19_type_a2,ICD-10,J18,"Pneumonia, organism unspecified",Primary,Include
+covid-19_type_a2,ICD-10,J22,,Primary,Include
+covid-19_type_a2,ICD-10,J40,,Primary,Include
+covid-19_type_a2,ICD-10,J80,,Primary,Include
+covid-19_type_a2,ICD-10,J81,,Primary,Include
+covid-19_type_a2,ICD-10,J83,,Primary,Include
+covid-19_type_a2,ICD-10,J90,,Primary,Include
+covid-19_type_a2,ICD-10,J93,Pneumothorax,Primary,Include
+covid-19_type_a2,ICD-10,J96,"Respiratory failure, not elsewhere classified",Primary,Include
+covid-19_type_a2,ICD-10,J98,Other respiratory disorders,Primary,Include
+covid-19_type_a2,ICD-10,K297,"Gastritis, unspecified",Primary,Include
+covid-19_type_a2,ICD-10,K529,"Noninfective gastroenteritis and colitis, unspecified",Primary,Include
+covid-19_type_a2,ICD-10,M255,Pain in joint,Primary,Include
+covid-19_type_a2,ICD-10,M791,Myalgia,Primary,Include
+covid-19_type_a2,ICD-10,M796,Pain in limb,Primary,Include
+covid-19_type_a2,ICD-10,N179,"Acute renal failure, unspecified",Primary,Include
+covid-19_type_a2,ICD-10,P928,Other feeding problems of newborn,Primary,Include
+covid-19_type_a2,ICD-10,P25,Interstitial emphysema and related conditions originating in the perinatal period,Primary,Include
+covid-19_type_a2,ICD-10,P92,Feeding problems of newborn,Primary,Include
+covid-19_type_a2,ICD-10,R0,,Primary,Include
+covid-19_type_a2,ICD-10,R10,Abdominal and pelvic pain,Primary,Include
+covid-19_type_a2,ICD-10,R11,,Primary,Include
+covid-19_type_a2,ICD-10,R13,,Primary,Include
+covid-19_type_a2,ICD-10,R17,,Primary,Include
+covid-19_type_a2,ICD-10,R21,,Primary,Include
+covid-19_type_a2,ICD-10,R25,Abnormal involuntary movements,Primary,Include
+covid-19_type_a2,ICD-10,R26,Abnormalities of gait and mobility,Primary,Include
+covid-19_type_a2,ICD-10,R27,Other lack of coordination,Primary,Include
+covid-19_type_a2,ICD-10,R29,Other symptoms and signs involving the nervous and musculoskeletal systems,Primary,Include
+covid-19_type_a2,ICD-10,R34,,Primary,Include
+covid-19_type_a2,ICD-10,R40,"Somnolence, stupor and coma",Primary,Include
+covid-19_type_a2,ICD-10,R41,Other symptoms and signs involving cognitive functions and awareness,Primary,Include
+covid-19_type_a2,ICD-10,R42,,Primary,Include
+covid-19_type_a2,ICD-10,R43,Disturbances of smell and taste,Primary,Include
+covid-19_type_a2,ICD-10,R44,Other symptoms and signs involving general sensations and perceptions,Primary,Include
+covid-19_type_a2,ICD-10,R47,"Speech disturbances, not elsewhere classified",Primary,Include
+covid-19_type_a2,ICD-10,R5,,Primary,Include
+covid-19_type_a2,ICD-10,R6,,Primary,Include
+covid-19_type_a2,ICD-10,R768,Other specified abnormal immunological findings in serum,Primary,Include
+covid-19_type_a2,ICD-10,R845,Abnormal findings in specimens from respiratory organs and thorax,Primary,Include
+covid-19_type_a2,ICD-10,R89,"Abnormal findings in specimens from other organs, systems and tissues",Primary,Include
+covid-19_type_a2,ICD-10,R90,Abnormal findings on diagnostic imaging of central nervous system,Primary,Include
+covid-19_type_a2,ICD-10,R93,Abnormal findings on diagnostic imaging of other body structures,Primary,Include
+covid-19_type_a2,ICD-10,R94,Abnormal results of function studies,Primary,Include
+covid-19_type_a2,ICD-10,U049,"Severe acute respiratory syndrome [SARS], unspecified",Primary,Include
+covid-19_type_a2,ICD-10,U070,Emergency use of U07.0,Primary,Include

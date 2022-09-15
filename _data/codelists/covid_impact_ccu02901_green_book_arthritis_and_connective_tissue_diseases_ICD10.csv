@@ -1,0 +1,9 @@
+Phenotype,Terminology,Code,Description,Filter,Lookback
+green_book_arthritis_and_connective_tissue_diseases,ICD-10,M05,Seropositive rheumatoid arthritis,Include,
+green_book_arthritis_and_connective_tissue_diseases,ICD-10,M06,Other rheumatoid arthritis,Include,
+green_book_arthritis_and_connective_tissue_diseases,ICD-10,M07,Psoriatic and enteropathic arthropathies,Include,
+green_book_arthritis_and_connective_tissue_diseases,ICD-10,M08,Juvenile arthritis,Include,
+green_book_arthritis_and_connective_tissue_diseases,ICD-10,M09,Juvenile arthritis in diseases classified elsewhere,Include,
+green_book_arthritis_and_connective_tissue_diseases,ICD-10,M3,,Include,
+green_book_arthritis_and_connective_tissue_diseases,ICD-10,M303,Mucocutaneous lymph node syndrome [Kawasaki],Filter,
+green_book_arthritis_and_connective_tissue_diseases,ICD-10,M357,Hypermobility syndrome,Filter,

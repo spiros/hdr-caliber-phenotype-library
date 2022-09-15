@@ -1,0 +1,64 @@
+Phenotype,Terminology,Code,Description,Position,Filter
+covid-19_type_b1,ICD-10,A40,Streptococcal sepsis,Primary,Include
+covid-19_type_b1,ICD-10,A41,Other sepsis,Primary,Include
+covid-19_type_b1,ICD-10,A483,Toxic shock syndrome,Primary,Include
+covid-19_type_b1,ICD-10,A49,Bacterial infection of unspecified site,Primary,Include
+covid-19_type_b1,ICD-10,A818,Other atypical virus infections of central nervous system,Primary,Include
+covid-19_type_b1,ICD-10,A870,Enteroviral meningitis,Primary,Include
+covid-19_type_b1,ICD-10,A878,Other viral meningitis,Primary,Include
+covid-19_type_b1,ICD-10,A89,,Primary,Include
+covid-19_type_b1,ICD-10,A858,Other specified viral encephalitis,Primary,Include
+covid-19_type_b1,ICD-10,A86,,Primary,Include
+covid-19_type_b1,ICD-10,A879,"Viral meningitis, unspecified",Primary,Include
+covid-19_type_b1,ICD-10,B09,,Primary,Include
+covid-19_type_b1,ICD-10,B34,Viral infection of unspecified site,Primary,Include
+covid-19_type_b1,ICD-10,B95,Streptococcus and staphylococcus as the cause of diseases classified to other chapters,Primary,Include
+covid-19_type_b1,ICD-10,B96,Other specified bacterial agents as the cause of diseases classified to other chapters,Primary,Include
+covid-19_type_b1,ICD-10,B97,Viral agents as the cause of diseases classified to other chapters,Primary,Include
+covid-19_type_b1,ICD-10,E10,Type 1 diabetes mellitus,Primary,Include
+covid-19_type_b1,ICD-10,E11,Type 2 diabetes mellitus,Primary,Include
+covid-19_type_b1,ICD-10,E14,Unspecified diabetes mellitus,Primary,Include
+covid-19_type_b1,ICD-10,E16,Other disorders of pancreatic internal secretion,Primary,Include
+covid-19_type_b1,ICD-10,G4,,Primary,Include
+covid-19_type_b1,ICD-10,J02,Acute pharyngitis,Primary,Include
+covid-19_type_b1,ICD-10,J03,Acute tonsillitis,Primary,Include
+covid-19_type_b1,ICD-10,J09,,Primary,Include
+covid-19_type_b1,ICD-10,J10,Influenza due to identified seasonal influenza virus,Primary,Include
+covid-19_type_b1,ICD-10,J11,"Influenza, virus not identified",Primary,Include
+covid-19_type_b1,ICD-10,J12,"Viral pneumonia, not elsewhere classified",Primary,Include
+covid-19_type_b1,ICD-10,J13,,Primary,Include
+covid-19_type_b1,ICD-10,J14,,Primary,Include
+covid-19_type_b1,ICD-10,J15,"Bacterial pneumonia, not elsewhere classified",Primary,Include
+covid-19_type_b1,ICD-10,J16,"Pneumonia due to other infectious organisms, not elsewhere classified",Primary,Include
+covid-19_type_b1,ICD-10,J17,Pneumonia in diseases classified elsewhere,Primary,Include
+covid-19_type_b1,ICD-10,J20,Acute bronchitis,Primary,Include
+covid-19_type_b1,ICD-10,J21,Acute bronchiolitis,Primary,Include
+covid-19_type_b1,ICD-10,J3,,Primary,Include
+covid-19_type_b1,ICD-10,J85,Abscess of lung and mediastinum,Primary,Include
+covid-19_type_b1,ICD-10,J86,Pyothorax,Primary,Include
+covid-19_type_b1,ICD-10,K859,"Acute pancreatitis, unspecified",Primary,Include
+covid-19_type_b1,ICD-10,P22,Respiratory distress of newborn,Primary,Include
+covid-19_type_b1,ICD-10,P23,Congenital pneumonia,Primary,Include
+covid-19_type_b1,ICD-10,P24,Neonatal aspiration syndromes,Primary,Include
+covid-19_type_b1,ICD-10,P26,Pulmonary haemorrhage originating in the perinatal period,Primary,Include
+covid-19_type_b1,ICD-10,P27,Chronic respiratory disease originating in the perinatal period,Primary,Include
+covid-19_type_b1,ICD-10,P28,Other respiratory conditions originating in the perinatal period,Primary,Include
+covid-19_type_b1,ICD-10,P29,Cardiovascular disorders originating in the perinatal period,Primary,Include
+covid-19_type_b1,ICD-10,P3,,Primary,Include
+covid-19_type_b1,ICD-10,P74,Other transitory neonatal electrolyte and metabolic disturbances,Primary,Include
+covid-19_type_b1,ICD-10,R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,Primary,Include
+covid-19_type_b1,ICD-10,R71,,Primary,Include
+covid-19_type_b1,ICD-10,R72,,Primary,Include
+covid-19_type_b1,ICD-10,R73,Elevated blood glucose level,Primary,Include
+covid-19_type_b1,ICD-10,R74,Abnormal serum enzyme levels,Primary,Include
+covid-19_type_b1,ICD-10,R79,Other abnormal findings of blood chemistry,Primary,Include
+covid-19_type_b1,ICD-10,Z038,Observation for other suspected diseases and conditions,Primary,Include
+covid-19_type_b1,ICD-10,Z039,"Observation for suspected disease or condition, unspecified",Primary,Include
+covid-19_type_b1,ICD-10,U075,Emergency use of U07.5,Primary,Include
+covid-19_type_b1,ICD-10,U109,,Primary,Include
+covid-19_type_b1,ICD-10,M303,Mucocutaneous lymph node syndrome [Kawasaki],Primary,Include
+covid-19_type_b1,ICD-10,R65,Systemic Inflammatory Response Syndrome [SIRS],Primary,Include
+covid-19_type_b1,ICD-10,U075,Emergency use of U07.5,Non-Primary,Include
+covid-19_type_b1,ICD-10,U109,,Non-Primary,Include
+covid-19_type_b1,ICD-10,M303,Mucocutaneous lymph node syndrome [Kawasaki],Non-Primary,Include
+covid-19_type_b1,ICD-10,R65,Systemic Inflammatory Response Syndrome [SIRS],Non-Primary,Include

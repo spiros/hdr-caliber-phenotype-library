@@ -1,0 +1,13 @@
+Phenotype,Terminology,Code,Description,Filter,Lookback
+uhc_endocrine_conditions,ICD-10,E0,,Include,
+uhc_endocrine_conditions,ICD-10,E1,,Include,
+uhc_endocrine_conditions,ICD-10,E2,,Include,
+uhc_endocrine_conditions,ICD-10,E3,,Include,
+uhc_endocrine_conditions,ICD-10,E4,,Include,
+uhc_endocrine_conditions,ICD-10,E7,,Include,
+uhc_endocrine_conditions,ICD-10,E8,,Include,
+uhc_endocrine_conditions,ICD-10,E231,Drug-induced hypopituitarism,Filter,
+uhc_endocrine_conditions,ICD-10,E232,Diabetes insipidus,Filter,
+uhc_endocrine_conditions,ICD-10,E86,,Filter,
+uhc_endocrine_conditions,ICD-10,E87,"Other disorders of fluid, electrolyte and acid-base balance",Filter,
+uhc_endocrine_conditions,ICD-10,E162,"Hypoglycaemia, unspecified",Filter,
